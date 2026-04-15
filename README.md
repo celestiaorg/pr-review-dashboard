@@ -11,6 +11,7 @@ A live dashboard that shows each protocol team member's pending PR review queue,
 - Toggle buttons to show/hide members (e.g., when they're on another project)
 - Auto-refreshes every 5 minutes
 - Only shows open, non-draft PRs in [protocol repos](https://github.com/celestiaorg/protocol?tab=readme-ov-file#repos)
+- **Reviews completed in 2026** section at the top of the page with per-teammate bar charts for this week, this month, and YTD
 
 ## Prerequisites
 
@@ -64,6 +65,8 @@ The dashboard is deployed to GitHub Pages via [`.github/workflows/deploy.yml`](.
 - Uploads `public/` (including the freshly-generated `data.json`) as a Pages artifact and deploys it.
 
 To trigger a manual redeploy: `gh workflow run deploy.yml`.
+
+A second workflow ([`.github/workflows/fetch-review-counts.yml`](./.github/workflows/fetch-review-counts.yml)) runs daily at 00:00 UTC to regenerate `public/review-counts.json` (committed to the repo). The regeneration commit triggers the deploy workflow's `push` trigger so the updated file goes live without further coordination.
 
 ## Testing
 
