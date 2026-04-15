@@ -201,3 +201,90 @@ footer {
 .dot.red {
   background: #ef4444;
 }
+
+.page-section {
+  margin-bottom: 32px;
+}
+
+.section-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: baseline;
+  margin-bottom: 16px;
+  padding-bottom: 8px;
+  border-bottom: 1px solid #2a2a3e;
+}
+
+.section-header h2 {
+  font-size: 1.1rem;
+  font-weight: 600;
+  color: #ffffff;
+}
+
+.freshness {
+  font-size: 0.75rem;
+  color: #888;
+}
+
+.bar-charts {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+  gap: 16px;
+}
+
+.bar-chart {
+  background: #1a1a2e;
+  border-radius: 12px;
+  padding: 16px;
+  border: 1px solid #2a2a3e;
+}
+
+.bar-chart-title {
+  font-size: 0.95rem;
+  font-weight: 600;
+  color: #ffffff;
+  margin-bottom: 12px;
+}
+
+.bar-list {
+  list-style: none;
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+}
+
+.bar-row {
+  display: grid;
+  grid-template-columns: 80px 1fr 32px;
+  align-items: center;
+  gap: 8px;
+  font-size: 0.85rem;
+}
+
+.bar-name {
+  color: #e0e0e0;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.bar-track {
+  background: #0f0f1a;
+  border-radius: 4px;
+  height: 16px;
+  overflow: hidden;
+}
+
+.bar-fill {
+  background: #7c6ff7;
+  height: 100%;
+  border-radius: 4px;
+  transition: width 0.2s ease;
+}
+
+.bar-count {
+  color: #a5b4fc;
+  text-align: right;
+  font-variant-numeric: tabular-nums;
+  font-weight: 600;
+}
