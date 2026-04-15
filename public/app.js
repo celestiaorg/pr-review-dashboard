@@ -1,8 +1,15 @@
 (function () {
   const REFRESH_INTERVAL_MS = 5 * 60 * 1000;
 
+  const MONTH_NAMES = [
+    "January", "February", "March", "April", "May", "June",
+    "July", "August", "September", "October", "November", "December",
+  ];
+
   let teamMembers = [];
   let thresholds = { greenMaxHours: 12, yellowMaxHours: 24 };
+  let lastData = null;
+  let lastReviewCounts = null;
 
   function getVisibility() {
     try {
@@ -73,14 +80,13 @@
       btn.addEventListener("click", () => {
         toggleMember(member);
         renderToggles();
-        renderCards(lastData);
+        if (lastData) renderCards(lastData);
+        if (lastReviewCounts) renderReviewCounts(lastReviewCounts);
       });
 
       container.appendChild(btn);
     }
   }
-
-  let lastData = null;
 
   function renderCards(data) {
     lastData = data;
@@ -104,9 +110,7 @@
       const countSpan = document.createElement("span");
       countSpan.className = "review-count";
       countSpan.textContent =
-        reviews.length === 0
-          ? ""
-          : `${reviews.length} pending`;
+        reviews.length === 0 ? "" : `${reviews.length} pending`;
 
       header.appendChild(nameSpan);
       header.appendChild(countSpan);
@@ -118,7 +122,6 @@
         noReviews.textContent = "No pending reviews";
         card.appendChild(noReviews);
       } else {
-        // Sort by wait time descending (longest wait first)
         const sorted = [...reviews].sort(
           (a, b) => new Date(a.requestedAt) - new Date(b.requestedAt)
         );
@@ -161,13 +164,87 @@
     }
   }
 
-  function updateLastRefreshed(fetchedAt) {
-    const el = document.getElementById("last-refreshed");
-    const time = new Date(fetchedAt).toLocaleTimeString();
-    el.textContent = `Last refreshed: ${time}`;
+  function formatShortDate(iso) {
+    const d = new Date(iso);
+    const month = ["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"][d.getUTCMonth()];
+    return `${month} ${d.getUTCDate()}`;
   }
 
-  async function fetchAndRender() {
+  function renderBarChart(chartId, title, getCount) {
+    const chart = document.getElementById(chartId);
+    chart.querySelector(".bar-chart-title").textContent = title;
+    const list = chart.querySelector(".bar-list");
+    list.innerHTML = "";
+
+    const visibleMembers = teamMembers.filter(isMemberVisible);
+    const rows = visibleMembers.map((m) => ({
+      name: m.name,
+      count: getCount(m.github) || 0,
+    }));
+
+    rows.sort((a, b) => b.count - a.count);
+
+    const max = rows.reduce((m, r) => Math.max(m, r.count), 0);
+
+    for (const row of rows) {
+      const li = document.createElement("li");
+      li.className = "bar-row";
+
+      const name = document.createElement("span");
+      name.className = "bar-name";
+      name.textContent = row.name;
+
+      const track = document.createElement("span");
+      track.className = "bar-track";
+      const fill = document.createElement("span");
+      fill.className = "bar-fill";
+      fill.style.width = max > 0 ? `${(100 * row.count) / max}%` : "0%";
+      track.appendChild(fill);
+
+      const count = document.createElement("span");
+      count.className = "bar-count";
+      count.textContent = String(row.count);
+
+      li.appendChild(name);
+      li.appendChild(track);
+      li.appendChild(count);
+      list.appendChild(li);
+    }
+  }
+
+  function renderReviewCounts(data) {
+    lastReviewCounts = data;
+
+    const counts = data.counts || {};
+    const windows = data.windows || {};
+    const weekLabel = windows.weekStart
+      ? `This Week (${formatShortDate(windows.weekStart)} – today)`
+      : "This Week";
+    const monthLabel = windows.monthStart
+      ? `This Month (${MONTH_NAMES[new Date(windows.monthStart).getUTCMonth()]})`
+      : "This Month";
+    const yearLabel = "2026 YTD";
+
+    renderBarChart("chart-week", weekLabel, (gh) => (counts[gh] && counts[gh].week) || 0);
+    renderBarChart("chart-month", monthLabel, (gh) => (counts[gh] && counts[gh].month) || 0);
+    renderBarChart("chart-year", yearLabel, (gh) => (counts[gh] && counts[gh].year) || 0);
+
+    const freshness = document.getElementById("review-counts-freshness");
+    if (data.computedAt) {
+      const ts = new Date(data.computedAt).toUTCString();
+      freshness.textContent = `Updated daily · last updated ${ts}`;
+    } else {
+      freshness.textContent = "Updated daily";
+    }
+  }
+
+  function updatePendingFreshness(fetchedAt) {
+    const el = document.getElementById("pending-freshness");
+    const time = new Date(fetchedAt).toLocaleTimeString();
+    el.textContent = `Updated every 5 minutes · last refreshed ${time}`;
+  }
+
+  async function fetchAndRenderPending() {
     const loading = document.getElementById("loading");
     const errorEl = document.getElementById("error");
 
@@ -184,7 +261,11 @@
 
       renderToggles();
       renderCards(data);
-      updateLastRefreshed(data.fetchedAt);
+      updatePendingFreshness(data.fetchedAt);
+
+      // If review counts are already loaded, re-render so they use
+      // the authoritative teamMembers list from data.json.
+      if (lastReviewCounts) renderReviewCounts(lastReviewCounts);
     } catch (err) {
       loading.style.display = "none";
       errorEl.style.display = "block";
@@ -192,9 +273,32 @@
     }
   }
 
-  // Initial fetch
-  fetchAndRender();
+  async function fetchAndRenderReviewCounts() {
+    const errorEl = document.getElementById("review-counts-error");
+    try {
+      const response = await fetch("review-counts.json");
+      if (!response.ok) throw new Error(`HTTP ${response.status}`);
+      const data = await response.json();
+      errorEl.style.display = "none";
+      // teamMembers may not be set yet if this resolves before data.json;
+      // renderReviewCounts will be re-invoked from fetchAndRenderPending.
+      if (teamMembers.length > 0) renderReviewCounts(data);
+      else lastReviewCounts = data;
+    } catch (err) {
+      errorEl.style.display = "block";
+      errorEl.textContent = `Failed to load review counts: ${err.message}`;
+    }
+  }
 
-  // Auto-refresh every 5 minutes
-  setInterval(fetchAndRender, REFRESH_INTERVAL_MS);
+  // Initial fetches (run in parallel)
+  fetchAndRenderPending();
+  fetchAndRenderReviewCounts();
+
+  // Auto-refresh pending reviews every 5 minutes.
+  // Review counts are regenerated daily server-side, so we don't poll them
+  // more often than pending reviews — we just re-fetch on the same cadence.
+  setInterval(() => {
+    fetchAndRenderPending();
+    fetchAndRenderReviewCounts();
+  }, REFRESH_INTERVAL_MS);
 })();
