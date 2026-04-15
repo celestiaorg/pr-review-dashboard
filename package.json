@@ -8,6 +8,7 @@
   },
   "scripts": {
     "fetch": "node scripts/fetch-data.js",
+    "fetch-review-counts": "node scripts/fetch-review-counts.js",
     "dev": "serve public",
     "start": "npm run fetch && npm run dev",
     "test": "jest"
