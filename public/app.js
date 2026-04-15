@@ -172,7 +172,7 @@
     const errorEl = document.getElementById("error");
 
     try {
-      const response = await fetch("/api/reviews");
+      const response = await fetch("data.json");
       if (!response.ok) throw new Error(`HTTP ${response.status}`);
 
       const data = await response.json();

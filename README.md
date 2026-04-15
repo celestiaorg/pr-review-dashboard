@@ -2,6 +2,8 @@
 
 A live dashboard that shows each protocol team member's pending PR review queue, with color-coded wait times. Designed to be displayed during team stand-ups.
 
+**Live site:** https://celestiaorg.github.io/pr-review-dashboard/
+
 ## Features
 
 - Card grid showing each team member's pending reviews
@@ -37,11 +39,13 @@ A live dashboard that shows each protocol team member's pending PR review queue,
    echo "GITHUB_TOKEN=ghp_your_token_here" > .env
    ```
 
-3. Start the server:
+3. Fetch data and start the local server:
 
    ```bash
    npm start
    ```
+
+   This runs `npm run fetch` (writes `public/data.json`) then `npm run dev` (serves `public/` at http://localhost:3000).
 
 4. Open http://localhost:3000 in your browser.
 
@@ -51,14 +55,18 @@ Team members, repos, and color thresholds are defined in [`config.js`](./config.
 
 To change the default-hidden members, set `defaultHidden: true` on their entry. Users can override visibility via toggle buttons in the UI (state is persisted in `localStorage`).
 
-To run on a different port:
+## Deployment
 
-```bash
-PORT=8080 npm start
-```
+The dashboard is deployed to GitHub Pages via [`.github/workflows/deploy.yml`](./.github/workflows/deploy.yml):
+
+- Runs every 5 minutes on a cron (plus on every push to `main` and on manual dispatch).
+- Fetches PR data using the default `GITHUB_TOKEN` provided to the Actions runner.
+- Uploads `public/` (including the freshly-generated `data.json`) as a Pages artifact and deploys it.
+
+To trigger a manual redeploy: `gh workflow run deploy.yml`.
 
 ## Testing
 
 ```bash
-npx jest
+npm test
 ```
