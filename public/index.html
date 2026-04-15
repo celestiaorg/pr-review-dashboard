@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>PR Reviews Dashboard</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <h1>PR Reviews Dashboard</h1>
+    <div id="toggles" class="toggles"></div>
+  </header>
+  <main>
+    <div id="loading" class="loading">Loading reviews...</div>
+    <div id="error" class="error" style="display:none;"></div>
+    <div id="card-grid" class="card-grid"></div>
+  </main>
+  <footer>
+    <span id="last-refreshed"></span>
+    <span class="legend">
+      <span class="legend-item"><span class="dot green"></span> &le;12h</span>
+      <span class="legend-item"><span class="dot yellow"></span> 12-24h</span>
+      <span class="legend-item"><span class="dot red"></span> &gt;24h</span>
+    </span>
+  </footer>
+  <script src="app.js"></script>
+</body>
+</html>
