@@ -1,59 +1,70 @@
-async function githubFetch(url, token) {
-  const response = await fetch(url, {
+const GITHUB_GRAPHQL_URL = "https://api.github.com/graphql";
+
+const PENDING_REVIEWS_QUERY = `
+  query($owner: String!, $name: String!) {
+    repository(owner: $owner, name: $name) {
+      pullRequests(states: OPEN, first: 100) {
+        nodes {
+          number
+          title
+          url
+          isDraft
+          author { login }
+          reviewRequests(first: 20) {
+            nodes {
+              requestedReviewer {
+                ... on User { login }
+              }
+            }
+          }
+          timelineItems(itemTypes: [REVIEW_REQUESTED_EVENT], first: 100) {
+            nodes {
+              ... on ReviewRequestedEvent {
+                createdAt
+                requestedReviewer {
+                  ... on User { login }
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+`;
+
+async function fetchRepoPRs(org, repo, token) {
+  const response = await fetch(GITHUB_GRAPHQL_URL, {
+    method: "POST",
     headers: {
-      Authorization: `token ${token}`,
-      Accept: "application/vnd.github.v3+json",
+      Authorization: `Bearer ${token}`,
+      "Content-Type": "application/json",
     },
+    body: JSON.stringify({
+      query: PENDING_REVIEWS_QUERY,
+      variables: { owner: org, name: repo },
+    }),
   });
   if (!response.ok) {
-    throw new Error(`GitHub API error: ${response.status} for ${url}`);
+    throw new Error(`GitHub GraphQL error: ${response.status}`);
   }
-  return response.json();
+  const payload = await response.json();
+  if (payload.errors) {
+    throw new Error(
+      `GitHub GraphQL error: ${JSON.stringify(payload.errors)}`
+    );
+  }
+  return payload.data.repository.pullRequests.nodes;
 }
 
-async function fetchOpenPRs(org, repo, teamHandles, token) {
-  const prs = await githubFetch(
-    `https://api.github.com/repos/${org}/${repo}/pulls?state=open&per_page=100`,
-    token
-  );
-
-  return prs
-    .filter((pr) => !pr.draft)
-    .filter((pr) => {
-      const reviewers = pr.requested_reviewers.map((r) => r.login);
-      return reviewers.some((r) => teamHandles.has(r));
-    })
-    .map((pr) => ({
-      number: pr.number,
-      title: pr.title,
-      url: pr.html_url,
-      repo,
-      author: pr.user.login,
-      requestedTeamReviewers: pr.requested_reviewers
-        .map((r) => r.login)
-        .filter((r) => teamHandles.has(r)),
-    }));
-}
-
-async function getReviewRequestedTime(org, repo, prNumber, reviewer, token) {
-  const events = await githubFetch(
-    `https://api.github.com/repos/${org}/${repo}/issues/${prNumber}/timeline?per_page=100`,
-    token
-  );
-
-  const reviewRequestEvents = events.filter(
-    (e) =>
-      e.event === "review_requested" &&
-      e.requested_reviewer &&
-      e.requested_reviewer.login === reviewer
-  );
-
-  if (reviewRequestEvents.length === 0) {
-    return null;
-  }
-
-  // Return the most recent review_requested event
-  return reviewRequestEvents[reviewRequestEvents.length - 1].created_at;
+function mostRecentRequestedAt(timelineNodes, reviewer) {
+  const times = timelineNodes
+    .filter(
+      (n) => n.requestedReviewer && n.requestedReviewer.login === reviewer
+    )
+    .map((n) => n.createdAt)
+    .sort();
+  return times.length ? times[times.length - 1] : null;
 }
 
 async function getPendingReviews(config, token) {
@@ -67,44 +78,40 @@ async function getPendingReviews(config, token) {
 
   const repoResults = await Promise.all(
     repos.map((repo) =>
-      fetchOpenPRs(org, repo, teamHandles, token).catch((err) => {
-        console.warn(`Failed to fetch PRs for ${repo}: ${err.message}`);
-        return [];
-      })
+      fetchRepoPRs(org, repo, token)
+        .then((nodes) => ({ repo, nodes }))
+        .catch((err) => {
+          console.warn(
+            `Failed to fetch reviews for ${repo}: ${err.message}`
+          );
+          return { repo, nodes: [] };
+        })
     )
   );
 
-  const allPRs = repoResults.flat();
-
-  const reviewPromises = [];
-  for (const pr of allPRs) {
-    for (const reviewer of pr.requestedTeamReviewers) {
-      reviewPromises.push(
-        getReviewRequestedTime(org, pr.repo, pr.number, reviewer, token)
-          .then((requestedAt) => ({
+  for (const { repo, nodes } of repoResults) {
+    for (const pr of nodes) {
+      if (pr.isDraft) continue;
+      const requestedReviewers = (pr.reviewRequests.nodes || [])
+        .map((r) => r.requestedReviewer && r.requestedReviewer.login)
+        .filter((login) => login && teamHandles.has(login));
+      for (const reviewer of requestedReviewers) {
+        const requestedAt = mostRecentRequestedAt(
+          pr.timelineItems.nodes || [],
+          reviewer
+        );
+        if (requestedAt && result[reviewer]) {
+          result[reviewer].push({
             number: pr.number,
             title: pr.title,
             url: pr.url,
-            repo: pr.repo,
-            author: pr.author,
+            repo,
+            author: pr.author ? pr.author.login : null,
             reviewer,
             requestedAt,
-          }))
-          .catch((err) => {
-            console.warn(
-              `Failed to get timeline for ${pr.repo}#${pr.number}: ${err.message}`
-            );
-            return null;
-          })
-      );
-    }
-  }
-
-  const reviews = (await Promise.all(reviewPromises)).filter(Boolean);
-
-  for (const review of reviews) {
-    if (review.requestedAt && result[review.reviewer]) {
-      result[review.reviewer].push(review);
+          });
+        }
+      }
     }
   }
 
@@ -112,7 +119,5 @@ async function getPendingReviews(config, token) {
 }
 
 module.exports = {
-  fetchOpenPRs,
-  getReviewRequestedTime,
   getPendingReviews,
 };
