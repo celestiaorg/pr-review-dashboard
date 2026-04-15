@@ -37,7 +37,7 @@ async function fetchOpenPRs(org, repo, teamHandles, token) {
 
 async function getReviewRequestedTime(org, repo, prNumber, reviewer, token) {
   const events = await githubFetch(
-    `https://api.github.com/repos/${org}/${repo}/issues/${prNumber}/timeline`,
+    `https://api.github.com/repos/${org}/${repo}/issues/${prNumber}/timeline?per_page=100`,
     token
   );
 
@@ -102,7 +102,6 @@ async function getPendingReviews(config, token) {
 }
 
 module.exports = {
-  githubFetch,
   fetchOpenPRs,
   getReviewRequestedTime,
   getPendingReviews,
