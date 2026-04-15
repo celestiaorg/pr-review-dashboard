@@ -208,3 +208,122 @@ describe("getReviewCounts", () => {
     expect(result.rootulp).toEqual({ week: 0, month: 0, year: 0 });
   });
 });
+
+describe("getReviewCounts — pagination and failure tolerance", () => {
+  const NOW = new Date("2026-04-15T14:23:00Z");
+
+  test("paginates when hasNextPage=true", async () => {
+    fetch
+      .mockResolvedValueOnce(
+        searchOk(
+          [
+            {
+              number: 1,
+              repository: { nameWithOwner: "celestiaorg/celestia-app" },
+              reviews: {
+                nodes: [{ submittedAt: "2026-04-13T09:00:00Z", state: "APPROVED" }],
+              },
+            },
+          ],
+          { hasNextPage: true, endCursor: "cursor-1" }
+        )
+      )
+      .mockResolvedValueOnce(
+        searchOk([
+          {
+            number: 2,
+            repository: { nameWithOwner: "celestiaorg/celestia-app" },
+            reviews: {
+              nodes: [{ submittedAt: "2026-04-05T09:00:00Z", state: "APPROVED" }],
+            },
+          },
+        ])
+      );
+
+    const config = {
+      org: "celestiaorg",
+      repos: ["celestia-app"],
+      teamMembers: [{ name: "Rootul", github: "rootulp", defaultHidden: false }],
+    };
+
+    const result = await getReviewCounts(config, "tok", NOW);
+    expect(fetch).toHaveBeenCalledTimes(2);
+    const secondCallBody = JSON.parse(fetch.mock.calls[1][1].body);
+    expect(secondCallBody.variables.after).toBe("cursor-1");
+    expect(result.rootulp).toEqual({ week: 1, month: 2, year: 2 });
+  });
+
+  test("per-repo failures are logged and other repos continue", async () => {
+    fetch
+      .mockResolvedValueOnce({
+        ok: false,
+        status: 500,
+        json: async () => ({ message: "server error" }),
+      })
+      .mockResolvedValueOnce(
+        searchOk([
+          {
+            number: 2,
+            repository: { nameWithOwner: "celestiaorg/celestia-core" },
+            reviews: {
+              nodes: [{ submittedAt: "2026-04-13T09:00:00Z", state: "APPROVED" }],
+            },
+          },
+        ])
+      );
+
+    const config = {
+      org: "celestiaorg",
+      repos: ["celestia-app", "celestia-core"],
+      teamMembers: [{ name: "Rootul", github: "rootulp", defaultHidden: false }],
+    };
+
+    const warnSpy = jest.spyOn(console, "warn").mockImplementation(() => {});
+    try {
+      const result = await getReviewCounts(config, "tok", NOW);
+      expect(result.rootulp).toEqual({ week: 1, month: 1, year: 1 });
+      expect(warnSpy).toHaveBeenCalled();
+    } finally {
+      warnSpy.mockRestore();
+    }
+  });
+
+  test("warns and stops when pagination cap is reached", async () => {
+    // Simulate 11 pages where every page reports hasNextPage=true.
+    for (let i = 0; i < 11; i++) {
+      fetch.mockResolvedValueOnce(
+        searchOk(
+          [
+            {
+              number: i + 1,
+              repository: { nameWithOwner: "celestiaorg/celestia-app" },
+              reviews: {
+                nodes: [{ submittedAt: "2026-04-13T09:00:00Z", state: "APPROVED" }],
+              },
+            },
+          ],
+          { hasNextPage: true, endCursor: `c-${i}` }
+        )
+      );
+    }
+
+    const config = {
+      org: "celestiaorg",
+      repos: ["celestia-app"],
+      teamMembers: [{ name: "Rootul", github: "rootulp", defaultHidden: false }],
+    };
+
+    const warnSpy = jest.spyOn(console, "warn").mockImplementation(() => {});
+    try {
+      const result = await getReviewCounts(config, "tok", NOW);
+      // Exactly 10 pages fetched, 10 PRs counted.
+      expect(fetch).toHaveBeenCalledTimes(10);
+      expect(result.rootulp.year).toBe(10);
+      expect(warnSpy).toHaveBeenCalledWith(
+        expect.stringContaining("pagination cap")
+      );
+    } finally {
+      warnSpy.mockRestore();
+    }
+  });
+});
