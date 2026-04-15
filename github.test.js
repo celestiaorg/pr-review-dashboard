@@ -1,6 +1,5 @@
-const { fetchOpenPRs, getPendingReviews } = require("./github");
+const { getPendingReviews } = require("./github");
 
-// Mock global fetch
 global.fetch = jest.fn();
 
 const MOCK_TOKEN = "ghp_test123";
@@ -9,136 +8,39 @@ beforeEach(() => {
   fetch.mockClear();
 });
 
-describe("fetchOpenPRs", () => {
-  test("returns non-draft PRs with requested reviewers", async () => {
-    fetch.mockResolvedValueOnce({
-      ok: true,
-      json: async () => [
+function graphqlOk(nodes) {
+  return {
+    ok: true,
+    json: async () => ({
+      data: { repository: { pullRequests: { nodes } } },
+    }),
+  };
+}
+
+describe("getPendingReviews (GraphQL)", () => {
+  test("issues one POST per repo against the GraphQL endpoint with Bearer auth", async () => {
+    fetch.mockResolvedValueOnce(
+      graphqlOk([
         {
-          number: 1,
-          title: "Fix sync",
-          html_url: "https://github.com/celestiaorg/celestia-app/pull/1",
-          draft: false,
-          user: { login: "cmwaters" },
-          requested_reviewers: [{ login: "rootulp" }],
-        },
-        {
-          number: 2,
-          title: "Draft PR",
-          html_url: "https://github.com/celestiaorg/celestia-app/pull/2",
-          draft: true,
-          user: { login: "cmwaters" },
-          requested_reviewers: [{ login: "rootulp" }],
-        },
-        {
-          number: 3,
-          title: "No team reviewers",
-          html_url: "https://github.com/celestiaorg/celestia-app/pull/3",
-          draft: false,
-          user: { login: "outsider" },
-          requested_reviewers: [{ login: "some-external-dev" }],
-        },
-      ],
-    });
-
-    const teamHandles = new Set(["rootulp", "ninabarbakadze"]);
-    const result = await fetchOpenPRs(
-      "celestiaorg",
-      "celestia-app",
-      teamHandles,
-      MOCK_TOKEN
-    );
-
-    expect(result).toHaveLength(1);
-    expect(result[0].number).toBe(1);
-    expect(result[0].requestedTeamReviewers).toEqual(["rootulp"]);
-  });
-});
-
-const { getReviewRequestedTime } = require("./github");
-
-describe("getReviewRequestedTime", () => {
-  test("returns the most recent review_requested event time for a reviewer", async () => {
-    fetch.mockResolvedValueOnce({
-      ok: true,
-      json: async () => [
-        {
-          event: "review_requested",
-          requested_reviewer: { login: "rootulp" },
-          created_at: "2026-04-10T10:00:00Z",
-        },
-        {
-          event: "reviewed",
-          user: { login: "rootulp" },
-          submitted_at: "2026-04-10T14:00:00Z",
-        },
-        {
-          event: "review_requested",
-          requested_reviewer: { login: "rootulp" },
-          created_at: "2026-04-11T09:00:00Z",
-        },
-      ],
-    });
-
-    const result = await getReviewRequestedTime(
-      "celestiaorg",
-      "celestia-app",
-      42,
-      "rootulp",
-      MOCK_TOKEN
-    );
-
-    expect(result).toBe("2026-04-11T09:00:00Z");
-  });
-
-  test("returns null when no review_requested event found", async () => {
-    fetch.mockResolvedValueOnce({
-      ok: true,
-      json: async () => [
-        { event: "labeled", created_at: "2026-04-10T10:00:00Z" },
-      ],
-    });
-
-    const result = await getReviewRequestedTime(
-      "celestiaorg",
-      "celestia-app",
-      42,
-      "rootulp",
-      MOCK_TOKEN
-    );
-
-    expect(result).toBeNull();
-  });
-});
-
-describe("getPendingReviews", () => {
-  test("returns pending reviews grouped by reviewer", async () => {
-    fetch
-      // celestia-app pulls
-      .mockResolvedValueOnce({
-        ok: true,
-        json: async () => [
-          {
-            number: 10,
-            title: "Add feature",
-            html_url: "https://github.com/celestiaorg/celestia-app/pull/10",
-            draft: false,
-            user: { login: "cmwaters" },
-            requested_reviewers: [{ login: "rootulp" }],
+          number: 10,
+          title: "Add feature",
+          url: "https://github.com/celestiaorg/celestia-app/pull/10",
+          isDraft: false,
+          author: { login: "cmwaters" },
+          reviewRequests: {
+            nodes: [{ requestedReviewer: { login: "rootulp" } }],
           },
-        ],
-      })
-      // timeline for PR 10
-      .mockResolvedValueOnce({
-        ok: true,
-        json: async () => [
-          {
-            event: "review_requested",
-            requested_reviewer: { login: "rootulp" },
-            created_at: "2026-04-13T08:00:00Z",
+          timelineItems: {
+            nodes: [
+              {
+                createdAt: "2026-04-13T08:00:00Z",
+                requestedReviewer: { login: "rootulp" },
+              },
+            ],
           },
-        ],
-      });
+        },
+      ])
+    );
 
     const config = {
       org: "celestiaorg",
@@ -151,6 +53,18 @@ describe("getPendingReviews", () => {
 
     const result = await getPendingReviews(config, MOCK_TOKEN);
 
+    expect(fetch).toHaveBeenCalledTimes(1);
+    const [url, opts] = fetch.mock.calls[0];
+    expect(url).toBe("https://api.github.com/graphql");
+    expect(opts.method).toBe("POST");
+    expect(opts.headers.Authorization).toBe(`Bearer ${MOCK_TOKEN}`);
+    const body = JSON.parse(opts.body);
+    expect(body.variables).toEqual({
+      owner: "celestiaorg",
+      name: "celestia-app",
+    });
+    expect(typeof body.query).toBe("string");
+
     expect(result.rootulp).toHaveLength(1);
     expect(result.rootulp[0]).toEqual({
       number: 10,
@@ -162,5 +76,152 @@ describe("getPendingReviews", () => {
       requestedAt: "2026-04-13T08:00:00Z",
     });
     expect(result.ninabarbakadze).toEqual([]);
+  });
+
+  test("filters out draft PRs", async () => {
+    fetch.mockResolvedValueOnce(
+      graphqlOk([
+        {
+          number: 1,
+          title: "Draft work",
+          url: "https://github.com/celestiaorg/celestia-app/pull/1",
+          isDraft: true,
+          author: { login: "cmwaters" },
+          reviewRequests: {
+            nodes: [{ requestedReviewer: { login: "rootulp" } }],
+          },
+          timelineItems: {
+            nodes: [
+              {
+                createdAt: "2026-04-13T08:00:00Z",
+                requestedReviewer: { login: "rootulp" },
+              },
+            ],
+          },
+        },
+      ])
+    );
+
+    const config = {
+      org: "celestiaorg",
+      repos: ["celestia-app"],
+      teamMembers: [{ name: "Rootul", github: "rootulp", defaultHidden: false }],
+    };
+
+    const result = await getPendingReviews(config, MOCK_TOKEN);
+    expect(result.rootulp).toEqual([]);
+  });
+
+  test("ignores requested reviewers not on the team", async () => {
+    fetch.mockResolvedValueOnce(
+      graphqlOk([
+        {
+          number: 1,
+          title: "External reviewer",
+          url: "https://github.com/celestiaorg/celestia-app/pull/1",
+          isDraft: false,
+          author: { login: "cmwaters" },
+          reviewRequests: {
+            nodes: [{ requestedReviewer: { login: "external-dev" } }],
+          },
+          timelineItems: { nodes: [] },
+        },
+      ])
+    );
+
+    const config = {
+      org: "celestiaorg",
+      repos: ["celestia-app"],
+      teamMembers: [{ name: "Rootul", github: "rootulp", defaultHidden: false }],
+    };
+
+    const result = await getPendingReviews(config, MOCK_TOKEN);
+    expect(result.rootulp).toEqual([]);
+  });
+
+  test("picks the most recent review_requested timestamp when re-requested", async () => {
+    fetch.mockResolvedValueOnce(
+      graphqlOk([
+        {
+          number: 1,
+          title: "Re-requested",
+          url: "https://github.com/celestiaorg/celestia-app/pull/1",
+          isDraft: false,
+          author: { login: "cmwaters" },
+          reviewRequests: {
+            nodes: [{ requestedReviewer: { login: "rootulp" } }],
+          },
+          timelineItems: {
+            nodes: [
+              {
+                createdAt: "2026-04-10T10:00:00Z",
+                requestedReviewer: { login: "rootulp" },
+              },
+              {
+                createdAt: "2026-04-11T09:00:00Z",
+                requestedReviewer: { login: "rootulp" },
+              },
+            ],
+          },
+        },
+      ])
+    );
+
+    const config = {
+      org: "celestiaorg",
+      repos: ["celestia-app"],
+      teamMembers: [{ name: "Rootul", github: "rootulp", defaultHidden: false }],
+    };
+
+    const result = await getPendingReviews(config, MOCK_TOKEN);
+    expect(result.rootulp).toHaveLength(1);
+    expect(result.rootulp[0].requestedAt).toBe("2026-04-11T09:00:00Z");
+  });
+
+  test("tolerates per-repo failures and still returns successful repos", async () => {
+    fetch
+      .mockResolvedValueOnce({
+        ok: false,
+        status: 500,
+        json: async () => ({ message: "server error" }),
+      })
+      .mockResolvedValueOnce(
+        graphqlOk([
+          {
+            number: 2,
+            title: "OK",
+            url: "https://github.com/celestiaorg/celestia-core/pull/2",
+            isDraft: false,
+            author: { login: "cmwaters" },
+            reviewRequests: {
+              nodes: [{ requestedReviewer: { login: "rootulp" } }],
+            },
+            timelineItems: {
+              nodes: [
+                {
+                  createdAt: "2026-04-13T08:00:00Z",
+                  requestedReviewer: { login: "rootulp" },
+                },
+              ],
+            },
+          },
+        ])
+      );
+
+    const config = {
+      org: "celestiaorg",
+      repos: ["celestia-app", "celestia-core"],
+      teamMembers: [{ name: "Rootul", github: "rootulp", defaultHidden: false }],
+    };
+
+    const warnSpy = jest.spyOn(console, "warn").mockImplementation(() => {});
+    try {
+      const result = await getPendingReviews(config, MOCK_TOKEN);
+      expect(result.rootulp).toHaveLength(1);
+      expect(result.rootulp[0].number).toBe(2);
+      expect(result.rootulp[0].repo).toBe("celestia-core");
+    } finally {
+      warnSpy.mockRestore();
+    }
   });
 });
