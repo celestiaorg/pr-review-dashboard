@@ -66,7 +66,12 @@ async function getPendingReviews(config, token) {
   }
 
   const repoResults = await Promise.all(
-    repos.map((repo) => fetchOpenPRs(org, repo, teamHandles, token))
+    repos.map((repo) =>
+      fetchOpenPRs(org, repo, teamHandles, token).catch((err) => {
+        console.warn(`Failed to fetch PRs for ${repo}: ${err.message}`);
+        return [];
+      })
+    )
   );
 
   const allPRs = repoResults.flat();
@@ -75,8 +80,8 @@ async function getPendingReviews(config, token) {
   for (const pr of allPRs) {
     for (const reviewer of pr.requestedTeamReviewers) {
       reviewPromises.push(
-        getReviewRequestedTime(org, pr.repo, pr.number, reviewer, token).then(
-          (requestedAt) => ({
+        getReviewRequestedTime(org, pr.repo, pr.number, reviewer, token)
+          .then((requestedAt) => ({
             number: pr.number,
             title: pr.title,
             url: pr.url,
@@ -84,13 +89,18 @@ async function getPendingReviews(config, token) {
             author: pr.author,
             reviewer,
             requestedAt,
+          }))
+          .catch((err) => {
+            console.warn(
+              `Failed to get timeline for ${pr.repo}#${pr.number}: ${err.message}`
+            );
+            return null;
           })
-        )
       );
     }
   }
 
-  const reviews = await Promise.all(reviewPromises);
+  const reviews = (await Promise.all(reviewPromises)).filter(Boolean);
 
   for (const review of reviews) {
     if (review.requestedAt && result[review.reviewer]) {
