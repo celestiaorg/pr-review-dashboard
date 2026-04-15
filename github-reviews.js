@@ -26,13 +26,6 @@ function bucketForDate(reviewedAt, now) {
   return { year: inYear, month: inMonth, week: inWeek };
 }
 
-module.exports = {
-  START_OF_2026,
-  mondayOfWeekUTC,
-  firstOfMonthUTC,
-  bucketForDate,
-};
-
 const GITHUB_GRAPHQL_URL = "https://api.github.com/graphql";
 const MAX_PAGES = 10;
 
@@ -137,4 +130,10 @@ async function getReviewCounts(config, token, now = new Date()) {
   return result;
 }
 
-module.exports.getReviewCounts = getReviewCounts;
+module.exports = {
+  START_OF_2026,
+  mondayOfWeekUTC,
+  firstOfMonthUTC,
+  bucketForDate,
+  getReviewCounts,
+};
