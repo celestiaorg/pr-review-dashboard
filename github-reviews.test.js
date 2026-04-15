@@ -78,3 +78,133 @@ describe("bucketForDate", () => {
     });
   });
 });
+
+const { getReviewCounts } = require("./github-reviews");
+
+global.fetch = jest.fn();
+
+function searchOk(nodes, pageInfo = { hasNextPage: false, endCursor: null }) {
+  return {
+    ok: true,
+    json: async () => ({ data: { search: { nodes, pageInfo } } }),
+  };
+}
+
+beforeEach(() => fetch.mockClear());
+
+describe("getReviewCounts", () => {
+  const NOW = new Date("2026-04-15T14:23:00Z"); // Wed
+  const CONFIG = {
+    org: "celestiaorg",
+    repos: ["celestia-app"],
+    teamMembers: [{ name: "Rootul", github: "rootulp", defaultHidden: false }],
+  };
+
+  test("counts earliest review per PR, buckets week/month/year", async () => {
+    // PR 10: Rootul's earliest review is this Monday → week+month+year.
+    // PR 11: Rootul's earliest review is Feb 2026 → year only.
+    fetch.mockResolvedValueOnce(
+      searchOk([
+        {
+          number: 10,
+          repository: { nameWithOwner: "celestiaorg/celestia-app" },
+          reviews: {
+            nodes: [
+              { submittedAt: "2026-04-13T09:00:00Z", state: "APPROVED" },
+              { submittedAt: "2026-04-14T09:00:00Z", state: "COMMENTED" },
+            ],
+          },
+        },
+        {
+          number: 11,
+          repository: { nameWithOwner: "celestiaorg/celestia-app" },
+          reviews: {
+            nodes: [{ submittedAt: "2026-02-10T09:00:00Z", state: "APPROVED" }],
+          },
+        },
+      ])
+    );
+
+    const result = await getReviewCounts(CONFIG, "tok", NOW);
+
+    expect(result.rootulp).toEqual({ week: 1, month: 1, year: 2 });
+  });
+
+  test("pre-2026 reviews are ignored", async () => {
+    fetch.mockResolvedValueOnce(
+      searchOk([
+        {
+          number: 1,
+          repository: { nameWithOwner: "celestiaorg/celestia-app" },
+          reviews: {
+            nodes: [{ submittedAt: "2025-12-31T23:59:00Z", state: "APPROVED" }],
+          },
+        },
+      ])
+    );
+
+    const result = await getReviewCounts(CONFIG, "tok", NOW);
+    expect(result.rootulp).toEqual({ week: 0, month: 0, year: 0 });
+  });
+
+  test("2026-01-01T00:00Z review counts in year", async () => {
+    fetch.mockResolvedValueOnce(
+      searchOk([
+        {
+          number: 1,
+          repository: { nameWithOwner: "celestiaorg/celestia-app" },
+          reviews: {
+            nodes: [{ submittedAt: "2026-01-01T00:00:00Z", state: "APPROVED" }],
+          },
+        },
+      ])
+    );
+
+    const result = await getReviewCounts(CONFIG, "tok", NOW);
+    expect(result.rootulp).toEqual({ week: 0, month: 0, year: 1 });
+  });
+
+  test("PR with multiple reviews counts once at earliest date", async () => {
+    // Two reviews, earliest is Feb (year-only), latest is this week.
+    // Because we use EARLIEST, this counts in year only, not week.
+    fetch.mockResolvedValueOnce(
+      searchOk([
+        {
+          number: 1,
+          repository: { nameWithOwner: "celestiaorg/celestia-app" },
+          reviews: {
+            nodes: [
+              { submittedAt: "2026-04-13T09:00:00Z", state: "APPROVED" },
+              { submittedAt: "2026-02-10T09:00:00Z", state: "COMMENTED" },
+            ],
+          },
+        },
+      ])
+    );
+
+    const result = await getReviewCounts(CONFIG, "tok", NOW);
+    expect(result.rootulp).toEqual({ week: 0, month: 0, year: 1 });
+  });
+
+  test("PR with no reviews is ignored (defensive)", async () => {
+    fetch.mockResolvedValueOnce(
+      searchOk([
+        {
+          number: 1,
+          repository: { nameWithOwner: "celestiaorg/celestia-app" },
+          reviews: { nodes: [] },
+        },
+      ])
+    );
+
+    const result = await getReviewCounts(CONFIG, "tok", NOW);
+    expect(result.rootulp).toEqual({ week: 0, month: 0, year: 0 });
+  });
+
+  test("teammate with zero reviews gets zero counts", async () => {
+    fetch.mockResolvedValueOnce(searchOk([]));
+
+    const result = await getReviewCounts(CONFIG, "tok", NOW);
+    expect(result.rootulp).toEqual({ week: 0, month: 0, year: 0 });
+  });
+});
