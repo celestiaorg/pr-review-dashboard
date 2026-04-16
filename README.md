@@ -62,7 +62,7 @@ The dashboard is deployed to GitHub Pages via [`.github/workflows/deploy.yml`](.
 
 - Runs every 5 minutes on a cron (plus on every push to `main` and on manual dispatch).
 - Fetches PR data using the default `GITHUB_TOKEN` provided to the Actions runner.
-- Uploads `public/` (including the freshly-generated `data.json`) as a Pages artifact and deploys it.
+- Pushes `public/` (including the freshly-generated `data.json`) to the `gh-pages` branch.
 
 To trigger a manual redeploy: `gh workflow run deploy.yml`.
 
