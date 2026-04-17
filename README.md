@@ -62,11 +62,15 @@ The dashboard is deployed to GitHub Pages via [`.github/workflows/deploy.yml`](.
 
 - Runs every 5 minutes on a cron (plus on every push to `main` and on manual dispatch).
 - Fetches PR data using the default `GITHUB_TOKEN` provided to the Actions runner.
-- Uploads `public/` (including the freshly-generated `data.json`) as a Pages artifact and deploys it.
+- Pushes `public/` (including the freshly-generated `data.json`) to the `gh-pages` branch.
 
 To trigger a manual redeploy: `gh workflow run deploy.yml`.
 
 A second workflow ([`.github/workflows/fetch-review-counts.yml`](./.github/workflows/fetch-review-counts.yml)) runs daily at 00:00 UTC to regenerate `public/review-counts.json` (committed to the repo). The regeneration commit triggers the deploy workflow's `push` trigger so the updated file goes live without further coordination.
+
+### PR previews
+
+Every pull request automatically gets a live preview. The [`pr-preview.yml`](./.github/workflows/pr-preview.yml) workflow builds the site from the PR branch and deploys it to a subdirectory on the `gh-pages` branch. A bot comment on the PR links to the preview (e.g. `https://celestiaorg.github.io/pr-review-dashboard/pr-preview/pr-42/`). The preview is cleaned up when the PR is closed or merged.
 
 ## Testing
 

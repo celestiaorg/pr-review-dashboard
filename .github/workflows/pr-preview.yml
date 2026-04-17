@@ -1,0 +1,38 @@
+name: PR Preview
+
+on:
+  pull_request:
+    types: [opened, synchronize, reopened, closed]
+
+permissions:
+  contents: write
+  pull-requests: write
+
+concurrency:
+  group: preview-${{ github.event.pull_request.number }}
+  cancel-in-progress: true
+
+jobs:
+  preview:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v6
+
+      - if: github.event.action != 'closed'
+        uses: actions/setup-node@v6
+        with:
+          node-version: "20"
+          cache: "npm"
+
+      - if: github.event.action != 'closed'
+        run: npm ci
+
+      - if: github.event.action != 'closed'
+        name: Fetch PR review data
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: node scripts/fetch-data.js
+
+      - uses: rossjrw/pr-preview-action@v1
+        with:
+          source-dir: public/
