@@ -40,15 +40,6 @@
         "requestedAt": "2026-04-05T20:27:36Z"
       },
       {
-        "number": 7120,
-        "title": "chore(deps): bump core to v0.39.28",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7120",
-        "repo": "celestia-app",
-        "author": "rootulp",
-        "reviewer": "ninabarbakadze",
-        "requestedAt": "2026-04-17T20:54:23Z"
-      },
-      {
         "number": 380,
         "title": "refactor: use b.Loop() to simplify the code",
         "url": "https://github.com/celestiaorg/rsmt2d/pull/380",
@@ -808,5 +799,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-04-17T22:04:39.396Z"
+  "fetchedAt": "2026-04-17T22:18:45.773Z"
 }
