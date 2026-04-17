@@ -292,12 +292,12 @@ footer {
 }
 
 .build-info {
-  font-size: 0.75rem;
-  color: #555;
+  font-size: 0.85rem;
+  color: #666;
 }
 
 .build-info a {
-  color: #888;
+  color: #a5b4fc;
   text-decoration: none;
 }
 
