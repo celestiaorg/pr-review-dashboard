@@ -334,6 +334,15 @@
         "author": "dependabot",
         "reviewer": "evan-forbes",
         "requestedAt": "2026-04-13T11:52:44Z"
+      },
+      {
+        "number": 320,
+        "title": "chore(deps): bump celestiaorg/.github from 157c2dcf3a5a7ebb9328d212c992e22d653a0ce2 to b481bc5b02b761d494fc0b5a53eab8f3358b37c7",
+        "url": "https://github.com/celestiaorg/nmt/pull/320",
+        "repo": "nmt",
+        "author": "dependabot",
+        "reviewer": "evan-forbes",
+        "requestedAt": "2026-04-17T21:03:50Z"
       }
     ],
     "cmwaters": [
@@ -799,5 +808,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-04-17T21:01:47.275Z"
+  "fetchedAt": "2026-04-17T21:05:59.301Z"
 }
