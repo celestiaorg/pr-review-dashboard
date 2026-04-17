@@ -290,3 +290,18 @@ footer {
   font-variant-numeric: tabular-nums;
   font-weight: 600;
 }
+
+.build-info {
+  font-size: 0.75rem;
+  color: #555;
+}
+
+.build-info a {
+  color: #888;
+  text-decoration: none;
+}
+
+.build-info a:hover {
+  color: #a5b4fc;
+  text-decoration: underline;
+}
