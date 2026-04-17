@@ -33,6 +33,13 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: node scripts/fetch-data.js
 
+      - if: github.event.action != 'closed'
+        name: Write build info
+        env:
+          GITHUB_SHA: ${{ github.event.pull_request.head.sha }}
+          GITHUB_REPOSITORY: ${{ github.repository }}
+        run: node scripts/write-build-info.js
+
       - uses: rossjrw/pr-preview-action@v1
         with:
           source-dir: public/

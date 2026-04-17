@@ -290,9 +290,30 @@
     }
   }
 
+  async function fetchAndRenderBuildInfo() {
+    const el = document.getElementById("build-info");
+    if (!el) return;
+    try {
+      const response = await fetch("build-info.json");
+      if (!response.ok) return;
+      const data = await response.json();
+      if (!data || typeof data.sha !== "string" || typeof data.repo !== "string") return;
+      const shortSha = data.sha.slice(0, 7);
+      const link = document.createElement("a");
+      link.href = `https://github.com/${data.repo}/commit/${data.sha}`;
+      link.target = "_blank";
+      link.rel = "noopener noreferrer";
+      link.textContent = `build: ${shortSha}`;
+      el.appendChild(link);
+    } catch {
+      // Silently ignore — non-critical metadata.
+    }
+  }
+
   // Initial fetches (run in parallel)
   fetchAndRenderPending();
   fetchAndRenderReviewCounts();
+  fetchAndRenderBuildInfo();
 
   // Auto-refresh pending reviews every 5 minutes.
   // Review counts are regenerated daily server-side, so we don't poll them

@@ -3,3 +3,4 @@ node_modules/
 .superpowers/
 .claude/
 public/data.json
+public/build-info.json
