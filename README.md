@@ -11,7 +11,7 @@ A live dashboard that shows each protocol team member's pending PR review queue,
 - Toggle buttons to show/hide members (e.g., when they're on another project)
 - Auto-refreshes every 5 minutes
 - Only shows open, non-draft PRs in [protocol repos](https://github.com/celestiaorg/protocol?tab=readme-ov-file#repos)
-- **Reviews completed in 2026** section at the top of the page with per-teammate bar charts for this week, this month, and YTD
+- **Reviews completed** section at the top of the page with per-teammate bar charts for this week, this month, and YTD
 
 ## Prerequisites
 
