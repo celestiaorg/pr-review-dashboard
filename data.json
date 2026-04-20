@@ -1,6 +1,16 @@
 {
   "reviews": {
-    "rootulp": [],
+    "rootulp": [
+      {
+        "number": 971,
+        "title": "feat: add fibre download client and lumina client integration",
+        "url": "https://github.com/celestiaorg/lumina/pull/971",
+        "repo": "lumina",
+        "author": "mcrakhman",
+        "reviewer": "rootulp",
+        "requestedAt": "2026-04-20T21:21:59Z"
+      }
+    ],
     "ninabarbakadze": [
       {
         "number": 6869,
@@ -133,6 +143,15 @@
         "requestedAt": "2026-03-04T06:12:55Z"
       },
       {
+        "number": 4954,
+        "title": "fix(share/cmd): bounds-check index parsing in share CLI",
+        "url": "https://github.com/celestiaorg/celestia-node/pull/4954",
+        "repo": "celestia-node",
+        "author": "rootulp",
+        "reviewer": "mcrakhman",
+        "requestedAt": "2026-04-20T21:16:47Z"
+      },
+      {
         "number": 145,
         "title": "chore(deps): bump go.opentelemetry.io/otel/metric from 1.36.0 to 1.43.0",
         "url": "https://github.com/celestiaorg/go-fraud/pull/145",
@@ -169,6 +188,15 @@
         "author": "walldiss",
         "reviewer": "vgonkivs",
         "requestedAt": "2026-04-20T15:12:19Z"
+      },
+      {
+        "number": 7150,
+        "title": "chore(deps): bump github.com/celestiaorg/tastora from 0.18.0 to 0.19.0",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/7150",
+        "repo": "celestia-app",
+        "author": "rootulp",
+        "reviewer": "vgonkivs",
+        "requestedAt": "2026-04-20T21:11:39Z"
       },
       {
         "number": 2957,
@@ -896,5 +924,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-04-20T20:59:40.024Z"
+  "fetchedAt": "2026-04-20T21:24:10.757Z"
 }
