@@ -18,15 +18,6 @@
         "author": "Wondertan",
         "reviewer": "rootulp",
         "requestedAt": "2026-04-20T15:15:04Z"
-      },
-      {
-        "number": 970,
-        "title": "chore: release v2.0.0",
-        "url": "https://github.com/celestiaorg/lumina/pull/970",
-        "repo": "lumina",
-        "author": "mcrakhman",
-        "reviewer": "rootulp",
-        "requestedAt": "2026-04-20T14:09:44Z"
       }
     ],
     "ninabarbakadze": [
@@ -98,6 +89,15 @@
         "requestedAt": "2026-04-20T14:17:12Z"
       },
       {
+        "number": 7146,
+        "title": "fix: re-roll privval gRPC port in testnode retry",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/7146",
+        "repo": "celestia-app",
+        "author": "rootulp",
+        "reviewer": "mcrakhman",
+        "requestedAt": "2026-04-20T18:23:22Z"
+      },
+      {
         "number": 2958,
         "title": "build(deps): Bump github.com/go-git/go-git/v5 from 5.17.2 to 5.18.0",
         "url": "https://github.com/celestiaorg/celestia-core/pull/2958",
@@ -144,24 +144,6 @@
       }
     ],
     "vgonkivs": [
-      {
-        "number": 7130,
-        "title": "chore(deps): bump google.golang.org/api from 0.275.0 to 0.276.0",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7130",
-        "repo": "celestia-app",
-        "author": "dependabot",
-        "reviewer": "vgonkivs",
-        "requestedAt": "2026-04-20T11:06:03Z"
-      },
-      {
-        "number": 7136,
-        "title": "chore(talis): upgrade default OS image to Ubuntu 24.04 LTS",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7136",
-        "repo": "celestia-app",
-        "author": "walldiss",
-        "reviewer": "vgonkivs",
-        "requestedAt": "2026-04-20T13:39:06Z"
-      },
       {
         "number": 7142,
         "title": "feat(talis): add AWS (EC2) as a compute provider",
@@ -897,5 +879,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-04-20T18:04:41.668Z"
+  "fetchedAt": "2026-04-20T18:33:10.567Z"
 }
