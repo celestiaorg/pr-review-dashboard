@@ -1,16 +1,6 @@
 {
   "reviews": {
-    "rootulp": [
-      {
-        "number": 7134,
-        "title": "chore: set verify_data to false for blocksync",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7134",
-        "repo": "celestia-app",
-        "author": "ninabarbakadze",
-        "reviewer": "rootulp",
-        "requestedAt": "2026-04-20T14:36:23Z"
-      }
-    ],
+    "rootulp": [],
     "ninabarbakadze": [
       {
         "number": 6869,
@@ -424,15 +414,6 @@
         "author": "Wondertan",
         "reviewer": "evan-forbes",
         "requestedAt": "2026-04-20T12:58:03Z"
-      },
-      {
-        "number": 7141,
-        "title": "fix(talis): use presigned S3 URLs for payload distribution",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7141",
-        "repo": "celestia-app",
-        "author": "walldiss",
-        "reviewer": "evan-forbes",
-        "requestedAt": "2026-04-20T14:34:46Z"
       },
       {
         "number": 7149,
@@ -915,5 +896,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-04-20T19:31:17.382Z"
+  "fetchedAt": "2026-04-20T19:42:34.523Z"
 }
