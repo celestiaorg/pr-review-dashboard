@@ -1,25 +1,6 @@
 {
   "reviews": {
-    "rootulp": [
-      {
-        "number": 259,
-        "title": "chore(deps): bump github.com/celestiaorg/nmt from 0.24.2 to 0.24.3",
-        "url": "https://github.com/celestiaorg/go-square/pull/259",
-        "repo": "go-square",
-        "author": "dependabot",
-        "reviewer": "rootulp",
-        "requestedAt": "2026-04-20T21:40:49Z"
-      },
-      {
-        "number": 971,
-        "title": "feat: add fibre download client and lumina client integration",
-        "url": "https://github.com/celestiaorg/lumina/pull/971",
-        "repo": "lumina",
-        "author": "mcrakhman",
-        "reviewer": "rootulp",
-        "requestedAt": "2026-04-20T21:21:59Z"
-      }
-    ],
+    "rootulp": [],
     "ninabarbakadze": [
       {
         "number": 6869,
@@ -179,6 +160,15 @@
         "requestedAt": "2026-04-20T12:34:13Z"
       },
       {
+        "number": 260,
+        "title": "chore(ci): pin GitHub Actions and scope GITHUB_TOKEN permissions",
+        "url": "https://github.com/celestiaorg/go-square/pull/260",
+        "repo": "go-square",
+        "author": "rootulp",
+        "reviewer": "mcrakhman",
+        "requestedAt": "2026-04-20T22:41:23Z"
+      },
+      {
         "number": 884,
         "title": "feat(node)!: switch sample and row requests to shrex",
         "url": "https://github.com/celestiaorg/lumina/pull/884",
@@ -198,15 +188,6 @@
       }
     ],
     "vgonkivs": [
-      {
-        "number": 7142,
-        "title": "feat(talis): add AWS (EC2) as a compute provider",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7142",
-        "repo": "celestia-app",
-        "author": "walldiss",
-        "reviewer": "vgonkivs",
-        "requestedAt": "2026-04-20T15:12:19Z"
-      },
       {
         "number": 2957,
         "title": "build(deps): Bump github.com/adlio/schema from 1.4.0 to 1.5.0",
@@ -422,6 +403,24 @@
         "author": "rootulp",
         "reviewer": "vgonkivs",
         "requestedAt": "2026-04-20T22:23:17Z"
+      },
+      {
+        "number": 4956,
+        "title": "ci: set least-privilege GITHUB_TOKEN permissions",
+        "url": "https://github.com/celestiaorg/celestia-node/pull/4956",
+        "repo": "celestia-node",
+        "author": "rootulp",
+        "reviewer": "vgonkivs",
+        "requestedAt": "2026-04-20T22:35:17Z"
+      },
+      {
+        "number": 4957,
+        "title": "ci: pin third-party actions to commit SHAs",
+        "url": "https://github.com/celestiaorg/celestia-node/pull/4957",
+        "repo": "celestia-node",
+        "author": "rootulp",
+        "reviewer": "vgonkivs",
+        "requestedAt": "2026-04-20T22:36:45Z"
       },
       {
         "number": 144,
@@ -942,5 +941,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-04-20T22:26:48.213Z"
+  "fetchedAt": "2026-04-20T22:47:41.774Z"
 }
