@@ -1,6 +1,16 @@
 {
   "reviews": {
-    "rootulp": [],
+    "rootulp": [
+      {
+        "number": 4950,
+        "title": "chore(deps): bump node to app v8.0.1-mocha",
+        "url": "https://github.com/celestiaorg/celestia-node/pull/4950",
+        "repo": "celestia-node",
+        "author": "vgonkivs",
+        "reviewer": "rootulp",
+        "requestedAt": "2026-04-20T08:58:10Z"
+      }
+    ],
     "ninabarbakadze": [
       {
         "number": 6869,
@@ -780,5 +790,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-04-20T08:31:48.724Z"
+  "fetchedAt": "2026-04-20T09:18:47.790Z"
 }
