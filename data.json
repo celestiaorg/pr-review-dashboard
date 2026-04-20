@@ -36,6 +36,15 @@
         "author": "vgonkivs",
         "reviewer": "rootulp",
         "requestedAt": "2026-04-20T08:58:10Z"
+      },
+      {
+        "number": 4953,
+        "title": "chore(deps): bump the patch-updates group across 2 directories with 7 updates",
+        "url": "https://github.com/celestiaorg/celestia-node/pull/4953",
+        "repo": "celestia-node",
+        "author": "dependabot",
+        "reviewer": "rootulp",
+        "requestedAt": "2026-04-20T12:40:51Z"
       }
     ],
     "ninabarbakadze": [
@@ -56,33 +65,6 @@
         "author": "evan-forbes",
         "reviewer": "ninabarbakadze",
         "requestedAt": "2026-04-05T20:27:36Z"
-      },
-      {
-        "number": 7128,
-        "title": "chore(deps): bump github.com/aws/aws-sdk-go-v2/service/s3 from 1.99.0 to 1.99.1",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7128",
-        "repo": "celestia-app",
-        "author": "dependabot",
-        "reviewer": "ninabarbakadze",
-        "requestedAt": "2026-04-20T11:04:33Z"
-      },
-      {
-        "number": 2955,
-        "title": "build(deps): Bump github.com/aws/aws-sdk-go-v2/config from 1.32.14 to 1.32.16",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/2955",
-        "repo": "celestia-core",
-        "author": "dependabot",
-        "reviewer": "ninabarbakadze",
-        "requestedAt": "2026-04-20T10:58:25Z"
-      },
-      {
-        "number": 2959,
-        "title": "build(deps): Bump github.com/aws/aws-sdk-go-v2/service/s3 from 1.99.0 to 1.99.1",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/2959",
-        "repo": "celestia-core",
-        "author": "dependabot",
-        "reviewer": "ninabarbakadze",
-        "requestedAt": "2026-04-20T11:01:13Z"
       },
       {
         "number": 380,
@@ -161,6 +143,15 @@
         "requestedAt": "2026-03-04T06:12:55Z"
       },
       {
+        "number": 145,
+        "title": "chore(deps): bump go.opentelemetry.io/otel/metric from 1.36.0 to 1.43.0",
+        "url": "https://github.com/celestiaorg/go-fraud/pull/145",
+        "repo": "go-fraud",
+        "author": "dependabot",
+        "reviewer": "mcrakhman",
+        "requestedAt": "2026-04-20T12:34:13Z"
+      },
+      {
         "number": 884,
         "title": "feat(node)!: switch sample and row requests to shrex",
         "url": "https://github.com/celestiaorg/lumina/pull/884",
@@ -197,15 +188,6 @@
         "author": "dependabot",
         "reviewer": "vgonkivs",
         "requestedAt": "2026-04-20T10:59:47Z"
-      },
-      {
-        "number": 2960,
-        "title": "build(deps): Bump github.com/aws/aws-sdk-go-v2 from 1.41.5 to 1.41.6",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/2960",
-        "repo": "celestia-core",
-        "author": "dependabot",
-        "reviewer": "vgonkivs",
-        "requestedAt": "2026-04-20T11:02:34Z"
       },
       {
         "number": 4148,
@@ -406,6 +388,15 @@
         "requestedAt": "2026-04-14T12:04:38Z"
       },
       {
+        "number": 144,
+        "title": "chore(deps): bump github.com/libp2p/go-libp2p-pubsub from 0.13.1 to 0.15.0",
+        "url": "https://github.com/celestiaorg/go-fraud/pull/144",
+        "repo": "go-fraud",
+        "author": "dependabot",
+        "reviewer": "vgonkivs",
+        "requestedAt": "2026-04-20T12:34:07Z"
+      },
+      {
         "number": 361,
         "title": "perf(sync): More lenient recency window by default",
         "url": "https://github.com/celestiaorg/go-header/pull/361",
@@ -453,13 +444,13 @@
         "requestedAt": "2026-04-20T10:59:40Z"
       },
       {
-        "number": 4939,
-        "title": "chore(deps): bump the patch-updates group across 2 directories with 5 updates",
-        "url": "https://github.com/celestiaorg/celestia-node/pull/4939",
+        "number": 4952,
+        "title": "chore(deps): bump alpine from 3.23.3 to 3.23.4 in the patch-updates group",
+        "url": "https://github.com/celestiaorg/celestia-node/pull/4952",
         "repo": "celestia-node",
         "author": "dependabot",
         "reviewer": "evan-forbes",
-        "requestedAt": "2026-04-13T11:52:44Z"
+        "requestedAt": "2026-04-20T12:33:13Z"
       }
     ],
     "cmwaters": [
@@ -925,5 +916,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-04-20T12:14:51.455Z"
+  "fetchedAt": "2026-04-20T12:46:03.904Z"
 }
