@@ -172,6 +172,15 @@
         "requestedAt": "2026-04-20T11:06:03Z"
       },
       {
+        "number": 7136,
+        "title": "chore(talis): upgrade default OS image to Ubuntu 24.04 LTS",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/7136",
+        "repo": "celestia-app",
+        "author": "walldiss",
+        "reviewer": "vgonkivs",
+        "requestedAt": "2026-04-20T13:39:06Z"
+      },
+      {
         "number": 2957,
         "title": "build(deps): Bump github.com/adlio/schema from 1.4.0 to 1.5.0",
         "url": "https://github.com/celestiaorg/celestia-core/pull/2957",
@@ -906,5 +915,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-04-20T13:18:09.829Z"
+  "fetchedAt": "2026-04-20T14:04:08.941Z"
 }
