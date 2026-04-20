@@ -29,6 +29,15 @@
         "requestedAt": "2026-04-20T11:08:43Z"
       },
       {
+        "number": 7134,
+        "title": "chore: set verify_data to false for blocksync",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/7134",
+        "repo": "celestia-app",
+        "author": "ninabarbakadze",
+        "reviewer": "rootulp",
+        "requestedAt": "2026-04-20T14:36:23Z"
+      },
+      {
         "number": 4950,
         "title": "chore(deps): bump node to app v8.0.1-mocha",
         "url": "https://github.com/celestiaorg/celestia-node/pull/4950",
@@ -45,6 +54,15 @@
         "author": "dependabot",
         "reviewer": "rootulp",
         "requestedAt": "2026-04-20T12:40:51Z"
+      },
+      {
+        "number": 970,
+        "title": "chore: release v2.0.0",
+        "url": "https://github.com/celestiaorg/lumina/pull/970",
+        "repo": "lumina",
+        "author": "mcrakhman",
+        "reviewer": "rootulp",
+        "requestedAt": "2026-04-20T14:09:44Z"
       }
     ],
     "ninabarbakadze": [
@@ -74,6 +92,15 @@
         "author": "walldiss",
         "reviewer": "ninabarbakadze",
         "requestedAt": "2026-04-20T12:50:59Z"
+      },
+      {
+        "number": 7140,
+        "title": "fix(fibre): sanitize pprof labels before Pyroscope upload",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/7140",
+        "repo": "celestia-app",
+        "author": "walldiss",
+        "reviewer": "ninabarbakadze",
+        "requestedAt": "2026-04-20T14:33:58Z"
       }
     ],
     "rach-id": [
@@ -114,6 +141,15 @@
         "author": "dependabot",
         "reviewer": "mcrakhman",
         "requestedAt": "2026-04-20T11:07:20Z"
+      },
+      {
+        "number": 7134,
+        "title": "chore: set verify_data to false for blocksync",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/7134",
+        "repo": "celestia-app",
+        "author": "ninabarbakadze",
+        "reviewer": "mcrakhman",
+        "requestedAt": "2026-04-20T14:17:12Z"
       },
       {
         "number": 2958,
@@ -442,6 +478,15 @@
         "author": "dependabot",
         "reviewer": "evan-forbes",
         "requestedAt": "2026-04-20T11:05:51Z"
+      },
+      {
+        "number": 7141,
+        "title": "fix(talis): use presigned S3 URLs for payload distribution",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/7141",
+        "repo": "celestia-app",
+        "author": "walldiss",
+        "reviewer": "evan-forbes",
+        "requestedAt": "2026-04-20T14:34:46Z"
       },
       {
         "number": 2956,
@@ -915,5 +960,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-04-20T14:04:08.941Z"
+  "fetchedAt": "2026-04-20T14:45:20.415Z"
 }
