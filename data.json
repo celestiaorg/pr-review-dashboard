@@ -38,6 +38,15 @@
         "requestedAt": "2026-04-20T14:36:23Z"
       },
       {
+        "number": 7143,
+        "title": "perf(rsema1d): vectorize batched RLC for `Coder.Encode`",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/7143",
+        "repo": "celestia-app",
+        "author": "Wondertan",
+        "reviewer": "rootulp",
+        "requestedAt": "2026-04-20T15:15:04Z"
+      },
+      {
         "number": 4950,
         "title": "chore(deps): bump node to app v8.0.1-mocha",
         "url": "https://github.com/celestiaorg/celestia-node/pull/4950",
@@ -215,6 +224,15 @@
         "author": "walldiss",
         "reviewer": "vgonkivs",
         "requestedAt": "2026-04-20T13:39:06Z"
+      },
+      {
+        "number": 7142,
+        "title": "feat(talis): add AWS (EC2) as a compute provider",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/7142",
+        "repo": "celestia-app",
+        "author": "walldiss",
+        "reviewer": "vgonkivs",
+        "requestedAt": "2026-04-20T15:12:19Z"
       },
       {
         "number": 2957,
@@ -960,5 +978,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-04-20T14:45:20.415Z"
+  "fetchedAt": "2026-04-20T15:16:05.897Z"
 }
