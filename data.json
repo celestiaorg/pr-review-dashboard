@@ -85,6 +85,15 @@
         "requestedAt": "2026-04-20T22:21:45Z"
       },
       {
+        "number": 4955,
+        "title": "chore(deps): bump tastora to v0.19.0 to resolve docker/moby CVEs",
+        "url": "https://github.com/celestiaorg/celestia-node/pull/4955",
+        "repo": "celestia-node",
+        "author": "rootulp",
+        "reviewer": "ninabarbakadze",
+        "requestedAt": "2026-04-20T22:24:19Z"
+      },
+      {
         "number": 321,
         "title": "ci: pin markdown-lint action to celestiaorg/.github v0.6.4",
         "url": "https://github.com/celestiaorg/nmt/pull/321",
@@ -933,5 +942,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-04-20T22:24:12.951Z"
+  "fetchedAt": "2026-04-20T22:26:48.213Z"
 }
