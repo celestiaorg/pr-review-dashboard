@@ -294,7 +294,7 @@ footer {
 
 .bar-row {
   display: grid;
-  grid-template-columns: 80px 1fr 32px;
+  grid-template-columns: 80px 1fr max-content;
   align-items: center;
   gap: 8px;
   font-size: 0.85rem;
