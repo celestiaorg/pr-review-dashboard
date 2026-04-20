@@ -9,15 +9,6 @@
         "author": "ninabarbakadze",
         "reviewer": "rootulp",
         "requestedAt": "2026-04-20T14:36:23Z"
-      },
-      {
-        "number": 7143,
-        "title": "perf(rsema1d): vectorize batched RLC for `Coder.Encode`",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7143",
-        "repo": "celestia-app",
-        "author": "Wondertan",
-        "reviewer": "rootulp",
-        "requestedAt": "2026-04-20T15:15:04Z"
       }
     ],
     "ninabarbakadze": [
@@ -56,6 +47,24 @@
         "author": "walldiss",
         "reviewer": "ninabarbakadze",
         "requestedAt": "2026-04-20T14:33:58Z"
+      },
+      {
+        "number": 7148,
+        "title": "fix: pre-pull minor-version images with retry in TestMinorVersionCompatibility",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/7148",
+        "repo": "celestia-app",
+        "author": "rootulp",
+        "reviewer": "ninabarbakadze",
+        "requestedAt": "2026-04-20T18:41:53Z"
+      },
+      {
+        "number": 7149,
+        "title": "chore: log peer count in WaitForSync to diagnose sync flakes",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/7149",
+        "repo": "celestia-app",
+        "author": "rootulp",
+        "reviewer": "ninabarbakadze",
+        "requestedAt": "2026-04-20T18:58:17Z"
       }
     ],
     "rach-id": [
@@ -406,6 +415,15 @@
         "author": "walldiss",
         "reviewer": "evan-forbes",
         "requestedAt": "2026-04-20T14:34:46Z"
+      },
+      {
+        "number": 7149,
+        "title": "chore: log peer count in WaitForSync to diagnose sync flakes",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/7149",
+        "repo": "celestia-app",
+        "author": "rootulp",
+        "reviewer": "evan-forbes",
+        "requestedAt": "2026-04-20T18:44:00Z"
       },
       {
         "number": 2956,
@@ -879,5 +897,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-04-20T18:33:10.567Z"
+  "fetchedAt": "2026-04-20T18:58:34.301Z"
 }
