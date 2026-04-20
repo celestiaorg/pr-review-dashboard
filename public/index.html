@@ -12,27 +12,59 @@
     <div id="toggles" class="toggles"></div>
   </header>
   <main>
-    <section id="review-counts" class="page-section">
-      <div class="section-header">
-        <h2>Reviews completed in 2026</h2>
+    <details id="review-counts" class="page-section collapsible" open>
+      <summary class="section-header">
+        <span class="section-header-title">
+          <span class="collapse-chevron" aria-hidden="true"></span>
+          <h2>Reviews completed in 2026</h2>
+        </span>
         <span class="freshness" id="review-counts-freshness"></span>
+      </summary>
+      <div class="collapsible-body">
+        <div id="review-counts-error" class="error" style="display:none;"></div>
+        <div class="bar-charts">
+          <div class="bar-chart" id="chart-week">
+            <h3 class="bar-chart-title"></h3>
+            <ul class="bar-list"></ul>
+          </div>
+          <div class="bar-chart" id="chart-month">
+            <h3 class="bar-chart-title"></h3>
+            <ul class="bar-list"></ul>
+          </div>
+          <div class="bar-chart" id="chart-year">
+            <h3 class="bar-chart-title"></h3>
+            <ul class="bar-list"></ul>
+          </div>
+        </div>
       </div>
-      <div id="review-counts-error" class="error" style="display:none;"></div>
-      <div class="bar-charts">
-        <div class="bar-chart" id="chart-week">
-          <h3 class="bar-chart-title"></h3>
-          <ul class="bar-list"></ul>
-        </div>
-        <div class="bar-chart" id="chart-month">
-          <h3 class="bar-chart-title"></h3>
-          <ul class="bar-list"></ul>
-        </div>
-        <div class="bar-chart" id="chart-year">
-          <h3 class="bar-chart-title"></h3>
-          <ul class="bar-list"></ul>
+    </details>
+
+    <details id="review-latencies" class="page-section collapsible" open>
+      <summary class="section-header">
+        <span class="section-header-title">
+          <span class="collapse-chevron" aria-hidden="true"></span>
+          <h2>Median review latency</h2>
+        </span>
+        <span class="freshness" id="review-latencies-freshness"></span>
+      </summary>
+      <div class="collapsible-body">
+        <div id="review-latencies-error" class="error" style="display:none;"></div>
+        <div class="bar-charts">
+          <div class="bar-chart" id="latency-chart-week">
+            <h3 class="bar-chart-title"></h3>
+            <ul class="bar-list"></ul>
+          </div>
+          <div class="bar-chart" id="latency-chart-month">
+            <h3 class="bar-chart-title"></h3>
+            <ul class="bar-list"></ul>
+          </div>
+          <div class="bar-chart" id="latency-chart-year">
+            <h3 class="bar-chart-title"></h3>
+            <ul class="bar-list"></ul>
+          </div>
         </div>
       </div>
-    </section>
+    </details>
 
     <section id="pending-reviews" class="page-section">
       <div class="section-header">

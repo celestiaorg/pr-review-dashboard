@@ -221,6 +221,45 @@ footer {
   color: #ffffff;
 }
 
+.collapsible > summary {
+  cursor: pointer;
+  list-style: none;
+  user-select: none;
+}
+
+.collapsible > summary::-webkit-details-marker {
+  display: none;
+}
+
+.collapsible > summary:hover h2 {
+  color: #a5b4fc;
+}
+
+.section-header-title {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+}
+
+.collapse-chevron {
+  display: inline-block;
+  width: 10px;
+  height: 10px;
+  border-right: 2px solid #888;
+  border-bottom: 2px solid #888;
+  transform: rotate(45deg);
+  transition: transform 0.15s ease;
+  margin-bottom: 4px;
+}
+
+.collapsible:not([open]) .collapse-chevron {
+  transform: rotate(-45deg);
+}
+
+.collapsible:not([open]) .collapsible-body {
+  display: none;
+}
+
 .freshness {
   font-size: 0.75rem;
   color: #888;
@@ -282,6 +321,29 @@ footer {
   height: 100%;
   border-radius: 4px;
   transition: width 0.2s ease;
+}
+
+.bar-fill.green {
+  background: #22c55e;
+}
+
+.bar-fill.yellow {
+  background: #eab308;
+}
+
+.bar-fill.red {
+  background: #ef4444;
+}
+
+.bar-count.dim {
+  color: #555;
+}
+
+.bar-count .bar-count-n {
+  color: #555;
+  font-size: 0.7rem;
+  margin-left: 4px;
+  font-weight: 400;
 }
 
 .bar-count {
