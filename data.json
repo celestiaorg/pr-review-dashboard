@@ -1,25 +1,6 @@
 {
   "reviews": {
-    "rootulp": [
-      {
-        "number": 6869,
-        "title": "docs: ADR028 Secondary Gas Token",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/6869",
-        "repo": "celestia-app",
-        "author": "evan-forbes",
-        "reviewer": "rootulp",
-        "requestedAt": "2026-04-02T14:49:40Z"
-      },
-      {
-        "number": 969,
-        "title": "feat: add fibre gRPC transport and upload client",
-        "url": "https://github.com/celestiaorg/lumina/pull/969",
-        "repo": "lumina",
-        "author": "mcrakhman",
-        "reviewer": "rootulp",
-        "requestedAt": "2026-04-17T13:00:36Z"
-      }
-    ],
+    "rootulp": [],
     "ninabarbakadze": [
       {
         "number": 6869,
@@ -799,5 +780,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-04-20T02:43:09.543Z"
+  "fetchedAt": "2026-04-20T03:57:40.295Z"
 }
