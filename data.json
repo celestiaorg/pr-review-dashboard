@@ -2,33 +2,6 @@
   "reviews": {
     "rootulp": [
       {
-        "number": 7124,
-        "title": "chore(deps): bump actions/setup-node from 6.3.0 to 6.4.0",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7124",
-        "repo": "celestia-app",
-        "author": "dependabot",
-        "reviewer": "rootulp",
-        "requestedAt": "2026-04-20T11:01:02Z"
-      },
-      {
-        "number": 7127,
-        "title": "chore(deps): bump cloud.google.com/go/compute from 1.59.0 to 1.60.0",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7127",
-        "repo": "celestia-app",
-        "author": "dependabot",
-        "reviewer": "rootulp",
-        "requestedAt": "2026-04-20T11:03:13Z"
-      },
-      {
-        "number": 7132,
-        "title": "chore(deps): bump github.com/aws/aws-sdk-go-v2/config from 1.32.14 to 1.32.16",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7132",
-        "repo": "celestia-app",
-        "author": "dependabot",
-        "reviewer": "rootulp",
-        "requestedAt": "2026-04-20T11:08:43Z"
-      },
-      {
         "number": 7134,
         "title": "chore: set verify_data to false for blocksync",
         "url": "https://github.com/celestiaorg/celestia-app/pull/7134",
@@ -45,24 +18,6 @@
         "author": "Wondertan",
         "reviewer": "rootulp",
         "requestedAt": "2026-04-20T15:15:04Z"
-      },
-      {
-        "number": 4950,
-        "title": "chore(deps): bump node to app v8.0.1-mocha",
-        "url": "https://github.com/celestiaorg/celestia-node/pull/4950",
-        "repo": "celestia-node",
-        "author": "vgonkivs",
-        "reviewer": "rootulp",
-        "requestedAt": "2026-04-20T08:58:10Z"
-      },
-      {
-        "number": 4953,
-        "title": "chore(deps): bump the patch-updates group across 2 directories with 7 updates",
-        "url": "https://github.com/celestiaorg/celestia-node/pull/4953",
-        "repo": "celestia-node",
-        "author": "dependabot",
-        "reviewer": "rootulp",
-        "requestedAt": "2026-04-20T12:40:51Z"
       },
       {
         "number": 970,
@@ -132,24 +87,6 @@
         "author": "evan-forbes",
         "reviewer": "mcrakhman",
         "requestedAt": "2026-04-02T14:40:28Z"
-      },
-      {
-        "number": 7126,
-        "title": "chore(deps): bump github.com/aws/aws-sdk-go-v2/feature/s3/manager from 1.21.1 to 1.22.15",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7126",
-        "repo": "celestia-app",
-        "author": "dependabot",
-        "reviewer": "mcrakhman",
-        "requestedAt": "2026-04-20T11:02:54Z"
-      },
-      {
-        "number": 7131,
-        "title": "chore(deps): bump github.com/aws/aws-sdk-go-v2 from 1.41.5 to 1.41.6",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7131",
-        "repo": "celestia-app",
-        "author": "dependabot",
-        "reviewer": "mcrakhman",
-        "requestedAt": "2026-04-20T11:07:20Z"
       },
       {
         "number": 7134,
@@ -478,24 +415,6 @@
         "author": "Wondertan",
         "reviewer": "evan-forbes",
         "requestedAt": "2026-04-20T12:58:03Z"
-      },
-      {
-        "number": 7125,
-        "title": "chore(deps): bump github/codeql-action from 3.35.1 to 4.35.2",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7125",
-        "repo": "celestia-app",
-        "author": "dependabot",
-        "reviewer": "evan-forbes",
-        "requestedAt": "2026-04-20T11:01:15Z"
-      },
-      {
-        "number": 7129,
-        "title": "chore(deps): bump github.com/aws/aws-sdk-go-v2/credentials from 1.19.14 to 1.19.15",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7129",
-        "repo": "celestia-app",
-        "author": "dependabot",
-        "reviewer": "evan-forbes",
-        "requestedAt": "2026-04-20T11:05:51Z"
       },
       {
         "number": 7141,
@@ -978,5 +897,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-04-20T17:39:17.289Z"
+  "fetchedAt": "2026-04-20T18:04:41.668Z"
 }
