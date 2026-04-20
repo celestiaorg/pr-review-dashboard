@@ -1,4 +1,4 @@
-name: Fetch Review Counts (daily)
+name: Fetch Review Data (daily)
 
 on:
   schedule:
@@ -9,7 +9,7 @@ permissions:
   contents: write
 
 concurrency:
-  group: fetch-review-counts
+  group: fetch-review-data
   cancel-in-progress: false
 
 jobs:
@@ -32,14 +32,19 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: node scripts/fetch-review-counts.js
 
-      - name: Commit updated review-counts.json if changed
+      - name: Fetch review latencies
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: node scripts/fetch-review-latencies.js
+
+      - name: Commit updated review data if changed
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          if [ -z "$(git status --porcelain public/review-counts.json)" ]; then
-            echo "No changes to review-counts.json — skipping commit."
+          if [ -z "$(git status --porcelain public/review-counts.json public/review-latencies.json)" ]; then
+            echo "No changes to review data — skipping commit."
             exit 0
           fi
-          git add public/review-counts.json
-          git commit -m "chore: update review counts (daily)"
+          git add public/review-counts.json public/review-latencies.json
+          git commit -m "chore: update review data (daily)"
           git push
