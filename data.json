@@ -2,6 +2,15 @@
   "reviews": {
     "rootulp": [
       {
+        "number": 259,
+        "title": "chore(deps): bump github.com/celestiaorg/nmt from 0.24.2 to 0.24.3",
+        "url": "https://github.com/celestiaorg/go-square/pull/259",
+        "repo": "go-square",
+        "author": "dependabot",
+        "reviewer": "rootulp",
+        "requestedAt": "2026-04-20T21:40:49Z"
+      },
+      {
         "number": 971,
         "title": "feat: add fibre download client and lumina client integration",
         "url": "https://github.com/celestiaorg/lumina/pull/971",
@@ -924,5 +933,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-04-20T21:24:10.757Z"
+  "fetchedAt": "2026-04-20T21:44:28.285Z"
 }
