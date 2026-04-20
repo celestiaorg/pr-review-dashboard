@@ -1,6 +1,16 @@
 {
   "reviews": {
-    "rootulp": [],
+    "rootulp": [
+      {
+        "number": 972,
+        "title": "ci: make release-plz PR creation manual-only",
+        "url": "https://github.com/celestiaorg/lumina/pull/972",
+        "repo": "lumina",
+        "author": "mcrakhman",
+        "reviewer": "rootulp",
+        "requestedAt": "2026-04-20T23:03:57Z"
+      }
+    ],
     "ninabarbakadze": [
       {
         "number": 6869,
@@ -64,6 +74,15 @@
         "author": "rootulp",
         "reviewer": "ninabarbakadze",
         "requestedAt": "2026-04-20T22:21:45Z"
+      },
+      {
+        "number": 7151,
+        "title": "chore(deps): bump rustls-webpki from 0.103.10 to 0.103.12 in /tools/lumina-latency-monitor",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/7151",
+        "repo": "celestia-app",
+        "author": "rootulp",
+        "reviewer": "ninabarbakadze",
+        "requestedAt": "2026-04-20T22:48:41Z"
       },
       {
         "number": 4955,
@@ -488,7 +507,17 @@
         "requestedAt": "2026-04-20T12:33:13Z"
       }
     ],
-    "cmwaters": [],
+    "cmwaters": [
+      {
+        "number": 260,
+        "title": "chore(ci): pin GitHub Actions and scope GITHUB_TOKEN permissions",
+        "url": "https://github.com/celestiaorg/go-square/pull/260",
+        "repo": "go-square",
+        "author": "rootulp",
+        "reviewer": "cmwaters",
+        "requestedAt": "2026-04-20T22:47:55Z"
+      }
+    ],
     "walldiss": [
       {
         "number": 4148,
@@ -941,5 +970,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-04-20T22:47:41.774Z"
+  "fetchedAt": "2026-04-20T23:06:42.574Z"
 }
