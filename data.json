@@ -1,16 +1,6 @@
 {
   "reviews": {
-    "rootulp": [
-      {
-        "number": 972,
-        "title": "ci: make release-plz PR creation manual-only",
-        "url": "https://github.com/celestiaorg/lumina/pull/972",
-        "repo": "lumina",
-        "author": "mcrakhman",
-        "reviewer": "rootulp",
-        "requestedAt": "2026-04-20T23:03:57Z"
-      }
-    ],
+    "rootulp": [],
     "ninabarbakadze": [
       {
         "number": 6869,
@@ -215,6 +205,15 @@
         "author": "dependabot",
         "reviewer": "vgonkivs",
         "requestedAt": "2026-04-20T10:59:47Z"
+      },
+      {
+        "number": 2961,
+        "title": "feat(ci): add upstream CometBFT watcher workflow",
+        "url": "https://github.com/celestiaorg/celestia-core/pull/2961",
+        "repo": "celestia-core",
+        "author": "rootulp",
+        "reviewer": "vgonkivs",
+        "requestedAt": "2026-04-20T23:19:12Z"
       },
       {
         "number": 4148,
@@ -970,5 +969,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-04-20T23:06:42.574Z"
+  "fetchedAt": "2026-04-20T23:26:53.007Z"
 }
