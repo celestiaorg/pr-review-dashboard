@@ -382,6 +382,15 @@
     ],
     "cmwaters": [
       {
+        "number": 7149,
+        "title": "chore: log peer count in WaitForSync to diagnose sync flakes",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/7149",
+        "repo": "celestia-app",
+        "author": "rootulp",
+        "reviewer": "cmwaters",
+        "requestedAt": "2026-04-21T22:39:55Z"
+      },
+      {
         "number": 260,
         "title": "chore(ci): pin GitHub Actions and scope GITHUB_TOKEN permissions",
         "url": "https://github.com/celestiaorg/go-square/pull/260",
@@ -843,5 +852,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-04-21T22:21:37.825Z"
+  "fetchedAt": "2026-04-21T22:40:06.295Z"
 }
