@@ -124,15 +124,6 @@
         "requestedAt": "2026-04-20T14:17:12Z"
       },
       {
-        "number": 7146,
-        "title": "fix: re-roll privval gRPC port in testnode retry",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7146",
-        "repo": "celestia-app",
-        "author": "rootulp",
-        "reviewer": "mcrakhman",
-        "requestedAt": "2026-04-20T18:23:22Z"
-      },
-      {
         "number": 2958,
         "title": "build(deps): Bump github.com/go-git/go-git/v5 from 5.17.2 to 5.18.0",
         "url": "https://github.com/celestiaorg/celestia-core/pull/2958",
@@ -969,5 +960,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-04-21T07:49:50.368Z"
+  "fetchedAt": "2026-04-21T08:25:09.367Z"
 }
