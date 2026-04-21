@@ -21,15 +21,6 @@
         "requestedAt": "2026-04-05T20:27:36Z"
       },
       {
-        "number": 7135,
-        "title": "feat(fibre): add Go runtime metrics to fibre server and txsim",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7135",
-        "repo": "celestia-app",
-        "author": "walldiss",
-        "reviewer": "ninabarbakadze",
-        "requestedAt": "2026-04-20T12:50:59Z"
-      },
-      {
         "number": 7140,
         "title": "fix(fibre): sanitize pprof labels before Pyroscope upload",
         "url": "https://github.com/celestiaorg/celestia-app/pull/7140",
@@ -933,5 +924,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-04-21T10:50:02.468Z"
+  "fetchedAt": "2026-04-21T11:20:07.584Z"
 }
