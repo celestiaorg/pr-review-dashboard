@@ -57,24 +57,6 @@
         "requestedAt": "2026-04-20T18:58:17Z"
       },
       {
-        "number": 7150,
-        "title": "chore(deps): bump github.com/celestiaorg/tastora from 0.18.0 to 0.19.0",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7150",
-        "repo": "celestia-app",
-        "author": "rootulp",
-        "reviewer": "ninabarbakadze",
-        "requestedAt": "2026-04-20T22:21:45Z"
-      },
-      {
-        "number": 7151,
-        "title": "chore(deps): bump rustls-webpki from 0.103.10 to 0.103.12 in /tools/lumina-latency-monitor",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7151",
-        "repo": "celestia-app",
-        "author": "rootulp",
-        "reviewer": "ninabarbakadze",
-        "requestedAt": "2026-04-20T22:48:41Z"
-      },
-      {
         "number": 4955,
         "title": "chore(deps): bump tastora to v0.19.0 to resolve docker/moby CVEs",
         "url": "https://github.com/celestiaorg/celestia-node/pull/4955",
@@ -113,15 +95,6 @@
         "author": "evan-forbes",
         "reviewer": "mcrakhman",
         "requestedAt": "2026-04-02T14:40:28Z"
-      },
-      {
-        "number": 7134,
-        "title": "chore: set verify_data to false for blocksync",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7134",
-        "repo": "celestia-app",
-        "author": "ninabarbakadze",
-        "reviewer": "mcrakhman",
-        "requestedAt": "2026-04-20T14:17:12Z"
       },
       {
         "number": 2958,
@@ -960,5 +933,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-04-21T08:25:09.367Z"
+  "fetchedAt": "2026-04-21T09:06:11.028Z"
 }
