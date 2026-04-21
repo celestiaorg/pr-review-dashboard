@@ -378,15 +378,6 @@
         "author": "dependabot",
         "reviewer": "evan-forbes",
         "requestedAt": "2026-04-20T12:33:13Z"
-      },
-      {
-        "number": 4960,
-        "title": "chore: bump node to v8.0.3",
-        "url": "https://github.com/celestiaorg/celestia-node/pull/4960",
-        "repo": "celestia-node",
-        "author": "ninabarbakadze",
-        "reviewer": "evan-forbes",
-        "requestedAt": "2026-04-21T15:29:47Z"
       }
     ],
     "cmwaters": [
@@ -852,5 +843,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-04-21T17:54:27.438Z"
+  "fetchedAt": "2026-04-21T18:18:47.000Z"
 }
