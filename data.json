@@ -207,15 +207,6 @@
         "requestedAt": "2026-04-20T10:59:47Z"
       },
       {
-        "number": 2961,
-        "title": "feat(ci): add upstream CometBFT watcher workflow",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/2961",
-        "repo": "celestia-core",
-        "author": "rootulp",
-        "reviewer": "vgonkivs",
-        "requestedAt": "2026-04-20T23:19:12Z"
-      },
-      {
         "number": 4148,
         "title": "feat(cel-shed): add RTT measurement feature for bootstrappers",
         "url": "https://github.com/celestiaorg/celestia-node/pull/4148",
@@ -969,5 +960,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-04-21T03:55:00.104Z"
+  "fetchedAt": "2026-04-21T04:57:52.631Z"
 }
