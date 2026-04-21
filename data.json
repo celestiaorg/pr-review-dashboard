@@ -21,24 +21,6 @@
         "requestedAt": "2026-04-05T20:27:36Z"
       },
       {
-        "number": 7140,
-        "title": "fix(fibre): sanitize pprof labels before Pyroscope upload",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7140",
-        "repo": "celestia-app",
-        "author": "walldiss",
-        "reviewer": "ninabarbakadze",
-        "requestedAt": "2026-04-20T14:33:58Z"
-      },
-      {
-        "number": 7148,
-        "title": "fix: pre-pull minor-version images with retry in TestMinorVersionCompatibility",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7148",
-        "repo": "celestia-app",
-        "author": "rootulp",
-        "reviewer": "ninabarbakadze",
-        "requestedAt": "2026-04-20T18:41:53Z"
-      },
-      {
         "number": 7149,
         "title": "chore: log peer count in WaitForSync to diagnose sync flakes",
         "url": "https://github.com/celestiaorg/celestia-app/pull/7149",
@@ -46,24 +28,6 @@
         "author": "rootulp",
         "reviewer": "ninabarbakadze",
         "requestedAt": "2026-04-20T18:58:17Z"
-      },
-      {
-        "number": 4955,
-        "title": "chore(deps): bump tastora to v0.19.0 to resolve docker/moby CVEs",
-        "url": "https://github.com/celestiaorg/celestia-node/pull/4955",
-        "repo": "celestia-node",
-        "author": "rootulp",
-        "reviewer": "ninabarbakadze",
-        "requestedAt": "2026-04-20T22:24:19Z"
-      },
-      {
-        "number": 321,
-        "title": "ci: pin markdown-lint action to celestiaorg/.github v0.6.4",
-        "url": "https://github.com/celestiaorg/nmt/pull/321",
-        "repo": "nmt",
-        "author": "rootulp",
-        "reviewer": "ninabarbakadze",
-        "requestedAt": "2026-04-20T19:17:29Z"
       }
     ],
     "rach-id": [
@@ -149,15 +113,6 @@
         "author": "zvolin",
         "reviewer": "mcrakhman",
         "requestedAt": "2026-02-06T11:07:52Z"
-      },
-      {
-        "number": 321,
-        "title": "ci: pin markdown-lint action to celestiaorg/.github v0.6.4",
-        "url": "https://github.com/celestiaorg/nmt/pull/321",
-        "repo": "nmt",
-        "author": "rootulp",
-        "reviewer": "mcrakhman",
-        "requestedAt": "2026-04-20T19:17:29Z"
       }
     ],
     "vgonkivs": [
@@ -412,15 +367,6 @@
         "author": "renaynay",
         "reviewer": "vgonkivs",
         "requestedAt": "2026-01-07T20:12:25Z"
-      },
-      {
-        "number": 321,
-        "title": "ci: pin markdown-lint action to celestiaorg/.github v0.6.4",
-        "url": "https://github.com/celestiaorg/nmt/pull/321",
-        "repo": "nmt",
-        "author": "rootulp",
-        "reviewer": "vgonkivs",
-        "requestedAt": "2026-04-17T21:09:44Z"
       }
     ],
     "evan-forbes": [
@@ -924,5 +870,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-04-21T11:20:07.584Z"
+  "fetchedAt": "2026-04-21T11:45:34.876Z"
 }
