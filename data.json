@@ -10,6 +10,15 @@
         "author": "rootulp",
         "reviewer": "ninabarbakadze",
         "requestedAt": "2026-04-20T18:58:17Z"
+      },
+      {
+        "number": 2961,
+        "title": "feat(ci): add upstream CometBFT watcher workflow",
+        "url": "https://github.com/celestiaorg/celestia-core/pull/2961",
+        "repo": "celestia-core",
+        "author": "rootulp",
+        "reviewer": "ninabarbakadze",
+        "requestedAt": "2026-04-21T22:40:50Z"
       }
     ],
     "rach-id": [
@@ -371,6 +380,15 @@
         "requestedAt": "2026-04-20T10:59:40Z"
       },
       {
+        "number": 2961,
+        "title": "feat(ci): add upstream CometBFT watcher workflow",
+        "url": "https://github.com/celestiaorg/celestia-core/pull/2961",
+        "repo": "celestia-core",
+        "author": "rootulp",
+        "reviewer": "evan-forbes",
+        "requestedAt": "2026-04-21T22:40:50Z"
+      },
+      {
         "number": 4952,
         "title": "chore(deps): bump alpine from 3.23.3 to 3.23.4 in the patch-updates group",
         "url": "https://github.com/celestiaorg/celestia-node/pull/4952",
@@ -389,6 +407,15 @@
         "author": "rootulp",
         "reviewer": "cmwaters",
         "requestedAt": "2026-04-21T22:39:55Z"
+      },
+      {
+        "number": 2961,
+        "title": "feat(ci): add upstream CometBFT watcher workflow",
+        "url": "https://github.com/celestiaorg/celestia-core/pull/2961",
+        "repo": "celestia-core",
+        "author": "rootulp",
+        "reviewer": "cmwaters",
+        "requestedAt": "2026-04-21T22:40:50Z"
       },
       {
         "number": 260,
@@ -852,5 +879,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-04-21T22:40:06.295Z"
+  "fetchedAt": "2026-04-21T22:59:41.436Z"
 }
