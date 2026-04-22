@@ -2,6 +2,15 @@
   "reviews": {
     "rootulp": [
       {
+        "number": 7154,
+        "title": "feat(fibre)!: isolate upload failures per peer via non-blocking fan-out and layered timeouts",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/7154",
+        "repo": "celestia-app",
+        "author": "walldiss",
+        "reviewer": "rootulp",
+        "requestedAt": "2026-04-21T13:43:06Z"
+      },
+      {
         "number": 7161,
         "title": "chore: update all v8 refs to mainnet release",
         "url": "https://github.com/celestiaorg/celestia-app/pull/7161",
@@ -808,5 +817,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-04-22T17:28:33.584Z"
+  "fetchedAt": "2026-04-22T17:53:00.668Z"
 }
