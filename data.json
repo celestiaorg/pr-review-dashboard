@@ -318,6 +318,15 @@
     ],
     "evan-forbes": [
       {
+        "number": 7163,
+        "title": "feat(tools): add Rust port of fibre-txsim",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/7163",
+        "repo": "celestia-app",
+        "author": "mcrakhman",
+        "reviewer": "evan-forbes",
+        "requestedAt": "2026-04-22T14:38:36Z"
+      },
+      {
         "number": 2956,
         "title": "build(deps): Bump github.com/aws/aws-sdk-go-v2/credentials from 1.19.14 to 1.19.15",
         "url": "https://github.com/celestiaorg/celestia-core/pull/2956",
@@ -799,5 +808,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-04-22T14:23:41.464Z"
+  "fetchedAt": "2026-04-22T14:58:03.031Z"
 }
