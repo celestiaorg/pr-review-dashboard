@@ -28,6 +28,15 @@
         "author": "rootulp",
         "reviewer": "ninabarbakadze",
         "requestedAt": "2026-04-21T22:40:50Z"
+      },
+      {
+        "number": 4955,
+        "title": "chore(deps): bump tastora to v0.19.0 to resolve docker/moby CVEs",
+        "url": "https://github.com/celestiaorg/celestia-node/pull/4955",
+        "repo": "celestia-node",
+        "author": "rootulp",
+        "reviewer": "ninabarbakadze",
+        "requestedAt": "2026-04-22T02:10:22Z"
       }
     ],
     "rach-id": [
@@ -322,6 +331,15 @@
         "author": "rootulp",
         "reviewer": "vgonkivs",
         "requestedAt": "2026-04-20T22:23:17Z"
+      },
+      {
+        "number": 4955,
+        "title": "chore(deps): bump tastora to v0.19.0 to resolve docker/moby CVEs",
+        "url": "https://github.com/celestiaorg/celestia-node/pull/4955",
+        "repo": "celestia-node",
+        "author": "rootulp",
+        "reviewer": "vgonkivs",
+        "requestedAt": "2026-04-21T22:47:20Z"
       },
       {
         "number": 4956,
@@ -879,5 +897,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-04-22T01:43:30.628Z"
+  "fetchedAt": "2026-04-22T02:42:52.112Z"
 }
