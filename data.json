@@ -297,15 +297,6 @@
         "requestedAt": "2026-03-04T06:12:55Z"
       },
       {
-        "number": 4942,
-        "title": "fix: correct cleanup usage in pidstore tests",
-        "url": "https://github.com/celestiaorg/celestia-node/pull/4942",
-        "repo": "celestia-node",
-        "author": "enlightened88",
-        "reviewer": "vgonkivs",
-        "requestedAt": "2026-04-14T12:04:38Z"
-      },
-      {
         "number": 4955,
         "title": "chore(deps): bump tastora to v0.19.0 to resolve docker/moby CVEs",
         "url": "https://github.com/celestiaorg/celestia-node/pull/4955",
@@ -843,5 +834,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-04-22T10:13:09.129Z"
+  "fetchedAt": "2026-04-22T10:44:56.809Z"
 }
