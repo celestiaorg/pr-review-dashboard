@@ -18,6 +18,15 @@
         "author": "ninabarbakadze",
         "reviewer": "rootulp",
         "requestedAt": "2026-04-22T11:59:37Z"
+      },
+      {
+        "number": 7163,
+        "title": "feat(tools): add Rust port of fibre-txsim",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/7163",
+        "repo": "celestia-app",
+        "author": "mcrakhman",
+        "reviewer": "rootulp",
+        "requestedAt": "2026-04-22T20:31:07Z"
       }
     ],
     "ninabarbakadze": [
@@ -826,5 +835,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-04-22T20:12:15.061Z"
+  "fetchedAt": "2026-04-22T20:34:56.470Z"
 }
