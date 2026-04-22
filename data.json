@@ -342,24 +342,6 @@
         "requestedAt": "2026-04-21T22:47:20Z"
       },
       {
-        "number": 4956,
-        "title": "ci: set least-privilege GITHUB_TOKEN permissions",
-        "url": "https://github.com/celestiaorg/celestia-node/pull/4956",
-        "repo": "celestia-node",
-        "author": "rootulp",
-        "reviewer": "vgonkivs",
-        "requestedAt": "2026-04-20T22:35:17Z"
-      },
-      {
-        "number": 4957,
-        "title": "ci: pin third-party actions to commit SHAs",
-        "url": "https://github.com/celestiaorg/celestia-node/pull/4957",
-        "repo": "celestia-node",
-        "author": "rootulp",
-        "reviewer": "vgonkivs",
-        "requestedAt": "2026-04-20T22:36:45Z"
-      },
-      {
         "number": 144,
         "title": "chore(deps): bump github.com/libp2p/go-libp2p-pubsub from 0.13.1 to 0.15.0",
         "url": "https://github.com/celestiaorg/go-fraud/pull/144",
@@ -897,5 +879,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-04-22T05:39:24.788Z"
+  "fetchedAt": "2026-04-22T06:20:36.313Z"
 }
