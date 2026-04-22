@@ -1,16 +1,17 @@
 {
   "reviews": {
-    "rootulp": [],
-    "ninabarbakadze": [
+    "rootulp": [
       {
-        "number": 7149,
-        "title": "chore: log peer count in WaitForSync to diagnose sync flakes",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7149",
+        "number": 7161,
+        "title": "chore: update all v8 refs to mainnet release",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/7161",
         "repo": "celestia-app",
-        "author": "rootulp",
-        "reviewer": "ninabarbakadze",
-        "requestedAt": "2026-04-20T18:58:17Z"
-      },
+        "author": "ninabarbakadze",
+        "reviewer": "rootulp",
+        "requestedAt": "2026-04-22T11:59:37Z"
+      }
+    ],
+    "ninabarbakadze": [
       {
         "number": 7159,
         "title": "feat(fibre): bucketed row pool",
@@ -28,15 +29,6 @@
         "author": "rootulp",
         "reviewer": "ninabarbakadze",
         "requestedAt": "2026-04-21T22:40:50Z"
-      },
-      {
-        "number": 4955,
-        "title": "chore(deps): bump tastora to v0.19.0 to resolve docker/moby CVEs",
-        "url": "https://github.com/celestiaorg/celestia-node/pull/4955",
-        "repo": "celestia-node",
-        "author": "rootulp",
-        "reviewer": "ninabarbakadze",
-        "requestedAt": "2026-04-22T02:10:22Z"
       }
     ],
     "rach-id": [
@@ -51,6 +43,15 @@
       }
     ],
     "mcrakhman": [
+      {
+        "number": 7162,
+        "title": "docs: note that verify data is false in release notes",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/7162",
+        "repo": "celestia-app",
+        "author": "ninabarbakadze",
+        "reviewer": "mcrakhman",
+        "requestedAt": "2026-04-22T11:59:06Z"
+      },
       {
         "number": 2958,
         "title": "build(deps): Bump github.com/go-git/go-git/v5 from 5.17.2 to 5.18.0",
@@ -317,15 +318,6 @@
     ],
     "evan-forbes": [
       {
-        "number": 7149,
-        "title": "chore: log peer count in WaitForSync to diagnose sync flakes",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7149",
-        "repo": "celestia-app",
-        "author": "rootulp",
-        "reviewer": "evan-forbes",
-        "requestedAt": "2026-04-20T18:44:00Z"
-      },
-      {
         "number": 2956,
         "title": "build(deps): Bump github.com/aws/aws-sdk-go-v2/credentials from 1.19.14 to 1.19.15",
         "url": "https://github.com/celestiaorg/celestia-core/pull/2956",
@@ -354,15 +346,6 @@
       }
     ],
     "cmwaters": [
-      {
-        "number": 7149,
-        "title": "chore: log peer count in WaitForSync to diagnose sync flakes",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7149",
-        "repo": "celestia-app",
-        "author": "rootulp",
-        "reviewer": "cmwaters",
-        "requestedAt": "2026-04-21T22:39:55Z"
-      },
       {
         "number": 2961,
         "title": "feat(ci): add upstream CometBFT watcher workflow",
@@ -816,5 +799,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-04-22T11:41:23.004Z"
+  "fetchedAt": "2026-04-22T12:06:18.450Z"
 }
