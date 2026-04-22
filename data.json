@@ -61,15 +61,6 @@
         "requestedAt": "2026-04-20T10:59:53Z"
       },
       {
-        "number": 4765,
-        "title": "feat(shwap/blob): add blob to shwap",
-        "url": "https://github.com/celestiaorg/celestia-node/pull/4765",
-        "repo": "celestia-node",
-        "author": "vgonkivs",
-        "reviewer": "mcrakhman",
-        "requestedAt": "2026-02-16T11:36:33Z"
-      },
-      {
         "number": 4818,
         "title": "docgen: include Authorization header requirement in OpenRPC method de…",
         "url": "https://github.com/celestiaorg/celestia-node/pull/4818",
@@ -791,15 +782,6 @@
         "requestedAt": "2026-01-15T14:37:35Z"
       },
       {
-        "number": 4765,
-        "title": "feat(shwap/blob): add blob to shwap",
-        "url": "https://github.com/celestiaorg/celestia-node/pull/4765",
-        "repo": "celestia-node",
-        "author": "vgonkivs",
-        "reviewer": "Wondertan",
-        "requestedAt": "2026-01-25T09:06:00Z"
-      },
-      {
         "number": 4818,
         "title": "docgen: include Authorization header requirement in OpenRPC method de…",
         "url": "https://github.com/celestiaorg/celestia-node/pull/4818",
@@ -870,5 +852,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-04-22T08:20:52.685Z"
+  "fetchedAt": "2026-04-22T08:59:47.700Z"
 }
