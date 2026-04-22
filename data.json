@@ -99,15 +99,6 @@
     ],
     "vgonkivs": [
       {
-        "number": 7157,
-        "title": "chore: deprecate update config command",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7157",
-        "repo": "celestia-app",
-        "author": "ninabarbakadze",
-        "reviewer": "vgonkivs",
-        "requestedAt": "2026-04-21T16:05:11Z"
-      },
-      {
         "number": 2957,
         "title": "build(deps): Bump github.com/adlio/schema from 1.4.0 to 1.5.0",
         "url": "https://github.com/celestiaorg/celestia-core/pull/2957",
@@ -852,5 +843,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-04-22T09:42:25.915Z"
+  "fetchedAt": "2026-04-22T10:13:09.129Z"
 }
