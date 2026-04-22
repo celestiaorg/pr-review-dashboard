@@ -2,36 +2,36 @@
   "latencies": {
     "rootulp": {
       "week": {
-        "n": 10,
-        "medianHours": 5.06,
-        "p90Hours": 62.903055555555554
+        "n": 11,
+        "medianHours": 4.178333333333334,
+        "p90Hours": 9.079444444444444
       },
       "month": {
-        "n": 43,
+        "n": 44,
         "medianHours": 3.706111111111111,
         "p90Hours": 9.079444444444444
       },
       "year": {
-        "n": 141,
+        "n": 142,
         "medianHours": 3.5702777777777777,
         "p90Hours": 15.91611111111111
       }
     },
     "ninabarbakadze": {
       "week": {
-        "n": 4,
-        "medianHours": 1.6891666666666667,
-        "p90Hours": 1.7541666666666667
+        "n": 9,
+        "medianHours": 9.908055555555556,
+        "p90Hours": 20.82777777777778
       },
       "month": {
-        "n": 57,
-        "medianHours": 11.315555555555555,
-        "p90Hours": 29.384444444444444
+        "n": 62,
+        "medianHours": 12.116944444444444,
+        "p90Hours": 26.330555555555556
       },
       "year": {
-        "n": 179,
-        "medianHours": 8.22861111111111,
-        "p90Hours": 53.346111111111114
+        "n": 184,
+        "medianHours": 8.477222222222222,
+        "p90Hours": 50.51305555555555
       }
     },
     "rach-id": {
@@ -53,18 +53,18 @@
     },
     "mcrakhman": {
       "week": {
-        "n": 0,
-        "medianHours": null,
-        "p90Hours": null
+        "n": 1,
+        "medianHours": 1.76,
+        "p90Hours": 1.76
       },
       "month": {
-        "n": 17,
+        "n": 18,
         "medianHours": 15.403333333333334,
         "p90Hours": 111.00305555555556
       },
       "year": {
-        "n": 34,
-        "medianHours": 12.374722222222223,
+        "n": 35,
+        "medianHours": 12.354444444444445,
         "p90Hours": 133.54
       }
     },
@@ -201,7 +201,7 @@
       "defaultHidden": true
     }
   ],
-  "computedAt": "2026-04-21T00:16:42.531Z",
+  "computedAt": "2026-04-22T00:13:35.818Z",
   "windows": {
     "weekStart": "2026-04-20T00:00:00.000Z",
     "monthStart": "2026-04-01T00:00:00.000Z",

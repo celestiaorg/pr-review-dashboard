@@ -12,6 +12,15 @@
         "requestedAt": "2026-04-20T18:58:17Z"
       },
       {
+        "number": 7159,
+        "title": "feat(fibre): bucketed row pool",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/7159",
+        "repo": "celestia-app",
+        "author": "Wondertan",
+        "reviewer": "ninabarbakadze",
+        "requestedAt": "2026-04-22T00:28:13Z"
+      },
+      {
         "number": 2961,
         "title": "feat(ci): add upstream CometBFT watcher workflow",
         "url": "https://github.com/celestiaorg/celestia-core/pull/2961",
@@ -352,15 +361,6 @@
       }
     ],
     "evan-forbes": [
-      {
-        "number": 7091,
-        "title": "perf(fibre): decrease encoding memory usage by 8x",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7091",
-        "repo": "celestia-app",
-        "author": "Wondertan",
-        "reviewer": "evan-forbes",
-        "requestedAt": "2026-04-20T12:58:03Z"
-      },
       {
         "number": 7149,
         "title": "chore: log peer count in WaitForSync to diagnose sync flakes",
@@ -879,5 +879,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-04-22T00:06:52.464Z"
+  "fetchedAt": "2026-04-22T00:59:00.433Z"
 }
