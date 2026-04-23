@@ -9,15 +9,6 @@
         "author": "walldiss",
         "reviewer": "rootulp",
         "requestedAt": "2026-04-21T13:43:06Z"
-      },
-      {
-        "number": 7163,
-        "title": "feat(tools): add Rust port of fibre-txsim",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7163",
-        "repo": "celestia-app",
-        "author": "mcrakhman",
-        "reviewer": "rootulp",
-        "requestedAt": "2026-04-22T20:31:07Z"
       }
     ],
     "ninabarbakadze": [
@@ -305,6 +296,15 @@
         "author": "Sushil-19",
         "reviewer": "vgonkivs",
         "requestedAt": "2026-03-04T06:12:55Z"
+      },
+      {
+        "number": 4954,
+        "title": "fix(share/cmd): bounds-check index parsing in share CLI",
+        "url": "https://github.com/celestiaorg/celestia-node/pull/4954",
+        "repo": "celestia-node",
+        "author": "rootulp",
+        "reviewer": "vgonkivs",
+        "requestedAt": "2026-04-23T03:01:04Z"
       },
       {
         "number": 144,
@@ -817,5 +817,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-04-23T02:50:32.584Z"
+  "fetchedAt": "2026-04-23T03:58:45.261Z"
 }
