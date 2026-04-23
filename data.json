@@ -9,6 +9,15 @@
         "author": "walldiss",
         "reviewer": "rootulp",
         "requestedAt": "2026-04-21T13:43:06Z"
+      },
+      {
+        "number": 7155,
+        "title": "feat(fibre): bound upload memory budget by bytes",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/7155",
+        "repo": "celestia-app",
+        "author": "walldiss",
+        "reviewer": "rootulp",
+        "requestedAt": "2026-04-23T13:49:11Z"
       }
     ],
     "ninabarbakadze": [
@@ -352,6 +361,15 @@
         "author": "dependabot",
         "reviewer": "evan-forbes",
         "requestedAt": "2026-04-20T12:33:13Z"
+      },
+      {
+        "number": 4962,
+        "title": "feat(blob)!: allow Subscribe to resume from a given height",
+        "url": "https://github.com/celestiaorg/celestia-node/pull/4962",
+        "repo": "celestia-node",
+        "author": "walldiss",
+        "reviewer": "evan-forbes",
+        "requestedAt": "2026-04-23T13:55:09Z"
       }
     ],
     "cmwaters": [
@@ -808,5 +826,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-04-23T13:44:58.973Z"
+  "fetchedAt": "2026-04-23T14:23:44.846Z"
 }
