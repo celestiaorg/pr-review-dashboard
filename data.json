@@ -1,34 +1,6 @@
 {
   "reviews": {
-    "rootulp": [
-      {
-        "number": 7154,
-        "title": "feat(fibre)!: isolate upload failures per peer via non-blocking fan-out and layered timeouts",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7154",
-        "repo": "celestia-app",
-        "author": "walldiss",
-        "reviewer": "rootulp",
-        "requestedAt": "2026-04-21T13:43:06Z"
-      },
-      {
-        "number": 7155,
-        "title": "feat(fibre): bound upload memory budget by bytes",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7155",
-        "repo": "celestia-app",
-        "author": "walldiss",
-        "reviewer": "rootulp",
-        "requestedAt": "2026-04-23T13:49:11Z"
-      },
-      {
-        "number": 4965,
-        "title": "fix: post-v9-bump CI follow-ups",
-        "url": "https://github.com/celestiaorg/celestia-node/pull/4965",
-        "repo": "celestia-node",
-        "author": "walldiss",
-        "reviewer": "rootulp",
-        "requestedAt": "2026-04-23T17:19:18Z"
-      }
-    ],
+    "rootulp": [],
     "ninabarbakadze": [
       {
         "number": 7159,
@@ -799,5 +771,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-04-23T19:12:56.107Z"
+  "fetchedAt": "2026-04-23T19:45:34.601Z"
 }
