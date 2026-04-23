@@ -53,6 +53,15 @@
         "requestedAt": "2026-04-22T11:59:06Z"
       },
       {
+        "number": 7165,
+        "title": "perf(fibre): batched RLC verify for shard uploads",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/7165",
+        "repo": "celestia-app",
+        "author": "walldiss",
+        "reviewer": "mcrakhman",
+        "requestedAt": "2026-04-23T13:02:59Z"
+      },
+      {
         "number": 2958,
         "title": "build(deps): Bump github.com/go-git/go-git/v5 from 5.17.2 to 5.18.0",
         "url": "https://github.com/celestiaorg/celestia-core/pull/2958",
@@ -799,5 +808,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-04-23T12:36:36.466Z"
+  "fetchedAt": "2026-04-23T13:04:32.871Z"
 }
