@@ -314,15 +314,6 @@
         "author": "dependabot",
         "reviewer": "vgonkivs",
         "requestedAt": "2026-04-20T12:34:07Z"
-      },
-      {
-        "number": 361,
-        "title": "perf(sync): More lenient recency window by default",
-        "url": "https://github.com/celestiaorg/go-header/pull/361",
-        "repo": "go-header",
-        "author": "renaynay",
-        "reviewer": "vgonkivs",
-        "requestedAt": "2026-01-07T20:12:25Z"
       }
     ],
     "evan-forbes": [
@@ -563,15 +554,6 @@
         "author": "ninabarbakadze",
         "reviewer": "walldiss",
         "requestedAt": "2026-04-17T10:40:06Z"
-      },
-      {
-        "number": 361,
-        "title": "perf(sync): More lenient recency window by default",
-        "url": "https://github.com/celestiaorg/go-header/pull/361",
-        "repo": "go-header",
-        "author": "renaynay",
-        "reviewer": "walldiss",
-        "requestedAt": "2026-01-07T20:12:25Z"
       }
     ],
     "Wondertan": [
@@ -754,15 +736,6 @@
         "author": "Sushil-19",
         "reviewer": "Wondertan",
         "requestedAt": "2026-03-04T06:12:55Z"
-      },
-      {
-        "number": 361,
-        "title": "perf(sync): More lenient recency window by default",
-        "url": "https://github.com/celestiaorg/go-header/pull/361",
-        "repo": "go-header",
-        "author": "renaynay",
-        "reviewer": "Wondertan",
-        "requestedAt": "2026-01-07T20:12:25Z"
       }
     ]
   },
@@ -817,5 +790,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-04-23T15:58:00.429Z"
+  "fetchedAt": "2026-04-23T16:42:46.075Z"
 }
