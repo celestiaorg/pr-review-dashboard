@@ -298,15 +298,6 @@
         "requestedAt": "2026-03-04T06:12:55Z"
       },
       {
-        "number": 4954,
-        "title": "fix(share/cmd): bounds-check index parsing in share CLI",
-        "url": "https://github.com/celestiaorg/celestia-node/pull/4954",
-        "repo": "celestia-node",
-        "author": "rootulp",
-        "reviewer": "vgonkivs",
-        "requestedAt": "2026-04-23T03:01:04Z"
-      },
-      {
         "number": 144,
         "title": "chore(deps): bump github.com/libp2p/go-libp2p-pubsub from 0.13.1 to 0.15.0",
         "url": "https://github.com/celestiaorg/go-fraud/pull/144",
@@ -817,5 +808,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-04-23T07:17:20.822Z"
+  "fetchedAt": "2026-04-23T08:03:13.624Z"
 }
