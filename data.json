@@ -38,6 +38,15 @@
         "author": "rootulp",
         "reviewer": "ninabarbakadze",
         "requestedAt": "2026-04-21T22:40:50Z"
+      },
+      {
+        "number": 391,
+        "title": "feat(syncer/metric): add header lag metric to syncer",
+        "url": "https://github.com/celestiaorg/go-header/pull/391",
+        "repo": "go-header",
+        "author": "vgonkivs",
+        "reviewer": "ninabarbakadze",
+        "requestedAt": "2026-04-23T14:54:42Z"
       }
     ],
     "rach-id": [
@@ -361,15 +370,6 @@
         "author": "dependabot",
         "reviewer": "evan-forbes",
         "requestedAt": "2026-04-20T12:33:13Z"
-      },
-      {
-        "number": 4962,
-        "title": "feat(blob)!: allow Subscribe to resume from a given height",
-        "url": "https://github.com/celestiaorg/celestia-node/pull/4962",
-        "repo": "celestia-node",
-        "author": "walldiss",
-        "reviewer": "evan-forbes",
-        "requestedAt": "2026-04-23T13:55:09Z"
       }
     ],
     "cmwaters": [
@@ -826,5 +826,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-04-23T14:23:44.846Z"
+  "fetchedAt": "2026-04-23T15:13:32.691Z"
 }
