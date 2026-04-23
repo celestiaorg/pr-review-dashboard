@@ -18,6 +18,15 @@
         "author": "walldiss",
         "reviewer": "rootulp",
         "requestedAt": "2026-04-23T13:49:11Z"
+      },
+      {
+        "number": 4965,
+        "title": "fix: post-v9-bump CI follow-ups",
+        "url": "https://github.com/celestiaorg/celestia-node/pull/4965",
+        "repo": "celestia-node",
+        "author": "walldiss",
+        "reviewer": "rootulp",
+        "requestedAt": "2026-04-23T17:19:18Z"
       }
     ],
     "ninabarbakadze": [
@@ -352,6 +361,15 @@
         "author": "dependabot",
         "reviewer": "evan-forbes",
         "requestedAt": "2026-04-20T12:33:13Z"
+      },
+      {
+        "number": 4966,
+        "title": "fix(header/sync): bump recencyThreshold to 3x blockTime",
+        "url": "https://github.com/celestiaorg/celestia-node/pull/4966",
+        "repo": "celestia-node",
+        "author": "vgonkivs",
+        "reviewer": "evan-forbes",
+        "requestedAt": "2026-04-23T17:26:04Z"
       }
     ],
     "cmwaters": [
@@ -790,5 +808,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-04-23T17:13:21.932Z"
+  "fetchedAt": "2026-04-23T17:48:43.193Z"
 }
