@@ -29,15 +29,6 @@
         "author": "rootulp",
         "reviewer": "ninabarbakadze",
         "requestedAt": "2026-04-21T22:40:50Z"
-      },
-      {
-        "number": 4961,
-        "title": "feat(client): run Fibre operations locally instead of via bridge",
-        "url": "https://github.com/celestiaorg/celestia-node/pull/4961",
-        "repo": "celestia-node",
-        "author": "walldiss",
-        "reviewer": "ninabarbakadze",
-        "requestedAt": "2026-04-22T18:31:03Z"
       }
     ],
     "rach-id": [
@@ -808,5 +799,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-04-23T10:00:27.436Z"
+  "fetchedAt": "2026-04-23T10:40:04.421Z"
 }
