@@ -1,26 +1,7 @@
 {
   "reviews": {
-    "rootulp": [
-      {
-        "number": 7170,
-        "title": "fix: buf release workflows should trigger on release published",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7170",
-        "repo": "celestia-app",
-        "author": "damiannolan",
-        "reviewer": "rootulp",
-        "requestedAt": "2026-04-24T13:34:03Z"
-      }
-    ],
+    "rootulp": [],
     "ninabarbakadze": [
-      {
-        "number": 7159,
-        "title": "feat(fibre): bucketed row pool",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7159",
-        "repo": "celestia-app",
-        "author": "Wondertan",
-        "reviewer": "ninabarbakadze",
-        "requestedAt": "2026-04-22T00:28:13Z"
-      },
       {
         "number": 2961,
         "title": "feat(ci): add upstream CometBFT watcher workflow",
@@ -52,33 +33,6 @@
       }
     ],
     "mcrakhman": [
-      {
-        "number": 7162,
-        "title": "docs: note that verify data is false in release notes",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7162",
-        "repo": "celestia-app",
-        "author": "ninabarbakadze",
-        "reviewer": "mcrakhman",
-        "requestedAt": "2026-04-22T11:59:06Z"
-      },
-      {
-        "number": 7165,
-        "title": "perf(fibre): batched RLC verify for shard uploads",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7165",
-        "repo": "celestia-app",
-        "author": "walldiss",
-        "reviewer": "mcrakhman",
-        "requestedAt": "2026-04-23T13:02:59Z"
-      },
-      {
-        "number": 7168,
-        "title": "chore(deps): bump rand from 0.8.5 to 0.8.6 in /tools/rust-fibre-txsim",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7168",
-        "repo": "celestia-app",
-        "author": "dependabot",
-        "reviewer": "mcrakhman",
-        "requestedAt": "2026-04-24T13:00:09Z"
-      },
       {
         "number": 2958,
         "title": "build(deps): Bump github.com/go-git/go-git/v5 from 5.17.2 to 5.18.0",
@@ -117,15 +71,6 @@
       }
     ],
     "vgonkivs": [
-      {
-        "number": 7167,
-        "title": "chore(deps): bump rustls-webpki from 0.103.11 to 0.103.13 in /tools/rust-fibre-txsim",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7167",
-        "repo": "celestia-app",
-        "author": "dependabot",
-        "reviewer": "vgonkivs",
-        "requestedAt": "2026-04-24T13:00:06Z"
-      },
       {
         "number": 2957,
         "title": "build(deps): Bump github.com/adlio/schema from 1.4.0 to 1.5.0",
@@ -567,15 +512,6 @@
     ],
     "Wondertan": [
       {
-        "number": 6843,
-        "title": "docs: ADR027 Sequencer Total Ordering on Fibre via Simplex",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/6843",
-        "repo": "celestia-app",
-        "author": "evan-forbes",
-        "reviewer": "Wondertan",
-        "requestedAt": "2026-03-13T23:23:05Z"
-      },
-      {
         "number": 4203,
         "title": "fix(nodebuilder): TLS key/cert name variables",
         "url": "https://github.com/celestiaorg/celestia-node/pull/4203",
@@ -799,5 +735,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-04-24T14:54:33.936Z"
+  "fetchedAt": "2026-04-24T15:24:42.115Z"
 }
