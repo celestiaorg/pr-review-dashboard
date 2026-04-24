@@ -61,6 +61,15 @@
         "requestedAt": "2026-04-23T13:02:59Z"
       },
       {
+        "number": 7168,
+        "title": "chore(deps): bump rand from 0.8.5 to 0.8.6 in /tools/rust-fibre-txsim",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/7168",
+        "repo": "celestia-app",
+        "author": "dependabot",
+        "reviewer": "mcrakhman",
+        "requestedAt": "2026-04-24T13:00:09Z"
+      },
+      {
         "number": 2958,
         "title": "build(deps): Bump github.com/go-git/go-git/v5 from 5.17.2 to 5.18.0",
         "url": "https://github.com/celestiaorg/celestia-core/pull/2958",
@@ -98,6 +107,15 @@
       }
     ],
     "vgonkivs": [
+      {
+        "number": 7167,
+        "title": "chore(deps): bump rustls-webpki from 0.103.11 to 0.103.13 in /tools/rust-fibre-txsim",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/7167",
+        "repo": "celestia-app",
+        "author": "dependabot",
+        "reviewer": "vgonkivs",
+        "requestedAt": "2026-04-24T13:00:06Z"
+      },
       {
         "number": 2957,
         "title": "build(deps): Bump github.com/adlio/schema from 1.4.0 to 1.5.0",
@@ -307,15 +325,6 @@
       }
     ],
     "evan-forbes": [
-      {
-        "number": 7163,
-        "title": "feat(tools): add Rust port of fibre-txsim",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7163",
-        "repo": "celestia-app",
-        "author": "mcrakhman",
-        "reviewer": "evan-forbes",
-        "requestedAt": "2026-04-22T14:38:36Z"
-      },
       {
         "number": 2956,
         "title": "build(deps): Bump github.com/aws/aws-sdk-go-v2/credentials from 1.19.14 to 1.19.15",
@@ -780,5 +789,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-04-24T12:37:34.924Z"
+  "fetchedAt": "2026-04-24T13:05:36.896Z"
 }
