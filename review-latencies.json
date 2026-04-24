@@ -2,19 +2,19 @@
   "latencies": {
     "rootulp": {
       "week": {
-        "n": 12,
-        "medianHours": 5.06,
-        "p90Hours": 9.47861111111111
+        "n": 16,
+        "medianHours": 5.588611111111111,
+        "p90Hours": 53.81805555555555
       },
       "month": {
-        "n": 45,
-        "medianHours": 3.706111111111111,
-        "p90Hours": 9.47861111111111
+        "n": 49,
+        "medianHours": 3.7808333333333333,
+        "p90Hours": 14.943055555555556
       },
       "year": {
-        "n": 143,
-        "medianHours": 3.5702777777777777,
-        "p90Hours": 15.91611111111111
+        "n": 147,
+        "medianHours": 3.6233333333333335,
+        "p90Hours": 16.118333333333332
       }
     },
     "ninabarbakadze": {
@@ -70,18 +70,18 @@
     },
     "vgonkivs": {
       "week": {
-        "n": 4,
-        "medianHours": 33.60527777777778,
+        "n": 5,
+        "medianHours": 31.34138888888889,
         "p90Hours": 190.2397222222222
       },
       "month": {
-        "n": 7,
+        "n": 8,
         "medianHours": 33.60527777777778,
         "p90Hours": 795.8888888888889
       },
       "year": {
-        "n": 32,
-        "medianHours": 33.60527777777778,
+        "n": 33,
+        "medianHours": 31.622222222222224,
         "p90Hours": 334.7630555555556
       }
     },
@@ -201,7 +201,7 @@
       "defaultHidden": true
     }
   ],
-  "computedAt": "2026-04-23T00:19:01.901Z",
+  "computedAt": "2026-04-24T00:18:07.078Z",
   "windows": {
     "weekStart": "2026-04-20T00:00:00.000Z",
     "monthStart": "2026-04-01T00:00:00.000Z",
