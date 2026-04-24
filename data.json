@@ -336,6 +336,15 @@
     ],
     "evan-forbes": [
       {
+        "number": 7171,
+        "title": "chore(deps): bump rustls-webpki from 0.103.12 to 0.103.13 in /tools/lumina-latency-monitor",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/7171",
+        "repo": "celestia-app",
+        "author": "dependabot",
+        "reviewer": "evan-forbes",
+        "requestedAt": "2026-04-24T17:04:29Z"
+      },
+      {
         "number": 2956,
         "title": "build(deps): Bump github.com/aws/aws-sdk-go-v2/credentials from 1.19.14 to 1.19.15",
         "url": "https://github.com/celestiaorg/celestia-core/pull/2956",
@@ -799,5 +808,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-04-24T16:38:48.002Z"
+  "fetchedAt": "2026-04-24T17:05:10.117Z"
 }
