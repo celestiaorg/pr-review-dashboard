@@ -19,6 +19,15 @@
         "author": "rootulp",
         "reviewer": "ninabarbakadze",
         "requestedAt": "2026-04-21T22:40:50Z"
+      },
+      {
+        "number": 4967,
+        "title": "fix: close stats file on write error",
+        "url": "https://github.com/celestiaorg/celestia-node/pull/4967",
+        "repo": "celestia-node",
+        "author": "Radovenchyk",
+        "reviewer": "ninabarbakadze",
+        "requestedAt": "2026-04-24T08:26:07Z"
       }
     ],
     "rach-id": [
@@ -771,5 +780,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-04-24T08:20:27.994Z"
+  "fetchedAt": "2026-04-24T09:06:40.969Z"
 }
