@@ -154,6 +154,15 @@
         "requestedAt": "2026-04-20T10:59:47Z"
       },
       {
+        "number": 2962,
+        "title": "refactor: only unmarshal a single page from the tx index",
+        "url": "https://github.com/celestiaorg/celestia-core/pull/2962",
+        "repo": "celestia-core",
+        "author": "evan-forbes",
+        "reviewer": "vgonkivs",
+        "requestedAt": "2026-04-26T18:45:35Z"
+      },
+      {
         "number": 4148,
         "title": "feat(cel-shed): add RTT measurement feature for bootstrappers",
         "url": "https://github.com/celestiaorg/celestia-node/pull/4148",
@@ -826,5 +835,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-04-26T18:25:29.057Z"
+  "fetchedAt": "2026-04-26T18:46:54.265Z"
 }
