@@ -1,16 +1,6 @@
 {
   "reviews": {
-    "rootulp": [
-      {
-        "number": 7170,
-        "title": "fix: buf release workflows should trigger on release published",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7170",
-        "repo": "celestia-app",
-        "author": "damiannolan",
-        "reviewer": "rootulp",
-        "requestedAt": "2026-04-24T13:34:03Z"
-      }
-    ],
+    "rootulp": [],
     "ninabarbakadze": [
       {
         "number": 7159,
@@ -835,5 +825,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-04-26T22:25:00.781Z"
+  "fetchedAt": "2026-04-26T22:44:30.092Z"
 }
