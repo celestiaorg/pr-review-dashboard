@@ -61,15 +61,6 @@
     ],
     "mcrakhman": [
       {
-        "number": 7162,
-        "title": "docs: note that verify data is false in release notes",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7162",
-        "repo": "celestia-app",
-        "author": "ninabarbakadze",
-        "reviewer": "mcrakhman",
-        "requestedAt": "2026-04-22T11:59:06Z"
-      },
-      {
         "number": 7165,
         "title": "perf(fibre): batched RLC verify for shard uploads",
         "url": "https://github.com/celestiaorg/celestia-app/pull/7165",
@@ -77,15 +68,6 @@
         "author": "walldiss",
         "reviewer": "mcrakhman",
         "requestedAt": "2026-04-23T13:02:59Z"
-      },
-      {
-        "number": 7168,
-        "title": "chore(deps): bump rand from 0.8.5 to 0.8.6 in /tools/rust-fibre-txsim",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7168",
-        "repo": "celestia-app",
-        "author": "dependabot",
-        "reviewer": "mcrakhman",
-        "requestedAt": "2026-04-24T13:00:09Z"
       },
       {
         "number": 2958,
@@ -816,5 +798,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-04-27T07:15:10.614Z"
+  "fetchedAt": "2026-04-27T08:02:53.712Z"
 }
