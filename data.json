@@ -2,6 +2,15 @@
   "reviews": {
     "rootulp": [
       {
+        "number": 7164,
+        "title": "feat: verify block max bytes in prepare proposal",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/7164",
+        "repo": "celestia-app",
+        "author": "ninabarbakadze",
+        "reviewer": "rootulp",
+        "requestedAt": "2026-04-27T09:32:49Z"
+      },
+      {
         "number": 7178,
         "title": "chore(deps): bump github.com/aws/aws-sdk-go-v2/feature/s3/manager from 1.21.1 to 1.22.16",
         "url": "https://github.com/celestiaorg/celestia-app/pull/7178",
@@ -29,24 +38,6 @@
         "author": "Wondertan",
         "reviewer": "ninabarbakadze",
         "requestedAt": "2026-04-22T00:28:13Z"
-      },
-      {
-        "number": 7175,
-        "title": "chore(deps): bump github.com/rs/zerolog from 1.35.0 to 1.35.1",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7175",
-        "repo": "celestia-app",
-        "author": "dependabot",
-        "reviewer": "ninabarbakadze",
-        "requestedAt": "2026-04-27T11:13:01Z"
-      },
-      {
-        "number": 7180,
-        "title": "chore(deps): bump github.com/moby/moby/client from 0.4.0 to 0.4.1 in /test/docker-e2e",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7180",
-        "repo": "celestia-app",
-        "author": "dependabot",
-        "reviewer": "ninabarbakadze",
-        "requestedAt": "2026-04-27T11:18:29Z"
       },
       {
         "number": 2961,
@@ -97,15 +88,6 @@
       }
     ],
     "mcrakhman": [
-      {
-        "number": 7165,
-        "title": "perf(fibre): batched RLC verify for shard uploads",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7165",
-        "repo": "celestia-app",
-        "author": "walldiss",
-        "reviewer": "mcrakhman",
-        "requestedAt": "2026-04-23T13:02:59Z"
-      },
       {
         "number": 7177,
         "title": "chore(deps): bump github.com/aws/aws-sdk-go-v2/service/ec2 from 1.297.1 to 1.299.0",
@@ -163,6 +145,15 @@
     ],
     "vgonkivs": [
       {
+        "number": 7164,
+        "title": "feat: verify block max bytes in prepare proposal",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/7164",
+        "repo": "celestia-app",
+        "author": "ninabarbakadze",
+        "reviewer": "vgonkivs",
+        "requestedAt": "2026-04-22T15:19:12Z"
+      },
+      {
         "number": 7167,
         "title": "chore(deps): bump rustls-webpki from 0.103.11 to 0.103.13 in /tools/rust-fibre-txsim",
         "url": "https://github.com/celestiaorg/celestia-app/pull/7167",
@@ -170,6 +161,15 @@
         "author": "dependabot",
         "reviewer": "vgonkivs",
         "requestedAt": "2026-04-24T13:00:06Z"
+      },
+      {
+        "number": 7173,
+        "title": "fix(talis): genesis emits incomplete config (peers, RPC bind, priv-validator gRPC)",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/7173",
+        "repo": "celestia-app",
+        "author": "walldiss",
+        "reviewer": "vgonkivs",
+        "requestedAt": "2026-04-27T11:36:13Z"
       },
       {
         "number": 7176,
@@ -415,6 +415,15 @@
         "author": "dependabot",
         "reviewer": "evan-forbes",
         "requestedAt": "2026-04-27T11:16:58Z"
+      },
+      {
+        "number": 7183,
+        "title": "fix(valaddr,fibre): require host:port form for fibre provider hosts",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/7183",
+        "repo": "celestia-app",
+        "author": "walldiss",
+        "reviewer": "evan-forbes",
+        "requestedAt": "2026-04-27T11:44:12Z"
       },
       {
         "number": 2956,
@@ -880,5 +889,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-04-27T11:24:53.898Z"
+  "fetchedAt": "2026-04-27T12:02:56.307Z"
 }
