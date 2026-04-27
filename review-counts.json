@@ -1,12 +1,12 @@
 {
   "counts": {
     "rootulp": {
-      "week": 31,
-      "month": 111,
-      "year": 292
+      "week": 0,
+      "month": 113,
+      "year": 294
     },
     "ninabarbakadze": {
-      "week": 11,
+      "week": 0,
       "month": 95,
       "year": 264
     },
@@ -16,12 +16,12 @@
       "year": 369
     },
     "mcrakhman": {
-      "week": 7,
+      "week": 0,
       "month": 34,
       "year": 67
     },
     "vgonkivs": {
-      "week": 9,
+      "week": 0,
       "month": 19,
       "year": 54
     },
@@ -31,24 +31,24 @@
       "year": 75
     },
     "cmwaters": {
-      "week": 3,
+      "week": 0,
       "month": 8,
       "year": 18
     },
     "walldiss": {
-      "week": 7,
+      "week": 0,
       "month": 39,
       "year": 97
     },
     "Wondertan": {
-      "week": 5,
+      "week": 0,
       "month": 23,
       "year": 59
     }
   },
-  "computedAt": "2026-04-26T00:14:47.008Z",
+  "computedAt": "2026-04-27T00:15:41.724Z",
   "windows": {
-    "weekStart": "2026-04-20T00:00:00.000Z",
+    "weekStart": "2026-04-27T00:00:00.000Z",
     "monthStart": "2026-04-01T00:00:00.000Z",
     "yearStart": "2026-01-01T00:00:00.000Z"
   }
