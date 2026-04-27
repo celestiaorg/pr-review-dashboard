@@ -27,6 +27,24 @@
         "author": "dependabot",
         "reviewer": "rootulp",
         "requestedAt": "2026-04-27T11:08:57Z"
+      },
+      {
+        "number": 4968,
+        "title": "chore(deps): bump slackapi/slack-github-action from 3.0.1 to 3.0.2 in the patch-updates group",
+        "url": "https://github.com/celestiaorg/celestia-node/pull/4968",
+        "repo": "celestia-node",
+        "author": "dependabot",
+        "reviewer": "rootulp",
+        "requestedAt": "2026-04-27T12:52:58Z"
+      },
+      {
+        "number": 4973,
+        "title": "chore(deps): bump github.com/libp2p/go-libp2p-pubsub from 0.15.1-0.20260318184623-12372d99a0bc to 0.16.0",
+        "url": "https://github.com/celestiaorg/celestia-node/pull/4973",
+        "repo": "celestia-node",
+        "author": "dependabot",
+        "reviewer": "rootulp",
+        "requestedAt": "2026-04-27T13:02:48Z"
       }
     ],
     "ninabarbakadze": [
@@ -56,6 +74,24 @@
         "author": "Radovenchyk",
         "reviewer": "ninabarbakadze",
         "requestedAt": "2026-04-24T08:26:07Z"
+      },
+      {
+        "number": 4975,
+        "title": "chore(deps): bump go.opentelemetry.io/contrib/bridges/prometheus from 0.67.0 to 0.68.0",
+        "url": "https://github.com/celestiaorg/celestia-node/pull/4975",
+        "repo": "celestia-node",
+        "author": "dependabot",
+        "reviewer": "ninabarbakadze",
+        "requestedAt": "2026-04-27T13:03:05Z"
+      },
+      {
+        "number": 146,
+        "title": "chore(deps): bump github.com/libp2p/go-libp2p-pubsub from 0.13.1 to 0.16.0",
+        "url": "https://github.com/celestiaorg/go-fraud/pull/146",
+        "repo": "go-fraud",
+        "author": "dependabot",
+        "reviewer": "ninabarbakadze",
+        "requestedAt": "2026-04-27T12:54:48Z"
       },
       {
         "number": 392,
@@ -123,6 +159,15 @@
         "author": "Sushil-19",
         "reviewer": "mcrakhman",
         "requestedAt": "2026-03-04T06:12:55Z"
+      },
+      {
+        "number": 4972,
+        "title": "chore(deps): bump github.com/celestiaorg/celestia-app/v8 from 8.0.3-mocha to 8.0.3",
+        "url": "https://github.com/celestiaorg/celestia-node/pull/4972",
+        "repo": "celestia-node",
+        "author": "dependabot",
+        "reviewer": "mcrakhman",
+        "requestedAt": "2026-04-27T13:02:30Z"
       },
       {
         "number": 145,
@@ -388,13 +433,22 @@
         "requestedAt": "2026-03-04T06:12:55Z"
       },
       {
-        "number": 144,
-        "title": "chore(deps): bump github.com/libp2p/go-libp2p-pubsub from 0.13.1 to 0.15.0",
-        "url": "https://github.com/celestiaorg/go-fraud/pull/144",
-        "repo": "go-fraud",
+        "number": 4971,
+        "title": "chore(deps): bump the patch-updates group across 1 directory with 3 updates",
+        "url": "https://github.com/celestiaorg/celestia-node/pull/4971",
+        "repo": "celestia-node",
         "author": "dependabot",
         "reviewer": "vgonkivs",
-        "requestedAt": "2026-04-20T12:34:07Z"
+        "requestedAt": "2026-04-27T13:02:22Z"
+      },
+      {
+        "number": 4976,
+        "title": "chore(deps): bump github.com/celestiaorg/celestia-app/v8 from 8.0.3-mocha to 8.0.3 in /nodebuilder/tests/tastora",
+        "url": "https://github.com/celestiaorg/celestia-node/pull/4976",
+        "repo": "celestia-node",
+        "author": "dependabot",
+        "reviewer": "vgonkivs",
+        "requestedAt": "2026-04-27T13:03:12Z"
       }
     ],
     "evan-forbes": [
@@ -445,12 +499,30 @@
       },
       {
         "number": 4952,
-        "title": "chore(deps): bump alpine from 3.23.3 to 3.23.4 in the patch-updates group",
+        "title": "chore(deps): bump alpine from 3.23.3 to 3.23.4 in the patch-updates group across 1 directory",
         "url": "https://github.com/celestiaorg/celestia-node/pull/4952",
         "repo": "celestia-node",
         "author": "dependabot",
         "reviewer": "evan-forbes",
         "requestedAt": "2026-04-20T12:33:13Z"
+      },
+      {
+        "number": 4969,
+        "title": "chore(deps): bump goreleaser/goreleaser-action from 7.1.0 to 7.2.1",
+        "url": "https://github.com/celestiaorg/celestia-node/pull/4969",
+        "repo": "celestia-node",
+        "author": "dependabot",
+        "reviewer": "evan-forbes",
+        "requestedAt": "2026-04-27T12:53:02Z"
+      },
+      {
+        "number": 4974,
+        "title": "chore(deps): bump go.opentelemetry.io/contrib/instrumentation/runtime from 0.67.0 to 0.68.0",
+        "url": "https://github.com/celestiaorg/celestia-node/pull/4974",
+        "repo": "celestia-node",
+        "author": "dependabot",
+        "reviewer": "evan-forbes",
+        "requestedAt": "2026-04-27T13:02:57Z"
       }
     ],
     "cmwaters": [
@@ -889,5 +961,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-04-27T12:49:01.493Z"
+  "fetchedAt": "2026-04-27T13:23:12.397Z"
 }
