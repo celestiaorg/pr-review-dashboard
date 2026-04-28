@@ -417,15 +417,6 @@
     ],
     "evan-forbes": [
       {
-        "number": 7183,
-        "title": "fix(valaddr,fibre): require host:port form for fibre provider hosts",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7183",
-        "repo": "celestia-app",
-        "author": "walldiss",
-        "reviewer": "evan-forbes",
-        "requestedAt": "2026-04-27T11:44:12Z"
-      },
-      {
         "number": 2956,
         "title": "build(deps): Bump github.com/aws/aws-sdk-go-v2/credentials from 1.19.14 to 1.19.15",
         "url": "https://github.com/celestiaorg/celestia-core/pull/2956",
@@ -898,5 +889,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-04-28T15:18:50.443Z"
+  "fetchedAt": "2026-04-28T16:05:17.894Z"
 }
