@@ -92,15 +92,6 @@
         "author": "dependabot",
         "reviewer": "ninabarbakadze",
         "requestedAt": "2026-04-27T12:54:48Z"
-      },
-      {
-        "number": 392,
-        "title": "chore(deps): bump go.opentelemetry.io/otel from 1.38.0 to 1.41.0",
-        "url": "https://github.com/celestiaorg/go-header/pull/392",
-        "repo": "go-header",
-        "author": "dependabot",
-        "reviewer": "ninabarbakadze",
-        "requestedAt": "2026-04-24T20:30:25Z"
       }
     ],
     "rach-id": [
@@ -159,24 +150,6 @@
         "author": "Sushil-19",
         "reviewer": "mcrakhman",
         "requestedAt": "2026-03-04T06:12:55Z"
-      },
-      {
-        "number": 4970,
-        "title": "chore: bump node to app v9 commit",
-        "url": "https://github.com/celestiaorg/celestia-node/pull/4970",
-        "repo": "celestia-node",
-        "author": "ninabarbakadze",
-        "reviewer": "mcrakhman",
-        "requestedAt": "2026-04-27T13:38:49Z"
-      },
-      {
-        "number": 4972,
-        "title": "chore(deps): bump github.com/celestiaorg/celestia-app/v8 from 8.0.3-mocha to 8.0.3",
-        "url": "https://github.com/celestiaorg/celestia-node/pull/4972",
-        "repo": "celestia-node",
-        "author": "dependabot",
-        "reviewer": "mcrakhman",
-        "requestedAt": "2026-04-27T13:02:30Z"
       },
       {
         "number": 145,
@@ -424,34 +397,16 @@
         "requestedAt": "2026-03-04T06:12:55Z"
       },
       {
-        "number": 4971,
-        "title": "chore(deps): bump the patch-updates group across 1 directory with 3 updates",
-        "url": "https://github.com/celestiaorg/celestia-node/pull/4971",
+        "number": 4977,
+        "title": "chore(deps): bump the patch-updates group across 1 directory with 2 updates",
+        "url": "https://github.com/celestiaorg/celestia-node/pull/4977",
         "repo": "celestia-node",
         "author": "dependabot",
         "reviewer": "vgonkivs",
-        "requestedAt": "2026-04-27T13:02:22Z"
-      },
-      {
-        "number": 4976,
-        "title": "chore(deps): bump github.com/celestiaorg/celestia-app/v8 from 8.0.3-mocha to 8.0.3 in /nodebuilder/tests/tastora",
-        "url": "https://github.com/celestiaorg/celestia-node/pull/4976",
-        "repo": "celestia-node",
-        "author": "dependabot",
-        "reviewer": "vgonkivs",
-        "requestedAt": "2026-04-27T13:03:12Z"
+        "requestedAt": "2026-04-28T11:18:57Z"
       }
     ],
     "evan-forbes": [
-      {
-        "number": 7179,
-        "title": "chore(deps): bump github.com/digitalocean/godo from 1.186.0 to 1.188.0",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7179",
-        "repo": "celestia-app",
-        "author": "dependabot",
-        "reviewer": "evan-forbes",
-        "requestedAt": "2026-04-27T11:16:58Z"
-      },
       {
         "number": 7183,
         "title": "fix(valaddr,fibre): require host:port form for fibre provider hosts",
@@ -496,15 +451,6 @@
         "author": "dependabot",
         "reviewer": "evan-forbes",
         "requestedAt": "2026-04-27T12:53:02Z"
-      },
-      {
-        "number": 4974,
-        "title": "chore(deps): bump go.opentelemetry.io/contrib/instrumentation/runtime from 0.67.0 to 0.68.0",
-        "url": "https://github.com/celestiaorg/celestia-node/pull/4974",
-        "repo": "celestia-node",
-        "author": "dependabot",
-        "reviewer": "evan-forbes",
-        "requestedAt": "2026-04-27T13:02:57Z"
       }
     ],
     "cmwaters": [
@@ -943,5 +889,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-04-28T10:49:39.783Z"
+  "fetchedAt": "2026-04-28T11:28:28.130Z"
 }
