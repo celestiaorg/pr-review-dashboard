@@ -2,51 +2,51 @@
   "counts": {
     "rootulp": {
       "week": 0,
-      "month": 113,
-      "year": 294
+      "month": 105,
+      "year": 260
     },
     "ninabarbakadze": {
-      "week": 0,
+      "week": 6,
       "month": 95,
-      "year": 264
+      "year": 255
     },
     "rach-id": {
       "week": 0,
-      "month": 58,
-      "year": 369
+      "month": 52,
+      "year": 333
     },
     "mcrakhman": {
-      "week": 0,
+      "week": 1,
       "month": 34,
-      "year": 67
+      "year": 63
     },
     "vgonkivs": {
       "week": 0,
       "month": 19,
-      "year": 54
+      "year": 47
     },
     "evan-forbes": {
-      "week": 0,
-      "month": 9,
-      "year": 75
+      "week": 1,
+      "month": 10,
+      "year": 74
     },
     "cmwaters": {
       "week": 0,
       "month": 8,
-      "year": 18
+      "year": 17
     },
     "walldiss": {
       "week": 0,
-      "month": 39,
-      "year": 97
+      "month": 36,
+      "year": 91
     },
     "Wondertan": {
-      "week": 0,
-      "month": 23,
-      "year": 59
+      "week": 2,
+      "month": 25,
+      "year": 53
     }
   },
-  "computedAt": "2026-04-27T00:15:41.724Z",
+  "computedAt": "2026-04-28T00:18:54.781Z",
   "windows": {
     "weekStart": "2026-04-27T00:00:00.000Z",
     "monthStart": "2026-04-01T00:00:00.000Z",
