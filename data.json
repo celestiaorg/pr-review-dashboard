@@ -217,6 +217,15 @@
         "requestedAt": "2026-04-26T18:45:35Z"
       },
       {
+        "number": 2966,
+        "title": "feat: failed tx code to prometheus",
+        "url": "https://github.com/celestiaorg/celestia-core/pull/2966",
+        "repo": "celestia-core",
+        "author": "mcrakhman",
+        "reviewer": "vgonkivs",
+        "requestedAt": "2026-04-28T23:08:05Z"
+      },
+      {
         "number": 4148,
         "title": "feat(cel-shed): add RTT measurement feature for bootstrappers",
         "url": "https://github.com/celestiaorg/celestia-node/pull/4148",
@@ -889,5 +898,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-04-28T23:05:58.751Z"
+  "fetchedAt": "2026-04-28T23:30:17.543Z"
 }
