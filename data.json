@@ -125,6 +125,15 @@
         "requestedAt": "2026-04-27T11:15:32Z"
       },
       {
+        "number": 7189,
+        "title": "chore: enable TestE2EFullStackPFB",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/7189",
+        "repo": "celestia-app",
+        "author": "ninabarbakadze",
+        "reviewer": "mcrakhman",
+        "requestedAt": "2026-04-28T14:44:01Z"
+      },
+      {
         "number": 2958,
         "title": "build(deps): Bump github.com/go-git/go-git/v5 from 5.17.2 to 5.18.0",
         "url": "https://github.com/celestiaorg/celestia-core/pull/2958",
@@ -889,5 +898,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-04-28T13:31:22.890Z"
+  "fetchedAt": "2026-04-28T15:18:50.443Z"
 }
