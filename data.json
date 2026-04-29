@@ -79,15 +79,6 @@
         "requestedAt": "2026-04-27T11:07:18Z"
       },
       {
-        "number": 3007,
-        "title": "fix(rpc/grpc): lock-protect initial newBlockSubscription write",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3007",
-        "repo": "celestia-core",
-        "author": "rootulp",
-        "reviewer": "mcrakhman",
-        "requestedAt": "2026-04-29T19:13:25Z"
-      },
-      {
         "number": 4818,
         "title": "docgen: include Authorization header requirement in OpenRPC method de…",
         "url": "https://github.com/celestiaorg/celestia-node/pull/4818",
@@ -133,24 +124,6 @@
         "author": "evan-forbes",
         "reviewer": "vgonkivs",
         "requestedAt": "2026-04-26T18:45:35Z"
-      },
-      {
-        "number": 3002,
-        "title": "fix(rpc/grpc): non-blocking broadcast to height-subscribers",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3002",
-        "repo": "celestia-core",
-        "author": "rootulp",
-        "reviewer": "vgonkivs",
-        "requestedAt": "2026-04-29T18:26:28Z"
-      },
-      {
-        "number": 3004,
-        "title": "fix(rpc/grpc): BlockAPI.Stop deadlock",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3004",
-        "repo": "celestia-core",
-        "author": "rootulp",
-        "reviewer": "vgonkivs",
-        "requestedAt": "2026-04-29T18:44:02Z"
       },
       {
         "number": 4148,
@@ -353,15 +326,6 @@
     ],
     "evan-forbes": [
       {
-        "number": 7194,
-        "title": "docs: document supported operating systems",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7194",
-        "repo": "celestia-app",
-        "author": "rootulp",
-        "reviewer": "evan-forbes",
-        "requestedAt": "2026-04-29T19:13:29Z"
-      },
-      {
         "number": 2956,
         "title": "build(deps): Bump github.com/aws/aws-sdk-go-v2/credentials from 1.19.14 to 1.19.16",
         "url": "https://github.com/celestiaorg/celestia-core/pull/2956",
@@ -369,15 +333,6 @@
         "author": "dependabot",
         "reviewer": "evan-forbes",
         "requestedAt": "2026-04-20T10:59:40Z"
-      },
-      {
-        "number": 3002,
-        "title": "fix(rpc/grpc): non-blocking broadcast to height-subscribers",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3002",
-        "repo": "celestia-core",
-        "author": "rootulp",
-        "reviewer": "evan-forbes",
-        "requestedAt": "2026-04-29T18:17:11Z"
       },
       {
         "number": 4952,
@@ -818,5 +773,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-04-29T23:12:41.075Z"
+  "fetchedAt": "2026-04-29T23:35:46.458Z"
 }
