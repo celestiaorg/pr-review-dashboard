@@ -20,15 +20,6 @@
         "requestedAt": "2026-04-27T09:32:49Z"
       },
       {
-        "number": 7178,
-        "title": "chore(deps): bump github.com/aws/aws-sdk-go-v2/feature/s3/manager from 1.21.1 to 1.22.16",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7178",
-        "repo": "celestia-app",
-        "author": "dependabot",
-        "reviewer": "rootulp",
-        "requestedAt": "2026-04-27T11:16:48Z"
-      },
-      {
         "number": 2964,
         "title": "build(deps): Bump github.com/aws/aws-sdk-go-v2/service/s3 from 1.99.1 to 1.100.0",
         "url": "https://github.com/celestiaorg/celestia-core/pull/2964",
@@ -852,5 +843,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-04-29T13:42:40.926Z"
+  "fetchedAt": "2026-04-29T14:32:56.179Z"
 }
