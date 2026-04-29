@@ -408,7 +408,6 @@
         "requestedAt": "2026-04-27T12:53:02Z"
       }
     ],
-    "cmwaters": [],
     "walldiss": [
       {
         "number": 7159,
@@ -824,11 +823,6 @@
       "defaultHidden": false
     },
     {
-      "name": "Callum",
-      "github": "cmwaters",
-      "defaultHidden": false
-    },
-    {
       "name": "Vlad",
       "github": "walldiss",
       "defaultHidden": true
@@ -843,5 +837,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-04-29T15:24:30.599Z"
+  "fetchedAt": "2026-04-29T16:02:02.268Z"
 }
