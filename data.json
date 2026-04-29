@@ -1,52 +1,6 @@
 {
   "reviews": {
-    "rootulp": [
-      {
-        "number": 7159,
-        "title": "feat(fibre): bucketed row pool",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7159",
-        "repo": "celestia-app",
-        "author": "Wondertan",
-        "reviewer": "rootulp",
-        "requestedAt": "2026-04-29T08:47:55Z"
-      },
-      {
-        "number": 7164,
-        "title": "feat: verify block max bytes in prepare proposal",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7164",
-        "repo": "celestia-app",
-        "author": "ninabarbakadze",
-        "reviewer": "rootulp",
-        "requestedAt": "2026-04-27T09:32:49Z"
-      },
-      {
-        "number": 2964,
-        "title": "build(deps): Bump github.com/aws/aws-sdk-go-v2/service/s3 from 1.99.1 to 1.100.0",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/2964",
-        "repo": "celestia-core",
-        "author": "dependabot",
-        "reviewer": "rootulp",
-        "requestedAt": "2026-04-27T11:08:57Z"
-      },
-      {
-        "number": 4968,
-        "title": "chore(deps): bump slackapi/slack-github-action from 3.0.1 to 3.0.2 in the patch-updates group",
-        "url": "https://github.com/celestiaorg/celestia-node/pull/4968",
-        "repo": "celestia-node",
-        "author": "dependabot",
-        "reviewer": "rootulp",
-        "requestedAt": "2026-04-27T12:52:58Z"
-      },
-      {
-        "number": 4973,
-        "title": "chore(deps): bump github.com/libp2p/go-libp2p-pubsub from 0.15.1-0.20260318184623-12372d99a0bc to 0.16.0",
-        "url": "https://github.com/celestiaorg/celestia-node/pull/4973",
-        "repo": "celestia-node",
-        "author": "dependabot",
-        "reviewer": "rootulp",
-        "requestedAt": "2026-04-27T13:02:48Z"
-      }
-    ],
+    "rootulp": [],
     "ninabarbakadze": [
       {
         "number": 4967,
@@ -179,6 +133,24 @@
         "author": "evan-forbes",
         "reviewer": "vgonkivs",
         "requestedAt": "2026-04-26T18:45:35Z"
+      },
+      {
+        "number": 3002,
+        "title": "fix(rpc/grpc): non-blocking broadcast to height-subscribers",
+        "url": "https://github.com/celestiaorg/celestia-core/pull/3002",
+        "repo": "celestia-core",
+        "author": "rootulp",
+        "reviewer": "vgonkivs",
+        "requestedAt": "2026-04-29T18:26:28Z"
+      },
+      {
+        "number": 3004,
+        "title": "fix(rpc/grpc): BlockAPI.Stop deadlock",
+        "url": "https://github.com/celestiaorg/celestia-core/pull/3004",
+        "repo": "celestia-core",
+        "author": "rootulp",
+        "reviewer": "vgonkivs",
+        "requestedAt": "2026-04-29T18:44:02Z"
       },
       {
         "number": 4148,
@@ -382,7 +354,7 @@
     "evan-forbes": [
       {
         "number": 2956,
-        "title": "build(deps): Bump github.com/aws/aws-sdk-go-v2/credentials from 1.19.14 to 1.19.15",
+        "title": "build(deps): Bump github.com/aws/aws-sdk-go-v2/credentials from 1.19.14 to 1.19.16",
         "url": "https://github.com/celestiaorg/celestia-core/pull/2956",
         "repo": "celestia-core",
         "author": "dependabot",
@@ -619,15 +591,6 @@
     ],
     "Wondertan": [
       {
-        "number": 6843,
-        "title": "docs: ADR027 Sequencer Total Ordering on Fibre via Simplex",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/6843",
-        "repo": "celestia-app",
-        "author": "evan-forbes",
-        "reviewer": "Wondertan",
-        "requestedAt": "2026-03-13T23:23:05Z"
-      },
-      {
         "number": 4203,
         "title": "fix(nodebuilder): TLS key/cert name variables",
         "url": "https://github.com/celestiaorg/celestia-node/pull/4203",
@@ -846,5 +809,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-04-29T18:23:53.501Z"
+  "fetchedAt": "2026-04-29T18:57:02.846Z"
 }
