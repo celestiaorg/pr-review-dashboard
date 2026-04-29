@@ -3,27 +3,27 @@
     "rootulp": {
       "week": 0,
       "month": 105,
-      "year": 260
+      "year": 261
     },
     "ninabarbakadze": {
-      "week": 6,
-      "month": 95,
-      "year": 255
+      "week": 13,
+      "month": 102,
+      "year": 263
     },
     "rach-id": {
       "week": 0,
       "month": 52,
-      "year": 333
+      "year": 334
     },
     "mcrakhman": {
-      "week": 1,
-      "month": 34,
-      "year": 63
+      "week": 2,
+      "month": 35,
+      "year": 64
     },
     "vgonkivs": {
-      "week": 0,
-      "month": 19,
-      "year": 47
+      "week": 3,
+      "month": 22,
+      "year": 50
     },
     "evan-forbes": {
       "week": 1,
@@ -46,7 +46,7 @@
       "year": 53
     }
   },
-  "computedAt": "2026-04-28T00:18:54.781Z",
+  "computedAt": "2026-04-29T00:20:09.402Z",
   "windows": {
     "weekStart": "2026-04-27T00:00:00.000Z",
     "monthStart": "2026-04-01T00:00:00.000Z",
