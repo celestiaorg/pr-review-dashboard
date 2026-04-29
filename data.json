@@ -58,15 +58,6 @@
     ],
     "ninabarbakadze": [
       {
-        "number": 2961,
-        "title": "feat(ci): add upstream CometBFT watcher workflow",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/2961",
-        "repo": "celestia-core",
-        "author": "rootulp",
-        "reviewer": "ninabarbakadze",
-        "requestedAt": "2026-04-21T22:40:50Z"
-      },
-      {
         "number": 4967,
         "title": "fix: close stats file on write error",
         "url": "https://github.com/celestiaorg/celestia-node/pull/4967",
@@ -426,15 +417,6 @@
         "requestedAt": "2026-04-20T10:59:40Z"
       },
       {
-        "number": 2961,
-        "title": "feat(ci): add upstream CometBFT watcher workflow",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/2961",
-        "repo": "celestia-core",
-        "author": "rootulp",
-        "reviewer": "evan-forbes",
-        "requestedAt": "2026-04-21T22:40:50Z"
-      },
-      {
         "number": 4952,
         "title": "chore(deps): bump alpine from 3.23.3 to 3.23.4 in the patch-updates group across 1 directory",
         "url": "https://github.com/celestiaorg/celestia-node/pull/4952",
@@ -453,17 +435,7 @@
         "requestedAt": "2026-04-27T12:53:02Z"
       }
     ],
-    "cmwaters": [
-      {
-        "number": 2961,
-        "title": "feat(ci): add upstream CometBFT watcher workflow",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/2961",
-        "repo": "celestia-core",
-        "author": "rootulp",
-        "reviewer": "cmwaters",
-        "requestedAt": "2026-04-21T22:40:50Z"
-      }
-    ],
+    "cmwaters": [],
     "walldiss": [
       {
         "number": 7159,
@@ -898,5 +870,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-04-29T11:13:37.358Z"
+  "fetchedAt": "2026-04-29T11:53:31.379Z"
 }
