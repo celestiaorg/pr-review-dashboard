@@ -2,6 +2,15 @@
   "reviews": {
     "rootulp": [
       {
+        "number": 7159,
+        "title": "feat(fibre): bucketed row pool",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/7159",
+        "repo": "celestia-app",
+        "author": "Wondertan",
+        "reviewer": "rootulp",
+        "requestedAt": "2026-04-29T08:47:55Z"
+      },
+      {
         "number": 7164,
         "title": "feat: verify block max bytes in prepare proposal",
         "url": "https://github.com/celestiaorg/celestia-app/pull/7164",
@@ -49,15 +58,6 @@
     ],
     "ninabarbakadze": [
       {
-        "number": 7159,
-        "title": "feat(fibre): bucketed row pool",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7159",
-        "repo": "celestia-app",
-        "author": "Wondertan",
-        "reviewer": "ninabarbakadze",
-        "requestedAt": "2026-04-22T00:28:13Z"
-      },
-      {
         "number": 2961,
         "title": "feat(ci): add upstream CometBFT watcher workflow",
         "url": "https://github.com/celestiaorg/celestia-core/pull/2961",
@@ -83,15 +83,6 @@
         "author": "dependabot",
         "reviewer": "ninabarbakadze",
         "requestedAt": "2026-04-27T13:03:05Z"
-      },
-      {
-        "number": 146,
-        "title": "chore(deps): bump github.com/libp2p/go-libp2p-pubsub from 0.13.1 to 0.16.0",
-        "url": "https://github.com/celestiaorg/go-fraud/pull/146",
-        "repo": "go-fraud",
-        "author": "dependabot",
-        "reviewer": "ninabarbakadze",
-        "requestedAt": "2026-04-27T12:54:48Z"
       }
     ],
     "rach-id": [
@@ -115,6 +106,15 @@
       }
     ],
     "mcrakhman": [
+      {
+        "number": 7159,
+        "title": "feat(fibre): bucketed row pool",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/7159",
+        "repo": "celestia-app",
+        "author": "Wondertan",
+        "reviewer": "mcrakhman",
+        "requestedAt": "2026-04-29T08:47:48Z"
+      },
       {
         "number": 7177,
         "title": "chore(deps): bump github.com/aws/aws-sdk-go-v2/service/ec2 from 1.297.1 to 1.299.0",
@@ -215,15 +215,6 @@
         "author": "evan-forbes",
         "reviewer": "vgonkivs",
         "requestedAt": "2026-04-26T18:45:35Z"
-      },
-      {
-        "number": 2966,
-        "title": "feat!: failed tx code to prometheus",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/2966",
-        "repo": "celestia-core",
-        "author": "mcrakhman",
-        "reviewer": "vgonkivs",
-        "requestedAt": "2026-04-28T23:08:05Z"
       },
       {
         "number": 4148,
@@ -474,6 +465,15 @@
       }
     ],
     "walldiss": [
+      {
+        "number": 7159,
+        "title": "feat(fibre): bucketed row pool",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/7159",
+        "repo": "celestia-app",
+        "author": "Wondertan",
+        "reviewer": "walldiss",
+        "requestedAt": "2026-04-29T08:48:09Z"
+      },
       {
         "number": 4148,
         "title": "feat(cel-shed): add RTT measurement feature for bootstrappers",
@@ -898,5 +898,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-04-29T08:18:31.203Z"
+  "fetchedAt": "2026-04-29T09:06:42.396Z"
 }
