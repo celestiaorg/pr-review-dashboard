@@ -79,6 +79,15 @@
         "requestedAt": "2026-04-27T11:07:18Z"
       },
       {
+        "number": 3007,
+        "title": "fix(rpc/grpc): lock-protect initial newBlockSubscription write",
+        "url": "https://github.com/celestiaorg/celestia-core/pull/3007",
+        "repo": "celestia-core",
+        "author": "rootulp",
+        "reviewer": "mcrakhman",
+        "requestedAt": "2026-04-29T19:13:25Z"
+      },
+      {
         "number": 4818,
         "title": "docgen: include Authorization header requirement in OpenRPC method de…",
         "url": "https://github.com/celestiaorg/celestia-node/pull/4818",
@@ -352,6 +361,15 @@
       }
     ],
     "evan-forbes": [
+      {
+        "number": 7194,
+        "title": "docs: document supported operating systems",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/7194",
+        "repo": "celestia-app",
+        "author": "rootulp",
+        "reviewer": "evan-forbes",
+        "requestedAt": "2026-04-29T19:13:29Z"
+      },
       {
         "number": 2956,
         "title": "build(deps): Bump github.com/aws/aws-sdk-go-v2/credentials from 1.19.14 to 1.19.16",
@@ -809,5 +827,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-04-29T18:57:02.846Z"
+  "fetchedAt": "2026-04-29T19:36:25.046Z"
 }
