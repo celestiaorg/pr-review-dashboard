@@ -65,15 +65,6 @@
         "author": "Radovenchyk",
         "reviewer": "ninabarbakadze",
         "requestedAt": "2026-04-24T08:26:07Z"
-      },
-      {
-        "number": 4975,
-        "title": "chore(deps): bump go.opentelemetry.io/contrib/bridges/prometheus from 0.67.0 to 0.68.0",
-        "url": "https://github.com/celestiaorg/celestia-node/pull/4975",
-        "repo": "celestia-node",
-        "author": "dependabot",
-        "reviewer": "ninabarbakadze",
-        "requestedAt": "2026-04-27T13:03:05Z"
       }
     ],
     "rach-id": [
@@ -179,15 +170,6 @@
         "author": "ninabarbakadze",
         "reviewer": "vgonkivs",
         "requestedAt": "2026-04-22T15:19:12Z"
-      },
-      {
-        "number": 7167,
-        "title": "chore(deps): bump rustls-webpki from 0.103.11 to 0.103.13 in /tools/rust-fibre-txsim",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7167",
-        "repo": "celestia-app",
-        "author": "dependabot",
-        "reviewer": "vgonkivs",
-        "requestedAt": "2026-04-24T13:00:06Z"
       },
       {
         "number": 2957,
@@ -870,5 +852,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-04-29T11:53:31.379Z"
+  "fetchedAt": "2026-04-29T12:23:04.544Z"
 }
