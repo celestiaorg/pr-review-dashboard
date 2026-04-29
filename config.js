@@ -24,7 +24,6 @@ module.exports = {
     { name: "Mikhail", github: "mcrakhman", defaultHidden: false },
     { name: "Slava", github: "vgonkivs", defaultHidden: false },
     { name: "Evan", github: "evan-forbes", defaultHidden: false },
-    { name: "Callum", github: "cmwaters", defaultHidden: false },
     { name: "Vlad", github: "walldiss", defaultHidden: true },
     { name: "Hlib", github: "Wondertan", defaultHidden: true },
   ],
