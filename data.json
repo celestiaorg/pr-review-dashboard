@@ -218,7 +218,7 @@
       },
       {
         "number": 2966,
-        "title": "feat: failed tx code to prometheus",
+        "title": "feat!: failed tx code to prometheus",
         "url": "https://github.com/celestiaorg/celestia-core/pull/2966",
         "repo": "celestia-core",
         "author": "mcrakhman",
@@ -898,5 +898,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-04-29T07:26:37.155Z"
+  "fetchedAt": "2026-04-29T08:18:31.203Z"
 }
