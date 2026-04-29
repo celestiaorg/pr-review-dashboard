@@ -390,6 +390,15 @@
         "requestedAt": "2026-04-20T10:59:40Z"
       },
       {
+        "number": 3002,
+        "title": "fix(rpc/grpc): non-blocking broadcast to height-subscribers",
+        "url": "https://github.com/celestiaorg/celestia-core/pull/3002",
+        "repo": "celestia-core",
+        "author": "rootulp",
+        "reviewer": "evan-forbes",
+        "requestedAt": "2026-04-29T18:17:11Z"
+      },
+      {
         "number": 4952,
         "title": "chore(deps): bump alpine from 3.23.3 to 3.23.4 in the patch-updates group across 1 directory",
         "url": "https://github.com/celestiaorg/celestia-node/pull/4952",
@@ -837,5 +846,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-04-29T17:53:49.405Z"
+  "fetchedAt": "2026-04-29T18:23:53.501Z"
 }
