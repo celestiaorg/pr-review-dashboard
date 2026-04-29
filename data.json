@@ -29,6 +29,15 @@
         "requestedAt": "2026-04-27T11:16:48Z"
       },
       {
+        "number": 7192,
+        "title": "feat(talis): provision gp3 root volume to max IOPS/throughput",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/7192",
+        "repo": "celestia-app",
+        "author": "walldiss",
+        "reviewer": "rootulp",
+        "requestedAt": "2026-04-29T12:55:38Z"
+      },
+      {
         "number": 2964,
         "title": "build(deps): Bump github.com/aws/aws-sdk-go-v2/service/s3 from 1.99.1 to 1.100.0",
         "url": "https://github.com/celestiaorg/celestia-core/pull/2964",
@@ -852,5 +861,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-04-29T12:23:04.544Z"
+  "fetchedAt": "2026-04-29T13:00:23.968Z"
 }
