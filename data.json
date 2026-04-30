@@ -78,18 +78,18 @@
         "author": "zvolin",
         "reviewer": "mcrakhman",
         "requestedAt": "2026-02-06T11:07:52Z"
+      },
+      {
+        "number": 407,
+        "title": "chore(deps): Bump github.com/klauspost/reedsolomon from 1.13.3 to 1.14.0",
+        "url": "https://github.com/celestiaorg/rsmt2d/pull/407",
+        "repo": "rsmt2d",
+        "author": "dependabot",
+        "reviewer": "mcrakhman",
+        "requestedAt": "2026-04-30T15:52:57Z"
       }
     ],
     "vgonkivs": [
-      {
-        "number": 2962,
-        "title": "refactor: only unmarshal a single page from the tx index",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/2962",
-        "repo": "celestia-core",
-        "author": "evan-forbes",
-        "reviewer": "vgonkivs",
-        "requestedAt": "2026-04-26T18:45:35Z"
-      },
       {
         "number": 4148,
         "title": "feat(cel-shed): add RTT measurement feature for bootstrappers",
@@ -720,5 +720,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-04-30T15:19:22.812Z"
+  "fetchedAt": "2026-04-30T15:57:23.924Z"
 }
