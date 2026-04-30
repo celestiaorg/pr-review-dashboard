@@ -45,7 +45,7 @@
     "mcrakhman": [
       {
         "number": 7159,
-        "title": "feat(fibre): bucketed row pool",
+        "title": "feat(fibre/row): introduce `row.Pool` and `row.Assembler`",
         "url": "https://github.com/celestiaorg/celestia-app/pull/7159",
         "repo": "celestia-app",
         "author": "Wondertan",
@@ -357,7 +357,7 @@
     "walldiss": [
       {
         "number": 7159,
-        "title": "feat(fibre): bucketed row pool",
+        "title": "feat(fibre/row): introduce `row.Pool` and `row.Assembler`",
         "url": "https://github.com/celestiaorg/celestia-app/pull/7159",
         "repo": "celestia-app",
         "author": "Wondertan",
@@ -774,5 +774,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-04-30T13:42:35.585Z"
+  "fetchedAt": "2026-04-30T14:29:35.411Z"
 }
