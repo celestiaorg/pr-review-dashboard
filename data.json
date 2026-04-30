@@ -1,16 +1,6 @@
 {
   "reviews": {
-    "rootulp": [
-      {
-        "number": 7195,
-        "title": "feat: Include Configuration in Fiat-Shamir hash",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7195",
-        "repo": "celestia-app",
-        "author": "jonas089",
-        "reviewer": "rootulp",
-        "requestedAt": "2026-04-30T08:42:32Z"
-      }
-    ],
+    "rootulp": [],
     "ninabarbakadze": [
       {
         "number": 4967,
@@ -720,5 +710,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-04-30T15:57:23.924Z"
+  "fetchedAt": "2026-04-30T16:38:32.295Z"
 }
