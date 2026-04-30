@@ -2,35 +2,35 @@
   "latencies": {
     "rootulp": {
       "week": {
-        "n": 0,
-        "medianHours": null,
-        "p90Hours": null
+        "n": 4,
+        "medianHours": 55.55027777777778,
+        "p90Hours": 57.1475
       },
       "month": {
-        "n": 46,
-        "medianHours": 3.825277777777778,
-        "p90Hours": 14.943055555555556
+        "n": 53,
+        "medianHours": 4.178333333333334,
+        "p90Hours": 53.81805555555555
       },
       "year": {
-        "n": 129,
-        "medianHours": 3.6341666666666668,
-        "p90Hours": 16.118333333333332
+        "n": 151,
+        "medianHours": 3.6766666666666667,
+        "p90Hours": 25.343611111111112
       }
     },
     "ninabarbakadze": {
       "week": {
-        "n": 4,
+        "n": 8,
         "medianHours": 86.4375,
         "p90Hours": 1091.715
       },
       "month": {
-        "n": 64,
-        "medianHours": 12.124444444444444,
-        "p90Hours": 48.35138888888889
+        "n": 71,
+        "medianHours": 12.230277777777777,
+        "p90Hours": 60.69166666666667
       },
       "year": {
-        "n": 180,
-        "medianHours": 8.264722222222222,
+        "n": 193,
+        "medianHours": 8.774722222222222,
         "p90Hours": 56.1975
       }
     },
@@ -41,13 +41,13 @@
         "p90Hours": null
       },
       "month": {
-        "n": 19,
-        "medianHours": 0.2788888888888889,
-        "p90Hours": 9.453611111111112
+        "n": 22,
+        "medianHours": 0.2602777777777778,
+        "p90Hours": 4.1075
       },
       "year": {
-        "n": 260,
-        "medianHours": 2.5625,
+        "n": 287,
+        "medianHours": 2.8441666666666667,
         "p90Hours": 38.25416666666667
       }
     },
@@ -63,26 +63,26 @@
         "p90Hours": 111.00305555555556
       },
       "year": {
-        "n": 34,
+        "n": 36,
         "medianHours": 12.374722222222223,
         "p90Hours": 133.54
       }
     },
     "vgonkivs": {
       "week": {
-        "n": 1,
+        "n": 2,
         "medianHours": 21.441944444444445,
         "p90Hours": 21.441944444444445
       },
       "month": {
-        "n": 9,
+        "n": 10,
         "medianHours": 31.622222222222224,
         "p90Hours": 795.8888888888889
       },
       "year": {
-        "n": 30,
-        "medianHours": 91.51388888888889,
-        "p90Hours": 527.4561111111111
+        "n": 32,
+        "medianHours": 33.60527777777778,
+        "p90Hours": 334.7630555555556
       }
     },
     "evan-forbes": {
@@ -97,26 +97,9 @@
         "p90Hours": 131.04583333333332
       },
       "year": {
-        "n": 58,
+        "n": 59,
         "medianHours": 4.485277777777778,
-        "p90Hours": 50.30777777777778
-      }
-    },
-    "cmwaters": {
-      "week": {
-        "n": 0,
-        "medianHours": null,
-        "p90Hours": null
-      },
-      "month": {
-        "n": 0,
-        "medianHours": null,
-        "p90Hours": null
-      },
-      "year": {
-        "n": 5,
-        "medianHours": 65.71083333333333,
-        "p90Hours": 129.4586111111111
+        "p90Hours": 57.72388888888889
       }
     },
     "walldiss": {
@@ -148,8 +131,8 @@
         "p90Hours": 91.83944444444444
       },
       "year": {
-        "n": 19,
-        "medianHours": 1.9088888888888889,
+        "n": 22,
+        "medianHours": 2.098333333333333,
         "p90Hours": 91.83944444444444
       }
     }
@@ -186,11 +169,6 @@
       "defaultHidden": false
     },
     {
-      "name": "Callum",
-      "github": "cmwaters",
-      "defaultHidden": false
-    },
-    {
       "name": "Vlad",
       "github": "walldiss",
       "defaultHidden": true
@@ -201,7 +179,7 @@
       "defaultHidden": true
     }
   ],
-  "computedAt": "2026-04-29T00:20:53.409Z",
+  "computedAt": "2026-04-30T00:20:40.647Z",
   "windows": {
     "weekStart": "2026-04-27T00:00:00.000Z",
     "monthStart": "2026-04-01T00:00:00.000Z",
