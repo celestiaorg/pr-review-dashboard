@@ -118,15 +118,6 @@
     ],
     "vgonkivs": [
       {
-        "number": 7197,
-        "title": "perf(rsema1d): chunked dispatch in parallelizeHashing",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7197",
-        "repo": "celestia-app",
-        "author": "Wondertan",
-        "reviewer": "vgonkivs",
-        "requestedAt": "2026-04-30T12:16:27Z"
-      },
-      {
         "number": 2957,
         "title": "build(deps): Bump github.com/adlio/schema from 1.4.0 to 1.5.0",
         "url": "https://github.com/celestiaorg/celestia-core/pull/2957",
@@ -574,15 +565,6 @@
     ],
     "Wondertan": [
       {
-        "number": 7195,
-        "title": "feat: Include Configuration in Fiat-Shamir hash",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7195",
-        "repo": "celestia-app",
-        "author": "jonas089",
-        "reviewer": "Wondertan",
-        "requestedAt": "2026-04-30T08:42:33Z"
-      },
-      {
         "number": 4203,
         "title": "fix(nodebuilder): TLS key/cert name variables",
         "url": "https://github.com/celestiaorg/celestia-node/pull/4203",
@@ -801,5 +783,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-04-30T12:20:38.720Z"
+  "fetchedAt": "2026-04-30T12:58:08.051Z"
 }
