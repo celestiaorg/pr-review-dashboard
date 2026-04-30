@@ -1,16 +1,6 @@
 {
   "reviews": {
-    "rootulp": [
-      {
-        "number": 7201,
-        "title": "chore: fix minor typos in comments and docs",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7201",
-        "repo": "celestia-app",
-        "author": "anim001k",
-        "reviewer": "rootulp",
-        "requestedAt": "2026-04-30T20:04:01Z"
-      }
-    ],
+    "rootulp": [],
     "ninabarbakadze": [
       {
         "number": 7144,
@@ -87,18 +77,45 @@
         "author": "zvolin",
         "reviewer": "mcrakhman",
         "requestedAt": "2026-02-06T11:07:52Z"
-      },
-      {
-        "number": 407,
-        "title": "chore(deps): Bump github.com/klauspost/reedsolomon from 1.13.3 to 1.14.0",
-        "url": "https://github.com/celestiaorg/rsmt2d/pull/407",
-        "repo": "rsmt2d",
-        "author": "dependabot",
-        "reviewer": "mcrakhman",
-        "requestedAt": "2026-04-30T15:52:57Z"
       }
     ],
     "vgonkivs": [
+      {
+        "number": 7202,
+        "title": "fix(app): drop malformed blob txs in separateTxs instead of panicking",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/7202",
+        "repo": "celestia-app",
+        "author": "rootulp",
+        "reviewer": "vgonkivs",
+        "requestedAt": "2026-04-30T21:11:47Z"
+      },
+      {
+        "number": 3002,
+        "title": "fix(rpc/grpc): non-blocking broadcast to height-subscribers",
+        "url": "https://github.com/celestiaorg/celestia-core/pull/3002",
+        "repo": "celestia-core",
+        "author": "rootulp",
+        "reviewer": "vgonkivs",
+        "requestedAt": "2026-04-29T18:26:28Z"
+      },
+      {
+        "number": 3004,
+        "title": "fix(rpc/grpc): BlockAPI.Stop deadlock",
+        "url": "https://github.com/celestiaorg/celestia-core/pull/3004",
+        "repo": "celestia-core",
+        "author": "rootulp",
+        "reviewer": "vgonkivs",
+        "requestedAt": "2026-04-29T18:44:02Z"
+      },
+      {
+        "number": 3007,
+        "title": "fix(rpc/grpc): lock-protect initial newBlockSubscription write",
+        "url": "https://github.com/celestiaorg/celestia-core/pull/3007",
+        "repo": "celestia-core",
+        "author": "rootulp",
+        "reviewer": "vgonkivs",
+        "requestedAt": "2026-04-30T21:09:51Z"
+      },
       {
         "number": 4148,
         "title": "feat(cel-shed): add RTT measurement feature for bootstrappers",
@@ -738,5 +755,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-04-30T20:45:27.167Z"
+  "fetchedAt": "2026-04-30T21:13:06.188Z"
 }
