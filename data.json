@@ -70,15 +70,6 @@
         "requestedAt": "2026-04-30T22:25:14Z"
       },
       {
-        "number": 7204,
-        "title": "fix(signal)!: guard VersionFromBytes against malformed store values",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7204",
-        "repo": "celestia-app",
-        "author": "rootulp",
-        "reviewer": "mcrakhman",
-        "requestedAt": "2026-04-30T21:14:47Z"
-      },
-      {
         "number": 7208,
         "title": "fix(proof): use signed arithmetic in RowProof.Validate",
         "url": "https://github.com/celestiaorg/celestia-app/pull/7208",
@@ -827,5 +818,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-04-30T22:27:58.219Z"
+  "fetchedAt": "2026-04-30T22:50:22.484Z"
 }
