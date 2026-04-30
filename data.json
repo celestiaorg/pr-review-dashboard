@@ -1,6 +1,16 @@
 {
   "reviews": {
-    "rootulp": [],
+    "rootulp": [
+      {
+        "number": 7201,
+        "title": "chore: fix minor typos in comments and docs",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/7201",
+        "repo": "celestia-app",
+        "author": "anim001k",
+        "reviewer": "rootulp",
+        "requestedAt": "2026-04-30T20:04:01Z"
+      }
+    ],
     "ninabarbakadze": [
       {
         "number": 7144,
@@ -728,5 +738,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-04-30T19:54:36.615Z"
+  "fetchedAt": "2026-04-30T20:22:30.977Z"
 }
