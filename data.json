@@ -290,6 +290,15 @@
     ],
     "evan-forbes": [
       {
+        "number": 7200,
+        "title": "feat(metrics): export prometheus metrics to OTel collector via OTLP push",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/7200",
+        "repo": "celestia-app",
+        "author": "walldiss",
+        "reviewer": "evan-forbes",
+        "requestedAt": "2026-04-30T18:18:59Z"
+      },
+      {
         "number": 2956,
         "title": "build(deps): Bump github.com/aws/aws-sdk-go-v2/credentials from 1.19.14 to 1.19.16",
         "url": "https://github.com/celestiaorg/celestia-core/pull/2956",
@@ -719,5 +728,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-04-30T18:12:47.729Z"
+  "fetchedAt": "2026-04-30T18:47:56.604Z"
 }
