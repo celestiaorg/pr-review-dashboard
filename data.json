@@ -9,6 +9,15 @@
         "author": "jonas089",
         "reviewer": "rootulp",
         "requestedAt": "2026-04-30T08:42:32Z"
+      },
+      {
+        "number": 4864,
+        "title": "feat(api) start blob sub from height instead of tip of the chain",
+        "url": "https://github.com/celestiaorg/celestia-node/pull/4864",
+        "repo": "celestia-node",
+        "author": "ninabarbakadze",
+        "reviewer": "rootulp",
+        "requestedAt": "2026-04-30T10:10:41Z"
       }
     ],
     "ninabarbakadze": [
@@ -774,5 +783,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-04-30T09:50:12.231Z"
+  "fetchedAt": "2026-04-30T10:29:57.513Z"
 }
