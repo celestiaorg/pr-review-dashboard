@@ -52,15 +52,6 @@
     ],
     "mcrakhman": [
       {
-        "number": 7159,
-        "title": "feat(fibre/row): introduce `row.Pool` and `row.Assembler`",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7159",
-        "repo": "celestia-app",
-        "author": "Wondertan",
-        "reviewer": "mcrakhman",
-        "requestedAt": "2026-04-29T08:47:48Z"
-      },
-      {
         "number": 7200,
         "title": "feat(metrics): export prometheus metrics to OTel collector via OTLP push",
         "url": "https://github.com/celestiaorg/celestia-app/pull/7200",
@@ -809,5 +800,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-04-30T23:13:28.026Z"
+  "fetchedAt": "2026-04-30T23:36:02.989Z"
 }
