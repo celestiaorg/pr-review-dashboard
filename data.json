@@ -1,6 +1,16 @@
 {
   "reviews": {
-    "rootulp": [],
+    "rootulp": [
+      {
+        "number": 7195,
+        "title": "feat: Include Configuration in Fiat-Shamir hash",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/7195",
+        "repo": "celestia-app",
+        "author": "jonas089",
+        "reviewer": "rootulp",
+        "requestedAt": "2026-04-30T08:42:32Z"
+      }
+    ],
     "ninabarbakadze": [
       {
         "number": 4967,
@@ -537,6 +547,15 @@
     ],
     "Wondertan": [
       {
+        "number": 7195,
+        "title": "feat: Include Configuration in Fiat-Shamir hash",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/7195",
+        "repo": "celestia-app",
+        "author": "jonas089",
+        "reviewer": "Wondertan",
+        "requestedAt": "2026-04-30T08:42:33Z"
+      },
+      {
         "number": 4203,
         "title": "fix(nodebuilder): TLS key/cert name variables",
         "url": "https://github.com/celestiaorg/celestia-node/pull/4203",
@@ -755,5 +774,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-04-30T08:01:39.428Z"
+  "fetchedAt": "2026-04-30T08:58:28.684Z"
 }
