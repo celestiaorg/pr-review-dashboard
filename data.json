@@ -3,6 +3,15 @@
     "rootulp": [],
     "ninabarbakadze": [
       {
+        "number": 7144,
+        "title": "feat(talis): tie S3 payload bucket env vars to the compute provider",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/7144",
+        "repo": "celestia-app",
+        "author": "walldiss",
+        "reviewer": "ninabarbakadze",
+        "requestedAt": "2026-04-28T15:14:42Z"
+      },
+      {
         "number": 4967,
         "title": "fix: close stats file on write error",
         "url": "https://github.com/celestiaorg/celestia-node/pull/4967",
@@ -710,5 +719,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-04-30T17:07:46.164Z"
+  "fetchedAt": "2026-04-30T17:43:37.684Z"
 }
