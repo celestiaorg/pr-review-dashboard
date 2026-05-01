@@ -2,36 +2,36 @@
   "latencies": {
     "rootulp": {
       "week": {
-        "n": 4,
-        "medianHours": 55.55027777777778,
-        "p90Hours": 57.1475
+        "n": 0,
+        "medianHours": null,
+        "p90Hours": null
       },
       "month": {
-        "n": 53,
-        "medianHours": 4.178333333333334,
-        "p90Hours": 53.81805555555555
+        "n": 0,
+        "medianHours": null,
+        "p90Hours": null
       },
       "year": {
-        "n": 151,
-        "medianHours": 3.6766666666666667,
+        "n": 153,
+        "medianHours": 3.6341666666666668,
         "p90Hours": 25.343611111111112
       }
     },
     "ninabarbakadze": {
       "week": {
-        "n": 8,
-        "medianHours": 86.4375,
-        "p90Hours": 1091.715
+        "n": 0,
+        "medianHours": null,
+        "p90Hours": null
       },
       "month": {
-        "n": 71,
-        "medianHours": 12.230277777777777,
-        "p90Hours": 60.69166666666667
+        "n": 0,
+        "medianHours": null,
+        "p90Hours": null
       },
       "year": {
-        "n": 193,
-        "medianHours": 8.774722222222222,
-        "p90Hours": 56.1975
+        "n": 194,
+        "medianHours": 9.436666666666667,
+        "p90Hours": 57.10861111111111
       }
     },
     "rach-id": {
@@ -41,9 +41,9 @@
         "p90Hours": null
       },
       "month": {
-        "n": 22,
-        "medianHours": 0.2602777777777778,
-        "p90Hours": 4.1075
+        "n": 0,
+        "medianHours": null,
+        "p90Hours": null
       },
       "year": {
         "n": 287,
@@ -53,14 +53,14 @@
     },
     "mcrakhman": {
       "week": {
-        "n": 1,
-        "medianHours": 94.73277777777778,
-        "p90Hours": 94.73277777777778
+        "n": 0,
+        "medianHours": null,
+        "p90Hours": null
       },
       "month": {
-        "n": 20,
-        "medianHours": 15.412222222222223,
-        "p90Hours": 111.00305555555556
+        "n": 0,
+        "medianHours": null,
+        "p90Hours": null
       },
       "year": {
         "n": 36,
@@ -70,14 +70,14 @@
     },
     "vgonkivs": {
       "week": {
-        "n": 2,
-        "medianHours": 21.441944444444445,
-        "p90Hours": 21.441944444444445
+        "n": 0,
+        "medianHours": null,
+        "p90Hours": null
       },
       "month": {
-        "n": 10,
-        "medianHours": 31.622222222222224,
-        "p90Hours": 795.8888888888889
+        "n": 0,
+        "medianHours": null,
+        "p90Hours": null
       },
       "year": {
         "n": 32,
@@ -87,14 +87,14 @@
     },
     "evan-forbes": {
       "week": {
-        "n": 1,
-        "medianHours": 57.72388888888889,
-        "p90Hours": 57.72388888888889
+        "n": 0,
+        "medianHours": null,
+        "p90Hours": null
       },
       "month": {
-        "n": 11,
-        "medianHours": 8.3975,
-        "p90Hours": 131.04583333333332
+        "n": 0,
+        "medianHours": null,
+        "p90Hours": null
       },
       "year": {
         "n": 59,
@@ -109,12 +109,12 @@
         "p90Hours": null
       },
       "month": {
-        "n": 6,
-        "medianHours": 4.8525,
-        "p90Hours": 480.12833333333333
+        "n": 0,
+        "medianHours": null,
+        "p90Hours": null
       },
       "year": {
-        "n": 46,
+        "n": 47,
         "medianHours": 26.451666666666668,
         "p90Hours": 383.1430555555556
       }
@@ -126,12 +126,12 @@
         "p90Hours": null
       },
       "month": {
-        "n": 2,
-        "medianHours": 91.83944444444444,
-        "p90Hours": 91.83944444444444
+        "n": 0,
+        "medianHours": null,
+        "p90Hours": null
       },
       "year": {
-        "n": 22,
+        "n": 23,
         "medianHours": 2.098333333333333,
         "p90Hours": 91.83944444444444
       }
@@ -179,10 +179,10 @@
       "defaultHidden": true
     }
   ],
-  "computedAt": "2026-04-30T00:20:40.647Z",
+  "computedAt": "2026-05-01T00:21:09.188Z",
   "windows": {
     "weekStart": "2026-04-27T00:00:00.000Z",
-    "monthStart": "2026-04-01T00:00:00.000Z",
+    "monthStart": "2026-05-01T00:00:00.000Z",
     "yearStart": "2026-01-01T00:00:00.000Z"
   }
 }
