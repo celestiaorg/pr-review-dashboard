@@ -353,6 +353,15 @@
     ],
     "evan-forbes": [
       {
+        "number": 7190,
+        "title": "perf(fibre): flat-file shard store, bypass pebble for 28 MiB payloads",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/7190",
+        "repo": "celestia-app",
+        "author": "walldiss",
+        "reviewer": "evan-forbes",
+        "requestedAt": "2026-04-28T15:12:08Z"
+      },
+      {
         "number": 7200,
         "title": "feat(metrics): export prometheus metrics to OTel collector via OTLP push",
         "url": "https://github.com/celestiaorg/celestia-app/pull/7200",
@@ -591,6 +600,15 @@
     ],
     "Wondertan": [
       {
+        "number": 7190,
+        "title": "perf(fibre): flat-file shard store, bypass pebble for 28 MiB payloads",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/7190",
+        "repo": "celestia-app",
+        "author": "walldiss",
+        "reviewer": "Wondertan",
+        "requestedAt": "2026-05-01T12:05:27Z"
+      },
+      {
         "number": 4203,
         "title": "fix(nodebuilder): TLS key/cert name variables",
         "url": "https://github.com/celestiaorg/celestia-node/pull/4203",
@@ -809,5 +827,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-05-01T11:46:36.114Z"
+  "fetchedAt": "2026-05-01T12:08:15.306Z"
 }
