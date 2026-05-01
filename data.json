@@ -117,6 +117,15 @@
         "requestedAt": "2026-04-30T21:17:35Z"
       },
       {
+        "number": 7210,
+        "title": "fix(multiplexer): close gRPC client on startGRPCServer failure paths",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/7210",
+        "repo": "celestia-app",
+        "author": "animeherox",
+        "reviewer": "vgonkivs",
+        "requestedAt": "2026-05-01T03:59:22Z"
+      },
+      {
         "number": 3002,
         "title": "fix(rpc/grpc): non-blocking broadcast to height-subscribers",
         "url": "https://github.com/celestiaorg/celestia-core/pull/3002",
@@ -800,5 +809,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-05-01T03:07:41.557Z"
+  "fetchedAt": "2026-05-01T04:34:52.793Z"
 }
