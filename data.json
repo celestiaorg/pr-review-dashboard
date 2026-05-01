@@ -354,7 +354,7 @@
     "evan-forbes": [
       {
         "number": 7190,
-        "title": "perf(fibre): flat-file shard store, bypass pebble for 28 MiB payloads",
+        "title": "perf(fibre): flat-file shard store for fibre",
         "url": "https://github.com/celestiaorg/celestia-app/pull/7190",
         "repo": "celestia-app",
         "author": "walldiss",
@@ -601,7 +601,7 @@
     "Wondertan": [
       {
         "number": 7190,
-        "title": "perf(fibre): flat-file shard store, bypass pebble for 28 MiB payloads",
+        "title": "perf(fibre): flat-file shard store for fibre",
         "url": "https://github.com/celestiaorg/celestia-app/pull/7190",
         "repo": "celestia-app",
         "author": "walldiss",
@@ -827,5 +827,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-05-01T12:08:15.306Z"
+  "fetchedAt": "2026-05-01T12:36:16.558Z"
 }
