@@ -3,15 +3,6 @@
     "rootulp": [],
     "ninabarbakadze": [
       {
-        "number": 7144,
-        "title": "feat(talis): tie S3 payload bucket env vars to the compute provider",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7144",
-        "repo": "celestia-app",
-        "author": "walldiss",
-        "reviewer": "ninabarbakadze",
-        "requestedAt": "2026-04-28T15:14:42Z"
-      },
-      {
         "number": 7203,
         "title": "feat(observability): add Block Time Gap panel + 24h breach stat",
         "url": "https://github.com/celestiaorg/celestia-app/pull/7203",
@@ -59,15 +50,6 @@
         "author": "walldiss",
         "reviewer": "mcrakhman",
         "requestedAt": "2026-04-30T22:25:14Z"
-      },
-      {
-        "number": 7208,
-        "title": "fix(proof): use signed arithmetic in RowProof.Validate",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7208",
-        "repo": "celestia-app",
-        "author": "rootulp",
-        "reviewer": "mcrakhman",
-        "requestedAt": "2026-04-30T21:23:00Z"
       },
       {
         "number": 4818,
@@ -818,5 +800,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-05-01T13:41:54.458Z"
+  "fetchedAt": "2026-05-01T14:12:50.346Z"
 }
