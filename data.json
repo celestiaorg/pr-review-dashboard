@@ -362,6 +362,15 @@
         "requestedAt": "2026-04-30T21:16:37Z"
       },
       {
+        "number": 7214,
+        "title": "refactor(rsema1d,fibre): replace `VerifyRowsWithContext` with Verifier",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/7214",
+        "repo": "celestia-app",
+        "author": "Wondertan",
+        "reviewer": "evan-forbes",
+        "requestedAt": "2026-05-01T18:31:53Z"
+      },
+      {
         "number": 2950,
         "title": "fix(consensus): stabilize TestByzantinePrevoteEquivocation flake",
         "url": "https://github.com/celestiaorg/celestia-core/pull/2950",
@@ -800,5 +809,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-05-01T18:02:22.340Z"
+  "fetchedAt": "2026-05-01T18:35:16.656Z"
 }
