@@ -12,6 +12,15 @@
         "requestedAt": "2026-04-30T21:13:47Z"
       },
       {
+        "number": 7211,
+        "title": "chore(deps): bump klauspost/reedsolomon to v1.14.0",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/7211",
+        "repo": "celestia-app",
+        "author": "Wondertan",
+        "reviewer": "ninabarbakadze",
+        "requestedAt": "2026-05-01T14:14:30Z"
+      },
+      {
         "number": 4967,
         "title": "fix: close stats file on write error",
         "url": "https://github.com/celestiaorg/celestia-node/pull/4967",
@@ -800,5 +809,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-05-01T14:12:50.346Z"
+  "fetchedAt": "2026-05-01T14:39:15.569Z"
 }
