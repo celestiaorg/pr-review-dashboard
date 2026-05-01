@@ -380,15 +380,6 @@
         "requestedAt": "2026-04-30T21:16:37Z"
       },
       {
-        "number": 7209,
-        "title": "fix(proof): widen ShareProof span accumulator to int64 and bounds-check slices",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7209",
-        "repo": "celestia-app",
-        "author": "rootulp",
-        "reviewer": "evan-forbes",
-        "requestedAt": "2026-04-30T21:27:07Z"
-      },
-      {
         "number": 2950,
         "title": "fix(consensus): stabilize TestByzantinePrevoteEquivocation flake",
         "url": "https://github.com/celestiaorg/celestia-core/pull/2950",
@@ -827,5 +818,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-05-01T12:36:16.558Z"
+  "fetchedAt": "2026-05-01T13:03:31.989Z"
 }
