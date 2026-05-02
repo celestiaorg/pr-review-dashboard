@@ -31,17 +31,17 @@
       "year": 75
     },
     "walldiss": {
-      "week": 0,
-      "month": 0,
-      "year": 100
+      "week": 4,
+      "month": 4,
+      "year": 104
     },
     "Wondertan": {
-      "week": 0,
-      "month": 0,
-      "year": 60
+      "week": 3,
+      "month": 3,
+      "year": 63
     }
   },
-  "computedAt": "2026-05-01T00:20:21.241Z",
+  "computedAt": "2026-05-02T00:19:33.556Z",
   "windows": {
     "weekStart": "2026-04-27T00:00:00.000Z",
     "monthStart": "2026-05-01T00:00:00.000Z",
