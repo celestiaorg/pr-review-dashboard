@@ -121,18 +121,18 @@
     },
     "Wondertan": {
       "week": {
-        "n": 0,
-        "medianHours": null,
-        "p90Hours": null
+        "n": 1,
+        "medianHours": 7.635,
+        "p90Hours": 7.635
       },
       "month": {
-        "n": 0,
-        "medianHours": null,
-        "p90Hours": null
+        "n": 1,
+        "medianHours": 7.635,
+        "p90Hours": 7.635
       },
       "year": {
-        "n": 23,
-        "medianHours": 2.098333333333333,
+        "n": 24,
+        "medianHours": 2.216388888888889,
         "p90Hours": 91.83944444444444
       }
     }
@@ -179,7 +179,7 @@
       "defaultHidden": true
     }
   ],
-  "computedAt": "2026-05-01T00:21:09.188Z",
+  "computedAt": "2026-05-02T00:20:22.349Z",
   "windows": {
     "weekStart": "2026-04-27T00:00:00.000Z",
     "monthStart": "2026-05-01T00:00:00.000Z",
