@@ -335,15 +335,6 @@
     ],
     "evan-forbes": [
       {
-        "number": 7190,
-        "title": "perf(fibre): flat-file shard store for fibre",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7190",
-        "repo": "celestia-app",
-        "author": "walldiss",
-        "reviewer": "evan-forbes",
-        "requestedAt": "2026-04-28T15:12:08Z"
-      },
-      {
         "number": 7200,
         "title": "feat(metrics): export prometheus metrics to OTel collector via OTLP push",
         "url": "https://github.com/celestiaorg/celestia-app/pull/7200",
@@ -800,5 +791,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-05-03T03:05:40.839Z"
+  "fetchedAt": "2026-05-03T04:30:01.421Z"
 }
