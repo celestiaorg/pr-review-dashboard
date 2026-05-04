@@ -90,15 +90,6 @@
         "requestedAt": "2026-04-30T21:17:35Z"
       },
       {
-        "number": 3002,
-        "title": "fix(rpc/grpc): non-blocking broadcast to height-subscribers",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3002",
-        "repo": "celestia-core",
-        "author": "rootulp",
-        "reviewer": "vgonkivs",
-        "requestedAt": "2026-04-29T18:26:28Z"
-      },
-      {
         "number": 3004,
         "title": "fix(rpc/grpc): BlockAPI.Stop deadlock",
         "url": "https://github.com/celestiaorg/celestia-core/pull/3004",
@@ -325,42 +316,6 @@
       }
     ],
     "evan-forbes": [
-      {
-        "number": 7200,
-        "title": "feat(metrics): export prometheus metrics to OTel collector via OTLP push",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7200",
-        "repo": "celestia-app",
-        "author": "walldiss",
-        "reviewer": "evan-forbes",
-        "requestedAt": "2026-04-30T18:18:59Z"
-      },
-      {
-        "number": 7205,
-        "title": "fix(blob)!: cap GovMaxSquareSize at SquareSizeUpperBound",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7205",
-        "repo": "celestia-app",
-        "author": "rootulp",
-        "reviewer": "evan-forbes",
-        "requestedAt": "2026-04-30T21:16:37Z"
-      },
-      {
-        "number": 7214,
-        "title": "refactor(rsema1d,fibre): replace `VerifyRowsWithContext` with Verifier",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7214",
-        "repo": "celestia-app",
-        "author": "Wondertan",
-        "reviewer": "evan-forbes",
-        "requestedAt": "2026-05-01T18:31:53Z"
-      },
-      {
-        "number": 2950,
-        "title": "fix(consensus): stabilize TestByzantinePrevoteEquivocation flake",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/2950",
-        "repo": "celestia-core",
-        "author": "rootulp",
-        "reviewer": "evan-forbes",
-        "requestedAt": "2026-04-30T21:15:36Z"
-      },
       {
         "number": 2956,
         "title": "build(deps): Bump github.com/aws/aws-sdk-go-v2/credentials from 1.19.14 to 1.19.16",
@@ -791,5 +746,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-05-04T05:42:28.889Z"
+  "fetchedAt": "2026-05-04T06:41:13.646Z"
 }
