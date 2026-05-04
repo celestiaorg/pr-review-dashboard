@@ -3,69 +3,6 @@
     "rootulp": [],
     "ninabarbakadze": [
       {
-        "number": 7203,
-        "title": "feat(observability): add Block Time Gap panel + 24h breach stat",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7203",
-        "repo": "celestia-app",
-        "author": "rootulp",
-        "reviewer": "ninabarbakadze",
-        "requestedAt": "2026-04-30T21:13:47Z"
-      },
-      {
-        "number": 7218,
-        "title": "chore(deps): bump github.com/aws/aws-sdk-go-v2/config from 1.32.14 to 1.32.17",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7218",
-        "repo": "celestia-app",
-        "author": "dependabot",
-        "reviewer": "ninabarbakadze",
-        "requestedAt": "2026-05-04T11:35:21Z"
-      },
-      {
-        "number": 7223,
-        "title": "chore(deps): bump github.com/aws/aws-sdk-go-v2 from 1.41.6 to 1.41.7",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7223",
-        "repo": "celestia-app",
-        "author": "dependabot",
-        "reviewer": "ninabarbakadze",
-        "requestedAt": "2026-05-04T11:39:14Z"
-      },
-      {
-        "number": 7227,
-        "title": "chore(deps): bump google.golang.org/api from 0.276.0 to 0.277.0",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7227",
-        "repo": "celestia-app",
-        "author": "dependabot",
-        "reviewer": "ninabarbakadze",
-        "requestedAt": "2026-05-04T11:39:40Z"
-      },
-      {
-        "number": 3009,
-        "title": "feat(mempool): guarantee SeenTx broadcasts to persistent peers",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3009",
-        "repo": "celestia-core",
-        "author": "evan-forbes",
-        "reviewer": "ninabarbakadze",
-        "requestedAt": "2026-05-04T06:46:13Z"
-      },
-      {
-        "number": 3012,
-        "title": "build(deps): Bump github.com/aws/aws-sdk-go-v2/config from 1.32.14 to 1.32.17",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3012",
-        "repo": "celestia-core",
-        "author": "dependabot",
-        "reviewer": "ninabarbakadze",
-        "requestedAt": "2026-05-04T11:30:59Z"
-      },
-      {
-        "number": 3015,
-        "title": "build(deps): Bump github.com/Masterminds/semver/v3 from 3.4.0 to 3.5.0",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3015",
-        "repo": "celestia-core",
-        "author": "dependabot",
-        "reviewer": "ninabarbakadze",
-        "requestedAt": "2026-05-04T11:33:48Z"
-      },
-      {
         "number": 4967,
         "title": "fix: close stats file on write error",
         "url": "https://github.com/celestiaorg/celestia-node/pull/4967",
@@ -73,24 +10,6 @@
         "author": "Radovenchyk",
         "reviewer": "ninabarbakadze",
         "requestedAt": "2026-04-24T08:26:07Z"
-      },
-      {
-        "number": 4979,
-        "title": "chore(deps): bump slackapi/slack-github-action from 3.0.2 to 3.0.3 in the patch-updates group",
-        "url": "https://github.com/celestiaorg/celestia-node/pull/4979",
-        "repo": "celestia-node",
-        "author": "dependabot",
-        "reviewer": "ninabarbakadze",
-        "requestedAt": "2026-05-04T13:25:30Z"
-      },
-      {
-        "number": 4983,
-        "title": "chore(deps): bump go.uber.org/zap from 1.27.1 to 1.28.0",
-        "url": "https://github.com/celestiaorg/celestia-node/pull/4983",
-        "repo": "celestia-node",
-        "author": "dependabot",
-        "reviewer": "ninabarbakadze",
-        "requestedAt": "2026-05-04T13:37:34Z"
       }
     ],
     "rach-id": [
@@ -1016,5 +935,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-05-04T13:44:53.108Z"
+  "fetchedAt": "2026-05-04T14:34:23.628Z"
 }
