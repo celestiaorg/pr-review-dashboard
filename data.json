@@ -12,6 +12,33 @@
         "requestedAt": "2026-04-30T21:13:47Z"
       },
       {
+        "number": 7218,
+        "title": "chore(deps): bump github.com/aws/aws-sdk-go-v2/config from 1.32.14 to 1.32.17",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/7218",
+        "repo": "celestia-app",
+        "author": "dependabot",
+        "reviewer": "ninabarbakadze",
+        "requestedAt": "2026-05-04T11:35:21Z"
+      },
+      {
+        "number": 7223,
+        "title": "chore(deps): bump github.com/aws/aws-sdk-go-v2 from 1.41.6 to 1.41.7",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/7223",
+        "repo": "celestia-app",
+        "author": "dependabot",
+        "reviewer": "ninabarbakadze",
+        "requestedAt": "2026-05-04T11:39:14Z"
+      },
+      {
+        "number": 7227,
+        "title": "chore(deps): bump google.golang.org/api from 0.276.0 to 0.277.0",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/7227",
+        "repo": "celestia-app",
+        "author": "dependabot",
+        "reviewer": "ninabarbakadze",
+        "requestedAt": "2026-05-04T11:39:40Z"
+      },
+      {
         "number": 3009,
         "title": "feat(mempool): guarantee SeenTx broadcasts to persistent peers",
         "url": "https://github.com/celestiaorg/celestia-core/pull/3009",
@@ -19,6 +46,24 @@
         "author": "evan-forbes",
         "reviewer": "ninabarbakadze",
         "requestedAt": "2026-05-04T06:46:13Z"
+      },
+      {
+        "number": 3012,
+        "title": "build(deps): Bump github.com/aws/aws-sdk-go-v2/config from 1.32.14 to 1.32.17",
+        "url": "https://github.com/celestiaorg/celestia-core/pull/3012",
+        "repo": "celestia-core",
+        "author": "dependabot",
+        "reviewer": "ninabarbakadze",
+        "requestedAt": "2026-05-04T11:30:59Z"
+      },
+      {
+        "number": 3015,
+        "title": "build(deps): Bump github.com/Masterminds/semver/v3 from 3.4.0 to 3.5.0",
+        "url": "https://github.com/celestiaorg/celestia-core/pull/3015",
+        "repo": "celestia-core",
+        "author": "dependabot",
+        "reviewer": "ninabarbakadze",
+        "requestedAt": "2026-05-04T11:33:48Z"
       },
       {
         "number": 4967,
@@ -70,6 +115,51 @@
         "requestedAt": "2026-05-04T06:48:53Z"
       },
       {
+        "number": 7219,
+        "title": "chore(deps): bump github.com/aws/aws-sdk-go-v2/credentials from 1.19.14 to 1.19.16",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/7219",
+        "repo": "celestia-app",
+        "author": "dependabot",
+        "reviewer": "mcrakhman",
+        "requestedAt": "2026-05-04T11:36:37Z"
+      },
+      {
+        "number": 7224,
+        "title": "chore(deps): bump go.uber.org/zap from 1.27.1 to 1.28.0 in /test/docker-e2e",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/7224",
+        "repo": "celestia-app",
+        "author": "dependabot",
+        "reviewer": "mcrakhman",
+        "requestedAt": "2026-05-04T11:39:16Z"
+      },
+      {
+        "number": 7228,
+        "title": "chore(deps): bump github.com/aws/aws-sdk-go-v2/service/s3 from 1.100.0 to 1.100.1",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/7228",
+        "repo": "celestia-app",
+        "author": "dependabot",
+        "reviewer": "mcrakhman",
+        "requestedAt": "2026-05-04T11:41:01Z"
+      },
+      {
+        "number": 3013,
+        "title": "build(deps): Bump github.com/aws/aws-sdk-go-v2/credentials from 1.19.14 to 1.19.16",
+        "url": "https://github.com/celestiaorg/celestia-core/pull/3013",
+        "repo": "celestia-core",
+        "author": "dependabot",
+        "reviewer": "mcrakhman",
+        "requestedAt": "2026-05-04T11:32:23Z"
+      },
+      {
+        "number": 3016,
+        "title": "build(deps): Bump github.com/klauspost/reedsolomon from 1.13.3 to 1.14.0",
+        "url": "https://github.com/celestiaorg/celestia-core/pull/3016",
+        "repo": "celestia-core",
+        "author": "dependabot",
+        "reviewer": "mcrakhman",
+        "requestedAt": "2026-05-04T11:33:52Z"
+      },
+      {
         "number": 4818,
         "title": "docgen: include Authorization header requirement in OpenRPC method de…",
         "url": "https://github.com/celestiaorg/celestia-node/pull/4818",
@@ -108,6 +198,51 @@
         "requestedAt": "2026-04-30T21:17:35Z"
       },
       {
+        "number": 7216,
+        "title": "chore(deps): bump slackapi/slack-github-action from 3.0.2 to 3.0.3",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/7216",
+        "repo": "celestia-app",
+        "author": "dependabot",
+        "reviewer": "vgonkivs",
+        "requestedAt": "2026-05-04T11:33:47Z"
+      },
+      {
+        "number": 7217,
+        "title": "chore(deps): bump github/codeql-action from 4.35.2 to 4.35.3",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/7217",
+        "repo": "celestia-app",
+        "author": "dependabot",
+        "reviewer": "vgonkivs",
+        "requestedAt": "2026-05-04T11:34:08Z"
+      },
+      {
+        "number": 7222,
+        "title": "chore(deps): bump google.golang.org/grpc from 1.80.0 to 1.81.0 in /test/docker-e2e",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/7222",
+        "repo": "celestia-app",
+        "author": "dependabot",
+        "reviewer": "vgonkivs",
+        "requestedAt": "2026-05-04T11:39:10Z"
+      },
+      {
+        "number": 7226,
+        "title": "chore(deps): bump github.com/pelletier/go-toml/v2 from 2.3.0 to 2.3.1",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/7226",
+        "repo": "celestia-app",
+        "author": "dependabot",
+        "reviewer": "vgonkivs",
+        "requestedAt": "2026-05-04T11:39:33Z"
+      },
+      {
+        "number": 7230,
+        "title": "chore(deps): bump google.golang.org/grpc from 1.80.0 to 1.81.0",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/7230",
+        "repo": "celestia-app",
+        "author": "dependabot",
+        "reviewer": "vgonkivs",
+        "requestedAt": "2026-05-04T11:42:26Z"
+      },
+      {
         "number": 3004,
         "title": "fix(rpc/grpc): BlockAPI.Stop deadlock",
         "url": "https://github.com/celestiaorg/celestia-core/pull/3004",
@@ -133,6 +268,15 @@
         "author": "evan-forbes",
         "reviewer": "vgonkivs",
         "requestedAt": "2026-05-04T03:42:27Z"
+      },
+      {
+        "number": 3011,
+        "title": "build(deps): Bump github.com/aws/aws-sdk-go-v2/service/s3 from 1.100.0 to 1.100.1",
+        "url": "https://github.com/celestiaorg/celestia-core/pull/3011",
+        "repo": "celestia-core",
+        "author": "dependabot",
+        "reviewer": "vgonkivs",
+        "requestedAt": "2026-05-04T11:29:43Z"
       },
       {
         "number": 4148,
@@ -335,13 +479,58 @@
     ],
     "evan-forbes": [
       {
-        "number": 2956,
-        "title": "build(deps): Bump github.com/aws/aws-sdk-go-v2/credentials from 1.19.14 to 1.19.16",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/2956",
+        "number": 7220,
+        "title": "chore(deps): bump github.com/aws/aws-sdk-go-v2/service/ec2 from 1.299.0 to 1.299.1",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/7220",
+        "repo": "celestia-app",
+        "author": "dependabot",
+        "reviewer": "evan-forbes",
+        "requestedAt": "2026-05-04T11:37:56Z"
+      },
+      {
+        "number": 7225,
+        "title": "chore(deps): bump cloud.google.com/go/compute from 1.60.0 to 1.61.0",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/7225",
+        "repo": "celestia-app",
+        "author": "dependabot",
+        "reviewer": "evan-forbes",
+        "requestedAt": "2026-05-04T11:39:27Z"
+      },
+      {
+        "number": 7229,
+        "title": "chore(deps): bump github.com/aws/aws-sdk-go-v2/feature/s3/manager from 1.21.1 to 1.22.17",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/7229",
+        "repo": "celestia-app",
+        "author": "dependabot",
+        "reviewer": "evan-forbes",
+        "requestedAt": "2026-05-04T11:42:21Z"
+      },
+      {
+        "number": 3010,
+        "title": "build(deps): Bump slackapi/slack-github-action from 3.0.2 to 3.0.3",
+        "url": "https://github.com/celestiaorg/celestia-core/pull/3010",
         "repo": "celestia-core",
         "author": "dependabot",
         "reviewer": "evan-forbes",
-        "requestedAt": "2026-04-20T10:59:40Z"
+        "requestedAt": "2026-05-04T11:28:17Z"
+      },
+      {
+        "number": 3014,
+        "title": "build(deps): Bump github.com/aws/aws-sdk-go-v2 from 1.41.6 to 1.41.7",
+        "url": "https://github.com/celestiaorg/celestia-core/pull/3014",
+        "repo": "celestia-core",
+        "author": "dependabot",
+        "reviewer": "evan-forbes",
+        "requestedAt": "2026-05-04T11:33:40Z"
+      },
+      {
+        "number": 3017,
+        "title": "build(deps): Bump google.golang.org/grpc from 1.80.0 to 1.81.0",
+        "url": "https://github.com/celestiaorg/celestia-core/pull/3017",
+        "repo": "celestia-core",
+        "author": "dependabot",
+        "reviewer": "evan-forbes",
+        "requestedAt": "2026-05-04T11:33:57Z"
       }
     ],
     "walldiss": [
@@ -764,5 +953,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-05-04T11:09:37.301Z"
+  "fetchedAt": "2026-05-04T11:51:48.715Z"
 }
