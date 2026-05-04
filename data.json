@@ -3,6 +3,15 @@
     "rootulp": [],
     "ninabarbakadze": [
       {
+        "number": 7231,
+        "title": "chore(deps): bump core to v0.39.29",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/7231",
+        "repo": "celestia-app",
+        "author": "mcrakhman",
+        "reviewer": "ninabarbakadze",
+        "requestedAt": "2026-05-04T22:32:45Z"
+      },
+      {
         "number": 4967,
         "title": "fix: close stats file on write error",
         "url": "https://github.com/celestiaorg/celestia-node/pull/4967",
@@ -746,5 +755,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-05-04T22:22:17.722Z"
+  "fetchedAt": "2026-05-04T22:43:49.007Z"
 }
