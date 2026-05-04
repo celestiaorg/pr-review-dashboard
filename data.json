@@ -1,16 +1,6 @@
 {
   "reviews": {
-    "rootulp": [
-      {
-        "number": 7210,
-        "title": "fix(multiplexer): close gRPC client on startGRPCServer failure paths",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7210",
-        "repo": "celestia-app",
-        "author": "animeherox",
-        "reviewer": "rootulp",
-        "requestedAt": "2026-05-03T23:59:53Z"
-      }
-    ],
+    "rootulp": [],
     "ninabarbakadze": [
       {
         "number": 7203,
@@ -90,15 +80,6 @@
       }
     ],
     "vgonkivs": [
-      {
-        "number": 7202,
-        "title": "fix(app): drop malformed blob txs in separateTxs instead of panicking",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7202",
-        "repo": "celestia-app",
-        "author": "rootulp",
-        "reviewer": "vgonkivs",
-        "requestedAt": "2026-04-30T21:11:47Z"
-      },
       {
         "number": 7206,
         "title": "fix(proof): return error instead of panicking on malformed query data",
@@ -382,6 +363,15 @@
       }
     ],
     "walldiss": [
+      {
+        "number": 7202,
+        "title": "fix(app): drop malformed blob txs in separateTxs instead of panicking",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/7202",
+        "repo": "celestia-app",
+        "author": "rootulp",
+        "reviewer": "walldiss",
+        "requestedAt": "2026-05-04T00:07:02Z"
+      },
       {
         "number": 4148,
         "title": "feat(cel-shed): add RTT measurement feature for bootstrappers",
@@ -792,5 +782,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-05-04T00:06:38.666Z"
+  "fetchedAt": "2026-05-04T01:09:04.066Z"
 }
