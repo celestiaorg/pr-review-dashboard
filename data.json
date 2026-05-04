@@ -12,6 +12,15 @@
         "requestedAt": "2026-04-30T21:13:47Z"
       },
       {
+        "number": 3009,
+        "title": "feat(mempool): guarantee SeenTx broadcasts to persistent peers",
+        "url": "https://github.com/celestiaorg/celestia-core/pull/3009",
+        "repo": "celestia-core",
+        "author": "evan-forbes",
+        "reviewer": "ninabarbakadze",
+        "requestedAt": "2026-05-04T06:46:13Z"
+      },
+      {
         "number": 4967,
         "title": "fix: close stats file on write error",
         "url": "https://github.com/celestiaorg/celestia-node/pull/4967",
@@ -50,6 +59,24 @@
         "author": "walldiss",
         "reviewer": "mcrakhman",
         "requestedAt": "2026-04-30T22:25:14Z"
+      },
+      {
+        "number": 7215,
+        "title": "test(app): right-size account count in TestProcessProposalCappingNumberOfMessages",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/7215",
+        "repo": "celestia-app",
+        "author": "evan-forbes",
+        "reviewer": "mcrakhman",
+        "requestedAt": "2026-05-04T06:48:53Z"
+      },
+      {
+        "number": 3009,
+        "title": "feat(mempool): guarantee SeenTx broadcasts to persistent peers",
+        "url": "https://github.com/celestiaorg/celestia-core/pull/3009",
+        "repo": "celestia-core",
+        "author": "evan-forbes",
+        "reviewer": "mcrakhman",
+        "requestedAt": "2026-05-04T06:50:41Z"
       },
       {
         "number": 4818,
@@ -746,5 +773,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-05-04T06:41:13.646Z"
+  "fetchedAt": "2026-05-04T07:42:10.252Z"
 }
