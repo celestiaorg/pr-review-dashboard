@@ -52,15 +52,6 @@
         "requestedAt": "2026-05-04T06:48:53Z"
       },
       {
-        "number": 7219,
-        "title": "chore(deps): bump github.com/aws/aws-sdk-go-v2/credentials from 1.19.14 to 1.19.16",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7219",
-        "repo": "celestia-app",
-        "author": "dependabot",
-        "reviewer": "mcrakhman",
-        "requestedAt": "2026-05-04T11:36:37Z"
-      },
-      {
         "number": 3016,
         "title": "build(deps): Bump github.com/klauspost/reedsolomon from 1.13.3 to 1.14.0",
         "url": "https://github.com/celestiaorg/celestia-core/pull/3016",
@@ -755,5 +746,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-05-04T16:50:22.487Z"
+  "fetchedAt": "2026-05-04T17:24:38.842Z"
 }
