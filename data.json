@@ -1,6 +1,16 @@
 {
   "reviews": {
-    "rootulp": [],
+    "rootulp": [
+      {
+        "number": 7210,
+        "title": "fix(multiplexer): close gRPC client on startGRPCServer failure paths",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/7210",
+        "repo": "celestia-app",
+        "author": "animeherox",
+        "reviewer": "rootulp",
+        "requestedAt": "2026-05-03T23:59:53Z"
+      }
+    ],
     "ninabarbakadze": [
       {
         "number": 7203,
@@ -97,15 +107,6 @@
         "author": "rootulp",
         "reviewer": "vgonkivs",
         "requestedAt": "2026-04-30T21:17:35Z"
-      },
-      {
-        "number": 7210,
-        "title": "fix(multiplexer): close gRPC client on startGRPCServer failure paths",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7210",
-        "repo": "celestia-app",
-        "author": "animeherox",
-        "reviewer": "vgonkivs",
-        "requestedAt": "2026-05-01T03:59:22Z"
       },
       {
         "number": 3002,
@@ -791,5 +792,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-05-03T23:46:06.566Z"
+  "fetchedAt": "2026-05-04T00:06:38.666Z"
 }
