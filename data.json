@@ -61,33 +61,6 @@
         "requestedAt": "2026-05-04T11:36:37Z"
       },
       {
-        "number": 7224,
-        "title": "chore(deps): bump go.uber.org/zap from 1.27.1 to 1.28.0 in /test/docker-e2e",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7224",
-        "repo": "celestia-app",
-        "author": "dependabot",
-        "reviewer": "mcrakhman",
-        "requestedAt": "2026-05-04T11:39:16Z"
-      },
-      {
-        "number": 7228,
-        "title": "chore(deps): bump github.com/aws/aws-sdk-go-v2/service/s3 from 1.100.0 to 1.100.1",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7228",
-        "repo": "celestia-app",
-        "author": "dependabot",
-        "reviewer": "mcrakhman",
-        "requestedAt": "2026-05-04T11:41:01Z"
-      },
-      {
-        "number": 3013,
-        "title": "build(deps): Bump github.com/aws/aws-sdk-go-v2/credentials from 1.19.14 to 1.19.16",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3013",
-        "repo": "celestia-core",
-        "author": "dependabot",
-        "reviewer": "mcrakhman",
-        "requestedAt": "2026-05-04T11:32:23Z"
-      },
-      {
         "number": 3016,
         "title": "build(deps): Bump github.com/klauspost/reedsolomon from 1.13.3 to 1.14.0",
         "url": "https://github.com/celestiaorg/celestia-core/pull/3016",
@@ -144,60 +117,6 @@
     ],
     "vgonkivs": [
       {
-        "number": 7206,
-        "title": "fix(proof): return error instead of panicking on malformed query data",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7206",
-        "repo": "celestia-app",
-        "author": "rootulp",
-        "reviewer": "vgonkivs",
-        "requestedAt": "2026-04-30T21:17:35Z"
-      },
-      {
-        "number": 7216,
-        "title": "chore(deps): bump slackapi/slack-github-action from 3.0.2 to 3.0.3",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7216",
-        "repo": "celestia-app",
-        "author": "dependabot",
-        "reviewer": "vgonkivs",
-        "requestedAt": "2026-05-04T11:33:47Z"
-      },
-      {
-        "number": 7217,
-        "title": "chore(deps): bump github/codeql-action from 4.35.2 to 4.35.3",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7217",
-        "repo": "celestia-app",
-        "author": "dependabot",
-        "reviewer": "vgonkivs",
-        "requestedAt": "2026-05-04T11:34:08Z"
-      },
-      {
-        "number": 7222,
-        "title": "chore(deps): bump google.golang.org/grpc from 1.80.0 to 1.81.0 in /test/docker-e2e",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7222",
-        "repo": "celestia-app",
-        "author": "dependabot",
-        "reviewer": "vgonkivs",
-        "requestedAt": "2026-05-04T11:39:10Z"
-      },
-      {
-        "number": 7226,
-        "title": "chore(deps): bump github.com/pelletier/go-toml/v2 from 2.3.0 to 2.3.1",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7226",
-        "repo": "celestia-app",
-        "author": "dependabot",
-        "reviewer": "vgonkivs",
-        "requestedAt": "2026-05-04T11:39:33Z"
-      },
-      {
-        "number": 7230,
-        "title": "chore(deps): bump google.golang.org/grpc from 1.80.0 to 1.81.0",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7230",
-        "repo": "celestia-app",
-        "author": "dependabot",
-        "reviewer": "vgonkivs",
-        "requestedAt": "2026-05-04T11:42:26Z"
-      },
-      {
         "number": 3004,
         "title": "fix(rpc/grpc): BlockAPI.Stop deadlock",
         "url": "https://github.com/celestiaorg/celestia-core/pull/3004",
@@ -234,24 +153,6 @@
         "requestedAt": "2026-05-04T11:29:43Z"
       },
       {
-        "number": 4148,
-        "title": "feat(cel-shed): add RTT measurement feature for bootstrappers",
-        "url": "https://github.com/celestiaorg/celestia-node/pull/4148",
-        "repo": "celestia-node",
-        "author": "aWN4Y25pa2EK",
-        "reviewer": "vgonkivs",
-        "requestedAt": "2025-03-06T13:25:56Z"
-      },
-      {
-        "number": 4203,
-        "title": "fix(nodebuilder): TLS key/cert name variables",
-        "url": "https://github.com/celestiaorg/celestia-node/pull/4203",
-        "repo": "celestia-node",
-        "author": "koenmtb1",
-        "reviewer": "vgonkivs",
-        "requestedAt": "2025-04-10T10:09:38Z"
-      },
-      {
         "number": 4232,
         "title": "feat(nodebuilder): generate and persist Node ID and JWT secret during init",
         "url": "https://github.com/celestiaorg/celestia-node/pull/4232",
@@ -286,15 +187,6 @@
         "author": "brawncode",
         "reviewer": "vgonkivs",
         "requestedAt": "2025-08-14T11:13:29Z"
-      },
-      {
-        "number": 4535,
-        "title": "chore(headertest): use ErrorIs on original error and NoError for success",
-        "url": "https://github.com/celestiaorg/celestia-node/pull/4535",
-        "repo": "celestia-node",
-        "author": "VolodymyrBg",
-        "reviewer": "vgonkivs",
-        "requestedAt": "2025-09-08T13:15:29Z"
       },
       {
         "number": 4537,
@@ -452,15 +344,6 @@
         "requestedAt": "2026-05-04T11:37:56Z"
       },
       {
-        "number": 7225,
-        "title": "chore(deps): bump cloud.google.com/go/compute from 1.60.0 to 1.61.0",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7225",
-        "repo": "celestia-app",
-        "author": "dependabot",
-        "reviewer": "evan-forbes",
-        "requestedAt": "2026-05-04T11:39:27Z"
-      },
-      {
         "number": 7229,
         "title": "chore(deps): bump github.com/aws/aws-sdk-go-v2/feature/s3/manager from 1.21.1 to 1.22.17",
         "url": "https://github.com/celestiaorg/celestia-app/pull/7229",
@@ -477,15 +360,6 @@
         "author": "dependabot",
         "reviewer": "evan-forbes",
         "requestedAt": "2026-05-04T11:28:17Z"
-      },
-      {
-        "number": 3014,
-        "title": "build(deps): Bump github.com/aws/aws-sdk-go-v2 from 1.41.6 to 1.41.7",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3014",
-        "repo": "celestia-core",
-        "author": "dependabot",
-        "reviewer": "evan-forbes",
-        "requestedAt": "2026-05-04T11:33:40Z"
       },
       {
         "number": 3017,
@@ -516,33 +390,6 @@
       }
     ],
     "walldiss": [
-      {
-        "number": 7202,
-        "title": "fix(app): drop malformed blob txs in separateTxs instead of panicking",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7202",
-        "repo": "celestia-app",
-        "author": "rootulp",
-        "reviewer": "walldiss",
-        "requestedAt": "2026-05-04T00:07:02Z"
-      },
-      {
-        "number": 4148,
-        "title": "feat(cel-shed): add RTT measurement feature for bootstrappers",
-        "url": "https://github.com/celestiaorg/celestia-node/pull/4148",
-        "repo": "celestia-node",
-        "author": "aWN4Y25pa2EK",
-        "reviewer": "walldiss",
-        "requestedAt": "2025-03-06T13:25:56Z"
-      },
-      {
-        "number": 4203,
-        "title": "fix(nodebuilder): TLS key/cert name variables",
-        "url": "https://github.com/celestiaorg/celestia-node/pull/4203",
-        "repo": "celestia-node",
-        "author": "koenmtb1",
-        "reviewer": "walldiss",
-        "requestedAt": "2025-04-08T15:08:08Z"
-      },
       {
         "number": 4232,
         "title": "feat(nodebuilder): generate and persist Node ID and JWT secret during init",
@@ -578,15 +425,6 @@
         "author": "brawncode",
         "reviewer": "walldiss",
         "requestedAt": "2025-08-14T11:13:29Z"
-      },
-      {
-        "number": 4535,
-        "title": "chore(headertest): use ErrorIs on original error and NoError for success",
-        "url": "https://github.com/celestiaorg/celestia-node/pull/4535",
-        "repo": "celestia-node",
-        "author": "VolodymyrBg",
-        "reviewer": "walldiss",
-        "requestedAt": "2025-09-08T13:15:29Z"
       },
       {
         "number": 4537,
@@ -717,15 +555,6 @@
     ],
     "Wondertan": [
       {
-        "number": 4203,
-        "title": "fix(nodebuilder): TLS key/cert name variables",
-        "url": "https://github.com/celestiaorg/celestia-node/pull/4203",
-        "repo": "celestia-node",
-        "author": "koenmtb1",
-        "reviewer": "Wondertan",
-        "requestedAt": "2025-04-08T15:08:08Z"
-      },
-      {
         "number": 4232,
         "title": "feat(nodebuilder): generate and persist Node ID and JWT secret during init",
         "url": "https://github.com/celestiaorg/celestia-node/pull/4232",
@@ -751,15 +580,6 @@
         "author": "forkfury",
         "reviewer": "Wondertan",
         "requestedAt": "2025-07-20T18:34:26Z"
-      },
-      {
-        "number": 4535,
-        "title": "chore(headertest): use ErrorIs on original error and NoError for success",
-        "url": "https://github.com/celestiaorg/celestia-node/pull/4535",
-        "repo": "celestia-node",
-        "author": "VolodymyrBg",
-        "reviewer": "Wondertan",
-        "requestedAt": "2025-09-08T13:15:29Z"
       },
       {
         "number": 4537,
@@ -935,5 +755,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-05-04T14:34:23.628Z"
+  "fetchedAt": "2026-05-04T15:22:02.545Z"
 }
