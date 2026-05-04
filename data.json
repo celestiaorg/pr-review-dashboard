@@ -106,6 +106,15 @@
         "requestedAt": "2026-04-20T12:34:13Z"
       },
       {
+        "number": 261,
+        "title": "chore(deps): bump tspascoal/get-user-teams-membership from 3.0.0 to 4.0.1",
+        "url": "https://github.com/celestiaorg/go-square/pull/261",
+        "repo": "go-square",
+        "author": "dependabot",
+        "reviewer": "mcrakhman",
+        "requestedAt": "2026-05-04T23:41:58Z"
+      },
+      {
         "number": 884,
         "title": "feat(node)!: switch sample and row requests to shrex",
         "url": "https://github.com/celestiaorg/lumina/pull/884",
@@ -755,5 +764,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-05-04T23:30:55.219Z"
+  "fetchedAt": "2026-05-04T23:53:56.155Z"
 }
