@@ -2,17 +2,17 @@
   "latencies": {
     "rootulp": {
       "week": {
-        "n": 0,
-        "medianHours": null,
-        "p90Hours": null
+        "n": 1,
+        "medianHours": 0.1925,
+        "p90Hours": 0.1925
       },
       "month": {
-        "n": 0,
-        "medianHours": null,
-        "p90Hours": null
+        "n": 1,
+        "medianHours": 0.1925,
+        "p90Hours": 0.1925
       },
       "year": {
-        "n": 153,
+        "n": 154,
         "medianHours": 3.6341666666666668,
         "p90Hours": 25.343611111111112
       }
@@ -92,14 +92,14 @@
         "p90Hours": null
       },
       "month": {
-        "n": 0,
-        "medianHours": null,
-        "p90Hours": null
+        "n": 1,
+        "medianHours": 108.07444444444444,
+        "p90Hours": 108.07444444444444
       },
       "year": {
-        "n": 59,
-        "medianHours": 4.485277777777778,
-        "p90Hours": 57.72388888888889
+        "n": 60,
+        "medianHours": 6.661666666666667,
+        "p90Hours": 81.59361111111112
       }
     },
     "walldiss": {
@@ -121,9 +121,9 @@
     },
     "Wondertan": {
       "week": {
-        "n": 1,
-        "medianHours": 7.635,
-        "p90Hours": 7.635
+        "n": 0,
+        "medianHours": null,
+        "p90Hours": null
       },
       "month": {
         "n": 1,
@@ -179,9 +179,9 @@
       "defaultHidden": true
     }
   ],
-  "computedAt": "2026-05-03T00:18:57.853Z",
+  "computedAt": "2026-05-04T00:19:30.478Z",
   "windows": {
-    "weekStart": "2026-04-27T00:00:00.000Z",
+    "weekStart": "2026-05-04T00:00:00.000Z",
     "monthStart": "2026-05-01T00:00:00.000Z",
     "yearStart": "2026-01-01T00:00:00.000Z"
   }
