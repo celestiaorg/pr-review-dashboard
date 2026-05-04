@@ -70,15 +70,6 @@
         "requestedAt": "2026-05-04T06:48:53Z"
       },
       {
-        "number": 3009,
-        "title": "feat(mempool): guarantee SeenTx broadcasts to persistent peers",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3009",
-        "repo": "celestia-core",
-        "author": "evan-forbes",
-        "reviewer": "mcrakhman",
-        "requestedAt": "2026-05-04T06:50:41Z"
-      },
-      {
         "number": 4818,
         "title": "docgen: include Authorization header requirement in OpenRPC method de…",
         "url": "https://github.com/celestiaorg/celestia-node/pull/4818",
@@ -773,5 +764,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-05-04T09:31:06.730Z"
+  "fetchedAt": "2026-05-04T10:21:50.898Z"
 }
