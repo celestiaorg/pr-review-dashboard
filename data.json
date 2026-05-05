@@ -3,15 +3,6 @@
     "rootulp": [],
     "ninabarbakadze": [
       {
-        "number": 7231,
-        "title": "chore(deps): bump core to v0.39.29",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7231",
-        "repo": "celestia-app",
-        "author": "mcrakhman",
-        "reviewer": "ninabarbakadze",
-        "requestedAt": "2026-05-04T22:32:45Z"
-      },
-      {
         "number": 4967,
         "title": "fix: close stats file on write error",
         "url": "https://github.com/celestiaorg/celestia-node/pull/4967",
@@ -39,6 +30,15 @@
         "author": "dependabot",
         "reviewer": "rach-id",
         "requestedAt": "2026-04-24T20:54:32Z"
+      },
+      {
+        "number": 433,
+        "title": "fix: add zero-nonce guard in verifyAttestation",
+        "url": "https://github.com/celestiaorg/blobstream-contracts/pull/433",
+        "repo": "blobstream-contracts",
+        "author": "Radovenchyk",
+        "reviewer": "rach-id",
+        "requestedAt": "2026-05-05T09:01:14Z"
       }
     ],
     "mcrakhman": [
@@ -764,5 +764,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-05-05T08:33:31.003Z"
+  "fetchedAt": "2026-05-05T09:20:24.272Z"
 }
