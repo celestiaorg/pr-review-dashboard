@@ -353,15 +353,6 @@
         "requestedAt": "2026-05-04T11:37:56Z"
       },
       {
-        "number": 7229,
-        "title": "chore(deps): bump github.com/aws/aws-sdk-go-v2/feature/s3/manager from 1.21.1 to 1.22.17",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7229",
-        "repo": "celestia-app",
-        "author": "dependabot",
-        "reviewer": "evan-forbes",
-        "requestedAt": "2026-05-04T11:42:21Z"
-      },
-      {
         "number": 3010,
         "title": "build(deps): Bump slackapi/slack-github-action from 3.0.2 to 3.0.3",
         "url": "https://github.com/celestiaorg/celestia-core/pull/3010",
@@ -764,5 +755,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-05-05T09:20:24.272Z"
+  "fetchedAt": "2026-05-05T10:07:49.872Z"
 }
