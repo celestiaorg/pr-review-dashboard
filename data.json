@@ -351,15 +351,6 @@
         "author": "dependabot",
         "reviewer": "evan-forbes",
         "requestedAt": "2026-05-04T13:38:52Z"
-      },
-      {
-        "number": 734,
-        "title": "feat(grpc): allow apps to register custom server interceptors",
-        "url": "https://github.com/celestiaorg/cosmos-sdk/pull/734",
-        "repo": "cosmos-sdk",
-        "author": "ninabarbakadze",
-        "reviewer": "evan-forbes",
-        "requestedAt": "2026-05-05T14:18:04Z"
       }
     ],
     "walldiss": [
@@ -728,5 +719,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-05-05T15:37:25.175Z"
+  "fetchedAt": "2026-05-05T16:08:52.874Z"
 }
