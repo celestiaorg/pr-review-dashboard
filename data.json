@@ -3,6 +3,15 @@
     "rootulp": [],
     "ninabarbakadze": [
       {
+        "number": 3019,
+        "title": "chore: drop changelog system and instruct agents not to create entries",
+        "url": "https://github.com/celestiaorg/celestia-core/pull/3019",
+        "repo": "celestia-core",
+        "author": "rootulp",
+        "reviewer": "ninabarbakadze",
+        "requestedAt": "2026-05-05T14:02:58Z"
+      },
+      {
         "number": 4967,
         "title": "fix: close stats file on write error",
         "url": "https://github.com/celestiaorg/celestia-node/pull/4967",
@@ -52,6 +61,15 @@
         "requestedAt": "2026-04-30T22:25:14Z"
       },
       {
+        "number": 3016,
+        "title": "build(deps): Bump github.com/klauspost/reedsolomon from 1.13.3 to 1.14.0",
+        "url": "https://github.com/celestiaorg/celestia-core/pull/3016",
+        "repo": "celestia-core",
+        "author": "dependabot",
+        "reviewer": "mcrakhman",
+        "requestedAt": "2026-05-04T11:33:52Z"
+      },
+      {
         "number": 4818,
         "title": "docgen: include Authorization header requirement in OpenRPC method de…",
         "url": "https://github.com/celestiaorg/celestia-node/pull/4818",
@@ -98,6 +116,24 @@
       }
     ],
     "vgonkivs": [
+      {
+        "number": 3008,
+        "title": "refactor: only unmarshal a single page from the tx index",
+        "url": "https://github.com/celestiaorg/celestia-core/pull/3008",
+        "repo": "celestia-core",
+        "author": "evan-forbes",
+        "reviewer": "vgonkivs",
+        "requestedAt": "2026-05-04T03:42:27Z"
+      },
+      {
+        "number": 3011,
+        "title": "build(deps): Bump github.com/aws/aws-sdk-go-v2/service/s3 from 1.100.0 to 1.100.1",
+        "url": "https://github.com/celestiaorg/celestia-core/pull/3011",
+        "repo": "celestia-core",
+        "author": "dependabot",
+        "reviewer": "vgonkivs",
+        "requestedAt": "2026-05-04T11:29:43Z"
+      },
       {
         "number": 4232,
         "title": "feat(nodebuilder): generate and persist Node ID and JWT secret during init",
@@ -280,6 +316,24 @@
       }
     ],
     "evan-forbes": [
+      {
+        "number": 3004,
+        "title": "fix(rpc/grpc): BlockAPI.Stop deadlock",
+        "url": "https://github.com/celestiaorg/celestia-core/pull/3004",
+        "repo": "celestia-core",
+        "author": "rootulp",
+        "reviewer": "evan-forbes",
+        "requestedAt": "2026-05-05T13:59:10Z"
+      },
+      {
+        "number": 3007,
+        "title": "fix(rpc/grpc): lock-protect initial newBlockSubscription write",
+        "url": "https://github.com/celestiaorg/celestia-core/pull/3007",
+        "repo": "celestia-core",
+        "author": "rootulp",
+        "reviewer": "evan-forbes",
+        "requestedAt": "2026-05-05T13:59:03Z"
+      },
       {
         "number": 4981,
         "title": "chore(deps): bump google.golang.org/grpc from 1.80.0 to 1.81.0",
@@ -665,5 +719,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-05-05T18:40:35.690Z"
+  "fetchedAt": "2026-05-05T19:09:47.680Z"
 }
