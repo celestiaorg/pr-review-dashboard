@@ -3,6 +3,15 @@
     "rootulp": [],
     "ninabarbakadze": [
       {
+        "number": 3019,
+        "title": "chore: drop changelog system and instruct agents not to create entries",
+        "url": "https://github.com/celestiaorg/celestia-core/pull/3019",
+        "repo": "celestia-core",
+        "author": "rootulp",
+        "reviewer": "ninabarbakadze",
+        "requestedAt": "2026-05-05T14:02:58Z"
+      },
+      {
         "number": 4967,
         "title": "fix: close stats file on write error",
         "url": "https://github.com/celestiaorg/celestia-node/pull/4967",
@@ -52,15 +61,6 @@
         "requestedAt": "2026-04-30T22:25:14Z"
       },
       {
-        "number": 7215,
-        "title": "test(app): right-size account count in TestProcessProposalCappingNumberOfMessages",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7215",
-        "repo": "celestia-app",
-        "author": "evan-forbes",
-        "reviewer": "mcrakhman",
-        "requestedAt": "2026-05-04T06:48:53Z"
-      },
-      {
         "number": 3016,
         "title": "build(deps): Bump github.com/klauspost/reedsolomon from 1.13.3 to 1.14.0",
         "url": "https://github.com/celestiaorg/celestia-core/pull/3016",
@@ -106,15 +106,6 @@
         "requestedAt": "2026-04-20T12:34:13Z"
       },
       {
-        "number": 261,
-        "title": "chore(deps): bump tspascoal/get-user-teams-membership from 3.0.0 to 4.0.1",
-        "url": "https://github.com/celestiaorg/go-square/pull/261",
-        "repo": "go-square",
-        "author": "dependabot",
-        "reviewer": "mcrakhman",
-        "requestedAt": "2026-05-04T23:41:58Z"
-      },
-      {
         "number": 884,
         "title": "feat(node)!: switch sample and row requests to shrex",
         "url": "https://github.com/celestiaorg/lumina/pull/884",
@@ -125,24 +116,6 @@
       }
     ],
     "vgonkivs": [
-      {
-        "number": 3004,
-        "title": "fix(rpc/grpc): BlockAPI.Stop deadlock",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3004",
-        "repo": "celestia-core",
-        "author": "rootulp",
-        "reviewer": "vgonkivs",
-        "requestedAt": "2026-04-29T18:44:02Z"
-      },
-      {
-        "number": 3007,
-        "title": "fix(rpc/grpc): lock-protect initial newBlockSubscription write",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3007",
-        "repo": "celestia-core",
-        "author": "rootulp",
-        "reviewer": "vgonkivs",
-        "requestedAt": "2026-04-30T21:09:51Z"
-      },
       {
         "number": 3008,
         "title": "refactor: only unmarshal a single page from the tx index",
@@ -344,31 +317,22 @@
     ],
     "evan-forbes": [
       {
-        "number": 7220,
-        "title": "chore(deps): bump github.com/aws/aws-sdk-go-v2/service/ec2 from 1.299.0 to 1.299.1",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7220",
-        "repo": "celestia-app",
-        "author": "dependabot",
+        "number": 3004,
+        "title": "fix(rpc/grpc): BlockAPI.Stop deadlock",
+        "url": "https://github.com/celestiaorg/celestia-core/pull/3004",
+        "repo": "celestia-core",
+        "author": "rootulp",
         "reviewer": "evan-forbes",
-        "requestedAt": "2026-05-04T11:37:56Z"
+        "requestedAt": "2026-05-05T13:59:10Z"
       },
       {
-        "number": 3010,
-        "title": "build(deps): Bump slackapi/slack-github-action from 3.0.2 to 3.0.3",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3010",
+        "number": 3007,
+        "title": "fix(rpc/grpc): lock-protect initial newBlockSubscription write",
+        "url": "https://github.com/celestiaorg/celestia-core/pull/3007",
         "repo": "celestia-core",
-        "author": "dependabot",
+        "author": "rootulp",
         "reviewer": "evan-forbes",
-        "requestedAt": "2026-05-04T11:28:17Z"
-      },
-      {
-        "number": 3017,
-        "title": "build(deps): Bump google.golang.org/grpc from 1.80.0 to 1.81.0",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3017",
-        "repo": "celestia-core",
-        "author": "dependabot",
-        "reviewer": "evan-forbes",
-        "requestedAt": "2026-05-04T11:33:57Z"
+        "requestedAt": "2026-05-05T13:59:03Z"
       },
       {
         "number": 4981,
@@ -387,6 +351,15 @@
         "author": "dependabot",
         "reviewer": "evan-forbes",
         "requestedAt": "2026-05-04T13:38:52Z"
+      },
+      {
+        "number": 734,
+        "title": "feat(grpc): allow apps to register custom server interceptors",
+        "url": "https://github.com/celestiaorg/cosmos-sdk/pull/734",
+        "repo": "cosmos-sdk",
+        "author": "ninabarbakadze",
+        "reviewer": "evan-forbes",
+        "requestedAt": "2026-05-05T14:18:04Z"
       }
     ],
     "walldiss": [
@@ -755,5 +728,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-05-05T13:18:16.950Z"
+  "fetchedAt": "2026-05-05T15:37:25.175Z"
 }
