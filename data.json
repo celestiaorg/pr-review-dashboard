@@ -61,15 +61,6 @@
         "requestedAt": "2026-04-30T22:25:14Z"
       },
       {
-        "number": 7234,
-        "title": "feat: add gRPC interceptors to app",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7234",
-        "repo": "celestia-app",
-        "author": "ninabarbakadze",
-        "reviewer": "mcrakhman",
-        "requestedAt": "2026-05-06T09:15:34Z"
-      },
-      {
         "number": 3016,
         "title": "build(deps): Bump github.com/klauspost/reedsolomon from 1.13.3 to 1.14.0",
         "url": "https://github.com/celestiaorg/celestia-core/pull/3016",
@@ -728,5 +719,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-05-06T15:28:46.989Z"
+  "fetchedAt": "2026-05-06T16:12:22.984Z"
 }
