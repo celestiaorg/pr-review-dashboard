@@ -61,15 +61,6 @@
         "requestedAt": "2026-04-30T22:25:14Z"
       },
       {
-        "number": 3016,
-        "title": "build(deps): Bump github.com/klauspost/reedsolomon from 1.13.3 to 1.14.0",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3016",
-        "repo": "celestia-core",
-        "author": "dependabot",
-        "reviewer": "mcrakhman",
-        "requestedAt": "2026-05-04T11:33:52Z"
-      },
-      {
         "number": 3022,
         "title": "test(mempool/cat): fix TestReactorBroadcastTxsMessage flake from tied priorities",
         "url": "https://github.com/celestiaorg/celestia-core/pull/3022",
@@ -674,5 +665,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-05-07T23:07:45.447Z"
+  "fetchedAt": "2026-05-07T23:30:39.108Z"
 }
