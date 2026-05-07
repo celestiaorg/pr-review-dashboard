@@ -3,13 +3,13 @@
     "rootulp": [],
     "ninabarbakadze": [
       {
-        "number": 3019,
-        "title": "chore: drop changelog system and instruct agents not to create entries",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3019",
+        "number": 3021,
+        "title": "chore: consolidate go.mod require blocks",
+        "url": "https://github.com/celestiaorg/celestia-core/pull/3021",
         "repo": "celestia-core",
         "author": "rootulp",
         "reviewer": "ninabarbakadze",
-        "requestedAt": "2026-05-05T14:02:58Z"
+        "requestedAt": "2026-05-07T02:40:36Z"
       },
       {
         "number": 4967,
@@ -317,22 +317,13 @@
     ],
     "evan-forbes": [
       {
-        "number": 3004,
-        "title": "fix(rpc/grpc): BlockAPI.Stop deadlock",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3004",
+        "number": 3019,
+        "title": "chore: drop changelog system and instruct agents not to create entries",
+        "url": "https://github.com/celestiaorg/celestia-core/pull/3019",
         "repo": "celestia-core",
         "author": "rootulp",
         "reviewer": "evan-forbes",
-        "requestedAt": "2026-05-05T13:59:10Z"
-      },
-      {
-        "number": 3007,
-        "title": "fix(rpc/grpc): lock-protect initial newBlockSubscription write",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3007",
-        "repo": "celestia-core",
-        "author": "rootulp",
-        "reviewer": "evan-forbes",
-        "requestedAt": "2026-05-05T13:59:03Z"
+        "requestedAt": "2026-05-07T02:37:20Z"
       },
       {
         "number": 4981,
@@ -719,5 +710,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-05-07T01:56:26.994Z"
+  "fetchedAt": "2026-05-07T03:11:27.788Z"
 }
