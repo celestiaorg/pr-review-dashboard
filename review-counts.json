@@ -1,9 +1,9 @@
 {
   "counts": {
     "rootulp": {
-      "week": 10,
-      "month": 10,
-      "year": 315
+      "week": 11,
+      "month": 11,
+      "year": 316
     },
     "ninabarbakadze": {
       "week": 22,
@@ -16,9 +16,9 @@
       "year": 366
     },
     "mcrakhman": {
-      "week": 1,
-      "month": 1,
-      "year": 70
+      "week": 2,
+      "month": 2,
+      "year": 71
     },
     "vgonkivs": {
       "week": 0,
@@ -41,7 +41,7 @@
       "year": 63
     }
   },
-  "computedAt": "2026-05-06T00:19:31.069Z",
+  "computedAt": "2026-05-07T00:19:18.567Z",
   "windows": {
     "weekStart": "2026-05-04T00:00:00.000Z",
     "monthStart": "2026-05-01T00:00:00.000Z",
