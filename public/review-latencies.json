@@ -53,17 +53,17 @@
     },
     "mcrakhman": {
       "week": {
-        "n": 1,
-        "medianHours": 2.8625,
-        "p90Hours": 2.8625
+        "n": 2,
+        "medianHours": 6.545833333333333,
+        "p90Hours": 6.545833333333333
       },
       "month": {
-        "n": 1,
-        "medianHours": 2.8625,
-        "p90Hours": 2.8625
+        "n": 2,
+        "medianHours": 6.545833333333333,
+        "p90Hours": 6.545833333333333
       },
       "year": {
-        "n": 37,
+        "n": 38,
         "medianHours": 12.354444444444445,
         "p90Hours": 133.54
       }
@@ -179,7 +179,7 @@
       "defaultHidden": true
     }
   ],
-  "computedAt": "2026-05-06T00:20:18.299Z",
+  "computedAt": "2026-05-07T00:19:58.700Z",
   "windows": {
     "weekStart": "2026-05-04T00:00:00.000Z",
     "monthStart": "2026-05-01T00:00:00.000Z",
