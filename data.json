@@ -61,6 +61,15 @@
         "requestedAt": "2026-05-04T11:33:52Z"
       },
       {
+        "number": 3022,
+        "title": "test(mempool/cat): fix TestReactorBroadcastTxsMessage flake from tied priorities",
+        "url": "https://github.com/celestiaorg/celestia-core/pull/3022",
+        "repo": "celestia-core",
+        "author": "rootulp",
+        "reviewer": "mcrakhman",
+        "requestedAt": "2026-05-07T16:20:30Z"
+      },
+      {
         "number": 4818,
         "title": "docgen: include Authorization header requirement in OpenRPC method de…",
         "url": "https://github.com/celestiaorg/celestia-node/pull/4818",
@@ -674,5 +683,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-05-07T16:05:40.428Z"
+  "fetchedAt": "2026-05-07T16:46:54.980Z"
 }
