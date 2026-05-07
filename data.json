@@ -3,15 +3,6 @@
     "rootulp": [],
     "ninabarbakadze": [
       {
-        "number": 3021,
-        "title": "chore: consolidate go.mod require blocks",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3021",
-        "repo": "celestia-core",
-        "author": "rootulp",
-        "reviewer": "ninabarbakadze",
-        "requestedAt": "2026-05-07T02:40:36Z"
-      },
-      {
         "number": 4967,
         "title": "fix: close stats file on write error",
         "url": "https://github.com/celestiaorg/celestia-node/pull/4967",
@@ -307,15 +298,6 @@
       }
     ],
     "evan-forbes": [
-      {
-        "number": 3019,
-        "title": "chore: drop changelog system and instruct agents not to create entries",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3019",
-        "repo": "celestia-core",
-        "author": "rootulp",
-        "reviewer": "evan-forbes",
-        "requestedAt": "2026-05-07T02:37:20Z"
-      },
       {
         "number": 4981,
         "title": "chore(deps): bump google.golang.org/grpc from 1.80.0 to 1.81.0",
@@ -692,5 +674,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-05-07T15:17:45.547Z"
+  "fetchedAt": "2026-05-07T16:05:40.428Z"
 }
