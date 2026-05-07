@@ -162,15 +162,6 @@
         "requestedAt": "2025-08-06T19:12:42Z"
       },
       {
-        "number": 4488,
-        "title": "fix: interface compliance check for `API` struct",
-        "url": "https://github.com/celestiaorg/celestia-node/pull/4488",
-        "repo": "celestia-node",
-        "author": "brawncode",
-        "reviewer": "vgonkivs",
-        "requestedAt": "2025-08-14T11:13:29Z"
-      },
-      {
         "number": 4537,
         "title": "misc(share/shwap/p2p/shrex): add traces to shrex client/server hotpaths",
         "url": "https://github.com/celestiaorg/celestia-node/pull/4537",
@@ -362,15 +353,6 @@
         "author": "forkfury",
         "reviewer": "walldiss",
         "requestedAt": "2025-07-20T18:34:27Z"
-      },
-      {
-        "number": 4488,
-        "title": "fix: interface compliance check for `API` struct",
-        "url": "https://github.com/celestiaorg/celestia-node/pull/4488",
-        "repo": "celestia-node",
-        "author": "brawncode",
-        "reviewer": "walldiss",
-        "requestedAt": "2025-08-14T11:13:29Z"
       },
       {
         "number": 4537,
@@ -683,5 +665,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-05-07T18:47:11.931Z"
+  "fetchedAt": "2026-05-07T19:21:07.851Z"
 }
