@@ -216,15 +216,6 @@
         "requestedAt": "2025-11-18T16:03:31Z"
       },
       {
-        "number": 4683,
-        "title": "test(nodebuilder/tests/tastora): Introduce queued submission tastora tests",
-        "url": "https://github.com/celestiaorg/celestia-node/pull/4683",
-        "repo": "celestia-node",
-        "author": "renaynay",
-        "reviewer": "vgonkivs",
-        "requestedAt": "2025-11-07T19:51:58Z"
-      },
-      {
         "number": 4721,
         "title": "test: introduce cel-compat binary",
         "url": "https://github.com/celestiaorg/celestia-node/pull/4721",
@@ -427,15 +418,6 @@
         "requestedAt": "2025-11-18T16:03:31Z"
       },
       {
-        "number": 4683,
-        "title": "test(nodebuilder/tests/tastora): Introduce queued submission tastora tests",
-        "url": "https://github.com/celestiaorg/celestia-node/pull/4683",
-        "repo": "celestia-node",
-        "author": "renaynay",
-        "reviewer": "walldiss",
-        "requestedAt": "2025-11-07T19:51:58Z"
-      },
-      {
         "number": 4721,
         "title": "test: introduce cel-compat binary",
         "url": "https://github.com/celestiaorg/celestia-node/pull/4721",
@@ -582,15 +564,6 @@
         "requestedAt": "2025-11-18T16:03:31Z"
       },
       {
-        "number": 4683,
-        "title": "test(nodebuilder/tests/tastora): Introduce queued submission tastora tests",
-        "url": "https://github.com/celestiaorg/celestia-node/pull/4683",
-        "repo": "celestia-node",
-        "author": "renaynay",
-        "reviewer": "Wondertan",
-        "requestedAt": "2025-11-07T19:51:58Z"
-      },
-      {
         "number": 4721,
         "title": "test: introduce cel-compat binary",
         "url": "https://github.com/celestiaorg/celestia-node/pull/4721",
@@ -710,5 +683,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-05-07T08:36:42.352Z"
+  "fetchedAt": "2026-05-07T09:32:52.987Z"
 }
