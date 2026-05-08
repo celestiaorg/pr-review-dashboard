@@ -88,6 +88,15 @@
         "requestedAt": "2026-05-04T13:38:48Z"
       },
       {
+        "number": 4988,
+        "title": "chore(deps): bump github.com/ipld/go-ipld-prime from 0.22.0 to 0.23.0",
+        "url": "https://github.com/celestiaorg/celestia-node/pull/4988",
+        "repo": "celestia-node",
+        "author": "dependabot",
+        "reviewer": "mcrakhman",
+        "requestedAt": "2026-05-08T18:44:56Z"
+      },
+      {
         "number": 145,
         "title": "chore(deps): bump go.opentelemetry.io/otel/metric from 1.36.0 to 1.43.0",
         "url": "https://github.com/celestiaorg/go-fraud/pull/145",
@@ -494,5 +503,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-05-08T18:43:20.497Z"
+  "fetchedAt": "2026-05-08T19:13:43.248Z"
 }
