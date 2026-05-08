@@ -261,15 +261,6 @@
         "author": "dependabot",
         "reviewer": "evan-forbes",
         "requestedAt": "2026-05-04T13:38:52Z"
-      },
-      {
-        "number": 735,
-        "title": "refactor: add the ability to pass opts in grpc server initalisation",
-        "url": "https://github.com/celestiaorg/cosmos-sdk/pull/735",
-        "repo": "cosmos-sdk",
-        "author": "ninabarbakadze",
-        "reviewer": "evan-forbes",
-        "requestedAt": "2026-05-07T15:09:25Z"
       }
     ],
     "walldiss": [
@@ -503,5 +494,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-05-08T16:28:55.080Z"
+  "fetchedAt": "2026-05-08T16:57:05.774Z"
 }
