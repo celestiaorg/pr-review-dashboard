@@ -10,15 +10,6 @@
         "author": "Radovenchyk",
         "reviewer": "ninabarbakadze",
         "requestedAt": "2026-04-24T08:26:07Z"
-      },
-      {
-        "number": 4987,
-        "title": "add state client",
-        "url": "https://github.com/celestiaorg/celestia-node/pull/4987",
-        "repo": "celestia-node",
-        "author": "vgonkivs",
-        "reviewer": "ninabarbakadze",
-        "requestedAt": "2026-05-07T21:56:50Z"
       }
     ],
     "rach-id": [
@@ -503,5 +494,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-05-08T10:56:31.180Z"
+  "fetchedAt": "2026-05-08T11:33:38.511Z"
 }
