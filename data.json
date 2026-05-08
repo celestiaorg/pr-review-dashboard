@@ -207,33 +207,6 @@
         "requestedAt": "2025-11-18T16:03:31Z"
       },
       {
-        "number": 4721,
-        "title": "test: introduce cel-compat binary",
-        "url": "https://github.com/celestiaorg/celestia-node/pull/4721",
-        "repo": "celestia-node",
-        "author": "chatton",
-        "reviewer": "vgonkivs",
-        "requestedAt": "2025-12-02T08:42:37Z"
-      },
-      {
-        "number": 4723,
-        "title": "fix(node): register --ttl flag for set-permissions and handle parsing error",
-        "url": "https://github.com/celestiaorg/celestia-node/pull/4723",
-        "repo": "celestia-node",
-        "author": "Snezhkko",
-        "reviewer": "vgonkivs",
-        "requestedAt": "2025-12-03T08:06:57Z"
-      },
-      {
-        "number": 4725,
-        "title": "fix(bitswap): propagate HasByHeight result in Blockstore.Has",
-        "url": "https://github.com/celestiaorg/celestia-node/pull/4725",
-        "repo": "celestia-node",
-        "author": "MozirDmitriy",
-        "reviewer": "vgonkivs",
-        "requestedAt": "2025-12-04T13:03:23Z"
-      },
-      {
         "number": 4738,
         "title": "fix(core): Return partial response for headers if one fails",
         "url": "https://github.com/celestiaorg/celestia-node/pull/4738",
@@ -241,33 +214,6 @@
         "author": "renaynay",
         "reviewer": "vgonkivs",
         "requestedAt": "2025-12-12T13:47:27Z"
-      },
-      {
-        "number": 4747,
-        "title": "feat: Add pin node type",
-        "url": "https://github.com/celestiaorg/celestia-node/pull/4747",
-        "repo": "celestia-node",
-        "author": "Bidon15",
-        "reviewer": "vgonkivs",
-        "requestedAt": "2025-12-22T11:11:20Z"
-      },
-      {
-        "number": 4749,
-        "title": "perf(pruner): batch header range extension in findPruneableHeaders",
-        "url": "https://github.com/celestiaorg/celestia-node/pull/4749",
-        "repo": "celestia-node",
-        "author": "yyhrnk",
-        "reviewer": "vgonkivs",
-        "requestedAt": "2025-12-25T11:26:30Z"
-      },
-      {
-        "number": 4762,
-        "title": "feat(core): make block fetch timeout configurable",
-        "url": "https://github.com/celestiaorg/celestia-node/pull/4762",
-        "repo": "celestia-node",
-        "author": "crStiv",
-        "reviewer": "vgonkivs",
-        "requestedAt": "2026-01-15T14:37:35Z"
       },
       {
         "number": 4818,
@@ -400,60 +346,6 @@
         "requestedAt": "2025-11-18T16:03:31Z"
       },
       {
-        "number": 4721,
-        "title": "test: introduce cel-compat binary",
-        "url": "https://github.com/celestiaorg/celestia-node/pull/4721",
-        "repo": "celestia-node",
-        "author": "chatton",
-        "reviewer": "walldiss",
-        "requestedAt": "2025-12-02T08:42:37Z"
-      },
-      {
-        "number": 4723,
-        "title": "fix(node): register --ttl flag for set-permissions and handle parsing error",
-        "url": "https://github.com/celestiaorg/celestia-node/pull/4723",
-        "repo": "celestia-node",
-        "author": "Snezhkko",
-        "reviewer": "walldiss",
-        "requestedAt": "2025-12-03T08:06:57Z"
-      },
-      {
-        "number": 4725,
-        "title": "fix(bitswap): propagate HasByHeight result in Blockstore.Has",
-        "url": "https://github.com/celestiaorg/celestia-node/pull/4725",
-        "repo": "celestia-node",
-        "author": "MozirDmitriy",
-        "reviewer": "walldiss",
-        "requestedAt": "2025-12-04T13:03:23Z"
-      },
-      {
-        "number": 4747,
-        "title": "feat: Add pin node type",
-        "url": "https://github.com/celestiaorg/celestia-node/pull/4747",
-        "repo": "celestia-node",
-        "author": "Bidon15",
-        "reviewer": "walldiss",
-        "requestedAt": "2025-12-22T11:11:21Z"
-      },
-      {
-        "number": 4749,
-        "title": "perf(pruner): batch header range extension in findPruneableHeaders",
-        "url": "https://github.com/celestiaorg/celestia-node/pull/4749",
-        "repo": "celestia-node",
-        "author": "yyhrnk",
-        "reviewer": "walldiss",
-        "requestedAt": "2025-12-25T11:26:30Z"
-      },
-      {
-        "number": 4762,
-        "title": "feat(core): make block fetch timeout configurable",
-        "url": "https://github.com/celestiaorg/celestia-node/pull/4762",
-        "repo": "celestia-node",
-        "author": "crStiv",
-        "reviewer": "walldiss",
-        "requestedAt": "2026-01-15T14:37:36Z"
-      },
-      {
         "number": 4818,
         "title": "docgen: include Authorization header requirement in OpenRPC method de…",
         "url": "https://github.com/celestiaorg/celestia-node/pull/4818",
@@ -546,33 +438,6 @@
         "requestedAt": "2025-11-18T16:03:31Z"
       },
       {
-        "number": 4721,
-        "title": "test: introduce cel-compat binary",
-        "url": "https://github.com/celestiaorg/celestia-node/pull/4721",
-        "repo": "celestia-node",
-        "author": "chatton",
-        "reviewer": "Wondertan",
-        "requestedAt": "2025-12-02T08:42:37Z"
-      },
-      {
-        "number": 4723,
-        "title": "fix(node): register --ttl flag for set-permissions and handle parsing error",
-        "url": "https://github.com/celestiaorg/celestia-node/pull/4723",
-        "repo": "celestia-node",
-        "author": "Snezhkko",
-        "reviewer": "Wondertan",
-        "requestedAt": "2025-12-03T08:06:56Z"
-      },
-      {
-        "number": 4725,
-        "title": "fix(bitswap): propagate HasByHeight result in Blockstore.Has",
-        "url": "https://github.com/celestiaorg/celestia-node/pull/4725",
-        "repo": "celestia-node",
-        "author": "MozirDmitriy",
-        "reviewer": "Wondertan",
-        "requestedAt": "2025-12-04T13:03:23Z"
-      },
-      {
         "number": 4738,
         "title": "fix(core): Return partial response for headers if one fails",
         "url": "https://github.com/celestiaorg/celestia-node/pull/4738",
@@ -580,33 +445,6 @@
         "author": "renaynay",
         "reviewer": "Wondertan",
         "requestedAt": "2025-12-12T13:47:27Z"
-      },
-      {
-        "number": 4747,
-        "title": "feat: Add pin node type",
-        "url": "https://github.com/celestiaorg/celestia-node/pull/4747",
-        "repo": "celestia-node",
-        "author": "Bidon15",
-        "reviewer": "Wondertan",
-        "requestedAt": "2025-12-22T11:11:20Z"
-      },
-      {
-        "number": 4749,
-        "title": "perf(pruner): batch header range extension in findPruneableHeaders",
-        "url": "https://github.com/celestiaorg/celestia-node/pull/4749",
-        "repo": "celestia-node",
-        "author": "yyhrnk",
-        "reviewer": "Wondertan",
-        "requestedAt": "2025-12-25T11:26:30Z"
-      },
-      {
-        "number": 4762,
-        "title": "feat(core): make block fetch timeout configurable",
-        "url": "https://github.com/celestiaorg/celestia-node/pull/4762",
-        "repo": "celestia-node",
-        "author": "crStiv",
-        "reviewer": "Wondertan",
-        "requestedAt": "2026-01-15T14:37:35Z"
       },
       {
         "number": 4818,
@@ -665,5 +503,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-05-08T08:43:53.235Z"
+  "fetchedAt": "2026-05-08T09:14:58.246Z"
 }
