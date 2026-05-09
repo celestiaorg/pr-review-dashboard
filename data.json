@@ -245,6 +245,15 @@
         "requestedAt": "2026-05-08T16:17:56Z"
       },
       {
+        "number": 3027,
+        "title": "fix(consensus): reduce flake in TestSetValidBlockOnDelayedProposal",
+        "url": "https://github.com/celestiaorg/celestia-core/pull/3027",
+        "repo": "celestia-core",
+        "author": "rootulp",
+        "reviewer": "evan-forbes",
+        "requestedAt": "2026-05-09T16:18:38Z"
+      },
+      {
         "number": 4981,
         "title": "chore(deps): bump google.golang.org/grpc from 1.80.0 to 1.81.0",
         "url": "https://github.com/celestiaorg/celestia-node/pull/4981",
@@ -458,5 +467,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-05-09T16:13:40.099Z"
+  "fetchedAt": "2026-05-09T16:35:21.621Z"
 }
