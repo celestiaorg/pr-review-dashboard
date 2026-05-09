@@ -180,15 +180,6 @@
         "requestedAt": "2025-09-08T13:51:13Z"
       },
       {
-        "number": 4611,
-        "title": "fix: resolve blob.GetAll random failures for blocks above tail",
-        "url": "https://github.com/celestiaorg/celestia-node/pull/4611",
-        "repo": "celestia-node",
-        "author": "DeVikingMark",
-        "reviewer": "vgonkivs",
-        "requestedAt": "2025-10-06T09:10:14Z"
-      },
-      {
         "number": 4617,
         "title": "feat(api/client): add support for multiple endpoints with failover",
         "url": "https://github.com/celestiaorg/celestia-node/pull/4617",
@@ -205,15 +196,6 @@
         "author": "hawkadrian",
         "reviewer": "vgonkivs",
         "requestedAt": "2025-10-18T19:51:29Z"
-      },
-      {
-        "number": 4680,
-        "title": "test: cross version api compatibility test using tastroa",
-        "url": "https://github.com/celestiaorg/celestia-node/pull/4680",
-        "repo": "celestia-node",
-        "author": "gupadhyaya",
-        "reviewer": "vgonkivs",
-        "requestedAt": "2025-11-18T16:03:31Z"
       },
       {
         "number": 4738,
@@ -319,15 +301,6 @@
         "requestedAt": "2025-09-08T13:51:13Z"
       },
       {
-        "number": 4611,
-        "title": "fix: resolve blob.GetAll random failures for blocks above tail",
-        "url": "https://github.com/celestiaorg/celestia-node/pull/4611",
-        "repo": "celestia-node",
-        "author": "DeVikingMark",
-        "reviewer": "walldiss",
-        "requestedAt": "2025-10-06T09:10:14Z"
-      },
-      {
         "number": 4617,
         "title": "feat(api/client): add support for multiple endpoints with failover",
         "url": "https://github.com/celestiaorg/celestia-node/pull/4617",
@@ -344,15 +317,6 @@
         "author": "hawkadrian",
         "reviewer": "walldiss",
         "requestedAt": "2025-10-18T19:51:29Z"
-      },
-      {
-        "number": 4680,
-        "title": "test: cross version api compatibility test using tastroa",
-        "url": "https://github.com/celestiaorg/celestia-node/pull/4680",
-        "repo": "celestia-node",
-        "author": "gupadhyaya",
-        "reviewer": "walldiss",
-        "requestedAt": "2025-11-18T16:03:31Z"
       },
       {
         "number": 4818,
@@ -411,15 +375,6 @@
         "requestedAt": "2025-09-08T13:51:13Z"
       },
       {
-        "number": 4611,
-        "title": "fix: resolve blob.GetAll random failures for blocks above tail",
-        "url": "https://github.com/celestiaorg/celestia-node/pull/4611",
-        "repo": "celestia-node",
-        "author": "DeVikingMark",
-        "reviewer": "Wondertan",
-        "requestedAt": "2025-10-06T09:10:14Z"
-      },
-      {
         "number": 4617,
         "title": "feat(api/client): add support for multiple endpoints with failover",
         "url": "https://github.com/celestiaorg/celestia-node/pull/4617",
@@ -436,15 +391,6 @@
         "author": "hawkadrian",
         "reviewer": "Wondertan",
         "requestedAt": "2025-10-18T19:51:29Z"
-      },
-      {
-        "number": 4680,
-        "title": "test: cross version api compatibility test using tastroa",
-        "url": "https://github.com/celestiaorg/celestia-node/pull/4680",
-        "repo": "celestia-node",
-        "author": "gupadhyaya",
-        "reviewer": "Wondertan",
-        "requestedAt": "2025-11-18T16:03:31Z"
       },
       {
         "number": 4738,
@@ -512,5 +458,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-05-09T08:54:21.716Z"
+  "fetchedAt": "2026-05-09T09:28:12.827Z"
 }
