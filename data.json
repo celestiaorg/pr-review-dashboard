@@ -66,17 +66,7 @@
         "requestedAt": "2026-04-24T08:26:07Z"
       }
     ],
-    "rach-id": [
-      {
-        "number": 329,
-        "title": "createCommitment & blob to shares",
-        "url": "https://github.com/celestiaorg/blobstream-contracts/pull/329",
-        "repo": "blobstream-contracts",
-        "author": "S1nus",
-        "reviewer": "rach-id",
-        "requestedAt": "2024-08-21T02:34:20Z"
-      }
-    ],
+    "rach-id": [],
     "mcrakhman": [
       {
         "number": 7200,
@@ -335,15 +325,6 @@
         "requestedAt": "2026-05-11T14:01:49Z"
       },
       {
-        "number": 4981,
-        "title": "chore(deps): bump google.golang.org/grpc from 1.80.0 to 1.81.0",
-        "url": "https://github.com/celestiaorg/celestia-node/pull/4981",
-        "repo": "celestia-node",
-        "author": "dependabot",
-        "reviewer": "evan-forbes",
-        "requestedAt": "2026-05-04T13:37:17Z"
-      },
-      {
         "number": 4985,
         "title": "chore(deps): bump go.uber.org/zap from 1.27.1 to 1.28.0 in /nodebuilder/tests/tastora",
         "url": "https://github.com/celestiaorg/celestia-node/pull/4985",
@@ -521,5 +502,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-05-11T14:21:05.648Z"
+  "fetchedAt": "2026-05-11T15:33:03.860Z"
 }
