@@ -21,15 +21,6 @@
         "author": "S1nus",
         "reviewer": "rach-id",
         "requestedAt": "2024-08-21T02:34:20Z"
-      },
-      {
-        "number": 433,
-        "title": "fix: add zero-nonce guard in verifyAttestation",
-        "url": "https://github.com/celestiaorg/blobstream-contracts/pull/433",
-        "repo": "blobstream-contracts",
-        "author": "Radovenchyk",
-        "reviewer": "rach-id",
-        "requestedAt": "2026-05-05T09:01:14Z"
       }
     ],
     "mcrakhman": [
@@ -43,6 +34,15 @@
         "requestedAt": "2026-04-30T22:25:14Z"
       },
       {
+        "number": 7234,
+        "title": "feat: add gRPC interceptors to app",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/7234",
+        "repo": "celestia-app",
+        "author": "ninabarbakadze",
+        "reviewer": "mcrakhman",
+        "requestedAt": "2026-05-11T10:19:18Z"
+      },
+      {
         "number": 3022,
         "title": "test(mempool/cat): fix TestReactorBroadcastTxsMessage flake from tied priorities",
         "url": "https://github.com/celestiaorg/celestia-core/pull/3022",
@@ -50,15 +50,6 @@
         "author": "rootulp",
         "reviewer": "mcrakhman",
         "requestedAt": "2026-05-07T16:20:30Z"
-      },
-      {
-        "number": 4818,
-        "title": "docgen: include Authorization header requirement in OpenRPC method de…",
-        "url": "https://github.com/celestiaorg/celestia-node/pull/4818",
-        "repo": "celestia-node",
-        "author": "Sushil-19",
-        "reviewer": "mcrakhman",
-        "requestedAt": "2026-03-04T06:12:55Z"
       },
       {
         "number": 4980,
@@ -180,15 +171,6 @@
         "requestedAt": "2025-12-12T13:47:27Z"
       },
       {
-        "number": 4818,
-        "title": "docgen: include Authorization header requirement in OpenRPC method de…",
-        "url": "https://github.com/celestiaorg/celestia-node/pull/4818",
-        "repo": "celestia-node",
-        "author": "Sushil-19",
-        "reviewer": "vgonkivs",
-        "requestedAt": "2026-03-04T06:12:55Z"
-      },
-      {
         "number": 4864,
         "title": "feat(api) start blob sub from height instead of tip of the chain",
         "url": "https://github.com/celestiaorg/celestia-node/pull/4864",
@@ -274,15 +256,6 @@
         "requestedAt": "2025-10-18T19:51:29Z"
       },
       {
-        "number": 4818,
-        "title": "docgen: include Authorization header requirement in OpenRPC method de…",
-        "url": "https://github.com/celestiaorg/celestia-node/pull/4818",
-        "repo": "celestia-node",
-        "author": "Sushil-19",
-        "reviewer": "walldiss",
-        "requestedAt": "2026-03-04T06:12:55Z"
-      },
-      {
         "number": 4864,
         "title": "feat(api) start blob sub from height instead of tip of the chain",
         "url": "https://github.com/celestiaorg/celestia-node/pull/4864",
@@ -357,15 +330,6 @@
         "requestedAt": "2025-12-12T13:47:27Z"
       },
       {
-        "number": 4818,
-        "title": "docgen: include Authorization header requirement in OpenRPC method de…",
-        "url": "https://github.com/celestiaorg/celestia-node/pull/4818",
-        "repo": "celestia-node",
-        "author": "Sushil-19",
-        "reviewer": "Wondertan",
-        "requestedAt": "2026-03-04T06:12:55Z"
-      },
-      {
         "number": 4987,
         "title": "add state client",
         "url": "https://github.com/celestiaorg/celestia-node/pull/4987",
@@ -422,5 +386,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-05-11T10:01:01.991Z"
+  "fetchedAt": "2026-05-11T11:14:32.242Z"
 }
