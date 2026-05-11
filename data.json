@@ -132,15 +132,6 @@
         "requestedAt": "2026-05-11T14:16:16Z"
       },
       {
-        "number": 3022,
-        "title": "test(mempool/cat): fix TestReactorBroadcastTxsMessage flake from tied priorities",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3022",
-        "repo": "celestia-core",
-        "author": "rootulp",
-        "reviewer": "mcrakhman",
-        "requestedAt": "2026-05-07T16:20:30Z"
-      },
-      {
         "number": 3028,
         "title": "build(deps): Bump github.com/go-git/go-git/v5 from 5.18.0 to 5.19.0",
         "url": "https://github.com/celestiaorg/celestia-core/pull/3028",
@@ -303,6 +294,15 @@
         "author": "dependabot",
         "reviewer": "vgonkivs",
         "requestedAt": "2026-05-04T13:37:23Z"
+      },
+      {
+        "number": 4995,
+        "title": "fix(p2p): re-add DevOps-managed Mocha bootstrappers",
+        "url": "https://github.com/celestiaorg/celestia-node/pull/4995",
+        "repo": "celestia-node",
+        "author": "rootulp",
+        "reviewer": "vgonkivs",
+        "requestedAt": "2026-05-11T21:56:57Z"
       }
     ],
     "evan-forbes": [
@@ -529,5 +529,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-05-11T21:49:09.115Z"
+  "fetchedAt": "2026-05-11T22:17:00.450Z"
 }
