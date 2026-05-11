@@ -1,28 +1,8 @@
 {
   "reviews": {
     "rootulp": [],
-    "ninabarbakadze": [
-      {
-        "number": 4967,
-        "title": "fix: close stats file on write error",
-        "url": "https://github.com/celestiaorg/celestia-node/pull/4967",
-        "repo": "celestia-node",
-        "author": "Radovenchyk",
-        "reviewer": "ninabarbakadze",
-        "requestedAt": "2026-04-24T08:26:07Z"
-      }
-    ],
-    "rach-id": [
-      {
-        "number": 329,
-        "title": "createCommitment & blob to shares",
-        "url": "https://github.com/celestiaorg/blobstream-contracts/pull/329",
-        "repo": "blobstream-contracts",
-        "author": "S1nus",
-        "reviewer": "rach-id",
-        "requestedAt": "2024-08-21T02:34:20Z"
-      }
-    ],
+    "ninabarbakadze": [],
+    "rach-id": [],
     "mcrakhman": [
       {
         "number": 7200,
@@ -50,33 +30,6 @@
         "author": "rootulp",
         "reviewer": "mcrakhman",
         "requestedAt": "2026-05-07T16:20:30Z"
-      },
-      {
-        "number": 4980,
-        "title": "chore(deps): bump tspascoal/get-user-teams-membership from 3.0.0 to 4.0.1",
-        "url": "https://github.com/celestiaorg/celestia-node/pull/4980",
-        "repo": "celestia-node",
-        "author": "dependabot",
-        "reviewer": "mcrakhman",
-        "requestedAt": "2026-05-04T13:25:35Z"
-      },
-      {
-        "number": 4984,
-        "title": "chore(deps): bump google.golang.org/grpc from 1.80.0 to 1.81.0 in /nodebuilder/tests/tastora",
-        "url": "https://github.com/celestiaorg/celestia-node/pull/4984",
-        "repo": "celestia-node",
-        "author": "dependabot",
-        "reviewer": "mcrakhman",
-        "requestedAt": "2026-05-04T13:38:48Z"
-      },
-      {
-        "number": 4988,
-        "title": "chore(deps): bump github.com/ipld/go-ipld-prime from 0.22.0 to 0.23.0",
-        "url": "https://github.com/celestiaorg/celestia-node/pull/4988",
-        "repo": "celestia-node",
-        "author": "dependabot",
-        "reviewer": "mcrakhman",
-        "requestedAt": "2026-05-08T18:44:56Z"
       },
       {
         "number": 145,
@@ -115,230 +68,11 @@
         "author": "dependabot",
         "reviewer": "vgonkivs",
         "requestedAt": "2026-05-04T11:29:43Z"
-      },
-      {
-        "number": 4232,
-        "title": "feat(nodebuilder): generate and persist Node ID and JWT secret during init",
-        "url": "https://github.com/celestiaorg/celestia-node/pull/4232",
-        "repo": "celestia-node",
-        "author": "Himess",
-        "reviewer": "vgonkivs",
-        "requestedAt": "2025-04-22T14:23:16Z"
-      },
-      {
-        "number": 4341,
-        "title": "feat(nodebuilder/node)!: More useful node info (type is string and report network ID)",
-        "url": "https://github.com/celestiaorg/celestia-node/pull/4341",
-        "repo": "celestia-node",
-        "author": "renaynay",
-        "reviewer": "vgonkivs",
-        "requestedAt": "2025-06-19T14:59:26Z"
-      },
-      {
-        "number": 4537,
-        "title": "misc(share/shwap/p2p/shrex): add traces to shrex client/server hotpaths",
-        "url": "https://github.com/celestiaorg/celestia-node/pull/4537",
-        "repo": "celestia-node",
-        "author": "renaynay",
-        "reviewer": "vgonkivs",
-        "requestedAt": "2025-09-08T13:51:13Z"
-      },
-      {
-        "number": 4617,
-        "title": "feat(api/client): add support for multiple endpoints with failover",
-        "url": "https://github.com/celestiaorg/celestia-node/pull/4617",
-        "repo": "celestia-node",
-        "author": "DeVikingMark",
-        "reviewer": "vgonkivs",
-        "requestedAt": "2025-10-07T18:59:09Z"
-      },
-      {
-        "number": 4645,
-        "title": "fix: add teardown logic to clean up Docker networks in tastora tests",
-        "url": "https://github.com/celestiaorg/celestia-node/pull/4645",
-        "repo": "celestia-node",
-        "author": "hawkadrian",
-        "reviewer": "vgonkivs",
-        "requestedAt": "2025-10-18T19:51:29Z"
-      },
-      {
-        "number": 4738,
-        "title": "fix(core): Return partial response for headers if one fails",
-        "url": "https://github.com/celestiaorg/celestia-node/pull/4738",
-        "repo": "celestia-node",
-        "author": "renaynay",
-        "reviewer": "vgonkivs",
-        "requestedAt": "2025-12-12T13:47:27Z"
-      },
-      {
-        "number": 4864,
-        "title": "feat(api) start blob sub from height instead of tip of the chain",
-        "url": "https://github.com/celestiaorg/celestia-node/pull/4864",
-        "repo": "celestia-node",
-        "author": "ninabarbakadze",
-        "reviewer": "vgonkivs",
-        "requestedAt": "2026-04-30T13:28:13Z"
-      },
-      {
-        "number": 4982,
-        "title": "chore(deps): bump github.com/klauspost/reedsolomon from 1.13.4-0.20260420101718-f7e5efe6123a to 1.14.0",
-        "url": "https://github.com/celestiaorg/celestia-node/pull/4982",
-        "repo": "celestia-node",
-        "author": "dependabot",
-        "reviewer": "vgonkivs",
-        "requestedAt": "2026-05-04T13:37:23Z"
       }
     ],
-    "evan-forbes": [
-      {
-        "number": 4981,
-        "title": "chore(deps): bump google.golang.org/grpc from 1.80.0 to 1.81.0",
-        "url": "https://github.com/celestiaorg/celestia-node/pull/4981",
-        "repo": "celestia-node",
-        "author": "dependabot",
-        "reviewer": "evan-forbes",
-        "requestedAt": "2026-05-04T13:37:17Z"
-      },
-      {
-        "number": 4985,
-        "title": "chore(deps): bump go.uber.org/zap from 1.27.1 to 1.28.0 in /nodebuilder/tests/tastora",
-        "url": "https://github.com/celestiaorg/celestia-node/pull/4985",
-        "repo": "celestia-node",
-        "author": "dependabot",
-        "reviewer": "evan-forbes",
-        "requestedAt": "2026-05-04T13:38:52Z"
-      }
-    ],
-    "walldiss": [
-      {
-        "number": 4232,
-        "title": "feat(nodebuilder): generate and persist Node ID and JWT secret during init",
-        "url": "https://github.com/celestiaorg/celestia-node/pull/4232",
-        "repo": "celestia-node",
-        "author": "Himess",
-        "reviewer": "walldiss",
-        "requestedAt": "2025-04-22T14:23:16Z"
-      },
-      {
-        "number": 4341,
-        "title": "feat(nodebuilder/node)!: More useful node info (type is string and report network ID)",
-        "url": "https://github.com/celestiaorg/celestia-node/pull/4341",
-        "repo": "celestia-node",
-        "author": "renaynay",
-        "reviewer": "walldiss",
-        "requestedAt": "2025-06-19T14:59:26Z"
-      },
-      {
-        "number": 4537,
-        "title": "misc(share/shwap/p2p/shrex): add traces to shrex client/server hotpaths",
-        "url": "https://github.com/celestiaorg/celestia-node/pull/4537",
-        "repo": "celestia-node",
-        "author": "renaynay",
-        "reviewer": "walldiss",
-        "requestedAt": "2025-09-08T13:51:13Z"
-      },
-      {
-        "number": 4617,
-        "title": "feat(api/client): add support for multiple endpoints with failover",
-        "url": "https://github.com/celestiaorg/celestia-node/pull/4617",
-        "repo": "celestia-node",
-        "author": "DeVikingMark",
-        "reviewer": "walldiss",
-        "requestedAt": "2025-10-07T18:59:09Z"
-      },
-      {
-        "number": 4645,
-        "title": "fix: add teardown logic to clean up Docker networks in tastora tests",
-        "url": "https://github.com/celestiaorg/celestia-node/pull/4645",
-        "repo": "celestia-node",
-        "author": "hawkadrian",
-        "reviewer": "walldiss",
-        "requestedAt": "2025-10-18T19:51:29Z"
-      },
-      {
-        "number": 4864,
-        "title": "feat(api) start blob sub from height instead of tip of the chain",
-        "url": "https://github.com/celestiaorg/celestia-node/pull/4864",
-        "repo": "celestia-node",
-        "author": "ninabarbakadze",
-        "reviewer": "walldiss",
-        "requestedAt": "2026-04-17T10:40:06Z"
-      },
-      {
-        "number": 4987,
-        "title": "add state client",
-        "url": "https://github.com/celestiaorg/celestia-node/pull/4987",
-        "repo": "celestia-node",
-        "author": "vgonkivs",
-        "reviewer": "walldiss",
-        "requestedAt": "2026-05-11T09:20:25Z"
-      }
-    ],
-    "Wondertan": [
-      {
-        "number": 4232,
-        "title": "feat(nodebuilder): generate and persist Node ID and JWT secret during init",
-        "url": "https://github.com/celestiaorg/celestia-node/pull/4232",
-        "repo": "celestia-node",
-        "author": "Himess",
-        "reviewer": "Wondertan",
-        "requestedAt": "2025-04-22T14:23:16Z"
-      },
-      {
-        "number": 4341,
-        "title": "feat(nodebuilder/node)!: More useful node info (type is string and report network ID)",
-        "url": "https://github.com/celestiaorg/celestia-node/pull/4341",
-        "repo": "celestia-node",
-        "author": "renaynay",
-        "reviewer": "Wondertan",
-        "requestedAt": "2025-06-23T09:34:45Z"
-      },
-      {
-        "number": 4537,
-        "title": "misc(share/shwap/p2p/shrex): add traces to shrex client/server hotpaths",
-        "url": "https://github.com/celestiaorg/celestia-node/pull/4537",
-        "repo": "celestia-node",
-        "author": "renaynay",
-        "reviewer": "Wondertan",
-        "requestedAt": "2025-09-08T13:51:13Z"
-      },
-      {
-        "number": 4617,
-        "title": "feat(api/client): add support for multiple endpoints with failover",
-        "url": "https://github.com/celestiaorg/celestia-node/pull/4617",
-        "repo": "celestia-node",
-        "author": "DeVikingMark",
-        "reviewer": "Wondertan",
-        "requestedAt": "2025-10-07T18:59:09Z"
-      },
-      {
-        "number": 4645,
-        "title": "fix: add teardown logic to clean up Docker networks in tastora tests",
-        "url": "https://github.com/celestiaorg/celestia-node/pull/4645",
-        "repo": "celestia-node",
-        "author": "hawkadrian",
-        "reviewer": "Wondertan",
-        "requestedAt": "2025-10-18T19:51:29Z"
-      },
-      {
-        "number": 4738,
-        "title": "fix(core): Return partial response for headers if one fails",
-        "url": "https://github.com/celestiaorg/celestia-node/pull/4738",
-        "repo": "celestia-node",
-        "author": "renaynay",
-        "reviewer": "Wondertan",
-        "requestedAt": "2025-12-12T13:47:27Z"
-      },
-      {
-        "number": 4987,
-        "title": "add state client",
-        "url": "https://github.com/celestiaorg/celestia-node/pull/4987",
-        "repo": "celestia-node",
-        "author": "vgonkivs",
-        "reviewer": "Wondertan",
-        "requestedAt": "2026-05-11T09:20:25Z"
-      }
-    ]
+    "evan-forbes": [],
+    "walldiss": [],
+    "Wondertan": []
   },
   "teamMembers": [
     {
@@ -386,5 +120,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-05-11T12:22:33.125Z"
+  "fetchedAt": "2026-05-11T13:25:46.807Z"
 }
