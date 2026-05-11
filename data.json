@@ -168,15 +168,6 @@
         "requestedAt": "2026-05-04T13:38:48Z"
       },
       {
-        "number": 4988,
-        "title": "chore(deps): bump github.com/ipld/go-ipld-prime from 0.22.0 to 0.23.0",
-        "url": "https://github.com/celestiaorg/celestia-node/pull/4988",
-        "repo": "celestia-node",
-        "author": "dependabot",
-        "reviewer": "mcrakhman",
-        "requestedAt": "2026-05-08T18:44:56Z"
-      },
-      {
         "number": 4991,
         "title": "chore(deps): bump github.com/libp2p/go-libp2p-kad-dht from 0.39.1 to 0.39.2 in the patch-updates group across 1 directory",
         "url": "https://github.com/celestiaorg/celestia-node/pull/4991",
@@ -529,5 +520,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-05-11T22:17:00.450Z"
+  "fetchedAt": "2026-05-11T22:40:14.185Z"
 }
