@@ -10,15 +10,6 @@
         "author": "Radovenchyk",
         "reviewer": "ninabarbakadze",
         "requestedAt": "2026-04-24T08:26:07Z"
-      },
-      {
-        "number": 4989,
-        "title": "chore(deps): bump github.com/ipld/go-ipld-prime from 0.22.0 to 0.23.0 in /nodebuilder/tests/tastora",
-        "url": "https://github.com/celestiaorg/celestia-node/pull/4989",
-        "repo": "celestia-node",
-        "author": "dependabot",
-        "reviewer": "ninabarbakadze",
-        "requestedAt": "2026-05-08T19:32:17Z"
       }
     ],
     "rach-id": [
@@ -440,5 +431,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-05-11T07:31:50.857Z"
+  "fetchedAt": "2026-05-11T08:41:26.906Z"
 }
