@@ -323,15 +323,6 @@
         "author": "dependabot",
         "reviewer": "evan-forbes",
         "requestedAt": "2026-05-11T14:01:49Z"
-      },
-      {
-        "number": 4985,
-        "title": "chore(deps): bump go.uber.org/zap from 1.27.1 to 1.28.0 in /nodebuilder/tests/tastora",
-        "url": "https://github.com/celestiaorg/celestia-node/pull/4985",
-        "repo": "celestia-node",
-        "author": "dependabot",
-        "reviewer": "evan-forbes",
-        "requestedAt": "2026-05-04T13:38:52Z"
       }
     ],
     "walldiss": [
@@ -502,5 +493,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-05-11T15:33:03.860Z"
+  "fetchedAt": "2026-05-11T16:28:26.640Z"
 }
