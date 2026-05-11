@@ -32,15 +32,6 @@
         "requestedAt": "2024-08-21T02:34:20Z"
       },
       {
-        "number": 432,
-        "title": "chore: Bump go.opentelemetry.io/otel from 1.40.0 to 1.41.0",
-        "url": "https://github.com/celestiaorg/blobstream-contracts/pull/432",
-        "repo": "blobstream-contracts",
-        "author": "dependabot",
-        "reviewer": "rach-id",
-        "requestedAt": "2026-04-24T20:54:32Z"
-      },
-      {
         "number": 433,
         "title": "fix: add zero-nonce guard in verifyAttestation",
         "url": "https://github.com/celestiaorg/blobstream-contracts/pull/433",
@@ -449,5 +440,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-05-11T04:40:33.059Z"
+  "fetchedAt": "2026-05-11T06:06:22.411Z"
 }
