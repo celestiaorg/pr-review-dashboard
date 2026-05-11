@@ -2,9 +2,9 @@
   "latencies": {
     "rootulp": {
       "week": {
-        "n": 1,
-        "medianHours": 0.1925,
-        "p90Hours": 0.1925
+        "n": 0,
+        "medianHours": null,
+        "p90Hours": null
       },
       "month": {
         "n": 1,
@@ -19,9 +19,9 @@
     },
     "ninabarbakadze": {
       "week": {
-        "n": 12,
-        "medianHours": 7.548611111111111,
-        "p90Hours": 49.39277777777778
+        "n": 0,
+        "medianHours": null,
+        "p90Hours": null
       },
       "month": {
         "n": 12,
@@ -53,9 +53,9 @@
     },
     "mcrakhman": {
       "week": {
-        "n": 2,
-        "medianHours": 6.545833333333333,
-        "p90Hours": 6.545833333333333
+        "n": 0,
+        "medianHours": null,
+        "p90Hours": null
       },
       "month": {
         "n": 2,
@@ -87,9 +87,9 @@
     },
     "evan-forbes": {
       "week": {
-        "n": 8,
-        "medianHours": 81.07666666666667,
-        "p90Hours": 108.16805555555555
+        "n": 0,
+        "medianHours": null,
+        "p90Hours": null
       },
       "month": {
         "n": 9,
@@ -179,9 +179,9 @@
       "defaultHidden": true
     }
   ],
-  "computedAt": "2026-05-10T00:20:25.391Z",
+  "computedAt": "2026-05-11T00:21:08.575Z",
   "windows": {
-    "weekStart": "2026-05-04T00:00:00.000Z",
+    "weekStart": "2026-05-11T00:00:00.000Z",
     "monthStart": "2026-05-01T00:00:00.000Z",
     "yearStart": "2026-01-01T00:00:00.000Z"
   }
