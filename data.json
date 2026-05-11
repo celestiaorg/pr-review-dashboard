@@ -144,15 +144,6 @@
         "requestedAt": "2025-06-19T14:59:26Z"
       },
       {
-        "number": 4415,
-        "title": "feat(rpc): add read-only mode for state and blob modules",
-        "url": "https://github.com/celestiaorg/celestia-node/pull/4415",
-        "repo": "celestia-node",
-        "author": "forkfury",
-        "reviewer": "vgonkivs",
-        "requestedAt": "2025-08-06T19:12:42Z"
-      },
-      {
         "number": 4537,
         "title": "misc(share/shwap/p2p/shrex): add traces to shrex client/server hotpaths",
         "url": "https://github.com/celestiaorg/celestia-node/pull/4537",
@@ -256,15 +247,6 @@
         "requestedAt": "2025-06-19T14:59:26Z"
       },
       {
-        "number": 4415,
-        "title": "feat(rpc): add read-only mode for state and blob modules",
-        "url": "https://github.com/celestiaorg/celestia-node/pull/4415",
-        "repo": "celestia-node",
-        "author": "forkfury",
-        "reviewer": "walldiss",
-        "requestedAt": "2025-07-20T18:34:27Z"
-      },
-      {
         "number": 4537,
         "title": "misc(share/shwap/p2p/shrex): add traces to shrex client/server hotpaths",
         "url": "https://github.com/celestiaorg/celestia-node/pull/4537",
@@ -308,6 +290,15 @@
         "author": "ninabarbakadze",
         "reviewer": "walldiss",
         "requestedAt": "2026-04-17T10:40:06Z"
+      },
+      {
+        "number": 4987,
+        "title": "add state client",
+        "url": "https://github.com/celestiaorg/celestia-node/pull/4987",
+        "repo": "celestia-node",
+        "author": "vgonkivs",
+        "reviewer": "walldiss",
+        "requestedAt": "2026-05-11T09:20:25Z"
       }
     ],
     "Wondertan": [
@@ -328,15 +319,6 @@
         "author": "renaynay",
         "reviewer": "Wondertan",
         "requestedAt": "2025-06-23T09:34:45Z"
-      },
-      {
-        "number": 4415,
-        "title": "feat(rpc): add read-only mode for state and blob modules",
-        "url": "https://github.com/celestiaorg/celestia-node/pull/4415",
-        "repo": "celestia-node",
-        "author": "forkfury",
-        "reviewer": "Wondertan",
-        "requestedAt": "2025-07-20T18:34:26Z"
       },
       {
         "number": 4537,
@@ -382,6 +364,15 @@
         "author": "Sushil-19",
         "reviewer": "Wondertan",
         "requestedAt": "2026-03-04T06:12:55Z"
+      },
+      {
+        "number": 4987,
+        "title": "add state client",
+        "url": "https://github.com/celestiaorg/celestia-node/pull/4987",
+        "repo": "celestia-node",
+        "author": "vgonkivs",
+        "reviewer": "Wondertan",
+        "requestedAt": "2026-05-11T09:20:25Z"
       }
     ]
   },
@@ -431,5 +422,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-05-11T08:41:26.906Z"
+  "fetchedAt": "2026-05-11T10:01:01.991Z"
 }
