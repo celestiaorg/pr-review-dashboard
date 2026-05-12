@@ -19,42 +19,6 @@
         "author": "dependabot",
         "reviewer": "ninabarbakadze",
         "requestedAt": "2026-05-11T14:12:47Z"
-      },
-      {
-        "number": 7247,
-        "title": "chore(deps): bump golang.org/x/term from 0.42.0 to 0.43.0",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7247",
-        "repo": "celestia-app",
-        "author": "dependabot",
-        "reviewer": "ninabarbakadze",
-        "requestedAt": "2026-05-11T14:16:20Z"
-      },
-      {
-        "number": 3029,
-        "title": "build(deps): Bump github.com/aws/aws-sdk-go-v2/service/s3 from 1.100.0 to 1.101.0",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3029",
-        "repo": "celestia-core",
-        "author": "dependabot",
-        "reviewer": "ninabarbakadze",
-        "requestedAt": "2026-05-11T14:01:42Z"
-      },
-      {
-        "number": 3032,
-        "title": "build(deps): Bump github.com/grafana/pyroscope-go from 1.2.8 to 1.3.0",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3032",
-        "repo": "celestia-core",
-        "author": "dependabot",
-        "reviewer": "ninabarbakadze",
-        "requestedAt": "2026-05-11T14:02:00Z"
-      },
-      {
-        "number": 4967,
-        "title": "fix: close stats file on write error",
-        "url": "https://github.com/celestiaorg/celestia-node/pull/4967",
-        "repo": "celestia-node",
-        "author": "Radovenchyk",
-        "reviewer": "ninabarbakadze",
-        "requestedAt": "2026-04-24T08:26:07Z"
       }
     ],
     "rach-id": [],
@@ -69,15 +33,6 @@
         "requestedAt": "2026-04-30T22:25:14Z"
       },
       {
-        "number": 7234,
-        "title": "feat: add gRPC interceptors to app",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7234",
-        "repo": "celestia-app",
-        "author": "ninabarbakadze",
-        "reviewer": "mcrakhman",
-        "requestedAt": "2026-05-11T10:19:18Z"
-      },
-      {
         "number": 7243,
         "title": "chore(deps): bump github.com/cockroachdb/pebble/v2 from 2.1.4 to 2.1.5",
         "url": "https://github.com/celestiaorg/celestia-app/pull/7243",
@@ -85,6 +40,15 @@
         "author": "dependabot",
         "reviewer": "mcrakhman",
         "requestedAt": "2026-05-11T14:13:37Z"
+      },
+      {
+        "number": 7251,
+        "title": "feat: add gRPC interceptors to app (backport #7234)",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/7251",
+        "repo": "celestia-app",
+        "author": "mergify",
+        "reviewer": "mcrakhman",
+        "requestedAt": "2026-05-12T13:24:53Z"
       },
       {
         "number": 3028,
@@ -466,5 +430,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-05-12T12:59:43.012Z"
+  "fetchedAt": "2026-05-12T13:46:05.279Z"
 }
