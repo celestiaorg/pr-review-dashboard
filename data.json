@@ -73,6 +73,15 @@
         "author": "dependabot",
         "reviewer": "ninabarbakadze",
         "requestedAt": "2026-05-11T17:18:04Z"
+      },
+      {
+        "number": 4996,
+        "title": "chore(deps): bump go.uber.org/zap to v1.28.0 for parity with tastora",
+        "url": "https://github.com/celestiaorg/celestia-node/pull/4996",
+        "repo": "celestia-node",
+        "author": "rootulp",
+        "reviewer": "ninabarbakadze",
+        "requestedAt": "2026-05-12T03:30:36Z"
       }
     ],
     "rach-id": [],
@@ -520,5 +529,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-05-12T03:05:10.809Z"
+  "fetchedAt": "2026-05-12T04:25:49.862Z"
 }
