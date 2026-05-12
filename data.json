@@ -75,17 +75,7 @@
         "requestedAt": "2026-05-12T03:30:36Z"
       }
     ],
-    "rach-id": [
-      {
-        "number": 434,
-        "title": "chore: Bump github.com/ethereum/go-ethereum from 1.17.2 to 1.17.3",
-        "url": "https://github.com/celestiaorg/blobstream-contracts/pull/434",
-        "repo": "blobstream-contracts",
-        "author": "dependabot",
-        "reviewer": "rach-id",
-        "requestedAt": "2026-05-12T05:40:24Z"
-      }
-    ],
+    "rach-id": [],
     "mcrakhman": [
       {
         "number": 7200,
@@ -268,15 +258,6 @@
         "author": "dependabot",
         "reviewer": "vgonkivs",
         "requestedAt": "2026-05-04T13:37:23Z"
-      },
-      {
-        "number": 4995,
-        "title": "fix(p2p): re-add DevOps-managed Mocha bootstrappers",
-        "url": "https://github.com/celestiaorg/celestia-node/pull/4995",
-        "repo": "celestia-node",
-        "author": "rootulp",
-        "reviewer": "vgonkivs",
-        "requestedAt": "2026-05-11T21:56:57Z"
       }
     ],
     "evan-forbes": [
@@ -503,5 +484,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-05-12T05:45:07.060Z"
+  "fetchedAt": "2026-05-12T06:43:25.436Z"
 }
