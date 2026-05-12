@@ -21,15 +21,6 @@
         "requestedAt": "2026-05-11T14:12:47Z"
       },
       {
-        "number": 7244,
-        "title": "chore(deps): bump github.com/digitalocean/godo from 1.188.0 to 1.189.0",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7244",
-        "repo": "celestia-app",
-        "author": "dependabot",
-        "reviewer": "ninabarbakadze",
-        "requestedAt": "2026-05-11T14:13:41Z"
-      },
-      {
         "number": 7247,
         "title": "chore(deps): bump golang.org/x/term from 0.42.0 to 0.43.0",
         "url": "https://github.com/celestiaorg/celestia-app/pull/7247",
@@ -84,7 +75,17 @@
         "requestedAt": "2026-05-12T03:30:36Z"
       }
     ],
-    "rach-id": [],
+    "rach-id": [
+      {
+        "number": 434,
+        "title": "chore: Bump github.com/ethereum/go-ethereum from 1.17.2 to 1.17.3",
+        "url": "https://github.com/celestiaorg/blobstream-contracts/pull/434",
+        "repo": "blobstream-contracts",
+        "author": "dependabot",
+        "reviewer": "rach-id",
+        "requestedAt": "2026-05-12T05:40:24Z"
+      }
+    ],
     "mcrakhman": [
       {
         "number": 7200,
@@ -105,24 +106,6 @@
         "requestedAt": "2026-05-11T10:19:18Z"
       },
       {
-        "number": 7237,
-        "title": "chore(deps): bump github/codeql-action from 4.35.3 to 4.35.4",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7237",
-        "repo": "celestia-app",
-        "author": "dependabot",
-        "reviewer": "mcrakhman",
-        "requestedAt": "2026-05-11T14:09:03Z"
-      },
-      {
-        "number": 7240,
-        "title": "chore(deps): bump cloud.google.com/go/compute from 1.61.0 to 1.62.0",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7240",
-        "repo": "celestia-app",
-        "author": "dependabot",
-        "reviewer": "mcrakhman",
-        "requestedAt": "2026-05-11T14:12:44Z"
-      },
-      {
         "number": 7243,
         "title": "chore(deps): bump github.com/cockroachdb/pebble/v2 from 2.1.4 to 2.1.5",
         "url": "https://github.com/celestiaorg/celestia-app/pull/7243",
@@ -130,15 +113,6 @@
         "author": "dependabot",
         "reviewer": "mcrakhman",
         "requestedAt": "2026-05-11T14:13:37Z"
-      },
-      {
-        "number": 7246,
-        "title": "chore(deps): bump github.com/aws/aws-sdk-go-v2/service/ec2 from 1.299.0 to 1.301.0",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7246",
-        "repo": "celestia-app",
-        "author": "dependabot",
-        "reviewer": "mcrakhman",
-        "requestedAt": "2026-05-11T14:16:16Z"
       },
       {
         "number": 3028,
@@ -307,15 +281,6 @@
     ],
     "evan-forbes": [
       {
-        "number": 7236,
-        "title": "chore(deps): bump actions/add-to-project from 1.0.2 to 2.0.0",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7236",
-        "repo": "celestia-app",
-        "author": "dependabot",
-        "reviewer": "evan-forbes",
-        "requestedAt": "2026-05-11T14:08:43Z"
-      },
-      {
         "number": 7239,
         "title": "chore(deps): bump golang.org/x/crypto from 0.50.0 to 0.51.0",
         "url": "https://github.com/celestiaorg/celestia-app/pull/7239",
@@ -350,6 +315,15 @@
         "author": "dependabot",
         "reviewer": "evan-forbes",
         "requestedAt": "2026-05-11T14:01:49Z"
+      },
+      {
+        "number": 3034,
+        "title": "fix: bump Go to 1.26.3 to resolve govulncheck failures",
+        "url": "https://github.com/celestiaorg/celestia-core/pull/3034",
+        "repo": "celestia-core",
+        "author": "rootulp",
+        "reviewer": "evan-forbes",
+        "requestedAt": "2026-05-12T04:37:07Z"
       },
       {
         "number": 4993,
@@ -529,5 +503,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-05-12T04:25:49.862Z"
+  "fetchedAt": "2026-05-12T05:45:07.060Z"
 }
