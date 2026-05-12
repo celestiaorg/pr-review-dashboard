@@ -235,6 +235,15 @@
         "requestedAt": "2026-05-11T14:01:49Z"
       },
       {
+        "number": 3033,
+        "title": "fix(p2p/pex): de-flake TestPEXReactorRunning by ignoring duplicate-peer dial rejections",
+        "url": "https://github.com/celestiaorg/celestia-core/pull/3033",
+        "repo": "celestia-core",
+        "author": "rootulp",
+        "reviewer": "evan-forbes",
+        "requestedAt": "2026-05-12T21:32:16Z"
+      },
+      {
         "number": 3034,
         "title": "fix: bump Go to 1.26.3 to resolve govulncheck failures",
         "url": "https://github.com/celestiaorg/celestia-core/pull/3034",
@@ -412,5 +421,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-05-12T21:21:15.893Z"
+  "fetchedAt": "2026-05-12T21:52:06.151Z"
 }
