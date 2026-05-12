@@ -19,6 +19,15 @@
         "author": "dependabot",
         "reviewer": "ninabarbakadze",
         "requestedAt": "2026-05-11T14:12:47Z"
+      },
+      {
+        "number": 7253,
+        "title": "docs: add v8 spec pages",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/7253",
+        "repo": "celestia-app",
+        "author": "rootulp",
+        "reviewer": "ninabarbakadze",
+        "requestedAt": "2026-05-12T23:11:12Z"
       }
     ],
     "rach-id": [
@@ -431,5 +440,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-05-12T22:46:42.022Z"
+  "fetchedAt": "2026-05-12T23:14:10.062Z"
 }
