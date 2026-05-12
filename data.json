@@ -55,24 +55,6 @@
         "author": "Radovenchyk",
         "reviewer": "ninabarbakadze",
         "requestedAt": "2026-04-24T08:26:07Z"
-      },
-      {
-        "number": 4992,
-        "title": "chore(deps): bump github.com/grafana/pyroscope-go from 1.2.8 to 1.3.0",
-        "url": "https://github.com/celestiaorg/celestia-node/pull/4992",
-        "repo": "celestia-node",
-        "author": "dependabot",
-        "reviewer": "ninabarbakadze",
-        "requestedAt": "2026-05-11T17:18:04Z"
-      },
-      {
-        "number": 4996,
-        "title": "chore(deps): bump go.uber.org/zap to v1.28.0 for parity with tastora",
-        "url": "https://github.com/celestiaorg/celestia-node/pull/4996",
-        "repo": "celestia-node",
-        "author": "rootulp",
-        "reviewer": "ninabarbakadze",
-        "requestedAt": "2026-05-12T03:30:36Z"
       }
     ],
     "rach-id": [],
@@ -484,5 +466,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-05-12T07:42:42.862Z"
+  "fetchedAt": "2026-05-12T08:41:59.884Z"
 }
