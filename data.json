@@ -48,6 +48,15 @@
         "author": "rootulp",
         "reviewer": "rach-id",
         "requestedAt": "2026-05-13T22:13:53Z"
+      },
+      {
+        "number": 3046,
+        "title": "fix(types): reject part with index/proof mismatch in PartSet.AddPart",
+        "url": "https://github.com/celestiaorg/celestia-core/pull/3046",
+        "repo": "celestia-core",
+        "author": "rootulp",
+        "reviewer": "rach-id",
+        "requestedAt": "2026-05-13T23:20:53Z"
       }
     ],
     "mcrakhman": [
@@ -153,6 +162,15 @@
     ],
     "vgonkivs": [
       {
+        "number": 7254,
+        "title": "fix: bound input size in proof querier handlers",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/7254",
+        "repo": "celestia-app",
+        "author": "rootulp",
+        "reviewer": "vgonkivs",
+        "requestedAt": "2026-05-13T23:17:48Z"
+      },
+      {
         "number": 3008,
         "title": "refactor: only unmarshal a single page from the tx index",
         "url": "https://github.com/celestiaorg/celestia-core/pull/3008",
@@ -232,6 +250,24 @@
         "author": "dependabot",
         "reviewer": "vgonkivs",
         "requestedAt": "2026-05-04T13:37:23Z"
+      },
+      {
+        "number": 4997,
+        "title": "fix(api/rpc): set request-size limit and write/idle timeouts on JSON-RPC server",
+        "url": "https://github.com/celestiaorg/celestia-node/pull/4997",
+        "repo": "celestia-node",
+        "author": "rootulp",
+        "reviewer": "vgonkivs",
+        "requestedAt": "2026-05-13T23:18:18Z"
+      },
+      {
+        "number": 393,
+        "title": "fix(sync): re-verify pending headers against stored predecessor",
+        "url": "https://github.com/celestiaorg/go-header/pull/393",
+        "repo": "go-header",
+        "author": "rootulp",
+        "reviewer": "vgonkivs",
+        "requestedAt": "2026-05-13T23:19:23Z"
       }
     ],
     "evan-forbes": [
@@ -335,6 +371,15 @@
         "author": "vgonkivs",
         "reviewer": "walldiss",
         "requestedAt": "2026-05-11T09:20:25Z"
+      },
+      {
+        "number": 393,
+        "title": "fix(sync): re-verify pending headers against stored predecessor",
+        "url": "https://github.com/celestiaorg/go-header/pull/393",
+        "repo": "go-header",
+        "author": "rootulp",
+        "reviewer": "walldiss",
+        "requestedAt": "2026-05-13T23:19:23Z"
       }
     ],
     "Wondertan": [
@@ -449,5 +494,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-05-13T23:14:48.847Z"
+  "fetchedAt": "2026-05-13T23:39:42.688Z"
 }
