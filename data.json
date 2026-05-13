@@ -78,15 +78,6 @@
         "requestedAt": "2026-05-11T14:01:54Z"
       },
       {
-        "number": 3042,
-        "title": "fix: bump Go to 1.26.3 to clear govulncheck failures",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3042",
-        "repo": "celestia-core",
-        "author": "rach-id",
-        "reviewer": "mcrakhman",
-        "requestedAt": "2026-05-13T14:39:29Z"
-      },
-      {
         "number": 4980,
         "title": "chore(deps): bump tspascoal/get-user-teams-membership from 3.0.0 to 4.0.1",
         "url": "https://github.com/celestiaorg/celestia-node/pull/4980",
@@ -269,15 +260,6 @@
         "author": "rootulp",
         "reviewer": "evan-forbes",
         "requestedAt": "2026-05-12T21:32:16Z"
-      },
-      {
-        "number": 3034,
-        "title": "fix: bump Go to 1.26.3 to resolve govulncheck failures",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3034",
-        "repo": "celestia-core",
-        "author": "rootulp",
-        "reviewer": "evan-forbes",
-        "requestedAt": "2026-05-12T04:37:07Z"
       },
       {
         "number": 3040,
@@ -475,5 +457,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-05-13T15:20:48.064Z"
+  "fetchedAt": "2026-05-13T16:12:06.790Z"
 }
