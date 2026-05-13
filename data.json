@@ -39,17 +39,7 @@
         "requestedAt": "2026-05-13T00:21:25Z"
       }
     ],
-    "rach-id": [
-      {
-        "number": 3037,
-        "title": "fix(consensus): stabilize TestByzantinePrevoteEquivocation in CI",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3037",
-        "repo": "celestia-core",
-        "author": "rootulp",
-        "reviewer": "rach-id",
-        "requestedAt": "2026-05-12T21:53:55Z"
-      }
-    ],
+    "rach-id": [],
     "mcrakhman": [
       {
         "number": 7200,
@@ -449,5 +439,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-05-13T04:37:27.306Z"
+  "fetchedAt": "2026-05-13T05:56:56.741Z"
 }
