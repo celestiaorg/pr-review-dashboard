@@ -28,6 +28,15 @@
         "author": "rootulp",
         "reviewer": "ninabarbakadze",
         "requestedAt": "2026-05-12T23:11:12Z"
+      },
+      {
+        "number": 3038,
+        "title": "fix(blocksync): prevent maxPeerHeight poisoning",
+        "url": "https://github.com/celestiaorg/celestia-core/pull/3038",
+        "repo": "celestia-core",
+        "author": "rootulp",
+        "reviewer": "ninabarbakadze",
+        "requestedAt": "2026-05-13T00:21:25Z"
       }
     ],
     "rach-id": [
@@ -440,5 +449,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-05-13T00:06:05.573Z"
+  "fetchedAt": "2026-05-13T01:11:49.255Z"
 }
