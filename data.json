@@ -28,15 +28,6 @@
         "author": "rootulp",
         "reviewer": "ninabarbakadze",
         "requestedAt": "2026-05-12T23:11:12Z"
-      },
-      {
-        "number": 3038,
-        "title": "fix(blocksync): prevent maxPeerHeight poisoning",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3038",
-        "repo": "celestia-core",
-        "author": "rootulp",
-        "reviewer": "ninabarbakadze",
-        "requestedAt": "2026-05-13T00:21:25Z"
       }
     ],
     "rach-id": [],
@@ -271,6 +262,15 @@
         "requestedAt": "2026-05-12T04:37:07Z"
       },
       {
+        "number": 3040,
+        "title": "fix(abci): prevent panic on unlock in socket server panic recovery",
+        "url": "https://github.com/celestiaorg/celestia-core/pull/3040",
+        "repo": "celestia-core",
+        "author": "rach-id",
+        "reviewer": "evan-forbes",
+        "requestedAt": "2026-05-13T14:00:45Z"
+      },
+      {
         "number": 4993,
         "title": "chore(deps): bump golang.org/x/text from 0.36.0 to 0.37.0",
         "url": "https://github.com/celestiaorg/celestia-node/pull/4993",
@@ -448,5 +448,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-05-13T13:25:03.072Z"
+  "fetchedAt": "2026-05-13T14:17:34.674Z"
 }
