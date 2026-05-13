@@ -28,6 +28,15 @@
         "author": "rootulp",
         "reviewer": "ninabarbakadze",
         "requestedAt": "2026-05-12T23:11:12Z"
+      },
+      {
+        "number": 3045,
+        "title": "fix(blocksync): prevent maxPeerHeight poisoning (backport #3038)",
+        "url": "https://github.com/celestiaorg/celestia-core/pull/3045",
+        "repo": "celestia-core",
+        "author": "mergify",
+        "reviewer": "ninabarbakadze",
+        "requestedAt": "2026-05-13T20:12:11Z"
       }
     ],
     "rach-id": [],
@@ -235,15 +244,6 @@
         "requestedAt": "2026-05-11T14:12:53Z"
       },
       {
-        "number": 7245,
-        "title": "chore(deps): bump github.com/aws/aws-sdk-go-v2/service/s3 from 1.100.0 to 1.101.0",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7245",
-        "repo": "celestia-app",
-        "author": "dependabot",
-        "reviewer": "evan-forbes",
-        "requestedAt": "2026-05-11T14:14:59Z"
-      },
-      {
         "number": 3030,
         "title": "build(deps): Bump golang.org/x/crypto from 0.50.0 to 0.51.0",
         "url": "https://github.com/celestiaorg/celestia-core/pull/3030",
@@ -251,33 +251,6 @@
         "author": "dependabot",
         "reviewer": "evan-forbes",
         "requestedAt": "2026-05-11T14:01:49Z"
-      },
-      {
-        "number": 3033,
-        "title": "fix(p2p/pex): de-flake TestPEXReactorRunning by ignoring duplicate-peer dial rejections",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3033",
-        "repo": "celestia-core",
-        "author": "rootulp",
-        "reviewer": "evan-forbes",
-        "requestedAt": "2026-05-12T21:32:16Z"
-      },
-      {
-        "number": 3040,
-        "title": "fix(abci): prevent panic on unlock in socket server panic recovery",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3040",
-        "repo": "celestia-core",
-        "author": "rach-id",
-        "reviewer": "evan-forbes",
-        "requestedAt": "2026-05-13T14:00:45Z"
-      },
-      {
-        "number": 3043,
-        "title": "fix(light): stop witness comparison after divergence checks",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3043",
-        "repo": "celestia-core",
-        "author": "rach-id",
-        "reviewer": "evan-forbes",
-        "requestedAt": "2026-05-13T14:40:57Z"
       },
       {
         "number": 4993,
@@ -457,5 +430,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-05-13T19:55:25.627Z"
+  "fetchedAt": "2026-05-13T20:34:18.269Z"
 }
