@@ -4,6 +4,15 @@
     "ninabarbakadze": [],
     "rach-id": [
       {
+        "number": 7254,
+        "title": "fix: bound input size in proof querier handlers",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/7254",
+        "repo": "celestia-app",
+        "author": "rootulp",
+        "reviewer": "rach-id",
+        "requestedAt": "2026-05-14T22:07:44Z"
+      },
+      {
         "number": 3047,
         "title": "fix(consensus): bump ensureVoteTimeout in TestStateOversizedBlock to 5s",
         "url": "https://github.com/celestiaorg/celestia-core/pull/3047",
@@ -358,5 +367,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-05-14T21:50:23.918Z"
+  "fetchedAt": "2026-05-14T22:18:28.425Z"
 }
