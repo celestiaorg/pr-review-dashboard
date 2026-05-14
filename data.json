@@ -259,15 +259,6 @@
         "author": "rootulp",
         "reviewer": "vgonkivs",
         "requestedAt": "2026-05-13T23:18:18Z"
-      },
-      {
-        "number": 393,
-        "title": "fix(sync): re-verify pending headers against stored predecessor",
-        "url": "https://github.com/celestiaorg/go-header/pull/393",
-        "repo": "go-header",
-        "author": "rootulp",
-        "reviewer": "vgonkivs",
-        "requestedAt": "2026-05-13T23:19:23Z"
       }
     ],
     "evan-forbes": [
@@ -371,15 +362,6 @@
         "author": "vgonkivs",
         "reviewer": "walldiss",
         "requestedAt": "2026-05-11T09:20:25Z"
-      },
-      {
-        "number": 393,
-        "title": "fix(sync): re-verify pending headers against stored predecessor",
-        "url": "https://github.com/celestiaorg/go-header/pull/393",
-        "repo": "go-header",
-        "author": "rootulp",
-        "reviewer": "walldiss",
-        "requestedAt": "2026-05-13T23:19:23Z"
       }
     ],
     "Wondertan": [
@@ -494,5 +476,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-05-14T01:58:56.554Z"
+  "fetchedAt": "2026-05-14T03:18:44.261Z"
 }
