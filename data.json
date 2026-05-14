@@ -191,7 +191,7 @@
       },
       {
         "number": 7257,
-        "title": "chore: fix the single node all upgrades test",
+        "title": "chore: fix the single node all upgrades script",
         "url": "https://github.com/celestiaorg/celestia-app/pull/7257",
         "repo": "celestia-app",
         "author": "ninabarbakadze",
@@ -376,5 +376,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-05-14T10:55:44.901Z"
+  "fetchedAt": "2026-05-14T11:35:47.351Z"
 }
