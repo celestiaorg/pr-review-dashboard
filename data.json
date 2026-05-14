@@ -39,26 +39,7 @@
         "requestedAt": "2026-05-13T20:12:11Z"
       }
     ],
-    "rach-id": [
-      {
-        "number": 3037,
-        "title": "fix(consensus): stabilize TestByzantinePrevoteEquivocation in CI",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3037",
-        "repo": "celestia-core",
-        "author": "rootulp",
-        "reviewer": "rach-id",
-        "requestedAt": "2026-05-13T22:13:53Z"
-      },
-      {
-        "number": 3046,
-        "title": "fix(types): reject part with index/proof mismatch in PartSet.AddPart",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3046",
-        "repo": "celestia-core",
-        "author": "rootulp",
-        "reviewer": "rach-id",
-        "requestedAt": "2026-05-13T23:20:53Z"
-      }
-    ],
+    "rach-id": [],
     "mcrakhman": [
       {
         "number": 7200,
@@ -178,15 +159,6 @@
         "author": "evan-forbes",
         "reviewer": "vgonkivs",
         "requestedAt": "2026-05-04T03:42:27Z"
-      },
-      {
-        "number": 3043,
-        "title": "fix(light): stop witness comparison after divergence checks",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3043",
-        "repo": "celestia-core",
-        "author": "rach-id",
-        "reviewer": "vgonkivs",
-        "requestedAt": "2026-05-13T14:39:48Z"
       },
       {
         "number": 4232,
@@ -476,5 +448,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-05-14T04:37:21.865Z"
+  "fetchedAt": "2026-05-14T05:56:18.214Z"
 }
