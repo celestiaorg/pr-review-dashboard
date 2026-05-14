@@ -1,17 +1,7 @@
 {
   "reviews": {
     "rootulp": [],
-    "ninabarbakadze": [
-      {
-        "number": 3045,
-        "title": "fix(blocksync): prevent maxPeerHeight poisoning (backport #3038)",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3045",
-        "repo": "celestia-core",
-        "author": "mergify",
-        "reviewer": "ninabarbakadze",
-        "requestedAt": "2026-05-13T20:12:11Z"
-      }
-    ],
+    "ninabarbakadze": [],
     "rach-id": [],
     "mcrakhman": [
       {
@@ -22,15 +12,6 @@
         "author": "walldiss",
         "reviewer": "mcrakhman",
         "requestedAt": "2026-04-30T22:25:14Z"
-      },
-      {
-        "number": 7251,
-        "title": "feat: add gRPC interceptors to app (backport #7234)",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7251",
-        "repo": "celestia-app",
-        "author": "mergify",
-        "reviewer": "mcrakhman",
-        "requestedAt": "2026-05-12T13:24:53Z"
       },
       {
         "number": 7258,
@@ -385,5 +366,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-05-14T12:13:30.000Z"
+  "fetchedAt": "2026-05-14T12:57:02.821Z"
 }
