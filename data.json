@@ -2,7 +2,17 @@
   "reviews": {
     "rootulp": [],
     "ninabarbakadze": [],
-    "rach-id": [],
+    "rach-id": [
+      {
+        "number": 3047,
+        "title": "fix(consensus): bump ensureVoteTimeout in TestStateOversizedBlock to 5s",
+        "url": "https://github.com/celestiaorg/celestia-core/pull/3047",
+        "repo": "celestia-core",
+        "author": "rootulp",
+        "reviewer": "rach-id",
+        "requestedAt": "2026-05-14T16:18:30Z"
+      }
+    ],
     "mcrakhman": [
       {
         "number": 7200,
@@ -78,15 +88,6 @@
       }
     ],
     "vgonkivs": [
-      {
-        "number": 7254,
-        "title": "fix: bound input size in proof querier handlers",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7254",
-        "repo": "celestia-app",
-        "author": "rootulp",
-        "reviewer": "vgonkivs",
-        "requestedAt": "2026-05-13T23:17:48Z"
-      },
       {
         "number": 3008,
         "title": "refactor: only unmarshal a single page from the tx index",
@@ -366,5 +367,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-05-14T15:27:48.491Z"
+  "fetchedAt": "2026-05-14T16:19:26.769Z"
 }
