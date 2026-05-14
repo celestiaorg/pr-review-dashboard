@@ -167,6 +167,15 @@
         "author": "dependabot",
         "reviewer": "vgonkivs",
         "requestedAt": "2026-05-04T13:37:23Z"
+      },
+      {
+        "number": 4990,
+        "title": "feat(blob): restore additive Subscribe and add SubscribeFromStartHeight",
+        "url": "https://github.com/celestiaorg/celestia-node/pull/4990",
+        "repo": "celestia-node",
+        "author": "ninabarbakadze",
+        "reviewer": "vgonkivs",
+        "requestedAt": "2026-05-14T13:19:18Z"
       }
     ],
     "evan-forbes": [
@@ -252,6 +261,15 @@
         "author": "vgonkivs",
         "reviewer": "walldiss",
         "requestedAt": "2026-05-11T09:20:25Z"
+      },
+      {
+        "number": 4990,
+        "title": "feat(blob): restore additive Subscribe and add SubscribeFromStartHeight",
+        "url": "https://github.com/celestiaorg/celestia-node/pull/4990",
+        "repo": "celestia-node",
+        "author": "ninabarbakadze",
+        "reviewer": "walldiss",
+        "requestedAt": "2026-05-14T13:19:24Z"
       }
     ],
     "Wondertan": [
@@ -366,5 +384,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-05-14T12:57:02.821Z"
+  "fetchedAt": "2026-05-14T13:40:32.538Z"
 }
