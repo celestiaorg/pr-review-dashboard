@@ -12,33 +12,6 @@
         "requestedAt": "2026-05-11T14:11:26Z"
       },
       {
-        "number": 7241,
-        "title": "chore(deps): bump golang.org/x/sys from 0.43.0 to 0.44.0",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7241",
-        "repo": "celestia-app",
-        "author": "dependabot",
-        "reviewer": "ninabarbakadze",
-        "requestedAt": "2026-05-11T14:12:47Z"
-      },
-      {
-        "number": 7253,
-        "title": "docs: add v8 spec pages",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7253",
-        "repo": "celestia-app",
-        "author": "rootulp",
-        "reviewer": "ninabarbakadze",
-        "requestedAt": "2026-05-12T23:11:12Z"
-      },
-      {
-        "number": 7256,
-        "title": "feat: increase p2p send/recv rate to 200mb/s",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7256",
-        "repo": "celestia-app",
-        "author": "rach-id",
-        "reviewer": "ninabarbakadze",
-        "requestedAt": "2026-05-14T07:27:04Z"
-      },
-      {
         "number": 3045,
         "title": "fix(blocksync): prevent maxPeerHeight poisoning (backport #3038)",
         "url": "https://github.com/celestiaorg/celestia-core/pull/3045",
@@ -76,15 +49,6 @@
         "author": "mergify",
         "reviewer": "mcrakhman",
         "requestedAt": "2026-05-12T13:24:53Z"
-      },
-      {
-        "number": 3028,
-        "title": "build(deps): Bump github.com/go-git/go-git/v5 from 5.18.0 to 5.19.0",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3028",
-        "repo": "celestia-core",
-        "author": "dependabot",
-        "reviewer": "mcrakhman",
-        "requestedAt": "2026-05-11T13:59:36Z"
       },
       {
         "number": 3031,
@@ -231,15 +195,6 @@
         "author": "dependabot",
         "reviewer": "vgonkivs",
         "requestedAt": "2026-05-04T13:37:23Z"
-      },
-      {
-        "number": 4997,
-        "title": "fix(api/rpc): set request-size limit and write/idle timeouts on JSON-RPC server",
-        "url": "https://github.com/celestiaorg/celestia-node/pull/4997",
-        "repo": "celestia-node",
-        "author": "rootulp",
-        "reviewer": "vgonkivs",
-        "requestedAt": "2026-05-13T23:18:18Z"
       }
     ],
     "evan-forbes": [
@@ -260,15 +215,6 @@
         "author": "dependabot",
         "reviewer": "evan-forbes",
         "requestedAt": "2026-05-11T14:12:53Z"
-      },
-      {
-        "number": 3030,
-        "title": "build(deps): Bump golang.org/x/crypto from 0.50.0 to 0.51.0",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3030",
-        "repo": "celestia-core",
-        "author": "dependabot",
-        "reviewer": "evan-forbes",
-        "requestedAt": "2026-05-11T14:01:49Z"
       },
       {
         "number": 4993,
@@ -448,5 +394,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-05-14T09:10:02.593Z"
+  "fetchedAt": "2026-05-14T09:59:44.032Z"
 }
