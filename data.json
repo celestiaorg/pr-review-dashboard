@@ -30,6 +30,15 @@
         "requestedAt": "2026-05-12T23:11:12Z"
       },
       {
+        "number": 7256,
+        "title": "feat: increase p2p send/recv rate to 200mb/s",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/7256",
+        "repo": "celestia-app",
+        "author": "rach-id",
+        "reviewer": "ninabarbakadze",
+        "requestedAt": "2026-05-14T07:27:04Z"
+      },
+      {
         "number": 3045,
         "title": "fix(blocksync): prevent maxPeerHeight poisoning (backport #3038)",
         "url": "https://github.com/celestiaorg/celestia-core/pull/3045",
@@ -439,5 +448,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-05-14T07:06:04.352Z"
+  "fetchedAt": "2026-05-14T08:05:18.366Z"
 }
