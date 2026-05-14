@@ -33,6 +33,15 @@
         "requestedAt": "2026-05-12T13:24:53Z"
       },
       {
+        "number": 7258,
+        "title": "docs: update the v9 specs",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/7258",
+        "repo": "celestia-app",
+        "author": "ninabarbakadze",
+        "reviewer": "mcrakhman",
+        "requestedAt": "2026-05-14T12:01:18Z"
+      },
+      {
         "number": 3031,
         "title": "build(deps): Bump golang.org/x/net from 0.53.0 to 0.54.0",
         "url": "https://github.com/celestiaorg/celestia-core/pull/3031",
@@ -376,5 +385,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-05-14T11:35:47.351Z"
+  "fetchedAt": "2026-05-14T12:13:30.000Z"
 }
