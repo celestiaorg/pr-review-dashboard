@@ -33,6 +33,15 @@
         "requestedAt": "2026-05-11T14:01:54Z"
       },
       {
+        "number": 3048,
+        "title": "test(consensus): bound stopConsensusNet per-switch cleanup time",
+        "url": "https://github.com/celestiaorg/celestia-core/pull/3048",
+        "repo": "celestia-core",
+        "author": "rootulp",
+        "reviewer": "mcrakhman",
+        "requestedAt": "2026-05-15T16:24:03Z"
+      },
+      {
         "number": 4980,
         "title": "chore(deps): bump tspascoal/get-user-teams-membership from 3.0.0 to 4.0.1",
         "url": "https://github.com/celestiaorg/celestia-node/pull/4980",
@@ -349,5 +358,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-05-15T15:52:33.366Z"
+  "fetchedAt": "2026-05-15T16:29:27.283Z"
 }
