@@ -177,6 +177,15 @@
         "author": "ninabarbakadze",
         "reviewer": "vgonkivs",
         "requestedAt": "2026-05-14T13:19:18Z"
+      },
+      {
+        "number": 4997,
+        "title": "fix(api)!: set request-size limit and write/idle timeouts on JSON-RPC server",
+        "url": "https://github.com/celestiaorg/celestia-node/pull/4997",
+        "repo": "celestia-node",
+        "author": "rootulp",
+        "reviewer": "vgonkivs",
+        "requestedAt": "2026-05-15T22:11:29Z"
       }
     ],
     "evan-forbes": [
@@ -358,5 +367,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-05-15T21:55:32.289Z"
+  "fetchedAt": "2026-05-15T22:21:09.305Z"
 }
