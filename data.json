@@ -12,7 +12,17 @@
       }
     ],
     "ninabarbakadze": [],
-    "rach-id": [],
+    "rach-id": [
+      {
+        "number": 3049,
+        "title": "fix(consensus): bump ensureVoteTimeout in TestStateOversizedBlock to 5s (backport #3047)",
+        "url": "https://github.com/celestiaorg/celestia-core/pull/3049",
+        "repo": "celestia-core",
+        "author": "rootulp",
+        "reviewer": "rach-id",
+        "requestedAt": "2026-05-16T16:07:25Z"
+      }
+    ],
     "mcrakhman": [
       {
         "number": 7200,
@@ -367,5 +377,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-05-16T16:00:46.513Z"
+  "fetchedAt": "2026-05-16T16:27:21.925Z"
 }
