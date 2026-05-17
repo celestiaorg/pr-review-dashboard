@@ -2,17 +2,7 @@
   "reviews": {
     "rootulp": [],
     "ninabarbakadze": [],
-    "rach-id": [
-      {
-        "number": 3049,
-        "title": "fix(consensus): bump ensureVoteTimeout in TestStateOversizedBlock to 5s (backport #3047)",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3049",
-        "repo": "celestia-core",
-        "author": "rootulp",
-        "reviewer": "rach-id",
-        "requestedAt": "2026-05-16T16:07:25Z"
-      }
-    ],
+    "rach-id": [],
     "mcrakhman": [
       {
         "number": 7200,
@@ -179,26 +169,7 @@
         "requestedAt": "2026-05-15T22:11:29Z"
       }
     ],
-    "evan-forbes": [
-      {
-        "number": 7263,
-        "title": "chore: set up sync kpi metrics",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7263",
-        "repo": "celestia-app",
-        "author": "ninabarbakadze",
-        "reviewer": "evan-forbes",
-        "requestedAt": "2026-05-15T14:51:45Z"
-      },
-      {
-        "number": 4993,
-        "title": "chore(deps): bump golang.org/x/text from 0.36.0 to 0.37.0",
-        "url": "https://github.com/celestiaorg/celestia-node/pull/4993",
-        "repo": "celestia-node",
-        "author": "dependabot",
-        "reviewer": "evan-forbes",
-        "requestedAt": "2026-05-11T17:18:07Z"
-      }
-    ],
+    "evan-forbes": [],
     "walldiss": [
       {
         "number": 4232,
@@ -358,5 +329,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-05-17T18:33:52.393Z"
+  "fetchedAt": "2026-05-17T18:59:33.370Z"
 }
