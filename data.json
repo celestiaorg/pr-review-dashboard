@@ -1,16 +1,6 @@
 {
   "reviews": {
-    "rootulp": [
-      {
-        "number": 7263,
-        "title": "chore: set up sync kpi metrics",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7263",
-        "repo": "celestia-app",
-        "author": "ninabarbakadze",
-        "reviewer": "rootulp",
-        "requestedAt": "2026-05-15T14:52:26Z"
-      }
-    ],
+    "rootulp": [],
     "ninabarbakadze": [],
     "rach-id": [
       {
@@ -41,15 +31,6 @@
         "author": "dependabot",
         "reviewer": "mcrakhman",
         "requestedAt": "2026-05-11T14:01:54Z"
-      },
-      {
-        "number": 3048,
-        "title": "test(consensus): bound stopConsensusNet per-switch cleanup time",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3048",
-        "repo": "celestia-core",
-        "author": "rootulp",
-        "reviewer": "mcrakhman",
-        "requestedAt": "2026-05-15T16:24:03Z"
       },
       {
         "number": 4980,
@@ -377,5 +358,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-05-17T02:02:45.629Z"
+  "fetchedAt": "2026-05-17T03:20:52.674Z"
 }
