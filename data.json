@@ -144,15 +144,6 @@
         "requestedAt": "2025-10-07T18:59:09Z"
       },
       {
-        "number": 4645,
-        "title": "fix: add teardown logic to clean up Docker networks in tastora tests",
-        "url": "https://github.com/celestiaorg/celestia-node/pull/4645",
-        "repo": "celestia-node",
-        "author": "hawkadrian",
-        "reviewer": "vgonkivs",
-        "requestedAt": "2025-10-18T19:51:29Z"
-      },
-      {
         "number": 4738,
         "title": "fix(core): Return partial response for headers if one fails",
         "url": "https://github.com/celestiaorg/celestia-node/pull/4738",
@@ -238,15 +229,6 @@
         "requestedAt": "2025-10-07T18:59:09Z"
       },
       {
-        "number": 4645,
-        "title": "fix: add teardown logic to clean up Docker networks in tastora tests",
-        "url": "https://github.com/celestiaorg/celestia-node/pull/4645",
-        "repo": "celestia-node",
-        "author": "hawkadrian",
-        "reviewer": "walldiss",
-        "requestedAt": "2025-10-18T19:51:29Z"
-      },
-      {
         "number": 4990,
         "title": "feat(blob): restore additive Subscribe and add SubscribeFromStartHeight",
         "url": "https://github.com/celestiaorg/celestia-node/pull/4990",
@@ -292,15 +274,6 @@
         "author": "DeVikingMark",
         "reviewer": "Wondertan",
         "requestedAt": "2025-10-07T18:59:09Z"
-      },
-      {
-        "number": 4645,
-        "title": "fix: add teardown logic to clean up Docker networks in tastora tests",
-        "url": "https://github.com/celestiaorg/celestia-node/pull/4645",
-        "repo": "celestia-node",
-        "author": "hawkadrian",
-        "reviewer": "Wondertan",
-        "requestedAt": "2025-10-18T19:51:29Z"
       },
       {
         "number": 4738,
@@ -359,5 +332,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-05-18T11:55:30.978Z"
+  "fetchedAt": "2026-05-18T13:13:09.562Z"
 }
