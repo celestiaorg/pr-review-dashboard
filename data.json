@@ -1,20 +1,10 @@
 {
   "reviews": {
-    "rootulp": [
-      {
-        "number": 3052,
-        "title": "feat: support store compaction after pruning blocks",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3052",
-        "repo": "celestia-core",
-        "author": "rach-id",
-        "reviewer": "rootulp",
-        "requestedAt": "2026-05-18T09:23:58Z"
-      }
-    ],
+    "rootulp": [],
     "ninabarbakadze": [
       {
         "number": 3052,
-        "title": "feat: support store compaction after pruning blocks",
+        "title": "feat!: support store compaction after pruning blocks",
         "url": "https://github.com/celestiaorg/celestia-core/pull/3052",
         "repo": "celestia-core",
         "author": "rach-id",
@@ -44,7 +34,7 @@
       },
       {
         "number": 3052,
-        "title": "feat: support store compaction after pruning blocks",
+        "title": "feat!: support store compaction after pruning blocks",
         "url": "https://github.com/celestiaorg/celestia-core/pull/3052",
         "repo": "celestia-core",
         "author": "rach-id",
@@ -117,15 +107,6 @@
         "requestedAt": "2025-04-22T14:23:16Z"
       },
       {
-        "number": 4341,
-        "title": "feat(nodebuilder/node)!: More useful node info (type is string and report network ID)",
-        "url": "https://github.com/celestiaorg/celestia-node/pull/4341",
-        "repo": "celestia-node",
-        "author": "renaynay",
-        "reviewer": "vgonkivs",
-        "requestedAt": "2025-06-19T14:59:26Z"
-      },
-      {
         "number": 4537,
         "title": "misc(share/shwap/p2p/shrex): add traces to shrex client/server hotpaths",
         "url": "https://github.com/celestiaorg/celestia-node/pull/4537",
@@ -169,21 +150,12 @@
         "author": "ninabarbakadze",
         "reviewer": "vgonkivs",
         "requestedAt": "2026-05-14T13:19:18Z"
-      },
-      {
-        "number": 4997,
-        "title": "fix(api)!: set request-size limit and write/idle timeouts on JSON-RPC server",
-        "url": "https://github.com/celestiaorg/celestia-node/pull/4997",
-        "repo": "celestia-node",
-        "author": "rootulp",
-        "reviewer": "vgonkivs",
-        "requestedAt": "2026-05-15T22:11:29Z"
       }
     ],
     "evan-forbes": [
       {
         "number": 3052,
-        "title": "feat: support store compaction after pruning blocks",
+        "title": "feat!: support store compaction after pruning blocks",
         "url": "https://github.com/celestiaorg/celestia-core/pull/3052",
         "repo": "celestia-core",
         "author": "rach-id",
@@ -200,15 +172,6 @@
         "author": "Himess",
         "reviewer": "walldiss",
         "requestedAt": "2025-04-22T14:23:16Z"
-      },
-      {
-        "number": 4341,
-        "title": "feat(nodebuilder/node)!: More useful node info (type is string and report network ID)",
-        "url": "https://github.com/celestiaorg/celestia-node/pull/4341",
-        "repo": "celestia-node",
-        "author": "renaynay",
-        "reviewer": "walldiss",
-        "requestedAt": "2025-06-19T14:59:26Z"
       },
       {
         "number": 4537,
@@ -247,15 +210,6 @@
         "author": "Himess",
         "reviewer": "Wondertan",
         "requestedAt": "2025-04-22T14:23:16Z"
-      },
-      {
-        "number": 4341,
-        "title": "feat(nodebuilder/node)!: More useful node info (type is string and report network ID)",
-        "url": "https://github.com/celestiaorg/celestia-node/pull/4341",
-        "repo": "celestia-node",
-        "author": "renaynay",
-        "reviewer": "Wondertan",
-        "requestedAt": "2025-06-23T09:34:45Z"
       },
       {
         "number": 4537,
@@ -332,5 +286,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-05-18T13:13:09.562Z"
+  "fetchedAt": "2026-05-18T14:28:39.133Z"
 }
