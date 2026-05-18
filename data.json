@@ -39,6 +39,15 @@
         "author": "dependabot",
         "reviewer": "rach-id",
         "requestedAt": "2026-05-18T17:54:24Z"
+      },
+      {
+        "number": 5001,
+        "title": "chore(deps): bump peaceiris/actions-gh-pages from 4.0.0 to 4.1.0",
+        "url": "https://github.com/celestiaorg/celestia-node/pull/5001",
+        "repo": "celestia-node",
+        "author": "dependabot",
+        "reviewer": "rach-id",
+        "requestedAt": "2026-05-18T20:09:41Z"
       }
     ],
     "mcrakhman": [
@@ -214,6 +223,15 @@
         "author": "rach-id",
         "reviewer": "vgonkivs",
         "requestedAt": "2026-05-18T15:25:28Z"
+      },
+      {
+        "number": 5000,
+        "title": "chore(deps): bump codecov/codecov-action from 6.0.0 to 6.0.1 in the patch-updates group",
+        "url": "https://github.com/celestiaorg/celestia-node/pull/5000",
+        "repo": "celestia-node",
+        "author": "dependabot",
+        "reviewer": "vgonkivs",
+        "requestedAt": "2026-05-18T20:09:32Z"
       }
     ],
     "evan-forbes": [
@@ -359,5 +377,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-05-18T19:41:01.579Z"
+  "fetchedAt": "2026-05-18T20:18:20.553Z"
 }
