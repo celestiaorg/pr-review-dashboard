@@ -79,15 +79,6 @@
     ],
     "vgonkivs": [
       {
-        "number": 3008,
-        "title": "refactor: only unmarshal a single page from the tx index",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3008",
-        "repo": "celestia-core",
-        "author": "evan-forbes",
-        "reviewer": "vgonkivs",
-        "requestedAt": "2026-05-04T03:42:27Z"
-      },
-      {
         "number": 4232,
         "title": "feat(nodebuilder): generate and persist Node ID and JWT secret during init",
         "url": "https://github.com/celestiaorg/celestia-node/pull/4232",
@@ -329,5 +320,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-05-18T04:55:03.069Z"
+  "fetchedAt": "2026-05-18T06:25:51.972Z"
 }
