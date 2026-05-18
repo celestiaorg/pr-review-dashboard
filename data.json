@@ -1,17 +1,7 @@
 {
   "reviews": {
     "rootulp": [],
-    "ninabarbakadze": [
-      {
-        "number": 3052,
-        "title": "feat!: support store compaction after pruning blocks",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3052",
-        "repo": "celestia-core",
-        "author": "rach-id",
-        "reviewer": "ninabarbakadze",
-        "requestedAt": "2026-05-18T09:23:58Z"
-      }
-    ],
+    "ninabarbakadze": [],
     "rach-id": [],
     "mcrakhman": [
       {
@@ -31,15 +21,6 @@
         "author": "dependabot",
         "reviewer": "mcrakhman",
         "requestedAt": "2026-05-11T14:01:54Z"
-      },
-      {
-        "number": 3052,
-        "title": "feat!: support store compaction after pruning blocks",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3052",
-        "repo": "celestia-core",
-        "author": "rach-id",
-        "reviewer": "mcrakhman",
-        "requestedAt": "2026-05-18T09:23:38Z"
       },
       {
         "number": 4980,
@@ -107,15 +88,6 @@
         "requestedAt": "2025-04-22T14:23:16Z"
       },
       {
-        "number": 4537,
-        "title": "misc(share/shwap/p2p/shrex): add traces to shrex client/server hotpaths",
-        "url": "https://github.com/celestiaorg/celestia-node/pull/4537",
-        "repo": "celestia-node",
-        "author": "renaynay",
-        "reviewer": "vgonkivs",
-        "requestedAt": "2025-09-08T13:51:13Z"
-      },
-      {
         "number": 4617,
         "title": "feat(api/client): add support for multiple endpoints with failover",
         "url": "https://github.com/celestiaorg/celestia-node/pull/4617",
@@ -150,19 +122,18 @@
         "author": "ninabarbakadze",
         "reviewer": "vgonkivs",
         "requestedAt": "2026-05-14T13:19:18Z"
-      }
-    ],
-    "evan-forbes": [
+      },
       {
-        "number": 3052,
-        "title": "feat!: support store compaction after pruning blocks",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3052",
-        "repo": "celestia-core",
+        "number": 4999,
+        "title": "chore(deps): bump celestia-app to v9 arabica release",
+        "url": "https://github.com/celestiaorg/celestia-node/pull/4999",
+        "repo": "celestia-node",
         "author": "rach-id",
-        "reviewer": "evan-forbes",
-        "requestedAt": "2026-05-18T09:23:58Z"
+        "reviewer": "vgonkivs",
+        "requestedAt": "2026-05-18T15:25:28Z"
       }
     ],
+    "evan-forbes": [],
     "walldiss": [
       {
         "number": 4232,
@@ -172,15 +143,6 @@
         "author": "Himess",
         "reviewer": "walldiss",
         "requestedAt": "2025-04-22T14:23:16Z"
-      },
-      {
-        "number": 4537,
-        "title": "misc(share/shwap/p2p/shrex): add traces to shrex client/server hotpaths",
-        "url": "https://github.com/celestiaorg/celestia-node/pull/4537",
-        "repo": "celestia-node",
-        "author": "renaynay",
-        "reviewer": "walldiss",
-        "requestedAt": "2025-09-08T13:51:13Z"
       },
       {
         "number": 4617,
@@ -199,6 +161,15 @@
         "author": "ninabarbakadze",
         "reviewer": "walldiss",
         "requestedAt": "2026-05-14T13:19:24Z"
+      },
+      {
+        "number": 394,
+        "title": "feat!(sync): support contiguous partial ranges from getter",
+        "url": "https://github.com/celestiaorg/go-header/pull/394",
+        "repo": "go-header",
+        "author": "vgonkivs",
+        "reviewer": "walldiss",
+        "requestedAt": "2026-05-18T14:39:55Z"
       }
     ],
     "Wondertan": [
@@ -210,15 +181,6 @@
         "author": "Himess",
         "reviewer": "Wondertan",
         "requestedAt": "2025-04-22T14:23:16Z"
-      },
-      {
-        "number": 4537,
-        "title": "misc(share/shwap/p2p/shrex): add traces to shrex client/server hotpaths",
-        "url": "https://github.com/celestiaorg/celestia-node/pull/4537",
-        "repo": "celestia-node",
-        "author": "renaynay",
-        "reviewer": "Wondertan",
-        "requestedAt": "2025-09-08T13:51:13Z"
       },
       {
         "number": 4617,
@@ -286,5 +248,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-05-18T14:28:39.133Z"
+  "fetchedAt": "2026-05-18T15:49:48.400Z"
 }
