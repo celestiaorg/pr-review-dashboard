@@ -19,6 +19,15 @@
         "author": "dependabot",
         "reviewer": "ninabarbakadze",
         "requestedAt": "2026-05-18T17:45:45Z"
+      },
+      {
+        "number": 5002,
+        "title": "chore(deps): bump the patch-updates group across 2 directories with 2 updates",
+        "url": "https://github.com/celestiaorg/celestia-node/pull/5002",
+        "repo": "celestia-node",
+        "author": "dependabot",
+        "reviewer": "ninabarbakadze",
+        "requestedAt": "2026-05-18T20:20:06Z"
       }
     ],
     "rach-id": [
@@ -48,6 +57,15 @@
         "author": "dependabot",
         "reviewer": "rach-id",
         "requestedAt": "2026-05-18T20:09:41Z"
+      },
+      {
+        "number": 5006,
+        "title": "chore(deps): bump github.com/celestiaorg/celestia-app/v9 from 9.0.0-20260427092751-b2c8d9c29491 to 9.0.0-arabica in /nodebuilder/tests/tastora",
+        "url": "https://github.com/celestiaorg/celestia-node/pull/5006",
+        "repo": "celestia-node",
+        "author": "dependabot",
+        "reviewer": "rach-id",
+        "requestedAt": "2026-05-18T20:21:18Z"
       }
     ],
     "mcrakhman": [
@@ -106,24 +124,6 @@
         "requestedAt": "2026-05-04T13:25:35Z"
       },
       {
-        "number": 4984,
-        "title": "chore(deps): bump google.golang.org/grpc from 1.80.0 to 1.81.0 in /nodebuilder/tests/tastora",
-        "url": "https://github.com/celestiaorg/celestia-node/pull/4984",
-        "repo": "celestia-node",
-        "author": "dependabot",
-        "reviewer": "mcrakhman",
-        "requestedAt": "2026-05-04T13:38:48Z"
-      },
-      {
-        "number": 4991,
-        "title": "chore(deps): bump github.com/libp2p/go-libp2p-kad-dht from 0.39.1 to 0.39.2 in the patch-updates group across 1 directory",
-        "url": "https://github.com/celestiaorg/celestia-node/pull/4991",
-        "repo": "celestia-node",
-        "author": "dependabot",
-        "reviewer": "mcrakhman",
-        "requestedAt": "2026-05-11T17:17:55Z"
-      },
-      {
         "number": 4994,
         "title": "chore(deps): bump golang.org/x/crypto from 0.50.0 to 0.51.0",
         "url": "https://github.com/celestiaorg/celestia-node/pull/4994",
@@ -131,6 +131,15 @@
         "author": "dependabot",
         "reviewer": "mcrakhman",
         "requestedAt": "2026-05-11T17:18:16Z"
+      },
+      {
+        "number": 5004,
+        "title": "chore(deps): bump google.golang.org/grpc from 1.80.0 to 1.81.1",
+        "url": "https://github.com/celestiaorg/celestia-node/pull/5004",
+        "repo": "celestia-node",
+        "author": "dependabot",
+        "reviewer": "mcrakhman",
+        "requestedAt": "2026-05-18T20:20:42Z"
       },
       {
         "number": 145,
@@ -232,6 +241,15 @@
         "author": "dependabot",
         "reviewer": "vgonkivs",
         "requestedAt": "2026-05-18T20:09:32Z"
+      },
+      {
+        "number": 5005,
+        "title": "chore(deps): bump google.golang.org/grpc from 1.80.0 to 1.81.1 in /nodebuilder/tests/tastora",
+        "url": "https://github.com/celestiaorg/celestia-node/pull/5005",
+        "repo": "celestia-node",
+        "author": "dependabot",
+        "reviewer": "vgonkivs",
+        "requestedAt": "2026-05-18T20:21:09Z"
       }
     ],
     "evan-forbes": [
@@ -252,6 +270,15 @@
         "author": "dependabot",
         "reviewer": "evan-forbes",
         "requestedAt": "2026-05-18T17:45:57Z"
+      },
+      {
+        "number": 5003,
+        "title": "chore(deps): bump github.com/celestiaorg/celestia-app/v9 from 9.0.0-20260427092751-b2c8d9c29491 to 9.0.0-arabica",
+        "url": "https://github.com/celestiaorg/celestia-node/pull/5003",
+        "repo": "celestia-node",
+        "author": "dependabot",
+        "reviewer": "evan-forbes",
+        "requestedAt": "2026-05-18T20:20:33Z"
       }
     ],
     "walldiss": [
@@ -377,5 +404,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-05-18T20:18:20.553Z"
+  "fetchedAt": "2026-05-18T20:54:30.141Z"
 }
