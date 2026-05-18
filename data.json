@@ -1,7 +1,26 @@
 {
   "reviews": {
     "rootulp": [],
-    "ninabarbakadze": [],
+    "ninabarbakadze": [
+      {
+        "number": 7280,
+        "title": "chore(deps): bump github.com/celestiaorg/tastora from 0.19.0 to 0.20.0 in /test/docker-e2e",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/7280",
+        "repo": "celestia-app",
+        "author": "dependabot",
+        "reviewer": "ninabarbakadze",
+        "requestedAt": "2026-05-18T18:02:01Z"
+      },
+      {
+        "number": 3054,
+        "title": "build(deps): Bump google.golang.org/grpc from 1.81.0 to 1.81.1",
+        "url": "https://github.com/celestiaorg/celestia-core/pull/3054",
+        "repo": "celestia-core",
+        "author": "dependabot",
+        "reviewer": "ninabarbakadze",
+        "requestedAt": "2026-05-18T17:45:45Z"
+      }
+    ],
     "rach-id": [
       {
         "number": 7271,
@@ -11,6 +30,15 @@
         "author": "Wondertan",
         "reviewer": "rach-id",
         "requestedAt": "2026-05-18T16:49:32Z"
+      },
+      {
+        "number": 7279,
+        "title": "chore(deps): bump github.com/consensys/gnark from 0.14.0 to 0.15.0",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/7279",
+        "repo": "celestia-app",
+        "author": "dependabot",
+        "reviewer": "rach-id",
+        "requestedAt": "2026-05-18T17:54:24Z"
       }
     ],
     "mcrakhman": [
@@ -31,6 +59,24 @@
         "author": "Wondertan",
         "reviewer": "mcrakhman",
         "requestedAt": "2026-05-18T16:58:45Z"
+      },
+      {
+        "number": 7277,
+        "title": "chore(deps): bump google.golang.org/grpc from 1.81.0 to 1.81.1",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/7277",
+        "repo": "celestia-app",
+        "author": "dependabot",
+        "reviewer": "mcrakhman",
+        "requestedAt": "2026-05-18T17:54:04Z"
+      },
+      {
+        "number": 7282,
+        "title": "chore(deps): bump google.golang.org/grpc from 1.81.0 to 1.81.1 in /test/docker-e2e",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/7282",
+        "repo": "celestia-app",
+        "author": "dependabot",
+        "reviewer": "mcrakhman",
+        "requestedAt": "2026-05-18T18:02:15Z"
       },
       {
         "number": 3031,
@@ -98,6 +144,24 @@
     ],
     "vgonkivs": [
       {
+        "number": 7273,
+        "title": "chore(deps): bump google.golang.org/api from 0.277.0 to 0.279.0",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/7273",
+        "repo": "celestia-app",
+        "author": "dependabot",
+        "reviewer": "vgonkivs",
+        "requestedAt": "2026-05-18T17:52:35Z"
+      },
+      {
+        "number": 7278,
+        "title": "chore(deps): bump cloud.google.com/go/compute from 1.62.0 to 1.63.0",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/7278",
+        "repo": "celestia-app",
+        "author": "dependabot",
+        "reviewer": "vgonkivs",
+        "requestedAt": "2026-05-18T17:54:17Z"
+      },
+      {
         "number": 4232,
         "title": "feat(nodebuilder): generate and persist Node ID and JWT secret during init",
         "url": "https://github.com/celestiaorg/celestia-node/pull/4232",
@@ -152,7 +216,26 @@
         "requestedAt": "2026-05-18T15:25:28Z"
       }
     ],
-    "evan-forbes": [],
+    "evan-forbes": [
+      {
+        "number": 7281,
+        "title": "chore(deps): bump github.com/ethereum/go-ethereum from 1.17.2 to 1.17.3 in /test/docker-e2e",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/7281",
+        "repo": "celestia-app",
+        "author": "dependabot",
+        "reviewer": "evan-forbes",
+        "requestedAt": "2026-05-18T18:02:08Z"
+      },
+      {
+        "number": 3055,
+        "title": "build(deps): Bump github.com/btcsuite/btcd/btcutil from 1.1.6 to 1.2.0",
+        "url": "https://github.com/celestiaorg/celestia-core/pull/3055",
+        "repo": "celestia-core",
+        "author": "dependabot",
+        "reviewer": "evan-forbes",
+        "requestedAt": "2026-05-18T17:45:57Z"
+      }
+    ],
     "walldiss": [
       {
         "number": 7271,
@@ -276,5 +359,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-05-18T17:39:35.093Z"
+  "fetchedAt": "2026-05-18T18:19:58.376Z"
 }
