@@ -2,7 +2,17 @@
   "reviews": {
     "rootulp": [],
     "ninabarbakadze": [],
-    "rach-id": [],
+    "rach-id": [
+      {
+        "number": 7271,
+        "title": "feat(rsema1d): `Reconstructor`",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/7271",
+        "repo": "celestia-app",
+        "author": "Wondertan",
+        "reviewer": "rach-id",
+        "requestedAt": "2026-05-18T16:49:32Z"
+      }
+    ],
     "mcrakhman": [
       {
         "number": 7200,
@@ -248,5 +258,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-05-18T15:49:48.400Z"
+  "fetchedAt": "2026-05-18T16:50:57.534Z"
 }
