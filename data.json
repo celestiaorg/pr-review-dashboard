@@ -24,6 +24,15 @@
         "requestedAt": "2026-04-30T22:25:14Z"
       },
       {
+        "number": 7271,
+        "title": "feat(rsema1d): `Reconstructor`",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/7271",
+        "repo": "celestia-app",
+        "author": "Wondertan",
+        "reviewer": "mcrakhman",
+        "requestedAt": "2026-05-18T16:58:45Z"
+      },
+      {
         "number": 3031,
         "title": "build(deps): Bump golang.org/x/net from 0.53.0 to 0.54.0",
         "url": "https://github.com/celestiaorg/celestia-core/pull/3031",
@@ -146,6 +155,15 @@
     "evan-forbes": [],
     "walldiss": [
       {
+        "number": 7271,
+        "title": "feat(rsema1d): `Reconstructor`",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/7271",
+        "repo": "celestia-app",
+        "author": "Wondertan",
+        "reviewer": "walldiss",
+        "requestedAt": "2026-05-18T16:58:45Z"
+      },
+      {
         "number": 4232,
         "title": "feat(nodebuilder): generate and persist Node ID and JWT secret during init",
         "url": "https://github.com/celestiaorg/celestia-node/pull/4232",
@@ -258,5 +276,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-05-18T16:50:57.534Z"
+  "fetchedAt": "2026-05-18T17:39:35.093Z"
 }
