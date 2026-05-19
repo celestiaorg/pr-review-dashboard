@@ -2,17 +2,17 @@
   "latencies": {
     "rootulp": {
       "week": {
-        "n": 0,
-        "medianHours": null,
-        "p90Hours": null
+        "n": 1,
+        "medianHours": 4.645833333333333,
+        "p90Hours": 4.645833333333333
       },
       "month": {
-        "n": 5,
-        "medianHours": 0.5013888888888889,
+        "n": 6,
+        "medianHours": 0.5027777777777778,
         "p90Hours": 36.348333333333336
       },
       "year": {
-        "n": 158,
+        "n": 159,
         "medianHours": 3.624722222222222,
         "p90Hours": 27.341666666666665
       }
@@ -179,7 +179,7 @@
       "defaultHidden": true
     }
   ],
-  "computedAt": "2026-05-18T00:22:49.419Z",
+  "computedAt": "2026-05-19T00:26:13.115Z",
   "windows": {
     "weekStart": "2026-05-18T00:00:00.000Z",
     "monthStart": "2026-05-01T00:00:00.000Z",
