@@ -158,15 +158,6 @@
         "author": "zvolin",
         "reviewer": "mcrakhman",
         "requestedAt": "2026-02-06T11:07:52Z"
-      },
-      {
-        "number": 408,
-        "title": "chore(deps): Bump codecov/codecov-action from 6.0.0 to 6.0.1",
-        "url": "https://github.com/celestiaorg/rsmt2d/pull/408",
-        "repo": "rsmt2d",
-        "author": "dependabot",
-        "reviewer": "mcrakhman",
-        "requestedAt": "2026-05-19T01:24:20Z"
       }
     ],
     "vgonkivs": [
@@ -413,5 +404,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-05-19T03:21:08.171Z"
+  "fetchedAt": "2026-05-19T04:46:39.332Z"
 }
