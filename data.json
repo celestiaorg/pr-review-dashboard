@@ -70,6 +70,15 @@
         "requestedAt": "2026-05-18T18:02:15Z"
       },
       {
+        "number": 7283,
+        "title": "refactor(fibre)!: accelerate reads",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/7283",
+        "repo": "celestia-app",
+        "author": "Wondertan",
+        "reviewer": "mcrakhman",
+        "requestedAt": "2026-05-19T15:46:39Z"
+      },
+      {
         "number": 3031,
         "title": "build(deps): Bump golang.org/x/net from 0.53.0 to 0.54.0",
         "url": "https://github.com/celestiaorg/celestia-core/pull/3031",
@@ -256,6 +265,15 @@
         "requestedAt": "2026-05-18T16:58:45Z"
       },
       {
+        "number": 7283,
+        "title": "refactor(fibre)!: accelerate reads",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/7283",
+        "repo": "celestia-app",
+        "author": "Wondertan",
+        "reviewer": "walldiss",
+        "requestedAt": "2026-05-19T15:46:39Z"
+      },
+      {
         "number": 4232,
         "title": "feat(nodebuilder): generate and persist Node ID and JWT secret during init",
         "url": "https://github.com/celestiaorg/celestia-node/pull/4232",
@@ -368,5 +386,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-05-19T14:33:54.053Z"
+  "fetchedAt": "2026-05-19T15:50:49.300Z"
 }
