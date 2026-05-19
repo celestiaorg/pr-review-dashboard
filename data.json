@@ -39,15 +39,6 @@
         "author": "Wondertan",
         "reviewer": "rach-id",
         "requestedAt": "2026-05-18T16:49:32Z"
-      },
-      {
-        "number": 5007,
-        "title": "fix(test): fix data race during app and node startups",
-        "url": "https://github.com/celestiaorg/celestia-node/pull/5007",
-        "repo": "celestia-node",
-        "author": "vgonkivs",
-        "reviewer": "rach-id",
-        "requestedAt": "2026-05-19T09:56:01Z"
       }
     ],
     "mcrakhman": [
@@ -395,5 +386,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-05-19T11:18:43.472Z"
+  "fetchedAt": "2026-05-19T12:23:21.116Z"
 }
