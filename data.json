@@ -43,15 +43,6 @@
     ],
     "mcrakhman": [
       {
-        "number": 7200,
-        "title": "feat(metrics): export prometheus metrics to OTel collector via OTLP push",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7200",
-        "repo": "celestia-app",
-        "author": "walldiss",
-        "reviewer": "mcrakhman",
-        "requestedAt": "2026-04-30T22:25:14Z"
-      },
-      {
         "number": 7271,
         "title": "feat(rsema1d): `Reconstructor`",
         "url": "https://github.com/celestiaorg/celestia-app/pull/7271",
@@ -377,5 +368,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-05-19T13:35:38.229Z"
+  "fetchedAt": "2026-05-19T14:33:54.053Z"
 }
