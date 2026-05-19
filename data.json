@@ -299,15 +299,6 @@
         "author": "ninabarbakadze",
         "reviewer": "walldiss",
         "requestedAt": "2026-05-14T13:19:24Z"
-      },
-      {
-        "number": 394,
-        "title": "feat!(sync): support contiguous partial ranges from getter",
-        "url": "https://github.com/celestiaorg/go-header/pull/394",
-        "repo": "go-header",
-        "author": "vgonkivs",
-        "reviewer": "walldiss",
-        "requestedAt": "2026-05-18T14:39:55Z"
       }
     ],
     "Wondertan": [
@@ -386,5 +377,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-05-19T12:23:21.116Z"
+  "fetchedAt": "2026-05-19T13:35:38.229Z"
 }
