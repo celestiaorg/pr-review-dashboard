@@ -39,33 +39,6 @@
         "author": "Wondertan",
         "reviewer": "rach-id",
         "requestedAt": "2026-05-18T16:49:32Z"
-      },
-      {
-        "number": 7279,
-        "title": "chore(deps): bump github.com/consensys/gnark from 0.14.0 to 0.15.0",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7279",
-        "repo": "celestia-app",
-        "author": "dependabot",
-        "reviewer": "rach-id",
-        "requestedAt": "2026-05-18T17:54:24Z"
-      },
-      {
-        "number": 5001,
-        "title": "chore(deps): bump peaceiris/actions-gh-pages from 4.0.0 to 4.1.0",
-        "url": "https://github.com/celestiaorg/celestia-node/pull/5001",
-        "repo": "celestia-node",
-        "author": "dependabot",
-        "reviewer": "rach-id",
-        "requestedAt": "2026-05-18T20:09:41Z"
-      },
-      {
-        "number": 5006,
-        "title": "chore(deps): bump github.com/celestiaorg/celestia-app/v9 from 9.0.0-20260427092751-b2c8d9c29491 to 9.0.0-arabica in /nodebuilder/tests/tastora",
-        "url": "https://github.com/celestiaorg/celestia-node/pull/5006",
-        "repo": "celestia-node",
-        "author": "dependabot",
-        "reviewer": "rach-id",
-        "requestedAt": "2026-05-18T20:21:18Z"
       }
     ],
     "mcrakhman": [
@@ -404,5 +377,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-05-19T06:16:35.390Z"
+  "fetchedAt": "2026-05-19T07:35:08.912Z"
 }
