@@ -39,6 +39,15 @@
         "author": "Wondertan",
         "reviewer": "rach-id",
         "requestedAt": "2026-05-18T16:49:32Z"
+      },
+      {
+        "number": 5007,
+        "title": "fix(test): fix data race during app and node startups",
+        "url": "https://github.com/celestiaorg/celestia-node/pull/5007",
+        "repo": "celestia-node",
+        "author": "vgonkivs",
+        "reviewer": "rach-id",
+        "requestedAt": "2026-05-19T09:56:01Z"
       }
     ],
     "mcrakhman": [
@@ -283,6 +292,15 @@
         "requestedAt": "2025-10-07T18:59:09Z"
       },
       {
+        "number": 4909,
+        "title": "feat!(rpc): harden RPC server",
+        "url": "https://github.com/celestiaorg/celestia-node/pull/4909",
+        "repo": "celestia-node",
+        "author": "Wondertan",
+        "reviewer": "walldiss",
+        "requestedAt": "2026-05-19T09:25:19Z"
+      },
+      {
         "number": 4990,
         "title": "feat(blob): restore additive Subscribe and add SubscribeFromStartHeight",
         "url": "https://github.com/celestiaorg/celestia-node/pull/4990",
@@ -377,5 +395,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-05-19T08:44:07.197Z"
+  "fetchedAt": "2026-05-19T10:07:06.395Z"
 }
