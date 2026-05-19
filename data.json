@@ -28,15 +28,6 @@
         "author": "dependabot",
         "reviewer": "ninabarbakadze",
         "requestedAt": "2026-05-18T20:20:06Z"
-      },
-      {
-        "number": 395,
-        "title": "chore(deps): drop go-libp2p-pubsub fork replace, bump to v0.16.0",
-        "url": "https://github.com/celestiaorg/go-header/pull/395",
-        "repo": "go-header",
-        "author": "walldiss",
-        "reviewer": "ninabarbakadze",
-        "requestedAt": "2026-05-19T19:11:06Z"
       }
     ],
     "rach-id": [
@@ -395,5 +386,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-05-19T19:11:56.893Z"
+  "fetchedAt": "2026-05-19T19:55:18.285Z"
 }
