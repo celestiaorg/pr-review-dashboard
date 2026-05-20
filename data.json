@@ -1,26 +1,7 @@
 {
   "reviews": {
-    "rootulp": [
-      {
-        "number": 3058,
-        "title": "fix: ensure IsCaughtUp handles peers pruned ahead of pool height",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3058",
-        "repo": "celestia-core",
-        "author": "rach-id",
-        "reviewer": "rootulp",
-        "requestedAt": "2026-05-20T11:07:19Z"
-      }
-    ],
+    "rootulp": [],
     "ninabarbakadze": [
-      {
-        "number": 7280,
-        "title": "chore(deps): bump github.com/celestiaorg/tastora from 0.19.0 to 0.20.0 in /test/docker-e2e",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7280",
-        "repo": "celestia-app",
-        "author": "dependabot",
-        "reviewer": "ninabarbakadze",
-        "requestedAt": "2026-05-18T18:02:01Z"
-      },
       {
         "number": 5002,
         "title": "chore(deps): bump the patch-updates group across 2 directories with 2 updates",
@@ -50,15 +31,6 @@
         "author": "dependabot",
         "reviewer": "mcrakhman",
         "requestedAt": "2026-05-18T17:54:04Z"
-      },
-      {
-        "number": 7282,
-        "title": "chore(deps): bump google.golang.org/grpc from 1.81.0 to 1.81.1 in /test/docker-e2e",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7282",
-        "repo": "celestia-app",
-        "author": "dependabot",
-        "reviewer": "mcrakhman",
-        "requestedAt": "2026-05-18T18:02:15Z"
       },
       {
         "number": 7283,
@@ -198,15 +170,6 @@
         "requestedAt": "2026-05-18T20:09:32Z"
       },
       {
-        "number": 5003,
-        "title": "chore(deps): bump github.com/celestiaorg/celestia-app/v9 from 9.0.0-20260427092751-b2c8d9c29491 to 9.0.0-arabica",
-        "url": "https://github.com/celestiaorg/celestia-node/pull/5003",
-        "repo": "celestia-node",
-        "author": "dependabot",
-        "reviewer": "vgonkivs",
-        "requestedAt": "2026-05-20T06:07:32Z"
-      },
-      {
         "number": 5005,
         "title": "chore(deps): bump google.golang.org/grpc from 1.80.0 to 1.81.1 in /nodebuilder/tests/tastora",
         "url": "https://github.com/celestiaorg/celestia-node/pull/5005",
@@ -216,26 +179,7 @@
         "requestedAt": "2026-05-18T20:21:09Z"
       }
     ],
-    "evan-forbes": [
-      {
-        "number": 3058,
-        "title": "fix: ensure IsCaughtUp handles peers pruned ahead of pool height",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3058",
-        "repo": "celestia-core",
-        "author": "rach-id",
-        "reviewer": "evan-forbes",
-        "requestedAt": "2026-05-20T11:06:59Z"
-      },
-      {
-        "number": 5003,
-        "title": "chore(deps): bump github.com/celestiaorg/celestia-app/v9 from 9.0.0-20260427092751-b2c8d9c29491 to 9.0.0-arabica",
-        "url": "https://github.com/celestiaorg/celestia-node/pull/5003",
-        "repo": "celestia-node",
-        "author": "dependabot",
-        "reviewer": "evan-forbes",
-        "requestedAt": "2026-05-18T20:20:33Z"
-      }
-    ],
+    "evan-forbes": [],
     "walldiss": [
       {
         "number": 7271,
@@ -272,15 +216,6 @@
         "author": "DeVikingMark",
         "reviewer": "walldiss",
         "requestedAt": "2025-10-07T18:59:09Z"
-      },
-      {
-        "number": 4909,
-        "title": "feat!(rpc): harden RPC server",
-        "url": "https://github.com/celestiaorg/celestia-node/pull/4909",
-        "repo": "celestia-node",
-        "author": "Wondertan",
-        "reviewer": "walldiss",
-        "requestedAt": "2026-05-19T09:25:19Z"
       },
       {
         "number": 4990,
@@ -368,5 +303,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-05-20T14:11:41.794Z"
+  "fetchedAt": "2026-05-20T15:25:19.849Z"
 }
