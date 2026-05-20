@@ -12,15 +12,6 @@
         "requestedAt": "2026-05-18T18:02:01Z"
       },
       {
-        "number": 3054,
-        "title": "build(deps): Bump google.golang.org/grpc from 1.81.0 to 1.81.1",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3054",
-        "repo": "celestia-core",
-        "author": "dependabot",
-        "reviewer": "ninabarbakadze",
-        "requestedAt": "2026-05-18T17:45:45Z"
-      },
-      {
         "number": 5002,
         "title": "chore(deps): bump the patch-updates group across 2 directories with 2 updates",
         "url": "https://github.com/celestiaorg/celestia-node/pull/5002",
@@ -77,15 +68,6 @@
         "author": "Wondertan",
         "reviewer": "mcrakhman",
         "requestedAt": "2026-05-19T15:46:39Z"
-      },
-      {
-        "number": 3031,
-        "title": "build(deps): Bump golang.org/x/net from 0.53.0 to 0.54.0",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3031",
-        "repo": "celestia-core",
-        "author": "dependabot",
-        "reviewer": "mcrakhman",
-        "requestedAt": "2026-05-11T14:01:54Z"
       },
       {
         "number": 4980,
@@ -216,6 +198,15 @@
         "requestedAt": "2026-05-18T20:09:32Z"
       },
       {
+        "number": 5003,
+        "title": "chore(deps): bump github.com/celestiaorg/celestia-app/v9 from 9.0.0-20260427092751-b2c8d9c29491 to 9.0.0-arabica",
+        "url": "https://github.com/celestiaorg/celestia-node/pull/5003",
+        "repo": "celestia-node",
+        "author": "dependabot",
+        "reviewer": "vgonkivs",
+        "requestedAt": "2026-05-20T06:07:32Z"
+      },
+      {
         "number": 5005,
         "title": "chore(deps): bump google.golang.org/grpc from 1.80.0 to 1.81.1 in /nodebuilder/tests/tastora",
         "url": "https://github.com/celestiaorg/celestia-node/pull/5005",
@@ -226,24 +217,6 @@
       }
     ],
     "evan-forbes": [
-      {
-        "number": 7281,
-        "title": "chore(deps): bump github.com/ethereum/go-ethereum from 1.17.2 to 1.17.3 in /test/docker-e2e",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7281",
-        "repo": "celestia-app",
-        "author": "dependabot",
-        "reviewer": "evan-forbes",
-        "requestedAt": "2026-05-18T18:02:08Z"
-      },
-      {
-        "number": 3055,
-        "title": "build(deps): Bump github.com/btcsuite/btcd/btcutil from 1.1.6 to 1.2.0",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3055",
-        "repo": "celestia-core",
-        "author": "dependabot",
-        "reviewer": "evan-forbes",
-        "requestedAt": "2026-05-18T17:45:57Z"
-      },
       {
         "number": 5003,
         "title": "chore(deps): bump github.com/celestiaorg/celestia-app/v9 from 9.0.0-20260427092751-b2c8d9c29491 to 9.0.0-arabica",
@@ -386,5 +359,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-05-20T04:50:45.197Z"
+  "fetchedAt": "2026-05-20T06:18:28.070Z"
 }
