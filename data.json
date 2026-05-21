@@ -187,6 +187,15 @@
         "author": "dependabot",
         "reviewer": "vgonkivs",
         "requestedAt": "2026-05-18T20:21:09Z"
+      },
+      {
+        "number": 409,
+        "title": "chore: fix some comments to improve readability",
+        "url": "https://github.com/celestiaorg/rsmt2d/pull/409",
+        "repo": "rsmt2d",
+        "author": "caltechustc",
+        "reviewer": "vgonkivs",
+        "requestedAt": "2026-05-21T16:38:52Z"
       }
     ],
     "evan-forbes": [
@@ -332,5 +341,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-05-21T16:00:17.385Z"
+  "fetchedAt": "2026-05-21T17:04:48.052Z"
 }
