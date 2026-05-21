@@ -9,9 +9,36 @@
         "author": "rach-id",
         "reviewer": "rootulp",
         "requestedAt": "2026-05-20T18:00:45Z"
+      },
+      {
+        "number": 3056,
+        "title": "feat!: only compact the pruner range in blockstore db",
+        "url": "https://github.com/celestiaorg/celestia-core/pull/3056",
+        "repo": "celestia-core",
+        "author": "rach-id",
+        "reviewer": "rootulp",
+        "requestedAt": "2026-05-21T05:45:56Z"
+      },
+      {
+        "number": 3059,
+        "title": "chore: update compaction setting description in config file",
+        "url": "https://github.com/celestiaorg/celestia-core/pull/3059",
+        "repo": "celestia-core",
+        "author": "rach-id",
+        "reviewer": "rootulp",
+        "requestedAt": "2026-05-21T05:51:25Z"
       }
     ],
     "ninabarbakadze": [
+      {
+        "number": 3056,
+        "title": "feat!: only compact the pruner range in blockstore db",
+        "url": "https://github.com/celestiaorg/celestia-core/pull/3056",
+        "repo": "celestia-core",
+        "author": "rach-id",
+        "reviewer": "ninabarbakadze",
+        "requestedAt": "2026-05-21T05:45:49Z"
+      },
       {
         "number": 5002,
         "title": "chore(deps): bump the patch-updates group across 2 directories with 2 updates",
@@ -32,15 +59,6 @@
         "author": "Wondertan",
         "reviewer": "mcrakhman",
         "requestedAt": "2026-05-18T16:58:45Z"
-      },
-      {
-        "number": 7277,
-        "title": "chore(deps): bump google.golang.org/grpc from 1.81.0 to 1.81.1",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7277",
-        "repo": "celestia-app",
-        "author": "dependabot",
-        "reviewer": "mcrakhman",
-        "requestedAt": "2026-05-18T17:54:04Z"
       },
       {
         "number": 7283,
@@ -98,24 +116,6 @@
       }
     ],
     "vgonkivs": [
-      {
-        "number": 7273,
-        "title": "chore(deps): bump google.golang.org/api from 0.277.0 to 0.279.0",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7273",
-        "repo": "celestia-app",
-        "author": "dependabot",
-        "reviewer": "vgonkivs",
-        "requestedAt": "2026-05-18T17:52:35Z"
-      },
-      {
-        "number": 7278,
-        "title": "chore(deps): bump cloud.google.com/go/compute from 1.62.0 to 1.63.0",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7278",
-        "repo": "celestia-app",
-        "author": "dependabot",
-        "reviewer": "vgonkivs",
-        "requestedAt": "2026-05-18T17:54:17Z"
-      },
       {
         "number": 7285,
         "title": "feat: add blockstore compaction command",
@@ -198,7 +198,26 @@
         "requestedAt": "2026-05-18T20:21:09Z"
       }
     ],
-    "evan-forbes": [],
+    "evan-forbes": [
+      {
+        "number": 3056,
+        "title": "feat!: only compact the pruner range in blockstore db",
+        "url": "https://github.com/celestiaorg/celestia-core/pull/3056",
+        "repo": "celestia-core",
+        "author": "rach-id",
+        "reviewer": "evan-forbes",
+        "requestedAt": "2026-05-21T05:45:56Z"
+      },
+      {
+        "number": 3059,
+        "title": "chore: update compaction setting description in config file",
+        "url": "https://github.com/celestiaorg/celestia-core/pull/3059",
+        "repo": "celestia-core",
+        "author": "rach-id",
+        "reviewer": "evan-forbes",
+        "requestedAt": "2026-05-21T05:51:18Z"
+      }
+    ],
     "walldiss": [
       {
         "number": 7271,
@@ -322,5 +341,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-05-21T05:00:01.823Z"
+  "fetchedAt": "2026-05-21T06:29:27.084Z"
 }
