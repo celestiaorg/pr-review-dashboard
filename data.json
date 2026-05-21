@@ -38,6 +38,15 @@
         "author": "rach-id",
         "reviewer": "ninabarbakadze",
         "requestedAt": "2026-05-21T05:45:49Z"
+      },
+      {
+        "number": 3060,
+        "title": "fix(propagation): guard GetProposal against nil compact block",
+        "url": "https://github.com/celestiaorg/celestia-core/pull/3060",
+        "repo": "celestia-core",
+        "author": "SAY-5",
+        "reviewer": "ninabarbakadze",
+        "requestedAt": "2026-05-21T19:38:41Z"
       }
     ],
     "rach-id": [],
@@ -341,5 +350,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-05-21T19:13:51.315Z"
+  "fetchedAt": "2026-05-21T19:57:47.911Z"
 }
