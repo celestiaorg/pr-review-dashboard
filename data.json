@@ -19,6 +19,15 @@
         "author": "SAY-5",
         "reviewer": "ninabarbakadze",
         "requestedAt": "2026-05-21T19:38:41Z"
+      },
+      {
+        "number": 411,
+        "title": "fix: attach correct-axis, nil-free shares to ErrByzantineData",
+        "url": "https://github.com/celestiaorg/rsmt2d/pull/411",
+        "repo": "rsmt2d",
+        "author": "evan-forbes",
+        "reviewer": "ninabarbakadze",
+        "requestedAt": "2026-05-22T20:44:52Z"
       }
     ],
     "rach-id": [],
@@ -103,6 +112,15 @@
         "author": "zvolin",
         "reviewer": "mcrakhman",
         "requestedAt": "2026-02-06T11:07:52Z"
+      },
+      {
+        "number": 324,
+        "title": "fix: validate root format in empty-range proof path of VerifyNamespace",
+        "url": "https://github.com/celestiaorg/nmt/pull/324",
+        "repo": "nmt",
+        "author": "evan-forbes",
+        "reviewer": "mcrakhman",
+        "requestedAt": "2026-05-22T20:40:45Z"
       }
     ],
     "vgonkivs": [
@@ -188,15 +206,6 @@
         "author": "rach-id",
         "reviewer": "evan-forbes",
         "requestedAt": "2026-05-21T05:45:56Z"
-      },
-      {
-        "number": 3059,
-        "title": "chore: update compaction setting description in config file",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3059",
-        "repo": "celestia-core",
-        "author": "rach-id",
-        "reviewer": "evan-forbes",
-        "requestedAt": "2026-05-21T05:51:18Z"
       }
     ],
     "walldiss": [
@@ -304,5 +313,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-05-22T20:20:39.261Z"
+  "fetchedAt": "2026-05-22T20:54:01.611Z"
 }
