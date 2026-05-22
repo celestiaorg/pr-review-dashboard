@@ -238,24 +238,6 @@
     ],
     "walldiss": [
       {
-        "number": 7271,
-        "title": "feat(rsema1d): `Reconstructor`",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7271",
-        "repo": "celestia-app",
-        "author": "Wondertan",
-        "reviewer": "walldiss",
-        "requestedAt": "2026-05-18T16:58:45Z"
-      },
-      {
-        "number": 7283,
-        "title": "refactor(fibre)!: accelerate reads",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7283",
-        "repo": "celestia-app",
-        "author": "Wondertan",
-        "reviewer": "walldiss",
-        "requestedAt": "2026-05-19T15:46:39Z"
-      },
-      {
         "number": 4232,
         "title": "feat(nodebuilder): generate and persist Node ID and JWT secret during init",
         "url": "https://github.com/celestiaorg/celestia-node/pull/4232",
@@ -359,5 +341,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-05-22T13:56:00.987Z"
+  "fetchedAt": "2026-05-22T15:04:37.518Z"
 }
