@@ -115,6 +115,15 @@
         "requestedAt": "2026-02-06T11:07:52Z"
       },
       {
+        "number": 974,
+        "title": "feat(client): expose get_tx on StateApi for reading submitted transactions",
+        "url": "https://github.com/celestiaorg/lumina/pull/974",
+        "repo": "lumina",
+        "author": "proofmancer",
+        "reviewer": "mcrakhman",
+        "requestedAt": "2026-05-23T18:11:54Z"
+      },
+      {
         "number": 324,
         "title": "fix: validate root format in empty-range proof path of VerifyNamespace",
         "url": "https://github.com/celestiaorg/nmt/pull/324",
@@ -323,5 +332,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-05-23T17:50:34.141Z"
+  "fetchedAt": "2026-05-23T18:13:14.394Z"
 }
