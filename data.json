@@ -67,17 +67,7 @@
         "requestedAt": "2026-05-25T16:50:11Z"
       }
     ],
-    "rach-id": [
-      {
-        "number": 5016,
-        "title": "chore(deps): bump github.com/celestiaorg/tastora from 0.19.0 to 0.20.0 in /nodebuilder/tests/tastora",
-        "url": "https://github.com/celestiaorg/celestia-node/pull/5016",
-        "repo": "celestia-node",
-        "author": "dependabot",
-        "reviewer": "rach-id",
-        "requestedAt": "2026-05-25T16:50:41Z"
-      }
-    ],
+    "rach-id": [],
     "mcrakhman": [
       {
         "number": 7271,
@@ -441,5 +431,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-05-25T17:16:53.189Z"
+  "fetchedAt": "2026-05-25T17:56:28.719Z"
 }
