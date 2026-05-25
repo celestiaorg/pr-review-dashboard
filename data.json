@@ -3,15 +3,6 @@
     "rootulp": [],
     "ninabarbakadze": [
       {
-        "number": 3056,
-        "title": "feat!: only compact the pruner range in blockstore db",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3056",
-        "repo": "celestia-core",
-        "author": "rach-id",
-        "reviewer": "ninabarbakadze",
-        "requestedAt": "2026-05-21T05:45:49Z"
-      },
-      {
         "number": 3060,
         "title": "fix(propagation): guard GetProposal against nil compact block",
         "url": "https://github.com/celestiaorg/celestia-core/pull/3060",
@@ -21,17 +12,7 @@
         "requestedAt": "2026-05-21T19:38:41Z"
       }
     ],
-    "rach-id": [
-      {
-        "number": 325,
-        "title": "fix: bound proof span in VerifySubtreeRootInclusion before allocating ranges",
-        "url": "https://github.com/celestiaorg/nmt/pull/325",
-        "repo": "nmt",
-        "author": "evan-forbes",
-        "reviewer": "rach-id",
-        "requestedAt": "2026-05-22T21:02:55Z"
-      }
-    ],
+    "rach-id": [],
     "mcrakhman": [
       {
         "number": 7271,
@@ -144,6 +125,15 @@
         "requestedAt": "2026-05-20T18:00:41Z"
       },
       {
+        "number": 7287,
+        "title": "chore(talis): update default `fibre-accounts` and `encoder-fibre-accounts` to 1",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/7287",
+        "repo": "celestia-app",
+        "author": "rach-id",
+        "reviewer": "vgonkivs",
+        "requestedAt": "2026-05-25T06:37:08Z"
+      },
+      {
         "number": 4232,
         "title": "feat(nodebuilder): generate and persist Node ID and JWT secret during init",
         "url": "https://github.com/celestiaorg/celestia-node/pull/4232",
@@ -208,15 +198,6 @@
       }
     ],
     "evan-forbes": [
-      {
-        "number": 3056,
-        "title": "feat!: only compact the pruner range in blockstore db",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3056",
-        "repo": "celestia-core",
-        "author": "rach-id",
-        "reviewer": "evan-forbes",
-        "requestedAt": "2026-05-21T05:45:56Z"
-      },
       {
         "number": 326,
         "title": "chore(deps): bump golangci/golangci-lint-action from 9.2.0 to 9.2.1",
@@ -332,5 +313,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-05-25T05:08:23.461Z"
+  "fetchedAt": "2026-05-25T06:45:36.017Z"
 }
