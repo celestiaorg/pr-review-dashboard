@@ -52,30 +52,12 @@
       },
       {
         "number": 4994,
-        "title": "chore(deps): bump golang.org/x/crypto from 0.50.0 to 0.51.0",
+        "title": "chore(deps): bump golang.org/x/crypto from 0.50.0 to 0.52.0",
         "url": "https://github.com/celestiaorg/celestia-node/pull/4994",
         "repo": "celestia-node",
         "author": "dependabot",
         "reviewer": "mcrakhman",
         "requestedAt": "2026-05-11T17:18:16Z"
-      },
-      {
-        "number": 5004,
-        "title": "chore(deps): bump google.golang.org/grpc from 1.80.0 to 1.81.1",
-        "url": "https://github.com/celestiaorg/celestia-node/pull/5004",
-        "repo": "celestia-node",
-        "author": "dependabot",
-        "reviewer": "mcrakhman",
-        "requestedAt": "2026-05-18T20:20:42Z"
-      },
-      {
-        "number": 5010,
-        "title": "chore(deps): bump github.com/ipfs/go-log/v2 from 2.9.1 to 2.9.2 in the patch-updates group across 1 directory",
-        "url": "https://github.com/celestiaorg/celestia-node/pull/5010",
-        "repo": "celestia-node",
-        "author": "dependabot",
-        "reviewer": "mcrakhman",
-        "requestedAt": "2026-05-21T15:23:13Z"
       },
       {
         "number": 5011,
@@ -170,15 +152,6 @@
         "requestedAt": "2025-12-12T13:47:27Z"
       },
       {
-        "number": 4982,
-        "title": "chore(deps): bump github.com/klauspost/reedsolomon from 1.13.4-0.20260420101718-f7e5efe6123a to 1.14.0",
-        "url": "https://github.com/celestiaorg/celestia-node/pull/4982",
-        "repo": "celestia-node",
-        "author": "dependabot",
-        "reviewer": "vgonkivs",
-        "requestedAt": "2026-05-04T13:37:23Z"
-      },
-      {
         "number": 5000,
         "title": "chore(deps): bump codecov/codecov-action from 6.0.0 to 6.0.1 in the patch-updates group",
         "url": "https://github.com/celestiaorg/celestia-node/pull/5000",
@@ -186,15 +159,6 @@
         "author": "dependabot",
         "reviewer": "vgonkivs",
         "requestedAt": "2026-05-18T20:09:32Z"
-      },
-      {
-        "number": 5005,
-        "title": "chore(deps): bump google.golang.org/grpc from 1.80.0 to 1.81.1 in /nodebuilder/tests/tastora",
-        "url": "https://github.com/celestiaorg/celestia-node/pull/5005",
-        "repo": "celestia-node",
-        "author": "dependabot",
-        "reviewer": "vgonkivs",
-        "requestedAt": "2026-05-18T20:21:09Z"
       }
     ],
     "evan-forbes": [
@@ -313,5 +277,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-05-25T11:08:39.594Z"
+  "fetchedAt": "2026-05-25T12:22:15.127Z"
 }
