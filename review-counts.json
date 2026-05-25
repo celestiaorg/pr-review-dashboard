@@ -1,7 +1,7 @@
 {
   "counts": {
     "rootulp": {
-      "week": 15,
+      "week": 0,
       "month": 53,
       "year": 358
     },
@@ -11,39 +11,39 @@
       "year": 331
     },
     "rach-id": {
-      "week": 13,
+      "week": 0,
       "month": 27,
       "year": 393
     },
     "mcrakhman": {
-      "week": 1,
+      "week": 0,
       "month": 4,
       "year": 73
     },
     "vgonkivs": {
-      "week": 2,
+      "week": 0,
       "month": 5,
       "year": 58
     },
     "evan-forbes": {
-      "week": 2,
+      "week": 0,
       "month": 24,
       "year": 99
     },
     "walldiss": {
-      "week": 8,
+      "week": 0,
       "month": 13,
       "year": 113
     },
     "Wondertan": {
-      "week": 4,
+      "week": 0,
       "month": 9,
       "year": 69
     }
   },
-  "computedAt": "2026-05-24T00:23:05.846Z",
+  "computedAt": "2026-05-25T00:24:25.530Z",
   "windows": {
-    "weekStart": "2026-05-18T00:00:00.000Z",
+    "weekStart": "2026-05-25T00:00:00.000Z",
     "monthStart": "2026-05-01T00:00:00.000Z",
     "yearStart": "2026-01-01T00:00:00.000Z"
   }
