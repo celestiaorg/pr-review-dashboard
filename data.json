@@ -56,9 +56,28 @@
         "author": "dependabot",
         "reviewer": "ninabarbakadze",
         "requestedAt": "2026-05-25T14:48:27Z"
+      },
+      {
+        "number": 5014,
+        "title": "chore(deps): bump github.com/libp2p/go-libp2p-kad-dht from 0.39.1 to 0.40.0",
+        "url": "https://github.com/celestiaorg/celestia-node/pull/5014",
+        "repo": "celestia-node",
+        "author": "dependabot",
+        "reviewer": "ninabarbakadze",
+        "requestedAt": "2026-05-25T16:50:11Z"
       }
     ],
-    "rach-id": [],
+    "rach-id": [
+      {
+        "number": 5016,
+        "title": "chore(deps): bump github.com/celestiaorg/tastora from 0.19.0 to 0.20.0 in /nodebuilder/tests/tastora",
+        "url": "https://github.com/celestiaorg/celestia-node/pull/5016",
+        "repo": "celestia-node",
+        "author": "dependabot",
+        "reviewer": "rach-id",
+        "requestedAt": "2026-05-25T16:50:41Z"
+      }
+    ],
     "mcrakhman": [
       {
         "number": 7271,
@@ -131,15 +150,6 @@
         "author": "dependabot",
         "reviewer": "mcrakhman",
         "requestedAt": "2026-05-04T13:25:35Z"
-      },
-      {
-        "number": 4994,
-        "title": "chore(deps): bump golang.org/x/crypto from 0.50.0 to 0.52.0",
-        "url": "https://github.com/celestiaorg/celestia-node/pull/4994",
-        "repo": "celestia-node",
-        "author": "dependabot",
-        "reviewer": "mcrakhman",
-        "requestedAt": "2026-05-11T17:18:16Z"
       },
       {
         "number": 5011,
@@ -261,13 +271,13 @@
         "requestedAt": "2025-12-12T13:47:27Z"
       },
       {
-        "number": 5000,
-        "title": "chore(deps): bump codecov/codecov-action from 6.0.0 to 6.0.1 in the patch-updates group",
-        "url": "https://github.com/celestiaorg/celestia-node/pull/5000",
+        "number": 5013,
+        "title": "chore(deps): bump the patch-updates group across 1 directory with 3 updates",
+        "url": "https://github.com/celestiaorg/celestia-node/pull/5013",
         "repo": "celestia-node",
         "author": "dependabot",
         "reviewer": "vgonkivs",
-        "requestedAt": "2026-05-18T20:09:32Z"
+        "requestedAt": "2026-05-25T16:42:49Z"
       }
     ],
     "evan-forbes": [
@@ -306,6 +316,15 @@
         "author": "dependabot",
         "reviewer": "evan-forbes",
         "requestedAt": "2026-05-25T14:44:46Z"
+      },
+      {
+        "number": 5015,
+        "title": "chore(deps): bump golang.org/x/crypto from 0.50.0 to 0.52.0",
+        "url": "https://github.com/celestiaorg/celestia-node/pull/5015",
+        "repo": "celestia-node",
+        "author": "dependabot",
+        "reviewer": "evan-forbes",
+        "requestedAt": "2026-05-25T16:50:16Z"
       },
       {
         "number": 326,
@@ -422,5 +441,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-05-25T16:31:44.831Z"
+  "fetchedAt": "2026-05-25T17:16:53.189Z"
 }
