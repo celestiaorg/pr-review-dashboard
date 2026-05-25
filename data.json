@@ -3,15 +3,6 @@
     "rootulp": [],
     "ninabarbakadze": [
       {
-        "number": 7287,
-        "title": "chore(talis): update default `fibre-accounts` and `encoder-fibre-accounts` to 1",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7287",
-        "repo": "celestia-app",
-        "author": "rach-id",
-        "reviewer": "ninabarbakadze",
-        "requestedAt": "2026-05-25T07:04:10Z"
-      },
-      {
         "number": 3060,
         "title": "fix(propagation): guard GetProposal against nil compact block",
         "url": "https://github.com/celestiaorg/celestia-core/pull/3060",
@@ -114,15 +105,6 @@
         "author": "rach-id",
         "reviewer": "vgonkivs",
         "requestedAt": "2026-05-20T18:00:41Z"
-      },
-      {
-        "number": 7287,
-        "title": "chore(talis): update default `fibre-accounts` and `encoder-fibre-accounts` to 1",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7287",
-        "repo": "celestia-app",
-        "author": "rach-id",
-        "reviewer": "vgonkivs",
-        "requestedAt": "2026-05-25T06:37:08Z"
       },
       {
         "number": 4232,
@@ -277,5 +259,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-05-25T12:22:15.127Z"
+  "fetchedAt": "2026-05-25T13:38:15.391Z"
 }
