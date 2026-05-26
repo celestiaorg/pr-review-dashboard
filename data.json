@@ -160,6 +160,15 @@
         "requestedAt": "2026-04-20T12:34:13Z"
       },
       {
+        "number": 262,
+        "title": "chore(deps): bump tspascoal/get-user-teams-membership from 4.0.1 to 4.0.2",
+        "url": "https://github.com/celestiaorg/go-square/pull/262",
+        "repo": "go-square",
+        "author": "dependabot",
+        "reviewer": "mcrakhman",
+        "requestedAt": "2026-05-26T01:06:28Z"
+      },
+      {
         "number": 884,
         "title": "feat(node)!: switch sample and row requests to shrex",
         "url": "https://github.com/celestiaorg/lumina/pull/884",
@@ -268,6 +277,15 @@
         "author": "dependabot",
         "reviewer": "vgonkivs",
         "requestedAt": "2026-05-25T16:42:49Z"
+      },
+      {
+        "number": 263,
+        "title": "chore(deps): bump golangci/golangci-lint-action from 9.2.0 to 9.2.1",
+        "url": "https://github.com/celestiaorg/go-square/pull/263",
+        "repo": "go-square",
+        "author": "dependabot",
+        "reviewer": "vgonkivs",
+        "requestedAt": "2026-05-26T01:06:34Z"
       }
     ],
     "evan-forbes": [
@@ -431,5 +449,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-05-26T00:02:28.344Z"
+  "fetchedAt": "2026-05-26T01:12:54.301Z"
 }
