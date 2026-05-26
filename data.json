@@ -22,6 +22,15 @@
     ],
     "ninabarbakadze": [
       {
+        "number": 7304,
+        "title": "fix(talis): retry GC instance creation across zones on stockout",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/7304",
+        "repo": "celestia-app",
+        "author": "rach-id",
+        "reviewer": "ninabarbakadze",
+        "requestedAt": "2026-05-26T15:47:38Z"
+      },
+      {
         "number": 3060,
         "title": "fix(propagation): guard GetProposal against nil compact block",
         "url": "https://github.com/celestiaorg/celestia-core/pull/3060",
@@ -281,6 +290,15 @@
         "requestedAt": "2026-05-25T14:56:18Z"
       },
       {
+        "number": 7304,
+        "title": "fix(talis): retry GC instance creation across zones on stockout",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/7304",
+        "repo": "celestia-app",
+        "author": "rach-id",
+        "reviewer": "evan-forbes",
+        "requestedAt": "2026-05-26T15:47:24Z"
+      },
+      {
         "number": 3065,
         "title": "build(deps): Bump github.com/go-git/go-git/v5 from 5.19.0 to 5.19.1",
         "url": "https://github.com/celestiaorg/celestia-core/pull/3065",
@@ -431,5 +449,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-05-26T14:35:04.899Z"
+  "fetchedAt": "2026-05-26T15:59:43.812Z"
 }
