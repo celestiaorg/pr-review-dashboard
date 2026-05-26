@@ -22,24 +22,6 @@
     ],
     "ninabarbakadze": [
       {
-        "number": 7294,
-        "title": "chore(deps): bump google.golang.org/api from 0.279.0 to 0.280.0",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7294",
-        "repo": "celestia-app",
-        "author": "dependabot",
-        "reviewer": "ninabarbakadze",
-        "requestedAt": "2026-05-25T14:52:10Z"
-      },
-      {
-        "number": 7299,
-        "title": "chore(deps): bump github.com/aws/aws-sdk-go-v2/service/ec2 from 1.302.0 to 1.304.0",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7299",
-        "repo": "celestia-app",
-        "author": "dependabot",
-        "reviewer": "ninabarbakadze",
-        "requestedAt": "2026-05-25T14:55:01Z"
-      },
-      {
         "number": 3060,
         "title": "fix(propagation): guard GetProposal against nil compact block",
         "url": "https://github.com/celestiaorg/celestia-core/pull/3060",
@@ -47,42 +29,6 @@
         "author": "SAY-5",
         "reviewer": "ninabarbakadze",
         "requestedAt": "2026-05-21T19:38:41Z"
-      },
-      {
-        "number": 3064,
-        "title": "build(deps): Bump docker/build-push-action from 7.1.0 to 7.2.0",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3064",
-        "repo": "celestia-core",
-        "author": "dependabot",
-        "reviewer": "ninabarbakadze",
-        "requestedAt": "2026-05-25T14:44:34Z"
-      },
-      {
-        "number": 3069,
-        "title": "build(deps): Bump golang.org/x/net from 0.54.0 to 0.55.0",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3069",
-        "repo": "celestia-core",
-        "author": "dependabot",
-        "reviewer": "ninabarbakadze",
-        "requestedAt": "2026-05-25T14:48:27Z"
-      },
-      {
-        "number": 5014,
-        "title": "chore(deps): bump github.com/libp2p/go-libp2p-kad-dht from 0.39.1 to 0.40.0",
-        "url": "https://github.com/celestiaorg/celestia-node/pull/5014",
-        "repo": "celestia-node",
-        "author": "dependabot",
-        "reviewer": "ninabarbakadze",
-        "requestedAt": "2026-05-25T16:50:11Z"
-      },
-      {
-        "number": 5017,
-        "title": "fix(swamp): fix TestArchivalBlobSync",
-        "url": "https://github.com/celestiaorg/celestia-node/pull/5017",
-        "repo": "celestia-node",
-        "author": "vgonkivs",
-        "reviewer": "ninabarbakadze",
-        "requestedAt": "2026-05-26T07:21:48Z"
       }
     ],
     "rach-id": [],
@@ -392,7 +338,7 @@
       },
       {
         "number": 5018,
-        "title": "core: multi-source block ingestion for the bridge listener",
+        "title": "feat(core): multi-source block ingestion for the bridge listener",
         "url": "https://github.com/celestiaorg/celestia-node/pull/5018",
         "repo": "celestia-node",
         "author": "vgonkivs",
@@ -430,7 +376,7 @@
       },
       {
         "number": 5018,
-        "title": "core: multi-source block ingestion for the bridge listener",
+        "title": "feat(core): multi-source block ingestion for the bridge listener",
         "url": "https://github.com/celestiaorg/celestia-node/pull/5018",
         "repo": "celestia-node",
         "author": "vgonkivs",
@@ -485,5 +431,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-05-26T10:15:16.780Z"
+  "fetchedAt": "2026-05-26T13:36:11.801Z"
 }
