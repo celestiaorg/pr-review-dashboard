@@ -74,6 +74,15 @@
         "author": "dependabot",
         "reviewer": "ninabarbakadze",
         "requestedAt": "2026-05-25T16:50:11Z"
+      },
+      {
+        "number": 5017,
+        "title": "fix(swamp): fix TestArchivalBlobSync",
+        "url": "https://github.com/celestiaorg/celestia-node/pull/5017",
+        "repo": "celestia-node",
+        "author": "vgonkivs",
+        "reviewer": "ninabarbakadze",
+        "requestedAt": "2026-05-26T07:21:48Z"
       }
     ],
     "rach-id": [],
@@ -458,5 +467,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-05-26T06:16:03.358Z"
+  "fetchedAt": "2026-05-26T07:34:16.997Z"
 }
