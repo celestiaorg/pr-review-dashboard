@@ -1,37 +1,8 @@
 {
   "reviews": {
     "rootulp": [],
-    "ninabarbakadze": [
-      {
-        "number": 7304,
-        "title": "fix(talis): retry GC instance creation across zones on stockout",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7304",
-        "repo": "celestia-app",
-        "author": "rach-id",
-        "reviewer": "ninabarbakadze",
-        "requestedAt": "2026-05-26T15:47:38Z"
-      },
-      {
-        "number": 3060,
-        "title": "fix(propagation): guard GetProposal against nil compact block",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3060",
-        "repo": "celestia-core",
-        "author": "SAY-5",
-        "reviewer": "ninabarbakadze",
-        "requestedAt": "2026-05-21T19:38:41Z"
-      }
-    ],
-    "rach-id": [
-      {
-        "number": 7305,
-        "title": "test: add integration test for min-retain-blocks pruning",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7305",
-        "repo": "celestia-app",
-        "author": "rootulp",
-        "reviewer": "rach-id",
-        "requestedAt": "2026-05-26T23:55:07Z"
-      }
-    ],
+    "ninabarbakadze": [],
+    "rach-id": [],
     "mcrakhman": [
       {
         "number": 7271,
@@ -50,33 +21,6 @@
         "author": "Wondertan",
         "reviewer": "mcrakhman",
         "requestedAt": "2026-05-19T15:46:39Z"
-      },
-      {
-        "number": 7302,
-        "title": "chore: remove `dependabot-tidy` GitHub Actions workflow",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7302",
-        "repo": "celestia-app",
-        "author": "rach-id",
-        "reviewer": "mcrakhman",
-        "requestedAt": "2026-05-25T15:14:16Z"
-      },
-      {
-        "number": 3062,
-        "title": "build(deps): Bump docker/setup-buildx-action from 4.0.0 to 4.1.0",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3062",
-        "repo": "celestia-core",
-        "author": "dependabot",
-        "reviewer": "mcrakhman",
-        "requestedAt": "2026-05-25T14:44:27Z"
-      },
-      {
-        "number": 3067,
-        "title": "build(deps): Bump golang.org/x/crypto from 0.51.0 to 0.52.0",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3067",
-        "repo": "celestia-core",
-        "author": "dependabot",
-        "reviewer": "mcrakhman",
-        "requestedAt": "2026-05-25T14:46:36Z"
       },
       {
         "number": 4980,
@@ -135,15 +79,6 @@
     ],
     "vgonkivs": [
       {
-        "number": 7285,
-        "title": "feat: add blockstore compaction command",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7285",
-        "repo": "celestia-app",
-        "author": "rach-id",
-        "reviewer": "vgonkivs",
-        "requestedAt": "2026-05-20T18:00:41Z"
-      },
-      {
         "number": 7293,
         "title": "chore(deps): bump github.com/aws/aws-sdk-go-v2/credentials from 1.19.16 to 1.19.17",
         "url": "https://github.com/celestiaorg/celestia-app/pull/7293",
@@ -160,24 +95,6 @@
         "author": "dependabot",
         "reviewer": "vgonkivs",
         "requestedAt": "2026-05-25T14:53:44Z"
-      },
-      {
-        "number": 3063,
-        "title": "build(deps): Bump docker/login-action from 4.1.0 to 4.2.0",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3063",
-        "repo": "celestia-core",
-        "author": "dependabot",
-        "reviewer": "vgonkivs",
-        "requestedAt": "2026-05-25T14:44:30Z"
-      },
-      {
-        "number": 3068,
-        "title": "build(deps): Bump github.com/aws/aws-sdk-go-v2/config from 1.32.17 to 1.32.18",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3068",
-        "repo": "celestia-core",
-        "author": "dependabot",
-        "reviewer": "vgonkivs",
-        "requestedAt": "2026-05-25T14:48:21Z"
       },
       {
         "number": 4232,
@@ -225,33 +142,6 @@
         "author": "dependabot",
         "reviewer": "evan-forbes",
         "requestedAt": "2026-05-25T14:53:27Z"
-      },
-      {
-        "number": 7300,
-        "title": "chore(deps): bump github.com/aws/aws-sdk-go-v2/config from 1.32.17 to 1.32.18",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7300",
-        "repo": "celestia-app",
-        "author": "dependabot",
-        "reviewer": "evan-forbes",
-        "requestedAt": "2026-05-25T14:56:18Z"
-      },
-      {
-        "number": 7304,
-        "title": "fix(talis): retry GC instance creation across zones on stockout",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7304",
-        "repo": "celestia-app",
-        "author": "rach-id",
-        "reviewer": "evan-forbes",
-        "requestedAt": "2026-05-26T15:47:24Z"
-      },
-      {
-        "number": 3065,
-        "title": "build(deps): Bump github.com/go-git/go-git/v5 from 5.19.0 to 5.19.1",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3065",
-        "repo": "celestia-core",
-        "author": "dependabot",
-        "reviewer": "evan-forbes",
-        "requestedAt": "2026-05-25T14:44:46Z"
       },
       {
         "number": 5015,
@@ -386,5 +276,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-05-27T03:30:30.597Z"
+  "fetchedAt": "2026-05-27T05:03:07.125Z"
 }
