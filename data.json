@@ -2,7 +2,17 @@
   "reviews": {
     "rootulp": [],
     "ninabarbakadze": [],
-    "rach-id": [],
+    "rach-id": [
+      {
+        "number": 7303,
+        "title": "fix(test): set HOME for simapp container in IBC e2e",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/7303",
+        "repo": "celestia-app",
+        "author": "ninabarbakadze",
+        "reviewer": "rach-id",
+        "requestedAt": "2026-05-26T14:03:35Z"
+      }
+    ],
     "mcrakhman": [
       {
         "number": 7271,
@@ -173,13 +183,13 @@
         "requestedAt": "2025-10-07T18:59:09Z"
       },
       {
-        "number": 4990,
-        "title": "feat(blob): restore additive Subscribe and add SubscribeFromStartHeight",
-        "url": "https://github.com/celestiaorg/celestia-node/pull/4990",
+        "number": 5011,
+        "title": "mics(metrics): add metrics to improve observability",
+        "url": "https://github.com/celestiaorg/celestia-node/pull/5011",
         "repo": "celestia-node",
-        "author": "ninabarbakadze",
+        "author": "vgonkivs",
         "reviewer": "walldiss",
-        "requestedAt": "2026-05-14T13:19:24Z"
+        "requestedAt": "2026-05-27T09:36:11Z"
       },
       {
         "number": 5018,
@@ -276,5 +286,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-05-27T09:25:42.622Z"
+  "fetchedAt": "2026-05-27T10:48:33.195Z"
 }
