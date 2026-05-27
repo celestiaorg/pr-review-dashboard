@@ -2,36 +2,8 @@
   "reviews": {
     "rootulp": [],
     "ninabarbakadze": [],
-    "rach-id": [
-      {
-        "number": 7303,
-        "title": "fix(test): set HOME for simapp container in IBC e2e",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7303",
-        "repo": "celestia-app",
-        "author": "ninabarbakadze",
-        "reviewer": "rach-id",
-        "requestedAt": "2026-05-26T14:03:35Z"
-      }
-    ],
+    "rach-id": [],
     "mcrakhman": [
-      {
-        "number": 7271,
-        "title": "feat(rsema1d): `Reconstructor`",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7271",
-        "repo": "celestia-app",
-        "author": "Wondertan",
-        "reviewer": "mcrakhman",
-        "requestedAt": "2026-05-18T16:58:45Z"
-      },
-      {
-        "number": 7283,
-        "title": "refactor(fibre)!: accelerate reads",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7283",
-        "repo": "celestia-app",
-        "author": "Wondertan",
-        "reviewer": "mcrakhman",
-        "requestedAt": "2026-05-19T15:46:39Z"
-      },
       {
         "number": 4980,
         "title": "chore(deps): bump tspascoal/get-user-teams-membership from 3.0.0 to 4.0.1",
@@ -49,6 +21,15 @@
         "author": "vgonkivs",
         "reviewer": "mcrakhman",
         "requestedAt": "2026-05-22T12:12:51Z"
+      },
+      {
+        "number": 5018,
+        "title": "feat(core): multi-source block ingestion for the bridge listener",
+        "url": "https://github.com/celestiaorg/celestia-node/pull/5018",
+        "repo": "celestia-node",
+        "author": "vgonkivs",
+        "reviewer": "mcrakhman",
+        "requestedAt": "2026-05-27T15:14:28Z"
       },
       {
         "number": 145,
@@ -165,6 +146,15 @@
     ],
     "walldiss": [
       {
+        "number": 7283,
+        "title": "refactor(fibre)!: accelerate reads",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/7283",
+        "repo": "celestia-app",
+        "author": "Wondertan",
+        "reviewer": "walldiss",
+        "requestedAt": "2026-05-27T15:12:31Z"
+      },
+      {
         "number": 4232,
         "title": "feat(nodebuilder): generate and persist Node ID and JWT secret during init",
         "url": "https://github.com/celestiaorg/celestia-node/pull/4232",
@@ -228,15 +218,6 @@
         "author": "renaynay",
         "reviewer": "Wondertan",
         "requestedAt": "2025-12-12T13:47:27Z"
-      },
-      {
-        "number": 5018,
-        "title": "feat(core): multi-source block ingestion for the bridge listener",
-        "url": "https://github.com/celestiaorg/celestia-node/pull/5018",
-        "repo": "celestia-node",
-        "author": "vgonkivs",
-        "reviewer": "Wondertan",
-        "requestedAt": "2026-05-26T09:58:48Z"
       }
     ]
   },
@@ -286,5 +267,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-05-27T14:37:51.473Z"
+  "fetchedAt": "2026-05-27T16:04:07.339Z"
 }
