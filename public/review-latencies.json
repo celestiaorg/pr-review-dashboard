@@ -2,36 +2,36 @@
   "latencies": {
     "rootulp": {
       "week": {
-        "n": 0,
-        "medianHours": null,
-        "p90Hours": null
+        "n": 1,
+        "medianHours": 30.35527777777778,
+        "p90Hours": 30.35527777777778
       },
       "month": {
-        "n": 10,
+        "n": 11,
         "medianHours": 4.645833333333333,
-        "p90Hours": 49.154444444444444
+        "p90Hours": 36.79611111111111
       },
       "year": {
-        "n": 163,
-        "medianHours": 3.6341666666666668,
+        "n": 164,
+        "medianHours": 3.6766666666666667,
         "p90Hours": 36.657222222222224
       }
     },
     "ninabarbakadze": {
       "week": {
-        "n": 3,
-        "medianHours": 0.9288888888888889,
-        "p90Hours": 5.6530555555555555
+        "n": 8,
+        "medianHours": 21.16638888888889,
+        "p90Hours": 21.370833333333334
       },
       "month": {
-        "n": 23,
-        "medianHours": 7.548611111111111,
+        "n": 28,
+        "medianHours": 10.818333333333333,
         "p90Hours": 49.39277777777778
       },
       "year": {
-        "n": 217,
-        "medianHours": 8.774722222222222,
-        "p90Hours": 57.10861111111111
+        "n": 222,
+        "medianHours": 9.8975,
+        "p90Hours": 56.1975
       }
     },
     "rach-id": {
@@ -179,7 +179,7 @@
       "defaultHidden": true
     }
   ],
-  "computedAt": "2026-05-26T00:24:49.095Z",
+  "computedAt": "2026-05-27T00:26:30.480Z",
   "windows": {
     "weekStart": "2026-05-25T00:00:00.000Z",
     "monthStart": "2026-05-01T00:00:00.000Z",
