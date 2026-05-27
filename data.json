@@ -2,7 +2,17 @@
   "reviews": {
     "rootulp": [],
     "ninabarbakadze": [],
-    "rach-id": [],
+    "rach-id": [
+      {
+        "number": 324,
+        "title": "fix: validate root format in empty-range proof path of VerifyNamespace",
+        "url": "https://github.com/celestiaorg/nmt/pull/324",
+        "repo": "nmt",
+        "author": "evan-forbes",
+        "reviewer": "rach-id",
+        "requestedAt": "2026-05-27T21:58:40Z"
+      }
+    ],
     "mcrakhman": [
       {
         "number": 4980,
@@ -30,42 +40,6 @@
         "author": "vgonkivs",
         "reviewer": "mcrakhman",
         "requestedAt": "2026-05-27T15:14:28Z"
-      },
-      {
-        "number": 145,
-        "title": "chore(deps): bump go.opentelemetry.io/otel/metric from 1.36.0 to 1.43.0",
-        "url": "https://github.com/celestiaorg/go-fraud/pull/145",
-        "repo": "go-fraud",
-        "author": "dependabot",
-        "reviewer": "mcrakhman",
-        "requestedAt": "2026-04-20T12:34:13Z"
-      },
-      {
-        "number": 884,
-        "title": "feat(node)!: switch sample and row requests to shrex",
-        "url": "https://github.com/celestiaorg/lumina/pull/884",
-        "repo": "lumina",
-        "author": "zvolin",
-        "reviewer": "mcrakhman",
-        "requestedAt": "2026-02-06T11:07:52Z"
-      },
-      {
-        "number": 974,
-        "title": "feat(client): expose get_tx on StateApi for reading submitted transactions",
-        "url": "https://github.com/celestiaorg/lumina/pull/974",
-        "repo": "lumina",
-        "author": "proofmancer",
-        "reviewer": "mcrakhman",
-        "requestedAt": "2026-05-23T18:11:54Z"
-      },
-      {
-        "number": 324,
-        "title": "fix: validate root format in empty-range proof path of VerifyNamespace",
-        "url": "https://github.com/celestiaorg/nmt/pull/324",
-        "repo": "nmt",
-        "author": "evan-forbes",
-        "reviewer": "mcrakhman",
-        "requestedAt": "2026-05-22T20:40:45Z"
       }
     ],
     "vgonkivs": [
@@ -267,5 +241,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-05-27T21:17:51.373Z"
+  "fetchedAt": "2026-05-27T22:05:41.801Z"
 }
