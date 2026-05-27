@@ -1,14 +1,14 @@
 {
   "counts": {
     "rootulp": {
-      "week": 0,
-      "month": 53,
-      "year": 358
+      "week": 13,
+      "month": 66,
+      "year": 371
     },
     "ninabarbakadze": {
-      "week": 3,
-      "month": 41,
-      "year": 334
+      "week": 9,
+      "month": 47,
+      "year": 340
     },
     "rach-id": {
       "week": 8,
@@ -41,7 +41,7 @@
       "year": 69
     }
   },
-  "computedAt": "2026-05-26T00:24:08.303Z",
+  "computedAt": "2026-05-27T00:25:43.335Z",
   "windows": {
     "weekStart": "2026-05-25T00:00:00.000Z",
     "monthStart": "2026-05-01T00:00:00.000Z",
