@@ -21,7 +21,17 @@
         "requestedAt": "2026-05-21T19:38:41Z"
       }
     ],
-    "rach-id": [],
+    "rach-id": [
+      {
+        "number": 7305,
+        "title": "test: add integration test for min-retain-blocks pruning",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/7305",
+        "repo": "celestia-app",
+        "author": "rootulp",
+        "reviewer": "rach-id",
+        "requestedAt": "2026-05-26T23:55:07Z"
+      }
+    ],
     "mcrakhman": [
       {
         "number": 7271,
@@ -40,24 +50,6 @@
         "author": "Wondertan",
         "reviewer": "mcrakhman",
         "requestedAt": "2026-05-19T15:46:39Z"
-      },
-      {
-        "number": 7292,
-        "title": "chore(deps): bump codecov/codecov-action from 6.0.0 to 6.0.1",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7292",
-        "repo": "celestia-app",
-        "author": "dependabot",
-        "reviewer": "mcrakhman",
-        "requestedAt": "2026-05-25T14:50:50Z"
-      },
-      {
-        "number": 7297,
-        "title": "chore(deps): bump github.com/digitalocean/godo from 1.191.0 to 1.192.0",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7297",
-        "repo": "celestia-app",
-        "author": "dependabot",
-        "reviewer": "mcrakhman",
-        "requestedAt": "2026-05-25T14:53:35Z"
       },
       {
         "number": 7302,
@@ -112,15 +104,6 @@
         "author": "dependabot",
         "reviewer": "mcrakhman",
         "requestedAt": "2026-04-20T12:34:13Z"
-      },
-      {
-        "number": 262,
-        "title": "chore(deps): bump tspascoal/get-user-teams-membership from 4.0.1 to 4.0.2",
-        "url": "https://github.com/celestiaorg/go-square/pull/262",
-        "repo": "go-square",
-        "author": "dependabot",
-        "reviewer": "mcrakhman",
-        "requestedAt": "2026-05-26T01:06:28Z"
       },
       {
         "number": 884,
@@ -231,15 +214,6 @@
         "author": "dependabot",
         "reviewer": "vgonkivs",
         "requestedAt": "2026-05-25T16:42:49Z"
-      },
-      {
-        "number": 263,
-        "title": "chore(deps): bump golangci/golangci-lint-action from 9.2.0 to 9.2.1",
-        "url": "https://github.com/celestiaorg/go-square/pull/263",
-        "repo": "go-square",
-        "author": "dependabot",
-        "reviewer": "vgonkivs",
-        "requestedAt": "2026-05-26T01:06:34Z"
       }
     ],
     "evan-forbes": [
@@ -287,15 +261,6 @@
         "author": "dependabot",
         "reviewer": "evan-forbes",
         "requestedAt": "2026-05-25T16:50:16Z"
-      },
-      {
-        "number": 326,
-        "title": "chore(deps): bump golangci/golangci-lint-action from 9.2.0 to 9.2.1",
-        "url": "https://github.com/celestiaorg/nmt/pull/326",
-        "repo": "nmt",
-        "author": "dependabot",
-        "reviewer": "evan-forbes",
-        "requestedAt": "2026-05-22T21:03:55Z"
       }
     ],
     "walldiss": [
@@ -421,5 +386,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-05-26T23:49:25.096Z"
+  "fetchedAt": "2026-05-27T00:16:56.483Z"
 }
