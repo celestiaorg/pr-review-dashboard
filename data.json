@@ -1,6 +1,16 @@
 {
   "reviews": {
-    "rootulp": [],
+    "rootulp": [
+      {
+        "number": 7309,
+        "title": "test(app): tolerate GetTx race in TestStandardSDK assert messages",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/7309",
+        "repo": "celestia-app",
+        "author": "walldiss",
+        "reviewer": "rootulp",
+        "requestedAt": "2026-05-28T17:12:37Z"
+      }
+    ],
     "ninabarbakadze": [
       {
         "number": 7221,
@@ -12,8 +22,27 @@
         "requestedAt": "2026-05-28T16:54:56Z"
       }
     ],
-    "rach-id": [],
+    "rach-id": [
+      {
+        "number": 7191,
+        "title": "perf(fibre): zero-allocation gRPC marshal path for UploadShardRequest",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/7191",
+        "repo": "celestia-app",
+        "author": "walldiss",
+        "reviewer": "rach-id",
+        "requestedAt": "2026-05-28T17:36:27Z"
+      }
+    ],
     "mcrakhman": [
+      {
+        "number": 7221,
+        "title": "feat(fibre-reader): add reading simulator + talis Reader instance type",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/7221",
+        "repo": "celestia-app",
+        "author": "walldiss",
+        "reviewer": "mcrakhman",
+        "requestedAt": "2026-05-28T17:10:23Z"
+      },
       {
         "number": 4980,
         "title": "chore(deps): bump tspascoal/get-user-teams-membership from 3.0.0 to 4.0.1",
@@ -118,6 +147,15 @@
     ],
     "evan-forbes": [
       {
+        "number": 7309,
+        "title": "test(app): tolerate GetTx race in TestStandardSDK assert messages",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/7309",
+        "repo": "celestia-app",
+        "author": "walldiss",
+        "reviewer": "evan-forbes",
+        "requestedAt": "2026-05-28T17:11:49Z"
+      },
+      {
         "number": 5015,
         "title": "chore(deps): bump golang.org/x/crypto from 0.50.0 to 0.52.0",
         "url": "https://github.com/celestiaorg/celestia-node/pull/5015",
@@ -166,6 +204,15 @@
       }
     ],
     "Wondertan": [
+      {
+        "number": 7191,
+        "title": "perf(fibre): zero-allocation gRPC marshal path for UploadShardRequest",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/7191",
+        "repo": "celestia-app",
+        "author": "walldiss",
+        "reviewer": "Wondertan",
+        "requestedAt": "2026-05-28T17:36:41Z"
+      },
       {
         "number": 4232,
         "title": "feat(nodebuilder): generate and persist Node ID and JWT secret during init",
@@ -241,5 +288,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-05-28T16:57:24.850Z"
+  "fetchedAt": "2026-05-28T18:05:24.564Z"
 }
