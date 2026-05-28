@@ -1,16 +1,6 @@
 {
   "reviews": {
-    "rootulp": [
-      {
-        "number": 7309,
-        "title": "test(app): tolerate GetTx race in TestStandardSDK assert messages",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7309",
-        "repo": "celestia-app",
-        "author": "walldiss",
-        "reviewer": "rootulp",
-        "requestedAt": "2026-05-28T17:12:37Z"
-      }
-    ],
+    "rootulp": [],
     "ninabarbakadze": [
       {
         "number": 7221,
@@ -147,15 +137,6 @@
     ],
     "evan-forbes": [
       {
-        "number": 7309,
-        "title": "test(app): tolerate GetTx race in TestStandardSDK assert messages",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7309",
-        "repo": "celestia-app",
-        "author": "walldiss",
-        "reviewer": "evan-forbes",
-        "requestedAt": "2026-05-28T17:11:49Z"
-      },
-      {
         "number": 5015,
         "title": "chore(deps): bump golang.org/x/crypto from 0.50.0 to 0.52.0",
         "url": "https://github.com/celestiaorg/celestia-node/pull/5015",
@@ -288,5 +269,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-05-28T19:58:34.545Z"
+  "fetchedAt": "2026-05-28T20:55:09.437Z"
 }
