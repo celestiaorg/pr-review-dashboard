@@ -1,18 +1,19 @@
 {
   "reviews": {
     "rootulp": [],
-    "ninabarbakadze": [],
+    "ninabarbakadze": [
+      {
+        "number": 7221,
+        "title": "feat(fibre-reader): add reading simulator + talis Reader instance type",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/7221",
+        "repo": "celestia-app",
+        "author": "walldiss",
+        "reviewer": "ninabarbakadze",
+        "requestedAt": "2026-05-28T16:54:56Z"
+      }
+    ],
     "rach-id": [],
     "mcrakhman": [
-      {
-        "number": 7307,
-        "title": "chore: bump the embedded v8 binary version",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7307",
-        "repo": "celestia-app",
-        "author": "ninabarbakadze",
-        "reviewer": "mcrakhman",
-        "requestedAt": "2026-05-28T13:06:05Z"
-      },
       {
         "number": 4980,
         "title": "chore(deps): bump tspascoal/get-user-teams-membership from 3.0.0 to 4.0.1",
@@ -128,15 +129,6 @@
     ],
     "walldiss": [
       {
-        "number": 7283,
-        "title": "refactor(fibre)!: accelerate reads",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7283",
-        "repo": "celestia-app",
-        "author": "Wondertan",
-        "reviewer": "walldiss",
-        "requestedAt": "2026-05-27T15:12:31Z"
-      },
-      {
         "number": 4232,
         "title": "feat(nodebuilder): generate and persist Node ID and JWT secret during init",
         "url": "https://github.com/celestiaorg/celestia-node/pull/4232",
@@ -249,5 +241,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-05-28T15:33:48.449Z"
+  "fetchedAt": "2026-05-28T16:57:24.850Z"
 }
