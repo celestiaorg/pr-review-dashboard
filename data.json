@@ -34,15 +34,6 @@
         "requestedAt": "2026-05-28T17:10:23Z"
       },
       {
-        "number": 7311,
-        "title": "fix(e2e): set HOME for simapp container so IBC tests pass with tastora v0.20.0",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7311",
-        "repo": "celestia-app",
-        "author": "rootulp",
-        "reviewer": "mcrakhman",
-        "requestedAt": "2026-05-28T21:30:20Z"
-      },
-      {
         "number": 4980,
         "title": "chore(deps): bump tspascoal/get-user-teams-membership from 3.0.0 to 4.0.1",
         "url": "https://github.com/celestiaorg/celestia-node/pull/4980",
@@ -278,5 +269,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-05-28T21:37:55.245Z"
+  "fetchedAt": "2026-05-28T22:18:00.561Z"
 }
