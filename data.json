@@ -80,15 +80,6 @@
         "requestedAt": "2026-05-25T14:52:01Z"
       },
       {
-        "number": 7298,
-        "title": "chore(deps): bump golang.org/x/crypto from 0.50.0 to 0.52.0",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7298",
-        "repo": "celestia-app",
-        "author": "dependabot",
-        "reviewer": "vgonkivs",
-        "requestedAt": "2026-05-25T14:53:44Z"
-      },
-      {
         "number": 4232,
         "title": "feat(nodebuilder): generate and persist Node ID and JWT secret during init",
         "url": "https://github.com/celestiaorg/celestia-node/pull/4232",
@@ -268,5 +259,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-05-28T00:08:29.222Z"
+  "fetchedAt": "2026-05-28T01:10:12.361Z"
 }

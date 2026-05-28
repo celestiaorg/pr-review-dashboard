@@ -11,9 +11,9 @@
       "year": 340
     },
     "rach-id": {
-      "week": 8,
-      "month": 35,
-      "year": 401
+      "week": 17,
+      "month": 44,
+      "year": 410
     },
     "mcrakhman": {
       "week": 0,
@@ -36,12 +36,12 @@
       "year": 113
     },
     "Wondertan": {
-      "week": 0,
-      "month": 9,
-      "year": 69
+      "week": 1,
+      "month": 10,
+      "year": 70
     }
   },
-  "computedAt": "2026-05-27T00:25:43.335Z",
+  "computedAt": "2026-05-28T00:23:51.534Z",
   "windows": {
     "weekStart": "2026-05-25T00:00:00.000Z",
     "monthStart": "2026-05-01T00:00:00.000Z",
