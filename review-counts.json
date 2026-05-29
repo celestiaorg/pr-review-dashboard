@@ -1,19 +1,19 @@
 {
   "counts": {
     "rootulp": {
-      "week": 13,
-      "month": 66,
-      "year": 371
+      "week": 14,
+      "month": 67,
+      "year": 372
     },
     "ninabarbakadze": {
-      "week": 9,
-      "month": 47,
-      "year": 340
+      "week": 10,
+      "month": 48,
+      "year": 341
     },
     "rach-id": {
-      "week": 17,
-      "month": 44,
-      "year": 410
+      "week": 21,
+      "month": 48,
+      "year": 414
     },
     "mcrakhman": {
       "week": 0,
@@ -36,12 +36,12 @@
       "year": 113
     },
     "Wondertan": {
-      "week": 1,
-      "month": 10,
-      "year": 70
+      "week": 2,
+      "month": 11,
+      "year": 71
     }
   },
-  "computedAt": "2026-05-28T00:23:51.534Z",
+  "computedAt": "2026-05-29T00:27:19.784Z",
   "windows": {
     "weekStart": "2026-05-25T00:00:00.000Z",
     "monthStart": "2026-05-01T00:00:00.000Z",
