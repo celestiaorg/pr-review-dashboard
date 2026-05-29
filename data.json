@@ -12,17 +12,7 @@
         "requestedAt": "2026-05-28T16:54:56Z"
       }
     ],
-    "rach-id": [
-      {
-        "number": 7191,
-        "title": "perf(fibre): zero-allocation gRPC marshal path for UploadShardRequest",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7191",
-        "repo": "celestia-app",
-        "author": "walldiss",
-        "reviewer": "rach-id",
-        "requestedAt": "2026-05-28T17:36:27Z"
-      }
-    ],
+    "rach-id": [],
     "mcrakhman": [
       {
         "number": 7221,
@@ -97,6 +87,15 @@
         "author": "dependabot",
         "reviewer": "vgonkivs",
         "requestedAt": "2026-05-25T14:52:01Z"
+      },
+      {
+        "number": 7312,
+        "title": "chore: bump the embedded v8 binary version (backport #7307)",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/7312",
+        "repo": "celestia-app",
+        "author": "mergify",
+        "reviewer": "vgonkivs",
+        "requestedAt": "2026-05-29T07:28:12Z"
       },
       {
         "number": 4232,
@@ -269,5 +268,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-05-29T06:32:05.401Z"
+  "fetchedAt": "2026-05-29T07:56:13.089Z"
 }
