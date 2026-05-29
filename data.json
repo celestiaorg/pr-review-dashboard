@@ -98,6 +98,15 @@
         "requestedAt": "2026-05-25T14:52:01Z"
       },
       {
+        "number": 7316,
+        "title": "refactor(rsema1d): prune deprecated API",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/7316",
+        "repo": "celestia-app",
+        "author": "Wondertan",
+        "reviewer": "vgonkivs",
+        "requestedAt": "2026-05-29T18:18:23Z"
+      },
+      {
         "number": 4232,
         "title": "feat(nodebuilder): generate and persist Node ID and JWT secret during init",
         "url": "https://github.com/celestiaorg/celestia-node/pull/4232",
@@ -268,5 +277,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-05-29T17:38:24.550Z"
+  "fetchedAt": "2026-05-29T18:35:23.430Z"
 }
