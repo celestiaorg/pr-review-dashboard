@@ -21,6 +21,15 @@
         "author": "Wondertan",
         "reviewer": "rach-id",
         "requestedAt": "2026-05-29T18:53:50Z"
+      },
+      {
+        "number": 7317,
+        "title": "fix(test): reduce TestSyncToTipMocha nightly flakiness",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/7317",
+        "repo": "celestia-app",
+        "author": "rootulp",
+        "reviewer": "rach-id",
+        "requestedAt": "2026-05-29T23:08:42Z"
       }
     ],
     "mcrakhman": [
@@ -151,6 +160,15 @@
         "author": "dependabot",
         "reviewer": "vgonkivs",
         "requestedAt": "2026-05-25T16:42:49Z"
+      },
+      {
+        "number": 5020,
+        "title": "fix(shwap): bind sample coordinate in Sample.Verify",
+        "url": "https://github.com/celestiaorg/celestia-node/pull/5020",
+        "repo": "celestia-node",
+        "author": "rootulp",
+        "reviewer": "vgonkivs",
+        "requestedAt": "2026-05-29T23:29:42Z"
       }
     ],
     "evan-forbes": [
@@ -162,6 +180,15 @@
         "author": "dependabot",
         "reviewer": "evan-forbes",
         "requestedAt": "2026-05-25T16:50:16Z"
+      },
+      {
+        "number": 327,
+        "title": "chore(deps): bump celestiaorg/.github from 0.6.4 to 0.6.5",
+        "url": "https://github.com/celestiaorg/nmt/pull/327",
+        "repo": "nmt",
+        "author": "dependabot",
+        "reviewer": "evan-forbes",
+        "requestedAt": "2026-05-29T23:08:27Z"
       }
     ],
     "walldiss": [
@@ -287,5 +314,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-05-29T22:59:11.846Z"
+  "fetchedAt": "2026-05-29T23:36:49.978Z"
 }
