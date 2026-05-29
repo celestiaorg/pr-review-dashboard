@@ -12,7 +12,17 @@
         "requestedAt": "2026-05-28T16:54:56Z"
       }
     ],
-    "rach-id": [],
+    "rach-id": [
+      {
+        "number": 7314,
+        "title": "chore(ci): bump celestiaorg/.github to v0.6.5",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/7314",
+        "repo": "celestia-app",
+        "author": "rootulp",
+        "reviewer": "rach-id",
+        "requestedAt": "2026-05-29T13:45:03Z"
+      }
+    ],
     "mcrakhman": [
       {
         "number": 7221,
@@ -87,15 +97,6 @@
         "author": "dependabot",
         "reviewer": "vgonkivs",
         "requestedAt": "2026-05-25T14:52:01Z"
-      },
-      {
-        "number": 7312,
-        "title": "chore: bump the embedded v8 binary version (backport #7307)",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7312",
-        "repo": "celestia-app",
-        "author": "mergify",
-        "reviewer": "vgonkivs",
-        "requestedAt": "2026-05-29T07:28:12Z"
       },
       {
         "number": 4232,
@@ -268,5 +269,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-05-29T12:47:24.587Z"
+  "fetchedAt": "2026-05-29T13:51:56.227Z"
 }
