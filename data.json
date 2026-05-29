@@ -14,13 +14,13 @@
     ],
     "rach-id": [
       {
-        "number": 7314,
-        "title": "chore(ci): bump celestiaorg/.github to v0.6.5",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7314",
+        "number": 7315,
+        "title": "refactor(rsema1d): extract rlc subpackage and tighten primitive layering",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/7315",
         "repo": "celestia-app",
-        "author": "rootulp",
+        "author": "Wondertan",
         "reviewer": "rach-id",
-        "requestedAt": "2026-05-29T13:45:03Z"
+        "requestedAt": "2026-05-29T14:49:59Z"
       }
     ],
     "mcrakhman": [
@@ -269,5 +269,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-05-29T13:51:56.227Z"
+  "fetchedAt": "2026-05-29T14:57:12.080Z"
 }
