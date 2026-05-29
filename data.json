@@ -61,6 +61,15 @@
         "requestedAt": "2026-05-27T15:14:28Z"
       },
       {
+        "number": 5019,
+        "title": "share: add RowsWithNamespace tests",
+        "url": "https://github.com/celestiaorg/celestia-node/pull/5019",
+        "repo": "celestia-node",
+        "author": "sueun-dev",
+        "reviewer": "mcrakhman",
+        "requestedAt": "2026-05-29T16:19:19Z"
+      },
+      {
         "number": 145,
         "title": "chore(deps): bump go.opentelemetry.io/otel/metric from 1.36.0 to 1.43.0",
         "url": "https://github.com/celestiaorg/go-fraud/pull/145",
@@ -269,5 +278,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-05-29T14:57:12.080Z"
+  "fetchedAt": "2026-05-29T16:21:23.449Z"
 }
