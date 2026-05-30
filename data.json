@@ -14,6 +14,15 @@
     ],
     "rach-id": [
       {
+        "number": 435,
+        "title": "chore: Bump celestiaorg/.github from 0.6.4 to 0.6.5",
+        "url": "https://github.com/celestiaorg/blobstream-contracts/pull/435",
+        "repo": "blobstream-contracts",
+        "author": "dependabot",
+        "reviewer": "rach-id",
+        "requestedAt": "2026-05-30T00:49:43Z"
+      },
+      {
         "number": 7315,
         "title": "refactor(rsema1d): extract rlc subpackage and tighten primitive layering",
         "url": "https://github.com/celestiaorg/celestia-app/pull/7315",
@@ -314,5 +323,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-05-30T00:04:17.638Z"
+  "fetchedAt": "2026-05-30T01:13:23.133Z"
 }
