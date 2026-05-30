@@ -12,26 +12,7 @@
         "requestedAt": "2026-05-28T16:54:56Z"
       }
     ],
-    "rach-id": [
-      {
-        "number": 435,
-        "title": "chore: Bump celestiaorg/.github from 0.6.4 to 0.6.5",
-        "url": "https://github.com/celestiaorg/blobstream-contracts/pull/435",
-        "repo": "blobstream-contracts",
-        "author": "dependabot",
-        "reviewer": "rach-id",
-        "requestedAt": "2026-05-30T00:49:43Z"
-      },
-      {
-        "number": 7317,
-        "title": "fix(test): reduce TestSyncToTipMocha nightly flakiness",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7317",
-        "repo": "celestia-app",
-        "author": "rootulp",
-        "reviewer": "rach-id",
-        "requestedAt": "2026-05-29T23:08:42Z"
-      }
-    ],
+    "rach-id": [],
     "mcrakhman": [
       {
         "number": 7221,
@@ -314,5 +295,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-05-30T12:03:50.054Z"
+  "fetchedAt": "2026-05-30T12:39:47.687Z"
 }
