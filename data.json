@@ -23,15 +23,6 @@
         "requestedAt": "2026-05-30T00:49:43Z"
       },
       {
-        "number": 7315,
-        "title": "refactor(rsema1d): extract rlc subpackage and tighten primitive layering",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7315",
-        "repo": "celestia-app",
-        "author": "Wondertan",
-        "reviewer": "rach-id",
-        "requestedAt": "2026-05-29T18:53:50Z"
-      },
-      {
         "number": 7317,
         "title": "fix(test): reduce TestSyncToTipMocha nightly flakiness",
         "url": "https://github.com/celestiaorg/celestia-app/pull/7317",
@@ -323,5 +314,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-05-30T11:36:50.550Z"
+  "fetchedAt": "2026-05-30T12:03:50.054Z"
 }
