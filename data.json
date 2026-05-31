@@ -155,15 +155,6 @@
     ],
     "evan-forbes": [
       {
-        "number": 7322,
-        "title": "chore(talis): remove persistent peers to avoid creating a direct connected network",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7322",
-        "repo": "celestia-app",
-        "author": "rach-id",
-        "reviewer": "evan-forbes",
-        "requestedAt": "2026-05-31T07:12:57Z"
-      },
-      {
         "number": 5015,
         "title": "chore(deps): bump golang.org/x/crypto from 0.50.0 to 0.52.0",
         "url": "https://github.com/celestiaorg/celestia-node/pull/5015",
@@ -314,5 +305,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-05-31T14:21:16.663Z"
+  "fetchedAt": "2026-05-31T14:58:02.142Z"
 }
