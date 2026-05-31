@@ -151,15 +151,6 @@
         "author": "dependabot",
         "reviewer": "vgonkivs",
         "requestedAt": "2026-05-25T16:42:49Z"
-      },
-      {
-        "number": 5020,
-        "title": "fix(shwap): bind sample coordinate in Sample.Verify",
-        "url": "https://github.com/celestiaorg/celestia-node/pull/5020",
-        "repo": "celestia-node",
-        "author": "rootulp",
-        "reviewer": "vgonkivs",
-        "requestedAt": "2026-05-29T23:29:42Z"
       }
     ],
     "evan-forbes": [
@@ -323,5 +314,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-05-31T11:56:33.511Z"
+  "fetchedAt": "2026-05-31T12:34:30.988Z"
 }
