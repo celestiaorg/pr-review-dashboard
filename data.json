@@ -12,17 +12,7 @@
         "requestedAt": "2026-05-28T16:54:56Z"
       }
     ],
-    "rach-id": [
-      {
-        "number": 7321,
-        "title": "refactor(rsema1d)!: make merkle proofs alloc-free and prune padding",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7321",
-        "repo": "celestia-app",
-        "author": "Wondertan",
-        "reviewer": "rach-id",
-        "requestedAt": "2026-05-31T02:08:57Z"
-      }
-    ],
+    "rach-id": [],
     "mcrakhman": [
       {
         "number": 7221,
@@ -151,6 +141,15 @@
         "author": "dependabot",
         "reviewer": "vgonkivs",
         "requestedAt": "2026-05-25T16:42:49Z"
+      },
+      {
+        "number": 5021,
+        "title": "fix(shwap/bitswap): release hasher mutex on error path",
+        "url": "https://github.com/celestiaorg/celestia-node/pull/5021",
+        "repo": "celestia-node",
+        "author": "rootulp",
+        "reviewer": "vgonkivs",
+        "requestedAt": "2026-06-01T03:51:24Z"
       }
     ],
     "evan-forbes": [
@@ -305,5 +304,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-06-01T03:49:17.489Z"
+  "fetchedAt": "2026-06-01T05:30:06.409Z"
 }
