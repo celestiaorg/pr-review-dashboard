@@ -10,9 +10,28 @@
         "author": "walldiss",
         "reviewer": "ninabarbakadze",
         "requestedAt": "2026-05-28T16:54:56Z"
+      },
+      {
+        "number": 412,
+        "title": "docs: fix incorrect comment on dataSquare",
+        "url": "https://github.com/celestiaorg/rsmt2d/pull/412",
+        "repo": "rsmt2d",
+        "author": "rootulp",
+        "reviewer": "ninabarbakadze",
+        "requestedAt": "2026-06-01T18:14:48Z"
       }
     ],
-    "rach-id": [],
+    "rach-id": [
+      {
+        "number": 413,
+        "title": "test: add regression test for crossword orthogonal-vector verification",
+        "url": "https://github.com/celestiaorg/rsmt2d/pull/413",
+        "repo": "rsmt2d",
+        "author": "rootulp",
+        "reviewer": "rach-id",
+        "requestedAt": "2026-06-01T18:42:15Z"
+      }
+    ],
     "mcrakhman": [
       {
         "number": 7221,
@@ -114,6 +133,15 @@
         "author": "Wondertan",
         "reviewer": "vgonkivs",
         "requestedAt": "2026-05-31T02:05:17Z"
+      },
+      {
+        "number": 7328,
+        "title": "chore: bump celestia-core to v0.40.4",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/7328",
+        "repo": "celestia-app",
+        "author": "ninabarbakadze",
+        "reviewer": "vgonkivs",
+        "requestedAt": "2026-06-01T16:29:36Z"
       },
       {
         "number": 4232,
@@ -295,5 +323,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-06-01T17:05:50.432Z"
+  "fetchedAt": "2026-06-01T19:04:12.893Z"
 }
