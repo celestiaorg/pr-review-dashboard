@@ -141,15 +141,6 @@
         "author": "dependabot",
         "reviewer": "vgonkivs",
         "requestedAt": "2026-05-25T16:42:49Z"
-      },
-      {
-        "number": 5021,
-        "title": "fix(shwap/bitswap): release hasher mutex on error path",
-        "url": "https://github.com/celestiaorg/celestia-node/pull/5021",
-        "repo": "celestia-node",
-        "author": "rootulp",
-        "reviewer": "vgonkivs",
-        "requestedAt": "2026-06-01T03:51:24Z"
       }
     ],
     "evan-forbes": [
@@ -173,15 +164,6 @@
       }
     ],
     "walldiss": [
-      {
-        "number": 7321,
-        "title": "refactor(rsema1d)!: make merkle proofs alloc-free and prune padding",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7321",
-        "repo": "celestia-app",
-        "author": "Wondertan",
-        "reviewer": "walldiss",
-        "requestedAt": "2026-05-31T02:09:05Z"
-      },
       {
         "number": 4232,
         "title": "feat(nodebuilder): generate and persist Node ID and JWT secret during init",
@@ -304,5 +286,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-06-01T07:18:41.233Z"
+  "fetchedAt": "2026-06-01T09:08:23.380Z"
 }
