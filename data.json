@@ -60,6 +60,15 @@
         "requestedAt": "2026-05-29T16:19:19Z"
       },
       {
+        "number": 5022,
+        "title": "chore: bump app to v9.0.0-mocha",
+        "url": "https://github.com/celestiaorg/celestia-node/pull/5022",
+        "repo": "celestia-node",
+        "author": "ninabarbakadze",
+        "reviewer": "mcrakhman",
+        "requestedAt": "2026-06-01T10:46:29Z"
+      },
+      {
         "number": 145,
         "title": "chore(deps): bump go.opentelemetry.io/otel/metric from 1.36.0 to 1.43.0",
         "url": "https://github.com/celestiaorg/go-fraud/pull/145",
@@ -286,5 +295,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-06-01T09:08:23.380Z"
+  "fetchedAt": "2026-06-01T10:58:43.369Z"
 }
