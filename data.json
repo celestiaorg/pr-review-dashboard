@@ -23,6 +23,15 @@
     ],
     "rach-id": [
       {
+        "number": 7329,
+        "title": "docs: update dependency forks table for v0.40.x and v9",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/7329",
+        "repo": "celestia-app",
+        "author": "rootulp",
+        "reviewer": "rach-id",
+        "requestedAt": "2026-06-01T21:56:06Z"
+      },
+      {
         "number": 413,
         "title": "test: add regression test for crossword orthogonal-vector verification",
         "url": "https://github.com/celestiaorg/rsmt2d/pull/413",
@@ -323,5 +332,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-06-01T21:47:28.243Z"
+  "fetchedAt": "2026-06-01T22:38:22.502Z"
 }
