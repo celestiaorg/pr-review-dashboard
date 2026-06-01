@@ -1,6 +1,16 @@
 {
   "reviews": {
-    "rootulp": [],
+    "rootulp": [
+      {
+        "number": 3077,
+        "title": "chore: backport comet refactor",
+        "url": "https://github.com/celestiaorg/celestia-core/pull/3077",
+        "repo": "celestia-core",
+        "author": "evan-forbes",
+        "reviewer": "rootulp",
+        "requestedAt": "2026-06-01T23:32:58Z"
+      }
+    ],
     "ninabarbakadze": [
       {
         "number": 7221,
@@ -10,6 +20,15 @@
         "author": "walldiss",
         "reviewer": "ninabarbakadze",
         "requestedAt": "2026-05-28T16:54:56Z"
+      },
+      {
+        "number": 3077,
+        "title": "chore: backport comet refactor",
+        "url": "https://github.com/celestiaorg/celestia-core/pull/3077",
+        "repo": "celestia-core",
+        "author": "evan-forbes",
+        "reviewer": "ninabarbakadze",
+        "requestedAt": "2026-06-01T23:32:58Z"
       },
       {
         "number": 412,
@@ -30,6 +49,15 @@
         "author": "rootulp",
         "reviewer": "rach-id",
         "requestedAt": "2026-06-01T21:56:06Z"
+      },
+      {
+        "number": 3077,
+        "title": "chore: backport comet refactor",
+        "url": "https://github.com/celestiaorg/celestia-core/pull/3077",
+        "repo": "celestia-core",
+        "author": "evan-forbes",
+        "reviewer": "rach-id",
+        "requestedAt": "2026-06-01T23:32:58Z"
       },
       {
         "number": 413,
@@ -154,7 +182,7 @@
       },
       {
         "number": 3077,
-        "title": "fix(state): correct BFT block time median ordering and bound future block time",
+        "title": "chore: backport comet refactor",
         "url": "https://github.com/celestiaorg/celestia-core/pull/3077",
         "repo": "celestia-core",
         "author": "evan-forbes",
@@ -341,5 +369,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-06-01T23:14:53.916Z"
+  "fetchedAt": "2026-06-01T23:47:07.652Z"
 }
