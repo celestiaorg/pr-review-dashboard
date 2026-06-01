@@ -10,15 +10,6 @@
         "author": "walldiss",
         "reviewer": "ninabarbakadze",
         "requestedAt": "2026-05-28T16:54:56Z"
-      },
-      {
-        "number": 3073,
-        "title": "feat(store): log progress while pruning a large block backlog",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3073",
-        "repo": "celestia-core",
-        "author": "rach-id",
-        "reviewer": "ninabarbakadze",
-        "requestedAt": "2026-06-01T14:31:12Z"
       }
     ],
     "rach-id": [],
@@ -304,5 +295,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-06-01T15:14:58.740Z"
+  "fetchedAt": "2026-06-01T17:05:50.432Z"
 }
