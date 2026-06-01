@@ -2,14 +2,14 @@
   "latencies": {
     "rootulp": {
       "week": {
-        "n": 2,
-        "medianHours": 30.35527777777778,
-        "p90Hours": 30.35527777777778
+        "n": 0,
+        "medianHours": null,
+        "p90Hours": null
       },
       "month": {
-        "n": 12,
-        "medianHours": 4.645833333333333,
-        "p90Hours": 36.79611111111111
+        "n": 0,
+        "medianHours": null,
+        "p90Hours": null
       },
       "year": {
         "n": 165,
@@ -19,14 +19,14 @@
     },
     "ninabarbakadze": {
       "week": {
-        "n": 8,
-        "medianHours": 21.16638888888889,
-        "p90Hours": 21.370833333333334
+        "n": 0,
+        "medianHours": null,
+        "p90Hours": null
       },
       "month": {
-        "n": 28,
-        "medianHours": 10.818333333333333,
-        "p90Hours": 49.39277777777778
+        "n": 0,
+        "medianHours": null,
+        "p90Hours": null
       },
       "year": {
         "n": 222,
@@ -36,14 +36,14 @@
     },
     "rach-id": {
       "week": {
-        "n": 18,
-        "medianHours": 0.8236111111111111,
-        "p90Hours": 25.157222222222224
+        "n": 0,
+        "medianHours": null,
+        "p90Hours": null
       },
       "month": {
-        "n": 32,
-        "medianHours": 3.6641666666666666,
-        "p90Hours": 25.157222222222224
+        "n": 0,
+        "medianHours": null,
+        "p90Hours": null
       },
       "year": {
         "n": 319,
@@ -58,9 +58,9 @@
         "p90Hours": null
       },
       "month": {
-        "n": 4,
-        "medianHours": 6.545833333333333,
-        "p90Hours": 447.57416666666666
+        "n": 0,
+        "medianHours": null,
+        "p90Hours": null
       },
       "year": {
         "n": 40,
@@ -70,14 +70,14 @@
     },
     "vgonkivs": {
       "week": {
-        "n": 1,
-        "medianHours": 259.80555555555554,
-        "p90Hours": 259.80555555555554
+        "n": 0,
+        "medianHours": null,
+        "p90Hours": null
       },
       "month": {
-        "n": 4,
-        "medianHours": 259.80555555555554,
-        "p90Hours": 1636.1025
+        "n": 0,
+        "medianHours": null,
+        "p90Hours": null
       },
       "year": {
         "n": 36,
@@ -92,14 +92,14 @@
         "p90Hours": null
       },
       "month": {
-        "n": 21,
-        "medianHours": 54.23305555555555,
-        "p90Hours": 145.37166666666667
+        "n": 0,
+        "medianHours": null,
+        "p90Hours": null
       },
       "year": {
-        "n": 80,
-        "medianHours": 8.630277777777778,
-        "p90Hours": 108.07444444444444
+        "n": 81,
+        "medianHours": 8.3975,
+        "p90Hours": 90.62222222222222
       }
     },
     "walldiss": {
@@ -109,9 +109,9 @@
         "p90Hours": null
       },
       "month": {
-        "n": 6,
-        "medianHours": 29.1275,
-        "p90Hours": 93.79638888888888
+        "n": 0,
+        "medianHours": null,
+        "p90Hours": null
       },
       "year": {
         "n": 53,
@@ -126,9 +126,9 @@
         "p90Hours": null
       },
       "month": {
-        "n": 2,
-        "medianHours": 7.635,
-        "p90Hours": 7.635
+        "n": 0,
+        "medianHours": null,
+        "p90Hours": null
       },
       "year": {
         "n": 25,
@@ -179,10 +179,10 @@
       "defaultHidden": true
     }
   ],
-  "computedAt": "2026-05-31T00:26:21.564Z",
+  "computedAt": "2026-06-01T00:26:50.414Z",
   "windows": {
-    "weekStart": "2026-05-25T00:00:00.000Z",
-    "monthStart": "2026-05-01T00:00:00.000Z",
+    "weekStart": "2026-06-01T00:00:00.000Z",
+    "monthStart": "2026-06-01T00:00:00.000Z",
     "yearStart": "2026-01-01T00:00:00.000Z"
   }
 }
