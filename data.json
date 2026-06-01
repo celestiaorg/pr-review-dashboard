@@ -153,6 +153,15 @@
         "requestedAt": "2026-06-01T16:29:36Z"
       },
       {
+        "number": 3077,
+        "title": "fix(state): correct BFT block time median ordering and bound future block time",
+        "url": "https://github.com/celestiaorg/celestia-core/pull/3077",
+        "repo": "celestia-core",
+        "author": "evan-forbes",
+        "reviewer": "vgonkivs",
+        "requestedAt": "2026-06-01T23:12:59Z"
+      },
+      {
         "number": 4232,
         "title": "feat(nodebuilder): generate and persist Node ID and JWT secret during init",
         "url": "https://github.com/celestiaorg/celestia-node/pull/4232",
@@ -332,5 +341,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-06-01T22:38:22.502Z"
+  "fetchedAt": "2026-06-01T23:14:53.916Z"
 }
