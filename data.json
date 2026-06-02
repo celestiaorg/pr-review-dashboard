@@ -12,6 +12,15 @@
         "requestedAt": "2026-05-28T16:54:56Z"
       },
       {
+        "number": 7345,
+        "title": "fix: retry tx query to avoid flaky \"tx not found\" in integration tests",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/7345",
+        "repo": "celestia-app",
+        "author": "chatton",
+        "reviewer": "ninabarbakadze",
+        "requestedAt": "2026-06-02T12:16:30Z"
+      },
+      {
         "number": 3086,
         "title": "build(deps): Bump github.com/aws/aws-sdk-go-v2/credentials from 1.19.17 to 1.19.19",
         "url": "https://github.com/celestiaorg/celestia-core/pull/3086",
@@ -439,5 +448,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-06-02T11:42:27.442Z"
+  "fetchedAt": "2026-06-02T12:56:14.806Z"
 }
