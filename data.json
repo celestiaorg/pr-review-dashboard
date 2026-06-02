@@ -39,15 +39,6 @@
         "requestedAt": "2026-06-02T07:59:15Z"
       },
       {
-        "number": 5028,
-        "title": "chore(deps): bump go.opentelemetry.io/otel from 1.43.0 to 1.44.0",
-        "url": "https://github.com/celestiaorg/celestia-node/pull/5028",
-        "repo": "celestia-node",
-        "author": "dependabot",
-        "reviewer": "ninabarbakadze",
-        "requestedAt": "2026-06-02T08:20:42Z"
-      },
-      {
         "number": 412,
         "title": "docs: fix incorrect comment on dataSquare",
         "url": "https://github.com/celestiaorg/rsmt2d/pull/412",
@@ -57,17 +48,7 @@
         "requestedAt": "2026-06-01T18:14:48Z"
       }
     ],
-    "rach-id": [
-      {
-        "number": 5029,
-        "title": "chore(deps): bump go.opentelemetry.io/contrib/bridges/prometheus from 0.68.0 to 0.69.0",
-        "url": "https://github.com/celestiaorg/celestia-node/pull/5029",
-        "repo": "celestia-node",
-        "author": "dependabot",
-        "reviewer": "rach-id",
-        "requestedAt": "2026-06-02T08:20:53Z"
-      }
-    ],
+    "rach-id": [],
     "mcrakhman": [
       {
         "number": 7221,
@@ -133,15 +114,6 @@
         "requestedAt": "2026-05-22T12:12:51Z"
       },
       {
-        "number": 5018,
-        "title": "feat(core): multi-source block ingestion for the bridge listener",
-        "url": "https://github.com/celestiaorg/celestia-node/pull/5018",
-        "repo": "celestia-node",
-        "author": "vgonkivs",
-        "reviewer": "mcrakhman",
-        "requestedAt": "2026-05-27T15:14:28Z"
-      },
-      {
         "number": 5019,
         "title": "share: add RowsWithNamespace tests",
         "url": "https://github.com/celestiaorg/celestia-node/pull/5019",
@@ -149,24 +121,6 @@
         "author": "sueun-dev",
         "reviewer": "mcrakhman",
         "requestedAt": "2026-05-29T16:19:19Z"
-      },
-      {
-        "number": 5022,
-        "title": "chore: bump app to v9.0.0-mocha",
-        "url": "https://github.com/celestiaorg/celestia-node/pull/5022",
-        "repo": "celestia-node",
-        "author": "ninabarbakadze",
-        "reviewer": "mcrakhman",
-        "requestedAt": "2026-06-01T10:46:29Z"
-      },
-      {
-        "number": 5026,
-        "title": "chore(deps): bump go.opentelemetry.io/otel/metric from 1.43.0 to 1.44.0",
-        "url": "https://github.com/celestiaorg/celestia-node/pull/5026",
-        "repo": "celestia-node",
-        "author": "dependabot",
-        "reviewer": "mcrakhman",
-        "requestedAt": "2026-06-02T08:20:28Z"
       },
       {
         "number": 5031,
@@ -241,6 +195,15 @@
         "author": "dependabot",
         "reviewer": "vgonkivs",
         "requestedAt": "2026-06-02T04:44:00Z"
+      },
+      {
+        "number": 7344,
+        "title": "fix: replace MustGetFreePort with deterministic port allocation",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/7344",
+        "repo": "celestia-app",
+        "author": "chatton",
+        "reviewer": "vgonkivs",
+        "requestedAt": "2026-06-02T11:39:00Z"
       },
       {
         "number": 3090,
@@ -476,5 +439,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-06-02T10:07:58.100Z"
+  "fetchedAt": "2026-06-02T11:42:27.442Z"
 }
