@@ -9,6 +9,15 @@
         "author": "evan-forbes",
         "reviewer": "rootulp",
         "requestedAt": "2026-06-01T23:32:58Z"
+      },
+      {
+        "number": 3079,
+        "title": "chore: backport comet refactor (v0.39.x)",
+        "url": "https://github.com/celestiaorg/celestia-core/pull/3079",
+        "repo": "celestia-core",
+        "author": "evan-forbes",
+        "reviewer": "rootulp",
+        "requestedAt": "2026-06-01T23:57:18Z"
       }
     ],
     "ninabarbakadze": [
@@ -29,6 +38,24 @@
         "author": "evan-forbes",
         "reviewer": "ninabarbakadze",
         "requestedAt": "2026-06-01T23:32:58Z"
+      },
+      {
+        "number": 3078,
+        "title": "chore: backport comet refactor (v0.40.x)",
+        "url": "https://github.com/celestiaorg/celestia-core/pull/3078",
+        "repo": "celestia-core",
+        "author": "evan-forbes",
+        "reviewer": "ninabarbakadze",
+        "requestedAt": "2026-06-01T23:50:02Z"
+      },
+      {
+        "number": 3079,
+        "title": "chore: backport comet refactor (v0.39.x)",
+        "url": "https://github.com/celestiaorg/celestia-core/pull/3079",
+        "repo": "celestia-core",
+        "author": "evan-forbes",
+        "reviewer": "ninabarbakadze",
+        "requestedAt": "2026-06-01T23:57:18Z"
       },
       {
         "number": 412,
@@ -60,6 +87,15 @@
         "requestedAt": "2026-06-01T23:32:58Z"
       },
       {
+        "number": 3079,
+        "title": "chore: backport comet refactor (v0.39.x)",
+        "url": "https://github.com/celestiaorg/celestia-core/pull/3079",
+        "repo": "celestia-core",
+        "author": "evan-forbes",
+        "reviewer": "rach-id",
+        "requestedAt": "2026-06-01T23:52:27Z"
+      },
+      {
         "number": 413,
         "title": "test: add regression test for crossword orthogonal-vector verification",
         "url": "https://github.com/celestiaorg/rsmt2d/pull/413",
@@ -78,6 +114,15 @@
         "author": "walldiss",
         "reviewer": "mcrakhman",
         "requestedAt": "2026-05-28T17:10:23Z"
+      },
+      {
+        "number": 3079,
+        "title": "chore: backport comet refactor (v0.39.x)",
+        "url": "https://github.com/celestiaorg/celestia-core/pull/3079",
+        "repo": "celestia-core",
+        "author": "evan-forbes",
+        "reviewer": "mcrakhman",
+        "requestedAt": "2026-06-01T23:57:18Z"
       },
       {
         "number": 4980,
@@ -369,5 +414,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-06-01T23:47:07.652Z"
+  "fetchedAt": "2026-06-02T00:17:42.698Z"
 }
