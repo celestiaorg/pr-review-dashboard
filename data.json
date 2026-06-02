@@ -343,6 +343,15 @@
         "author": "vgonkivs",
         "reviewer": "walldiss",
         "requestedAt": "2026-05-26T09:58:48Z"
+      },
+      {
+        "number": 5033,
+        "title": "fix(shrex/server): raise per-peer service-scope limits for shrex server",
+        "url": "https://github.com/celestiaorg/celestia-node/pull/5033",
+        "repo": "celestia-node",
+        "author": "vgonkivs",
+        "reviewer": "walldiss",
+        "requestedAt": "2026-06-02T21:51:45Z"
       }
     ],
     "Wondertan": [
@@ -421,5 +430,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-06-02T21:12:19.474Z"
+  "fetchedAt": "2026-06-02T22:08:44.365Z"
 }
