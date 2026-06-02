@@ -12,15 +12,6 @@
         "requestedAt": "2026-05-28T16:54:56Z"
       },
       {
-        "number": 7339,
-        "title": "chore(deps): bump go.opentelemetry.io/otel/metric from 1.43.0 to 1.44.0",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7339",
-        "repo": "celestia-app",
-        "author": "dependabot",
-        "reviewer": "ninabarbakadze",
-        "requestedAt": "2026-06-02T04:41:11Z"
-      },
-      {
         "number": 3086,
         "title": "build(deps): Bump github.com/aws/aws-sdk-go-v2/credentials from 1.19.17 to 1.19.19",
         "url": "https://github.com/celestiaorg/celestia-core/pull/3086",
@@ -48,71 +39,7 @@
         "requestedAt": "2026-06-01T18:14:48Z"
       }
     ],
-    "rach-id": [
-      {
-        "number": 7335,
-        "title": "chore(deps): bump go.opentelemetry.io/contrib/bridges/prometheus from 0.68.0 to 0.69.0",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7335",
-        "repo": "celestia-app",
-        "author": "dependabot",
-        "reviewer": "rach-id",
-        "requestedAt": "2026-06-02T04:40:44Z"
-      },
-      {
-        "number": 7340,
-        "title": "chore(deps): bump github.com/grafana/otel-profiling-go from 0.5.1 to 0.5.3",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7340",
-        "repo": "celestia-app",
-        "author": "dependabot",
-        "reviewer": "rach-id",
-        "requestedAt": "2026-06-02T04:41:15Z"
-      },
-      {
-        "number": 3083,
-        "title": "fix(store): properly prune extended commits (backport #3080)",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3083",
-        "repo": "celestia-core",
-        "author": "mergify",
-        "reviewer": "rach-id",
-        "requestedAt": "2026-06-02T04:45:45Z"
-      },
-      {
-        "number": 3087,
-        "title": "build(deps): Bump github.com/grafana/pyroscope-go from 1.2.8 to 1.3.1",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3087",
-        "repo": "celestia-core",
-        "author": "dependabot",
-        "reviewer": "rach-id",
-        "requestedAt": "2026-06-02T04:35:38Z"
-      },
-      {
-        "number": 3092,
-        "title": "build(deps): Bump go.opentelemetry.io/otel/exporters/stdout/stdouttrace from 1.43.0 to 1.44.0",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3092",
-        "repo": "celestia-core",
-        "author": "dependabot",
-        "reviewer": "rach-id",
-        "requestedAt": "2026-06-02T04:38:37Z"
-      },
-      {
-        "number": 3094,
-        "title": "feat(consensus): precommit metrics (backport #3081)",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3094",
-        "repo": "celestia-core",
-        "author": "mergify",
-        "reviewer": "rach-id",
-        "requestedAt": "2026-06-02T04:44:54Z"
-      },
-      {
-        "number": 3095,
-        "title": "feat(consensus): precommit metrics (backport #3081)",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3095",
-        "repo": "celestia-core",
-        "author": "mergify",
-        "reviewer": "rach-id",
-        "requestedAt": "2026-06-02T04:45:12Z"
-      }
-    ],
+    "rach-id": [],
     "mcrakhman": [
       {
         "number": 7221,
@@ -270,15 +197,6 @@
         "requestedAt": "2026-06-02T04:44:00Z"
       },
       {
-        "number": 3085,
-        "title": "build(deps): Bump go.opentelemetry.io/otel from 1.43.0 to 1.44.0",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3085",
-        "repo": "celestia-core",
-        "author": "dependabot",
-        "reviewer": "vgonkivs",
-        "requestedAt": "2026-06-02T04:34:10Z"
-      },
-      {
         "number": 3090,
         "title": "build(deps): Bump github.com/grafana/otel-profiling-go from 0.5.1 to 0.5.3",
         "url": "https://github.com/celestiaorg/celestia-core/pull/3090",
@@ -351,15 +269,6 @@
         "author": "dependabot",
         "reviewer": "evan-forbes",
         "requestedAt": "2026-06-02T04:36:59Z"
-      },
-      {
-        "number": 3093,
-        "title": "build(deps): Bump go.opentelemetry.io/otel/sdk from 1.43.0 to 1.44.0",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3093",
-        "repo": "celestia-core",
-        "author": "dependabot",
-        "reviewer": "evan-forbes",
-        "requestedAt": "2026-06-02T04:38:42Z"
       },
       {
         "number": 5015,
@@ -503,5 +412,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-06-02T05:23:36.254Z"
+  "fetchedAt": "2026-06-02T07:00:44.338Z"
 }
