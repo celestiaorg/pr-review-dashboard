@@ -12,6 +12,33 @@
         "requestedAt": "2026-05-28T16:54:56Z"
       },
       {
+        "number": 7339,
+        "title": "chore(deps): bump go.opentelemetry.io/otel/metric from 1.43.0 to 1.44.0",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/7339",
+        "repo": "celestia-app",
+        "author": "dependabot",
+        "reviewer": "ninabarbakadze",
+        "requestedAt": "2026-06-02T04:41:11Z"
+      },
+      {
+        "number": 3086,
+        "title": "build(deps): Bump github.com/aws/aws-sdk-go-v2/credentials from 1.19.17 to 1.19.19",
+        "url": "https://github.com/celestiaorg/celestia-core/pull/3086",
+        "repo": "celestia-core",
+        "author": "dependabot",
+        "reviewer": "ninabarbakadze",
+        "requestedAt": "2026-06-02T04:35:32Z"
+      },
+      {
+        "number": 3091,
+        "title": "build(deps): Bump github.com/aws/aws-sdk-go-v2/service/s3 from 1.100.0 to 1.102.2",
+        "url": "https://github.com/celestiaorg/celestia-core/pull/3091",
+        "repo": "celestia-core",
+        "author": "dependabot",
+        "reviewer": "ninabarbakadze",
+        "requestedAt": "2026-06-02T04:38:30Z"
+      },
+      {
         "number": 412,
         "title": "docs: fix incorrect comment on dataSquare",
         "url": "https://github.com/celestiaorg/rsmt2d/pull/412",
@@ -23,13 +50,67 @@
     ],
     "rach-id": [
       {
-        "number": 413,
-        "title": "test: add regression test for crossword orthogonal-vector verification",
-        "url": "https://github.com/celestiaorg/rsmt2d/pull/413",
-        "repo": "rsmt2d",
-        "author": "rootulp",
+        "number": 7335,
+        "title": "chore(deps): bump go.opentelemetry.io/contrib/bridges/prometheus from 0.68.0 to 0.69.0",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/7335",
+        "repo": "celestia-app",
+        "author": "dependabot",
         "reviewer": "rach-id",
-        "requestedAt": "2026-06-01T18:42:15Z"
+        "requestedAt": "2026-06-02T04:40:44Z"
+      },
+      {
+        "number": 7340,
+        "title": "chore(deps): bump github.com/grafana/otel-profiling-go from 0.5.1 to 0.5.3",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/7340",
+        "repo": "celestia-app",
+        "author": "dependabot",
+        "reviewer": "rach-id",
+        "requestedAt": "2026-06-02T04:41:15Z"
+      },
+      {
+        "number": 3083,
+        "title": "fix(store): properly prune extended commits (backport #3080)",
+        "url": "https://github.com/celestiaorg/celestia-core/pull/3083",
+        "repo": "celestia-core",
+        "author": "mergify",
+        "reviewer": "rach-id",
+        "requestedAt": "2026-06-02T04:45:45Z"
+      },
+      {
+        "number": 3087,
+        "title": "build(deps): Bump github.com/grafana/pyroscope-go from 1.2.8 to 1.3.1",
+        "url": "https://github.com/celestiaorg/celestia-core/pull/3087",
+        "repo": "celestia-core",
+        "author": "dependabot",
+        "reviewer": "rach-id",
+        "requestedAt": "2026-06-02T04:35:38Z"
+      },
+      {
+        "number": 3092,
+        "title": "build(deps): Bump go.opentelemetry.io/otel/exporters/stdout/stdouttrace from 1.43.0 to 1.44.0",
+        "url": "https://github.com/celestiaorg/celestia-core/pull/3092",
+        "repo": "celestia-core",
+        "author": "dependabot",
+        "reviewer": "rach-id",
+        "requestedAt": "2026-06-02T04:38:37Z"
+      },
+      {
+        "number": 3094,
+        "title": "feat(consensus): precommit metrics (backport #3081)",
+        "url": "https://github.com/celestiaorg/celestia-core/pull/3094",
+        "repo": "celestia-core",
+        "author": "mergify",
+        "reviewer": "rach-id",
+        "requestedAt": "2026-06-02T04:44:54Z"
+      },
+      {
+        "number": 3095,
+        "title": "feat(consensus): precommit metrics (backport #3081)",
+        "url": "https://github.com/celestiaorg/celestia-core/pull/3095",
+        "repo": "celestia-core",
+        "author": "mergify",
+        "reviewer": "rach-id",
+        "requestedAt": "2026-06-02T04:45:12Z"
       }
     ],
     "mcrakhman": [
@@ -41,6 +122,42 @@
         "author": "walldiss",
         "reviewer": "mcrakhman",
         "requestedAt": "2026-05-28T17:10:23Z"
+      },
+      {
+        "number": 7337,
+        "title": "chore(deps): bump github.com/grafana/pyroscope-go from 1.3.0 to 1.3.1",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/7337",
+        "repo": "celestia-app",
+        "author": "dependabot",
+        "reviewer": "mcrakhman",
+        "requestedAt": "2026-06-02T04:40:58Z"
+      },
+      {
+        "number": 7342,
+        "title": "chore(deps): bump github.com/aws/aws-sdk-go-v2 from 1.41.7 to 1.41.9",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/7342",
+        "repo": "celestia-app",
+        "author": "dependabot",
+        "reviewer": "mcrakhman",
+        "requestedAt": "2026-06-02T04:43:52Z"
+      },
+      {
+        "number": 3084,
+        "title": "build(deps): Bump github.com/aws/aws-sdk-go-v2/config from 1.32.18 to 1.32.20",
+        "url": "https://github.com/celestiaorg/celestia-core/pull/3084",
+        "repo": "celestia-core",
+        "author": "dependabot",
+        "reviewer": "mcrakhman",
+        "requestedAt": "2026-06-02T04:34:01Z"
+      },
+      {
+        "number": 3089,
+        "title": "build(deps): Bump github.com/prometheus/common from 0.67.5 to 0.68.0",
+        "url": "https://github.com/celestiaorg/celestia-core/pull/3089",
+        "repo": "celestia-core",
+        "author": "dependabot",
+        "reviewer": "mcrakhman",
+        "requestedAt": "2026-06-02T04:37:04Z"
       },
       {
         "number": 4980,
@@ -117,15 +234,6 @@
     ],
     "vgonkivs": [
       {
-        "number": 7293,
-        "title": "chore(deps): bump github.com/aws/aws-sdk-go-v2/credentials from 1.19.16 to 1.19.17",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7293",
-        "repo": "celestia-app",
-        "author": "dependabot",
-        "reviewer": "vgonkivs",
-        "requestedAt": "2026-05-25T14:52:01Z"
-      },
-      {
         "number": 7320,
         "title": "refactor(fibre)!: cleanup fibre proto",
         "url": "https://github.com/celestiaorg/celestia-app/pull/7320",
@@ -135,13 +243,49 @@
         "requestedAt": "2026-05-31T02:05:17Z"
       },
       {
-        "number": 7328,
-        "title": "chore: bump celestia-core to v0.40.4",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7328",
+        "number": 7334,
+        "title": "chore(deps): bump nick-fields/retry from 3.0.2 to 4.0.0",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/7334",
         "repo": "celestia-app",
-        "author": "ninabarbakadze",
+        "author": "dependabot",
         "reviewer": "vgonkivs",
-        "requestedAt": "2026-06-01T16:29:36Z"
+        "requestedAt": "2026-06-02T04:40:19Z"
+      },
+      {
+        "number": 7338,
+        "title": "chore(deps): bump go.opentelemetry.io/contrib/instrumentation/google.golang.org/grpc/otelgrpc from 0.68.0 to 0.69.0",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/7338",
+        "repo": "celestia-app",
+        "author": "dependabot",
+        "reviewer": "vgonkivs",
+        "requestedAt": "2026-06-02T04:41:04Z"
+      },
+      {
+        "number": 7343,
+        "title": "chore(deps): bump go.opentelemetry.io/contrib/instrumentation/runtime from 0.68.0 to 0.69.0",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/7343",
+        "repo": "celestia-app",
+        "author": "dependabot",
+        "reviewer": "vgonkivs",
+        "requestedAt": "2026-06-02T04:44:00Z"
+      },
+      {
+        "number": 3085,
+        "title": "build(deps): Bump go.opentelemetry.io/otel from 1.43.0 to 1.44.0",
+        "url": "https://github.com/celestiaorg/celestia-core/pull/3085",
+        "repo": "celestia-core",
+        "author": "dependabot",
+        "reviewer": "vgonkivs",
+        "requestedAt": "2026-06-02T04:34:10Z"
+      },
+      {
+        "number": 3090,
+        "title": "build(deps): Bump github.com/grafana/otel-profiling-go from 0.5.1 to 0.5.3",
+        "url": "https://github.com/celestiaorg/celestia-core/pull/3090",
+        "repo": "celestia-core",
+        "author": "dependabot",
+        "reviewer": "vgonkivs",
+        "requestedAt": "2026-06-02T04:37:09Z"
       },
       {
         "number": 4232,
@@ -181,6 +325,42 @@
       }
     ],
     "evan-forbes": [
+      {
+        "number": 7336,
+        "title": "chore(deps): bump go.opentelemetry.io/otel/exporters/otlp/otlptrace/otlptracehttp from 1.43.0 to 1.44.0",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/7336",
+        "repo": "celestia-app",
+        "author": "dependabot",
+        "reviewer": "evan-forbes",
+        "requestedAt": "2026-06-02T04:40:52Z"
+      },
+      {
+        "number": 7341,
+        "title": "chore(deps): bump github.com/aws/aws-sdk-go-v2/config from 1.32.18 to 1.32.20",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/7341",
+        "repo": "celestia-app",
+        "author": "dependabot",
+        "reviewer": "evan-forbes",
+        "requestedAt": "2026-06-02T04:42:33Z"
+      },
+      {
+        "number": 3088,
+        "title": "build(deps): Bump github.com/aws/aws-sdk-go-v2 from 1.41.7 to 1.41.9",
+        "url": "https://github.com/celestiaorg/celestia-core/pull/3088",
+        "repo": "celestia-core",
+        "author": "dependabot",
+        "reviewer": "evan-forbes",
+        "requestedAt": "2026-06-02T04:36:59Z"
+      },
+      {
+        "number": 3093,
+        "title": "build(deps): Bump go.opentelemetry.io/otel/sdk from 1.43.0 to 1.44.0",
+        "url": "https://github.com/celestiaorg/celestia-core/pull/3093",
+        "repo": "celestia-core",
+        "author": "dependabot",
+        "reviewer": "evan-forbes",
+        "requestedAt": "2026-06-02T04:38:42Z"
+      },
       {
         "number": 5015,
         "title": "chore(deps): bump golang.org/x/crypto from 0.50.0 to 0.52.0",
@@ -323,5 +503,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-06-02T03:49:24.426Z"
+  "fetchedAt": "2026-06-02T05:23:36.254Z"
 }
