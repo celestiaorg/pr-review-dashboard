@@ -215,15 +215,6 @@
         "requestedAt": "2026-06-02T04:37:09Z"
       },
       {
-        "number": 4232,
-        "title": "feat(nodebuilder): generate and persist Node ID and JWT secret during init",
-        "url": "https://github.com/celestiaorg/celestia-node/pull/4232",
-        "repo": "celestia-node",
-        "author": "Himess",
-        "reviewer": "vgonkivs",
-        "requestedAt": "2025-04-22T14:23:16Z"
-      },
-      {
         "number": 4617,
         "title": "feat(api/client): add support for multiple endpoints with failover",
         "url": "https://github.com/celestiaorg/celestia-node/pull/4617",
@@ -327,15 +318,6 @@
     ],
     "walldiss": [
       {
-        "number": 4232,
-        "title": "feat(nodebuilder): generate and persist Node ID and JWT secret during init",
-        "url": "https://github.com/celestiaorg/celestia-node/pull/4232",
-        "repo": "celestia-node",
-        "author": "Himess",
-        "reviewer": "walldiss",
-        "requestedAt": "2025-04-22T14:23:16Z"
-      },
-      {
         "number": 4617,
         "title": "feat(api/client): add support for multiple endpoints with failover",
         "url": "https://github.com/celestiaorg/celestia-node/pull/4617",
@@ -372,15 +354,6 @@
         "author": "walldiss",
         "reviewer": "Wondertan",
         "requestedAt": "2026-05-28T17:36:41Z"
-      },
-      {
-        "number": 4232,
-        "title": "feat(nodebuilder): generate and persist Node ID and JWT secret during init",
-        "url": "https://github.com/celestiaorg/celestia-node/pull/4232",
-        "repo": "celestia-node",
-        "author": "Himess",
-        "reviewer": "Wondertan",
-        "requestedAt": "2025-04-22T14:23:16Z"
       },
       {
         "number": 4617,
@@ -448,5 +421,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-06-02T17:26:24.678Z"
+  "fetchedAt": "2026-06-02T18:46:48.402Z"
 }
