@@ -39,15 +39,6 @@
         "requestedAt": "2026-06-02T04:38:30Z"
       },
       {
-        "number": 5023,
-        "title": "chore(deps): bump the patch-updates group across 1 directory with 6 updates",
-        "url": "https://github.com/celestiaorg/celestia-node/pull/5023",
-        "repo": "celestia-node",
-        "author": "dependabot",
-        "reviewer": "ninabarbakadze",
-        "requestedAt": "2026-06-02T07:59:15Z"
-      },
-      {
         "number": 412,
         "title": "docs: fix incorrect comment on dataSquare",
         "url": "https://github.com/celestiaorg/rsmt2d/pull/412",
@@ -280,6 +271,15 @@
         "requestedAt": "2026-06-02T04:42:33Z"
       },
       {
+        "number": 7346,
+        "title": "fix: reduce race skip list",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/7346",
+        "repo": "celestia-app",
+        "author": "chatton",
+        "reviewer": "evan-forbes",
+        "requestedAt": "2026-06-02T14:23:02Z"
+      },
+      {
         "number": 3088,
         "title": "build(deps): Bump github.com/aws/aws-sdk-go-v2 from 1.41.7 to 1.41.9",
         "url": "https://github.com/celestiaorg/celestia-core/pull/3088",
@@ -448,5 +448,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-06-02T12:56:14.806Z"
+  "fetchedAt": "2026-06-02T14:28:20.464Z"
 }
