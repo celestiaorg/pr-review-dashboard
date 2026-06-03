@@ -39,17 +39,7 @@
         "requestedAt": "2026-06-01T18:14:48Z"
       }
     ],
-    "rach-id": [
-      {
-        "number": 7057,
-        "title": "test: add arabica load test for block time monitoring",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7057",
-        "repo": "celestia-app",
-        "author": "ninabarbakadze",
-        "reviewer": "rach-id",
-        "requestedAt": "2026-06-03T12:51:26Z"
-      }
-    ],
+    "rach-id": [],
     "mcrakhman": [
       {
         "number": 7221,
@@ -140,15 +130,6 @@
         "author": "dependabot",
         "reviewer": "mcrakhman",
         "requestedAt": "2026-04-20T12:34:13Z"
-      },
-      {
-        "number": 264,
-        "title": "chore(deps): bump celestiaorg/.github from 0.6.4 to 0.6.5",
-        "url": "https://github.com/celestiaorg/go-square/pull/264",
-        "repo": "go-square",
-        "author": "dependabot",
-        "reviewer": "mcrakhman",
-        "requestedAt": "2026-06-03T05:09:49Z"
       },
       {
         "number": 884,
@@ -449,5 +430,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-06-03T14:05:28.242Z"
+  "fetchedAt": "2026-06-03T15:47:57.945Z"
 }
