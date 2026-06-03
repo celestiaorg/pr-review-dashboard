@@ -12,15 +12,6 @@
         "requestedAt": "2026-05-28T16:54:56Z"
       },
       {
-        "number": 7345,
-        "title": "fix: retry tx query to avoid flaky \"tx not found\" in integration tests",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7345",
-        "repo": "celestia-app",
-        "author": "chatton",
-        "reviewer": "ninabarbakadze",
-        "requestedAt": "2026-06-02T12:16:30Z"
-      },
-      {
         "number": 3086,
         "title": "build(deps): Bump github.com/aws/aws-sdk-go-v2/credentials from 1.19.17 to 1.19.19",
         "url": "https://github.com/celestiaorg/celestia-core/pull/3086",
@@ -48,7 +39,17 @@
         "requestedAt": "2026-06-01T18:14:48Z"
       }
     ],
-    "rach-id": [],
+    "rach-id": [
+      {
+        "number": 7057,
+        "title": "test: add arabica load test for block time monitoring",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/7057",
+        "repo": "celestia-app",
+        "author": "ninabarbakadze",
+        "reviewer": "rach-id",
+        "requestedAt": "2026-06-03T12:51:26Z"
+      }
+    ],
     "mcrakhman": [
       {
         "number": 7221,
@@ -169,6 +170,15 @@
       }
     ],
     "vgonkivs": [
+      {
+        "number": 7057,
+        "title": "test: add arabica load test for block time monitoring",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/7057",
+        "repo": "celestia-app",
+        "author": "ninabarbakadze",
+        "reviewer": "vgonkivs",
+        "requestedAt": "2026-06-03T12:51:20Z"
+      },
       {
         "number": 7320,
         "title": "refactor(fibre)!: cleanup fibre proto",
@@ -439,5 +449,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-06-03T12:22:36.365Z"
+  "fetchedAt": "2026-06-03T14:05:28.242Z"
 }
