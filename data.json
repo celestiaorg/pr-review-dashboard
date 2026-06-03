@@ -262,15 +262,6 @@
         "requestedAt": "2026-06-02T04:42:33Z"
       },
       {
-        "number": 7346,
-        "title": "fix: reduce race skip list",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7346",
-        "repo": "celestia-app",
-        "author": "chatton",
-        "reviewer": "evan-forbes",
-        "requestedAt": "2026-06-02T14:23:02Z"
-      },
-      {
         "number": 3088,
         "title": "build(deps): Bump github.com/aws/aws-sdk-go-v2 from 1.41.7 to 1.41.9",
         "url": "https://github.com/celestiaorg/celestia-core/pull/3088",
@@ -430,5 +421,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-06-03T15:47:57.945Z"
+  "fetchedAt": "2026-06-03T17:31:47.126Z"
 }
