@@ -141,6 +141,15 @@
         "requestedAt": "2026-04-20T12:34:13Z"
       },
       {
+        "number": 264,
+        "title": "chore(deps): bump celestiaorg/.github from 0.6.4 to 0.6.5",
+        "url": "https://github.com/celestiaorg/go-square/pull/264",
+        "repo": "go-square",
+        "author": "dependabot",
+        "reviewer": "mcrakhman",
+        "requestedAt": "2026-06-03T05:09:49Z"
+      },
+      {
         "number": 884,
         "title": "feat(node)!: switch sample and row requests to shrex",
         "url": "https://github.com/celestiaorg/lumina/pull/884",
@@ -430,5 +439,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-06-03T03:47:30.664Z"
+  "fetchedAt": "2026-06-03T05:30:11.569Z"
 }
