@@ -78,15 +78,6 @@
         "requestedAt": "2026-06-02T04:37:04Z"
       },
       {
-        "number": 3096,
-        "title": "fix: check block part size (backport #3071)",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3096",
-        "repo": "celestia-core",
-        "author": "mergify",
-        "reviewer": "mcrakhman",
-        "requestedAt": "2026-06-04T06:02:13Z"
-      },
-      {
         "number": 4980,
         "title": "chore(deps): bump tspascoal/get-user-teams-membership from 3.0.0 to 4.0.1",
         "url": "https://github.com/celestiaorg/celestia-node/pull/4980",
@@ -204,6 +195,15 @@
         "author": "dependabot",
         "reviewer": "vgonkivs",
         "requestedAt": "2026-06-02T04:37:09Z"
+      },
+      {
+        "number": 3097,
+        "title": "fix: check block part size (backport #3071)",
+        "url": "https://github.com/celestiaorg/celestia-core/pull/3097",
+        "repo": "celestia-core",
+        "author": "mergify",
+        "reviewer": "vgonkivs",
+        "requestedAt": "2026-06-04T18:00:32Z"
       },
       {
         "number": 4617,
@@ -439,5 +439,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-06-04T17:45:02.592Z"
+  "fetchedAt": "2026-06-04T18:32:50.998Z"
 }
