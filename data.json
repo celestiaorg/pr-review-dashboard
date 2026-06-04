@@ -30,7 +30,17 @@
         "requestedAt": "2026-06-01T18:14:48Z"
       }
     ],
-    "rach-id": [],
+    "rach-id": [
+      {
+        "number": 3098,
+        "title": "refactor(blocksync): verify last commit before persisting the block",
+        "url": "https://github.com/celestiaorg/celestia-core/pull/3098",
+        "repo": "celestia-core",
+        "author": "ninabarbakadze",
+        "reviewer": "rach-id",
+        "requestedAt": "2026-06-04T20:36:16Z"
+      }
+    ],
     "mcrakhman": [
       {
         "number": 7221,
@@ -430,5 +440,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-06-04T20:19:14.115Z"
+  "fetchedAt": "2026-06-04T21:01:54.371Z"
 }
