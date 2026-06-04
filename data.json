@@ -1,16 +1,6 @@
 {
   "reviews": {
-    "rootulp": [
-      {
-        "number": 7349,
-        "title": "fix: disable privval gRPC server in non-fibre builds",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7349",
-        "repo": "celestia-app",
-        "author": "rach-id",
-        "reviewer": "rootulp",
-        "requestedAt": "2026-06-03T18:23:24Z"
-      }
-    ],
+    "rootulp": [],
     "ninabarbakadze": [
       {
         "number": 7221,
@@ -189,15 +179,6 @@
         "requestedAt": "2026-06-03T12:51:20Z"
       },
       {
-        "number": 7320,
-        "title": "refactor(fibre)!: cleanup fibre proto",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7320",
-        "repo": "celestia-app",
-        "author": "Wondertan",
-        "reviewer": "vgonkivs",
-        "requestedAt": "2026-05-31T02:05:17Z"
-      },
-      {
         "number": 7334,
         "title": "chore(deps): bump nick-fields/retry from 3.0.2 to 4.0.0",
         "url": "https://github.com/celestiaorg/celestia-app/pull/7334",
@@ -355,6 +336,15 @@
     ],
     "walldiss": [
       {
+        "number": 7320,
+        "title": "refactor(fibre)!: cleanup fibre proto",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/7320",
+        "repo": "celestia-app",
+        "author": "Wondertan",
+        "reviewer": "walldiss",
+        "requestedAt": "2026-06-04T00:53:13Z"
+      },
+      {
         "number": 4617,
         "title": "feat(api/client): add support for multiple endpoints with failover",
         "url": "https://github.com/celestiaorg/celestia-node/pull/4617",
@@ -467,5 +457,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-06-04T00:17:13.578Z"
+  "fetchedAt": "2026-06-04T01:33:55.243Z"
 }
