@@ -60,15 +60,6 @@
         "requestedAt": "2026-06-02T04:43:52Z"
       },
       {
-        "number": 7358,
-        "title": "fix: de-flake txsim CLI tests on gRPC DeadlineExceeded during shutdown",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7358",
-        "repo": "celestia-app",
-        "author": "rootulp",
-        "reviewer": "mcrakhman",
-        "requestedAt": "2026-06-04T15:39:33Z"
-      },
-      {
         "number": 3084,
         "title": "build(deps): Bump github.com/aws/aws-sdk-go-v2/config from 1.32.18 to 1.32.22",
         "url": "https://github.com/celestiaorg/celestia-core/pull/3084",
@@ -448,5 +439,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-06-04T16:44:36.467Z"
+  "fetchedAt": "2026-06-04T17:45:02.592Z"
 }
