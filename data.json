@@ -87,15 +87,6 @@
         "requestedAt": "2026-05-04T13:25:35Z"
       },
       {
-        "number": 5011,
-        "title": "mics(metrics): add metrics to improve observability",
-        "url": "https://github.com/celestiaorg/celestia-node/pull/5011",
-        "repo": "celestia-node",
-        "author": "vgonkivs",
-        "reviewer": "mcrakhman",
-        "requestedAt": "2026-05-22T12:12:51Z"
-      },
-      {
         "number": 5019,
         "title": "share: add RowsWithNamespace tests",
         "url": "https://github.com/celestiaorg/celestia-node/pull/5019",
@@ -439,5 +430,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-06-04T19:26:13.188Z"
+  "fetchedAt": "2026-06-04T20:19:14.115Z"
 }
