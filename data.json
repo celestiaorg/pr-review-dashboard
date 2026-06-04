@@ -39,17 +39,7 @@
         "requestedAt": "2026-06-01T18:14:48Z"
       }
     ],
-    "rach-id": [
-      {
-        "number": 7354,
-        "title": "fix: use published goreleaser-cross tag v1.26.2 (backport #7353)",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7354",
-        "repo": "celestia-app",
-        "author": "mergify",
-        "reviewer": "rach-id",
-        "requestedAt": "2026-06-04T10:02:54Z"
-      }
-    ],
+    "rach-id": [],
     "mcrakhman": [
       {
         "number": 7221,
@@ -449,5 +439,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-06-04T10:03:22.988Z"
+  "fetchedAt": "2026-06-04T11:13:43.167Z"
 }
