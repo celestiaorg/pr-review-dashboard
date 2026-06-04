@@ -39,17 +39,7 @@
         "requestedAt": "2026-06-01T18:14:48Z"
       }
     ],
-    "rach-id": [
-      {
-        "number": 3096,
-        "title": "fix: check block part size (backport #3071)",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3096",
-        "repo": "celestia-core",
-        "author": "mergify",
-        "reviewer": "rach-id",
-        "requestedAt": "2026-06-04T12:19:32Z"
-      }
-    ],
+    "rach-id": [],
     "mcrakhman": [
       {
         "number": 7221,
@@ -281,6 +271,15 @@
         "requestedAt": "2026-06-02T04:42:33Z"
       },
       {
+        "number": 7347,
+        "title": "feat(fibre): query the state when validator's host errors",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/7347",
+        "repo": "celestia-app",
+        "author": "rach-id",
+        "reviewer": "evan-forbes",
+        "requestedAt": "2026-06-04T12:35:19Z"
+      },
+      {
         "number": 3088,
         "title": "build(deps): Bump github.com/aws/aws-sdk-go-v2 from 1.41.7 to 1.41.9",
         "url": "https://github.com/celestiaorg/celestia-core/pull/3088",
@@ -336,6 +335,15 @@
       }
     ],
     "walldiss": [
+      {
+        "number": 7347,
+        "title": "feat(fibre): query the state when validator's host errors",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/7347",
+        "repo": "celestia-app",
+        "author": "rach-id",
+        "reviewer": "walldiss",
+        "requestedAt": "2026-06-04T12:35:22Z"
+      },
       {
         "number": 4617,
         "title": "feat(api/client): add support for multiple endpoints with failover",
@@ -440,5 +448,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-06-04T12:20:29.978Z"
+  "fetchedAt": "2026-06-04T13:31:56.667Z"
 }
