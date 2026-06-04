@@ -48,7 +48,17 @@
         "requestedAt": "2026-06-01T18:14:48Z"
       }
     ],
-    "rach-id": [],
+    "rach-id": [
+      {
+        "number": 7350,
+        "title": "docs: fix minor rsema1d spec issues",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/7350",
+        "repo": "celestia-app",
+        "author": "rootulp",
+        "reviewer": "rach-id",
+        "requestedAt": "2026-06-04T01:37:09Z"
+      }
+    ],
     "mcrakhman": [
       {
         "number": 7221,
@@ -457,5 +467,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-06-04T01:33:55.243Z"
+  "fetchedAt": "2026-06-04T02:30:55.064Z"
 }
