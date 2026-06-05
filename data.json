@@ -107,15 +107,6 @@
     ],
     "vgonkivs": [
       {
-        "number": 7057,
-        "title": "test: add arabica load test for block time monitoring",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7057",
-        "repo": "celestia-app",
-        "author": "ninabarbakadze",
-        "reviewer": "vgonkivs",
-        "requestedAt": "2026-06-03T12:51:20Z"
-      },
-      {
         "number": 4617,
         "title": "feat(api/client): add support for multiple endpoints with failover",
         "url": "https://github.com/celestiaorg/celestia-node/pull/4617",
@@ -322,5 +313,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-06-05T08:08:32.396Z"
+  "fetchedAt": "2026-06-05T09:23:39.994Z"
 }
