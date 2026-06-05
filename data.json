@@ -10,18 +10,19 @@
         "author": "walldiss",
         "reviewer": "ninabarbakadze",
         "requestedAt": "2026-05-28T16:54:56Z"
-      },
-      {
-        "number": 412,
-        "title": "docs: fix incorrect comment on dataSquare",
-        "url": "https://github.com/celestiaorg/rsmt2d/pull/412",
-        "repo": "rsmt2d",
-        "author": "rootulp",
-        "reviewer": "ninabarbakadze",
-        "requestedAt": "2026-06-01T18:14:48Z"
       }
     ],
-    "rach-id": [],
+    "rach-id": [
+      {
+        "number": 3099,
+        "title": "refactor(blocksync): verify last commit before persisting the block (backport #3098)",
+        "url": "https://github.com/celestiaorg/celestia-core/pull/3099",
+        "repo": "celestia-core",
+        "author": "mergify",
+        "reviewer": "rach-id",
+        "requestedAt": "2026-06-05T12:33:37Z"
+      }
+    ],
     "mcrakhman": [
       {
         "number": 7221,
@@ -313,5 +314,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-06-05T11:50:20.024Z"
+  "fetchedAt": "2026-06-05T12:48:26.547Z"
 }
