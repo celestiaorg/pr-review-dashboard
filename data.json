@@ -249,6 +249,15 @@
         "requestedAt": "2026-05-28T17:36:41Z"
       },
       {
+        "number": 7347,
+        "title": "feat(fibre): query the state when validator's host errors",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/7347",
+        "repo": "celestia-app",
+        "author": "rach-id",
+        "reviewer": "Wondertan",
+        "requestedAt": "2026-06-05T12:50:42Z"
+      },
+      {
         "number": 4617,
         "title": "feat(api/client): add support for multiple endpoints with failover",
         "url": "https://github.com/celestiaorg/celestia-node/pull/4617",
@@ -314,5 +323,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-06-05T12:48:26.547Z"
+  "fetchedAt": "2026-06-05T13:51:12.403Z"
 }
