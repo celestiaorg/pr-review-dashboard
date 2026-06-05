@@ -21,6 +21,15 @@
         "author": "mergify",
         "reviewer": "rach-id",
         "requestedAt": "2026-06-05T12:33:37Z"
+      },
+      {
+        "number": 3100,
+        "title": "refactor(blocksync): verify last commit before persisting the block (backport #3098)",
+        "url": "https://github.com/celestiaorg/celestia-core/pull/3100",
+        "repo": "celestia-core",
+        "author": "mergify",
+        "reviewer": "rach-id",
+        "requestedAt": "2026-06-05T20:57:39Z"
       }
     ],
     "mcrakhman": [
@@ -153,15 +162,6 @@
         "author": "rach-id",
         "reviewer": "evan-forbes",
         "requestedAt": "2026-06-04T12:35:19Z"
-      },
-      {
-        "number": 3099,
-        "title": "refactor(blocksync): verify last commit before persisting the block (backport #3098)",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3099",
-        "repo": "celestia-core",
-        "author": "mergify",
-        "reviewer": "evan-forbes",
-        "requestedAt": "2026-06-05T10:26:27Z"
       },
       {
         "number": 5015,
@@ -332,5 +332,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-06-05T20:30:28.700Z"
+  "fetchedAt": "2026-06-05T21:08:04.676Z"
 }
