@@ -12,15 +12,6 @@
         "requestedAt": "2026-05-28T16:54:56Z"
       },
       {
-        "number": 3086,
-        "title": "build(deps): Bump github.com/aws/aws-sdk-go-v2/credentials from 1.19.17 to 1.19.21",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3086",
-        "repo": "celestia-core",
-        "author": "dependabot",
-        "reviewer": "ninabarbakadze",
-        "requestedAt": "2026-06-02T04:35:32Z"
-      },
-      {
         "number": 412,
         "title": "docs: fix incorrect comment on dataSquare",
         "url": "https://github.com/celestiaorg/rsmt2d/pull/412",
@@ -30,17 +21,7 @@
         "requestedAt": "2026-06-01T18:14:48Z"
       }
     ],
-    "rach-id": [
-      {
-        "number": 3098,
-        "title": "refactor(blocksync): verify last commit before persisting the block",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3098",
-        "repo": "celestia-core",
-        "author": "ninabarbakadze",
-        "reviewer": "rach-id",
-        "requestedAt": "2026-06-04T20:36:16Z"
-      }
-    ],
+    "rach-id": [],
     "mcrakhman": [
       {
         "number": 7221,
@@ -59,33 +40,6 @@
         "author": "dependabot",
         "reviewer": "mcrakhman",
         "requestedAt": "2026-06-02T04:40:58Z"
-      },
-      {
-        "number": 7342,
-        "title": "chore(deps): bump github.com/aws/aws-sdk-go-v2 from 1.41.7 to 1.41.9",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7342",
-        "repo": "celestia-app",
-        "author": "dependabot",
-        "reviewer": "mcrakhman",
-        "requestedAt": "2026-06-02T04:43:52Z"
-      },
-      {
-        "number": 3084,
-        "title": "build(deps): Bump github.com/aws/aws-sdk-go-v2/config from 1.32.18 to 1.32.22",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3084",
-        "repo": "celestia-core",
-        "author": "dependabot",
-        "reviewer": "mcrakhman",
-        "requestedAt": "2026-06-02T04:34:01Z"
-      },
-      {
-        "number": 3089,
-        "title": "build(deps): Bump github.com/prometheus/common from 0.67.5 to 0.68.0",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3089",
-        "repo": "celestia-core",
-        "author": "dependabot",
-        "reviewer": "mcrakhman",
-        "requestedAt": "2026-06-02T04:37:04Z"
       },
       {
         "number": 4980,
@@ -162,51 +116,6 @@
         "requestedAt": "2026-06-03T12:51:20Z"
       },
       {
-        "number": 7334,
-        "title": "chore(deps): bump nick-fields/retry from 3.0.2 to 4.0.0",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7334",
-        "repo": "celestia-app",
-        "author": "dependabot",
-        "reviewer": "vgonkivs",
-        "requestedAt": "2026-06-02T04:40:19Z"
-      },
-      {
-        "number": 7338,
-        "title": "chore(deps): bump go.opentelemetry.io/contrib/instrumentation/google.golang.org/grpc/otelgrpc from 0.68.0 to 0.69.0",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7338",
-        "repo": "celestia-app",
-        "author": "dependabot",
-        "reviewer": "vgonkivs",
-        "requestedAt": "2026-06-02T04:41:04Z"
-      },
-      {
-        "number": 7343,
-        "title": "chore(deps): bump go.opentelemetry.io/contrib/instrumentation/runtime from 0.68.0 to 0.69.0",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7343",
-        "repo": "celestia-app",
-        "author": "dependabot",
-        "reviewer": "vgonkivs",
-        "requestedAt": "2026-06-02T04:44:00Z"
-      },
-      {
-        "number": 3090,
-        "title": "build(deps): Bump github.com/grafana/otel-profiling-go from 0.5.1 to 0.5.3",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3090",
-        "repo": "celestia-core",
-        "author": "dependabot",
-        "reviewer": "vgonkivs",
-        "requestedAt": "2026-06-02T04:37:09Z"
-      },
-      {
-        "number": 3097,
-        "title": "fix: check block part size (backport #3071)",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3097",
-        "repo": "celestia-core",
-        "author": "mergify",
-        "reviewer": "vgonkivs",
-        "requestedAt": "2026-06-04T18:00:32Z"
-      },
-      {
         "number": 4617,
         "title": "feat(api/client): add support for multiple endpoints with failover",
         "url": "https://github.com/celestiaorg/celestia-node/pull/4617",
@@ -245,24 +154,6 @@
     ],
     "evan-forbes": [
       {
-        "number": 7336,
-        "title": "chore(deps): bump go.opentelemetry.io/otel/exporters/otlp/otlptrace/otlptracehttp from 1.43.0 to 1.44.0",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7336",
-        "repo": "celestia-app",
-        "author": "dependabot",
-        "reviewer": "evan-forbes",
-        "requestedAt": "2026-06-02T04:40:52Z"
-      },
-      {
-        "number": 7341,
-        "title": "chore(deps): bump github.com/aws/aws-sdk-go-v2/config from 1.32.18 to 1.32.20",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7341",
-        "repo": "celestia-app",
-        "author": "dependabot",
-        "reviewer": "evan-forbes",
-        "requestedAt": "2026-06-02T04:42:33Z"
-      },
-      {
         "number": 7347,
         "title": "feat(fibre): query the state when validator's host errors",
         "url": "https://github.com/celestiaorg/celestia-app/pull/7347",
@@ -270,15 +161,6 @@
         "author": "rach-id",
         "reviewer": "evan-forbes",
         "requestedAt": "2026-06-04T12:35:19Z"
-      },
-      {
-        "number": 3088,
-        "title": "build(deps): Bump github.com/aws/aws-sdk-go-v2 from 1.41.9 to 1.41.11",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3088",
-        "repo": "celestia-core",
-        "author": "dependabot",
-        "reviewer": "evan-forbes",
-        "requestedAt": "2026-06-02T04:36:59Z"
       },
       {
         "number": 5015,
@@ -440,5 +322,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-06-05T06:40:37.730Z"
+  "fetchedAt": "2026-06-05T08:08:32.396Z"
 }
