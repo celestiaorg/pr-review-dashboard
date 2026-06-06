@@ -21,15 +21,6 @@
         "author": "mergify",
         "reviewer": "rach-id",
         "requestedAt": "2026-06-05T12:33:37Z"
-      },
-      {
-        "number": 3100,
-        "title": "refactor(blocksync): verify last commit before persisting the block (backport #3098)",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3100",
-        "repo": "celestia-core",
-        "author": "mergify",
-        "reviewer": "rach-id",
-        "requestedAt": "2026-06-05T20:57:39Z"
       }
     ],
     "mcrakhman": [
@@ -323,5 +314,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-06-06T04:42:20.865Z"
+  "fetchedAt": "2026-06-06T06:03:10.951Z"
 }
