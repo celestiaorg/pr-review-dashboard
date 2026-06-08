@@ -112,6 +112,15 @@
         "author": "proofmancer",
         "reviewer": "mcrakhman",
         "requestedAt": "2026-05-23T18:11:54Z"
+      },
+      {
+        "number": 416,
+        "title": "chore(deps): Bump codecov/codecov-action from 6.0.1 to 7.0.0",
+        "url": "https://github.com/celestiaorg/rsmt2d/pull/416",
+        "repo": "rsmt2d",
+        "author": "dependabot",
+        "reviewer": "mcrakhman",
+        "requestedAt": "2026-06-08T15:52:48Z"
       }
     ],
     "vgonkivs": [
@@ -278,6 +287,15 @@
         "author": "solunolab",
         "reviewer": "evan-forbes",
         "requestedAt": "2026-06-07T06:58:14Z"
+      },
+      {
+        "number": 415,
+        "title": "chore(deps): Bump golang.org/x/sync from 0.20.0 to 0.21.0",
+        "url": "https://github.com/celestiaorg/rsmt2d/pull/415",
+        "repo": "rsmt2d",
+        "author": "dependabot",
+        "reviewer": "evan-forbes",
+        "requestedAt": "2026-06-08T15:52:36Z"
       }
     ],
     "walldiss": [
@@ -298,15 +316,6 @@
         "author": "DeVikingMark",
         "reviewer": "walldiss",
         "requestedAt": "2025-10-07T18:59:09Z"
-      },
-      {
-        "number": 5011,
-        "title": "mics(metrics): add metrics to improve observability",
-        "url": "https://github.com/celestiaorg/celestia-node/pull/5011",
-        "repo": "celestia-node",
-        "author": "vgonkivs",
-        "reviewer": "walldiss",
-        "requestedAt": "2026-05-27T09:36:11Z"
       },
       {
         "number": 5018,
@@ -394,5 +403,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-06-08T14:38:15.106Z"
+  "fetchedAt": "2026-06-08T16:04:12.847Z"
 }
