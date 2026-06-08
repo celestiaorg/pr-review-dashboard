@@ -19,6 +19,15 @@
         "author": "dependabot",
         "reviewer": "ninabarbakadze",
         "requestedAt": "2026-06-08T09:49:12Z"
+      },
+      {
+        "number": 3108,
+        "title": "feat(state): log app-hash mismatch runbook before failure",
+        "url": "https://github.com/celestiaorg/celestia-core/pull/3108",
+        "repo": "celestia-core",
+        "author": "rach-id",
+        "reviewer": "ninabarbakadze",
+        "requestedAt": "2026-06-08T18:03:53Z"
       }
     ],
     "rach-id": [],
@@ -403,5 +412,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-06-08T17:17:10.651Z"
+  "fetchedAt": "2026-06-08T18:13:30.695Z"
 }
