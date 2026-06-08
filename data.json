@@ -12,24 +12,6 @@
         "requestedAt": "2026-05-28T16:54:56Z"
       },
       {
-        "number": 7361,
-        "title": "chore(deps): bump github/codeql-action from 4.36.0 to 4.36.2",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7361",
-        "repo": "celestia-app",
-        "author": "dependabot",
-        "reviewer": "ninabarbakadze",
-        "requestedAt": "2026-06-08T09:44:25Z"
-      },
-      {
-        "number": 7366,
-        "title": "chore(deps): bump github.com/aws/aws-sdk-go-v2/service/ec2 from 1.304.0 to 1.305.2",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7366",
-        "repo": "celestia-app",
-        "author": "dependabot",
-        "reviewer": "ninabarbakadze",
-        "requestedAt": "2026-06-08T09:46:00Z"
-      },
-      {
         "number": 7371,
         "title": "chore(deps): bump github.com/cockroachdb/pebble/v2 from 2.1.4 to 2.1.6",
         "url": "https://github.com/celestiaorg/celestia-app/pull/7371",
@@ -49,24 +31,6 @@
         "author": "walldiss",
         "reviewer": "mcrakhman",
         "requestedAt": "2026-05-28T17:10:23Z"
-      },
-      {
-        "number": 7363,
-        "title": "chore(deps): bump github.com/aws/aws-sdk-go-v2/credentials from 1.19.17 to 1.19.22",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7363",
-        "repo": "celestia-app",
-        "author": "dependabot",
-        "reviewer": "mcrakhman",
-        "requestedAt": "2026-06-08T09:44:31Z"
-      },
-      {
-        "number": 7368,
-        "title": "chore(deps): bump github.com/aws/aws-sdk-go-v2 from 1.41.7 to 1.41.12",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7368",
-        "repo": "celestia-app",
-        "author": "dependabot",
-        "reviewer": "mcrakhman",
-        "requestedAt": "2026-06-08T09:47:28Z"
       },
       {
         "number": 3104,
@@ -159,15 +123,6 @@
         "author": "dependabot",
         "reviewer": "vgonkivs",
         "requestedAt": "2026-06-08T09:44:37Z"
-      },
-      {
-        "number": 7370,
-        "title": "chore(deps): bump github.com/aws/aws-sdk-go-v2/service/s3 from 1.101.0 to 1.103.2",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7370",
-        "repo": "celestia-app",
-        "author": "dependabot",
-        "reviewer": "vgonkivs",
-        "requestedAt": "2026-06-08T09:49:03Z"
       },
       {
         "number": 3105,
@@ -269,15 +224,6 @@
         "author": "dependabot",
         "reviewer": "evan-forbes",
         "requestedAt": "2026-06-08T09:46:09Z"
-      },
-      {
-        "number": 7372,
-        "title": "chore(deps): bump github.com/aws/aws-sdk-go-v2/config from 1.32.18 to 1.32.23",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7372",
-        "repo": "celestia-app",
-        "author": "dependabot",
-        "reviewer": "evan-forbes",
-        "requestedAt": "2026-06-08T09:50:32Z"
       },
       {
         "number": 5015,
@@ -448,5 +394,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-06-08T11:49:22.990Z"
+  "fetchedAt": "2026-06-08T13:15:36.836Z"
 }
