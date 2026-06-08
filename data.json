@@ -39,53 +39,7 @@
         "requestedAt": "2026-06-08T09:49:12Z"
       }
     ],
-    "rach-id": [
-      {
-        "number": 7360,
-        "title": "chore(deps): bump github.com/aws/aws-sdk-go-v2/feature/s3/manager from 1.21.1 to 1.22.25",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7360",
-        "repo": "celestia-app",
-        "author": "dependabot",
-        "reviewer": "rach-id",
-        "requestedAt": "2026-06-08T09:43:11Z"
-      },
-      {
-        "number": 7365,
-        "title": "chore(deps): bump actions/upload-artifact from 7.0.0 to 7.0.1",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7365",
-        "repo": "celestia-app",
-        "author": "dependabot",
-        "reviewer": "rach-id",
-        "requestedAt": "2026-06-08T09:44:38Z"
-      },
-      {
-        "number": 7369,
-        "title": "chore(deps): bump go.opentelemetry.io/otel/exporters/otlp/otlpmetric/otlpmetrichttp from 1.43.0 to 1.44.0",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7369",
-        "repo": "celestia-app",
-        "author": "dependabot",
-        "reviewer": "rach-id",
-        "requestedAt": "2026-06-08T09:47:41Z"
-      },
-      {
-        "number": 3099,
-        "title": "refactor(blocksync): verify last commit before persisting the block (backport #3098)",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3099",
-        "repo": "celestia-core",
-        "author": "mergify",
-        "reviewer": "rach-id",
-        "requestedAt": "2026-06-05T12:33:37Z"
-      },
-      {
-        "number": 5041,
-        "title": "headertest: unify TestSuite constructors behind functional options",
-        "url": "https://github.com/celestiaorg/celestia-node/pull/5041",
-        "repo": "celestia-node",
-        "author": "pjdurden",
-        "reviewer": "rach-id",
-        "requestedAt": "2026-06-07T21:49:57Z"
-      }
-    ],
+    "rach-id": [],
     "mcrakhman": [
       {
         "number": 7221,
@@ -133,15 +87,6 @@
         "requestedAt": "2026-06-08T09:34:54Z"
       },
       {
-        "number": 4980,
-        "title": "chore(deps): bump tspascoal/get-user-teams-membership from 3.0.0 to 4.0.1",
-        "url": "https://github.com/celestiaorg/celestia-node/pull/4980",
-        "repo": "celestia-node",
-        "author": "dependabot",
-        "reviewer": "mcrakhman",
-        "requestedAt": "2026-05-04T13:25:35Z"
-      },
-      {
         "number": 5019,
         "title": "share: add RowsWithNamespace tests",
         "url": "https://github.com/celestiaorg/celestia-node/pull/5019",
@@ -167,6 +112,15 @@
         "author": "dependabot",
         "reviewer": "mcrakhman",
         "requestedAt": "2026-06-03T21:14:39Z"
+      },
+      {
+        "number": 5044,
+        "title": "chore(deps): bump tspascoal/get-user-teams-membership from 3.0.0 to 4.0.2",
+        "url": "https://github.com/celestiaorg/celestia-node/pull/5044",
+        "repo": "celestia-node",
+        "author": "dependabot",
+        "reviewer": "mcrakhman",
+        "requestedAt": "2026-06-08T11:04:01Z"
       },
       {
         "number": 145,
@@ -261,6 +215,24 @@
         "requestedAt": "2026-06-02T08:20:36Z"
       },
       {
+        "number": 5041,
+        "title": "headertest: unify TestSuite constructors behind functional options",
+        "url": "https://github.com/celestiaorg/celestia-node/pull/5041",
+        "repo": "celestia-node",
+        "author": "pjdurden",
+        "reviewer": "vgonkivs",
+        "requestedAt": "2026-06-08T11:10:14Z"
+      },
+      {
+        "number": 5046,
+        "title": "chore(deps): bump the patch-updates group across 2 directories with 1 update",
+        "url": "https://github.com/celestiaorg/celestia-node/pull/5046",
+        "repo": "celestia-node",
+        "author": "dependabot",
+        "reviewer": "vgonkivs",
+        "requestedAt": "2026-06-08T11:06:21Z"
+      },
+      {
         "number": 397,
         "title": "chore(deps): bump github.com/quic-go/quic-go from 0.59.0 to 0.59.1",
         "url": "https://github.com/celestiaorg/go-header/pull/397",
@@ -342,15 +314,6 @@
         "author": "dependabot",
         "reviewer": "evan-forbes",
         "requestedAt": "2026-06-03T21:13:16Z"
-      },
-      {
-        "number": 5043,
-        "title": "bump: bump fibre to the latest app version",
-        "url": "https://github.com/celestiaorg/celestia-node/pull/5043",
-        "repo": "celestia-node",
-        "author": "vgonkivs",
-        "reviewer": "evan-forbes",
-        "requestedAt": "2026-06-08T08:53:51Z"
       },
       {
         "number": 327,
@@ -485,5 +448,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-06-08T10:06:36.924Z"
+  "fetchedAt": "2026-06-08T11:49:22.990Z"
 }
