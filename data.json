@@ -19,15 +19,6 @@
         "author": "dependabot",
         "reviewer": "ninabarbakadze",
         "requestedAt": "2026-06-08T09:49:12Z"
-      },
-      {
-        "number": 3108,
-        "title": "feat(state): log app-hash mismatch runbook before failure",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3108",
-        "repo": "celestia-core",
-        "author": "rach-id",
-        "reviewer": "ninabarbakadze",
-        "requestedAt": "2026-06-08T18:03:53Z"
       }
     ],
     "rach-id": [],
@@ -40,15 +31,6 @@
         "author": "walldiss",
         "reviewer": "mcrakhman",
         "requestedAt": "2026-05-28T17:10:23Z"
-      },
-      {
-        "number": 3104,
-        "title": "fix(#3102): [BOUNTY CLAIM] Remove Unmaintained Local Net #2597",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3104",
-        "repo": "celestia-core",
-        "author": "exodusubuntu-tech",
-        "reviewer": "mcrakhman",
-        "requestedAt": "2026-06-07T19:23:45Z"
       },
       {
         "number": 3106,
@@ -141,15 +123,6 @@
         "author": "dependabot",
         "reviewer": "vgonkivs",
         "requestedAt": "2026-06-08T09:44:37Z"
-      },
-      {
-        "number": 3105,
-        "title": "fix(#3103): [BOUNTY CLAIM] Test Consensus Breaking Changes #2798",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3105",
-        "repo": "celestia-core",
-        "author": "exodusubuntu-tech",
-        "reviewer": "vgonkivs",
-        "requestedAt": "2026-06-07T19:24:45Z"
       },
       {
         "number": 3107,
@@ -412,5 +385,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-06-08T18:13:30.695Z"
+  "fetchedAt": "2026-06-08T19:07:15.914Z"
 }
