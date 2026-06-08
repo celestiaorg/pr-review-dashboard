@@ -10,6 +10,15 @@
         "author": "walldiss",
         "reviewer": "ninabarbakadze",
         "requestedAt": "2026-05-28T16:54:56Z"
+      },
+      {
+        "number": 5042,
+        "title": "fix(tests): fix flakiness in unit tests",
+        "url": "https://github.com/celestiaorg/celestia-node/pull/5042",
+        "repo": "celestia-node",
+        "author": "vgonkivs",
+        "reviewer": "ninabarbakadze",
+        "requestedAt": "2026-06-08T08:01:24Z"
       }
     ],
     "rach-id": [
@@ -276,15 +285,6 @@
         "requestedAt": "2026-05-28T17:36:41Z"
       },
       {
-        "number": 7347,
-        "title": "feat(fibre): query the state when validator's host errors",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7347",
-        "repo": "celestia-app",
-        "author": "rach-id",
-        "reviewer": "Wondertan",
-        "requestedAt": "2026-06-05T12:50:42Z"
-      },
-      {
         "number": 4617,
         "title": "feat(api/client): add support for multiple endpoints with failover",
         "url": "https://github.com/celestiaorg/celestia-node/pull/4617",
@@ -350,5 +350,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-06-08T06:51:48.493Z"
+  "fetchedAt": "2026-06-08T08:30:34.514Z"
 }
