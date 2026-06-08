@@ -21,7 +21,17 @@
         "requestedAt": "2026-06-08T09:49:12Z"
       }
     ],
-    "rach-id": [],
+    "rach-id": [
+      {
+        "number": 740,
+        "title": "fix: data race between workingHash (FinalizeBlock) and Simulate",
+        "url": "https://github.com/celestiaorg/cosmos-sdk/pull/740",
+        "repo": "cosmos-sdk",
+        "author": "rootulp",
+        "reviewer": "rach-id",
+        "requestedAt": "2026-06-08T19:42:28Z"
+      }
+    ],
     "mcrakhman": [
       {
         "number": 7221,
@@ -103,15 +113,6 @@
         "author": "proofmancer",
         "reviewer": "mcrakhman",
         "requestedAt": "2026-05-23T18:11:54Z"
-      },
-      {
-        "number": 416,
-        "title": "chore(deps): Bump codecov/codecov-action from 6.0.1 to 7.0.0",
-        "url": "https://github.com/celestiaorg/rsmt2d/pull/416",
-        "repo": "rsmt2d",
-        "author": "dependabot",
-        "reviewer": "mcrakhman",
-        "requestedAt": "2026-06-08T15:52:48Z"
       }
     ],
     "vgonkivs": [
@@ -260,24 +261,6 @@
         "author": "dependabot",
         "reviewer": "evan-forbes",
         "requestedAt": "2026-05-29T23:08:27Z"
-      },
-      {
-        "number": 414,
-        "title": "chore: fix some comments to improve readability",
-        "url": "https://github.com/celestiaorg/rsmt2d/pull/414",
-        "repo": "rsmt2d",
-        "author": "solunolab",
-        "reviewer": "evan-forbes",
-        "requestedAt": "2026-06-07T06:58:14Z"
-      },
-      {
-        "number": 415,
-        "title": "chore(deps): Bump golang.org/x/sync from 0.20.0 to 0.21.0",
-        "url": "https://github.com/celestiaorg/rsmt2d/pull/415",
-        "repo": "rsmt2d",
-        "author": "dependabot",
-        "reviewer": "evan-forbes",
-        "requestedAt": "2026-06-08T15:52:36Z"
       }
     ],
     "walldiss": [
@@ -385,5 +368,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-06-08T19:07:15.914Z"
+  "fetchedAt": "2026-06-08T19:53:29.625Z"
 }
