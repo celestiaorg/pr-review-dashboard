@@ -61,6 +61,15 @@
         "requestedAt": "2026-06-08T09:34:54Z"
       },
       {
+        "number": 3110,
+        "title": "refactor(p2p): reduce ERR log noise from routine peer churn",
+        "url": "https://github.com/celestiaorg/celestia-core/pull/3110",
+        "repo": "celestia-core",
+        "author": "rootulp",
+        "reviewer": "mcrakhman",
+        "requestedAt": "2026-06-08T23:07:55Z"
+      },
+      {
         "number": 5019,
         "title": "share: add RowsWithNamespace tests",
         "url": "https://github.com/celestiaorg/celestia-node/pull/5019",
@@ -142,6 +151,15 @@
         "author": "dependabot",
         "reviewer": "vgonkivs",
         "requestedAt": "2026-06-08T09:35:07Z"
+      },
+      {
+        "number": 3111,
+        "title": "refactor(consensus): split \"failed to process message\" log by error type",
+        "url": "https://github.com/celestiaorg/celestia-core/pull/3111",
+        "repo": "celestia-core",
+        "author": "rootulp",
+        "reviewer": "vgonkivs",
+        "requestedAt": "2026-06-08T23:09:24Z"
       },
       {
         "number": 4617,
@@ -377,5 +395,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-06-08T22:41:04.055Z"
+  "fetchedAt": "2026-06-08T23:09:55.774Z"
 }
