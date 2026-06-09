@@ -1,7 +1,17 @@
 {
   "reviews": {
     "rootulp": [],
-    "ninabarbakadze": [],
+    "ninabarbakadze": [
+      {
+        "number": 7387,
+        "title": "chore: bump the embedded v8 binary to latest v8 (backport #7385)",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/7387",
+        "repo": "celestia-app",
+        "author": "mergify",
+        "reviewer": "ninabarbakadze",
+        "requestedAt": "2026-06-09T11:19:30Z"
+      }
+    ],
     "rach-id": [
       {
         "number": 7191,
@@ -367,5 +377,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-06-09T11:16:52.414Z"
+  "fetchedAt": "2026-06-09T12:20:04.135Z"
 }
