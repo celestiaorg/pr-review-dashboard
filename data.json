@@ -226,15 +226,6 @@
         "requestedAt": "2026-06-08T09:46:09Z"
       },
       {
-        "number": 7386,
-        "title": "refactor!: check spendable balance during token forwarding",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7386",
-        "repo": "celestia-app",
-        "author": "ninabarbakadze",
-        "reviewer": "evan-forbes",
-        "requestedAt": "2026-06-09T12:48:20Z"
-      },
-      {
         "number": 5015,
         "title": "chore(deps): bump golang.org/x/crypto from 0.50.0 to 0.52.0",
         "url": "https://github.com/celestiaorg/celestia-node/pull/5015",
@@ -385,5 +376,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-06-09T13:23:15.176Z"
+  "fetchedAt": "2026-06-09T14:15:17.947Z"
 }
