@@ -10,15 +10,6 @@
         "author": "walldiss",
         "reviewer": "ninabarbakadze",
         "requestedAt": "2026-05-28T16:54:56Z"
-      },
-      {
-        "number": 7371,
-        "title": "chore(deps): bump github.com/cockroachdb/pebble/v2 from 2.1.4 to 2.1.6",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7371",
-        "repo": "celestia-app",
-        "author": "dependabot",
-        "reviewer": "ninabarbakadze",
-        "requestedAt": "2026-06-08T09:49:12Z"
       }
     ],
     "rach-id": [
@@ -395,5 +386,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-06-09T07:36:49.745Z"
+  "fetchedAt": "2026-06-09T08:46:57.275Z"
 }
