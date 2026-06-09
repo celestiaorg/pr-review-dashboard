@@ -11,15 +11,6 @@
         "author": "walldiss",
         "reviewer": "rach-id",
         "requestedAt": "2026-06-08T20:33:46Z"
-      },
-      {
-        "number": 7385,
-        "title": "chore: bump the embedded v8 binary to latest v8",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7385",
-        "repo": "celestia-app",
-        "author": "ninabarbakadze",
-        "reviewer": "rach-id",
-        "requestedAt": "2026-06-09T09:26:59Z"
       }
     ],
     "mcrakhman": [
@@ -376,5 +367,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-06-09T10:06:01.916Z"
+  "fetchedAt": "2026-06-09T11:16:52.414Z"
 }
