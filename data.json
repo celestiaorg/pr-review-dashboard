@@ -1,17 +1,7 @@
 {
   "reviews": {
     "rootulp": [],
-    "ninabarbakadze": [
-      {
-        "number": 7221,
-        "title": "feat(fibre-reader): add reading simulator + talis Reader instance type",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7221",
-        "repo": "celestia-app",
-        "author": "walldiss",
-        "reviewer": "ninabarbakadze",
-        "requestedAt": "2026-05-28T16:54:56Z"
-      }
-    ],
+    "ninabarbakadze": [],
     "rach-id": [
       {
         "number": 7191,
@@ -23,13 +13,13 @@
         "requestedAt": "2026-06-08T20:33:46Z"
       },
       {
-        "number": 740,
-        "title": "fix: data race between workingHash (FinalizeBlock) and Simulate",
-        "url": "https://github.com/celestiaorg/cosmos-sdk/pull/740",
-        "repo": "cosmos-sdk",
-        "author": "rootulp",
+        "number": 7385,
+        "title": "chore: bump the embedded v8 binary to latest v8",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/7385",
+        "repo": "celestia-app",
+        "author": "ninabarbakadze",
         "reviewer": "rach-id",
-        "requestedAt": "2026-06-08T19:42:28Z"
+        "requestedAt": "2026-06-09T09:26:59Z"
       }
     ],
     "mcrakhman": [
@@ -386,5 +376,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-06-09T08:46:57.275Z"
+  "fetchedAt": "2026-06-09T10:06:01.916Z"
 }
