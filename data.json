@@ -1,17 +1,7 @@
 {
   "reviews": {
     "rootulp": [],
-    "ninabarbakadze": [
-      {
-        "number": 7387,
-        "title": "chore: bump the embedded v8 binary to latest v8 (backport #7385)",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7387",
-        "repo": "celestia-app",
-        "author": "mergify",
-        "reviewer": "ninabarbakadze",
-        "requestedAt": "2026-06-09T11:19:30Z"
-      }
-    ],
+    "ninabarbakadze": [],
     "rach-id": [
       {
         "number": 7191,
@@ -21,6 +11,15 @@
         "author": "walldiss",
         "reviewer": "rach-id",
         "requestedAt": "2026-06-08T20:33:46Z"
+      },
+      {
+        "number": 3110,
+        "title": "refactor(p2p): reduce ERR log noise from routine peer churn",
+        "url": "https://github.com/celestiaorg/celestia-core/pull/3110",
+        "repo": "celestia-core",
+        "author": "rootulp",
+        "reviewer": "rach-id",
+        "requestedAt": "2026-06-09T13:15:57Z"
       }
     ],
     "mcrakhman": [
@@ -41,15 +40,6 @@
         "author": "dependabot",
         "reviewer": "mcrakhman",
         "requestedAt": "2026-06-08T09:34:54Z"
-      },
-      {
-        "number": 3110,
-        "title": "refactor(p2p): reduce ERR log noise from routine peer churn",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3110",
-        "repo": "celestia-core",
-        "author": "rootulp",
-        "reviewer": "mcrakhman",
-        "requestedAt": "2026-06-08T23:07:55Z"
       },
       {
         "number": 5019,
@@ -113,6 +103,15 @@
         "author": "proofmancer",
         "reviewer": "mcrakhman",
         "requestedAt": "2026-05-23T18:11:54Z"
+      },
+      {
+        "number": 975,
+        "title": "Add support for connect timeout",
+        "url": "https://github.com/celestiaorg/lumina/pull/975",
+        "repo": "lumina",
+        "author": "citizen-stig",
+        "reviewer": "mcrakhman",
+        "requestedAt": "2026-06-09T12:55:41Z"
       }
     ],
     "vgonkivs": [
@@ -225,6 +224,15 @@
         "author": "dependabot",
         "reviewer": "evan-forbes",
         "requestedAt": "2026-06-08T09:46:09Z"
+      },
+      {
+        "number": 7386,
+        "title": "refactor!: check spendable balance during token forwarding",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/7386",
+        "repo": "celestia-app",
+        "author": "ninabarbakadze",
+        "reviewer": "evan-forbes",
+        "requestedAt": "2026-06-09T12:48:20Z"
       },
       {
         "number": 5015,
@@ -377,5 +385,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-06-09T12:20:04.135Z"
+  "fetchedAt": "2026-06-09T13:23:15.176Z"
 }
