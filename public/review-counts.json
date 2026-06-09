@@ -1,29 +1,29 @@
 {
   "counts": {
     "rootulp": {
-      "week": 0,
-      "month": 11,
-      "year": 383
+      "week": 5,
+      "month": 16,
+      "year": 388
     },
     "ninabarbakadze": {
-      "week": 0,
-      "month": 13,
-      "year": 355
+      "week": 2,
+      "month": 15,
+      "year": 357
     },
     "rach-id": {
-      "week": 0,
-      "month": 42,
-      "year": 465
+      "week": 8,
+      "month": 50,
+      "year": 473
     },
     "mcrakhman": {
-      "week": 0,
-      "month": 2,
-      "year": 75
+      "week": 4,
+      "month": 6,
+      "year": 79
     },
     "vgonkivs": {
-      "week": 0,
-      "month": 4,
-      "year": 63
+      "week": 2,
+      "month": 6,
+      "year": 65
     },
     "evan-forbes": {
       "week": 0,
@@ -31,17 +31,17 @@
       "year": 103
     },
     "walldiss": {
-      "week": 0,
-      "month": 0,
-      "year": 113
+      "week": 2,
+      "month": 2,
+      "year": 115
     },
     "Wondertan": {
-      "week": 0,
-      "month": 2,
-      "year": 77
+      "week": 1,
+      "month": 3,
+      "year": 78
     }
   },
-  "computedAt": "2026-06-08T00:28:33.183Z",
+  "computedAt": "2026-06-09T00:23:54.766Z",
   "windows": {
     "weekStart": "2026-06-08T00:00:00.000Z",
     "monthStart": "2026-06-01T00:00:00.000Z",
