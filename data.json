@@ -289,15 +289,6 @@
         "author": "DeVikingMark",
         "reviewer": "walldiss",
         "requestedAt": "2025-10-07T18:59:09Z"
-      },
-      {
-        "number": 5018,
-        "title": "feat(core): multi-source block ingestion for the bridge listener",
-        "url": "https://github.com/celestiaorg/celestia-node/pull/5018",
-        "repo": "celestia-node",
-        "author": "vgonkivs",
-        "reviewer": "walldiss",
-        "requestedAt": "2026-05-26T09:58:48Z"
       }
     ],
     "Wondertan": [
@@ -376,5 +367,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-06-09T14:15:17.947Z"
+  "fetchedAt": "2026-06-09T15:25:56.925Z"
 }
