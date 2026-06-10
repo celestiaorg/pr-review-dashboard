@@ -116,15 +116,6 @@
         "requestedAt": "2026-06-08T11:04:01Z"
       },
       {
-        "number": 5049,
-        "title": "feat(core): multi-source block ingestion for the bridge listener (#5018)",
-        "url": "https://github.com/celestiaorg/celestia-node/pull/5049",
-        "repo": "celestia-node",
-        "author": "vgonkivs",
-        "reviewer": "mcrakhman",
-        "requestedAt": "2026-06-10T09:31:00Z"
-      },
-      {
         "number": 145,
         "title": "chore(deps): bump go.opentelemetry.io/otel/metric from 1.36.0 to 1.43.0",
         "url": "https://github.com/celestiaorg/go-fraud/pull/145",
@@ -432,5 +423,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-06-10T10:52:01.709Z"
+  "fetchedAt": "2026-06-10T12:02:25.067Z"
 }
