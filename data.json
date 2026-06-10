@@ -1,7 +1,17 @@
 {
   "reviews": {
     "rootulp": [],
-    "ninabarbakadze": [],
+    "ninabarbakadze": [
+      {
+        "number": 7388,
+        "title": "fix: mocha sync, os race condition, add retries to TestRun",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/7388",
+        "repo": "celestia-app",
+        "author": "chatton",
+        "reviewer": "ninabarbakadze",
+        "requestedAt": "2026-06-10T08:30:21Z"
+      }
+    ],
     "rach-id": [
       {
         "number": 7191,
@@ -29,15 +39,6 @@
         "author": "rootulp",
         "reviewer": "rach-id",
         "requestedAt": "2026-06-09T13:15:57Z"
-      },
-      {
-        "number": 5047,
-        "title": "backport changes",
-        "url": "https://github.com/celestiaorg/celestia-node/pull/5047",
-        "repo": "celestia-node",
-        "author": "vgonkivs",
-        "reviewer": "rach-id",
-        "requestedAt": "2026-06-10T07:50:26Z"
       }
     ],
     "mcrakhman": [
@@ -394,5 +395,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-06-10T08:00:28.754Z"
+  "fetchedAt": "2026-06-10T09:28:40.262Z"
 }
