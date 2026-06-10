@@ -29,6 +29,15 @@
         "author": "rootulp",
         "reviewer": "rach-id",
         "requestedAt": "2026-06-09T13:15:57Z"
+      },
+      {
+        "number": 5047,
+        "title": "backport changes",
+        "url": "https://github.com/celestiaorg/celestia-node/pull/5047",
+        "repo": "celestia-node",
+        "author": "vgonkivs",
+        "reviewer": "rach-id",
+        "requestedAt": "2026-06-10T07:50:26Z"
       }
     ],
     "mcrakhman": [
@@ -385,5 +394,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-06-10T06:34:02.386Z"
+  "fetchedAt": "2026-06-10T08:00:28.754Z"
 }
