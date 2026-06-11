@@ -98,15 +98,6 @@
         "requestedAt": "2026-05-29T16:19:19Z"
       },
       {
-        "number": 5031,
-        "title": "chore(deps): bump go.opentelemetry.io/contrib/instrumentation/runtime from 0.68.0 to 0.69.0",
-        "url": "https://github.com/celestiaorg/celestia-node/pull/5031",
-        "repo": "celestia-node",
-        "author": "dependabot",
-        "reviewer": "mcrakhman",
-        "requestedAt": "2026-06-02T08:21:08Z"
-      },
-      {
         "number": 5037,
         "title": "chore(deps): bump github.com/quic-go/quic-go from 0.59.0 to 0.59.1",
         "url": "https://github.com/celestiaorg/celestia-node/pull/5037",
@@ -114,24 +105,6 @@
         "author": "dependabot",
         "reviewer": "mcrakhman",
         "requestedAt": "2026-06-03T21:14:39Z"
-      },
-      {
-        "number": 5044,
-        "title": "chore(deps): bump tspascoal/get-user-teams-membership from 3.0.0 to 4.0.2",
-        "url": "https://github.com/celestiaorg/celestia-node/pull/5044",
-        "repo": "celestia-node",
-        "author": "dependabot",
-        "reviewer": "mcrakhman",
-        "requestedAt": "2026-06-08T11:04:01Z"
-      },
-      {
-        "number": 145,
-        "title": "chore(deps): bump go.opentelemetry.io/otel/metric from 1.36.0 to 1.43.0",
-        "url": "https://github.com/celestiaorg/go-fraud/pull/145",
-        "repo": "go-fraud",
-        "author": "dependabot",
-        "reviewer": "mcrakhman",
-        "requestedAt": "2026-04-20T12:34:13Z"
       },
       {
         "number": 884,
@@ -181,6 +154,15 @@
         "requestedAt": "2026-06-11T13:07:39Z"
       },
       {
+        "number": 7401,
+        "title": "fix: poll for delegation rewards in TestClaimRewardsAfterFullUndelegation",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/7401",
+        "repo": "celestia-app",
+        "author": "rootulp",
+        "reviewer": "vgonkivs",
+        "requestedAt": "2026-06-11T21:31:35Z"
+      },
+      {
         "number": 3107,
         "title": "build(deps): Bump github.com/prometheus/common from 0.68.0 to 0.68.1",
         "url": "https://github.com/celestiaorg/celestia-core/pull/3107",
@@ -190,15 +172,6 @@
         "requestedAt": "2026-06-08T09:35:07Z"
       },
       {
-        "number": 3113,
-        "title": "feat: add on wire proto check for signature count",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3113",
-        "repo": "celestia-core",
-        "author": "ninabarbakadze",
-        "reviewer": "vgonkivs",
-        "requestedAt": "2026-06-10T10:40:03Z"
-      },
-      {
         "number": 4617,
         "title": "feat(api/client): add support for multiple endpoints with failover",
         "url": "https://github.com/celestiaorg/celestia-node/pull/4617",
@@ -206,15 +179,6 @@
         "author": "DeVikingMark",
         "reviewer": "vgonkivs",
         "requestedAt": "2025-10-07T18:59:09Z"
-      },
-      {
-        "number": 4738,
-        "title": "fix(core): Return partial response for headers if one fails",
-        "url": "https://github.com/celestiaorg/celestia-node/pull/4738",
-        "repo": "celestia-node",
-        "author": "renaynay",
-        "reviewer": "vgonkivs",
-        "requestedAt": "2025-12-12T13:47:27Z"
       },
       {
         "number": 5027,
@@ -244,13 +208,13 @@
         "requestedAt": "2026-06-08T11:06:21Z"
       },
       {
-        "number": 397,
-        "title": "chore(deps): bump github.com/quic-go/quic-go from 0.59.0 to 0.59.1",
-        "url": "https://github.com/celestiaorg/go-header/pull/397",
-        "repo": "go-header",
-        "author": "dependabot",
+        "number": 418,
+        "title": "fix: UnmarshalJSON limited to the default tree",
+        "url": "https://github.com/celestiaorg/rsmt2d/pull/418",
+        "repo": "rsmt2d",
+        "author": "rootulp",
         "reviewer": "vgonkivs",
-        "requestedAt": "2026-06-03T21:15:35Z"
+        "requestedAt": "2026-06-11T21:21:28Z"
       }
     ],
     "evan-forbes": [
@@ -392,15 +356,6 @@
         "author": "DeVikingMark",
         "reviewer": "Wondertan",
         "requestedAt": "2025-10-07T18:59:09Z"
-      },
-      {
-        "number": 4738,
-        "title": "fix(core): Return partial response for headers if one fails",
-        "url": "https://github.com/celestiaorg/celestia-node/pull/4738",
-        "repo": "celestia-node",
-        "author": "renaynay",
-        "reviewer": "Wondertan",
-        "requestedAt": "2025-12-12T13:47:27Z"
       }
     ],
     "tty47": [],
@@ -497,5 +452,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-06-11T20:59:30.298Z"
+  "fetchedAt": "2026-06-11T21:47:40.376Z"
 }
