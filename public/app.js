@@ -63,31 +63,96 @@
     return "red";
   }
 
+  function createToggleButton(member) {
+    const btn = document.createElement("button");
+    btn.className = "toggle-btn";
+    btn.textContent = member.name;
+
+    if (isMemberVisible(member)) {
+      btn.classList.add("active");
+    } else {
+      btn.classList.add("hidden");
+    }
+
+    btn.addEventListener("click", () => {
+      toggleMember(member);
+      renderToggles();
+      if (lastData) renderCards(lastData);
+      if (lastReviewCounts) renderReviewCounts(lastReviewCounts);
+      if (lastReviewLatencies) renderReviewLatencies(lastReviewLatencies);
+    });
+
+    return btn;
+  }
+
   function renderToggles() {
     const container = document.getElementById("toggles");
     container.innerHTML = "";
 
-    for (const member of teamMembers) {
-      const btn = document.createElement("button");
-      btn.className = "toggle-btn";
-      btn.textContent = member.name;
+    const active = teamMembers.filter((m) => !m.alumni);
+    const alumni = teamMembers.filter((m) => m.alumni);
 
-      if (isMemberVisible(member)) {
-        btn.classList.add("active");
-      } else {
-        btn.classList.add("hidden");
-      }
-
-      btn.addEventListener("click", () => {
-        toggleMember(member);
-        renderToggles();
-        if (lastData) renderCards(lastData);
-        if (lastReviewCounts) renderReviewCounts(lastReviewCounts);
-        if (lastReviewLatencies) renderReviewLatencies(lastReviewLatencies);
-      });
-
-      container.appendChild(btn);
+    const activeGroup = document.createElement("div");
+    activeGroup.className = "toggle-group";
+    for (const member of active) {
+      activeGroup.appendChild(createToggleButton(member));
     }
+    container.appendChild(activeGroup);
+
+    if (alumni.length > 0) {
+      const alumniGroup = document.createElement("div");
+      alumniGroup.className = "toggle-group alumni";
+
+      const label = document.createElement("span");
+      label.className = "toggle-group-label";
+      label.textContent = "Alumni";
+      alumniGroup.appendChild(label);
+
+      for (const member of alumni) {
+        alumniGroup.appendChild(createToggleButton(member));
+      }
+      container.appendChild(alumniGroup);
+    }
+  }
+
+  // Collapse a card's PR list when it has more than COLLAPSE_THRESHOLD
+  // entries, showing only the COLLAPSED_PR_COUNT oldest. The threshold is
+  // one above the shown count so we never hide a single PR behind "+1 more".
+  const COLLAPSED_PR_COUNT = 3;
+  const COLLAPSE_THRESHOLD = 4;
+
+  function createPrItem(pr) {
+    const item = document.createElement("div");
+    item.className = "pr-item";
+
+    const title = document.createElement("div");
+    title.className = "pr-title";
+    const link = document.createElement("a");
+    link.href = pr.url;
+    link.target = "_blank";
+    link.rel = "noopener noreferrer";
+    link.textContent = pr.title;
+    link.title = pr.title;
+    title.appendChild(link);
+
+    const meta = document.createElement("div");
+    meta.className = "pr-meta";
+
+    const repoInfo = document.createElement("span");
+    repoInfo.className = "pr-repo";
+    repoInfo.textContent = `${pr.repo}#${pr.number} by ${pr.author}`;
+
+    const wait = formatWaitTime(pr.requestedAt);
+    const waitSpan = document.createElement("span");
+    waitSpan.className = `wait-time ${getWaitClass(wait.hours)}`;
+    waitSpan.textContent = wait.text;
+
+    meta.appendChild(repoInfo);
+    meta.appendChild(waitSpan);
+
+    item.appendChild(title);
+    item.appendChild(meta);
+    return item;
   }
 
   function renderCards(data) {
@@ -128,37 +193,28 @@
           (a, b) => new Date(a.requestedAt) - new Date(b.requestedAt)
         );
 
-        for (const pr of sorted) {
-          const item = document.createElement("div");
-          item.className = "pr-item";
+        // Cap long queues at the oldest few PRs so one member's card
+        // doesn't dominate the grid. Only collapse when it hides more
+        // than one PR; expansion is ephemeral (resets on re-render).
+        const collapse = sorted.length > COLLAPSE_THRESHOLD;
+        const shown = collapse ? sorted.slice(0, COLLAPSED_PR_COUNT) : sorted;
 
-          const title = document.createElement("div");
-          title.className = "pr-title";
-          const link = document.createElement("a");
-          link.href = pr.url;
-          link.target = "_blank";
-          link.rel = "noopener noreferrer";
-          link.textContent = pr.title;
-          title.appendChild(link);
+        for (const pr of shown) {
+          card.appendChild(createPrItem(pr));
+        }
 
-          const meta = document.createElement("div");
-          meta.className = "pr-meta";
-
-          const repoInfo = document.createElement("span");
-          repoInfo.className = "pr-repo";
-          repoInfo.textContent = `${pr.repo}#${pr.number} by ${pr.author}`;
-
-          const wait = formatWaitTime(pr.requestedAt);
-          const waitSpan = document.createElement("span");
-          waitSpan.className = `wait-time ${getWaitClass(wait.hours)}`;
-          waitSpan.textContent = wait.text;
-
-          meta.appendChild(repoInfo);
-          meta.appendChild(waitSpan);
-
-          item.appendChild(title);
-          item.appendChild(meta);
-          card.appendChild(item);
+        if (collapse) {
+          const hidden = sorted.slice(COLLAPSED_PR_COUNT);
+          const moreBtn = document.createElement("button");
+          moreBtn.className = "show-more-btn";
+          moreBtn.textContent = `+${hidden.length} more ▾`;
+          moreBtn.addEventListener("click", () => {
+            for (const pr of hidden) {
+              card.insertBefore(createPrItem(pr), moreBtn);
+            }
+            moreBtn.remove();
+          });
+          card.appendChild(moreBtn);
         }
       }
 

@@ -8,7 +8,8 @@ A live dashboard that shows each protocol team member's pending PR review queue,
 
 - Card grid showing each team member's pending reviews
 - Wait times color-coded: green (≤12h), yellow (12-24h), red (>24h)
-- Toggle buttons to show/hide members (e.g., when they're on another project)
+- Toggle buttons to show/hide members (e.g., when they're on another project), with alumni grouped separately and hidden by default
+- Cards with more than 4 pending reviews collapse to the oldest 3 with a "+N more" expander
 - Auto-refreshes every 5 minutes
 - Only shows open, non-draft PRs in [protocol repos](https://github.com/celestiaorg/protocol?tab=readme-ov-file#repos)
 - **Reviews completed** section at the top of the page with per-teammate bar charts for this week, this month, and YTD

@@ -26,9 +26,32 @@ header h1 {
 
 .toggles {
   display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 8px;
+}
+
+.toggle-group {
+  display: flex;
   flex-wrap: wrap;
   justify-content: center;
+  align-items: center;
   gap: 8px;
+}
+
+.toggle-group-label {
+  font-size: 0.75rem;
+  color: #666;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+}
+
+.toggle-group.alumni .toggle-btn {
+  opacity: 0.7;
+}
+
+.toggle-group.alumni .toggle-btn.hidden {
+  opacity: 0.35;
 }
 
 .toggle-btn {
@@ -87,7 +110,7 @@ main {
 .card {
   background: #1a1a2e;
   border-radius: 12px;
-  padding: 20px;
+  padding: 14px;
   border: 1px solid #2a2a3e;
 }
 
@@ -108,19 +131,38 @@ main {
 }
 
 .pr-item {
-  padding: 10px 0;
+  padding: 6px 0;
   border-top: 1px solid #2a2a3e;
 }
 
 .pr-title {
-  font-size: 0.9rem;
-  margin-bottom: 4px;
-  overflow-wrap: anywhere;
+  font-size: 0.85rem;
+  margin-bottom: 2px;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
 }
 
 .pr-title a {
   color: #a5b4fc;
   text-decoration: none;
+}
+
+.show-more-btn {
+  display: block;
+  width: 100%;
+  padding: 6px 0 2px;
+  border: none;
+  border-top: 1px solid #2a2a3e;
+  background: none;
+  color: #7c6ff7;
+  cursor: pointer;
+  font-size: 0.8rem;
+  text-align: center;
+}
+
+.show-more-btn:hover {
+  color: #a5b4fc;
 }
 
 .pr-title a:hover {
