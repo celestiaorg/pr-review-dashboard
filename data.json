@@ -87,15 +87,6 @@
         "author": "zvolin",
         "reviewer": "mcrakhman",
         "requestedAt": "2026-02-06T11:07:52Z"
-      },
-      {
-        "number": 974,
-        "title": "feat(client): expose get_tx on StateApi for reading submitted transactions",
-        "url": "https://github.com/celestiaorg/lumina/pull/974",
-        "repo": "lumina",
-        "author": "proofmancer",
-        "reviewer": "mcrakhman",
-        "requestedAt": "2026-05-23T18:11:54Z"
       }
     ],
     "vgonkivs": [
@@ -199,15 +190,6 @@
         "author": "dependabot",
         "reviewer": "evan-forbes",
         "requestedAt": "2026-06-02T08:20:59Z"
-      },
-      {
-        "number": 5036,
-        "title": "chore(deps): bump github.com/quic-go/quic-go from 0.59.0 to 0.59.1 in /nodebuilder/tests/tastora",
-        "url": "https://github.com/celestiaorg/celestia-node/pull/5036",
-        "repo": "celestia-node",
-        "author": "dependabot",
-        "reviewer": "evan-forbes",
-        "requestedAt": "2026-06-03T21:13:16Z"
       },
       {
         "number": 266,
@@ -362,5 +344,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-06-11T23:04:55.657Z"
+  "fetchedAt": "2026-06-11T23:43:46.499Z"
 }
