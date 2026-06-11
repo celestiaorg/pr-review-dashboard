@@ -3,24 +3,6 @@
     "rootulp": [],
     "ninabarbakadze": [
       {
-        "number": 7388,
-        "title": "fix: mocha sync, os race condition, add retries to TestRun",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7388",
-        "repo": "celestia-app",
-        "author": "chatton",
-        "reviewer": "ninabarbakadze",
-        "requestedAt": "2026-06-10T08:30:21Z"
-      },
-      {
-        "number": 7389,
-        "title": "fix: skip racy txsim CLI tests in test-race nightly job",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7389",
-        "repo": "celestia-app",
-        "author": "rootulp",
-        "reviewer": "ninabarbakadze",
-        "requestedAt": "2026-06-11T03:03:32Z"
-      },
-      {
         "number": 3110,
         "title": "refactor(p2p): reduce ERR log noise from routine peer churn",
         "url": "https://github.com/celestiaorg/celestia-core/pull/3110",
@@ -40,15 +22,6 @@
       }
     ],
     "rach-id": [
-      {
-        "number": 7191,
-        "title": "perf(fibre): zero-allocation gRPC marshal path for UploadShardRequest",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7191",
-        "repo": "celestia-app",
-        "author": "walldiss",
-        "reviewer": "rach-id",
-        "requestedAt": "2026-06-08T20:33:46Z"
-      },
       {
         "number": 7306,
         "title": "feat(fibre): validator-endorsed gRPC TLS",
@@ -348,15 +321,6 @@
     ],
     "Wondertan": [
       {
-        "number": 7191,
-        "title": "perf(fibre): zero-allocation gRPC marshal path for UploadShardRequest",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7191",
-        "repo": "celestia-app",
-        "author": "walldiss",
-        "reviewer": "Wondertan",
-        "requestedAt": "2026-05-28T17:36:41Z"
-      },
-      {
         "number": 4617,
         "title": "feat(api/client): add support for multiple endpoints with failover",
         "url": "https://github.com/celestiaorg/celestia-node/pull/4617",
@@ -422,5 +386,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-06-11T06:59:41.149Z"
+  "fetchedAt": "2026-06-11T08:38:32.089Z"
 }
