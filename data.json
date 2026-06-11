@@ -80,24 +80,6 @@
     ],
     "mcrakhman": [
       {
-        "number": 3106,
-        "title": "build(deps): Bump github.com/aws/aws-sdk-go-v2/service/s3 from 1.102.2 to 1.103.2",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3106",
-        "repo": "celestia-core",
-        "author": "dependabot",
-        "reviewer": "mcrakhman",
-        "requestedAt": "2026-06-08T09:34:54Z"
-      },
-      {
-        "number": 5019,
-        "title": "share: add RowsWithNamespace tests",
-        "url": "https://github.com/celestiaorg/celestia-node/pull/5019",
-        "repo": "celestia-node",
-        "author": "sueun-dev",
-        "reviewer": "mcrakhman",
-        "requestedAt": "2026-05-29T16:19:19Z"
-      },
-      {
         "number": 5037,
         "title": "chore(deps): bump github.com/quic-go/quic-go from 0.59.0 to 0.59.1",
         "url": "https://github.com/celestiaorg/celestia-node/pull/5037",
@@ -145,15 +127,6 @@
         "requestedAt": "2026-06-08T09:44:37Z"
       },
       {
-        "number": 7396,
-        "title": "fix(ci): retry go mod tidy -diff to avoid flaky tidy-check failures",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7396",
-        "repo": "celestia-app",
-        "author": "rootulp",
-        "reviewer": "vgonkivs",
-        "requestedAt": "2026-06-11T13:07:39Z"
-      },
-      {
         "number": 7401,
         "title": "fix: poll for delegation rewards in TestClaimRewardsAfterFullUndelegation",
         "url": "https://github.com/celestiaorg/celestia-app/pull/7401",
@@ -188,15 +161,6 @@
         "author": "dependabot",
         "reviewer": "vgonkivs",
         "requestedAt": "2026-06-02T08:20:36Z"
-      },
-      {
-        "number": 5041,
-        "title": "headertest: unify TestSuite constructors behind functional options",
-        "url": "https://github.com/celestiaorg/celestia-node/pull/5041",
-        "repo": "celestia-node",
-        "author": "pjdurden",
-        "reviewer": "vgonkivs",
-        "requestedAt": "2026-06-08T11:10:14Z"
       },
       {
         "number": 5046,
@@ -265,7 +229,7 @@
       },
       {
         "number": 5015,
-        "title": "chore(deps): bump golang.org/x/crypto from 0.50.0 to 0.52.0",
+        "title": "chore(deps): bump golang.org/x/crypto from 0.50.0 to 0.53.0",
         "url": "https://github.com/celestiaorg/celestia-node/pull/5015",
         "repo": "celestia-node",
         "author": "dependabot",
@@ -452,5 +416,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-06-11T21:47:40.376Z"
+  "fetchedAt": "2026-06-11T22:27:41.489Z"
 }
