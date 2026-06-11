@@ -26,6 +26,10 @@ module.exports = {
     { name: "Evan", github: "evan-forbes", defaultHidden: false },
     { name: "Vlad", github: "walldiss", defaultHidden: true },
     { name: "Hlib", github: "Wondertan", defaultHidden: true },
+    { name: "Jose", github: "tty47", defaultHidden: false },
+    { name: "Cris", github: "pippokr", defaultHidden: false },
+    { name: "Rene", github: "renaynay", defaultHidden: false },
+    { name: "Cian", github: "chatton", defaultHidden: false },
   ],
 
   thresholds: {
