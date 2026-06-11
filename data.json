@@ -21,17 +21,7 @@
         "requestedAt": "2026-06-10T14:32:53Z"
       }
     ],
-    "rach-id": [
-      {
-        "number": 7306,
-        "title": "feat(fibre): validator-endorsed gRPC TLS",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7306",
-        "repo": "celestia-app",
-        "author": "walldiss",
-        "reviewer": "rach-id",
-        "requestedAt": "2026-06-09T18:56:51Z"
-      }
-    ],
+    "rach-id": [],
     "mcrakhman": [
       {
         "number": 7221,
@@ -386,5 +376,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-06-11T10:07:19.000Z"
+  "fetchedAt": "2026-06-11T11:44:35.636Z"
 }
