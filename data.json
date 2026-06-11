@@ -29,9 +29,27 @@
         "author": "rootulp",
         "reviewer": "ninabarbakadze",
         "requestedAt": "2026-06-10T14:32:48Z"
+      },
+      {
+        "number": 3111,
+        "title": "refactor(consensus): remove \"failed to process message\" catch-all and log errors in place",
+        "url": "https://github.com/celestiaorg/celestia-core/pull/3111",
+        "repo": "celestia-core",
+        "author": "rootulp",
+        "reviewer": "ninabarbakadze",
+        "requestedAt": "2026-06-10T14:32:53Z"
       }
     ],
     "rach-id": [
+      {
+        "number": 7399,
+        "title": "fix: bump celestiaorg/cosmos-sdk to v0.52.7",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/7399",
+        "repo": "celestia-app",
+        "author": "rootulp",
+        "reviewer": "rach-id",
+        "requestedAt": "2026-06-11T19:35:28Z"
+      },
       {
         "number": 268,
         "title": "test: pin share prefix layout",
@@ -393,6 +411,30 @@
         "reviewer": "Wondertan",
         "requestedAt": "2025-12-12T13:47:27Z"
       }
+    ],
+    "tty47": [],
+    "pippokr": [],
+    "renaynay": [
+      {
+        "number": 4617,
+        "title": "feat(api/client): add support for multiple endpoints with failover",
+        "url": "https://github.com/celestiaorg/celestia-node/pull/4617",
+        "repo": "celestia-node",
+        "author": "DeVikingMark",
+        "reviewer": "renaynay",
+        "requestedAt": "2025-10-07T18:59:09Z"
+      }
+    ],
+    "chatton": [
+      {
+        "number": 7381,
+        "title": "ci: retry go-mod-tidy-check to tolerate transient download failures",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/7381",
+        "repo": "celestia-app",
+        "author": "rootulp",
+        "reviewer": "chatton",
+        "requestedAt": "2026-06-08T20:12:17Z"
+      }
     ]
   },
   "teamMembers": [
@@ -435,11 +477,31 @@
       "name": "Hlib",
       "github": "Wondertan",
       "defaultHidden": true
+    },
+    {
+      "name": "Jose",
+      "github": "tty47",
+      "defaultHidden": false
+    },
+    {
+      "name": "Cris",
+      "github": "pippokr",
+      "defaultHidden": false
+    },
+    {
+      "name": "Rene",
+      "github": "renaynay",
+      "defaultHidden": false
+    },
+    {
+      "name": "Cian",
+      "github": "chatton",
+      "defaultHidden": false
     }
   ],
   "thresholds": {
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-06-11T19:31:44.055Z"
+  "fetchedAt": "2026-06-11T19:40:04.806Z"
 }
