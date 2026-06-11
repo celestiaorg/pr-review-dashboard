@@ -57,33 +57,6 @@
         "author": "walldiss",
         "reviewer": "rach-id",
         "requestedAt": "2026-06-09T18:56:51Z"
-      },
-      {
-        "number": 3110,
-        "title": "refactor(p2p): reduce ERR log noise from routine peer churn",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3110",
-        "repo": "celestia-core",
-        "author": "rootulp",
-        "reviewer": "rach-id",
-        "requestedAt": "2026-06-09T13:15:57Z"
-      },
-      {
-        "number": 3111,
-        "title": "refactor(consensus): split \"failed to process message\" log by error type",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3111",
-        "repo": "celestia-core",
-        "author": "rootulp",
-        "reviewer": "rach-id",
-        "requestedAt": "2026-06-10T14:32:57Z"
-      },
-      {
-        "number": 3113,
-        "title": "feat: add on wire proto check for signature count",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3113",
-        "repo": "celestia-core",
-        "author": "ninabarbakadze",
-        "reviewer": "rach-id",
-        "requestedAt": "2026-06-10T10:40:17Z"
       }
     ],
     "mcrakhman": [
@@ -449,5 +422,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-06-11T05:16:21.787Z"
+  "fetchedAt": "2026-06-11T06:59:41.149Z"
 }
