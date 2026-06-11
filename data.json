@@ -13,6 +13,15 @@
     ],
     "ninabarbakadze": [
       {
+        "number": 7381,
+        "title": "ci: retry go-mod-tidy-check to tolerate transient download failures",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/7381",
+        "repo": "celestia-app",
+        "author": "rootulp",
+        "reviewer": "ninabarbakadze",
+        "requestedAt": "2026-06-11T20:44:21Z"
+      },
+      {
         "number": 7398,
         "title": "fix: harden TxCache.getBlobsHash against blob hash collisions",
         "url": "https://github.com/celestiaorg/celestia-app/pull/7398",
@@ -42,6 +51,15 @@
     ],
     "rach-id": [
       {
+        "number": 7381,
+        "title": "ci: retry go-mod-tidy-check to tolerate transient download failures",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/7381",
+        "repo": "celestia-app",
+        "author": "rootulp",
+        "reviewer": "rach-id",
+        "requestedAt": "2026-06-11T20:44:21Z"
+      },
+      {
         "number": 7399,
         "title": "fix: bump celestiaorg/cosmos-sdk to v0.52.7",
         "url": "https://github.com/celestiaorg/celestia-app/pull/7399",
@@ -61,24 +79,6 @@
       }
     ],
     "mcrakhman": [
-      {
-        "number": 7221,
-        "title": "feat(fibre-reader): add reading simulator + talis Reader instance type",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7221",
-        "repo": "celestia-app",
-        "author": "walldiss",
-        "reviewer": "mcrakhman",
-        "requestedAt": "2026-05-28T17:10:23Z"
-      },
-      {
-        "number": 7395,
-        "title": "feat: add duplicate row indices check to Verify() in Fibre",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7395",
-        "repo": "celestia-app",
-        "author": "ninabarbakadze",
-        "reviewer": "mcrakhman",
-        "requestedAt": "2026-06-11T12:42:27Z"
-      },
       {
         "number": 3106,
         "title": "build(deps): Bump github.com/aws/aws-sdk-go-v2/service/s3 from 1.102.2 to 1.103.2",
@@ -162,15 +162,6 @@
       }
     ],
     "vgonkivs": [
-      {
-        "number": 7306,
-        "title": "feat(fibre): validator-endorsed gRPC TLS",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7306",
-        "repo": "celestia-app",
-        "author": "walldiss",
-        "reviewer": "vgonkivs",
-        "requestedAt": "2026-06-09T18:56:42Z"
-      },
       {
         "number": 7364,
         "title": "chore(deps): bump github.com/digitalocean/godo from 1.192.0 to 1.194.1",
@@ -506,5 +497,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-06-11T20:27:21.248Z"
+  "fetchedAt": "2026-06-11T20:59:30.298Z"
 }
