@@ -23,6 +23,15 @@
     ],
     "rach-id": [
       {
+        "number": 7397,
+        "title": "fix: relax flaky TestTxSubmission success-rate threshold to 99.5%",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/7397",
+        "repo": "celestia-app",
+        "author": "rootulp",
+        "reviewer": "rach-id",
+        "requestedAt": "2026-06-11T13:13:03Z"
+      },
+      {
         "number": 3113,
         "title": "feat: add on wire proto check for signature count",
         "url": "https://github.com/celestiaorg/celestia-core/pull/3113",
@@ -151,6 +160,15 @@
         "author": "dependabot",
         "reviewer": "vgonkivs",
         "requestedAt": "2026-06-08T09:44:37Z"
+      },
+      {
+        "number": 7396,
+        "title": "fix(ci): retry go mod tidy -diff to avoid flaky tidy-check failures",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/7396",
+        "repo": "celestia-app",
+        "author": "rootulp",
+        "reviewer": "vgonkivs",
+        "requestedAt": "2026-06-11T13:07:39Z"
       },
       {
         "number": 3107,
@@ -395,5 +413,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-06-11T13:00:23.767Z"
+  "fetchedAt": "2026-06-11T14:23:20.443Z"
 }
