@@ -21,7 +21,17 @@
         "requestedAt": "2026-06-10T14:32:53Z"
       }
     ],
-    "rach-id": [],
+    "rach-id": [
+      {
+        "number": 3113,
+        "title": "feat: add on wire proto check for signature count",
+        "url": "https://github.com/celestiaorg/celestia-core/pull/3113",
+        "repo": "celestia-core",
+        "author": "ninabarbakadze",
+        "reviewer": "rach-id",
+        "requestedAt": "2026-06-11T11:56:57Z"
+      }
+    ],
     "mcrakhman": [
       {
         "number": 7221,
@@ -31,6 +41,15 @@
         "author": "walldiss",
         "reviewer": "mcrakhman",
         "requestedAt": "2026-05-28T17:10:23Z"
+      },
+      {
+        "number": 7395,
+        "title": "feat: add duplicate row indices check to Verify() in Fibre",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/7395",
+        "repo": "celestia-app",
+        "author": "ninabarbakadze",
+        "reviewer": "mcrakhman",
+        "requestedAt": "2026-06-11T12:42:27Z"
       },
       {
         "number": 3106,
@@ -376,5 +395,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-06-11T11:44:35.636Z"
+  "fetchedAt": "2026-06-11T13:00:23.767Z"
 }
