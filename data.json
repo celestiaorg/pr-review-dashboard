@@ -22,6 +22,15 @@
         "requestedAt": "2026-06-11T19:09:50Z"
       },
       {
+        "number": 7400,
+        "title": "ci: notify #protocol-ci Slack channel on CI failures",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/7400",
+        "repo": "celestia-app",
+        "author": "rootulp",
+        "reviewer": "ninabarbakadze",
+        "requestedAt": "2026-06-11T20:12:17Z"
+      },
+      {
         "number": 3110,
         "title": "refactor(p2p): reduce ERR log noise from routine peer churn",
         "url": "https://github.com/celestiaorg/celestia-core/pull/3110",
@@ -494,5 +503,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-06-11T20:04:06.360Z"
+  "fetchedAt": "2026-06-11T20:18:47.376Z"
 }
