@@ -29,15 +29,6 @@
         "author": "rootulp",
         "reviewer": "ninabarbakadze",
         "requestedAt": "2026-06-10T14:32:48Z"
-      },
-      {
-        "number": 3111,
-        "title": "refactor(consensus): remove \"failed to process message\" catch-all and log errors in place",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3111",
-        "repo": "celestia-core",
-        "author": "rootulp",
-        "reviewer": "ninabarbakadze",
-        "requestedAt": "2026-06-10T14:32:53Z"
       }
     ],
     "rach-id": [
@@ -503,5 +494,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-06-11T19:40:04.806Z"
+  "fetchedAt": "2026-06-11T19:51:38.935Z"
 }
