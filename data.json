@@ -80,15 +80,6 @@
     ],
     "mcrakhman": [
       {
-        "number": 5037,
-        "title": "chore(deps): bump github.com/quic-go/quic-go from 0.59.0 to 0.59.1",
-        "url": "https://github.com/celestiaorg/celestia-node/pull/5037",
-        "repo": "celestia-node",
-        "author": "dependabot",
-        "reviewer": "mcrakhman",
-        "requestedAt": "2026-06-03T21:14:39Z"
-      },
-      {
         "number": 884,
         "title": "feat(node)!: switch sample and row requests to shrex",
         "url": "https://github.com/celestiaorg/lumina/pull/884",
@@ -105,45 +96,9 @@
         "author": "proofmancer",
         "reviewer": "mcrakhman",
         "requestedAt": "2026-05-23T18:11:54Z"
-      },
-      {
-        "number": 975,
-        "title": "Add support for connect timeout",
-        "url": "https://github.com/celestiaorg/lumina/pull/975",
-        "repo": "lumina",
-        "author": "citizen-stig",
-        "reviewer": "mcrakhman",
-        "requestedAt": "2026-06-09T12:55:41Z"
       }
     ],
     "vgonkivs": [
-      {
-        "number": 7364,
-        "title": "chore(deps): bump github.com/digitalocean/godo from 1.192.0 to 1.194.1",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7364",
-        "repo": "celestia-app",
-        "author": "dependabot",
-        "reviewer": "vgonkivs",
-        "requestedAt": "2026-06-08T09:44:37Z"
-      },
-      {
-        "number": 7401,
-        "title": "fix: poll for delegation rewards in TestClaimRewardsAfterFullUndelegation",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7401",
-        "repo": "celestia-app",
-        "author": "rootulp",
-        "reviewer": "vgonkivs",
-        "requestedAt": "2026-06-11T21:31:35Z"
-      },
-      {
-        "number": 3107,
-        "title": "build(deps): Bump github.com/prometheus/common from 0.68.0 to 0.68.1",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3107",
-        "repo": "celestia-core",
-        "author": "dependabot",
-        "reviewer": "vgonkivs",
-        "requestedAt": "2026-06-08T09:35:07Z"
-      },
       {
         "number": 4617,
         "title": "feat(api/client): add support for multiple endpoints with failover",
@@ -170,15 +125,6 @@
         "author": "dependabot",
         "reviewer": "vgonkivs",
         "requestedAt": "2026-06-08T11:06:21Z"
-      },
-      {
-        "number": 418,
-        "title": "fix: UnmarshalJSON limited to the default tree",
-        "url": "https://github.com/celestiaorg/rsmt2d/pull/418",
-        "repo": "rsmt2d",
-        "author": "rootulp",
-        "reviewer": "vgonkivs",
-        "requestedAt": "2026-06-11T21:21:28Z"
       }
     ],
     "evan-forbes": [
@@ -202,7 +148,7 @@
       },
       {
         "number": 7367,
-        "title": "chore(deps): bump google.golang.org/api from 0.279.0 to 0.283.0",
+        "title": "chore(deps): bump google.golang.org/api from 0.279.0 to 0.284.0",
         "url": "https://github.com/celestiaorg/celestia-app/pull/7367",
         "repo": "celestia-app",
         "author": "dependabot",
@@ -416,5 +362,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-06-11T22:27:41.489Z"
+  "fetchedAt": "2026-06-11T23:04:55.657Z"
 }
