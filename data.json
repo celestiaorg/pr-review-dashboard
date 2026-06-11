@@ -3,6 +3,15 @@
     "rootulp": [],
     "ninabarbakadze": [
       {
+        "number": 7398,
+        "title": "fix: harden TxCache.getBlobsHash against blob hash collisions",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/7398",
+        "repo": "celestia-app",
+        "author": "rootulp",
+        "reviewer": "ninabarbakadze",
+        "requestedAt": "2026-06-11T19:09:50Z"
+      },
+      {
         "number": 3110,
         "title": "refactor(p2p): reduce ERR log noise from routine peer churn",
         "url": "https://github.com/celestiaorg/celestia-core/pull/3110",
@@ -10,27 +19,19 @@
         "author": "rootulp",
         "reviewer": "ninabarbakadze",
         "requestedAt": "2026-06-10T14:32:48Z"
-      },
-      {
-        "number": 3111,
-        "title": "refactor(consensus): split \"failed to process message\" log by error type",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3111",
-        "repo": "celestia-core",
-        "author": "rootulp",
-        "reviewer": "ninabarbakadze",
-        "requestedAt": "2026-06-10T14:32:53Z"
-      },
-      {
-        "number": 266,
-        "title": "fix!: domain-separate and length-prefix Blob.Hash preimage",
-        "url": "https://github.com/celestiaorg/go-square/pull/266",
-        "repo": "go-square",
-        "author": "rootulp",
-        "reviewer": "ninabarbakadze",
-        "requestedAt": "2026-06-11T15:39:37Z"
       }
     ],
-    "rach-id": [],
+    "rach-id": [
+      {
+        "number": 268,
+        "title": "test: pin share prefix layout",
+        "url": "https://github.com/celestiaorg/go-square/pull/268",
+        "repo": "go-square",
+        "author": "rootulp",
+        "reviewer": "rach-id",
+        "requestedAt": "2026-06-11T19:15:11Z"
+      }
+    ],
     "mcrakhman": [
       {
         "number": 7221,
@@ -271,6 +272,15 @@
         "requestedAt": "2026-06-11T03:06:46Z"
       },
       {
+        "number": 7398,
+        "title": "fix: harden TxCache.getBlobsHash against blob hash collisions",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/7398",
+        "repo": "celestia-app",
+        "author": "rootulp",
+        "reviewer": "evan-forbes",
+        "requestedAt": "2026-06-11T19:09:50Z"
+      },
+      {
         "number": 5015,
         "title": "chore(deps): bump golang.org/x/crypto from 0.50.0 to 0.52.0",
         "url": "https://github.com/celestiaorg/celestia-node/pull/5015",
@@ -305,6 +315,15 @@
         "author": "dependabot",
         "reviewer": "evan-forbes",
         "requestedAt": "2026-06-03T21:13:16Z"
+      },
+      {
+        "number": 266,
+        "title": "fix!: domain-separate and length-prefix Blob.Hash preimage",
+        "url": "https://github.com/celestiaorg/go-square/pull/266",
+        "repo": "go-square",
+        "author": "rootulp",
+        "reviewer": "evan-forbes",
+        "requestedAt": "2026-06-11T18:52:06Z"
       },
       {
         "number": 327,
@@ -412,5 +431,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-06-11T18:12:49.170Z"
+  "fetchedAt": "2026-06-11T19:15:59.268Z"
 }
