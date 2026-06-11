@@ -466,17 +466,20 @@
     {
       "name": "Evan",
       "github": "evan-forbes",
-      "defaultHidden": false
+      "defaultHidden": true,
+      "alumni": true
     },
     {
       "name": "Vlad",
       "github": "walldiss",
-      "defaultHidden": true
+      "defaultHidden": true,
+      "alumni": true
     },
     {
       "name": "Hlib",
       "github": "Wondertan",
-      "defaultHidden": true
+      "defaultHidden": true,
+      "alumni": true
     },
     {
       "name": "Jose",
@@ -503,5 +506,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-06-11T20:18:47.376Z"
+  "fetchedAt": "2026-06-11T20:27:21.248Z"
 }
