@@ -1,0 +1,510 @@
+{
+  "reviews": {
+    "rootulp": [
+      {
+        "number": 3113,
+        "title": "feat: add on wire proto check for signature count",
+        "url": "https://github.com/celestiaorg/celestia-core/pull/3113",
+        "repo": "celestia-core",
+        "author": "ninabarbakadze",
+        "reviewer": "rootulp",
+        "requestedAt": "2026-06-11T19:17:28Z"
+      }
+    ],
+    "ninabarbakadze": [
+      {
+        "number": 7398,
+        "title": "fix: harden TxCache.getBlobsHash against blob hash collisions",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/7398",
+        "repo": "celestia-app",
+        "author": "rootulp",
+        "reviewer": "ninabarbakadze",
+        "requestedAt": "2026-06-11T19:09:50Z"
+      },
+      {
+        "number": 7400,
+        "title": "ci: notify #protocol-ci Slack channel on CI failures",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/7400",
+        "repo": "celestia-app",
+        "author": "rootulp",
+        "reviewer": "ninabarbakadze",
+        "requestedAt": "2026-06-11T20:12:17Z"
+      },
+      {
+        "number": 3110,
+        "title": "refactor(p2p): reduce ERR log noise from routine peer churn",
+        "url": "https://github.com/celestiaorg/celestia-core/pull/3110",
+        "repo": "celestia-core",
+        "author": "rootulp",
+        "reviewer": "ninabarbakadze",
+        "requestedAt": "2026-06-10T14:32:48Z"
+      }
+    ],
+    "rach-id": [
+      {
+        "number": 7399,
+        "title": "fix: bump celestiaorg/cosmos-sdk to v0.52.7",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/7399",
+        "repo": "celestia-app",
+        "author": "rootulp",
+        "reviewer": "rach-id",
+        "requestedAt": "2026-06-11T19:35:28Z"
+      },
+      {
+        "number": 268,
+        "title": "test: pin share prefix layout",
+        "url": "https://github.com/celestiaorg/go-square/pull/268",
+        "repo": "go-square",
+        "author": "rootulp",
+        "reviewer": "rach-id",
+        "requestedAt": "2026-06-11T19:15:11Z"
+      }
+    ],
+    "mcrakhman": [
+      {
+        "number": 7221,
+        "title": "feat(fibre-reader): add reading simulator + talis Reader instance type",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/7221",
+        "repo": "celestia-app",
+        "author": "walldiss",
+        "reviewer": "mcrakhman",
+        "requestedAt": "2026-05-28T17:10:23Z"
+      },
+      {
+        "number": 7395,
+        "title": "feat: add duplicate row indices check to Verify() in Fibre",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/7395",
+        "repo": "celestia-app",
+        "author": "ninabarbakadze",
+        "reviewer": "mcrakhman",
+        "requestedAt": "2026-06-11T12:42:27Z"
+      },
+      {
+        "number": 3106,
+        "title": "build(deps): Bump github.com/aws/aws-sdk-go-v2/service/s3 from 1.102.2 to 1.103.2",
+        "url": "https://github.com/celestiaorg/celestia-core/pull/3106",
+        "repo": "celestia-core",
+        "author": "dependabot",
+        "reviewer": "mcrakhman",
+        "requestedAt": "2026-06-08T09:34:54Z"
+      },
+      {
+        "number": 5019,
+        "title": "share: add RowsWithNamespace tests",
+        "url": "https://github.com/celestiaorg/celestia-node/pull/5019",
+        "repo": "celestia-node",
+        "author": "sueun-dev",
+        "reviewer": "mcrakhman",
+        "requestedAt": "2026-05-29T16:19:19Z"
+      },
+      {
+        "number": 5031,
+        "title": "chore(deps): bump go.opentelemetry.io/contrib/instrumentation/runtime from 0.68.0 to 0.69.0",
+        "url": "https://github.com/celestiaorg/celestia-node/pull/5031",
+        "repo": "celestia-node",
+        "author": "dependabot",
+        "reviewer": "mcrakhman",
+        "requestedAt": "2026-06-02T08:21:08Z"
+      },
+      {
+        "number": 5037,
+        "title": "chore(deps): bump github.com/quic-go/quic-go from 0.59.0 to 0.59.1",
+        "url": "https://github.com/celestiaorg/celestia-node/pull/5037",
+        "repo": "celestia-node",
+        "author": "dependabot",
+        "reviewer": "mcrakhman",
+        "requestedAt": "2026-06-03T21:14:39Z"
+      },
+      {
+        "number": 5044,
+        "title": "chore(deps): bump tspascoal/get-user-teams-membership from 3.0.0 to 4.0.2",
+        "url": "https://github.com/celestiaorg/celestia-node/pull/5044",
+        "repo": "celestia-node",
+        "author": "dependabot",
+        "reviewer": "mcrakhman",
+        "requestedAt": "2026-06-08T11:04:01Z"
+      },
+      {
+        "number": 145,
+        "title": "chore(deps): bump go.opentelemetry.io/otel/metric from 1.36.0 to 1.43.0",
+        "url": "https://github.com/celestiaorg/go-fraud/pull/145",
+        "repo": "go-fraud",
+        "author": "dependabot",
+        "reviewer": "mcrakhman",
+        "requestedAt": "2026-04-20T12:34:13Z"
+      },
+      {
+        "number": 884,
+        "title": "feat(node)!: switch sample and row requests to shrex",
+        "url": "https://github.com/celestiaorg/lumina/pull/884",
+        "repo": "lumina",
+        "author": "zvolin",
+        "reviewer": "mcrakhman",
+        "requestedAt": "2026-02-06T11:07:52Z"
+      },
+      {
+        "number": 974,
+        "title": "feat(client): expose get_tx on StateApi for reading submitted transactions",
+        "url": "https://github.com/celestiaorg/lumina/pull/974",
+        "repo": "lumina",
+        "author": "proofmancer",
+        "reviewer": "mcrakhman",
+        "requestedAt": "2026-05-23T18:11:54Z"
+      },
+      {
+        "number": 975,
+        "title": "Add support for connect timeout",
+        "url": "https://github.com/celestiaorg/lumina/pull/975",
+        "repo": "lumina",
+        "author": "citizen-stig",
+        "reviewer": "mcrakhman",
+        "requestedAt": "2026-06-09T12:55:41Z"
+      }
+    ],
+    "vgonkivs": [
+      {
+        "number": 7306,
+        "title": "feat(fibre): validator-endorsed gRPC TLS",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/7306",
+        "repo": "celestia-app",
+        "author": "walldiss",
+        "reviewer": "vgonkivs",
+        "requestedAt": "2026-06-09T18:56:42Z"
+      },
+      {
+        "number": 7364,
+        "title": "chore(deps): bump github.com/digitalocean/godo from 1.192.0 to 1.194.1",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/7364",
+        "repo": "celestia-app",
+        "author": "dependabot",
+        "reviewer": "vgonkivs",
+        "requestedAt": "2026-06-08T09:44:37Z"
+      },
+      {
+        "number": 7396,
+        "title": "fix(ci): retry go mod tidy -diff to avoid flaky tidy-check failures",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/7396",
+        "repo": "celestia-app",
+        "author": "rootulp",
+        "reviewer": "vgonkivs",
+        "requestedAt": "2026-06-11T13:07:39Z"
+      },
+      {
+        "number": 3107,
+        "title": "build(deps): Bump github.com/prometheus/common from 0.68.0 to 0.68.1",
+        "url": "https://github.com/celestiaorg/celestia-core/pull/3107",
+        "repo": "celestia-core",
+        "author": "dependabot",
+        "reviewer": "vgonkivs",
+        "requestedAt": "2026-06-08T09:35:07Z"
+      },
+      {
+        "number": 3113,
+        "title": "feat: add on wire proto check for signature count",
+        "url": "https://github.com/celestiaorg/celestia-core/pull/3113",
+        "repo": "celestia-core",
+        "author": "ninabarbakadze",
+        "reviewer": "vgonkivs",
+        "requestedAt": "2026-06-10T10:40:03Z"
+      },
+      {
+        "number": 4617,
+        "title": "feat(api/client): add support for multiple endpoints with failover",
+        "url": "https://github.com/celestiaorg/celestia-node/pull/4617",
+        "repo": "celestia-node",
+        "author": "DeVikingMark",
+        "reviewer": "vgonkivs",
+        "requestedAt": "2025-10-07T18:59:09Z"
+      },
+      {
+        "number": 4738,
+        "title": "fix(core): Return partial response for headers if one fails",
+        "url": "https://github.com/celestiaorg/celestia-node/pull/4738",
+        "repo": "celestia-node",
+        "author": "renaynay",
+        "reviewer": "vgonkivs",
+        "requestedAt": "2025-12-12T13:47:27Z"
+      },
+      {
+        "number": 5027,
+        "title": "chore(deps): bump go.opentelemetry.io/otel/exporters/otlp/otlpmetric/otlpmetrichttp from 1.43.0 to 1.44.0",
+        "url": "https://github.com/celestiaorg/celestia-node/pull/5027",
+        "repo": "celestia-node",
+        "author": "dependabot",
+        "reviewer": "vgonkivs",
+        "requestedAt": "2026-06-02T08:20:36Z"
+      },
+      {
+        "number": 5041,
+        "title": "headertest: unify TestSuite constructors behind functional options",
+        "url": "https://github.com/celestiaorg/celestia-node/pull/5041",
+        "repo": "celestia-node",
+        "author": "pjdurden",
+        "reviewer": "vgonkivs",
+        "requestedAt": "2026-06-08T11:10:14Z"
+      },
+      {
+        "number": 5046,
+        "title": "chore(deps): bump the patch-updates group across 2 directories with 1 update",
+        "url": "https://github.com/celestiaorg/celestia-node/pull/5046",
+        "repo": "celestia-node",
+        "author": "dependabot",
+        "reviewer": "vgonkivs",
+        "requestedAt": "2026-06-08T11:06:21Z"
+      },
+      {
+        "number": 397,
+        "title": "chore(deps): bump github.com/quic-go/quic-go from 0.59.0 to 0.59.1",
+        "url": "https://github.com/celestiaorg/go-header/pull/397",
+        "repo": "go-header",
+        "author": "dependabot",
+        "reviewer": "vgonkivs",
+        "requestedAt": "2026-06-03T21:15:35Z"
+      }
+    ],
+    "evan-forbes": [
+      {
+        "number": 7347,
+        "title": "feat(fibre): query the state when validator's host errors",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/7347",
+        "repo": "celestia-app",
+        "author": "rach-id",
+        "reviewer": "evan-forbes",
+        "requestedAt": "2026-06-04T12:35:19Z"
+      },
+      {
+        "number": 7362,
+        "title": "chore(deps): bump codecov/codecov-action from 6.0.1 to 7.0.0",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/7362",
+        "repo": "celestia-app",
+        "author": "dependabot",
+        "reviewer": "evan-forbes",
+        "requestedAt": "2026-06-08T09:44:30Z"
+      },
+      {
+        "number": 7367,
+        "title": "chore(deps): bump google.golang.org/api from 0.279.0 to 0.283.0",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/7367",
+        "repo": "celestia-app",
+        "author": "dependabot",
+        "reviewer": "evan-forbes",
+        "requestedAt": "2026-06-08T09:46:09Z"
+      },
+      {
+        "number": 7390,
+        "title": "fix: relax TestTxSubmission success-rate threshold to de-flake nightly",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/7390",
+        "repo": "celestia-app",
+        "author": "rootulp",
+        "reviewer": "evan-forbes",
+        "requestedAt": "2026-06-11T03:06:46Z"
+      },
+      {
+        "number": 7398,
+        "title": "fix: harden TxCache.getBlobsHash against blob hash collisions",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/7398",
+        "repo": "celestia-app",
+        "author": "rootulp",
+        "reviewer": "evan-forbes",
+        "requestedAt": "2026-06-11T19:09:50Z"
+      },
+      {
+        "number": 5015,
+        "title": "chore(deps): bump golang.org/x/crypto from 0.50.0 to 0.52.0",
+        "url": "https://github.com/celestiaorg/celestia-node/pull/5015",
+        "repo": "celestia-node",
+        "author": "dependabot",
+        "reviewer": "evan-forbes",
+        "requestedAt": "2026-05-25T16:50:16Z"
+      },
+      {
+        "number": 5025,
+        "title": "chore(deps): bump go.opentelemetry.io/otel/exporters/otlp/otlptrace from 1.43.0 to 1.44.0",
+        "url": "https://github.com/celestiaorg/celestia-node/pull/5025",
+        "repo": "celestia-node",
+        "author": "dependabot",
+        "reviewer": "evan-forbes",
+        "requestedAt": "2026-06-02T08:20:24Z"
+      },
+      {
+        "number": 5030,
+        "title": "chore(deps): bump go.opentelemetry.io/otel/exporters/otlp/otlptrace/otlptracehttp from 1.43.0 to 1.44.0",
+        "url": "https://github.com/celestiaorg/celestia-node/pull/5030",
+        "repo": "celestia-node",
+        "author": "dependabot",
+        "reviewer": "evan-forbes",
+        "requestedAt": "2026-06-02T08:20:59Z"
+      },
+      {
+        "number": 5036,
+        "title": "chore(deps): bump github.com/quic-go/quic-go from 0.59.0 to 0.59.1 in /nodebuilder/tests/tastora",
+        "url": "https://github.com/celestiaorg/celestia-node/pull/5036",
+        "repo": "celestia-node",
+        "author": "dependabot",
+        "reviewer": "evan-forbes",
+        "requestedAt": "2026-06-03T21:13:16Z"
+      },
+      {
+        "number": 266,
+        "title": "fix!: domain-separate and length-prefix Blob.Hash preimage",
+        "url": "https://github.com/celestiaorg/go-square/pull/266",
+        "repo": "go-square",
+        "author": "rootulp",
+        "reviewer": "evan-forbes",
+        "requestedAt": "2026-06-11T18:52:06Z"
+      },
+      {
+        "number": 327,
+        "title": "chore(deps): bump celestiaorg/.github from 0.6.4 to 0.6.5",
+        "url": "https://github.com/celestiaorg/nmt/pull/327",
+        "repo": "nmt",
+        "author": "dependabot",
+        "reviewer": "evan-forbes",
+        "requestedAt": "2026-05-29T23:08:27Z"
+      },
+      {
+        "number": 417,
+        "title": "fix: return correct axis shares in ErrByzantineData",
+        "url": "https://github.com/celestiaorg/rsmt2d/pull/417",
+        "repo": "rsmt2d",
+        "author": "rootulp",
+        "reviewer": "evan-forbes",
+        "requestedAt": "2026-06-11T15:43:58Z"
+      }
+    ],
+    "walldiss": [
+      {
+        "number": 7347,
+        "title": "feat(fibre): query the state when validator's host errors",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/7347",
+        "repo": "celestia-app",
+        "author": "rach-id",
+        "reviewer": "walldiss",
+        "requestedAt": "2026-06-04T12:35:22Z"
+      },
+      {
+        "number": 4617,
+        "title": "feat(api/client): add support for multiple endpoints with failover",
+        "url": "https://github.com/celestiaorg/celestia-node/pull/4617",
+        "repo": "celestia-node",
+        "author": "DeVikingMark",
+        "reviewer": "walldiss",
+        "requestedAt": "2025-10-07T18:59:09Z"
+      }
+    ],
+    "Wondertan": [
+      {
+        "number": 4617,
+        "title": "feat(api/client): add support for multiple endpoints with failover",
+        "url": "https://github.com/celestiaorg/celestia-node/pull/4617",
+        "repo": "celestia-node",
+        "author": "DeVikingMark",
+        "reviewer": "Wondertan",
+        "requestedAt": "2025-10-07T18:59:09Z"
+      },
+      {
+        "number": 4738,
+        "title": "fix(core): Return partial response for headers if one fails",
+        "url": "https://github.com/celestiaorg/celestia-node/pull/4738",
+        "repo": "celestia-node",
+        "author": "renaynay",
+        "reviewer": "Wondertan",
+        "requestedAt": "2025-12-12T13:47:27Z"
+      }
+    ],
+    "tty47": [],
+    "pippokr": [],
+    "renaynay": [
+      {
+        "number": 4617,
+        "title": "feat(api/client): add support for multiple endpoints with failover",
+        "url": "https://github.com/celestiaorg/celestia-node/pull/4617",
+        "repo": "celestia-node",
+        "author": "DeVikingMark",
+        "reviewer": "renaynay",
+        "requestedAt": "2025-10-07T18:59:09Z"
+      }
+    ],
+    "chatton": [
+      {
+        "number": 7381,
+        "title": "ci: retry go-mod-tidy-check to tolerate transient download failures",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/7381",
+        "repo": "celestia-app",
+        "author": "rootulp",
+        "reviewer": "chatton",
+        "requestedAt": "2026-06-08T20:12:17Z"
+      }
+    ]
+  },
+  "teamMembers": [
+    {
+      "name": "Rootul",
+      "github": "rootulp",
+      "defaultHidden": false
+    },
+    {
+      "name": "Nina",
+      "github": "ninabarbakadze",
+      "defaultHidden": false
+    },
+    {
+      "name": "Rachid",
+      "github": "rach-id",
+      "defaultHidden": false
+    },
+    {
+      "name": "Mikhail",
+      "github": "mcrakhman",
+      "defaultHidden": false
+    },
+    {
+      "name": "Slava",
+      "github": "vgonkivs",
+      "defaultHidden": false
+    },
+    {
+      "name": "Evan",
+      "github": "evan-forbes",
+      "defaultHidden": true,
+      "alumni": true
+    },
+    {
+      "name": "Vlad",
+      "github": "walldiss",
+      "defaultHidden": true,
+      "alumni": true
+    },
+    {
+      "name": "Hlib",
+      "github": "Wondertan",
+      "defaultHidden": true,
+      "alumni": true
+    },
+    {
+      "name": "Jose",
+      "github": "tty47",
+      "defaultHidden": false
+    },
+    {
+      "name": "Cris",
+      "github": "pippokr",
+      "defaultHidden": false
+    },
+    {
+      "name": "Rene",
+      "github": "renaynay",
+      "defaultHidden": false
+    },
+    {
+      "name": "Cian",
+      "github": "chatton",
+      "defaultHidden": false
+    }
+  ],
+  "thresholds": {
+    "greenMaxHours": 12,
+    "yellowMaxHours": 24
+  },
+  "fetchedAt": "2026-06-11T20:20:31.030Z"
+}
