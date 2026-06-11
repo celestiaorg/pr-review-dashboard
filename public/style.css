@@ -115,6 +115,7 @@ main {
 .pr-title {
   font-size: 0.9rem;
   margin-bottom: 4px;
+  overflow-wrap: anywhere;
 }
 
 .pr-title a {
