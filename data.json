@@ -2,6 +2,15 @@
   "reviews": {
     "rootulp": [
       {
+        "number": 7404,
+        "title": "fix(multiplexer): provide default minimum-gas-prices to embedded v4/v5",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/7404",
+        "repo": "celestia-app",
+        "author": "rach-id",
+        "reviewer": "rootulp",
+        "requestedAt": "2026-06-12T09:54:01Z"
+      },
+      {
         "number": 3113,
         "title": "feat: add on wire proto check for signature count",
         "url": "https://github.com/celestiaorg/celestia-core/pull/3113",
@@ -40,6 +49,15 @@
         "requestedAt": "2026-06-11T20:12:17Z"
       },
       {
+        "number": 7404,
+        "title": "fix(multiplexer): provide default minimum-gas-prices to embedded v4/v5",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/7404",
+        "repo": "celestia-app",
+        "author": "rach-id",
+        "reviewer": "ninabarbakadze",
+        "requestedAt": "2026-06-12T09:54:01Z"
+      },
+      {
         "number": 3110,
         "title": "refactor(p2p): reduce ERR log noise from routine peer churn",
         "url": "https://github.com/celestiaorg/celestia-core/pull/3110",
@@ -70,13 +88,13 @@
     "rach-id": [],
     "mcrakhman": [
       {
-        "number": 5050,
-        "title": "fix(metrics): enable metrics in daser for bridge nodes",
-        "url": "https://github.com/celestiaorg/celestia-node/pull/5050",
+        "number": 5051,
+        "title": "fix(metrics): enable metrics in daser for bridge nodes (#5050)",
+        "url": "https://github.com/celestiaorg/celestia-node/pull/5051",
         "repo": "celestia-node",
         "author": "vgonkivs",
         "reviewer": "mcrakhman",
-        "requestedAt": "2026-06-12T08:26:58Z"
+        "requestedAt": "2026-06-12T08:58:28Z"
       },
       {
         "number": 884,
@@ -89,6 +107,15 @@
       }
     ],
     "vgonkivs": [
+      {
+        "number": 7404,
+        "title": "fix(multiplexer): provide default minimum-gas-prices to embedded v4/v5",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/7404",
+        "repo": "celestia-app",
+        "author": "rach-id",
+        "reviewer": "vgonkivs",
+        "requestedAt": "2026-06-12T09:53:34Z"
+      },
       {
         "number": 4617,
         "title": "feat(api/client): add support for multiple endpoints with failover",
@@ -117,15 +144,6 @@
         "author": "rach-id",
         "reviewer": "evan-forbes",
         "requestedAt": "2026-06-04T12:35:19Z"
-      },
-      {
-        "number": 7362,
-        "title": "chore(deps): bump codecov/codecov-action from 6.0.1 to 7.0.0",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7362",
-        "repo": "celestia-app",
-        "author": "dependabot",
-        "reviewer": "evan-forbes",
-        "requestedAt": "2026-06-08T09:44:30Z"
       },
       {
         "number": 7367,
@@ -334,5 +352,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-06-12T08:36:07.125Z"
+  "fetchedAt": "2026-06-12T10:02:49.843Z"
 }
