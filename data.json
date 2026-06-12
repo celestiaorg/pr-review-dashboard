@@ -69,33 +69,6 @@
     ],
     "rach-id": [
       {
-        "number": 7381,
-        "title": "ci: retry go-mod-tidy-check to tolerate transient download failures",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7381",
-        "repo": "celestia-app",
-        "author": "rootulp",
-        "reviewer": "rach-id",
-        "requestedAt": "2026-06-11T20:44:21Z"
-      },
-      {
-        "number": 7399,
-        "title": "fix: bump celestiaorg/cosmos-sdk to v0.52.7",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7399",
-        "repo": "celestia-app",
-        "author": "rootulp",
-        "reviewer": "rach-id",
-        "requestedAt": "2026-06-11T19:35:28Z"
-      },
-      {
-        "number": 3111,
-        "title": "refactor(consensus): remove \"failed to process message\" catch-all and log errors in place",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3111",
-        "repo": "celestia-core",
-        "author": "rootulp",
-        "reviewer": "rach-id",
-        "requestedAt": "2026-06-12T02:59:19Z"
-      },
-      {
         "number": 268,
         "title": "test: pin share prefix layout",
         "url": "https://github.com/celestiaorg/go-square/pull/268",
@@ -371,5 +344,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-06-12T03:47:27.039Z"
+  "fetchedAt": "2026-06-12T05:21:56.976Z"
 }
