@@ -70,6 +70,15 @@
     "rach-id": [],
     "mcrakhman": [
       {
+        "number": 5050,
+        "title": "fix(metrics): enable metrics in daser for bridge nodes",
+        "url": "https://github.com/celestiaorg/celestia-node/pull/5050",
+        "repo": "celestia-node",
+        "author": "vgonkivs",
+        "reviewer": "mcrakhman",
+        "requestedAt": "2026-06-12T08:26:58Z"
+      },
+      {
         "number": 884,
         "title": "feat(node)!: switch sample and row requests to shrex",
         "url": "https://github.com/celestiaorg/lumina/pull/884",
@@ -97,15 +106,6 @@
         "author": "dependabot",
         "reviewer": "vgonkivs",
         "requestedAt": "2026-06-02T08:20:36Z"
-      },
-      {
-        "number": 5046,
-        "title": "chore(deps): bump the patch-updates group across 2 directories with 1 update",
-        "url": "https://github.com/celestiaorg/celestia-node/pull/5046",
-        "repo": "celestia-node",
-        "author": "dependabot",
-        "reviewer": "vgonkivs",
-        "requestedAt": "2026-06-08T11:06:21Z"
       }
     ],
     "evan-forbes": [
@@ -334,5 +334,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-06-12T06:58:04.349Z"
+  "fetchedAt": "2026-06-12T08:36:07.125Z"
 }
