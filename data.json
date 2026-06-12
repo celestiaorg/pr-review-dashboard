@@ -47,6 +47,24 @@
         "author": "rootulp",
         "reviewer": "ninabarbakadze",
         "requestedAt": "2026-06-10T14:32:48Z"
+      },
+      {
+        "number": 3111,
+        "title": "refactor(consensus): remove \"failed to process message\" catch-all and log errors in place",
+        "url": "https://github.com/celestiaorg/celestia-core/pull/3111",
+        "repo": "celestia-core",
+        "author": "rootulp",
+        "reviewer": "ninabarbakadze",
+        "requestedAt": "2026-06-10T14:32:53Z"
+      },
+      {
+        "number": 3116,
+        "title": "test(consensus): stabilize oversized block vote wait",
+        "url": "https://github.com/celestiaorg/celestia-core/pull/3116",
+        "repo": "celestia-core",
+        "author": "rootulp",
+        "reviewer": "ninabarbakadze",
+        "requestedAt": "2026-06-12T03:28:27Z"
       }
     ],
     "rach-id": [
@@ -67,6 +85,15 @@
         "author": "rootulp",
         "reviewer": "rach-id",
         "requestedAt": "2026-06-11T19:35:28Z"
+      },
+      {
+        "number": 3111,
+        "title": "refactor(consensus): remove \"failed to process message\" catch-all and log errors in place",
+        "url": "https://github.com/celestiaorg/celestia-core/pull/3111",
+        "repo": "celestia-core",
+        "author": "rootulp",
+        "reviewer": "rach-id",
+        "requestedAt": "2026-06-12T02:59:19Z"
       },
       {
         "number": 268,
@@ -344,5 +371,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-06-12T02:26:23.642Z"
+  "fetchedAt": "2026-06-12T03:47:27.039Z"
 }
