@@ -28,6 +28,15 @@
         "author": "rootulp",
         "reviewer": "ninabarbakadze",
         "requestedAt": "2026-06-10T14:32:53Z"
+      },
+      {
+        "number": 266,
+        "title": "fix!: domain-separate and length-prefix Blob.Hash preimage",
+        "url": "https://github.com/celestiaorg/go-square/pull/266",
+        "repo": "go-square",
+        "author": "rootulp",
+        "reviewer": "ninabarbakadze",
+        "requestedAt": "2026-06-12T16:15:13Z"
       }
     ],
     "rach-id": [],
@@ -252,5 +261,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-06-12T15:56:52.953Z"
+  "fetchedAt": "2026-06-12T17:05:31.346Z"
 }
