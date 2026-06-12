@@ -67,17 +67,7 @@
         "requestedAt": "2026-06-12T03:28:27Z"
       }
     ],
-    "rach-id": [
-      {
-        "number": 268,
-        "title": "test: pin share prefix layout",
-        "url": "https://github.com/celestiaorg/go-square/pull/268",
-        "repo": "go-square",
-        "author": "rootulp",
-        "reviewer": "rach-id",
-        "requestedAt": "2026-06-11T19:15:11Z"
-      }
-    ],
+    "rach-id": [],
     "mcrakhman": [
       {
         "number": 884,
@@ -344,5 +334,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-06-12T05:21:56.976Z"
+  "fetchedAt": "2026-06-12T06:58:04.349Z"
 }
