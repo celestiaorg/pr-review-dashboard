@@ -22,15 +22,6 @@
     ],
     "ninabarbakadze": [
       {
-        "number": 7381,
-        "title": "ci: retry go-mod-tidy-check to tolerate transient download failures",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7381",
-        "repo": "celestia-app",
-        "author": "rootulp",
-        "reviewer": "ninabarbakadze",
-        "requestedAt": "2026-06-11T20:44:21Z"
-      },
-      {
         "number": 7398,
         "title": "fix: harden TxCache.getBlobsHash against blob hash collisions",
         "url": "https://github.com/celestiaorg/celestia-app/pull/7398",
@@ -38,24 +29,6 @@
         "author": "rootulp",
         "reviewer": "ninabarbakadze",
         "requestedAt": "2026-06-11T19:09:50Z"
-      },
-      {
-        "number": 7400,
-        "title": "ci: notify #protocol-ci Slack channel on CI failures",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7400",
-        "repo": "celestia-app",
-        "author": "rootulp",
-        "reviewer": "ninabarbakadze",
-        "requestedAt": "2026-06-11T20:12:17Z"
-      },
-      {
-        "number": 7404,
-        "title": "fix(multiplexer): provide default minimum-gas-prices to embedded v4/v5",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7404",
-        "repo": "celestia-app",
-        "author": "rach-id",
-        "reviewer": "ninabarbakadze",
-        "requestedAt": "2026-06-12T09:54:01Z"
       },
       {
         "number": 3110,
@@ -74,15 +47,6 @@
         "author": "rootulp",
         "reviewer": "ninabarbakadze",
         "requestedAt": "2026-06-10T14:32:53Z"
-      },
-      {
-        "number": 3116,
-        "title": "test(consensus): stabilize oversized block vote wait",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3116",
-        "repo": "celestia-core",
-        "author": "rootulp",
-        "reviewer": "ninabarbakadze",
-        "requestedAt": "2026-06-12T03:28:27Z"
       }
     ],
     "rach-id": [],
@@ -107,15 +71,6 @@
       }
     ],
     "vgonkivs": [
-      {
-        "number": 7404,
-        "title": "fix(multiplexer): provide default minimum-gas-prices to embedded v4/v5",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7404",
-        "repo": "celestia-app",
-        "author": "rach-id",
-        "reviewer": "vgonkivs",
-        "requestedAt": "2026-06-12T09:53:34Z"
-      },
       {
         "number": 4617,
         "title": "feat(api/client): add support for multiple endpoints with failover",
@@ -144,15 +99,6 @@
         "author": "rach-id",
         "reviewer": "evan-forbes",
         "requestedAt": "2026-06-04T12:35:19Z"
-      },
-      {
-        "number": 7367,
-        "title": "chore(deps): bump google.golang.org/api from 0.279.0 to 0.284.0",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7367",
-        "repo": "celestia-app",
-        "author": "dependabot",
-        "reviewer": "evan-forbes",
-        "requestedAt": "2026-06-08T09:46:09Z"
       },
       {
         "number": 7390,
@@ -352,5 +298,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-06-12T10:02:49.843Z"
+  "fetchedAt": "2026-06-12T11:26:22.248Z"
 }
