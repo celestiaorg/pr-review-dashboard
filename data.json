@@ -1,16 +1,6 @@
 {
   "reviews": {
-    "rootulp": [
-      {
-        "number": 3113,
-        "title": "feat: add on wire proto check for signature count",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3113",
-        "repo": "celestia-core",
-        "author": "ninabarbakadze",
-        "reviewer": "rootulp",
-        "requestedAt": "2026-06-11T19:17:28Z"
-      }
-    ],
+    "rootulp": [],
     "ninabarbakadze": [
       {
         "number": 7398,
@@ -90,6 +80,15 @@
         "author": "rootulp",
         "reviewer": "evan-forbes",
         "requestedAt": "2026-06-11T19:09:50Z"
+      },
+      {
+        "number": 3119,
+        "title": "feat: add on wire proto check for signature count (backport #3113)",
+        "url": "https://github.com/celestiaorg/celestia-core/pull/3119",
+        "repo": "celestia-core",
+        "author": "mergify",
+        "reviewer": "evan-forbes",
+        "requestedAt": "2026-06-12T15:23:32Z"
       },
       {
         "number": 5015,
@@ -253,5 +252,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-06-12T14:48:03.607Z"
+  "fetchedAt": "2026-06-12T15:56:52.953Z"
 }
