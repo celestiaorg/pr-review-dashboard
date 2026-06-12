@@ -50,17 +50,7 @@
         "requestedAt": "2026-06-12T20:23:31Z"
       }
     ],
-    "mcrakhman": [
-      {
-        "number": 884,
-        "title": "feat(node)!: switch sample and row requests to shrex",
-        "url": "https://github.com/celestiaorg/lumina/pull/884",
-        "repo": "lumina",
-        "author": "zvolin",
-        "reviewer": "mcrakhman",
-        "requestedAt": "2026-02-06T11:07:52Z"
-      }
-    ],
+    "mcrakhman": [],
     "vgonkivs": [
       {
         "number": 4617,
@@ -70,6 +60,15 @@
         "author": "DeVikingMark",
         "reviewer": "vgonkivs",
         "requestedAt": "2025-10-07T18:59:09Z"
+      },
+      {
+        "number": 976,
+        "title": "feat(node)!: switch sample and row requests to shrex",
+        "url": "https://github.com/celestiaorg/lumina/pull/976",
+        "repo": "lumina",
+        "author": "mcrakhman",
+        "reviewer": "vgonkivs",
+        "requestedAt": "2026-06-12T20:48:49Z"
       }
     ],
     "evan-forbes": [
@@ -271,5 +270,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-06-12T20:56:31.635Z"
+  "fetchedAt": "2026-06-12T21:36:52.612Z"
 }
