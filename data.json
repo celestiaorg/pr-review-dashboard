@@ -2,15 +2,6 @@
   "reviews": {
     "rootulp": [
       {
-        "number": 7404,
-        "title": "fix(multiplexer): provide default minimum-gas-prices to embedded v4/v5",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7404",
-        "repo": "celestia-app",
-        "author": "rach-id",
-        "reviewer": "rootulp",
-        "requestedAt": "2026-06-12T09:54:01Z"
-      },
-      {
         "number": 3113,
         "title": "feat: add on wire proto check for signature count",
         "url": "https://github.com/celestiaorg/celestia-core/pull/3113",
@@ -51,15 +42,6 @@
     ],
     "rach-id": [],
     "mcrakhman": [
-      {
-        "number": 5051,
-        "title": "fix(metrics): enable metrics in daser for bridge nodes (#5050)",
-        "url": "https://github.com/celestiaorg/celestia-node/pull/5051",
-        "repo": "celestia-node",
-        "author": "vgonkivs",
-        "reviewer": "mcrakhman",
-        "requestedAt": "2026-06-12T08:58:28Z"
-      },
       {
         "number": 884,
         "title": "feat(node)!: switch sample and row requests to shrex",
@@ -120,30 +102,12 @@
       },
       {
         "number": 5015,
-        "title": "chore(deps): bump golang.org/x/crypto from 0.50.0 to 0.53.0",
+        "title": "chore(deps): bump golang.org/x/crypto from 0.51.0 to 0.53.0",
         "url": "https://github.com/celestiaorg/celestia-node/pull/5015",
         "repo": "celestia-node",
         "author": "dependabot",
         "reviewer": "evan-forbes",
         "requestedAt": "2026-05-25T16:50:16Z"
-      },
-      {
-        "number": 5025,
-        "title": "chore(deps): bump go.opentelemetry.io/otel/exporters/otlp/otlptrace from 1.43.0 to 1.44.0",
-        "url": "https://github.com/celestiaorg/celestia-node/pull/5025",
-        "repo": "celestia-node",
-        "author": "dependabot",
-        "reviewer": "evan-forbes",
-        "requestedAt": "2026-06-02T08:20:24Z"
-      },
-      {
-        "number": 5030,
-        "title": "chore(deps): bump go.opentelemetry.io/otel/exporters/otlp/otlptrace/otlptracehttp from 1.43.0 to 1.44.0",
-        "url": "https://github.com/celestiaorg/celestia-node/pull/5030",
-        "repo": "celestia-node",
-        "author": "dependabot",
-        "reviewer": "evan-forbes",
-        "requestedAt": "2026-06-02T08:20:59Z"
       },
       {
         "number": 266,
@@ -298,5 +262,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-06-12T11:26:22.248Z"
+  "fetchedAt": "2026-06-12T12:35:54.888Z"
 }
