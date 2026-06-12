@@ -61,15 +61,6 @@
         "author": "DeVikingMark",
         "reviewer": "vgonkivs",
         "requestedAt": "2025-10-07T18:59:09Z"
-      },
-      {
-        "number": 5027,
-        "title": "chore(deps): bump go.opentelemetry.io/otel/exporters/otlp/otlpmetric/otlpmetrichttp from 1.43.0 to 1.44.0",
-        "url": "https://github.com/celestiaorg/celestia-node/pull/5027",
-        "repo": "celestia-node",
-        "author": "dependabot",
-        "reviewer": "vgonkivs",
-        "requestedAt": "2026-06-02T08:20:36Z"
       }
     ],
     "evan-forbes": [
@@ -262,5 +253,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-06-12T12:35:54.888Z"
+  "fetchedAt": "2026-06-12T13:46:12.777Z"
 }
