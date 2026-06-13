@@ -39,26 +39,7 @@
         "requestedAt": "2026-06-12T16:15:13Z"
       }
     ],
-    "rach-id": [
-      {
-        "number": 437,
-        "title": "chore: Bump esbuild and tsx",
-        "url": "https://github.com/celestiaorg/blobstream-contracts/pull/437",
-        "repo": "blobstream-contracts",
-        "author": "dependabot",
-        "reviewer": "rach-id",
-        "requestedAt": "2026-06-12T20:23:31Z"
-      },
-      {
-        "number": 5053,
-        "title": "fix(swamp): fix TestArchivalBlobSync (#5017)",
-        "url": "https://github.com/celestiaorg/celestia-node/pull/5053",
-        "repo": "celestia-node",
-        "author": "neyy91",
-        "reviewer": "rach-id",
-        "requestedAt": "2026-06-13T02:06:11Z"
-      }
-    ],
+    "rach-id": [],
     "mcrakhman": [
       {
         "number": 5052,
@@ -79,6 +60,15 @@
         "author": "DeVikingMark",
         "reviewer": "vgonkivs",
         "requestedAt": "2025-10-07T18:59:09Z"
+      },
+      {
+        "number": 5053,
+        "title": "fix(swamp): fix TestArchivalBlobSync (#5017)",
+        "url": "https://github.com/celestiaorg/celestia-node/pull/5053",
+        "repo": "celestia-node",
+        "author": "neyy91",
+        "reviewer": "vgonkivs",
+        "requestedAt": "2026-06-13T07:55:52Z"
       },
       {
         "number": 976,
@@ -289,5 +279,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-06-13T07:33:09.239Z"
+  "fetchedAt": "2026-06-13T08:39:37.700Z"
 }
