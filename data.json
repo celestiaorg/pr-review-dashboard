@@ -71,6 +71,15 @@
         "requestedAt": "2025-10-07T18:59:09Z"
       },
       {
+        "number": 5058,
+        "title": "fix(shrex/peers): bound blacklisted hashes with an LRU cache",
+        "url": "https://github.com/celestiaorg/celestia-node/pull/5058",
+        "repo": "celestia-node",
+        "author": "neyy91",
+        "reviewer": "vgonkivs",
+        "requestedAt": "2026-06-13T11:38:55Z"
+      },
+      {
         "number": 976,
         "title": "feat(node)!: switch sample and row requests to shrex",
         "url": "https://github.com/celestiaorg/lumina/pull/976",
@@ -125,6 +134,15 @@
         "author": "dependabot",
         "reviewer": "evan-forbes",
         "requestedAt": "2026-05-25T16:50:16Z"
+      },
+      {
+        "number": 5057,
+        "title": "fix(das): deep-copy worker failed map in getState to avoid stats race",
+        "url": "https://github.com/celestiaorg/celestia-node/pull/5057",
+        "repo": "celestia-node",
+        "author": "neyy91",
+        "reviewer": "evan-forbes",
+        "requestedAt": "2026-06-13T11:27:41Z"
       },
       {
         "number": 266,
@@ -279,5 +297,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-06-13T11:25:29.745Z"
+  "fetchedAt": "2026-06-13T12:04:47.744Z"
 }
