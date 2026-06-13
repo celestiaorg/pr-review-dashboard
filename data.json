@@ -58,6 +58,15 @@
         "author": "neyy91",
         "reviewer": "mcrakhman",
         "requestedAt": "2026-06-13T01:01:21Z"
+      },
+      {
+        "number": 741,
+        "title": "fix: synchronise checkTx",
+        "url": "https://github.com/celestiaorg/cosmos-sdk/pull/741",
+        "repo": "cosmos-sdk",
+        "author": "rach-id",
+        "reviewer": "mcrakhman",
+        "requestedAt": "2026-06-13T14:12:44Z"
       }
     ],
     "vgonkivs": [
@@ -297,5 +306,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-06-13T13:26:05.901Z"
+  "fetchedAt": "2026-06-13T14:15:34.637Z"
 }
