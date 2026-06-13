@@ -62,15 +62,6 @@
         "requestedAt": "2025-10-07T18:59:09Z"
       },
       {
-        "number": 5053,
-        "title": "fix(swamp): fix TestArchivalBlobSync (#5017)",
-        "url": "https://github.com/celestiaorg/celestia-node/pull/5053",
-        "repo": "celestia-node",
-        "author": "neyy91",
-        "reviewer": "vgonkivs",
-        "requestedAt": "2026-06-13T07:55:52Z"
-      },
-      {
         "number": 976,
         "title": "feat(node)!: switch sample and row requests to shrex",
         "url": "https://github.com/celestiaorg/lumina/pull/976",
@@ -279,5 +270,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-06-13T08:39:37.700Z"
+  "fetchedAt": "2026-06-13T09:45:26.895Z"
 }
