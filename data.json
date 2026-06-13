@@ -39,6 +39,15 @@
         "requestedAt": "2026-06-13T11:13:20Z"
       },
       {
+        "number": 741,
+        "title": "fix: synchronise checkTx",
+        "url": "https://github.com/celestiaorg/cosmos-sdk/pull/741",
+        "repo": "cosmos-sdk",
+        "author": "rach-id",
+        "reviewer": "ninabarbakadze",
+        "requestedAt": "2026-06-13T14:17:10Z"
+      },
+      {
         "number": 266,
         "title": "fix!: domain-separate and length-prefix Blob.Hash preimage",
         "url": "https://github.com/celestiaorg/go-square/pull/266",
@@ -306,5 +315,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-06-13T14:15:34.637Z"
+  "fetchedAt": "2026-06-13T15:00:55.128Z"
 }
