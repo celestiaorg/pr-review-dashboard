@@ -50,7 +50,17 @@
         "requestedAt": "2026-06-12T20:23:31Z"
       }
     ],
-    "mcrakhman": [],
+    "mcrakhman": [
+      {
+        "number": 5052,
+        "title": "nodebuilder/header: Validate range bounds and export ErrRangeTooLarge in GetRangeByHeight",
+        "url": "https://github.com/celestiaorg/celestia-node/pull/5052",
+        "repo": "celestia-node",
+        "author": "neyy91",
+        "reviewer": "mcrakhman",
+        "requestedAt": "2026-06-13T01:01:21Z"
+      }
+    ],
     "vgonkivs": [
       {
         "number": 4617,
@@ -270,5 +280,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-06-13T01:00:37.799Z"
+  "fetchedAt": "2026-06-13T01:50:55.491Z"
 }
