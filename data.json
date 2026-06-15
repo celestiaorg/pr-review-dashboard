@@ -39,15 +39,6 @@
         "requestedAt": "2026-06-10T14:32:53Z"
       },
       {
-        "number": 3122,
-        "title": "build(deps): Bump github.com/aws/aws-sdk-go-v2/config from 1.32.23 to 1.32.25",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3122",
-        "repo": "celestia-core",
-        "author": "dependabot",
-        "reviewer": "ninabarbakadze",
-        "requestedAt": "2026-06-15T09:37:08Z"
-      },
-      {
         "number": 5055,
         "title": "fix(store/file): close ODS file descriptors in ValidateODSSize and Op…",
         "url": "https://github.com/celestiaorg/celestia-node/pull/5055",
@@ -84,27 +75,8 @@
         "requestedAt": "2026-06-12T16:15:13Z"
       }
     ],
-    "rach-id": [
-      {
-        "number": 5062,
-        "title": "chore(deps): bump the patch-updates group across 2 directories with 2 updates",
-        "url": "https://github.com/celestiaorg/celestia-node/pull/5062",
-        "repo": "celestia-node",
-        "author": "dependabot",
-        "reviewer": "rach-id",
-        "requestedAt": "2026-06-15T11:06:59Z"
-      }
-    ],
+    "rach-id": [],
     "mcrakhman": [
-      {
-        "number": 3126,
-        "title": "build(deps): Bump github.com/aws/aws-sdk-go-v2/credentials from 1.19.22 to 1.19.24",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3126",
-        "repo": "celestia-core",
-        "author": "dependabot",
-        "reviewer": "mcrakhman",
-        "requestedAt": "2026-06-15T09:41:00Z"
-      },
       {
         "number": 5052,
         "title": "nodebuilder/header: Validate range bounds and export ErrRangeTooLarge in GetRangeByHeight",
@@ -142,15 +114,6 @@
         "author": "dependabot",
         "reviewer": "vgonkivs",
         "requestedAt": "2026-06-15T09:50:46Z"
-      },
-      {
-        "number": 3125,
-        "title": "build(deps): Bump github.com/aws/aws-sdk-go-v2/service/s3 from 1.103.2 to 1.103.3",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3125",
-        "repo": "celestia-core",
-        "author": "dependabot",
-        "reviewer": "vgonkivs",
-        "requestedAt": "2026-06-15T09:39:45Z"
       },
       {
         "number": 4617,
@@ -397,5 +360,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-06-15T11:36:48.998Z"
+  "fetchedAt": "2026-06-15T13:40:21.916Z"
 }
