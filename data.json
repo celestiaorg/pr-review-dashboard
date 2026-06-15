@@ -12,6 +12,15 @@
         "requestedAt": "2026-06-11T19:09:50Z"
       },
       {
+        "number": 7411,
+        "title": "chore(deps): bump golang.org/x/term from 0.43.0 to 0.44.0",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/7411",
+        "repo": "celestia-app",
+        "author": "dependabot",
+        "reviewer": "ninabarbakadze",
+        "requestedAt": "2026-06-15T09:44:00Z"
+      },
+      {
         "number": 3110,
         "title": "refactor(p2p): reduce ERR log noise from routine peer churn",
         "url": "https://github.com/celestiaorg/celestia-core/pull/3110",
@@ -48,6 +57,24 @@
         "requestedAt": "2026-06-13T11:13:20Z"
       },
       {
+        "number": 5061,
+        "title": "chore(deps): bump alpine from 3.23.4 to 3.24.0",
+        "url": "https://github.com/celestiaorg/celestia-node/pull/5061",
+        "repo": "celestia-node",
+        "author": "dependabot",
+        "reviewer": "ninabarbakadze",
+        "requestedAt": "2026-06-15T11:03:53Z"
+      },
+      {
+        "number": 5066,
+        "title": "chore(deps): bump golang.org/x/sync from 0.20.0 to 0.21.0",
+        "url": "https://github.com/celestiaorg/celestia-node/pull/5066",
+        "repo": "celestia-node",
+        "author": "dependabot",
+        "reviewer": "ninabarbakadze",
+        "requestedAt": "2026-06-15T11:07:43Z"
+      },
+      {
         "number": 266,
         "title": "fix!: domain-separate and length-prefix Blob.Hash preimage",
         "url": "https://github.com/celestiaorg/go-square/pull/266",
@@ -57,16 +84,26 @@
         "requestedAt": "2026-06-12T16:15:13Z"
       }
     ],
-    "rach-id": [],
+    "rach-id": [
+      {
+        "number": 5062,
+        "title": "chore(deps): bump the patch-updates group across 2 directories with 2 updates",
+        "url": "https://github.com/celestiaorg/celestia-node/pull/5062",
+        "repo": "celestia-node",
+        "author": "dependabot",
+        "reviewer": "rach-id",
+        "requestedAt": "2026-06-15T11:06:59Z"
+      }
+    ],
     "mcrakhman": [
       {
-        "number": 3121,
-        "title": "build(deps): Bump golang.org/x/sync from 0.20.0 to 0.21.0",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3121",
+        "number": 3126,
+        "title": "build(deps): Bump github.com/aws/aws-sdk-go-v2/credentials from 1.19.22 to 1.19.24",
+        "url": "https://github.com/celestiaorg/celestia-core/pull/3126",
         "repo": "celestia-core",
         "author": "dependabot",
         "reviewer": "mcrakhman",
-        "requestedAt": "2026-06-15T09:35:50Z"
+        "requestedAt": "2026-06-15T09:41:00Z"
       },
       {
         "number": 5052,
@@ -76,17 +113,44 @@
         "author": "neyy91",
         "reviewer": "mcrakhman",
         "requestedAt": "2026-06-13T01:01:21Z"
+      },
+      {
+        "number": 5065,
+        "title": "chore(deps): bump golang.org/x/text from 0.37.0 to 0.38.0",
+        "url": "https://github.com/celestiaorg/celestia-node/pull/5065",
+        "repo": "celestia-node",
+        "author": "dependabot",
+        "reviewer": "mcrakhman",
+        "requestedAt": "2026-06-15T11:07:34Z"
       }
     ],
     "vgonkivs": [
       {
-        "number": 3120,
-        "title": "build(deps): Bump golang.org/x/net from 0.55.0 to 0.56.0",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3120",
+        "number": 7414,
+        "title": "chore(deps): bump golang.org/x/crypto from 0.52.0 to 0.53.0",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/7414",
+        "repo": "celestia-app",
+        "author": "dependabot",
+        "reviewer": "vgonkivs",
+        "requestedAt": "2026-06-15T09:44:13Z"
+      },
+      {
+        "number": 7419,
+        "title": "chore(deps): bump github.com/aws/aws-sdk-go-v2/service/ec2 from 1.305.2 to 1.307.0",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/7419",
+        "repo": "celestia-app",
+        "author": "dependabot",
+        "reviewer": "vgonkivs",
+        "requestedAt": "2026-06-15T09:50:46Z"
+      },
+      {
+        "number": 3125,
+        "title": "build(deps): Bump github.com/aws/aws-sdk-go-v2/service/s3 from 1.103.2 to 1.103.3",
+        "url": "https://github.com/celestiaorg/celestia-core/pull/3125",
         "repo": "celestia-core",
         "author": "dependabot",
         "reviewer": "vgonkivs",
-        "requestedAt": "2026-06-15T09:35:45Z"
+        "requestedAt": "2026-06-15T09:39:45Z"
       },
       {
         "number": 4617,
@@ -98,22 +162,13 @@
         "requestedAt": "2025-10-07T18:59:09Z"
       },
       {
-        "number": 5058,
-        "title": "fix(shrex/peers): bound blacklisted hashes with an LRU cache",
-        "url": "https://github.com/celestiaorg/celestia-node/pull/5058",
+        "number": 5064,
+        "title": "chore(deps): bump golang.org/x/crypto from 0.51.0 to 0.53.0",
+        "url": "https://github.com/celestiaorg/celestia-node/pull/5064",
         "repo": "celestia-node",
-        "author": "neyy91",
+        "author": "dependabot",
         "reviewer": "vgonkivs",
-        "requestedAt": "2026-06-13T11:38:55Z"
-      },
-      {
-        "number": 976,
-        "title": "feat(node)!: switch sample and row requests to shrex",
-        "url": "https://github.com/celestiaorg/lumina/pull/976",
-        "repo": "lumina",
-        "author": "mcrakhman",
-        "reviewer": "vgonkivs",
-        "requestedAt": "2026-06-12T20:48:49Z"
+        "requestedAt": "2026-06-15T11:07:15Z"
       }
     ],
     "evan-forbes": [
@@ -145,6 +200,15 @@
         "requestedAt": "2026-06-11T19:09:50Z"
       },
       {
+        "number": 7413,
+        "title": "chore(deps): bump golang.org/x/sys from 0.45.0 to 0.46.0",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/7413",
+        "repo": "celestia-app",
+        "author": "dependabot",
+        "reviewer": "evan-forbes",
+        "requestedAt": "2026-06-15T09:44:08Z"
+      },
+      {
         "number": 3119,
         "title": "feat: add on wire proto check for signature count (backport #3113)",
         "url": "https://github.com/celestiaorg/celestia-core/pull/3119",
@@ -152,15 +216,6 @@
         "author": "mergify",
         "reviewer": "evan-forbes",
         "requestedAt": "2026-06-12T15:23:32Z"
-      },
-      {
-        "number": 5015,
-        "title": "chore(deps): bump golang.org/x/crypto from 0.51.0 to 0.53.0",
-        "url": "https://github.com/celestiaorg/celestia-node/pull/5015",
-        "repo": "celestia-node",
-        "author": "dependabot",
-        "reviewer": "evan-forbes",
-        "requestedAt": "2026-05-25T16:50:16Z"
       },
       {
         "number": 5057,
@@ -179,6 +234,15 @@
         "author": "neyy91",
         "reviewer": "evan-forbes",
         "requestedAt": "2026-06-15T09:32:34Z"
+      },
+      {
+        "number": 5063,
+        "title": "chore(deps): bump go.opentelemetry.io/contrib/instrumentation/net/http/otelhttp from 0.67.0 to 0.69.0",
+        "url": "https://github.com/celestiaorg/celestia-node/pull/5063",
+        "repo": "celestia-node",
+        "author": "dependabot",
+        "reviewer": "evan-forbes",
+        "requestedAt": "2026-06-15T11:07:11Z"
       },
       {
         "number": 266,
@@ -333,5 +397,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-06-15T09:38:01.877Z"
+  "fetchedAt": "2026-06-15T11:36:48.998Z"
 }
