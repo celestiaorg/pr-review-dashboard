@@ -75,17 +75,7 @@
         "requestedAt": "2026-06-12T16:15:13Z"
       }
     ],
-    "rach-id": [
-      {
-        "number": 3127,
-        "title": "refactor(consensus): verify proposal block encoding before signing",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3127",
-        "repo": "celestia-core",
-        "author": "ninabarbakadze",
-        "reviewer": "rach-id",
-        "requestedAt": "2026-06-15T20:09:34Z"
-      }
-    ],
+    "rach-id": [],
     "mcrakhman": [
       {
         "number": 5052,
@@ -361,5 +351,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-06-16T05:39:31.700Z"
+  "fetchedAt": "2026-06-16T07:35:43.418Z"
 }
