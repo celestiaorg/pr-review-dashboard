@@ -12,6 +12,15 @@
         "requestedAt": "2026-06-17T10:51:28Z"
       },
       {
+        "number": 7428,
+        "title": "fix: print trailing newline when CLI tools report errors",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/7428",
+        "repo": "celestia-app",
+        "author": "rootulp",
+        "reviewer": "ninabarbakadze",
+        "requestedAt": "2026-06-17T13:10:49Z"
+      },
+      {
         "number": 266,
         "title": "fix!: domain-separate and length-prefix Blob.Hash preimage",
         "url": "https://github.com/celestiaorg/go-square/pull/266",
@@ -23,13 +32,22 @@
     ],
     "rach-id": [
       {
-        "number": 5067,
-        "title": "chore: bump app to v9.0.4",
-        "url": "https://github.com/celestiaorg/celestia-node/pull/5067",
-        "repo": "celestia-node",
+        "number": 7426,
+        "title": "feat: cap sdk msg count in CheckTx",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/7426",
+        "repo": "celestia-app",
         "author": "ninabarbakadze",
         "reviewer": "rach-id",
-        "requestedAt": "2026-06-17T11:14:02Z"
+        "requestedAt": "2026-06-17T13:15:19Z"
+      },
+      {
+        "number": 3128,
+        "title": "test(mempool/cat): deflake TestTxPool_ExpiredTxs_Timestamp",
+        "url": "https://github.com/celestiaorg/celestia-core/pull/3128",
+        "repo": "celestia-core",
+        "author": "rootulp",
+        "reviewer": "rach-id",
+        "requestedAt": "2026-06-17T13:11:39Z"
       }
     ],
     "mcrakhman": [
@@ -50,6 +68,15 @@
         "author": "rach-id",
         "reviewer": "mcrakhman",
         "requestedAt": "2026-06-17T07:30:30Z"
+      },
+      {
+        "number": 7427,
+        "title": "fix: retry transient failures when downloading embedded binaries",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/7427",
+        "repo": "celestia-app",
+        "author": "rootulp",
+        "reviewer": "mcrakhman",
+        "requestedAt": "2026-06-17T13:05:42Z"
       }
     ],
     "vgonkivs": [
@@ -244,5 +271,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-06-17T12:19:21.716Z"
+  "fetchedAt": "2026-06-17T13:38:18.946Z"
 }
