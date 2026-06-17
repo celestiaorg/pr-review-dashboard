@@ -39,7 +39,26 @@
         "requestedAt": "2026-06-12T16:15:13Z"
       }
     ],
-    "rach-id": [],
+    "rach-id": [
+      {
+        "number": 7390,
+        "title": "fix: relax TestTxSubmission success-rate threshold to de-flake nightly",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/7390",
+        "repo": "celestia-app",
+        "author": "rootulp",
+        "reviewer": "rach-id",
+        "requestedAt": "2026-06-17T04:21:25Z"
+      },
+      {
+        "number": 5063,
+        "title": "chore(deps): bump go.opentelemetry.io/contrib/instrumentation/net/http/otelhttp from 0.67.0 to 0.69.0",
+        "url": "https://github.com/celestiaorg/celestia-node/pull/5063",
+        "repo": "celestia-node",
+        "author": "dependabot",
+        "reviewer": "rach-id",
+        "requestedAt": "2026-06-17T04:37:38Z"
+      }
+    ],
     "mcrakhman": [
       {
         "number": 7347,
@@ -60,6 +79,24 @@
         "author": "DeVikingMark",
         "reviewer": "vgonkivs",
         "requestedAt": "2025-10-07T18:59:09Z"
+      },
+      {
+        "number": 5057,
+        "title": "fix(das): deep-copy worker failed map in getState to avoid stats race",
+        "url": "https://github.com/celestiaorg/celestia-node/pull/5057",
+        "repo": "celestia-node",
+        "author": "neyy91",
+        "reviewer": "vgonkivs",
+        "requestedAt": "2026-06-17T04:22:51Z"
+      },
+      {
+        "number": 5060,
+        "title": "test(libs/utils): fix data race on maxActive in TestSessions_Concurre…",
+        "url": "https://github.com/celestiaorg/celestia-node/pull/5060",
+        "repo": "celestia-node",
+        "author": "neyy91",
+        "reviewer": "vgonkivs",
+        "requestedAt": "2026-06-17T04:23:29Z"
       },
       {
         "number": 5064,
@@ -100,24 +137,6 @@
         "requestedAt": "2026-06-11T19:09:50Z"
       },
       {
-        "number": 5057,
-        "title": "fix(das): deep-copy worker failed map in getState to avoid stats race",
-        "url": "https://github.com/celestiaorg/celestia-node/pull/5057",
-        "repo": "celestia-node",
-        "author": "neyy91",
-        "reviewer": "evan-forbes",
-        "requestedAt": "2026-06-13T11:27:41Z"
-      },
-      {
-        "number": 5060,
-        "title": "test(libs/utils): fix data race on maxActive in TestSessions_Concurre…",
-        "url": "https://github.com/celestiaorg/celestia-node/pull/5060",
-        "repo": "celestia-node",
-        "author": "neyy91",
-        "reviewer": "evan-forbes",
-        "requestedAt": "2026-06-15T09:32:34Z"
-      },
-      {
         "number": 5063,
         "title": "chore(deps): bump go.opentelemetry.io/contrib/instrumentation/net/http/otelhttp from 0.67.0 to 0.69.0",
         "url": "https://github.com/celestiaorg/celestia-node/pull/5063",
@@ -127,15 +146,6 @@
         "requestedAt": "2026-06-15T11:07:11Z"
       },
       {
-        "number": 5067,
-        "title": "chore: bump app to v9.0.4",
-        "url": "https://github.com/celestiaorg/celestia-node/pull/5067",
-        "repo": "celestia-node",
-        "author": "ninabarbakadze",
-        "reviewer": "evan-forbes",
-        "requestedAt": "2026-06-16T15:23:46Z"
-      },
-      {
         "number": 266,
         "title": "fix!: domain-separate and length-prefix Blob.Hash preimage",
         "url": "https://github.com/celestiaorg/go-square/pull/266",
@@ -143,15 +153,6 @@
         "author": "rootulp",
         "reviewer": "evan-forbes",
         "requestedAt": "2026-06-11T18:52:06Z"
-      },
-      {
-        "number": 327,
-        "title": "chore(deps): bump celestiaorg/.github from 0.6.4 to 0.6.5",
-        "url": "https://github.com/celestiaorg/nmt/pull/327",
-        "repo": "nmt",
-        "author": "dependabot",
-        "reviewer": "evan-forbes",
-        "requestedAt": "2026-05-29T23:08:27Z"
       },
       {
         "number": 417,
@@ -288,5 +289,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-06-17T03:47:03.718Z"
+  "fetchedAt": "2026-06-17T05:28:55.031Z"
 }
