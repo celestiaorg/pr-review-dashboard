@@ -137,6 +137,15 @@
         "requestedAt": "2026-06-11T19:09:50Z"
       },
       {
+        "number": 3129,
+        "title": "fix: removeTimedoutPeers deadlock in blocksync",
+        "url": "https://github.com/celestiaorg/celestia-core/pull/3129",
+        "repo": "celestia-core",
+        "author": "ninabarbakadze",
+        "reviewer": "evan-forbes",
+        "requestedAt": "2026-06-17T21:54:20Z"
+      },
+      {
         "number": 266,
         "title": "fix!: domain-separate and length-prefix Blob.Hash preimage",
         "url": "https://github.com/celestiaorg/go-square/pull/266",
@@ -271,5 +280,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-06-17T21:22:51.572Z"
+  "fetchedAt": "2026-06-17T22:08:34.883Z"
 }
