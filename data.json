@@ -3,33 +3,6 @@
     "rootulp": [],
     "ninabarbakadze": [
       {
-        "number": 7398,
-        "title": "fix: harden TxCache.getBlobsHash against blob hash collisions",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7398",
-        "repo": "celestia-app",
-        "author": "rootulp",
-        "reviewer": "ninabarbakadze",
-        "requestedAt": "2026-06-11T19:09:50Z"
-      },
-      {
-        "number": 5055,
-        "title": "fix(store/file): close ODS file descriptors in ValidateODSSize and Op…",
-        "url": "https://github.com/celestiaorg/celestia-node/pull/5055",
-        "repo": "celestia-node",
-        "author": "neyy91",
-        "reviewer": "ninabarbakadze",
-        "requestedAt": "2026-06-13T11:13:20Z"
-      },
-      {
-        "number": 5061,
-        "title": "chore(deps): bump alpine from 3.23.4 to 3.24.0",
-        "url": "https://github.com/celestiaorg/celestia-node/pull/5061",
-        "repo": "celestia-node",
-        "author": "dependabot",
-        "reviewer": "ninabarbakadze",
-        "requestedAt": "2026-06-15T11:03:53Z"
-      },
-      {
         "number": 266,
         "title": "fix!: domain-separate and length-prefix Blob.Hash preimage",
         "url": "https://github.com/celestiaorg/go-square/pull/266",
@@ -252,5 +225,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-06-17T09:06:36.715Z"
+  "fetchedAt": "2026-06-17T10:48:07.890Z"
 }
