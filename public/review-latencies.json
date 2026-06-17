@@ -36,52 +36,52 @@
     },
     "rach-id": {
       "week": {
-        "n": 4,
+        "n": 6,
         "medianHours": 0.9119444444444444,
-        "p90Hours": 1.2583333333333333
+        "p90Hours": 10.202222222222222
       },
       "month": {
-        "n": 51,
+        "n": 53,
         "medianHours": 1.2441666666666666,
         "p90Hours": 15.154444444444444
       },
       "year": {
-        "n": 370,
+        "n": 372,
         "medianHours": 2.4138888888888888,
-        "p90Hours": 35.84111111111111
+        "p90Hours": 35.36555555555555
       }
     },
     "mcrakhman": {
       "week": {
-        "n": 0,
-        "medianHours": null,
-        "p90Hours": null
+        "n": 2,
+        "medianHours": 85.3575,
+        "p90Hours": 85.3575
       },
       "month": {
-        "n": 11,
-        "medianHours": 139.51444444444445,
+        "n": 13,
+        "medianHours": 85.3575,
         "p90Hours": 319.37583333333333
       },
       "year": {
-        "n": 51,
-        "medianHours": 15.359722222222222,
+        "n": 53,
+        "medianHours": 15.375,
         "p90Hours": 310.64944444444444
       }
     },
     "vgonkivs": {
       "week": {
-        "n": 4,
-        "medianHours": 46.62861111111111,
+        "n": 6,
+        "medianHours": 28.485833333333332,
         "p90Hours": 61.236666666666665
       },
       "month": {
-        "n": 15,
-        "medianHours": 46.62861111111111,
+        "n": 17,
+        "medianHours": 28.485833333333332,
         "p90Hours": 192.0438888888889
       },
       "year": {
-        "n": 51,
-        "medianHours": 46.62861111111111,
+        "n": 53,
+        "medianHours": 33.60527777777778,
         "p90Hours": 334.75333333333333
       }
     },
@@ -270,7 +270,7 @@
       "defaultHidden": false
     }
   ],
-  "computedAt": "2026-06-16T00:37:05.734Z",
+  "computedAt": "2026-06-17T00:32:06.977Z",
   "windows": {
     "weekStart": "2026-06-15T00:00:00.000Z",
     "monthStart": "2026-06-01T00:00:00.000Z",
