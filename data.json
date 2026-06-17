@@ -39,7 +39,17 @@
         "requestedAt": "2026-06-12T16:15:13Z"
       }
     ],
-    "rach-id": [],
+    "rach-id": [
+      {
+        "number": 5070,
+        "title": "nodebuilder: make Badger ValueThreshold configurable",
+        "url": "https://github.com/celestiaorg/celestia-node/pull/5070",
+        "repo": "celestia-node",
+        "author": "Marcolist",
+        "reviewer": "rach-id",
+        "requestedAt": "2026-06-17T18:17:42Z"
+      }
+    ],
     "mcrakhman": [
       {
         "number": 7347,
@@ -261,5 +271,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-06-17T18:03:50.748Z"
+  "fetchedAt": "2026-06-17T19:05:07.755Z"
 }
