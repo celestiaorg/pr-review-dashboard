@@ -3,6 +3,15 @@
     "rootulp": [],
     "ninabarbakadze": [
       {
+        "number": 7398,
+        "title": "fix: harden TxCache.getBlobsHash against blob hash collisions",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/7398",
+        "repo": "celestia-app",
+        "author": "rootulp",
+        "reviewer": "ninabarbakadze",
+        "requestedAt": "2026-06-17T10:51:28Z"
+      },
+      {
         "number": 266,
         "title": "fix!: domain-separate and length-prefix Blob.Hash preimage",
         "url": "https://github.com/celestiaorg/go-square/pull/266",
@@ -12,7 +21,17 @@
         "requestedAt": "2026-06-12T16:15:13Z"
       }
     ],
-    "rach-id": [],
+    "rach-id": [
+      {
+        "number": 5067,
+        "title": "chore: bump app to v9.0.4",
+        "url": "https://github.com/celestiaorg/celestia-node/pull/5067",
+        "repo": "celestia-node",
+        "author": "ninabarbakadze",
+        "reviewer": "rach-id",
+        "requestedAt": "2026-06-17T11:14:02Z"
+      }
+    ],
     "mcrakhman": [
       {
         "number": 7347,
@@ -225,5 +244,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-06-17T10:48:07.890Z"
+  "fetchedAt": "2026-06-17T12:19:21.716Z"
 }
