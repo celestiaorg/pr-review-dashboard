@@ -21,6 +21,15 @@
         "requestedAt": "2026-06-17T13:10:49Z"
       },
       {
+        "number": 7431,
+        "title": "chore(fibre): fix row indices typo",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/7431",
+        "repo": "celestia-app",
+        "author": "reflecttypefor",
+        "reviewer": "ninabarbakadze",
+        "requestedAt": "2026-06-18T01:59:42Z"
+      },
+      {
         "number": 5069,
         "title": "test(share): add RowsWithNamespace tests",
         "url": "https://github.com/celestiaorg/celestia-node/pull/5069",
@@ -40,6 +49,15 @@
       }
     ],
     "rach-id": [
+      {
+        "number": 3130,
+        "title": "docs: mention propagation reactor in README",
+        "url": "https://github.com/celestiaorg/celestia-core/pull/3130",
+        "repo": "celestia-core",
+        "author": "reflecttypefor",
+        "reviewer": "rach-id",
+        "requestedAt": "2026-06-18T02:04:51Z"
+      },
       {
         "number": 5070,
         "title": "nodebuilder: make Badger ValueThreshold configurable",
@@ -298,5 +316,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-06-18T01:41:09.334Z"
+  "fetchedAt": "2026-06-18T02:41:17.118Z"
 }
