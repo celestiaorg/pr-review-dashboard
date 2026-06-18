@@ -33,15 +33,6 @@
     "rach-id": [],
     "mcrakhman": [
       {
-        "number": 7347,
-        "title": "feat(fibre): query the state when validator's host errors",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7347",
-        "repo": "celestia-app",
-        "author": "rach-id",
-        "reviewer": "mcrakhman",
-        "requestedAt": "2026-06-16T15:59:57Z"
-      },
-      {
         "number": 7424,
         "title": "docs: update the fibre specs to match the implementation",
         "url": "https://github.com/celestiaorg/celestia-app/pull/7424",
@@ -69,15 +60,6 @@
         "author": "rach-id",
         "reviewer": "vgonkivs",
         "requestedAt": "2026-06-17T07:30:19Z"
-      },
-      {
-        "number": 4617,
-        "title": "feat(api/client): add support for multiple endpoints with failover",
-        "url": "https://github.com/celestiaorg/celestia-node/pull/4617",
-        "repo": "celestia-node",
-        "author": "DeVikingMark",
-        "reviewer": "vgonkivs",
-        "requestedAt": "2025-10-07T18:59:09Z"
       },
       {
         "number": 5057,
@@ -127,41 +109,12 @@
         "author": "rach-id",
         "reviewer": "walldiss",
         "requestedAt": "2026-06-04T12:35:22Z"
-      },
-      {
-        "number": 4617,
-        "title": "feat(api/client): add support for multiple endpoints with failover",
-        "url": "https://github.com/celestiaorg/celestia-node/pull/4617",
-        "repo": "celestia-node",
-        "author": "DeVikingMark",
-        "reviewer": "walldiss",
-        "requestedAt": "2025-10-07T18:59:09Z"
       }
     ],
-    "Wondertan": [
-      {
-        "number": 4617,
-        "title": "feat(api/client): add support for multiple endpoints with failover",
-        "url": "https://github.com/celestiaorg/celestia-node/pull/4617",
-        "repo": "celestia-node",
-        "author": "DeVikingMark",
-        "reviewer": "Wondertan",
-        "requestedAt": "2025-10-07T18:59:09Z"
-      }
-    ],
+    "Wondertan": [],
     "tty47": [],
     "pippokr": [],
-    "renaynay": [
-      {
-        "number": 4617,
-        "title": "feat(api/client): add support for multiple endpoints with failover",
-        "url": "https://github.com/celestiaorg/celestia-node/pull/4617",
-        "repo": "celestia-node",
-        "author": "DeVikingMark",
-        "reviewer": "renaynay",
-        "requestedAt": "2025-10-07T18:59:09Z"
-      }
-    ],
+    "renaynay": [],
     "chatton": []
   },
   "teamMembers": [
@@ -233,5 +186,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-06-18T11:59:28.048Z"
+  "fetchedAt": "2026-06-18T13:26:07.888Z"
 }
