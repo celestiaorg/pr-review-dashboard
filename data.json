@@ -48,26 +48,7 @@
         "requestedAt": "2026-06-12T16:15:13Z"
       }
     ],
-    "rach-id": [
-      {
-        "number": 3130,
-        "title": "docs: mention propagation reactor in README",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3130",
-        "repo": "celestia-core",
-        "author": "reflecttypefor",
-        "reviewer": "rach-id",
-        "requestedAt": "2026-06-18T02:04:51Z"
-      },
-      {
-        "number": 5070,
-        "title": "nodebuilder: make Badger ValueThreshold configurable",
-        "url": "https://github.com/celestiaorg/celestia-node/pull/5070",
-        "repo": "celestia-node",
-        "author": "Marcolist",
-        "reviewer": "rach-id",
-        "requestedAt": "2026-06-17T18:17:42Z"
-      }
-    ],
+    "rach-id": [],
     "mcrakhman": [
       {
         "number": 7347,
@@ -316,5 +297,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-06-18T02:41:17.118Z"
+  "fetchedAt": "2026-06-18T04:09:25.419Z"
 }
