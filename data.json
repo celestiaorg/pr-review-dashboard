@@ -12,15 +12,6 @@
         "requestedAt": "2026-06-17T10:51:28Z"
       },
       {
-        "number": 7428,
-        "title": "fix: print trailing newline when CLI tools report errors",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7428",
-        "repo": "celestia-app",
-        "author": "rootulp",
-        "reviewer": "ninabarbakadze",
-        "requestedAt": "2026-06-17T13:10:49Z"
-      },
-      {
         "number": 7431,
         "title": "chore(fibre): fix row indices typo",
         "url": "https://github.com/celestiaorg/celestia-app/pull/7431",
@@ -69,24 +60,6 @@
         "requestedAt": "2026-06-17T07:30:30Z"
       },
       {
-        "number": 7427,
-        "title": "fix: retry transient failures when downloading embedded binaries",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7427",
-        "repo": "celestia-app",
-        "author": "rootulp",
-        "reviewer": "mcrakhman",
-        "requestedAt": "2026-06-17T13:05:42Z"
-      },
-      {
-        "number": 7430,
-        "title": "fix: pre-pull busybox image to de-flake docker e2e tests",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7430",
-        "repo": "celestia-app",
-        "author": "rootulp",
-        "reviewer": "mcrakhman",
-        "requestedAt": "2026-06-17T22:12:24Z"
-      },
-      {
         "number": 419,
         "title": "chore(deps): Bump github.com/klauspost/reedsolomon from 1.14.0 to 1.14.1",
         "url": "https://github.com/celestiaorg/rsmt2d/pull/419",
@@ -105,15 +78,6 @@
         "author": "rach-id",
         "reviewer": "vgonkivs",
         "requestedAt": "2026-06-17T07:30:19Z"
-      },
-      {
-        "number": 7429,
-        "title": "fix: add missing newlines when printing errors in CLI tools",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7429",
-        "repo": "celestia-app",
-        "author": "rootulp",
-        "reviewer": "vgonkivs",
-        "requestedAt": "2026-06-17T22:09:16Z"
       },
       {
         "number": 4617,
@@ -152,15 +116,6 @@
         "author": "rootulp",
         "reviewer": "evan-forbes",
         "requestedAt": "2026-06-11T19:09:50Z"
-      },
-      {
-        "number": 3129,
-        "title": "fix: removeTimedoutPeers deadlock in blocksync",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3129",
-        "repo": "celestia-core",
-        "author": "ninabarbakadze",
-        "reviewer": "evan-forbes",
-        "requestedAt": "2026-06-17T21:54:20Z"
       },
       {
         "number": 266,
@@ -216,17 +171,7 @@
         "requestedAt": "2025-10-07T18:59:09Z"
       }
     ],
-    "chatton": [
-      {
-        "number": 7381,
-        "title": "ci: retry go-mod-tidy-check to tolerate transient download failures",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7381",
-        "repo": "celestia-app",
-        "author": "rootulp",
-        "reviewer": "chatton",
-        "requestedAt": "2026-06-08T20:12:17Z"
-      }
-    ]
+    "chatton": []
   },
   "teamMembers": [
     {
@@ -297,5 +242,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-06-18T04:09:25.419Z"
+  "fetchedAt": "2026-06-18T05:52:41.869Z"
 }
