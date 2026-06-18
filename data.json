@@ -30,7 +30,17 @@
         "requestedAt": "2026-06-18T21:02:52Z"
       }
     ],
-    "rach-id": [],
+    "rach-id": [
+      {
+        "number": 7434,
+        "title": "fix(rsema1d): reject row-size mismatch in VerifyShared",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/7434",
+        "repo": "celestia-app",
+        "author": "ninabarbakadze",
+        "reviewer": "rach-id",
+        "requestedAt": "2026-06-18T21:56:55Z"
+      }
+    ],
     "mcrakhman": [
       {
         "number": 7424,
@@ -194,5 +204,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-06-18T21:28:52.789Z"
+  "fetchedAt": "2026-06-18T22:19:46.888Z"
 }
