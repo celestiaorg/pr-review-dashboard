@@ -33,6 +33,15 @@
         "requestedAt": "2026-06-17T07:30:30Z"
       },
       {
+        "number": 7435,
+        "title": "fix: preserve network suffix (e.g. -mocha) in celestia-appd version",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/7435",
+        "repo": "celestia-app",
+        "author": "rootulp",
+        "reviewer": "mcrakhman",
+        "requestedAt": "2026-06-18T16:22:08Z"
+      },
+      {
         "number": 419,
         "title": "chore(deps): Bump github.com/klauspost/reedsolomon from 1.14.0 to 1.14.1",
         "url": "https://github.com/celestiaorg/rsmt2d/pull/419",
@@ -69,6 +78,15 @@
         "author": "dependabot",
         "reviewer": "vgonkivs",
         "requestedAt": "2026-06-15T11:07:15Z"
+      },
+      {
+        "number": 420,
+        "title": "chore(deps): Bump actions/checkout from 6 to 7",
+        "url": "https://github.com/celestiaorg/rsmt2d/pull/420",
+        "repo": "rsmt2d",
+        "author": "dependabot",
+        "reviewer": "vgonkivs",
+        "requestedAt": "2026-06-18T15:52:28Z"
       }
     ],
     "evan-forbes": [
@@ -167,5 +185,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-06-18T15:48:58.224Z"
+  "fetchedAt": "2026-06-18T16:52:36.456Z"
 }
