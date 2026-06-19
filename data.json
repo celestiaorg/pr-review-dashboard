@@ -12,6 +12,15 @@
         "requestedAt": "2026-06-17T10:51:28Z"
       },
       {
+        "number": 7438,
+        "title": "fix(multiplexer): exit when an embedded binary fails",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/7438",
+        "repo": "celestia-app",
+        "author": "rootulp",
+        "reviewer": "ninabarbakadze",
+        "requestedAt": "2026-06-19T23:45:24Z"
+      },
+      {
         "number": 266,
         "title": "fix!: domain-separate and length-prefix Blob.Hash preimage",
         "url": "https://github.com/celestiaorg/go-square/pull/266",
@@ -49,6 +58,15 @@
         "author": "rootulp",
         "reviewer": "mcrakhman",
         "requestedAt": "2026-06-18T16:22:08Z"
+      },
+      {
+        "number": 7437,
+        "title": "fix: retry chain start on host-port collision in TestAllUpgrades",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/7437",
+        "repo": "celestia-app",
+        "author": "rootulp",
+        "reviewer": "mcrakhman",
+        "requestedAt": "2026-06-19T23:43:27Z"
       }
     ],
     "vgonkivs": [
@@ -60,6 +78,15 @@
         "author": "rach-id",
         "reviewer": "vgonkivs",
         "requestedAt": "2026-06-17T07:30:19Z"
+      },
+      {
+        "number": 3131,
+        "title": "test(consensus): deflake TestReactorValidatorSetChanges timeout",
+        "url": "https://github.com/celestiaorg/celestia-core/pull/3131",
+        "repo": "celestia-core",
+        "author": "rootulp",
+        "reviewer": "vgonkivs",
+        "requestedAt": "2026-06-19T23:38:30Z"
       },
       {
         "number": 5057,
@@ -185,5 +212,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-06-19T23:30:42.036Z"
+  "fetchedAt": "2026-06-19T23:55:54.136Z"
 }
