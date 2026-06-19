@@ -30,26 +30,7 @@
         "requestedAt": "2026-06-18T21:02:52Z"
       }
     ],
-    "rach-id": [
-      {
-        "number": 438,
-        "title": "chore: Bump actions/checkout from 6 to 7",
-        "url": "https://github.com/celestiaorg/blobstream-contracts/pull/438",
-        "repo": "blobstream-contracts",
-        "author": "dependabot",
-        "reviewer": "rach-id",
-        "requestedAt": "2026-06-18T23:52:22Z"
-      },
-      {
-        "number": 7434,
-        "title": "fix(rsema1d): reject row-size mismatch in VerifyShared",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7434",
-        "repo": "celestia-app",
-        "author": "ninabarbakadze",
-        "reviewer": "rach-id",
-        "requestedAt": "2026-06-18T21:56:55Z"
-      }
-    ],
+    "rach-id": [],
     "mcrakhman": [
       {
         "number": 7424,
@@ -213,5 +194,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-06-19T03:59:18.477Z"
+  "fetchedAt": "2026-06-19T05:54:40.252Z"
 }
