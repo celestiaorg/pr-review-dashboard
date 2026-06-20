@@ -36,34 +36,34 @@
     },
     "rach-id": {
       "week": {
-        "n": 15,
-        "medianHours": 0.9119444444444444,
+        "n": 17,
+        "medianHours": 1.2583333333333333,
         "p90Hours": 9.775277777777777
       },
       "month": {
-        "n": 62,
-        "medianHours": 1.2583333333333333,
+        "n": 64,
+        "medianHours": 1.2616666666666667,
         "p90Hours": 13.538333333333334
       },
       "year": {
-        "n": 381,
-        "medianHours": 2.3658333333333332,
+        "n": 383,
+        "medianHours": 2.3980555555555556,
         "p90Hours": 31.004444444444445
       }
     },
     "mcrakhman": {
       "week": {
-        "n": 3,
+        "n": 4,
         "medianHours": 44.753055555555555,
         "p90Hours": 85.3575
       },
       "month": {
-        "n": 14,
-        "medianHours": 85.3575,
+        "n": 15,
+        "medianHours": 84.44333333333333,
         "p90Hours": 319.37583333333333
       },
       "year": {
-        "n": 54,
+        "n": 55,
         "medianHours": 15.403333333333334,
         "p90Hours": 310.64944444444444
       }
@@ -270,7 +270,7 @@
       "defaultHidden": false
     }
   ],
-  "computedAt": "2026-06-19T00:36:16.039Z",
+  "computedAt": "2026-06-20T00:28:24.276Z",
   "windows": {
     "weekStart": "2026-06-15T00:00:00.000Z",
     "monthStart": "2026-06-01T00:00:00.000Z",
