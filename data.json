@@ -67,6 +67,15 @@
         "author": "rootulp",
         "reviewer": "mcrakhman",
         "requestedAt": "2026-06-19T23:43:27Z"
+      },
+      {
+        "number": 5075,
+        "title": "test(share/eds): warm EDS roots before parallel accessor subtests",
+        "url": "https://github.com/celestiaorg/celestia-node/pull/5075",
+        "repo": "celestia-node",
+        "author": "neyy91",
+        "reviewer": "mcrakhman",
+        "requestedAt": "2026-06-21T03:19:31Z"
       }
     ],
     "vgonkivs": [
@@ -107,6 +116,15 @@
         "requestedAt": "2026-06-15T11:07:15Z"
       },
       {
+        "number": 5074,
+        "title": "test(shrex_getter): give each peer manager its own header subscriber",
+        "url": "https://github.com/celestiaorg/celestia-node/pull/5074",
+        "repo": "celestia-node",
+        "author": "neyy91",
+        "reviewer": "vgonkivs",
+        "requestedAt": "2026-06-21T03:18:52Z"
+      },
+      {
         "number": 420,
         "title": "chore(deps): Bump actions/checkout from 6 to 7",
         "url": "https://github.com/celestiaorg/rsmt2d/pull/420",
@@ -125,6 +143,15 @@
         "author": "rootulp",
         "reviewer": "evan-forbes",
         "requestedAt": "2026-06-11T19:09:50Z"
+      },
+      {
+        "number": 5073,
+        "title": "fix(state/txclient): close estimator conn on failure and wait for Ready",
+        "url": "https://github.com/celestiaorg/celestia-node/pull/5073",
+        "repo": "celestia-node",
+        "author": "neyy91",
+        "reviewer": "evan-forbes",
+        "requestedAt": "2026-06-21T03:04:04Z"
       },
       {
         "number": 266,
@@ -212,5 +239,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-06-21T02:23:01.791Z"
+  "fetchedAt": "2026-06-21T03:42:59.085Z"
 }
