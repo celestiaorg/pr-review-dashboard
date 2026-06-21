@@ -48,7 +48,17 @@
         "requestedAt": "2026-06-18T21:02:52Z"
       }
     ],
-    "rach-id": [],
+    "rach-id": [
+      {
+        "number": 5077,
+        "title": "fix(shwap/bitswap): return real result from Blockstore.Has",
+        "url": "https://github.com/celestiaorg/celestia-node/pull/5077",
+        "repo": "celestia-node",
+        "author": "neyy91",
+        "reviewer": "rach-id",
+        "requestedAt": "2026-06-21T18:58:11Z"
+      }
+    ],
     "mcrakhman": [
       {
         "number": 7424,
@@ -248,5 +258,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-06-21T18:23:27.472Z"
+  "fetchedAt": "2026-06-21T18:58:25.546Z"
 }
