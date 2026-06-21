@@ -144,6 +144,15 @@
         "requestedAt": "2026-06-21T03:18:52Z"
       },
       {
+        "number": 5079,
+        "title": "fix(blob): guard against nil proof in Service.Included",
+        "url": "https://github.com/celestiaorg/celestia-node/pull/5079",
+        "repo": "celestia-node",
+        "author": "neyy91",
+        "reviewer": "vgonkivs",
+        "requestedAt": "2026-06-21T19:07:00Z"
+      },
+      {
         "number": 420,
         "title": "chore(deps): Bump actions/checkout from 6 to 7",
         "url": "https://github.com/celestiaorg/rsmt2d/pull/420",
@@ -258,5 +267,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-06-21T18:58:25.546Z"
+  "fetchedAt": "2026-06-21T19:38:27.674Z"
 }
