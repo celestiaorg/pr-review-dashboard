@@ -21,22 +21,13 @@
         "requestedAt": "2026-06-22T10:48:44Z"
       },
       {
-        "number": 5080,
-        "title": "chore(deps): bump alpine from 3.24.0 to 3.24.1 in the patch-updates group",
-        "url": "https://github.com/celestiaorg/celestia-node/pull/5080",
-        "repo": "celestia-node",
-        "author": "dependabot",
-        "reviewer": "ninabarbakadze",
-        "requestedAt": "2026-06-22T11:03:38Z"
-      },
-      {
         "number": 5084,
         "title": "chore(deps): bump github.com/moby/moby/client from 0.4.0 to 0.5.0 in /nodebuilder/tests/tastora",
         "url": "https://github.com/celestiaorg/celestia-node/pull/5084",
         "repo": "celestia-node",
         "author": "dependabot",
         "reviewer": "ninabarbakadze",
-        "requestedAt": "2026-06-22T11:07:18Z"
+        "requestedAt": "2026-06-22T18:18:58Z"
       },
       {
         "number": 266,
@@ -48,7 +39,17 @@
         "requestedAt": "2026-06-12T16:15:13Z"
       }
     ],
-    "rach-id": [],
+    "rach-id": [
+      {
+        "number": 5085,
+        "title": "fix(shrex): keep GetSamples result aligned with requested coords",
+        "url": "https://github.com/celestiaorg/celestia-node/pull/5085",
+        "repo": "celestia-node",
+        "author": "neyy91",
+        "reviewer": "rach-id",
+        "requestedAt": "2026-06-22T18:20:44Z"
+      }
+    ],
     "mcrakhman": [
       {
         "number": 7436,
@@ -230,5 +231,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-06-22T17:13:55.542Z"
+  "fetchedAt": "2026-06-22T18:35:19.065Z"
 }
