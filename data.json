@@ -12,15 +12,6 @@
         "requestedAt": "2026-06-17T10:51:28Z"
       },
       {
-        "number": 7436,
-        "title": "feat: improve the migrate-db script",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7436",
-        "repo": "celestia-app",
-        "author": "rach-id",
-        "reviewer": "ninabarbakadze",
-        "requestedAt": "2026-06-22T06:38:08Z"
-      },
-      {
         "number": 7438,
         "title": "fix(multiplexer): exit when an embedded binary fails",
         "url": "https://github.com/celestiaorg/celestia-app/pull/7438",
@@ -45,7 +36,7 @@
         "repo": "celestia-app",
         "author": "dependabot",
         "reviewer": "ninabarbakadze",
-        "requestedAt": "2026-06-22T09:34:16Z"
+        "requestedAt": "2026-06-22T10:46:07Z"
       },
       {
         "number": 7449,
@@ -54,25 +45,25 @@
         "repo": "celestia-app",
         "author": "dependabot",
         "reviewer": "ninabarbakadze",
-        "requestedAt": "2026-06-22T09:34:34Z"
+        "requestedAt": "2026-06-22T10:48:44Z"
       },
       {
-        "number": 3132,
-        "title": "build(deps): Bump actions/checkout from 6 to 7",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3132",
-        "repo": "celestia-core",
+        "number": 5080,
+        "title": "chore(deps): bump alpine from 3.24.0 to 3.24.1 in the patch-updates group",
+        "url": "https://github.com/celestiaorg/celestia-node/pull/5080",
+        "repo": "celestia-node",
         "author": "dependabot",
         "reviewer": "ninabarbakadze",
-        "requestedAt": "2026-06-22T09:27:50Z"
+        "requestedAt": "2026-06-22T11:03:38Z"
       },
       {
-        "number": 3136,
-        "title": "build(deps): Bump github.com/klauspost/reedsolomon from 1.14.0 to 1.14.1",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3136",
-        "repo": "celestia-core",
+        "number": 5084,
+        "title": "chore(deps): bump github.com/moby/moby/client from 0.4.0 to 0.5.0 in /nodebuilder/tests/tastora",
+        "url": "https://github.com/celestiaorg/celestia-node/pull/5084",
+        "repo": "celestia-node",
         "author": "dependabot",
         "reviewer": "ninabarbakadze",
-        "requestedAt": "2026-06-22T09:29:31Z"
+        "requestedAt": "2026-06-22T11:07:18Z"
       },
       {
         "number": 266,
@@ -84,44 +75,7 @@
         "requestedAt": "2026-06-12T16:15:13Z"
       }
     ],
-    "rach-id": [
-      {
-        "number": 7442,
-        "title": "chore(deps): bump actions/checkout from 6 to 7",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7442",
-        "repo": "celestia-app",
-        "author": "dependabot",
-        "reviewer": "rach-id",
-        "requestedAt": "2026-06-22T09:32:35Z"
-      },
-      {
-        "number": 7446,
-        "title": "chore(deps): bump github.com/ethereum/go-ethereum from 1.17.3 to 1.17.4 in /test/docker-e2e",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7446",
-        "repo": "celestia-app",
-        "author": "dependabot",
-        "reviewer": "rach-id",
-        "requestedAt": "2026-06-22T09:34:22Z"
-      },
-      {
-        "number": 7450,
-        "title": "chore(deps): bump github.com/aws/aws-sdk-go-v2/service/ec2 from 1.307.0 to 1.307.1",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7450",
-        "repo": "celestia-app",
-        "author": "dependabot",
-        "reviewer": "rach-id",
-        "requestedAt": "2026-06-22T09:35:56Z"
-      },
-      {
-        "number": 3133,
-        "title": "build(deps): Bump github.com/aws/aws-sdk-go-v2/service/s3 from 1.103.3 to 1.104.0",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3133",
-        "repo": "celestia-core",
-        "author": "dependabot",
-        "reviewer": "rach-id",
-        "requestedAt": "2026-06-22T09:29:07Z"
-      }
-    ],
+    "rach-id": [],
     "mcrakhman": [
       {
         "number": 7435,
@@ -194,6 +148,15 @@
         "author": "neyy91",
         "reviewer": "mcrakhman",
         "requestedAt": "2026-06-21T03:19:31Z"
+      },
+      {
+        "number": 5081,
+        "title": "chore(deps): bump actions/checkout from 6 to 7",
+        "url": "https://github.com/celestiaorg/celestia-node/pull/5081",
+        "repo": "celestia-node",
+        "author": "dependabot",
+        "reviewer": "mcrakhman",
+        "requestedAt": "2026-06-22T11:04:55Z"
       }
     ],
     "vgonkivs": [
@@ -216,15 +179,6 @@
         "requestedAt": "2026-06-22T09:32:52Z"
       },
       {
-        "number": 7447,
-        "title": "chore(deps): bump github.com/digitalocean/godo from 1.195.0 to 1.196.0",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7447",
-        "repo": "celestia-app",
-        "author": "dependabot",
-        "reviewer": "vgonkivs",
-        "requestedAt": "2026-06-22T09:34:23Z"
-      },
-      {
         "number": 7451,
         "title": "chore(deps): bump github.com/grafana/otel-profiling-go from 0.5.3 to 0.6.0",
         "url": "https://github.com/celestiaorg/celestia-app/pull/7451",
@@ -234,13 +188,13 @@
         "requestedAt": "2026-06-22T09:36:03Z"
       },
       {
-        "number": 3134,
-        "title": "build(deps): Bump github.com/grafana/otel-profiling-go from 0.5.3 to 0.6.0",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3134",
+        "number": 3138,
+        "title": "fix(propagation): run ValidateBasic on want parts",
+        "url": "https://github.com/celestiaorg/celestia-core/pull/3138",
         "repo": "celestia-core",
-        "author": "dependabot",
+        "author": "ninabarbakadze",
         "reviewer": "vgonkivs",
-        "requestedAt": "2026-06-22T09:29:15Z"
+        "requestedAt": "2026-06-22T10:32:57Z"
       },
       {
         "number": 5057,
@@ -250,6 +204,15 @@
         "author": "neyy91",
         "reviewer": "vgonkivs",
         "requestedAt": "2026-06-17T04:22:51Z"
+      },
+      {
+        "number": 5083,
+        "title": "chore(deps): bump github.com/grafana/otel-profiling-go from 0.5.1 to 0.6.0",
+        "url": "https://github.com/celestiaorg/celestia-node/pull/5083",
+        "repo": "celestia-node",
+        "author": "dependabot",
+        "reviewer": "vgonkivs",
+        "requestedAt": "2026-06-22T11:06:38Z"
       }
     ],
     "evan-forbes": [
@@ -357,5 +320,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-06-22T09:40:32.646Z"
+  "fetchedAt": "2026-06-22T11:39:41.058Z"
 }
