@@ -96,6 +96,15 @@
         "requestedAt": "2026-06-22T09:37:21Z"
       },
       {
+        "number": 7453,
+        "title": "fix(multiplexer): exit when an embedded binary exits unexpectedly",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/7453",
+        "repo": "celestia-app",
+        "author": "rootulp",
+        "reviewer": "mcrakhman",
+        "requestedAt": "2026-06-22T16:15:15Z"
+      },
+      {
         "number": 5075,
         "title": "test(share/eds): warm EDS roots before parallel accessor subtests",
         "url": "https://github.com/celestiaorg/celestia-node/pull/5075",
@@ -221,5 +230,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-06-22T15:30:55.127Z"
+  "fetchedAt": "2026-06-22T17:13:55.542Z"
 }
