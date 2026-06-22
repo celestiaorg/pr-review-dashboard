@@ -12,24 +12,6 @@
         "requestedAt": "2026-06-17T10:51:28Z"
       },
       {
-        "number": 7438,
-        "title": "fix(multiplexer): exit when an embedded binary fails",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7438",
-        "repo": "celestia-app",
-        "author": "rootulp",
-        "reviewer": "ninabarbakadze",
-        "requestedAt": "2026-06-19T23:45:24Z"
-      },
-      {
-        "number": 7441,
-        "title": "fix(test): remove flaky GetTx query in TestSquareSizeIntegrationTest",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7441",
-        "repo": "celestia-app",
-        "author": "rootulp",
-        "reviewer": "ninabarbakadze",
-        "requestedAt": "2026-06-21T16:13:12Z"
-      },
-      {
         "number": 7445,
         "title": "chore(deps): bump github.com/aws/aws-sdk-go-v2/service/s3 from 1.103.3 to 1.104.0",
         "url": "https://github.com/celestiaorg/celestia-app/pull/7445",
@@ -132,15 +114,6 @@
         "requestedAt": "2026-06-22T09:37:21Z"
       },
       {
-        "number": 3135,
-        "title": "build(deps): Bump github.com/prometheus/common from 0.68.1 to 0.69.0",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3135",
-        "repo": "celestia-core",
-        "author": "dependabot",
-        "reviewer": "mcrakhman",
-        "requestedAt": "2026-06-22T09:29:20Z"
-      },
-      {
         "number": 5075,
         "title": "test(share/eds): warm EDS roots before parallel accessor subtests",
         "url": "https://github.com/celestiaorg/celestia-node/pull/5075",
@@ -186,15 +159,6 @@
         "author": "dependabot",
         "reviewer": "vgonkivs",
         "requestedAt": "2026-06-22T09:36:03Z"
-      },
-      {
-        "number": 3138,
-        "title": "fix(propagation): run ValidateBasic on want parts",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3138",
-        "repo": "celestia-core",
-        "author": "ninabarbakadze",
-        "reviewer": "vgonkivs",
-        "requestedAt": "2026-06-22T10:32:57Z"
       },
       {
         "number": 5057,
@@ -320,5 +284,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-06-22T11:39:41.058Z"
+  "fetchedAt": "2026-06-22T13:37:16.360Z"
 }
