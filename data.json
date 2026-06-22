@@ -12,6 +12,15 @@
         "requestedAt": "2026-06-17T10:51:28Z"
       },
       {
+        "number": 7436,
+        "title": "feat: improve the migrate-db script",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/7436",
+        "repo": "celestia-app",
+        "author": "rach-id",
+        "reviewer": "ninabarbakadze",
+        "requestedAt": "2026-06-22T06:38:08Z"
+      },
+      {
         "number": 7438,
         "title": "fix(multiplexer): exit when an embedded binary fails",
         "url": "https://github.com/celestiaorg/celestia-app/pull/7438",
@@ -58,6 +67,15 @@
         "author": "rootulp",
         "reviewer": "mcrakhman",
         "requestedAt": "2026-06-18T16:22:08Z"
+      },
+      {
+        "number": 7436,
+        "title": "feat: improve the migrate-db script",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/7436",
+        "repo": "celestia-app",
+        "author": "rach-id",
+        "reviewer": "mcrakhman",
+        "requestedAt": "2026-06-22T06:37:31Z"
       },
       {
         "number": 7437,
@@ -248,5 +266,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-06-22T05:47:22.576Z"
+  "fetchedAt": "2026-06-22T07:41:04.327Z"
 }
