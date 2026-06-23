@@ -21,6 +21,33 @@
         "requestedAt": "2026-06-22T10:48:44Z"
       },
       {
+        "number": 7454,
+        "title": "feat(talis): parallelize fibre throughput monitor",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/7454",
+        "repo": "celestia-app",
+        "author": "rach-id",
+        "reviewer": "ninabarbakadze",
+        "requestedAt": "2026-06-23T05:07:34Z"
+      },
+      {
+        "number": 7455,
+        "title": "fix(talis): expand reset cleanup coverage",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/7455",
+        "repo": "celestia-app",
+        "author": "rach-id",
+        "reviewer": "ninabarbakadze",
+        "requestedAt": "2026-06-23T05:12:06Z"
+      },
+      {
+        "number": 7456,
+        "title": "feat(talis): expand resource monitor counters",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/7456",
+        "repo": "celestia-app",
+        "author": "rach-id",
+        "reviewer": "ninabarbakadze",
+        "requestedAt": "2026-06-23T05:15:24Z"
+      },
+      {
         "number": 5084,
         "title": "chore(deps): bump github.com/moby/moby/client from 0.4.0 to 0.5.0 in /nodebuilder/tests/tastora",
         "url": "https://github.com/celestiaorg/celestia-node/pull/5084",
@@ -96,6 +123,15 @@
         "requestedAt": "2026-06-22T16:15:15Z"
       },
       {
+        "number": 7455,
+        "title": "fix(talis): expand reset cleanup coverage",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/7455",
+        "repo": "celestia-app",
+        "author": "rach-id",
+        "reviewer": "mcrakhman",
+        "requestedAt": "2026-06-23T05:11:56Z"
+      },
+      {
         "number": 5075,
         "title": "test(share/eds): warm EDS roots before parallel accessor subtests",
         "url": "https://github.com/celestiaorg/celestia-node/pull/5075",
@@ -123,6 +159,15 @@
         "author": "rach-id",
         "reviewer": "vgonkivs",
         "requestedAt": "2026-06-17T07:30:19Z"
+      },
+      {
+        "number": 7456,
+        "title": "feat(talis): expand resource monitor counters",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/7456",
+        "repo": "celestia-app",
+        "author": "rach-id",
+        "reviewer": "vgonkivs",
+        "requestedAt": "2026-06-23T05:15:05Z"
       },
       {
         "number": 269,
@@ -230,5 +275,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-06-23T04:45:28.715Z"
+  "fetchedAt": "2026-06-23T06:14:33.576Z"
 }
