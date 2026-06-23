@@ -1,17 +1,7 @@
 {
   "reviews": {
     "rootulp": [],
-    "ninabarbakadze": [
-      {
-        "number": 3142,
-        "title": "fix(ci): bump Go to 1.26.4 on v0.40.x to fix govulncheck",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3142",
-        "repo": "celestia-core",
-        "author": "rootulp",
-        "reviewer": "ninabarbakadze",
-        "requestedAt": "2026-06-23T16:21:00Z"
-      }
-    ],
+    "ninabarbakadze": [],
     "rach-id": [],
     "mcrakhman": [
       {
@@ -167,5 +157,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-06-23T17:06:24.618Z"
+  "fetchedAt": "2026-06-23T17:47:44.845Z"
 }
