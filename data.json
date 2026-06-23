@@ -39,15 +39,6 @@
         "requestedAt": "2026-06-23T05:12:06Z"
       },
       {
-        "number": 7456,
-        "title": "feat(talis): expand resource monitor counters",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7456",
-        "repo": "celestia-app",
-        "author": "rach-id",
-        "reviewer": "ninabarbakadze",
-        "requestedAt": "2026-06-23T05:15:24Z"
-      },
-      {
         "number": 5084,
         "title": "chore(deps): bump github.com/moby/moby/client from 0.4.0 to 0.5.0 in /nodebuilder/tests/tastora",
         "url": "https://github.com/celestiaorg/celestia-node/pull/5084",
@@ -132,15 +123,6 @@
         "requestedAt": "2026-06-23T05:11:56Z"
       },
       {
-        "number": 5075,
-        "title": "test(share/eds): warm EDS roots before parallel accessor subtests",
-        "url": "https://github.com/celestiaorg/celestia-node/pull/5075",
-        "repo": "celestia-node",
-        "author": "neyy91",
-        "reviewer": "mcrakhman",
-        "requestedAt": "2026-06-21T03:19:31Z"
-      },
-      {
         "number": 5081,
         "title": "chore(deps): bump actions/checkout from 6 to 7",
         "url": "https://github.com/celestiaorg/celestia-node/pull/5081",
@@ -159,24 +141,6 @@
         "author": "rach-id",
         "reviewer": "vgonkivs",
         "requestedAt": "2026-06-17T07:30:19Z"
-      },
-      {
-        "number": 7456,
-        "title": "feat(talis): expand resource monitor counters",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7456",
-        "repo": "celestia-app",
-        "author": "rach-id",
-        "reviewer": "vgonkivs",
-        "requestedAt": "2026-06-23T05:15:05Z"
-      },
-      {
-        "number": 269,
-        "title": "chore(deps): bump actions/checkout from 6 to 7",
-        "url": "https://github.com/celestiaorg/go-square/pull/269",
-        "repo": "go-square",
-        "author": "dependabot",
-        "reviewer": "vgonkivs",
-        "requestedAt": "2026-06-22T19:32:50Z"
       }
     ],
     "evan-forbes": [
@@ -275,5 +239,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-06-23T08:43:13.413Z"
+  "fetchedAt": "2026-06-23T10:03:59.722Z"
 }
