@@ -3,24 +3,6 @@
     "rootulp": [],
     "ninabarbakadze": [
       {
-        "number": 7445,
-        "title": "chore(deps): bump github.com/aws/aws-sdk-go-v2/service/s3 from 1.103.3 to 1.104.0",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7445",
-        "repo": "celestia-app",
-        "author": "dependabot",
-        "reviewer": "ninabarbakadze",
-        "requestedAt": "2026-06-22T10:46:07Z"
-      },
-      {
-        "number": 7449,
-        "title": "chore(deps): bump github.com/pelletier/go-toml/v2 from 2.3.1 to 2.4.0",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7449",
-        "repo": "celestia-app",
-        "author": "dependabot",
-        "reviewer": "ninabarbakadze",
-        "requestedAt": "2026-06-22T10:48:44Z"
-      },
-      {
         "number": 7454,
         "title": "feat(talis): parallelize fibre throughput monitor",
         "url": "https://github.com/celestiaorg/celestia-app/pull/7454",
@@ -28,24 +10,6 @@
         "author": "rach-id",
         "reviewer": "ninabarbakadze",
         "requestedAt": "2026-06-23T05:07:34Z"
-      },
-      {
-        "number": 7455,
-        "title": "fix(talis): expand reset cleanup coverage",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7455",
-        "repo": "celestia-app",
-        "author": "rach-id",
-        "reviewer": "ninabarbakadze",
-        "requestedAt": "2026-06-23T05:12:06Z"
-      },
-      {
-        "number": 5084,
-        "title": "chore(deps): bump github.com/moby/moby/client from 0.4.0 to 0.5.0 in /nodebuilder/tests/tastora",
-        "url": "https://github.com/celestiaorg/celestia-node/pull/5084",
-        "repo": "celestia-node",
-        "author": "dependabot",
-        "reviewer": "ninabarbakadze",
-        "requestedAt": "2026-06-22T18:18:58Z"
       },
       {
         "number": 266,
@@ -57,17 +21,7 @@
         "requestedAt": "2026-06-12T16:15:13Z"
       }
     ],
-    "rach-id": [
-      {
-        "number": 7457,
-        "title": "feat(valaddr): garbage-collect stale fibre provider entries",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7457",
-        "repo": "celestia-app",
-        "author": "vgonkivs",
-        "reviewer": "rach-id",
-        "requestedAt": "2026-06-23T10:40:35Z"
-      }
-    ],
+    "rach-id": [],
     "mcrakhman": [
       {
         "number": 7436,
@@ -249,5 +203,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-06-23T11:13:46.763Z"
+  "fetchedAt": "2026-06-23T12:17:28.122Z"
 }
