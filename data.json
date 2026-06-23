@@ -3,24 +3,6 @@
     "rootulp": [],
     "ninabarbakadze": [
       {
-        "number": 3139,
-        "title": "fix(propagation): run ValidateBasic on want parts (backport #3138)",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3139",
-        "repo": "celestia-core",
-        "author": "mergify",
-        "reviewer": "ninabarbakadze",
-        "requestedAt": "2026-06-23T13:00:44Z"
-      },
-      {
-        "number": 3140,
-        "title": "fix(blocksync): concurrency bug in AddBlock caused by sendErr holding pool mtx (backport #3137)",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3140",
-        "repo": "celestia-core",
-        "author": "mergify",
-        "reviewer": "ninabarbakadze",
-        "requestedAt": "2026-06-23T13:12:44Z"
-      },
-      {
         "number": 266,
         "title": "fix!: domain-separate and length-prefix Blob.Hash preimage",
         "url": "https://github.com/celestiaorg/go-square/pull/266",
@@ -30,17 +12,7 @@
         "requestedAt": "2026-06-12T16:15:13Z"
       }
     ],
-    "rach-id": [
-      {
-        "number": 3140,
-        "title": "fix(blocksync): concurrency bug in AddBlock caused by sendErr holding pool mtx (backport #3137)",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3140",
-        "repo": "celestia-core",
-        "author": "mergify",
-        "reviewer": "rach-id",
-        "requestedAt": "2026-06-23T13:05:01Z"
-      }
-    ],
+    "rach-id": [],
     "mcrakhman": [
       {
         "number": 7436,
@@ -88,15 +60,6 @@
         "requestedAt": "2026-06-22T09:37:21Z"
       },
       {
-        "number": 3140,
-        "title": "fix(blocksync): concurrency bug in AddBlock caused by sendErr holding pool mtx (backport #3137)",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3140",
-        "repo": "celestia-core",
-        "author": "mergify",
-        "reviewer": "mcrakhman",
-        "requestedAt": "2026-06-23T13:03:13Z"
-      },
-      {
         "number": 5081,
         "title": "chore(deps): bump actions/checkout from 6 to 7",
         "url": "https://github.com/celestiaorg/celestia-node/pull/5081",
@@ -115,6 +78,15 @@
         "author": "rach-id",
         "reviewer": "vgonkivs",
         "requestedAt": "2026-06-17T07:30:19Z"
+      },
+      {
+        "number": 977,
+        "title": "feat: share one failover engine across RPC and gRPC clients",
+        "url": "https://github.com/celestiaorg/lumina/pull/977",
+        "repo": "lumina",
+        "author": "mcrakhman",
+        "reviewer": "vgonkivs",
+        "requestedAt": "2026-06-23T14:59:46Z"
       }
     ],
     "evan-forbes": [
@@ -213,5 +185,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-06-23T14:10:25.546Z"
+  "fetchedAt": "2026-06-23T15:20:29.063Z"
 }
