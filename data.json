@@ -39,26 +39,7 @@
         "requestedAt": "2026-06-12T16:15:13Z"
       }
     ],
-    "rach-id": [
-      {
-        "number": 439,
-        "title": "chore: Bump github.com/ethereum/go-ethereum from 1.17.3 to 1.17.4",
-        "url": "https://github.com/celestiaorg/blobstream-contracts/pull/439",
-        "repo": "blobstream-contracts",
-        "author": "dependabot",
-        "reviewer": "rach-id",
-        "requestedAt": "2026-06-22T23:52:29Z"
-      },
-      {
-        "number": 5085,
-        "title": "fix(shrex): keep GetSamples result aligned with requested coords",
-        "url": "https://github.com/celestiaorg/celestia-node/pull/5085",
-        "repo": "celestia-node",
-        "author": "neyy91",
-        "reviewer": "rach-id",
-        "requestedAt": "2026-06-22T18:20:44Z"
-      }
-    ],
+    "rach-id": [],
     "mcrakhman": [
       {
         "number": 7436,
@@ -249,5 +230,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-06-23T03:19:37.349Z"
+  "fetchedAt": "2026-06-23T04:45:28.715Z"
 }
