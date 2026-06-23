@@ -11,6 +11,15 @@
         "author": "rootulp",
         "reviewer": "rach-id",
         "requestedAt": "2026-06-23T20:28:15Z"
+      },
+      {
+        "number": 7460,
+        "title": "fix(fibre): enforce MaxRowSize on upload and download",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/7460",
+        "repo": "celestia-app",
+        "author": "rootulp",
+        "reviewer": "rach-id",
+        "requestedAt": "2026-06-23T21:27:01Z"
       }
     ],
     "mcrakhman": [
@@ -70,6 +79,15 @@
       }
     ],
     "vgonkivs": [
+      {
+        "number": 7459,
+        "title": "fix(fibre): reject nil shard in UploadShard and recover handler panics",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/7459",
+        "repo": "celestia-app",
+        "author": "rootulp",
+        "reviewer": "vgonkivs",
+        "requestedAt": "2026-06-23T21:26:56Z"
+      },
       {
         "number": 7460,
         "title": "fix(fibre): enforce MaxRowSize on upload and download",
@@ -176,5 +194,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-06-23T20:53:54.450Z"
+  "fetchedAt": "2026-06-23T21:29:23.595Z"
 }
