@@ -3,13 +3,22 @@
     "rootulp": [],
     "ninabarbakadze": [
       {
-        "number": 7454,
-        "title": "feat(talis): parallelize fibre throughput monitor",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7454",
-        "repo": "celestia-app",
-        "author": "rach-id",
+        "number": 3139,
+        "title": "fix(propagation): run ValidateBasic on want parts (backport #3138)",
+        "url": "https://github.com/celestiaorg/celestia-core/pull/3139",
+        "repo": "celestia-core",
+        "author": "mergify",
         "reviewer": "ninabarbakadze",
-        "requestedAt": "2026-06-23T05:07:34Z"
+        "requestedAt": "2026-06-23T13:00:44Z"
+      },
+      {
+        "number": 3140,
+        "title": "fix(blocksync): concurrency bug in AddBlock caused by sendErr holding pool mtx (backport #3137)",
+        "url": "https://github.com/celestiaorg/celestia-core/pull/3140",
+        "repo": "celestia-core",
+        "author": "mergify",
+        "reviewer": "ninabarbakadze",
+        "requestedAt": "2026-06-23T13:12:44Z"
       },
       {
         "number": 266,
@@ -21,7 +30,26 @@
         "requestedAt": "2026-06-12T16:15:13Z"
       }
     ],
-    "rach-id": [],
+    "rach-id": [
+      {
+        "number": 3140,
+        "title": "fix(blocksync): concurrency bug in AddBlock caused by sendErr holding pool mtx (backport #3137)",
+        "url": "https://github.com/celestiaorg/celestia-core/pull/3140",
+        "repo": "celestia-core",
+        "author": "mergify",
+        "reviewer": "rach-id",
+        "requestedAt": "2026-06-23T13:05:01Z"
+      },
+      {
+        "number": 3141,
+        "title": "fix: removeTimedoutPeers deadlock in blocksync (backport #3129)",
+        "url": "https://github.com/celestiaorg/celestia-core/pull/3141",
+        "repo": "celestia-core",
+        "author": "mergify",
+        "reviewer": "rach-id",
+        "requestedAt": "2026-06-23T13:05:59Z"
+      }
+    ],
     "mcrakhman": [
       {
         "number": 7436,
@@ -78,13 +106,13 @@
         "requestedAt": "2026-06-22T16:15:15Z"
       },
       {
-        "number": 7455,
-        "title": "fix(talis): expand reset cleanup coverage",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7455",
-        "repo": "celestia-app",
-        "author": "rach-id",
+        "number": 3140,
+        "title": "fix(blocksync): concurrency bug in AddBlock caused by sendErr holding pool mtx (backport #3137)",
+        "url": "https://github.com/celestiaorg/celestia-core/pull/3140",
+        "repo": "celestia-core",
+        "author": "mergify",
         "reviewer": "mcrakhman",
-        "requestedAt": "2026-06-23T05:11:56Z"
+        "requestedAt": "2026-06-23T13:03:13Z"
       },
       {
         "number": 5081,
@@ -105,6 +133,15 @@
         "author": "rach-id",
         "reviewer": "vgonkivs",
         "requestedAt": "2026-06-17T07:30:19Z"
+      },
+      {
+        "number": 3141,
+        "title": "fix: removeTimedoutPeers deadlock in blocksync (backport #3129)",
+        "url": "https://github.com/celestiaorg/celestia-core/pull/3141",
+        "repo": "celestia-core",
+        "author": "mergify",
+        "reviewer": "vgonkivs",
+        "requestedAt": "2026-06-23T13:03:39Z"
       }
     ],
     "evan-forbes": [
@@ -203,5 +240,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-06-23T12:17:28.122Z"
+  "fetchedAt": "2026-06-23T13:19:59.228Z"
 }
