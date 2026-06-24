@@ -6,14 +6,14 @@
       "year": 395
     },
     "ninabarbakadze": {
-      "week": 9,
-      "month": 52,
-      "year": 394
+      "week": 13,
+      "month": 56,
+      "year": 398
     },
     "rach-id": {
-      "week": 12,
-      "month": 111,
-      "year": 534
+      "week": 19,
+      "month": 118,
+      "year": 541
     },
     "mcrakhman": {
       "week": 0,
@@ -21,9 +21,9 @@
       "year": 96
     },
     "vgonkivs": {
-      "week": 10,
-      "month": 39,
-      "year": 98
+      "week": 15,
+      "month": 44,
+      "year": 103
     },
     "evan-forbes": {
       "week": 0,
@@ -61,7 +61,7 @@
       "year": 3
     }
   },
-  "computedAt": "2026-06-23T00:27:41.151Z",
+  "computedAt": "2026-06-24T00:22:49.735Z",
   "windows": {
     "weekStart": "2026-06-22T00:00:00.000Z",
     "monthStart": "2026-06-01T00:00:00.000Z",
