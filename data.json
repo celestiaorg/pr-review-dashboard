@@ -2,7 +2,17 @@
   "reviews": {
     "rootulp": [],
     "ninabarbakadze": [],
-    "rach-id": [],
+    "rach-id": [
+      {
+        "number": 7468,
+        "title": "fix(user): retry worker account query after funding",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/7468",
+        "repo": "celestia-app",
+        "author": "rootulp",
+        "reviewer": "rach-id",
+        "requestedAt": "2026-06-24T16:19:04Z"
+      }
+    ],
     "mcrakhman": [
       {
         "number": 7436,
@@ -48,6 +58,15 @@
         "author": "dependabot",
         "reviewer": "mcrakhman",
         "requestedAt": "2026-06-22T09:37:21Z"
+      },
+      {
+        "number": 7467,
+        "title": "fix(encoding): reject empty tx bytes in the tx decoder",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/7467",
+        "repo": "celestia-app",
+        "author": "rootulp",
+        "reviewer": "mcrakhman",
+        "requestedAt": "2026-06-24T16:08:57Z"
       },
       {
         "number": 5081,
@@ -147,5 +166,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-06-24T15:39:25.371Z"
+  "fetchedAt": "2026-06-24T16:31:25.904Z"
 }
