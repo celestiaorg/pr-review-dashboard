@@ -1,7 +1,17 @@
 {
   "reviews": {
     "rootulp": [],
-    "ninabarbakadze": [],
+    "ninabarbakadze": [
+      {
+        "number": 7462,
+        "title": "chore: bump celestia-core to v0.40.7 (backport #7461)",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/7462",
+        "repo": "celestia-app",
+        "author": "mergify",
+        "reviewer": "ninabarbakadze",
+        "requestedAt": "2026-06-24T09:23:52Z"
+      }
+    ],
     "rach-id": [],
     "mcrakhman": [
       {
@@ -157,5 +167,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-06-24T08:39:54.394Z"
+  "fetchedAt": "2026-06-24T09:54:17.911Z"
 }
