@@ -1,17 +1,7 @@
 {
   "reviews": {
     "rootulp": [],
-    "ninabarbakadze": [
-      {
-        "number": 7462,
-        "title": "chore: bump celestia-core to v0.40.7 (backport #7461)",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7462",
-        "repo": "celestia-app",
-        "author": "mergify",
-        "reviewer": "ninabarbakadze",
-        "requestedAt": "2026-06-24T09:23:52Z"
-      }
-    ],
+    "ninabarbakadze": [],
     "rach-id": [],
     "mcrakhman": [
       {
@@ -69,17 +59,7 @@
         "requestedAt": "2026-06-22T11:04:55Z"
       }
     ],
-    "vgonkivs": [
-      {
-        "number": 977,
-        "title": "feat: share one failover engine across RPC and gRPC clients",
-        "url": "https://github.com/celestiaorg/lumina/pull/977",
-        "repo": "lumina",
-        "author": "mcrakhman",
-        "reviewer": "vgonkivs",
-        "requestedAt": "2026-06-23T14:59:46Z"
-      }
-    ],
+    "vgonkivs": [],
     "evan-forbes": [
       {
         "number": 5073,
@@ -167,5 +147,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-06-24T09:54:17.911Z"
+  "fetchedAt": "2026-06-24T10:57:52.279Z"
 }
