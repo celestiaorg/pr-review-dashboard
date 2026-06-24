@@ -3,17 +3,7 @@
     "rootulp": [],
     "ninabarbakadze": [],
     "rach-id": [],
-    "mcrakhman": [
-      {
-        "number": 7436,
-        "title": "feat: improve the migrate-db script",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7436",
-        "repo": "celestia-app",
-        "author": "rach-id",
-        "reviewer": "mcrakhman",
-        "requestedAt": "2026-06-22T06:37:31Z"
-      }
-    ],
+    "mcrakhman": [],
     "vgonkivs": [
       {
         "number": 3145,
@@ -112,5 +102,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-06-24T21:49:47.677Z"
+  "fetchedAt": "2026-06-24T22:21:23.507Z"
 }
