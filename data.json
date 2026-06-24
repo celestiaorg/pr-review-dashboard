@@ -12,60 +12,6 @@
         "author": "rach-id",
         "reviewer": "mcrakhman",
         "requestedAt": "2026-06-22T06:37:31Z"
-      },
-      {
-        "number": 7437,
-        "title": "fix: retry chain start on host-port collision in TestAllUpgrades",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7437",
-        "repo": "celestia-app",
-        "author": "rootulp",
-        "reviewer": "mcrakhman",
-        "requestedAt": "2026-06-19T23:43:27Z"
-      },
-      {
-        "number": 7444,
-        "title": "chore(deps): bump github.com/moby/moby/client from 0.4.1 to 0.5.0 in /test/docker-e2e",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7444",
-        "repo": "celestia-app",
-        "author": "dependabot",
-        "reviewer": "mcrakhman",
-        "requestedAt": "2026-06-22T09:34:14Z"
-      },
-      {
-        "number": 7448,
-        "title": "chore(deps): bump github.com/klauspost/reedsolomon from 1.14.1-0.20260518132338-1166fa573ff0 to 1.14.1",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7448",
-        "repo": "celestia-app",
-        "author": "dependabot",
-        "reviewer": "mcrakhman",
-        "requestedAt": "2026-06-22T09:34:29Z"
-      },
-      {
-        "number": 7452,
-        "title": "chore(deps): bump github.com/aws/aws-sdk-go-v2/feature/s3/transfermanager from 0.2.10 to 0.2.11",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7452",
-        "repo": "celestia-app",
-        "author": "dependabot",
-        "reviewer": "mcrakhman",
-        "requestedAt": "2026-06-22T09:37:21Z"
-      },
-      {
-        "number": 7467,
-        "title": "fix(encoding): reject empty tx bytes in the tx decoder",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7467",
-        "repo": "celestia-app",
-        "author": "rootulp",
-        "reviewer": "mcrakhman",
-        "requestedAt": "2026-06-24T16:08:57Z"
-      },
-      {
-        "number": 5081,
-        "title": "chore(deps): bump actions/checkout from 6 to 7",
-        "url": "https://github.com/celestiaorg/celestia-node/pull/5081",
-        "repo": "celestia-node",
-        "author": "dependabot",
-        "reviewer": "mcrakhman",
-        "requestedAt": "2026-06-22T11:04:55Z"
       }
     ],
     "vgonkivs": [
@@ -166,5 +112,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-06-24T21:15:11.911Z"
+  "fetchedAt": "2026-06-24T21:49:47.677Z"
 }
