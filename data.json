@@ -2,17 +2,7 @@
   "reviews": {
     "rootulp": [],
     "ninabarbakadze": [],
-    "rach-id": [
-      {
-        "number": 7468,
-        "title": "fix(user): retry worker account query after funding",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7468",
-        "repo": "celestia-app",
-        "author": "rootulp",
-        "reviewer": "rach-id",
-        "requestedAt": "2026-06-24T16:19:04Z"
-      }
-    ],
+    "rach-id": [],
     "mcrakhman": [
       {
         "number": 7436,
@@ -166,5 +156,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-06-24T16:31:25.904Z"
+  "fetchedAt": "2026-06-24T17:17:28.015Z"
 }
