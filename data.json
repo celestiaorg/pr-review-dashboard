@@ -5,6 +5,15 @@
     "rach-id": [],
     "mcrakhman": [
       {
+        "number": 7473,
+        "title": "fix: validate JSON field paths in internal map utils",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/7473",
+        "repo": "celestia-app",
+        "author": "pengqima",
+        "reviewer": "mcrakhman",
+        "requestedAt": "2026-06-25T17:18:33Z"
+      },
+      {
         "number": 5086,
         "title": "fix(share): correct off-by-one in 1D-index bounds checks",
         "url": "https://github.com/celestiaorg/celestia-node/pull/5086",
@@ -112,5 +121,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-06-25T16:58:48.943Z"
+  "fetchedAt": "2026-06-25T17:52:54.605Z"
 }
