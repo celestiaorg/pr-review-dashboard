@@ -24,17 +24,7 @@
         "requestedAt": "2026-06-25T10:12:24Z"
       }
     ],
-    "vgonkivs": [
-      {
-        "number": 3145,
-        "title": "test(consensus): backport TestStateOversizedBlock flake fixes to v0.40.x",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3145",
-        "repo": "celestia-core",
-        "author": "rootulp",
-        "reviewer": "vgonkivs",
-        "requestedAt": "2026-06-24T17:37:00Z"
-      }
-    ],
+    "vgonkivs": [],
     "evan-forbes": [
       {
         "number": 5073,
@@ -122,5 +112,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-06-25T10:50:15.590Z"
+  "fetchedAt": "2026-06-25T11:48:27.829Z"
 }
