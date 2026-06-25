@@ -14,7 +14,17 @@
         "requestedAt": "2026-06-25T10:12:24Z"
       }
     ],
-    "vgonkivs": [],
+    "vgonkivs": [
+      {
+        "number": 7472,
+        "title": "fix: retry chain start on host-port collision in IBC e2e suite",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/7472",
+        "repo": "celestia-app",
+        "author": "rootulp",
+        "reviewer": "vgonkivs",
+        "requestedAt": "2026-06-25T16:29:26Z"
+      }
+    ],
     "evan-forbes": [
       {
         "number": 5073,
@@ -102,5 +112,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-06-25T16:11:06.225Z"
+  "fetchedAt": "2026-06-25T16:58:48.943Z"
 }
