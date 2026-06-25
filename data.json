@@ -1,9 +1,28 @@
 {
   "reviews": {
     "rootulp": [],
-    "ninabarbakadze": [],
+    "ninabarbakadze": [
+      {
+        "number": 7467,
+        "title": "fix(encoding): reject empty tx bytes in the tx decoder",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/7467",
+        "repo": "celestia-app",
+        "author": "rootulp",
+        "reviewer": "ninabarbakadze",
+        "requestedAt": "2026-06-25T23:24:28Z"
+      }
+    ],
     "rach-id": [],
     "mcrakhman": [
+      {
+        "number": 7467,
+        "title": "fix(encoding): reject empty tx bytes in the tx decoder",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/7467",
+        "repo": "celestia-app",
+        "author": "rootulp",
+        "reviewer": "mcrakhman",
+        "requestedAt": "2026-06-25T23:24:29Z"
+      },
       {
         "number": 7473,
         "title": "fix: validate JSON field paths in internal map utils",
@@ -121,5 +140,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-06-25T23:07:35.647Z"
+  "fetchedAt": "2026-06-25T23:43:13.240Z"
 }
