@@ -2,17 +2,7 @@
   "reviews": {
     "rootulp": [],
     "ninabarbakadze": [],
-    "rach-id": [
-      {
-        "number": 7470,
-        "title": "fix(fibre): route settled escrow payments to the fee collector",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7470",
-        "repo": "celestia-app",
-        "author": "vgonkivs",
-        "reviewer": "rach-id",
-        "requestedAt": "2026-06-25T13:58:14Z"
-      }
-    ],
+    "rach-id": [],
     "mcrakhman": [
       {
         "number": 5086,
@@ -112,5 +102,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-06-25T14:16:32.345Z"
+  "fetchedAt": "2026-06-25T15:20:12.768Z"
 }
