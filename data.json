@@ -42,19 +42,18 @@
         "author": "rootulp",
         "reviewer": "vgonkivs",
         "requestedAt": "2026-06-25T16:29:26Z"
-      }
-    ],
-    "evan-forbes": [
+      },
       {
         "number": 5073,
         "title": "fix(state/txclient): close estimator conn on failure and wait for Ready",
         "url": "https://github.com/celestiaorg/celestia-node/pull/5073",
         "repo": "celestia-node",
         "author": "neyy91",
-        "reviewer": "evan-forbes",
-        "requestedAt": "2026-06-21T03:04:04Z"
+        "reviewer": "vgonkivs",
+        "requestedAt": "2026-06-26T13:56:00Z"
       }
     ],
+    "evan-forbes": [],
     "walldiss": [],
     "Wondertan": [],
     "tty47": [],
@@ -131,5 +130,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-06-26T13:46:03.177Z"
+  "fetchedAt": "2026-06-26T14:42:57.931Z"
 }
