@@ -1,17 +1,7 @@
 {
   "reviews": {
     "rootulp": [],
-    "ninabarbakadze": [
-      {
-        "number": 7467,
-        "title": "fix(encoding): reject empty tx bytes in the tx decoder",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7467",
-        "repo": "celestia-app",
-        "author": "rootulp",
-        "reviewer": "ninabarbakadze",
-        "requestedAt": "2026-06-25T23:24:28Z"
-      }
-    ],
+    "ninabarbakadze": [],
     "rach-id": [],
     "mcrakhman": [
       {
@@ -140,5 +130,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-06-26T11:09:00.531Z"
+  "fetchedAt": "2026-06-26T12:00:13.789Z"
 }
