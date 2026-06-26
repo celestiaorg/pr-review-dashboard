@@ -2,17 +2,18 @@
   "reviews": {
     "rootulp": [],
     "ninabarbakadze": [],
-    "rach-id": [],
-    "mcrakhman": [
+    "rach-id": [
       {
-        "number": 7467,
-        "title": "fix(encoding): reject empty tx bytes in the tx decoder",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7467",
-        "repo": "celestia-app",
-        "author": "rootulp",
-        "reviewer": "mcrakhman",
-        "requestedAt": "2026-06-25T23:24:29Z"
-      },
+        "number": 3144,
+        "title": "feat(memppol/cat): introduce the new SeenTracker data structure",
+        "url": "https://github.com/celestiaorg/celestia-core/pull/3144",
+        "repo": "celestia-core",
+        "author": "ninabarbakadze",
+        "reviewer": "rach-id",
+        "requestedAt": "2026-06-26T12:31:51Z"
+      }
+    ],
+    "mcrakhman": [
       {
         "number": 7473,
         "title": "fix: validate JSON field paths in internal map utils",
@@ -130,5 +131,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-06-26T12:00:13.789Z"
+  "fetchedAt": "2026-06-26T12:57:19.561Z"
 }
