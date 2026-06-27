@@ -1,7 +1,17 @@
 {
   "reviews": {
     "rootulp": [],
-    "ninabarbakadze": [],
+    "ninabarbakadze": [
+      {
+        "number": 7478,
+        "title": "fix(chainbuilder): release node DB locks before retrying TestRun",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/7478",
+        "repo": "celestia-app",
+        "author": "rootulp",
+        "reviewer": "ninabarbakadze",
+        "requestedAt": "2026-06-27T16:18:41Z"
+      }
+    ],
     "rach-id": [
       {
         "number": 7477,
@@ -157,5 +167,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-06-27T16:14:51.914Z"
+  "fetchedAt": "2026-06-27T16:41:42.573Z"
 }
