@@ -4,6 +4,15 @@
     "ninabarbakadze": [],
     "rach-id": [
       {
+        "number": 7477,
+        "title": "fix(gasestimation): use gov max bytes when extracting mempool gas prices",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/7477",
+        "repo": "celestia-app",
+        "author": "rootulp",
+        "reviewer": "rach-id",
+        "requestedAt": "2026-06-27T16:12:20Z"
+      },
+      {
         "number": 3144,
         "title": "feat(memppol/cat): introduce the new SeenTracker data structure",
         "url": "https://github.com/celestiaorg/celestia-core/pull/3144",
@@ -148,5 +157,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-06-27T15:45:52.892Z"
+  "fetchedAt": "2026-06-27T16:14:51.914Z"
 }
