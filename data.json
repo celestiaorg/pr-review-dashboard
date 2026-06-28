@@ -24,6 +24,15 @@
         "requestedAt": "2026-06-25T17:18:33Z"
       },
       {
+        "number": 7480,
+        "title": "fix(docker-e2e): verify txsim container stays running after start",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/7480",
+        "repo": "celestia-app",
+        "author": "rootulp",
+        "reviewer": "mcrakhman",
+        "requestedAt": "2026-06-28T16:16:41Z"
+      },
+      {
         "number": 5086,
         "title": "fix(share): correct off-by-one in 1D-index bounds checks",
         "url": "https://github.com/celestiaorg/celestia-node/pull/5086",
@@ -60,6 +69,15 @@
         "author": "rootulp",
         "reviewer": "vgonkivs",
         "requestedAt": "2026-06-26T16:13:48Z"
+      },
+      {
+        "number": 7479,
+        "title": "fix(ci): retry TestTxSubmission to de-flake nightly latency assertion",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/7479",
+        "repo": "celestia-app",
+        "author": "rootulp",
+        "reviewer": "vgonkivs",
+        "requestedAt": "2026-06-28T16:12:10Z"
       },
       {
         "number": 5073,
@@ -148,5 +166,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-06-28T16:08:16.113Z"
+  "fetchedAt": "2026-06-28T16:39:01.528Z"
 }
