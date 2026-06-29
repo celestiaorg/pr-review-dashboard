@@ -10,6 +10,15 @@
         "author": "rach-id",
         "reviewer": "ninabarbakadze",
         "requestedAt": "2026-06-29T14:38:15Z"
+      },
+      {
+        "number": 329,
+        "title": "chore(deps): bump golangci/golangci-lint-action from 9.2.1 to 9.3.0",
+        "url": "https://github.com/celestiaorg/nmt/pull/329",
+        "repo": "nmt",
+        "author": "dependabot",
+        "reviewer": "ninabarbakadze",
+        "requestedAt": "2026-06-29T21:02:59Z"
       }
     ],
     "rach-id": [],
@@ -185,5 +194,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-06-29T20:55:08.920Z"
+  "fetchedAt": "2026-06-29T21:30:22.604Z"
 }
