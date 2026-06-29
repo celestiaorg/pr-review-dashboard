@@ -10,6 +10,15 @@
         "author": "rootulp",
         "reviewer": "ninabarbakadze",
         "requestedAt": "2026-06-27T16:18:41Z"
+      },
+      {
+        "number": 7481,
+        "title": "feat(fibre): add upload admission controller (rate limit + in-flight cap)",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/7481",
+        "repo": "celestia-app",
+        "author": "rach-id",
+        "reviewer": "ninabarbakadze",
+        "requestedAt": "2026-06-29T04:43:25Z"
       }
     ],
     "rach-id": [],
@@ -31,6 +40,15 @@
         "author": "rootulp",
         "reviewer": "mcrakhman",
         "requestedAt": "2026-06-28T16:16:41Z"
+      },
+      {
+        "number": 7481,
+        "title": "feat(fibre): add upload admission controller (rate limit + in-flight cap)",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/7481",
+        "repo": "celestia-app",
+        "author": "rach-id",
+        "reviewer": "mcrakhman",
+        "requestedAt": "2026-06-29T04:43:45Z"
       },
       {
         "number": 5086,
@@ -80,6 +98,15 @@
         "requestedAt": "2026-06-28T16:12:10Z"
       },
       {
+        "number": 7481,
+        "title": "feat(fibre): add upload admission controller (rate limit + in-flight cap)",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/7481",
+        "repo": "celestia-app",
+        "author": "rach-id",
+        "reviewer": "vgonkivs",
+        "requestedAt": "2026-06-29T04:43:45Z"
+      },
+      {
         "number": 5073,
         "title": "fix(state/txclient): close estimator conn on failure and wait for Ready",
         "url": "https://github.com/celestiaorg/celestia-node/pull/5073",
@@ -90,7 +117,17 @@
       }
     ],
     "evan-forbes": [],
-    "walldiss": [],
+    "walldiss": [
+      {
+        "number": 7481,
+        "title": "feat(fibre): add upload admission controller (rate limit + in-flight cap)",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/7481",
+        "repo": "celestia-app",
+        "author": "rach-id",
+        "reviewer": "walldiss",
+        "requestedAt": "2026-06-29T04:43:45Z"
+      }
+    ],
     "Wondertan": [],
     "tty47": [],
     "pippokr": [],
@@ -166,5 +203,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-06-29T03:37:07.101Z"
+  "fetchedAt": "2026-06-29T05:15:45.454Z"
 }
