@@ -21,7 +21,17 @@
         "requestedAt": "2026-06-29T15:52:46Z"
       }
     ],
-    "rach-id": [],
+    "rach-id": [
+      {
+        "number": 7490,
+        "title": "fix: reject empty JSON paths in map helpers",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/7490",
+        "repo": "celestia-app",
+        "author": "blackflytech",
+        "reviewer": "rach-id",
+        "requestedAt": "2026-06-29T16:57:33Z"
+      }
+    ],
     "mcrakhman": [
       {
         "number": 7473,
@@ -87,6 +97,15 @@
         "author": "rach-id",
         "reviewer": "vgonkivs",
         "requestedAt": "2026-06-29T14:38:15Z"
+      },
+      {
+        "number": 3148,
+        "title": "docs: fix GenesisChunked description typo",
+        "url": "https://github.com/celestiaorg/celestia-core/pull/3148",
+        "repo": "celestia-core",
+        "author": "blackflytech",
+        "reviewer": "vgonkivs",
+        "requestedAt": "2026-06-29T17:13:22Z"
       }
     ],
     "evan-forbes": [],
@@ -176,5 +195,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-06-29T16:22:25.514Z"
+  "fetchedAt": "2026-06-29T17:19:17.412Z"
 }
