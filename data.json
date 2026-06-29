@@ -71,33 +71,6 @@
     ],
     "vgonkivs": [
       {
-        "number": 7472,
-        "title": "fix: retry chain start on host-port collision in IBC e2e suite",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7472",
-        "repo": "celestia-app",
-        "author": "rootulp",
-        "reviewer": "vgonkivs",
-        "requestedAt": "2026-06-25T16:29:26Z"
-      },
-      {
-        "number": 7474,
-        "title": "fix(chainbuilder): close leaked CometBFT DBs on TestRun retry",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7474",
-        "repo": "celestia-app",
-        "author": "rootulp",
-        "reviewer": "vgonkivs",
-        "requestedAt": "2026-06-26T16:13:48Z"
-      },
-      {
-        "number": 7479,
-        "title": "fix(ci): retry TestTxSubmission to de-flake nightly latency assertion",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7479",
-        "repo": "celestia-app",
-        "author": "rootulp",
-        "reviewer": "vgonkivs",
-        "requestedAt": "2026-06-28T16:12:10Z"
-      },
-      {
         "number": 7481,
         "title": "feat(fibre): add upload admission controller (rate limit + in-flight cap)",
         "url": "https://github.com/celestiaorg/celestia-app/pull/7481",
@@ -105,15 +78,6 @@
         "author": "rach-id",
         "reviewer": "vgonkivs",
         "requestedAt": "2026-06-29T04:43:45Z"
-      },
-      {
-        "number": 5073,
-        "title": "fix(state/txclient): close estimator conn on failure and wait for Ready",
-        "url": "https://github.com/celestiaorg/celestia-node/pull/5073",
-        "repo": "celestia-node",
-        "author": "neyy91",
-        "reviewer": "vgonkivs",
-        "requestedAt": "2026-06-26T13:56:00Z"
       }
     ],
     "evan-forbes": [],
@@ -203,5 +167,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-06-29T06:59:24.317Z"
+  "fetchedAt": "2026-06-29T08:45:04.941Z"
 }
