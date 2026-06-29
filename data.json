@@ -3,22 +3,13 @@
     "rootulp": [],
     "ninabarbakadze": [
       {
-        "number": 7478,
-        "title": "fix(chainbuilder): release node DB locks before retrying TestRun",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7478",
+        "number": 7486,
+        "title": "chore(deps): bump github.com/pelletier/go-toml/v2 from 2.4.0 to 2.4.2",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/7486",
         "repo": "celestia-app",
-        "author": "rootulp",
+        "author": "dependabot",
         "reviewer": "ninabarbakadze",
-        "requestedAt": "2026-06-27T16:18:41Z"
-      },
-      {
-        "number": 7481,
-        "title": "feat(fibre): add upload admission controller (rate limit + in-flight cap)",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7481",
-        "repo": "celestia-app",
-        "author": "rach-id",
-        "reviewer": "ninabarbakadze",
-        "requestedAt": "2026-06-29T04:43:25Z"
+        "requestedAt": "2026-06-29T09:34:46Z"
       }
     ],
     "rach-id": [],
@@ -51,6 +42,15 @@
         "requestedAt": "2026-06-29T04:43:45Z"
       },
       {
+        "number": 7485,
+        "title": "chore(deps): bump github.com/digitalocean/godo from 1.196.0 to 1.197.0",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/7485",
+        "repo": "celestia-app",
+        "author": "dependabot",
+        "reviewer": "mcrakhman",
+        "requestedAt": "2026-06-29T09:34:38Z"
+      },
+      {
         "number": 5086,
         "title": "fix(share): correct off-by-one in 1D-index bounds checks",
         "url": "https://github.com/celestiaorg/celestia-node/pull/5086",
@@ -58,15 +58,6 @@
         "author": "neyy91",
         "reviewer": "mcrakhman",
         "requestedAt": "2026-06-25T10:12:24Z"
-      },
-      {
-        "number": 5087,
-        "title": "fix(state/txclient): honor an explicitly-set zero MaxGasPrice",
-        "url": "https://github.com/celestiaorg/celestia-node/pull/5087",
-        "repo": "celestia-node",
-        "author": "neyy91",
-        "reviewer": "mcrakhman",
-        "requestedAt": "2026-06-26T21:18:03Z"
       }
     ],
     "vgonkivs": [
@@ -78,6 +69,15 @@
         "author": "rach-id",
         "reviewer": "vgonkivs",
         "requestedAt": "2026-06-29T04:43:45Z"
+      },
+      {
+        "number": 7484,
+        "title": "chore(deps): bump github.com/hashicorp/go-metrics from 0.5.4 to 0.6.0",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/7484",
+        "repo": "celestia-app",
+        "author": "dependabot",
+        "reviewer": "vgonkivs",
+        "requestedAt": "2026-06-29T09:34:34Z"
       }
     ],
     "evan-forbes": [],
@@ -167,5 +167,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-06-29T08:45:04.941Z"
+  "fetchedAt": "2026-06-29T10:17:38.719Z"
 }
