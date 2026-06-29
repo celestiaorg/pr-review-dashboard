@@ -21,17 +21,7 @@
         "requestedAt": "2026-06-29T15:52:46Z"
       }
     ],
-    "rach-id": [
-      {
-        "number": 7490,
-        "title": "fix: reject empty JSON paths in map helpers",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7490",
-        "repo": "celestia-app",
-        "author": "blackflytech",
-        "reviewer": "rach-id",
-        "requestedAt": "2026-06-29T16:57:33Z"
-      }
-    ],
+    "rach-id": [],
     "mcrakhman": [
       {
         "number": 7473,
@@ -195,5 +185,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-06-29T17:19:17.412Z"
+  "fetchedAt": "2026-06-29T18:07:02.456Z"
 }
