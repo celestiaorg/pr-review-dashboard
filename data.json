@@ -3,13 +3,22 @@
     "rootulp": [],
     "ninabarbakadze": [
       {
+        "number": 7484,
+        "title": "chore(deps): bump github.com/hashicorp/go-metrics from 0.5.4 to 0.6.0",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/7484",
+        "repo": "celestia-app",
+        "author": "dependabot",
+        "reviewer": "ninabarbakadze",
+        "requestedAt": "2026-06-29T11:29:01Z"
+      },
+      {
         "number": 7486,
         "title": "chore(deps): bump github.com/pelletier/go-toml/v2 from 2.4.0 to 2.4.2",
         "url": "https://github.com/celestiaorg/celestia-app/pull/7486",
         "repo": "celestia-app",
         "author": "dependabot",
         "reviewer": "ninabarbakadze",
-        "requestedAt": "2026-06-29T09:34:46Z"
+        "requestedAt": "2026-06-29T11:34:15Z"
       }
     ],
     "rach-id": [],
@@ -42,15 +51,6 @@
         "requestedAt": "2026-06-29T04:43:45Z"
       },
       {
-        "number": 7485,
-        "title": "chore(deps): bump github.com/digitalocean/godo from 1.196.0 to 1.197.0",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7485",
-        "repo": "celestia-app",
-        "author": "dependabot",
-        "reviewer": "mcrakhman",
-        "requestedAt": "2026-06-29T09:34:38Z"
-      },
-      {
         "number": 5086,
         "title": "fix(share): correct off-by-one in 1D-index bounds checks",
         "url": "https://github.com/celestiaorg/celestia-node/pull/5086",
@@ -78,6 +78,15 @@
         "author": "dependabot",
         "reviewer": "vgonkivs",
         "requestedAt": "2026-06-29T09:34:34Z"
+      },
+      {
+        "number": 5088,
+        "title": "chore(deps): bump actions/cache from 5 to 6",
+        "url": "https://github.com/celestiaorg/celestia-node/pull/5088",
+        "repo": "celestia-node",
+        "author": "dependabot",
+        "reviewer": "vgonkivs",
+        "requestedAt": "2026-06-29T11:03:48Z"
       }
     ],
     "evan-forbes": [],
@@ -167,5 +176,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-06-29T10:17:38.719Z"
+  "fetchedAt": "2026-06-29T12:03:16.836Z"
 }
