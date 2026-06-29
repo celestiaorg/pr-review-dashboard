@@ -10,6 +10,15 @@
         "author": "rach-id",
         "reviewer": "ninabarbakadze",
         "requestedAt": "2026-06-29T14:38:15Z"
+      },
+      {
+        "number": 421,
+        "title": "chore(deps): Bump golangci/golangci-lint-action from 9.2.1 to 9.3.0",
+        "url": "https://github.com/celestiaorg/rsmt2d/pull/421",
+        "repo": "rsmt2d",
+        "author": "dependabot",
+        "reviewer": "ninabarbakadze",
+        "requestedAt": "2026-06-29T15:52:46Z"
       }
     ],
     "rach-id": [],
@@ -167,5 +176,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-06-29T14:59:00.771Z"
+  "fetchedAt": "2026-06-29T16:22:25.514Z"
 }
