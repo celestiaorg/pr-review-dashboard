@@ -1,26 +1,7 @@
 {
   "reviews": {
     "rootulp": [],
-    "ninabarbakadze": [
-      {
-        "number": 7484,
-        "title": "chore(deps): bump github.com/hashicorp/go-metrics from 0.5.4 to 0.6.0",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7484",
-        "repo": "celestia-app",
-        "author": "dependabot",
-        "reviewer": "ninabarbakadze",
-        "requestedAt": "2026-06-29T11:29:01Z"
-      },
-      {
-        "number": 7486,
-        "title": "chore(deps): bump github.com/pelletier/go-toml/v2 from 2.4.0 to 2.4.2",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7486",
-        "repo": "celestia-app",
-        "author": "dependabot",
-        "reviewer": "ninabarbakadze",
-        "requestedAt": "2026-06-29T11:34:15Z"
-      }
-    ],
+    "ninabarbakadze": [],
     "rach-id": [],
     "mcrakhman": [
       {
@@ -69,24 +50,6 @@
         "author": "rach-id",
         "reviewer": "vgonkivs",
         "requestedAt": "2026-06-29T04:43:45Z"
-      },
-      {
-        "number": 7484,
-        "title": "chore(deps): bump github.com/hashicorp/go-metrics from 0.5.4 to 0.6.0",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7484",
-        "repo": "celestia-app",
-        "author": "dependabot",
-        "reviewer": "vgonkivs",
-        "requestedAt": "2026-06-29T09:34:34Z"
-      },
-      {
-        "number": 5088,
-        "title": "chore(deps): bump actions/cache from 5 to 6",
-        "url": "https://github.com/celestiaorg/celestia-node/pull/5088",
-        "repo": "celestia-node",
-        "author": "dependabot",
-        "reviewer": "vgonkivs",
-        "requestedAt": "2026-06-29T11:03:48Z"
       }
     ],
     "evan-forbes": [],
@@ -176,5 +139,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-06-29T12:03:16.836Z"
+  "fetchedAt": "2026-06-29T13:44:47.024Z"
 }
