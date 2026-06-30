@@ -21,17 +21,7 @@
         "requestedAt": "2026-06-30T12:40:40Z"
       }
     ],
-    "rach-id": [
-      {
-        "number": 3147,
-        "title": "feat: integrate SeenTxTracker in CAT",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3147",
-        "repo": "celestia-core",
-        "author": "ninabarbakadze",
-        "reviewer": "rach-id",
-        "requestedAt": "2026-06-30T12:13:15Z"
-      }
-    ],
+    "rach-id": [],
     "mcrakhman": [
       {
         "number": 7481,
@@ -97,6 +87,15 @@
         "author": "rach-id",
         "reviewer": "vgonkivs",
         "requestedAt": "2026-06-29T14:38:15Z"
+      },
+      {
+        "number": 5090,
+        "title": "chore(deps): bump celestia-app to v10",
+        "url": "https://github.com/celestiaorg/celestia-node/pull/5090",
+        "repo": "celestia-node",
+        "author": "rach-id",
+        "reviewer": "vgonkivs",
+        "requestedAt": "2026-06-30T13:02:53Z"
       }
     ],
     "evan-forbes": [],
@@ -186,5 +185,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-06-30T12:55:56.363Z"
+  "fetchedAt": "2026-06-30T13:37:11.633Z"
 }
