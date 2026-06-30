@@ -10,6 +10,15 @@
         "author": "rach-id",
         "reviewer": "ninabarbakadze",
         "requestedAt": "2026-06-29T14:38:15Z"
+      },
+      {
+        "number": 7493,
+        "title": "feat!: enable fibre by default and remove fibre build tags",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/7493",
+        "repo": "celestia-app",
+        "author": "rach-id",
+        "reviewer": "ninabarbakadze",
+        "requestedAt": "2026-06-30T10:56:31Z"
       }
     ],
     "rach-id": [],
@@ -31,6 +40,15 @@
         "author": "rach-id",
         "reviewer": "mcrakhman",
         "requestedAt": "2026-06-29T14:38:03Z"
+      },
+      {
+        "number": 7493,
+        "title": "feat!: enable fibre by default and remove fibre build tags",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/7493",
+        "repo": "celestia-app",
+        "author": "rach-id",
+        "reviewer": "mcrakhman",
+        "requestedAt": "2026-06-30T10:55:32Z"
       },
       {
         "number": 5086,
@@ -158,5 +176,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-06-30T10:04:17.508Z"
+  "fetchedAt": "2026-06-30T11:13:12.832Z"
 }
