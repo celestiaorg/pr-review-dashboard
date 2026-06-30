@@ -10,24 +10,6 @@
         "author": "rach-id",
         "reviewer": "ninabarbakadze",
         "requestedAt": "2026-06-29T14:38:15Z"
-      },
-      {
-        "number": 7492,
-        "title": "feat!: prepare for app version 10",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7492",
-        "repo": "celestia-app",
-        "author": "rach-id",
-        "reviewer": "ninabarbakadze",
-        "requestedAt": "2026-06-30T05:16:39Z"
-      },
-      {
-        "number": 329,
-        "title": "chore(deps): bump golangci/golangci-lint-action from 9.2.1 to 9.3.0",
-        "url": "https://github.com/celestiaorg/nmt/pull/329",
-        "repo": "nmt",
-        "author": "dependabot",
-        "reviewer": "ninabarbakadze",
-        "requestedAt": "2026-06-29T21:02:59Z"
       }
     ],
     "rach-id": [],
@@ -49,15 +31,6 @@
         "author": "rach-id",
         "reviewer": "mcrakhman",
         "requestedAt": "2026-06-29T14:38:03Z"
-      },
-      {
-        "number": 7492,
-        "title": "feat!: prepare for app version 10",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7492",
-        "repo": "celestia-app",
-        "author": "rach-id",
-        "reviewer": "mcrakhman",
-        "requestedAt": "2026-06-30T05:16:39Z"
       },
       {
         "number": 5086,
@@ -96,24 +69,6 @@
         "author": "rach-id",
         "reviewer": "vgonkivs",
         "requestedAt": "2026-06-29T14:38:15Z"
-      },
-      {
-        "number": 7492,
-        "title": "feat!: prepare for app version 10",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7492",
-        "repo": "celestia-app",
-        "author": "rach-id",
-        "reviewer": "vgonkivs",
-        "requestedAt": "2026-06-30T05:14:40Z"
-      },
-      {
-        "number": 3148,
-        "title": "docs: fix GenesisChunked description typo",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3148",
-        "repo": "celestia-core",
-        "author": "blackflytech",
-        "reviewer": "vgonkivs",
-        "requestedAt": "2026-06-29T17:13:22Z"
       }
     ],
     "evan-forbes": [],
@@ -203,5 +158,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-06-30T08:46:15.121Z"
+  "fetchedAt": "2026-06-30T10:04:17.508Z"
 }
