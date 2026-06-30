@@ -12,6 +12,15 @@
         "requestedAt": "2026-06-29T14:38:15Z"
       },
       {
+        "number": 7492,
+        "title": "feat!: prepare for app version 10",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/7492",
+        "repo": "celestia-app",
+        "author": "rach-id",
+        "reviewer": "ninabarbakadze",
+        "requestedAt": "2026-06-30T05:16:39Z"
+      },
+      {
         "number": 329,
         "title": "chore(deps): bump golangci/golangci-lint-action from 9.2.1 to 9.3.0",
         "url": "https://github.com/celestiaorg/nmt/pull/329",
@@ -23,24 +32,6 @@
     ],
     "rach-id": [],
     "mcrakhman": [
-      {
-        "number": 7473,
-        "title": "fix: validate JSON field paths in internal map utils",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7473",
-        "repo": "celestia-app",
-        "author": "pengqima",
-        "reviewer": "mcrakhman",
-        "requestedAt": "2026-06-25T17:18:33Z"
-      },
-      {
-        "number": 7480,
-        "title": "fix(docker-e2e): verify txsim container stays running after start",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7480",
-        "repo": "celestia-app",
-        "author": "rootulp",
-        "reviewer": "mcrakhman",
-        "requestedAt": "2026-06-28T16:16:41Z"
-      },
       {
         "number": 7481,
         "title": "feat(fibre): add upload admission controller (rate limit + in-flight cap)",
@@ -58,6 +49,15 @@
         "author": "rach-id",
         "reviewer": "mcrakhman",
         "requestedAt": "2026-06-29T14:38:03Z"
+      },
+      {
+        "number": 7492,
+        "title": "feat!: prepare for app version 10",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/7492",
+        "repo": "celestia-app",
+        "author": "rach-id",
+        "reviewer": "mcrakhman",
+        "requestedAt": "2026-06-30T05:16:39Z"
       },
       {
         "number": 5086,
@@ -96,6 +96,15 @@
         "author": "rach-id",
         "reviewer": "vgonkivs",
         "requestedAt": "2026-06-29T14:38:15Z"
+      },
+      {
+        "number": 7492,
+        "title": "feat!: prepare for app version 10",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/7492",
+        "repo": "celestia-app",
+        "author": "rach-id",
+        "reviewer": "vgonkivs",
+        "requestedAt": "2026-06-30T05:14:40Z"
       },
       {
         "number": 3148,
@@ -194,5 +203,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-06-30T04:49:43.883Z"
+  "fetchedAt": "2026-06-30T06:20:39.714Z"
 }
