@@ -34,15 +34,6 @@
     ],
     "mcrakhman": [
       {
-        "number": 7481,
-        "title": "feat(fibre): add upload admission controller (rate limit + in-flight cap)",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7481",
-        "repo": "celestia-app",
-        "author": "rach-id",
-        "reviewer": "mcrakhman",
-        "requestedAt": "2026-06-29T04:43:45Z"
-      },
-      {
         "number": 7489,
         "title": "feat(fibre): retain shards for a configurable local duration (default 4h)",
         "url": "https://github.com/celestiaorg/celestia-app/pull/7489",
@@ -50,6 +41,15 @@
         "author": "rach-id",
         "reviewer": "mcrakhman",
         "requestedAt": "2026-06-29T14:38:03Z"
+      },
+      {
+        "number": 7497,
+        "title": "feat(fibre): maintain escrow balance client-side to avoid upload failures",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/7497",
+        "repo": "celestia-app",
+        "author": "vgonkivs",
+        "reviewer": "mcrakhman",
+        "requestedAt": "2026-07-01T09:37:33Z"
       }
     ],
     "vgonkivs": [
@@ -168,5 +168,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-07-01T09:33:42.726Z"
+  "fetchedAt": "2026-07-01T10:49:12.147Z"
 }
