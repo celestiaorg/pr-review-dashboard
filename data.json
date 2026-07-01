@@ -63,15 +63,6 @@
     ],
     "vgonkivs": [
       {
-        "number": 7481,
-        "title": "feat(fibre): add upload admission controller (rate limit + in-flight cap)",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7481",
-        "repo": "celestia-app",
-        "author": "rach-id",
-        "reviewer": "vgonkivs",
-        "requestedAt": "2026-06-29T04:43:45Z"
-      },
-      {
         "number": 7489,
         "title": "feat(fibre): retain shards for a configurable local duration (default 4h)",
         "url": "https://github.com/celestiaorg/celestia-app/pull/7489",
@@ -186,5 +177,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-07-01T11:52:52.690Z"
+  "fetchedAt": "2026-07-01T12:48:23.691Z"
 }
