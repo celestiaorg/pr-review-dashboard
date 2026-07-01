@@ -39,6 +39,15 @@
         "author": "vgonkivs",
         "reviewer": "rach-id",
         "requestedAt": "2026-07-01T18:17:36Z"
+      },
+      {
+        "number": 5094,
+        "title": "fix(shwap/shrex): reset stream on panic in RecoveryMiddleware",
+        "url": "https://github.com/celestiaorg/celestia-node/pull/5094",
+        "repo": "celestia-node",
+        "author": "neyy91",
+        "reviewer": "rach-id",
+        "requestedAt": "2026-07-01T22:14:12Z"
       }
     ],
     "mcrakhman": [
@@ -168,5 +177,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-07-01T22:00:38.781Z"
+  "fetchedAt": "2026-07-01T22:37:08.878Z"
 }
