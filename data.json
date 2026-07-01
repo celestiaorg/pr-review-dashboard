@@ -70,6 +70,15 @@
         "author": "rach-id",
         "reviewer": "vgonkivs",
         "requestedAt": "2026-06-29T14:38:15Z"
+      },
+      {
+        "number": 5077,
+        "title": "fix(shwap/bitswap): return real result from Blockstore.Has",
+        "url": "https://github.com/celestiaorg/celestia-node/pull/5077",
+        "repo": "celestia-node",
+        "author": "neyy91",
+        "reviewer": "vgonkivs",
+        "requestedAt": "2026-07-01T19:46:36Z"
       }
     ],
     "evan-forbes": [],
@@ -159,5 +168,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-07-01T19:27:10.670Z"
+  "fetchedAt": "2026-07-01T20:12:06.445Z"
 }
