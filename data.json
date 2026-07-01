@@ -21,15 +21,6 @@
         "author": "vgonkivs",
         "reviewer": "rach-id",
         "requestedAt": "2026-07-01T09:15:40Z"
-      },
-      {
-        "number": 5093,
-        "title": "chore(deps): bump celestia-app to v10",
-        "url": "https://github.com/celestiaorg/celestia-node/pull/5093",
-        "repo": "celestia-node",
-        "author": "vgonkivs",
-        "reviewer": "rach-id",
-        "requestedAt": "2026-07-01T11:12:37Z"
       }
     ],
     "mcrakhman": [
@@ -50,15 +41,6 @@
         "author": "vgonkivs",
         "reviewer": "mcrakhman",
         "requestedAt": "2026-07-01T09:37:33Z"
-      },
-      {
-        "number": 5093,
-        "title": "chore(deps): bump celestia-app to v10",
-        "url": "https://github.com/celestiaorg/celestia-node/pull/5093",
-        "repo": "celestia-node",
-        "author": "vgonkivs",
-        "reviewer": "mcrakhman",
-        "requestedAt": "2026-07-01T11:11:46Z"
       }
     ],
     "vgonkivs": [
@@ -70,15 +52,6 @@
         "author": "rach-id",
         "reviewer": "vgonkivs",
         "requestedAt": "2026-06-29T14:38:15Z"
-      },
-      {
-        "number": 5090,
-        "title": "chore(deps): bump celestia-app to v10",
-        "url": "https://github.com/celestiaorg/celestia-node/pull/5090",
-        "repo": "celestia-node",
-        "author": "rach-id",
-        "reviewer": "vgonkivs",
-        "requestedAt": "2026-06-30T13:02:53Z"
       }
     ],
     "evan-forbes": [],
@@ -91,15 +64,6 @@
         "author": "rach-id",
         "reviewer": "walldiss",
         "requestedAt": "2026-06-29T04:43:45Z"
-      },
-      {
-        "number": 5093,
-        "title": "chore(deps): bump celestia-app to v10",
-        "url": "https://github.com/celestiaorg/celestia-node/pull/5093",
-        "repo": "celestia-node",
-        "author": "vgonkivs",
-        "reviewer": "walldiss",
-        "requestedAt": "2026-07-01T11:12:36Z"
       }
     ],
     "Wondertan": [],
@@ -177,5 +141,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-07-01T13:41:17.249Z"
+  "fetchedAt": "2026-07-01T14:39:16.328Z"
 }
