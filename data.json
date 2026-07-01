@@ -21,7 +21,17 @@
         "requestedAt": "2026-06-30T22:53:09Z"
       }
     ],
-    "rach-id": [],
+    "rach-id": [
+      {
+        "number": 7497,
+        "title": "feat(fibre): maintain escrow balance client-side to avoid upload failures",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/7497",
+        "repo": "celestia-app",
+        "author": "vgonkivs",
+        "reviewer": "rach-id",
+        "requestedAt": "2026-07-01T09:15:40Z"
+      }
+    ],
     "mcrakhman": [
       {
         "number": 7481,
@@ -158,5 +168,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-07-01T08:16:37.438Z"
+  "fetchedAt": "2026-07-01T09:33:42.726Z"
 }
