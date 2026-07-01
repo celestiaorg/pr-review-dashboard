@@ -7,9 +7,9 @@
         "p90Hours": null
       },
       "month": {
-        "n": 5,
-        "medianHours": 2.7594444444444446,
-        "p90Hours": 6.3933333333333335
+        "n": 0,
+        "medianHours": null,
+        "p90Hours": null
       },
       "year": {
         "n": 168,
@@ -19,35 +19,35 @@
     },
     "ninabarbakadze": {
       "week": {
-        "n": 3,
-        "medianHours": 1.7897222222222222,
-        "p90Hours": 40.547222222222224
+        "n": 0,
+        "medianHours": null,
+        "p90Hours": null
       },
       "month": {
-        "n": 43,
-        "medianHours": 5.961111111111111,
-        "p90Hours": 48.03333333333333
+        "n": 0,
+        "medianHours": null,
+        "p90Hours": null
       },
       "year": {
-        "n": 265,
-        "medianHours": 8.264722222222222,
+        "n": 269,
+        "medianHours": 8.22861111111111,
         "p90Hours": 56.1975
       }
     },
     "rach-id": {
       "week": {
-        "n": 2,
-        "medianHours": 0.4855555555555556,
-        "p90Hours": 0.4855555555555556
+        "n": 0,
+        "medianHours": null,
+        "p90Hours": null
       },
       "month": {
-        "n": 89,
-        "medianHours": 1.1816666666666666,
-        "p90Hours": 11.380277777777778
+        "n": 0,
+        "medianHours": null,
+        "p90Hours": null
       },
       "year": {
-        "n": 408,
-        "medianHours": 1.9983333333333333,
+        "n": 409,
+        "medianHours": 1.9458333333333333,
         "p90Hours": 30.8975
       }
     },
@@ -58,9 +58,9 @@
         "p90Hours": null
       },
       "month": {
-        "n": 23,
-        "medianHours": 63.32138888888889,
-        "p90Hours": 317.6872222222222
+        "n": 0,
+        "medianHours": null,
+        "p90Hours": null
       },
       "year": {
         "n": 63,
@@ -70,14 +70,14 @@
     },
     "vgonkivs": {
       "week": {
-        "n": 5,
-        "medianHours": 63.471666666666664,
-        "p90Hours": 87.20444444444445
+        "n": 0,
+        "medianHours": null,
+        "p90Hours": null
       },
       "month": {
-        "n": 40,
-        "medianHours": 15.507222222222222,
-        "p90Hours": 129.3713888888889
+        "n": 0,
+        "medianHours": null,
+        "p90Hours": null
       },
       "year": {
         "n": 76,
@@ -92,9 +92,9 @@
         "p90Hours": null
       },
       "month": {
-        "n": 3,
-        "medianHours": 0.4286111111111111,
-        "p90Hours": 0.49833333333333335
+        "n": 0,
+        "medianHours": null,
+        "p90Hours": null
       },
       "year": {
         "n": 84,
@@ -109,9 +109,9 @@
         "p90Hours": null
       },
       "month": {
-        "n": 1,
-        "medianHours": 340.4530555555556,
-        "p90Hours": 340.4530555555556
+        "n": 0,
+        "medianHours": null,
+        "p90Hours": null
       },
       "year": {
         "n": 54,
@@ -126,9 +126,9 @@
         "p90Hours": null
       },
       "month": {
-        "n": 1,
-        "medianHours": 0.055,
-        "p90Hours": 0.055
+        "n": 0,
+        "medianHours": null,
+        "p90Hours": null
       },
       "year": {
         "n": 26,
@@ -177,9 +177,9 @@
         "p90Hours": null
       },
       "month": {
-        "n": 1,
-        "medianHours": 13.234444444444444,
-        "p90Hours": 13.234444444444444
+        "n": 0,
+        "medianHours": null,
+        "p90Hours": null
       },
       "year": {
         "n": 16,
@@ -194,9 +194,9 @@
         "p90Hours": null
       },
       "month": {
-        "n": 2,
-        "medianHours": 92.48722222222223,
-        "p90Hours": 92.48722222222223
+        "n": 0,
+        "medianHours": null,
+        "p90Hours": null
       },
       "year": {
         "n": 2,
@@ -270,10 +270,10 @@
       "defaultHidden": false
     }
   ],
-  "computedAt": "2026-06-30T00:27:50.174Z",
+  "computedAt": "2026-07-01T00:28:31.270Z",
   "windows": {
     "weekStart": "2026-06-29T00:00:00.000Z",
-    "monthStart": "2026-06-01T00:00:00.000Z",
+    "monthStart": "2026-07-01T00:00:00.000Z",
     "yearStart": "2026-01-01T00:00:00.000Z"
   }
 }
