@@ -3,15 +3,6 @@
     "rootulp": [],
     "ninabarbakadze": [
       {
-        "number": 5092,
-        "title": "fix(api/client): close already-opened clients on partial init failure",
-        "url": "https://github.com/celestiaorg/celestia-node/pull/5092",
-        "repo": "celestia-node",
-        "author": "neyy91",
-        "reviewer": "ninabarbakadze",
-        "requestedAt": "2026-06-30T22:53:09Z"
-      },
-      {
         "number": 331,
         "title": "test: replace gofuzz with native Go fuzzing",
         "url": "https://github.com/celestiaorg/nmt/pull/331",
@@ -167,5 +158,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-07-02T14:32:45.416Z"
+  "fetchedAt": "2026-07-02T15:24:29.823Z"
 }
