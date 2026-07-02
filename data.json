@@ -50,15 +50,6 @@
         "author": "vgonkivs",
         "reviewer": "mcrakhman",
         "requestedAt": "2026-07-01T09:37:33Z"
-      },
-      {
-        "number": 7503,
-        "title": "fix(fibre): use celestia-app go_package so proto-gen regenerates fibre files in place",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7503",
-        "repo": "celestia-app",
-        "author": "rootulp",
-        "reviewer": "mcrakhman",
-        "requestedAt": "2026-07-02T16:08:27Z"
       }
     ],
     "vgonkivs": [
@@ -177,5 +168,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-07-02T18:08:40.680Z"
+  "fetchedAt": "2026-07-02T18:45:37.072Z"
 }
