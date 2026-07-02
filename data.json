@@ -12,7 +12,17 @@
         "requestedAt": "2026-07-02T04:23:35Z"
       }
     ],
-    "rach-id": [],
+    "rach-id": [
+      {
+        "number": 3151,
+        "title": "refactor!: remove the logic for batched txs in cat and config",
+        "url": "https://github.com/celestiaorg/celestia-core/pull/3151",
+        "repo": "celestia-core",
+        "author": "ninabarbakadze",
+        "reviewer": "rach-id",
+        "requestedAt": "2026-07-02T15:59:36Z"
+      }
+    ],
     "mcrakhman": [
       {
         "number": 7407,
@@ -40,6 +50,15 @@
         "author": "vgonkivs",
         "reviewer": "mcrakhman",
         "requestedAt": "2026-07-01T09:37:33Z"
+      },
+      {
+        "number": 7503,
+        "title": "fix(fibre): use celestia-app go_package so proto-gen regenerates fibre files in place",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/7503",
+        "repo": "celestia-app",
+        "author": "rootulp",
+        "reviewer": "mcrakhman",
+        "requestedAt": "2026-07-02T16:08:27Z"
       }
     ],
     "vgonkivs": [
@@ -158,5 +177,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-07-02T15:24:29.823Z"
+  "fetchedAt": "2026-07-02T16:11:25.280Z"
 }
