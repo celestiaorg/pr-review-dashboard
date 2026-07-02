@@ -3,15 +3,6 @@
     "rootulp": [],
     "ninabarbakadze": [
       {
-        "number": 7398,
-        "title": "fix: harden TxCache.getBlobsHash against blob hash collisions",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7398",
-        "repo": "celestia-app",
-        "author": "rootulp",
-        "reviewer": "ninabarbakadze",
-        "requestedAt": "2026-06-17T10:51:28Z"
-      },
-      {
         "number": 331,
         "title": "test: replace gofuzz with native Go fuzzing",
         "url": "https://github.com/celestiaorg/nmt/pull/331",
@@ -167,5 +158,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-07-02T21:17:01.619Z"
+  "fetchedAt": "2026-07-02T21:46:43.545Z"
 }
