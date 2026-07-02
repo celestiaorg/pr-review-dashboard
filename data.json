@@ -12,15 +12,6 @@
         "requestedAt": "2026-06-30T22:53:09Z"
       },
       {
-        "number": 266,
-        "title": "fix!: domain-separate and length-prefix Blob.Hash preimage",
-        "url": "https://github.com/celestiaorg/go-square/pull/266",
-        "repo": "go-square",
-        "author": "rootulp",
-        "reviewer": "ninabarbakadze",
-        "requestedAt": "2026-06-12T16:15:13Z"
-      },
-      {
         "number": 331,
         "title": "test: replace gofuzz with native Go fuzzing",
         "url": "https://github.com/celestiaorg/nmt/pull/331",
@@ -30,17 +21,7 @@
         "requestedAt": "2026-07-02T04:23:35Z"
       }
     ],
-    "rach-id": [
-      {
-        "number": 7497,
-        "title": "feat(fibre): maintain escrow balance client-side to avoid upload failures",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7497",
-        "repo": "celestia-app",
-        "author": "vgonkivs",
-        "reviewer": "rach-id",
-        "requestedAt": "2026-07-01T09:15:40Z"
-      }
-    ],
+    "rach-id": [],
     "mcrakhman": [
       {
         "number": 7407,
@@ -68,15 +49,6 @@
         "author": "vgonkivs",
         "reviewer": "mcrakhman",
         "requestedAt": "2026-07-01T09:37:33Z"
-      },
-      {
-        "number": 5093,
-        "title": "chore(deps): bump celestia-app to v10",
-        "url": "https://github.com/celestiaorg/celestia-node/pull/5093",
-        "repo": "celestia-node",
-        "author": "vgonkivs",
-        "reviewer": "mcrakhman",
-        "requestedAt": "2026-07-01T11:11:46Z"
       }
     ],
     "vgonkivs": [
@@ -90,6 +62,15 @@
         "requestedAt": "2026-06-29T14:38:15Z"
       },
       {
+        "number": 3152,
+        "title": "chore: set seenPerPeerLimit and seenPerSignerLimit to 1000",
+        "url": "https://github.com/celestiaorg/celestia-core/pull/3152",
+        "repo": "celestia-core",
+        "author": "ninabarbakadze",
+        "reviewer": "vgonkivs",
+        "requestedAt": "2026-07-02T14:04:39Z"
+      },
+      {
         "number": 5077,
         "title": "fix(shwap/bitswap): return real result from Blockstore.Has",
         "url": "https://github.com/celestiaorg/celestia-node/pull/5077",
@@ -97,15 +78,6 @@
         "author": "neyy91",
         "reviewer": "vgonkivs",
         "requestedAt": "2026-07-01T19:46:36Z"
-      },
-      {
-        "number": 330,
-        "title": "ci: add proto-gen Makefile target, docs, and up-to-date check",
-        "url": "https://github.com/celestiaorg/nmt/pull/330",
-        "repo": "nmt",
-        "author": "rootulp",
-        "reviewer": "vgonkivs",
-        "requestedAt": "2026-07-02T04:23:07Z"
       }
     ],
     "evan-forbes": [],
@@ -118,15 +90,6 @@
         "author": "rach-id",
         "reviewer": "walldiss",
         "requestedAt": "2026-06-29T04:43:45Z"
-      },
-      {
-        "number": 5093,
-        "title": "chore(deps): bump celestia-app to v10",
-        "url": "https://github.com/celestiaorg/celestia-node/pull/5093",
-        "repo": "celestia-node",
-        "author": "vgonkivs",
-        "reviewer": "walldiss",
-        "requestedAt": "2026-07-01T11:12:36Z"
       }
     ],
     "Wondertan": [],
@@ -204,5 +167,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-07-02T13:44:30.463Z"
+  "fetchedAt": "2026-07-02T14:32:45.416Z"
 }
