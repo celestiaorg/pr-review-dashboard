@@ -59,24 +59,6 @@
         "requestedAt": "2026-07-01T18:17:36Z"
       },
       {
-        "number": 5094,
-        "title": "fix(shwap/shrex): reset stream on panic in RecoveryMiddleware",
-        "url": "https://github.com/celestiaorg/celestia-node/pull/5094",
-        "repo": "celestia-node",
-        "author": "neyy91",
-        "reviewer": "rach-id",
-        "requestedAt": "2026-07-01T22:14:12Z"
-      },
-      {
-        "number": 266,
-        "title": "fix!: domain-separate and length-prefix Blob.Hash preimage",
-        "url": "https://github.com/celestiaorg/go-square/pull/266",
-        "repo": "go-square",
-        "author": "rootulp",
-        "reviewer": "rach-id",
-        "requestedAt": "2026-07-02T04:16:12Z"
-      },
-      {
         "number": 332,
         "title": "docs: document proof format and add runnable verification examples",
         "url": "https://github.com/celestiaorg/nmt/pull/332",
@@ -231,5 +213,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-07-02T04:45:38.254Z"
+  "fetchedAt": "2026-07-02T06:08:56.051Z"
 }
