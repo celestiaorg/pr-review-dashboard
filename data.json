@@ -57,15 +57,6 @@
         "author": "vgonkivs",
         "reviewer": "rach-id",
         "requestedAt": "2026-07-01T18:17:36Z"
-      },
-      {
-        "number": 332,
-        "title": "docs: document proof format and add runnable verification examples",
-        "url": "https://github.com/celestiaorg/nmt/pull/332",
-        "repo": "nmt",
-        "author": "rootulp",
-        "reviewer": "rach-id",
-        "requestedAt": "2026-07-02T04:23:55Z"
       }
     ],
     "mcrakhman": [
@@ -213,5 +204,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-07-02T06:08:56.051Z"
+  "fetchedAt": "2026-07-02T07:22:23.498Z"
 }
