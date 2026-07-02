@@ -3,6 +3,15 @@
     "rootulp": [],
     "ninabarbakadze": [
       {
+        "number": 7398,
+        "title": "fix: harden TxCache.getBlobsHash against blob hash collisions",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/7398",
+        "repo": "celestia-app",
+        "author": "rootulp",
+        "reviewer": "ninabarbakadze",
+        "requestedAt": "2026-06-17T10:51:28Z"
+      },
+      {
         "number": 331,
         "title": "test: replace gofuzz with native Go fuzzing",
         "url": "https://github.com/celestiaorg/nmt/pull/331",
@@ -12,17 +21,7 @@
         "requestedAt": "2026-07-02T04:23:35Z"
       }
     ],
-    "rach-id": [
-      {
-        "number": 3151,
-        "title": "refactor!: remove the logic for batched txs in cat and config",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3151",
-        "repo": "celestia-core",
-        "author": "ninabarbakadze",
-        "reviewer": "rach-id",
-        "requestedAt": "2026-07-02T15:59:36Z"
-      }
-    ],
+    "rach-id": [],
     "mcrakhman": [
       {
         "number": 7407,
@@ -168,5 +167,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-07-02T18:45:37.072Z"
+  "fetchedAt": "2026-07-02T19:16:51.538Z"
 }
