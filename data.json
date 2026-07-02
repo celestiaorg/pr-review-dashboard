@@ -3,15 +3,6 @@
     "rootulp": [],
     "ninabarbakadze": [
       {
-        "number": 7499,
-        "title": "refactor(fibre): rework HostRegistry",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7499",
-        "repo": "celestia-app",
-        "author": "vgonkivs",
-        "reviewer": "ninabarbakadze",
-        "requestedAt": "2026-07-01T18:17:24Z"
-      },
-      {
         "number": 5092,
         "title": "fix(api/client): close already-opened clients on partial init failure",
         "url": "https://github.com/celestiaorg/celestia-node/pull/5092",
@@ -79,13 +70,13 @@
         "requestedAt": "2026-07-01T09:37:33Z"
       },
       {
-        "number": 7501,
-        "title": "feat(fibre): add timeout for fibre requests",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7501",
-        "repo": "celestia-app",
+        "number": 5093,
+        "title": "chore(deps): bump celestia-app to v10",
+        "url": "https://github.com/celestiaorg/celestia-node/pull/5093",
+        "repo": "celestia-node",
         "author": "vgonkivs",
         "reviewer": "mcrakhman",
-        "requestedAt": "2026-07-02T10:26:12Z"
+        "requestedAt": "2026-07-01T11:11:46Z"
       }
     ],
     "vgonkivs": [
@@ -127,6 +118,15 @@
         "author": "rach-id",
         "reviewer": "walldiss",
         "requestedAt": "2026-06-29T04:43:45Z"
+      },
+      {
+        "number": 5093,
+        "title": "chore(deps): bump celestia-app to v10",
+        "url": "https://github.com/celestiaorg/celestia-node/pull/5093",
+        "repo": "celestia-node",
+        "author": "vgonkivs",
+        "reviewer": "walldiss",
+        "requestedAt": "2026-07-01T11:12:36Z"
       }
     ],
     "Wondertan": [],
@@ -204,5 +204,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-07-02T12:20:02.391Z"
+  "fetchedAt": "2026-07-02T13:03:42.118Z"
 }
