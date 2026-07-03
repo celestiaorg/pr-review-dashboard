@@ -13,27 +13,8 @@
       }
     ],
     "rach-id": [],
-    "mcrakhman": [
-      {
-        "number": 7497,
-        "title": "feat(fibre): maintain escrow balance client-side to avoid upload failures",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7497",
-        "repo": "celestia-app",
-        "author": "vgonkivs",
-        "reviewer": "mcrakhman",
-        "requestedAt": "2026-07-01T09:37:33Z"
-      }
-    ],
+    "mcrakhman": [],
     "vgonkivs": [
-      {
-        "number": 7489,
-        "title": "feat(fibre): retain shards for a configurable local duration (default 4h)",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7489",
-        "repo": "celestia-app",
-        "author": "rach-id",
-        "reviewer": "vgonkivs",
-        "requestedAt": "2026-06-29T14:38:15Z"
-      },
       {
         "number": 3152,
         "title": "chore: set seenPerPeerLimit and seenPerSignerLimit to 1000",
@@ -149,5 +130,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-07-03T07:49:18.566Z"
+  "fetchedAt": "2026-07-03T08:52:36.906Z"
 }
