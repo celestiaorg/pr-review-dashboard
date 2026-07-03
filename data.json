@@ -15,24 +15,6 @@
     "rach-id": [],
     "mcrakhman": [
       {
-        "number": 7407,
-        "title": "test: wait for claimable rewards before undelegation",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7407",
-        "repo": "celestia-app",
-        "author": "rootulp",
-        "reviewer": "mcrakhman",
-        "requestedAt": "2026-07-02T04:05:03Z"
-      },
-      {
-        "number": 7489,
-        "title": "feat(fibre): retain shards for a configurable local duration (default 4h)",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7489",
-        "repo": "celestia-app",
-        "author": "rach-id",
-        "reviewer": "mcrakhman",
-        "requestedAt": "2026-06-29T14:38:03Z"
-      },
-      {
         "number": 7497,
         "title": "feat(fibre): maintain escrow balance client-side to avoid upload failures",
         "url": "https://github.com/celestiaorg/celestia-app/pull/7497",
@@ -167,5 +149,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-07-03T06:41:20.096Z"
+  "fetchedAt": "2026-07-03T07:49:18.566Z"
 }
