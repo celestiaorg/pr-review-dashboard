@@ -1,19 +1,19 @@
 {
   "counts": {
     "rootulp": {
-      "week": 0,
-      "month": 0,
-      "year": 398
+      "week": 4,
+      "month": 4,
+      "year": 402
     },
     "ninabarbakadze": {
-      "week": 0,
-      "month": 0,
-      "year": 412
-    },
-    "rach-id": {
       "week": 1,
       "month": 1,
-      "year": 558
+      "year": 413
+    },
+    "rach-id": {
+      "week": 8,
+      "month": 8,
+      "year": 565
     },
     "mcrakhman": {
       "week": 2,
@@ -21,9 +21,9 @@
       "year": 106
     },
     "vgonkivs": {
-      "week": 2,
-      "month": 2,
-      "year": 116
+      "week": 5,
+      "month": 5,
+      "year": 119
     },
     "evan-forbes": {
       "week": 0,
@@ -61,7 +61,7 @@
       "year": 3
     }
   },
-  "computedAt": "2026-07-02T00:27:08.964Z",
+  "computedAt": "2026-07-03T00:24:03.538Z",
   "windows": {
     "weekStart": "2026-06-29T00:00:00.000Z",
     "monthStart": "2026-07-01T00:00:00.000Z",
