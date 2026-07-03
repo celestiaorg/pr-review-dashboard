@@ -24,26 +24,7 @@
         "requestedAt": "2026-07-01T09:37:33Z"
       }
     ],
-    "vgonkivs": [
-      {
-        "number": 5077,
-        "title": "fix(shwap/bitswap): return real result from Blockstore.Has",
-        "url": "https://github.com/celestiaorg/celestia-node/pull/5077",
-        "repo": "celestia-node",
-        "author": "neyy91",
-        "reviewer": "vgonkivs",
-        "requestedAt": "2026-07-01T19:46:36Z"
-      },
-      {
-        "number": 5099,
-        "title": "chore: ignore local claude json file",
-        "url": "https://github.com/celestiaorg/celestia-node/pull/5099",
-        "repo": "celestia-node",
-        "author": "renaynay",
-        "reviewer": "vgonkivs",
-        "requestedAt": "2026-07-03T12:51:45Z"
-      }
-    ],
+    "vgonkivs": [],
     "evan-forbes": [],
     "walldiss": [
       {
@@ -131,5 +112,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-07-03T13:12:46.893Z"
+  "fetchedAt": "2026-07-03T13:57:08.204Z"
 }
