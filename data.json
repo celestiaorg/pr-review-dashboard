@@ -16,15 +16,6 @@
     "mcrakhman": [],
     "vgonkivs": [
       {
-        "number": 3152,
-        "title": "chore: set seenPerPeerLimit and seenPerSignerLimit to 1000",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3152",
-        "repo": "celestia-core",
-        "author": "ninabarbakadze",
-        "reviewer": "vgonkivs",
-        "requestedAt": "2026-07-02T14:04:39Z"
-      },
-      {
         "number": 5077,
         "title": "fix(shwap/bitswap): return real result from Blockstore.Has",
         "url": "https://github.com/celestiaorg/celestia-node/pull/5077",
@@ -130,5 +121,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-07-03T08:52:36.906Z"
+  "fetchedAt": "2026-07-03T09:56:39.839Z"
 }
