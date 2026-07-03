@@ -43,15 +43,6 @@
         "author": "neyy91",
         "reviewer": "vgonkivs",
         "requestedAt": "2026-07-01T19:46:36Z"
-      },
-      {
-        "number": 5097,
-        "title": "fix(state/core): surface core endpoint in startup timeout error",
-        "url": "https://github.com/celestiaorg/celestia-node/pull/5097",
-        "repo": "celestia-node",
-        "author": "rootulp",
-        "reviewer": "vgonkivs",
-        "requestedAt": "2026-07-02T22:20:13Z"
       }
     ],
     "evan-forbes": [],
@@ -141,5 +132,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-07-03T10:56:38.729Z"
+  "fetchedAt": "2026-07-03T11:48:25.349Z"
 }
