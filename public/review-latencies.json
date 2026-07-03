@@ -19,36 +19,36 @@
     },
     "ninabarbakadze": {
       "week": {
-        "n": 0,
-        "medianHours": null,
-        "p90Hours": null
+        "n": 1,
+        "medianHours": 0.023333333333333334,
+        "p90Hours": 0.023333333333333334
       },
       "month": {
-        "n": 0,
-        "medianHours": null,
-        "p90Hours": null
+        "n": 1,
+        "medianHours": 0.023333333333333334,
+        "p90Hours": 0.023333333333333334
       },
       "year": {
-        "n": 269,
+        "n": 270,
         "medianHours": 8.22861111111111,
         "p90Hours": 56.1975
       }
     },
     "rach-id": {
       "week": {
-        "n": 1,
+        "n": 10,
         "medianHours": 2.9066666666666667,
-        "p90Hours": 2.9066666666666667
+        "p90Hours": 29.038611111111113
       },
       "month": {
-        "n": 1,
+        "n": 10,
         "medianHours": 2.9066666666666667,
-        "p90Hours": 2.9066666666666667
+        "p90Hours": 29.038611111111113
       },
       "year": {
-        "n": 410,
-        "medianHours": 1.9983333333333333,
-        "p90Hours": 30.8975
+        "n": 419,
+        "medianHours": 1.9458333333333333,
+        "p90Hours": 30.56138888888889
       }
     },
     "mcrakhman": {
@@ -70,17 +70,17 @@
     },
     "vgonkivs": {
       "week": {
-        "n": 1,
-        "medianHours": 0.21694444444444444,
-        "p90Hours": 0.21694444444444444
+        "n": 2,
+        "medianHours": 9.37,
+        "p90Hours": 9.37
       },
       "month": {
-        "n": 1,
-        "medianHours": 0.21694444444444444,
-        "p90Hours": 0.21694444444444444
+        "n": 2,
+        "medianHours": 9.37,
+        "p90Hours": 9.37
       },
       "year": {
-        "n": 77,
+        "n": 78,
         "medianHours": 28.356666666666666,
         "p90Hours": 259.80555555555554
       }
@@ -270,7 +270,7 @@
       "defaultHidden": false
     }
   ],
-  "computedAt": "2026-07-02T00:28:17.489Z",
+  "computedAt": "2026-07-03T00:25:11.123Z",
   "windows": {
     "weekStart": "2026-06-29T00:00:00.000Z",
     "monthStart": "2026-07-01T00:00:00.000Z",
