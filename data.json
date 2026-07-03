@@ -12,17 +12,7 @@
         "requestedAt": "2026-07-02T04:23:35Z"
       }
     ],
-    "rach-id": [
-      {
-        "number": 7497,
-        "title": "feat(fibre): maintain escrow balance client-side to avoid upload failures",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7497",
-        "repo": "celestia-app",
-        "author": "vgonkivs",
-        "reviewer": "rach-id",
-        "requestedAt": "2026-07-03T09:57:06Z"
-      }
-    ],
+    "rach-id": [],
     "mcrakhman": [
       {
         "number": 7497,
@@ -43,6 +33,15 @@
         "author": "neyy91",
         "reviewer": "vgonkivs",
         "requestedAt": "2026-07-01T19:46:36Z"
+      },
+      {
+        "number": 5099,
+        "title": "chore: ignore local claude json file",
+        "url": "https://github.com/celestiaorg/celestia-node/pull/5099",
+        "repo": "celestia-node",
+        "author": "renaynay",
+        "reviewer": "vgonkivs",
+        "requestedAt": "2026-07-03T12:51:45Z"
       }
     ],
     "evan-forbes": [],
@@ -132,5 +131,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-07-03T12:29:21.539Z"
+  "fetchedAt": "2026-07-03T13:12:46.893Z"
 }
