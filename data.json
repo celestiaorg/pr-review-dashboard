@@ -30,33 +30,6 @@
         "requestedAt": "2026-07-06T09:40:11Z"
       },
       {
-        "number": 3155,
-        "title": "build(deps): Bump docker/build-push-action from 7.2.0 to 7.3.0",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3155",
-        "repo": "celestia-core",
-        "author": "dependabot",
-        "reviewer": "ninabarbakadze",
-        "requestedAt": "2026-07-06T09:26:35Z"
-      },
-      {
-        "number": 3159,
-        "title": "build(deps): Bump github.com/adlio/schema from 1.5.0 to 1.5.1",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3159",
-        "repo": "celestia-core",
-        "author": "dependabot",
-        "reviewer": "ninabarbakadze",
-        "requestedAt": "2026-07-06T09:29:55Z"
-      },
-      {
-        "number": 3162,
-        "title": "build(deps): Bump github.com/aws/aws-sdk-go-v2 from 1.42.0 to 1.42.1",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3162",
-        "repo": "celestia-core",
-        "author": "dependabot",
-        "reviewer": "ninabarbakadze",
-        "requestedAt": "2026-07-06T09:32:43Z"
-      },
-      {
         "number": 331,
         "title": "test: replace gofuzz with native Go fuzzing",
         "url": "https://github.com/celestiaorg/nmt/pull/331",
@@ -223,69 +196,6 @@
         "author": "dependabot",
         "reviewer": "vgonkivs",
         "requestedAt": "2026-07-06T09:41:43Z"
-      },
-      {
-        "number": 3157,
-        "title": "build(deps): Bump github.com/aws/aws-sdk-go-v2/credentials from 1.19.24 to 1.19.26",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3157",
-        "repo": "celestia-core",
-        "author": "dependabot",
-        "reviewer": "vgonkivs",
-        "requestedAt": "2026-07-06T09:28:29Z"
-      },
-      {
-        "number": 3161,
-        "title": "build(deps): Bump google.golang.org/grpc from 1.81.1 to 1.82.0",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3161",
-        "repo": "celestia-core",
-        "author": "dependabot",
-        "reviewer": "vgonkivs",
-        "requestedAt": "2026-07-06T09:31:21Z"
-      },
-      {
-        "number": 3163,
-        "title": "build(deps): Bump github.com/grafana/pyroscope-go from 1.3.1 to 1.4.0",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3163",
-        "repo": "celestia-core",
-        "author": "dependabot",
-        "reviewer": "vgonkivs",
-        "requestedAt": "2026-07-06T09:32:46Z"
-      },
-      {
-        "number": 5102,
-        "title": "chore(deps): bump google.golang.org/grpc from 1.81.1 to 1.82.0",
-        "url": "https://github.com/celestiaorg/celestia-node/pull/5102",
-        "repo": "celestia-node",
-        "author": "dependabot",
-        "reviewer": "vgonkivs",
-        "requestedAt": "2026-07-06T13:47:09Z"
-      },
-      {
-        "number": 5103,
-        "title": "chore(deps): bump github.com/grafana/pyroscope-go from 1.3.1 to 1.4.0",
-        "url": "https://github.com/celestiaorg/celestia-node/pull/5103",
-        "repo": "celestia-node",
-        "author": "dependabot",
-        "reviewer": "vgonkivs",
-        "requestedAt": "2026-07-06T11:07:06Z"
-      },
-      {
-        "number": 5104,
-        "title": "chore(deps): bump github.com/libp2p/go-libp2p-kad-dht from 0.39.1 to 0.41.0",
-        "url": "https://github.com/celestiaorg/celestia-node/pull/5104",
-        "repo": "celestia-node",
-        "author": "dependabot",
-        "reviewer": "vgonkivs",
-        "requestedAt": "2026-07-06T11:07:11Z"
-      },
-      {
-        "number": 5105,
-        "title": "chore(deps): bump github.com/celestiaorg/go-square/v4 from 4.0.0-rc4 to 4.0.0-rc5",
-        "url": "https://github.com/celestiaorg/celestia-node/pull/5105",
-        "repo": "celestia-node",
-        "author": "dependabot",
-        "reviewer": "vgonkivs",
-        "requestedAt": "2026-07-06T11:07:19Z"
       }
     ],
     "evan-forbes": [],
@@ -375,5 +285,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-07-06T14:43:26.430Z"
+  "fetchedAt": "2026-07-06T15:58:32.130Z"
 }
