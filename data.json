@@ -252,24 +252,6 @@
         "requestedAt": "2026-07-06T09:32:46Z"
       },
       {
-        "number": 5100,
-        "title": "chore(deps): bump goreleaser/goreleaser-action from 7.2.2 to 7.2.3 in the patch-updates group",
-        "url": "https://github.com/celestiaorg/celestia-node/pull/5100",
-        "repo": "celestia-node",
-        "author": "dependabot",
-        "reviewer": "vgonkivs",
-        "requestedAt": "2026-07-06T11:03:59Z"
-      },
-      {
-        "number": 5101,
-        "title": "chore(deps): bump golangci/golangci-lint-action from 9.2.1 to 9.3.0",
-        "url": "https://github.com/celestiaorg/celestia-node/pull/5101",
-        "repo": "celestia-node",
-        "author": "dependabot",
-        "reviewer": "vgonkivs",
-        "requestedAt": "2026-07-06T11:04:01Z"
-      },
-      {
         "number": 5102,
         "title": "chore(deps): bump google.golang.org/grpc from 1.81.1 to 1.82.0",
         "url": "https://github.com/celestiaorg/celestia-node/pull/5102",
@@ -411,5 +393,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-07-06T12:15:49.177Z"
+  "fetchedAt": "2026-07-06T13:34:49.482Z"
 }
