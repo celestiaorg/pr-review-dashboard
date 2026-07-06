@@ -9,7 +9,7 @@
         "repo": "celestia-app",
         "author": "dependabot",
         "reviewer": "ninabarbakadze",
-        "requestedAt": "2026-07-06T09:34:10Z"
+        "requestedAt": "2026-07-06T17:53:37Z"
       },
       {
         "number": 7512,
@@ -294,5 +294,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-07-06T17:07:38.016Z"
+  "fetchedAt": "2026-07-06T17:58:22.653Z"
 }
