@@ -19,9 +19,9 @@
     },
     "ninabarbakadze": {
       "week": {
-        "n": 1,
-        "medianHours": 0.023333333333333334,
-        "p90Hours": 0.023333333333333334
+        "n": 0,
+        "medianHours": null,
+        "p90Hours": null
       },
       "month": {
         "n": 1,
@@ -36,9 +36,9 @@
     },
     "rach-id": {
       "week": {
-        "n": 11,
-        "medianHours": 1.7861111111111112,
-        "p90Hours": 13.898333333333333
+        "n": 0,
+        "medianHours": null,
+        "p90Hours": null
       },
       "month": {
         "n": 11,
@@ -53,9 +53,9 @@
     },
     "mcrakhman": {
       "week": {
-        "n": 4,
-        "medianHours": 52.88583333333333,
-        "p90Hours": 89.11916666666667
+        "n": 0,
+        "medianHours": null,
+        "p90Hours": null
       },
       "month": {
         "n": 4,
@@ -70,9 +70,9 @@
     },
     "vgonkivs": {
       "week": {
-        "n": 3,
-        "medianHours": 0.4777777777777778,
-        "p90Hours": 9.37
+        "n": 0,
+        "medianHours": null,
+        "p90Hours": null
       },
       "month": {
         "n": 3,
@@ -270,9 +270,9 @@
       "defaultHidden": false
     }
   ],
-  "computedAt": "2026-07-05T00:24:03.457Z",
+  "computedAt": "2026-07-06T00:24:26.394Z",
   "windows": {
-    "weekStart": "2026-06-29T00:00:00.000Z",
+    "weekStart": "2026-07-06T00:00:00.000Z",
     "monthStart": "2026-07-01T00:00:00.000Z",
     "yearStart": "2026-01-01T00:00:00.000Z"
   }
