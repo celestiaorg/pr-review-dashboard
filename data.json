@@ -34,17 +34,7 @@
         "requestedAt": "2026-07-01T09:37:33Z"
       }
     ],
-    "vgonkivs": [
-      {
-        "number": 398,
-        "title": "chore(deps): bump golang.org/x/net from 0.50.0 to 0.55.0",
-        "url": "https://github.com/celestiaorg/go-header/pull/398",
-        "repo": "go-header",
-        "author": "dependabot",
-        "reviewer": "vgonkivs",
-        "requestedAt": "2026-07-03T18:42:38Z"
-      }
-    ],
+    "vgonkivs": [],
     "evan-forbes": [],
     "walldiss": [
       {
@@ -132,5 +122,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-07-06T07:49:37.391Z"
+  "fetchedAt": "2026-07-06T09:11:48.807Z"
 }
