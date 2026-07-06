@@ -167,6 +167,15 @@
         "author": "dependabot",
         "reviewer": "mcrakhman",
         "requestedAt": "2026-07-06T09:29:51Z"
+      },
+      {
+        "number": 3164,
+        "title": "fix(mempool/cat): race between request timeout and pending-seen gap-fill causing duplicate WantTx ",
+        "url": "https://github.com/celestiaorg/celestia-core/pull/3164",
+        "repo": "celestia-core",
+        "author": "ninabarbakadze",
+        "reviewer": "mcrakhman",
+        "requestedAt": "2026-07-06T16:11:01Z"
       }
     ],
     "vgonkivs": [
@@ -285,5 +294,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-07-06T15:58:32.130Z"
+  "fetchedAt": "2026-07-06T17:07:38.016Z"
 }
