@@ -9,16 +9,7 @@
         "repo": "celestia-app",
         "author": "dependabot",
         "reviewer": "ninabarbakadze",
-        "requestedAt": "2026-07-07T12:08:12Z"
-      },
-      {
-        "number": 7512,
-        "title": "chore(deps): bump google.golang.org/api from 0.286.0 to 0.287.0",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7512",
-        "repo": "celestia-app",
-        "author": "dependabot",
-        "reviewer": "ninabarbakadze",
-        "requestedAt": "2026-07-07T12:14:20Z"
+        "requestedAt": "2026-07-07T16:29:54Z"
       },
       {
         "number": 331,
@@ -48,6 +39,15 @@
         "author": "vgonkivs",
         "reviewer": "rach-id",
         "requestedAt": "2026-07-07T11:47:33Z"
+      },
+      {
+        "number": 3165,
+        "title": "test(node): fix flaky TestNodePrivValidatorGRPCServer port collision",
+        "url": "https://github.com/celestiaorg/celestia-core/pull/3165",
+        "repo": "celestia-core",
+        "author": "rootulp",
+        "reviewer": "rach-id",
+        "requestedAt": "2026-07-07T16:14:31Z"
       }
     ],
     "mcrakhman": [
@@ -230,5 +230,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-07-07T15:49:55.182Z"
+  "fetchedAt": "2026-07-07T16:42:17.487Z"
 }
