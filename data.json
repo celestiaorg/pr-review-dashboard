@@ -3,6 +3,15 @@
     "rootulp": [],
     "ninabarbakadze": [
       {
+        "number": 7374,
+        "title": "feat(zkism): support SP1 v6 Groth16 proofs | Delayed for post-V9",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/7374",
+        "repo": "celestia-app",
+        "author": "jonas089",
+        "reviewer": "ninabarbakadze",
+        "requestedAt": "2026-06-08T12:34:31Z"
+      },
+      {
         "number": 7508,
         "title": "chore(deps): bump github.com/aws/aws-sdk-go-v2/credentials from 1.19.24 to 1.19.26",
         "url": "https://github.com/celestiaorg/celestia-app/pull/7508",
@@ -211,5 +220,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-07-07T19:41:35.531Z"
+  "fetchedAt": "2026-07-07T20:24:57.901Z"
 }
