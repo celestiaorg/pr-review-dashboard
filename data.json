@@ -12,6 +12,15 @@
         "requestedAt": "2026-07-07T12:08:12Z"
       },
       {
+        "number": 7512,
+        "title": "chore(deps): bump google.golang.org/api from 0.286.0 to 0.287.0",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/7512",
+        "repo": "celestia-app",
+        "author": "dependabot",
+        "reviewer": "ninabarbakadze",
+        "requestedAt": "2026-07-07T12:14:20Z"
+      },
+      {
         "number": 331,
         "title": "test: replace gofuzz with native Go fuzzing",
         "url": "https://github.com/celestiaorg/nmt/pull/331",
@@ -30,15 +39,6 @@
         "author": "vgonkivs",
         "reviewer": "rach-id",
         "requestedAt": "2026-07-03T19:06:28Z"
-      },
-      {
-        "number": 7517,
-        "title": "chore(deps): bump github.com/grafana/pyroscope-go from 1.3.1 to 1.4.0",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7517",
-        "repo": "celestia-app",
-        "author": "dependabot",
-        "reviewer": "rach-id",
-        "requestedAt": "2026-07-06T09:40:15Z"
       },
       {
         "number": 7519,
@@ -80,7 +80,7 @@
       },
       {
         "number": 7511,
-        "title": "chore(deps): bump github.com/aws/aws-sdk-go-v2/config from 1.32.25 to 1.32.28",
+        "title": "chore(deps): bump github.com/aws/aws-sdk-go-v2/config from 1.32.27 to 1.32.28",
         "url": "https://github.com/celestiaorg/celestia-app/pull/7511",
         "repo": "celestia-app",
         "author": "dependabot",
@@ -95,6 +95,15 @@
         "author": "dependabot",
         "reviewer": "mcrakhman",
         "requestedAt": "2026-07-06T09:40:07Z"
+      },
+      {
+        "number": 7520,
+        "title": "chore: increase observability cluster size",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/7520",
+        "repo": "celestia-app",
+        "author": "ninabarbakadze",
+        "reviewer": "mcrakhman",
+        "requestedAt": "2026-07-07T12:13:53Z"
       },
       {
         "number": 3154,
@@ -126,13 +135,13 @@
     ],
     "vgonkivs": [
       {
-        "number": 7510,
-        "title": "chore(deps): bump github.com/aws/aws-sdk-go-v2/feature/s3/transfermanager from 0.2.11 to 0.2.13",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7510",
+        "number": 7520,
+        "title": "chore: increase observability cluster size",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/7520",
         "repo": "celestia-app",
-        "author": "dependabot",
+        "author": "ninabarbakadze",
         "reviewer": "vgonkivs",
-        "requestedAt": "2026-07-07T12:04:26Z"
+        "requestedAt": "2026-07-07T12:13:37Z"
       }
     ],
     "evan-forbes": [],
@@ -222,5 +231,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-07-07T12:09:55.043Z"
+  "fetchedAt": "2026-07-07T13:02:23.150Z"
 }
