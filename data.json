@@ -97,15 +97,6 @@
         "requestedAt": "2026-07-06T09:40:07Z"
       },
       {
-        "number": 7520,
-        "title": "chore: increase observability cluster size",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7520",
-        "repo": "celestia-app",
-        "author": "ninabarbakadze",
-        "reviewer": "mcrakhman",
-        "requestedAt": "2026-07-07T12:13:53Z"
-      },
-      {
         "number": 7521,
         "title": "fix: show network tag in version cmd",
         "url": "https://github.com/celestiaorg/celestia-app/pull/7521",
@@ -220,5 +211,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-07-08T08:33:31.347Z"
+  "fetchedAt": "2026-07-08T09:27:07.071Z"
 }
