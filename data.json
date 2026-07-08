@@ -113,6 +113,15 @@
         "author": "ninabarbakadze",
         "reviewer": "mcrakhman",
         "requestedAt": "2026-07-06T16:11:01Z"
+      },
+      {
+        "number": 422,
+        "title": "chore(deps): Bump golang.org/x/sync from 0.21.0 to 0.22.0",
+        "url": "https://github.com/celestiaorg/rsmt2d/pull/422",
+        "repo": "rsmt2d",
+        "author": "dependabot",
+        "reviewer": "mcrakhman",
+        "requestedAt": "2026-07-08T15:52:29Z"
       }
     ],
     "vgonkivs": [],
@@ -193,5 +202,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-07-08T15:10:18.445Z"
+  "fetchedAt": "2026-07-08T15:55:19.107Z"
 }
