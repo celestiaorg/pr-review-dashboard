@@ -19,17 +19,17 @@
     },
     "ninabarbakadze": {
       "week": {
-        "n": 3,
+        "n": 7,
         "medianHours": 6.411666666666667,
-        "p90Hours": 8.0025
+        "p90Hours": 26.295
       },
       "month": {
-        "n": 4,
+        "n": 8,
         "medianHours": 6.411666666666667,
-        "p90Hours": 8.0025
+        "p90Hours": 26.295
       },
       "year": {
-        "n": 273,
+        "n": 277,
         "medianHours": 8.143055555555556,
         "p90Hours": 55.69111111111111
       }
@@ -70,19 +70,19 @@
     },
     "vgonkivs": {
       "week": {
-        "n": 10,
+        "n": 15,
         "medianHours": 3.9858333333333333,
-        "p90Hours": 61.80722222222222
+        "p90Hours": 25.54083333333333
       },
       "month": {
-        "n": 13,
-        "medianHours": 3.980277777777778,
-        "p90Hours": 9.37
+        "n": 18,
+        "medianHours": 3.9858333333333333,
+        "p90Hours": 25.54083333333333
       },
       "year": {
-        "n": 89,
+        "n": 94,
         "medianHours": 15.507222222222222,
-        "p90Hours": 244.45
+        "p90Hours": 192.0438888888889
       }
     },
     "evan-forbes": {
@@ -270,7 +270,7 @@
       "defaultHidden": false
     }
   ],
-  "computedAt": "2026-07-07T00:26:19.231Z",
+  "computedAt": "2026-07-08T00:21:35.896Z",
   "windows": {
     "weekStart": "2026-07-06T00:00:00.000Z",
     "monthStart": "2026-07-01T00:00:00.000Z",
