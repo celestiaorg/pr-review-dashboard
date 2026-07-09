@@ -124,7 +124,17 @@
         "requestedAt": "2026-07-08T15:52:29Z"
       }
     ],
-    "vgonkivs": [],
+    "vgonkivs": [
+      {
+        "number": 7525,
+        "title": "chore(deps): bump github/codeql-action to v4.36.3",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/7525",
+        "repo": "celestia-app",
+        "author": "rootulp",
+        "reviewer": "vgonkivs",
+        "requestedAt": "2026-07-09T17:32:04Z"
+      }
+    ],
     "evan-forbes": [],
     "walldiss": [],
     "Wondertan": [],
@@ -202,5 +212,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-07-09T17:24:16.876Z"
+  "fetchedAt": "2026-07-09T18:07:04.911Z"
 }
