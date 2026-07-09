@@ -3,6 +3,15 @@
     "rootulp": [],
     "ninabarbakadze": [
       {
+        "number": 5109,
+        "title": "fix(shrex): fix number of outbound streams in shrex",
+        "url": "https://github.com/celestiaorg/celestia-node/pull/5109",
+        "repo": "celestia-node",
+        "author": "vgonkivs",
+        "reviewer": "ninabarbakadze",
+        "requestedAt": "2026-07-09T13:10:20Z"
+      },
+      {
         "number": 331,
         "title": "test: replace gofuzz with native Go fuzzing",
         "url": "https://github.com/celestiaorg/nmt/pull/331",
@@ -202,5 +211,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-07-09T12:37:09.737Z"
+  "fetchedAt": "2026-07-09T13:31:45.276Z"
 }
