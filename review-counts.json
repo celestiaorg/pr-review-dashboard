@@ -11,14 +11,14 @@
       "year": 425
     },
     "rach-id": {
-      "week": 0,
-      "month": 11,
-      "year": 571
+      "week": 2,
+      "month": 13,
+      "year": 573
     },
     "mcrakhman": {
-      "week": 0,
-      "month": 4,
-      "year": 109
+      "week": 3,
+      "month": 7,
+      "year": 112
     },
     "vgonkivs": {
       "week": 20,
@@ -61,7 +61,7 @@
       "year": 3
     }
   },
-  "computedAt": "2026-07-09T00:24:20.888Z",
+  "computedAt": "2026-07-10T00:24:34.333Z",
   "windows": {
     "weekStart": "2026-07-06T00:00:00.000Z",
     "monthStart": "2026-07-01T00:00:00.000Z",
