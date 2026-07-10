@@ -10,6 +10,15 @@
         "author": "rootulp",
         "reviewer": "ninabarbakadze",
         "requestedAt": "2026-07-02T04:23:35Z"
+      },
+      {
+        "number": 423,
+        "title": "chore(deps): Bump golang.org/x/crypto from 0.45.0 to 0.52.0",
+        "url": "https://github.com/celestiaorg/rsmt2d/pull/423",
+        "repo": "rsmt2d",
+        "author": "dependabot",
+        "reviewer": "ninabarbakadze",
+        "requestedAt": "2026-07-10T17:16:12Z"
       }
     ],
     "rach-id": [
@@ -212,5 +221,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-07-10T16:37:07.911Z"
+  "fetchedAt": "2026-07-10T17:18:07.360Z"
 }
