@@ -23,6 +23,15 @@
     ],
     "rach-id": [
       {
+        "number": 441,
+        "title": "chore: Bump golang.org/x/crypto from 0.48.0 to 0.52.0",
+        "url": "https://github.com/celestiaorg/blobstream-contracts/pull/441",
+        "repo": "blobstream-contracts",
+        "author": "dependabot",
+        "reviewer": "rach-id",
+        "requestedAt": "2026-07-10T18:23:47Z"
+      },
+      {
         "number": 7497,
         "title": "feat(fibre): maintain escrow balance client-side to avoid upload failures",
         "url": "https://github.com/celestiaorg/celestia-app/pull/7497",
@@ -221,5 +230,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-07-10T17:58:39.392Z"
+  "fetchedAt": "2026-07-10T18:36:59.015Z"
 }
