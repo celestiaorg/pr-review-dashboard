@@ -259,6 +259,60 @@
         "author": "dependabot",
         "reviewer": "vgonkivs",
         "requestedAt": "2026-07-13T09:33:29Z"
+      },
+      {
+        "number": 5115,
+        "title": "chore(deps): bump slackapi/slack-github-action from 3.0.3 to 3.0.5 in the patch-updates group",
+        "url": "https://github.com/celestiaorg/celestia-node/pull/5115",
+        "repo": "celestia-node",
+        "author": "dependabot",
+        "reviewer": "vgonkivs",
+        "requestedAt": "2026-07-13T11:03:59Z"
+      },
+      {
+        "number": 5116,
+        "title": "chore(deps): bump the patch-updates group across 1 directory with 5 updates",
+        "url": "https://github.com/celestiaorg/celestia-node/pull/5116",
+        "repo": "celestia-node",
+        "author": "dependabot",
+        "reviewer": "vgonkivs",
+        "requestedAt": "2026-07-13T11:07:25Z"
+      },
+      {
+        "number": 5117,
+        "title": "chore(deps): bump golang.org/x/crypto from 0.53.0 to 0.54.0",
+        "url": "https://github.com/celestiaorg/celestia-node/pull/5117",
+        "repo": "celestia-node",
+        "author": "dependabot",
+        "reviewer": "vgonkivs",
+        "requestedAt": "2026-07-13T11:07:35Z"
+      },
+      {
+        "number": 5118,
+        "title": "chore(deps): bump golang.org/x/sync from 0.21.0 to 0.22.0",
+        "url": "https://github.com/celestiaorg/celestia-node/pull/5118",
+        "repo": "celestia-node",
+        "author": "dependabot",
+        "reviewer": "vgonkivs",
+        "requestedAt": "2026-07-13T11:07:55Z"
+      },
+      {
+        "number": 5119,
+        "title": "chore(deps): bump golang.org/x/text from 0.38.0 to 0.40.0",
+        "url": "https://github.com/celestiaorg/celestia-node/pull/5119",
+        "repo": "celestia-node",
+        "author": "dependabot",
+        "reviewer": "vgonkivs",
+        "requestedAt": "2026-07-13T11:08:00Z"
+      },
+      {
+        "number": 5120,
+        "title": "chore(deps): bump github.com/libp2p/go-libp2p-pubsub from 0.16.0 to 0.17.0",
+        "url": "https://github.com/celestiaorg/celestia-node/pull/5120",
+        "repo": "celestia-node",
+        "author": "dependabot",
+        "reviewer": "vgonkivs",
+        "requestedAt": "2026-07-13T11:08:09Z"
       }
     ],
     "evan-forbes": [],
@@ -338,5 +392,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-07-13T10:20:25.765Z"
+  "fetchedAt": "2026-07-13T11:29:38.687Z"
 }
