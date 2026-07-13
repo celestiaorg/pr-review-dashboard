@@ -3,15 +3,6 @@
     "rootulp": [],
     "ninabarbakadze": [
       {
-        "number": 7527,
-        "title": "chore(deps): bump github/codeql-action/analyze from 4.36.3 to 4.37.0",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7527",
-        "repo": "celestia-app",
-        "author": "dependabot",
-        "reviewer": "ninabarbakadze",
-        "requestedAt": "2026-07-13T09:33:29Z"
-      },
-      {
         "number": 7531,
         "title": "chore(deps): bump actions/stale from 10.3.0 to 10.4.0",
         "url": "https://github.com/celestiaorg/celestia-app/pull/7531",
@@ -57,17 +48,7 @@
         "requestedAt": "2026-07-02T04:23:35Z"
       }
     ],
-    "rach-id": [
-      {
-        "number": 7534,
-        "title": "chore(deps): bump google.golang.org/api from 0.287.0 to 0.288.0",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7534",
-        "repo": "celestia-app",
-        "author": "dependabot",
-        "reviewer": "rach-id",
-        "requestedAt": "2026-07-13T09:35:28Z"
-      }
-    ],
+    "rach-id": [],
     "mcrakhman": [
       {
         "number": 7497,
@@ -329,5 +310,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-07-13T12:24:10.253Z"
+  "fetchedAt": "2026-07-13T13:14:53.560Z"
 }
