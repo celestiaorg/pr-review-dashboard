@@ -48,15 +48,6 @@
         "requestedAt": "2026-07-13T09:42:07Z"
       },
       {
-        "number": 3168,
-        "title": "build(deps): Bump github.com/aws/aws-sdk-go-v2/credentials from 1.19.26 to 1.19.28",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3168",
-        "repo": "celestia-core",
-        "author": "dependabot",
-        "reviewer": "ninabarbakadze",
-        "requestedAt": "2026-07-13T09:32:59Z"
-      },
-      {
         "number": 331,
         "title": "test: replace gofuzz with native Go fuzzing",
         "url": "https://github.com/celestiaorg/nmt/pull/331",
@@ -68,33 +59,6 @@
     ],
     "rach-id": [
       {
-        "number": 442,
-        "title": "chore: Bump ws from 8.19.0 to 8.21.0",
-        "url": "https://github.com/celestiaorg/blobstream-contracts/pull/442",
-        "repo": "blobstream-contracts",
-        "author": "dependabot",
-        "reviewer": "rach-id",
-        "requestedAt": "2026-07-13T04:05:25Z"
-      },
-      {
-        "number": 7497,
-        "title": "feat(fibre): maintain escrow balance client-side to avoid upload failures",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7497",
-        "repo": "celestia-app",
-        "author": "vgonkivs",
-        "reviewer": "rach-id",
-        "requestedAt": "2026-07-03T19:06:28Z"
-      },
-      {
-        "number": 7528,
-        "title": "chore(deps): bump github/codeql-action/init from 4.36.3 to 4.37.0",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7528",
-        "repo": "celestia-app",
-        "author": "dependabot",
-        "reviewer": "rach-id",
-        "requestedAt": "2026-07-13T09:33:38Z"
-      },
-      {
         "number": 7534,
         "title": "chore(deps): bump google.golang.org/api from 0.287.0 to 0.288.0",
         "url": "https://github.com/celestiaorg/celestia-app/pull/7534",
@@ -102,33 +66,6 @@
         "author": "dependabot",
         "reviewer": "rach-id",
         "requestedAt": "2026-07-13T09:35:28Z"
-      },
-      {
-        "number": 7538,
-        "title": "chore(deps): bump github.com/aws/aws-sdk-go-v2/service/ec2 from 1.312.0 to 1.316.0",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7538",
-        "repo": "celestia-app",
-        "author": "dependabot",
-        "reviewer": "rach-id",
-        "requestedAt": "2026-07-13T09:40:21Z"
-      },
-      {
-        "number": 3169,
-        "title": "build(deps): Bump github.com/grafana/pyroscope-go from 1.4.0 to 1.4.1",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3169",
-        "repo": "celestia-core",
-        "author": "dependabot",
-        "reviewer": "rach-id",
-        "requestedAt": "2026-07-13T09:33:09Z"
-      },
-      {
-        "number": 3172,
-        "title": "build(deps): Bump github.com/aws/aws-sdk-go-v2/config from 1.32.27 to 1.32.29",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3172",
-        "repo": "celestia-core",
-        "author": "dependabot",
-        "reviewer": "rach-id",
-        "requestedAt": "2026-07-13T09:34:35Z"
       }
     ],
     "mcrakhman": [
@@ -392,5 +329,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-07-13T11:29:38.687Z"
+  "fetchedAt": "2026-07-13T12:24:10.253Z"
 }
