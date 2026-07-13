@@ -161,42 +161,6 @@
         "requestedAt": "2026-07-13T09:41:57Z"
       },
       {
-        "number": 3167,
-        "title": "build(deps): Bump github.com/prometheus/common from 0.69.0 to 0.70.0",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3167",
-        "repo": "celestia-core",
-        "author": "dependabot",
-        "reviewer": "vgonkivs",
-        "requestedAt": "2026-07-13T09:31:52Z"
-      },
-      {
-        "number": 3171,
-        "title": "build(deps): Bump golang.org/x/sync from 0.21.0 to 0.22.0",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3171",
-        "repo": "celestia-core",
-        "author": "dependabot",
-        "reviewer": "vgonkivs",
-        "requestedAt": "2026-07-13T09:33:29Z"
-      },
-      {
-        "number": 5115,
-        "title": "chore(deps): bump slackapi/slack-github-action from 3.0.3 to 3.0.5 in the patch-updates group",
-        "url": "https://github.com/celestiaorg/celestia-node/pull/5115",
-        "repo": "celestia-node",
-        "author": "dependabot",
-        "reviewer": "vgonkivs",
-        "requestedAt": "2026-07-13T11:03:59Z"
-      },
-      {
-        "number": 5116,
-        "title": "chore(deps): bump the patch-updates group across 1 directory with 5 updates",
-        "url": "https://github.com/celestiaorg/celestia-node/pull/5116",
-        "repo": "celestia-node",
-        "author": "dependabot",
-        "reviewer": "vgonkivs",
-        "requestedAt": "2026-07-13T11:07:25Z"
-      },
-      {
         "number": 5117,
         "title": "chore(deps): bump golang.org/x/crypto from 0.53.0 to 0.54.0",
         "url": "https://github.com/celestiaorg/celestia-node/pull/5117",
@@ -310,5 +274,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-07-13T13:14:53.560Z"
+  "fetchedAt": "2026-07-13T14:01:51.640Z"
 }
