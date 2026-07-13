@@ -196,6 +196,15 @@
         "author": "neyy91",
         "reviewer": "vgonkivs",
         "requestedAt": "2026-07-13T17:46:21Z"
+      },
+      {
+        "number": 271,
+        "title": "chore(deps): bump golang.org/x/sync from 0.21.0 to 0.22.0",
+        "url": "https://github.com/celestiaorg/go-square/pull/271",
+        "repo": "go-square",
+        "author": "dependabot",
+        "reviewer": "vgonkivs",
+        "requestedAt": "2026-07-13T19:33:03Z"
       }
     ],
     "evan-forbes": [],
@@ -275,5 +284,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-07-13T19:25:40.683Z"
+  "fetchedAt": "2026-07-13T19:59:54.134Z"
 }
