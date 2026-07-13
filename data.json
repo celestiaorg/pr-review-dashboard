@@ -48,7 +48,17 @@
         "requestedAt": "2026-07-02T04:23:35Z"
       }
     ],
-    "rach-id": [],
+    "rach-id": [
+      {
+        "number": 7526,
+        "title": "feat: Custom IGP Hook ",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/7526",
+        "repo": "celestia-app",
+        "author": "jonas089",
+        "reviewer": "rach-id",
+        "requestedAt": "2026-07-13T14:31:43Z"
+      }
+    ],
     "mcrakhman": [
       {
         "number": 7497,
@@ -167,25 +177,7 @@
         "repo": "celestia-node",
         "author": "dependabot",
         "reviewer": "vgonkivs",
-        "requestedAt": "2026-07-13T11:07:35Z"
-      },
-      {
-        "number": 5118,
-        "title": "chore(deps): bump golang.org/x/sync from 0.21.0 to 0.22.0",
-        "url": "https://github.com/celestiaorg/celestia-node/pull/5118",
-        "repo": "celestia-node",
-        "author": "dependabot",
-        "reviewer": "vgonkivs",
-        "requestedAt": "2026-07-13T11:07:55Z"
-      },
-      {
-        "number": 5119,
-        "title": "chore(deps): bump golang.org/x/text from 0.38.0 to 0.40.0",
-        "url": "https://github.com/celestiaorg/celestia-node/pull/5119",
-        "repo": "celestia-node",
-        "author": "dependabot",
-        "reviewer": "vgonkivs",
-        "requestedAt": "2026-07-13T11:08:00Z"
+        "requestedAt": "2026-07-13T14:50:59Z"
       },
       {
         "number": 5120,
@@ -274,5 +266,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-07-13T14:01:51.640Z"
+  "fetchedAt": "2026-07-13T15:07:04.316Z"
 }
