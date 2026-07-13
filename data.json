@@ -30,15 +30,6 @@
         "author": "vgonkivs",
         "reviewer": "rach-id",
         "requestedAt": "2026-07-03T19:06:28Z"
-      },
-      {
-        "number": 7519,
-        "title": "test: add benchmark to compare fibre vs core tree implementations",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7519",
-        "repo": "celestia-app",
-        "author": "vgonkivs",
-        "reviewer": "rach-id",
-        "requestedAt": "2026-07-07T11:47:33Z"
       }
     ],
     "mcrakhman": [
@@ -158,5 +149,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-07-13T06:49:06.059Z"
+  "fetchedAt": "2026-07-13T07:56:11.386Z"
 }
