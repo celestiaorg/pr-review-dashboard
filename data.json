@@ -39,7 +39,17 @@
         "requestedAt": "2026-07-13T09:42:07Z"
       }
     ],
-    "rach-id": [],
+    "rach-id": [
+      {
+        "number": 7549,
+        "title": "fix(fibre): reject oversized RLC field before decoding",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/7549",
+        "repo": "celestia-app",
+        "author": "ninabarbakadze",
+        "reviewer": "rach-id",
+        "requestedAt": "2026-07-14T12:22:24Z"
+      }
+    ],
     "mcrakhman": [
       {
         "number": 7497,
@@ -141,6 +151,15 @@
         "author": "dependabot",
         "reviewer": "vgonkivs",
         "requestedAt": "2026-07-13T09:41:57Z"
+      },
+      {
+        "number": 7549,
+        "title": "fix(fibre): reject oversized RLC field before decoding",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/7549",
+        "repo": "celestia-app",
+        "author": "ninabarbakadze",
+        "reviewer": "vgonkivs",
+        "requestedAt": "2026-07-14T12:22:19Z"
       },
       {
         "number": 5117,
@@ -256,5 +275,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-07-14T12:14:33.379Z"
+  "fetchedAt": "2026-07-14T12:45:23.363Z"
 }
