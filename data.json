@@ -39,17 +39,7 @@
         "requestedAt": "2026-07-13T09:42:07Z"
       }
     ],
-    "rach-id": [
-      {
-        "number": 7547,
-        "title": "fix(fibre): use context.Context in BeginBlock so module is dispatched",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7547",
-        "repo": "celestia-app",
-        "author": "ninabarbakadze",
-        "reviewer": "rach-id",
-        "requestedAt": "2026-07-14T10:55:04Z"
-      }
-    ],
+    "rach-id": [],
     "mcrakhman": [
       {
         "number": 7497,
@@ -266,5 +256,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-07-14T11:10:34.807Z"
+  "fetchedAt": "2026-07-14T11:44:53.792Z"
 }
