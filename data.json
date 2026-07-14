@@ -114,15 +114,6 @@
         "author": "dependabot",
         "reviewer": "vgonkivs",
         "requestedAt": "2026-07-13T09:35:11Z"
-      },
-      {
-        "number": 5120,
-        "title": "chore(deps): bump github.com/libp2p/go-libp2p-pubsub from 0.16.0 to 0.17.0",
-        "url": "https://github.com/celestiaorg/celestia-node/pull/5120",
-        "repo": "celestia-node",
-        "author": "dependabot",
-        "reviewer": "vgonkivs",
-        "requestedAt": "2026-07-13T11:08:09Z"
       }
     ],
     "evan-forbes": [],
@@ -202,5 +193,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-07-14T15:12:56.620Z"
+  "fetchedAt": "2026-07-14T15:47:57.938Z"
 }
