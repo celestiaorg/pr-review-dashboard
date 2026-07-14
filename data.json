@@ -78,6 +78,15 @@
         "requestedAt": "2026-07-13T09:41:52Z"
       },
       {
+        "number": 7546,
+        "title": "fix(fibre): verify PP ChainID matches executing chain",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/7546",
+        "repo": "celestia-app",
+        "author": "ninabarbakadze",
+        "reviewer": "mcrakhman",
+        "requestedAt": "2026-07-14T09:59:18Z"
+      },
+      {
         "number": 3164,
         "title": "fix(mempool/cat): race between request timeout and pending-seen gap-fill causing duplicate WantTx ",
         "url": "https://github.com/celestiaorg/celestia-core/pull/3164",
@@ -256,5 +265,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-07-14T09:56:36.950Z"
+  "fetchedAt": "2026-07-14T10:35:03.630Z"
 }
