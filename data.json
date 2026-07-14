@@ -78,15 +78,6 @@
         "requestedAt": "2026-07-13T09:41:52Z"
       },
       {
-        "number": 7550,
-        "title": "fix(app): PrepareProposal must match Core's protobuf byte accounting",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7550",
-        "repo": "celestia-app",
-        "author": "ninabarbakadze",
-        "reviewer": "mcrakhman",
-        "requestedAt": "2026-07-14T14:05:45Z"
-      },
-      {
         "number": 3164,
         "title": "fix(mempool/cat): race between request timeout and pending-seen gap-fill causing duplicate WantTx ",
         "url": "https://github.com/celestiaorg/celestia-core/pull/3164",
@@ -211,5 +202,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-07-14T14:41:46.720Z"
+  "fetchedAt": "2026-07-14T15:12:56.620Z"
 }
