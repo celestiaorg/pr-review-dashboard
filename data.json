@@ -18,7 +18,7 @@
         "repo": "celestia-app",
         "author": "dependabot",
         "reviewer": "ninabarbakadze",
-        "requestedAt": "2026-07-13T09:35:19Z"
+        "requestedAt": "2026-07-14T14:26:24Z"
       },
       {
         "number": 7537,
@@ -76,6 +76,15 @@
         "author": "dependabot",
         "reviewer": "mcrakhman",
         "requestedAt": "2026-07-13T09:41:52Z"
+      },
+      {
+        "number": 7550,
+        "title": "fix(app): PrepareProposal must match Core's protobuf byte accounting",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/7550",
+        "repo": "celestia-app",
+        "author": "ninabarbakadze",
+        "reviewer": "mcrakhman",
+        "requestedAt": "2026-07-14T14:05:45Z"
       },
       {
         "number": 3164,
@@ -202,5 +211,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-07-14T14:01:47.618Z"
+  "fetchedAt": "2026-07-14T14:41:46.720Z"
 }
