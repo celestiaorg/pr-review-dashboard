@@ -39,7 +39,17 @@
         "requestedAt": "2026-07-13T09:42:07Z"
       }
     ],
-    "rach-id": [],
+    "rach-id": [
+      {
+        "number": 7547,
+        "title": "fix(fibre): use context.Context in BeginBlock so module is dispatched",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/7547",
+        "repo": "celestia-app",
+        "author": "ninabarbakadze",
+        "reviewer": "rach-id",
+        "requestedAt": "2026-07-14T10:55:04Z"
+      }
+    ],
     "mcrakhman": [
       {
         "number": 7497,
@@ -76,15 +86,6 @@
         "author": "dependabot",
         "reviewer": "mcrakhman",
         "requestedAt": "2026-07-13T09:41:52Z"
-      },
-      {
-        "number": 7546,
-        "title": "fix(fibre): verify PP ChainID matches executing chain",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7546",
-        "repo": "celestia-app",
-        "author": "ninabarbakadze",
-        "reviewer": "mcrakhman",
-        "requestedAt": "2026-07-14T09:59:18Z"
       },
       {
         "number": 3164,
@@ -265,5 +266,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-07-14T10:35:03.630Z"
+  "fetchedAt": "2026-07-14T11:10:34.807Z"
 }
