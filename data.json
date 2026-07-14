@@ -39,17 +39,7 @@
         "requestedAt": "2026-07-13T09:42:07Z"
       }
     ],
-    "rach-id": [
-      {
-        "number": 7549,
-        "title": "fix(fibre): reject oversized RLC field before decoding",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7549",
-        "repo": "celestia-app",
-        "author": "ninabarbakadze",
-        "reviewer": "rach-id",
-        "requestedAt": "2026-07-14T12:22:24Z"
-      }
-    ],
+    "rach-id": [],
     "mcrakhman": [
       {
         "number": 7497,
@@ -153,22 +143,13 @@
         "requestedAt": "2026-07-13T09:41:57Z"
       },
       {
-        "number": 7549,
-        "title": "fix(fibre): reject oversized RLC field before decoding",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7549",
-        "repo": "celestia-app",
-        "author": "ninabarbakadze",
-        "reviewer": "vgonkivs",
-        "requestedAt": "2026-07-14T12:22:19Z"
-      },
-      {
-        "number": 5117,
-        "title": "chore(deps): bump golang.org/x/crypto from 0.53.0 to 0.54.0",
-        "url": "https://github.com/celestiaorg/celestia-node/pull/5117",
+        "number": 5119,
+        "title": "chore(deps): bump golang.org/x/text from 0.38.0 to 0.40.0",
+        "url": "https://github.com/celestiaorg/celestia-node/pull/5119",
         "repo": "celestia-node",
         "author": "dependabot",
         "reviewer": "vgonkivs",
-        "requestedAt": "2026-07-13T14:50:59Z"
+        "requestedAt": "2026-07-14T13:14:51Z"
       },
       {
         "number": 5120,
@@ -275,5 +256,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-07-14T12:45:23.363Z"
+  "fetchedAt": "2026-07-14T13:16:47.103Z"
 }
