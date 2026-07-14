@@ -37,28 +37,9 @@
         "author": "dependabot",
         "reviewer": "ninabarbakadze",
         "requestedAt": "2026-07-13T09:42:07Z"
-      },
-      {
-        "number": 331,
-        "title": "test: replace gofuzz with native Go fuzzing",
-        "url": "https://github.com/celestiaorg/nmt/pull/331",
-        "repo": "nmt",
-        "author": "rootulp",
-        "reviewer": "ninabarbakadze",
-        "requestedAt": "2026-07-02T04:23:35Z"
       }
     ],
-    "rach-id": [
-      {
-        "number": 7526,
-        "title": "feat: Custom IGP Hook ",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7526",
-        "repo": "celestia-app",
-        "author": "jonas089",
-        "reviewer": "rach-id",
-        "requestedAt": "2026-07-13T14:31:43Z"
-      }
-    ],
+    "rach-id": [],
     "mcrakhman": [
       {
         "number": 7497,
@@ -122,15 +103,6 @@
         "author": "dependabot",
         "reviewer": "mcrakhman",
         "requestedAt": "2026-07-13T09:33:20Z"
-      },
-      {
-        "number": 3173,
-        "title": "build(deps): Bump golang.org/x/crypto from 0.53.0 to 0.54.0",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3173",
-        "repo": "celestia-core",
-        "author": "dependabot",
-        "reviewer": "mcrakhman",
-        "requestedAt": "2026-07-13T09:34:42Z"
       }
     ],
     "vgonkivs": [
@@ -284,5 +256,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-07-14T08:25:17.370Z"
+  "fetchedAt": "2026-07-14T09:12:34.535Z"
 }
