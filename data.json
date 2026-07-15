@@ -42,15 +42,6 @@
     "rach-id": [],
     "mcrakhman": [
       {
-        "number": 7497,
-        "title": "feat(fibre): maintain escrow balance client-side to avoid upload failures",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7497",
-        "repo": "celestia-app",
-        "author": "vgonkivs",
-        "reviewer": "mcrakhman",
-        "requestedAt": "2026-07-01T09:37:33Z"
-      },
-      {
         "number": 7529,
         "title": "chore(deps): bump slackapi/slack-github-action from 3.0.3 to 3.0.5",
         "url": "https://github.com/celestiaorg/celestia-app/pull/7529",
@@ -183,5 +174,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-07-15T10:07:22.294Z"
+  "fetchedAt": "2026-07-15T10:48:42.135Z"
 }
