@@ -94,6 +94,15 @@
         "author": "dependabot",
         "reviewer": "mcrakhman",
         "requestedAt": "2026-07-13T09:33:20Z"
+      },
+      {
+        "number": 5113,
+        "title": "feat(api): add gauge to track active ws connections",
+        "url": "https://github.com/celestiaorg/celestia-node/pull/5113",
+        "repo": "celestia-node",
+        "author": "vgonkivs",
+        "reviewer": "mcrakhman",
+        "requestedAt": "2026-07-15T12:45:18Z"
       }
     ],
     "vgonkivs": [],
@@ -174,5 +183,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-07-15T12:32:23.918Z"
+  "fetchedAt": "2026-07-15T12:59:34.055Z"
 }
