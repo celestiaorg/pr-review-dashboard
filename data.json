@@ -37,15 +37,6 @@
         "author": "dependabot",
         "reviewer": "ninabarbakadze",
         "requestedAt": "2026-07-13T09:42:07Z"
-      },
-      {
-        "number": 7551,
-        "title": "fix(zkism): update docker-e2e testdata to SP1 v6 fixtures",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7551",
-        "repo": "celestia-app",
-        "author": "jonas089",
-        "reviewer": "ninabarbakadze",
-        "requestedAt": "2026-07-15T11:32:01Z"
       }
     ],
     "rach-id": [],
@@ -183,5 +174,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-07-15T11:56:21.363Z"
+  "fetchedAt": "2026-07-15T12:32:23.918Z"
 }
