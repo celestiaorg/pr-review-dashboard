@@ -96,7 +96,17 @@
         "requestedAt": "2026-07-13T09:33:20Z"
       }
     ],
-    "vgonkivs": [],
+    "vgonkivs": [
+      {
+        "number": 424,
+        "title": "chore(deps): Bump actions/setup-go from 6 to 7",
+        "url": "https://github.com/celestiaorg/rsmt2d/pull/424",
+        "repo": "rsmt2d",
+        "author": "dependabot",
+        "reviewer": "vgonkivs",
+        "requestedAt": "2026-07-16T15:52:37Z"
+      }
+    ],
     "evan-forbes": [],
     "walldiss": [],
     "Wondertan": [],
@@ -184,5 +194,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-07-16T15:44:25.188Z"
+  "fetchedAt": "2026-07-16T16:14:25.505Z"
 }
