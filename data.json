@@ -37,15 +37,6 @@
         "author": "dependabot",
         "reviewer": "ninabarbakadze",
         "requestedAt": "2026-07-13T09:42:07Z"
-      },
-      {
-        "number": 5122,
-        "title": "chore: explicitly request a review from renaynay on every PR",
-        "url": "https://github.com/celestiaorg/celestia-node/pull/5122",
-        "repo": "celestia-node",
-        "author": "vgonkivs",
-        "reviewer": "ninabarbakadze",
-        "requestedAt": "2026-07-16T14:51:09Z"
       }
     ],
     "rach-id": [],
@@ -193,5 +184,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-07-16T15:06:44.443Z"
+  "fetchedAt": "2026-07-16T15:44:25.188Z"
 }
