@@ -37,6 +37,15 @@
         "author": "dependabot",
         "reviewer": "ninabarbakadze",
         "requestedAt": "2026-07-13T09:42:07Z"
+      },
+      {
+        "number": 333,
+        "title": "chore(deps): bump actions/setup-go from 6 to 7",
+        "url": "https://github.com/celestiaorg/nmt/pull/333",
+        "repo": "nmt",
+        "author": "dependabot",
+        "reviewer": "ninabarbakadze",
+        "requestedAt": "2026-07-16T21:03:04Z"
       }
     ],
     "rach-id": [],
@@ -203,5 +212,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-07-16T20:51:59.785Z"
+  "fetchedAt": "2026-07-16T21:17:10.979Z"
 }
