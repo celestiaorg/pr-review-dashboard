@@ -37,6 +37,15 @@
         "author": "dependabot",
         "reviewer": "ninabarbakadze",
         "requestedAt": "2026-07-13T09:42:07Z"
+      },
+      {
+        "number": 5122,
+        "title": "chore: explicitly request a review from renaynay on every PR",
+        "url": "https://github.com/celestiaorg/celestia-node/pull/5122",
+        "repo": "celestia-node",
+        "author": "vgonkivs",
+        "reviewer": "ninabarbakadze",
+        "requestedAt": "2026-07-16T14:51:09Z"
       }
     ],
     "rach-id": [],
@@ -102,7 +111,17 @@
     "Wondertan": [],
     "tty47": [],
     "pippokr": [],
-    "renaynay": [],
+    "renaynay": [
+      {
+        "number": 394,
+        "title": "feat!(sync): support contiguous partial ranges from getter",
+        "url": "https://github.com/celestiaorg/go-header/pull/394",
+        "repo": "go-header",
+        "author": "vgonkivs",
+        "reviewer": "renaynay",
+        "requestedAt": "2026-07-16T14:49:20Z"
+      }
+    ],
     "chatton": []
   },
   "teamMembers": [
@@ -174,5 +193,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-07-16T14:20:09.358Z"
+  "fetchedAt": "2026-07-16T15:06:44.443Z"
 }
