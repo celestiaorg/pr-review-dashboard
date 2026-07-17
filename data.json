@@ -85,15 +85,6 @@
         "author": "dependabot",
         "reviewer": "mcrakhman",
         "requestedAt": "2026-07-13T09:31:26Z"
-      },
-      {
-        "number": 3175,
-        "title": "feat(rpc/grpc): add time and catching-up to height events",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3175",
-        "repo": "celestia-core",
-        "author": "NikhilSharmaWe",
-        "reviewer": "mcrakhman",
-        "requestedAt": "2026-07-16T18:42:19Z"
       }
     ],
     "vgonkivs": [
@@ -203,5 +194,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-07-17T15:57:06.185Z"
+  "fetchedAt": "2026-07-17T16:30:16.367Z"
 }
