@@ -39,26 +39,7 @@
         "requestedAt": "2026-07-17T14:40:18Z"
       }
     ],
-    "rach-id": [
-      {
-        "number": 7555,
-        "title": "fix(fibre): reject non canonical proof segment lengths",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7555",
-        "repo": "celestia-app",
-        "author": "ninabarbakadze",
-        "reviewer": "rach-id",
-        "requestedAt": "2026-07-17T14:14:46Z"
-      },
-      {
-        "number": 7556,
-        "title": "fix(fibre): reject future dated PP creation timestamp",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7556",
-        "repo": "celestia-app",
-        "author": "ninabarbakadze",
-        "reviewer": "rach-id",
-        "requestedAt": "2026-07-17T14:32:27Z"
-      }
-    ],
+    "rach-id": [],
     "mcrakhman": [
       {
         "number": 7535,
@@ -222,5 +203,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-07-17T15:23:52.419Z"
+  "fetchedAt": "2026-07-17T15:57:06.185Z"
 }
