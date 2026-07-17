@@ -3,15 +3,6 @@
     "rootulp": [],
     "ninabarbakadze": [
       {
-        "number": 7531,
-        "title": "chore(deps): bump actions/stale from 10.3.0 to 10.4.0",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7531",
-        "repo": "celestia-app",
-        "author": "dependabot",
-        "reviewer": "ninabarbakadze",
-        "requestedAt": "2026-07-13T09:33:53Z"
-      },
-      {
         "number": 7533,
         "title": "chore(deps): bump github.com/aws/aws-sdk-go-v2/config from 1.32.28 to 1.32.30",
         "url": "https://github.com/celestiaorg/celestia-app/pull/7533",
@@ -21,31 +12,31 @@
         "requestedAt": "2026-07-14T14:26:24Z"
       },
       {
+        "number": 7535,
+        "title": "chore(deps): bump github.com/aws/aws-sdk-go-v2/feature/s3/transfermanager from 0.2.13 to 0.3.3",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/7535",
+        "repo": "celestia-app",
+        "author": "dependabot",
+        "reviewer": "ninabarbakadze",
+        "requestedAt": "2026-07-17T14:52:13Z"
+      },
+      {
         "number": 7537,
         "title": "chore(deps): bump golang.org/x/crypto from 0.53.0 to 0.54.0",
         "url": "https://github.com/celestiaorg/celestia-app/pull/7537",
         "repo": "celestia-app",
         "author": "dependabot",
         "reviewer": "ninabarbakadze",
-        "requestedAt": "2026-07-13T09:38:52Z"
+        "requestedAt": "2026-07-17T14:29:59Z"
       },
       {
-        "number": 7541,
-        "title": "chore(deps): bump github.com/digitalocean/godo from 1.197.0 to 1.198.0",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7541",
+        "number": 7539,
+        "title": "chore(deps): bump github.com/aws/aws-sdk-go-v2/service/s3 from 1.104.2 to 1.105.0",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/7539",
         "repo": "celestia-app",
         "author": "dependabot",
         "reviewer": "ninabarbakadze",
-        "requestedAt": "2026-07-13T09:42:07Z"
-      },
-      {
-        "number": 333,
-        "title": "chore(deps): bump actions/setup-go from 6 to 7",
-        "url": "https://github.com/celestiaorg/nmt/pull/333",
-        "repo": "nmt",
-        "author": "dependabot",
-        "reviewer": "ninabarbakadze",
-        "requestedAt": "2026-07-16T21:03:04Z"
+        "requestedAt": "2026-07-17T14:40:18Z"
       }
     ],
     "rach-id": [
@@ -57,21 +48,21 @@
         "author": "ninabarbakadze",
         "reviewer": "rach-id",
         "requestedAt": "2026-07-17T14:14:46Z"
+      },
+      {
+        "number": 7556,
+        "title": "fix(fibre): reject future dated PP creation timestamp",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/7556",
+        "repo": "celestia-app",
+        "author": "ninabarbakadze",
+        "reviewer": "rach-id",
+        "requestedAt": "2026-07-17T14:32:27Z"
       }
     ],
     "mcrakhman": [
       {
-        "number": 7529,
-        "title": "chore(deps): bump slackapi/slack-github-action from 3.0.3 to 3.0.5",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7529",
-        "repo": "celestia-app",
-        "author": "dependabot",
-        "reviewer": "mcrakhman",
-        "requestedAt": "2026-07-13T09:33:41Z"
-      },
-      {
         "number": 7535,
-        "title": "chore(deps): bump github.com/aws/aws-sdk-go-v2/feature/s3/transfermanager from 0.2.13 to 0.3.2",
+        "title": "chore(deps): bump github.com/aws/aws-sdk-go-v2/feature/s3/transfermanager from 0.2.13 to 0.3.3",
         "url": "https://github.com/celestiaorg/celestia-app/pull/7535",
         "repo": "celestia-app",
         "author": "dependabot",
@@ -86,6 +77,15 @@
         "author": "dependabot",
         "reviewer": "mcrakhman",
         "requestedAt": "2026-07-13T09:41:52Z"
+      },
+      {
+        "number": 7557,
+        "title": "fix(fibre): reject indexwrapper encoded fibre txs",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/7557",
+        "repo": "celestia-app",
+        "author": "ninabarbakadze",
+        "reviewer": "mcrakhman",
+        "requestedAt": "2026-07-17T14:51:21Z"
       },
       {
         "number": 3164,
@@ -106,15 +106,6 @@
         "requestedAt": "2026-07-13T09:31:26Z"
       },
       {
-        "number": 3170,
-        "title": "build(deps): Bump golang.org/x/net from 0.56.0 to 0.57.0",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3170",
-        "repo": "celestia-core",
-        "author": "dependabot",
-        "reviewer": "mcrakhman",
-        "requestedAt": "2026-07-13T09:33:20Z"
-      },
-      {
         "number": 3175,
         "title": "feat(rpc/grpc): add time and catching-up to height events",
         "url": "https://github.com/celestiaorg/celestia-core/pull/3175",
@@ -125,6 +116,15 @@
       }
     ],
     "vgonkivs": [
+      {
+        "number": 7556,
+        "title": "fix(fibre): reject future dated PP creation timestamp",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/7556",
+        "repo": "celestia-app",
+        "author": "ninabarbakadze",
+        "reviewer": "vgonkivs",
+        "requestedAt": "2026-07-17T14:32:23Z"
+      },
       {
         "number": 424,
         "title": "chore(deps): Bump actions/setup-go from 6 to 7",
@@ -222,5 +222,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-07-17T14:16:34.955Z"
+  "fetchedAt": "2026-07-17T14:53:31.967Z"
 }
