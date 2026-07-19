@@ -116,6 +116,15 @@
         "requestedAt": "2026-07-19T04:53:56Z"
       },
       {
+        "number": 5124,
+        "title": "nodebuilder/rpc: Make maxConcurrentConns configurable",
+        "url": "https://github.com/celestiaorg/celestia-node/pull/5124",
+        "repo": "celestia-node",
+        "author": "mohsenm4",
+        "reviewer": "vgonkivs",
+        "requestedAt": "2026-07-19T06:48:07Z"
+      },
+      {
         "number": 424,
         "title": "chore(deps): Bump actions/setup-go from 6 to 7",
         "url": "https://github.com/celestiaorg/rsmt2d/pull/424",
@@ -212,5 +221,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-07-19T06:44:17.665Z"
+  "fetchedAt": "2026-07-19T07:35:51.126Z"
 }
