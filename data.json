@@ -37,6 +37,15 @@
         "author": "dependabot",
         "reviewer": "ninabarbakadze",
         "requestedAt": "2026-07-17T14:40:18Z"
+      },
+      {
+        "number": 3176,
+        "title": "feat(privval): add remote KMS signing latency metrics and warnings",
+        "url": "https://github.com/celestiaorg/celestia-core/pull/3176",
+        "repo": "celestia-core",
+        "author": "NikhilSharmaWe",
+        "reviewer": "ninabarbakadze",
+        "requestedAt": "2026-07-19T05:34:17Z"
       }
     ],
     "rach-id": [],
@@ -96,6 +105,15 @@
         "author": "ninabarbakadze",
         "reviewer": "vgonkivs",
         "requestedAt": "2026-07-17T14:32:23Z"
+      },
+      {
+        "number": 5123,
+        "title": "feat(share/shrex): abort in-flight request on parent context cancel",
+        "url": "https://github.com/celestiaorg/celestia-node/pull/5123",
+        "repo": "celestia-node",
+        "author": "mohsenm4",
+        "reviewer": "vgonkivs",
+        "requestedAt": "2026-07-19T04:53:56Z"
       },
       {
         "number": 424,
@@ -194,5 +212,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-07-19T04:49:15.110Z"
+  "fetchedAt": "2026-07-19T05:51:19.710Z"
 }
