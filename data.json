@@ -57,17 +57,7 @@
         "requestedAt": "2026-07-19T05:34:17Z"
       }
     ],
-    "rach-id": [
-      {
-        "number": 3151,
-        "title": "refactor!: remove the logic for batched txs in cat and config",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3151",
-        "repo": "celestia-core",
-        "author": "ninabarbakadze",
-        "reviewer": "rach-id",
-        "requestedAt": "2026-07-20T10:52:18Z"
-      }
-    ],
+    "rach-id": [],
     "mcrakhman": [
       {
         "number": 7539,
@@ -126,15 +116,6 @@
     ],
     "vgonkivs": [
       {
-        "number": 7570,
-        "title": "chore(deps): bump github.com/grafana/pyroscope-go from 1.4.0 to 1.4.1",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7570",
-        "repo": "celestia-app",
-        "author": "dependabot",
-        "reviewer": "vgonkivs",
-        "requestedAt": "2026-07-20T09:40:40Z"
-      },
-      {
         "number": 5124,
         "title": "nodebuilder/rpc: Make maxConcurrentConns configurable",
         "url": "https://github.com/celestiaorg/celestia-node/pull/5124",
@@ -151,15 +132,6 @@
         "author": "dependabot",
         "reviewer": "vgonkivs",
         "requestedAt": "2026-07-20T11:06:58Z"
-      },
-      {
-        "number": 5130,
-        "title": "chore(deps): bump github.com/multiformats/go-multiaddr-dns from 0.5.0 to 0.6.0",
-        "url": "https://github.com/celestiaorg/celestia-node/pull/5130",
-        "repo": "celestia-node",
-        "author": "dependabot",
-        "reviewer": "vgonkivs",
-        "requestedAt": "2026-07-20T11:07:25Z"
       }
     ],
     "evan-forbes": [],
@@ -239,5 +211,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-07-20T13:10:36.903Z"
+  "fetchedAt": "2026-07-20T13:54:33.646Z"
 }
