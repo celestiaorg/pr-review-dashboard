@@ -132,6 +132,15 @@
         "author": "dependabot",
         "reviewer": "vgonkivs",
         "requestedAt": "2026-07-20T11:06:58Z"
+      },
+      {
+        "number": 5131,
+        "title": "chore: Add script to ensure dependabot PRs run go mod tidy on tastora go.mod",
+        "url": "https://github.com/celestiaorg/celestia-node/pull/5131",
+        "repo": "celestia-node",
+        "author": "renaynay",
+        "reviewer": "vgonkivs",
+        "requestedAt": "2026-07-20T14:25:30Z"
       }
     ],
     "evan-forbes": [],
@@ -211,5 +220,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-07-20T13:54:33.646Z"
+  "fetchedAt": "2026-07-20T14:42:44.325Z"
 }
