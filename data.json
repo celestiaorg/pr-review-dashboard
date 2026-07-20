@@ -55,18 +55,19 @@
         "author": "NikhilSharmaWe",
         "reviewer": "ninabarbakadze",
         "requestedAt": "2026-07-19T05:34:17Z"
-      },
-      {
-        "number": 3180,
-        "title": "build(deps): Bump github.com/aws/aws-sdk-go-v2/service/s3 from 1.105.0 to 1.105.2",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3180",
-        "repo": "celestia-core",
-        "author": "dependabot",
-        "reviewer": "ninabarbakadze",
-        "requestedAt": "2026-07-20T09:32:36Z"
       }
     ],
-    "rach-id": [],
+    "rach-id": [
+      {
+        "number": 3151,
+        "title": "refactor!: remove the logic for batched txs in cat and config",
+        "url": "https://github.com/celestiaorg/celestia-core/pull/3151",
+        "repo": "celestia-core",
+        "author": "ninabarbakadze",
+        "reviewer": "rach-id",
+        "requestedAt": "2026-07-20T10:52:18Z"
+      }
+    ],
     "mcrakhman": [
       {
         "number": 7539,
@@ -121,15 +122,6 @@
         "author": "ninabarbakadze",
         "reviewer": "mcrakhman",
         "requestedAt": "2026-07-06T16:11:01Z"
-      },
-      {
-        "number": 3179,
-        "title": "build(deps): Bump google.golang.org/grpc from 1.82.0 to 1.82.1",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3179",
-        "repo": "celestia-core",
-        "author": "dependabot",
-        "reviewer": "mcrakhman",
-        "requestedAt": "2026-07-20T09:31:28Z"
       }
     ],
     "vgonkivs": [
@@ -159,6 +151,60 @@
         "author": "mohsenm4",
         "reviewer": "vgonkivs",
         "requestedAt": "2026-07-19T06:48:07Z"
+      },
+      {
+        "number": 5125,
+        "title": "chore(deps): bump actions/setup-go from 6 to 7",
+        "url": "https://github.com/celestiaorg/celestia-node/pull/5125",
+        "repo": "celestia-node",
+        "author": "dependabot",
+        "reviewer": "vgonkivs",
+        "requestedAt": "2026-07-20T11:03:54Z"
+      },
+      {
+        "number": 5126,
+        "title": "chore(deps): bump slackapi/slack-github-action from 3.0.5 to 4.0.0",
+        "url": "https://github.com/celestiaorg/celestia-node/pull/5126",
+        "repo": "celestia-node",
+        "author": "dependabot",
+        "reviewer": "vgonkivs",
+        "requestedAt": "2026-07-20T11:04:00Z"
+      },
+      {
+        "number": 5127,
+        "title": "chore(deps): bump actions/setup-node from 6 to 7",
+        "url": "https://github.com/celestiaorg/celestia-node/pull/5127",
+        "repo": "celestia-node",
+        "author": "dependabot",
+        "reviewer": "vgonkivs",
+        "requestedAt": "2026-07-20T11:04:03Z"
+      },
+      {
+        "number": 5128,
+        "title": "chore(deps): bump the patch-updates group across 2 directories with 1 update",
+        "url": "https://github.com/celestiaorg/celestia-node/pull/5128",
+        "repo": "celestia-node",
+        "author": "dependabot",
+        "reviewer": "vgonkivs",
+        "requestedAt": "2026-07-20T11:06:51Z"
+      },
+      {
+        "number": 5129,
+        "title": "chore(deps): bump github.com/libp2p/go-libp2p-kad-dht from 0.41.0 to 0.42.0",
+        "url": "https://github.com/celestiaorg/celestia-node/pull/5129",
+        "repo": "celestia-node",
+        "author": "dependabot",
+        "reviewer": "vgonkivs",
+        "requestedAt": "2026-07-20T11:06:58Z"
+      },
+      {
+        "number": 5130,
+        "title": "chore(deps): bump github.com/multiformats/go-multiaddr-dns from 0.5.0 to 0.6.0",
+        "url": "https://github.com/celestiaorg/celestia-node/pull/5130",
+        "repo": "celestia-node",
+        "author": "dependabot",
+        "reviewer": "vgonkivs",
+        "requestedAt": "2026-07-20T11:07:25Z"
       }
     ],
     "evan-forbes": [],
@@ -166,17 +212,7 @@
     "Wondertan": [],
     "tty47": [],
     "pippokr": [],
-    "renaynay": [
-      {
-        "number": 394,
-        "title": "feat!(sync): support contiguous partial ranges from getter",
-        "url": "https://github.com/celestiaorg/go-header/pull/394",
-        "repo": "go-header",
-        "author": "vgonkivs",
-        "reviewer": "renaynay",
-        "requestedAt": "2026-07-16T14:49:20Z"
-      }
-    ],
+    "renaynay": [],
     "chatton": []
   },
   "teamMembers": [
@@ -248,5 +284,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-07-20T10:34:14.248Z"
+  "fetchedAt": "2026-07-20T11:31:10.286Z"
 }
