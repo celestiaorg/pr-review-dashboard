@@ -126,15 +126,6 @@
     ],
     "vgonkivs": [
       {
-        "number": 7566,
-        "title": "chore(deps): bump github.com/digitalocean/godo from 1.198.0 to 1.199.0",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7566",
-        "repo": "celestia-app",
-        "author": "dependabot",
-        "reviewer": "vgonkivs",
-        "requestedAt": "2026-07-20T09:36:22Z"
-      },
-      {
         "number": 7570,
         "title": "chore(deps): bump github.com/grafana/pyroscope-go from 1.4.0 to 1.4.1",
         "url": "https://github.com/celestiaorg/celestia-app/pull/7570",
@@ -151,42 +142,6 @@
         "author": "mohsenm4",
         "reviewer": "vgonkivs",
         "requestedAt": "2026-07-19T06:48:07Z"
-      },
-      {
-        "number": 5125,
-        "title": "chore(deps): bump actions/setup-go from 6 to 7",
-        "url": "https://github.com/celestiaorg/celestia-node/pull/5125",
-        "repo": "celestia-node",
-        "author": "dependabot",
-        "reviewer": "vgonkivs",
-        "requestedAt": "2026-07-20T11:03:54Z"
-      },
-      {
-        "number": 5126,
-        "title": "chore(deps): bump slackapi/slack-github-action from 3.0.5 to 4.0.0",
-        "url": "https://github.com/celestiaorg/celestia-node/pull/5126",
-        "repo": "celestia-node",
-        "author": "dependabot",
-        "reviewer": "vgonkivs",
-        "requestedAt": "2026-07-20T11:04:00Z"
-      },
-      {
-        "number": 5127,
-        "title": "chore(deps): bump actions/setup-node from 6 to 7",
-        "url": "https://github.com/celestiaorg/celestia-node/pull/5127",
-        "repo": "celestia-node",
-        "author": "dependabot",
-        "reviewer": "vgonkivs",
-        "requestedAt": "2026-07-20T11:04:03Z"
-      },
-      {
-        "number": 5128,
-        "title": "chore(deps): bump the patch-updates group across 2 directories with 1 update",
-        "url": "https://github.com/celestiaorg/celestia-node/pull/5128",
-        "repo": "celestia-node",
-        "author": "dependabot",
-        "reviewer": "vgonkivs",
-        "requestedAt": "2026-07-20T11:06:51Z"
       },
       {
         "number": 5129,
@@ -284,5 +239,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-07-20T12:22:42.863Z"
+  "fetchedAt": "2026-07-20T13:10:36.903Z"
 }
