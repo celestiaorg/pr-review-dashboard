@@ -117,15 +117,6 @@
         "requestedAt": "2026-07-20T11:06:58Z"
       },
       {
-        "number": 5131,
-        "title": "chore: Add script to ensure dependabot PRs run go mod tidy on tastora go.mod",
-        "url": "https://github.com/celestiaorg/celestia-node/pull/5131",
-        "repo": "celestia-node",
-        "author": "renaynay",
-        "reviewer": "vgonkivs",
-        "requestedAt": "2026-07-20T14:25:30Z"
-      },
-      {
         "number": 5132,
         "title": "node: Add JWT auth token revocation",
         "url": "https://github.com/celestiaorg/celestia-node/pull/5132",
@@ -222,5 +213,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-07-21T14:27:48.359Z"
+  "fetchedAt": "2026-07-21T15:14:19.818Z"
 }
