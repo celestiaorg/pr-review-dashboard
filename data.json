@@ -21,6 +21,15 @@
         "requestedAt": "2026-07-21T09:12:41Z"
       },
       {
+        "number": 7564,
+        "title": "chore(deps): bump github.com/aws/aws-sdk-go-v2/feature/s3/transfermanager from 0.2.13 to 0.3.4",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/7564",
+        "repo": "celestia-app",
+        "author": "dependabot",
+        "reviewer": "ninabarbakadze",
+        "requestedAt": "2026-07-21T11:26:04Z"
+      },
+      {
         "number": 3176,
         "title": "feat(privval): add remote KMS signing latency metrics and warnings",
         "url": "https://github.com/celestiaorg/celestia-core/pull/3176",
@@ -49,15 +58,6 @@
         "author": "ninabarbakadze",
         "reviewer": "mcrakhman",
         "requestedAt": "2026-07-17T14:51:21Z"
-      },
-      {
-        "number": 7561,
-        "title": "chore(deps): bump actions/setup-go from 6 to 7",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7561",
-        "repo": "celestia-app",
-        "author": "dependabot",
-        "reviewer": "mcrakhman",
-        "requestedAt": "2026-07-20T09:33:17Z"
       },
       {
         "number": 7564,
@@ -193,5 +193,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-07-21T11:12:48.703Z"
+  "fetchedAt": "2026-07-21T11:54:28.642Z"
 }
