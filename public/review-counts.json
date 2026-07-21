@@ -6,14 +6,14 @@
       "year": 403
     },
     "ninabarbakadze": {
-      "week": 0,
-      "month": 28,
-      "year": 441
+      "week": 2,
+      "month": 30,
+      "year": 443
     },
     "rach-id": {
-      "week": 0,
-      "month": 45,
-      "year": 605
+      "week": 5,
+      "month": 50,
+      "year": 610
     },
     "mcrakhman": {
       "week": 0,
@@ -21,9 +21,9 @@
       "year": 112
     },
     "vgonkivs": {
-      "week": 0,
-      "month": 44,
-      "year": 163
+      "week": 11,
+      "month": 55,
+      "year": 174
     },
     "evan-forbes": {
       "week": 0,
@@ -51,9 +51,9 @@
       "year": 0
     },
     "renaynay": {
-      "week": 0,
-      "month": 4,
-      "year": 28
+      "week": 1,
+      "month": 5,
+      "year": 29
     },
     "chatton": {
       "week": 0,
@@ -61,7 +61,7 @@
       "year": 3
     }
   },
-  "computedAt": "2026-07-20T00:20:59.803Z",
+  "computedAt": "2026-07-21T00:20:31.768Z",
   "windows": {
     "weekStart": "2026-07-20T00:00:00.000Z",
     "monthStart": "2026-07-01T00:00:00.000Z",
