@@ -39,7 +39,17 @@
         "requestedAt": "2026-07-19T05:34:17Z"
       }
     ],
-    "rach-id": [],
+    "rach-id": [
+      {
+        "number": 7571,
+        "title": "docs: add ADR 029 Fibre upload rate limiting",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/7571",
+        "repo": "celestia-app",
+        "author": "vgonkivs",
+        "reviewer": "rach-id",
+        "requestedAt": "2026-07-21T13:42:13Z"
+      }
+    ],
     "mcrakhman": [
       {
         "number": 7539,
@@ -67,6 +77,15 @@
         "author": "dependabot",
         "reviewer": "mcrakhman",
         "requestedAt": "2026-07-20T09:34:43Z"
+      },
+      {
+        "number": 7571,
+        "title": "docs: add ADR 029 Fibre upload rate limiting",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/7571",
+        "repo": "celestia-app",
+        "author": "vgonkivs",
+        "reviewer": "mcrakhman",
+        "requestedAt": "2026-07-21T13:42:13Z"
       },
       {
         "number": 272,
@@ -117,7 +136,17 @@
       }
     ],
     "evan-forbes": [],
-    "walldiss": [],
+    "walldiss": [
+      {
+        "number": 7571,
+        "title": "docs: add ADR 029 Fibre upload rate limiting",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/7571",
+        "repo": "celestia-app",
+        "author": "vgonkivs",
+        "reviewer": "walldiss",
+        "requestedAt": "2026-07-21T13:42:13Z"
+      }
+    ],
     "Wondertan": [],
     "tty47": [],
     "pippokr": [],
@@ -193,5 +222,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-07-21T13:40:20.368Z"
+  "fetchedAt": "2026-07-21T14:27:48.359Z"
 }
