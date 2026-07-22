@@ -39,17 +39,7 @@
         "requestedAt": "2026-07-19T05:34:17Z"
       }
     ],
-    "rach-id": [
-      {
-        "number": 401,
-        "title": "fix(sync): harden syncer lifecycle",
-        "url": "https://github.com/celestiaorg/go-header/pull/401",
-        "repo": "go-header",
-        "author": "codermaybe",
-        "reviewer": "rach-id",
-        "requestedAt": "2026-07-21T18:22:36Z"
-      }
-    ],
+    "rach-id": [],
     "mcrakhman": [
       {
         "number": 7539,
@@ -213,5 +203,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-07-22T05:37:09.460Z"
+  "fetchedAt": "2026-07-22T06:32:20.551Z"
 }
