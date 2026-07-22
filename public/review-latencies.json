@@ -19,36 +19,36 @@
     },
     "ninabarbakadze": {
       "week": {
-        "n": 1,
-        "medianHours": 1.3488888888888888,
-        "p90Hours": 1.3488888888888888
+        "n": 5,
+        "medianHours": 23.14388888888889,
+        "p90Hours": 90.1975
       },
       "month": {
-        "n": 17,
-        "medianHours": 17.398333333333333,
-        "p90Hours": 292.035
+        "n": 21,
+        "medianHours": 23.14388888888889,
+        "p90Hours": 100.8425
       },
       "year": {
-        "n": 286,
-        "medianHours": 8.264722222222222,
-        "p90Hours": 57.84777777777778
+        "n": 290,
+        "medianHours": 8.477222222222222,
+        "p90Hours": 60.69166666666667
       }
     },
     "rach-id": {
       "week": {
-        "n": 5,
-        "medianHours": 0.5880555555555556,
-        "p90Hours": 0.62
+        "n": 6,
+        "medianHours": 0.5927777777777777,
+        "p90Hours": 1.5966666666666667
       },
       "month": {
-        "n": 37,
-        "medianHours": 1.4636111111111112,
+        "n": 38,
+        "medianHours": 1.5966666666666667,
         "p90Hours": 29.038611111111113
       },
       "year": {
-        "n": 446,
-        "medianHours": 1.7861111111111112,
-        "p90Hours": 30.56138888888889
+        "n": 447,
+        "medianHours": 1.745,
+        "p90Hours": 29.308333333333334
       }
     },
     "mcrakhman": {
@@ -70,18 +70,18 @@
     },
     "vgonkivs": {
       "week": {
-        "n": 11,
-        "medianHours": 1.6472222222222221,
-        "p90Hours": 3.593888888888889
+        "n": 12,
+        "medianHours": 1.6555555555555554,
+        "p90Hours": 24.345555555555556
       },
       "month": {
-        "n": 44,
+        "n": 45,
         "medianHours": 3.593888888888889,
         "p90Hours": 28.238888888888887
       },
       "year": {
-        "n": 123,
-        "medianHours": 9.37,
+        "n": 124,
+        "medianHours": 9.5025,
         "p90Hours": 166.09166666666667
       }
     },
@@ -270,7 +270,7 @@
       "defaultHidden": false
     }
   ],
-  "computedAt": "2026-07-21T00:21:43.466Z",
+  "computedAt": "2026-07-22T00:20:12.611Z",
   "windows": {
     "weekStart": "2026-07-20T00:00:00.000Z",
     "monthStart": "2026-07-01T00:00:00.000Z",
