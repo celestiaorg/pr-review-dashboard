@@ -89,6 +89,15 @@
     ],
     "vgonkivs": [
       {
+        "number": 7572,
+        "title": "fix(deps): bump cosmos-sdk to v0.52.8 on v8.x",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/7572",
+        "repo": "celestia-app",
+        "author": "NikhilSharmaWe",
+        "reviewer": "vgonkivs",
+        "requestedAt": "2026-07-22T06:52:24Z"
+      },
+      {
         "number": 5124,
         "title": "nodebuilder/rpc: Make maxConcurrentConns configurable",
         "url": "https://github.com/celestiaorg/celestia-node/pull/5124",
@@ -203,5 +212,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-07-22T06:32:20.551Z"
+  "fetchedAt": "2026-07-22T07:28:09.404Z"
 }
