@@ -3,31 +3,13 @@
     "rootulp": [],
     "ninabarbakadze": [
       {
-        "number": 7537,
-        "title": "chore(deps): bump golang.org/x/crypto from 0.53.0 to 0.54.0",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7537",
+        "number": 7574,
+        "title": "chore(deps): bump google.golang.org/grpc from 1.82.0 to 1.82.1",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/7574",
         "repo": "celestia-app",
         "author": "dependabot",
         "reviewer": "ninabarbakadze",
-        "requestedAt": "2026-07-21T11:10:26Z"
-      },
-      {
-        "number": 7539,
-        "title": "chore(deps): bump github.com/aws/aws-sdk-go-v2/service/s3 from 1.104.2 to 1.105.0",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7539",
-        "repo": "celestia-app",
-        "author": "dependabot",
-        "reviewer": "ninabarbakadze",
-        "requestedAt": "2026-07-21T09:12:41Z"
-      },
-      {
-        "number": 7564,
-        "title": "chore(deps): bump github.com/aws/aws-sdk-go-v2/feature/s3/transfermanager from 0.2.13 to 0.3.4",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7564",
-        "repo": "celestia-app",
-        "author": "dependabot",
-        "reviewer": "ninabarbakadze",
-        "requestedAt": "2026-07-21T11:26:04Z"
+        "requestedAt": "2026-07-22T09:13:45Z"
       },
       {
         "number": 3176,
@@ -58,15 +40,6 @@
         "author": "ninabarbakadze",
         "reviewer": "mcrakhman",
         "requestedAt": "2026-07-17T14:51:21Z"
-      },
-      {
-        "number": 7564,
-        "title": "chore(deps): bump github.com/aws/aws-sdk-go-v2/feature/s3/transfermanager from 0.2.13 to 0.3.4",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7564",
-        "repo": "celestia-app",
-        "author": "dependabot",
-        "reviewer": "mcrakhman",
-        "requestedAt": "2026-07-20T09:34:43Z"
       },
       {
         "number": 7571,
@@ -221,5 +194,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-07-22T08:20:31.839Z"
+  "fetchedAt": "2026-07-22T09:15:06.023Z"
 }
