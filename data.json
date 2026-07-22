@@ -78,6 +78,15 @@
         "requestedAt": "2026-07-21T13:42:13Z"
       },
       {
+        "number": 7573,
+        "title": "fix(deps): bump cosmos-sdk to v0.52.8 on v7.x",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/7573",
+        "repo": "celestia-app",
+        "author": "NikhilSharmaWe",
+        "reviewer": "mcrakhman",
+        "requestedAt": "2026-07-22T07:29:14Z"
+      },
+      {
         "number": 272,
         "title": "chore(deps): bump actions/setup-node from 6 to 7",
         "url": "https://github.com/celestiaorg/go-square/pull/272",
@@ -212,5 +221,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-07-22T07:28:09.404Z"
+  "fetchedAt": "2026-07-22T08:20:31.839Z"
 }
