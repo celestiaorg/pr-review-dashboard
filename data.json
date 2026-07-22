@@ -90,6 +90,15 @@
         "requestedAt": "2026-07-22T06:52:24Z"
       },
       {
+        "number": 4738,
+        "title": "fix(core): Return partial response for headers if one fails",
+        "url": "https://github.com/celestiaorg/celestia-node/pull/4738",
+        "repo": "celestia-node",
+        "author": "renaynay",
+        "reviewer": "vgonkivs",
+        "requestedAt": "2025-12-12T13:47:27Z"
+      },
+      {
         "number": 5124,
         "title": "nodebuilder/rpc: Make maxConcurrentConns configurable",
         "url": "https://github.com/celestiaorg/celestia-node/pull/5124",
@@ -129,7 +138,17 @@
         "requestedAt": "2026-07-21T13:42:13Z"
       }
     ],
-    "Wondertan": [],
+    "Wondertan": [
+      {
+        "number": 4738,
+        "title": "fix(core): Return partial response for headers if one fails",
+        "url": "https://github.com/celestiaorg/celestia-node/pull/4738",
+        "repo": "celestia-node",
+        "author": "renaynay",
+        "reviewer": "Wondertan",
+        "requestedAt": "2025-12-12T13:47:27Z"
+      }
+    ],
     "tty47": [],
     "pippokr": [],
     "renaynay": [],
@@ -204,5 +223,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-07-22T17:38:26.867Z"
+  "fetchedAt": "2026-07-22T18:05:27.511Z"
 }
