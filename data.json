@@ -3,15 +3,6 @@
     "rootulp": [],
     "ninabarbakadze": [
       {
-        "number": 7539,
-        "title": "chore(deps): bump github.com/aws/aws-sdk-go-v2/service/s3 from 1.104.2 to 1.105.0",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7539",
-        "repo": "celestia-app",
-        "author": "dependabot",
-        "reviewer": "ninabarbakadze",
-        "requestedAt": "2026-07-23T11:15:16Z"
-      },
-      {
         "number": 3176,
         "title": "feat(privval): add remote KMS signing latency metrics and warnings",
         "url": "https://github.com/celestiaorg/celestia-core/pull/3176",
@@ -21,26 +12,18 @@
         "requestedAt": "2026-07-19T05:34:17Z"
       }
     ],
-    "rach-id": [],
-    "mcrakhman": [
+    "rach-id": [
       {
-        "number": 7539,
-        "title": "chore(deps): bump github.com/aws/aws-sdk-go-v2/service/s3 from 1.104.2 to 1.105.0",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7539",
-        "repo": "celestia-app",
-        "author": "dependabot",
-        "reviewer": "mcrakhman",
-        "requestedAt": "2026-07-13T09:41:52Z"
-      },
-      {
-        "number": 7557,
-        "title": "fix(fibre): reject indexwrapper encoded fibre txs",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7557",
+        "number": 7576,
+        "title": "fix: index wrapper should only decode PFBs",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/7576",
         "repo": "celestia-app",
         "author": "ninabarbakadze",
-        "reviewer": "mcrakhman",
-        "requestedAt": "2026-07-17T14:51:21Z"
-      },
+        "reviewer": "rach-id",
+        "requestedAt": "2026-07-23T13:47:56Z"
+      }
+    ],
+    "mcrakhman": [
       {
         "number": 7571,
         "title": "docs: add ADR 029 Fibre upload rate limiting",
@@ -49,6 +32,15 @@
         "author": "vgonkivs",
         "reviewer": "mcrakhman",
         "requestedAt": "2026-07-21T13:42:13Z"
+      },
+      {
+        "number": 7576,
+        "title": "fix: index wrapper should only decode PFBs",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/7576",
+        "repo": "celestia-app",
+        "author": "ninabarbakadze",
+        "reviewer": "mcrakhman",
+        "requestedAt": "2026-07-23T13:46:04Z"
       },
       {
         "number": 272,
@@ -204,5 +196,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-07-23T13:27:22.248Z"
+  "fetchedAt": "2026-07-23T14:17:28.748Z"
 }
