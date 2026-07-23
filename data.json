@@ -23,13 +23,13 @@
     ],
     "rach-id": [
       {
-        "number": 742,
-        "title": "refactor: make msgs run ante first and execution after",
-        "url": "https://github.com/celestiaorg/cosmos-sdk/pull/742",
-        "repo": "cosmos-sdk",
-        "author": "ninabarbakadze",
+        "number": 7573,
+        "title": "fix(deps): bump cosmos-sdk to v0.52.8 on v7.x",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/7573",
+        "repo": "celestia-app",
+        "author": "NikhilSharmaWe",
         "reviewer": "rach-id",
-        "requestedAt": "2026-07-22T17:02:41Z"
+        "requestedAt": "2026-07-23T09:56:21Z"
       }
     ],
     "mcrakhman": [
@@ -61,15 +61,6 @@
         "requestedAt": "2026-07-21T13:42:13Z"
       },
       {
-        "number": 7573,
-        "title": "fix(deps): bump cosmos-sdk to v0.52.8 on v7.x",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7573",
-        "repo": "celestia-app",
-        "author": "NikhilSharmaWe",
-        "reviewer": "mcrakhman",
-        "requestedAt": "2026-07-22T07:29:14Z"
-      },
-      {
         "number": 272,
         "title": "chore(deps): bump actions/setup-node from 6 to 7",
         "url": "https://github.com/celestiaorg/go-square/pull/272",
@@ -80,15 +71,6 @@
       }
     ],
     "vgonkivs": [
-      {
-        "number": 7572,
-        "title": "fix(deps): bump cosmos-sdk to v0.52.8 on v8.x",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7572",
-        "repo": "celestia-app",
-        "author": "NikhilSharmaWe",
-        "reviewer": "vgonkivs",
-        "requestedAt": "2026-07-22T06:52:24Z"
-      },
       {
         "number": 3185,
         "title": "test: re-enable TestReactorInvalidMessages",
@@ -232,5 +214,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-07-23T09:25:40.891Z"
+  "fetchedAt": "2026-07-23T10:16:48.370Z"
 }
