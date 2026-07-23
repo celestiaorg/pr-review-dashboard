@@ -21,17 +21,7 @@
         "requestedAt": "2026-07-19T05:34:17Z"
       }
     ],
-    "rach-id": [
-      {
-        "number": 7573,
-        "title": "fix(deps): bump cosmos-sdk to v0.52.8 on v7.x",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7573",
-        "repo": "celestia-app",
-        "author": "NikhilSharmaWe",
-        "reviewer": "rach-id",
-        "requestedAt": "2026-07-23T09:56:21Z"
-      }
-    ],
+    "rach-id": [],
     "mcrakhman": [
       {
         "number": 7539,
@@ -214,5 +204,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-07-23T12:17:04.589Z"
+  "fetchedAt": "2026-07-23T12:52:08.635Z"
 }
