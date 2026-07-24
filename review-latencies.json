@@ -19,35 +19,35 @@
     },
     "ninabarbakadze": {
       "week": {
-        "n": 6,
+        "n": 7,
         "medianHours": 23.14388888888889,
         "p90Hours": 90.1975
       },
       "month": {
-        "n": 22,
+        "n": 23,
         "medianHours": 23.14388888888889,
         "p90Hours": 100.8425
       },
       "year": {
-        "n": 291,
-        "medianHours": 8.477222222222222,
+        "n": 292,
+        "medianHours": 8.699444444444444,
         "p90Hours": 57.84777777777778
       }
     },
     "rach-id": {
       "week": {
-        "n": 6,
-        "medianHours": 0.5927777777777777,
-        "p90Hours": 1.5966666666666667
+        "n": 10,
+        "medianHours": 0.62,
+        "p90Hours": 16.51
       },
       "month": {
-        "n": 38,
+        "n": 42,
         "medianHours": 1.5966666666666667,
-        "p90Hours": 29.038611111111113
+        "p90Hours": 18.379444444444445
       },
       "year": {
-        "n": 447,
-        "medianHours": 1.745,
+        "n": 452,
+        "medianHours": 1.7861111111111112,
         "p90Hours": 29.308333333333334
       }
     },
@@ -270,7 +270,7 @@
       "defaultHidden": false
     }
   ],
-  "computedAt": "2026-07-23T00:21:59.337Z",
+  "computedAt": "2026-07-24T00:20:34.028Z",
   "windows": {
     "weekStart": "2026-07-20T00:00:00.000Z",
     "monthStart": "2026-07-01T00:00:00.000Z",
