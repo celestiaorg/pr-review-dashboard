@@ -14,13 +14,13 @@
         "requestedAt": "2026-07-21T13:42:13Z"
       },
       {
-        "number": 7576,
-        "title": "fix!: index wrapper should only decode PFBs",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7576",
-        "repo": "celestia-app",
-        "author": "ninabarbakadze",
+        "number": 5133,
+        "title": "test(tastora): add missing tastora tests",
+        "url": "https://github.com/celestiaorg/celestia-node/pull/5133",
+        "repo": "celestia-node",
+        "author": "vgonkivs",
         "reviewer": "mcrakhman",
-        "requestedAt": "2026-07-23T13:46:04Z"
+        "requestedAt": "2026-07-24T11:26:00Z"
       },
       {
         "number": 272,
@@ -95,7 +95,17 @@
     ],
     "tty47": [],
     "pippokr": [],
-    "renaynay": [],
+    "renaynay": [
+      {
+        "number": 5133,
+        "title": "test(tastora): add missing tastora tests",
+        "url": "https://github.com/celestiaorg/celestia-node/pull/5133",
+        "repo": "celestia-node",
+        "author": "vgonkivs",
+        "reviewer": "renaynay",
+        "requestedAt": "2026-07-24T11:26:00Z"
+      }
+    ],
     "chatton": []
   },
   "teamMembers": [
@@ -167,5 +177,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-07-24T10:51:12.123Z"
+  "fetchedAt": "2026-07-24T11:27:09.351Z"
 }
