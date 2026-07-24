@@ -2,17 +2,7 @@
   "reviews": {
     "rootulp": [],
     "ninabarbakadze": [],
-    "rach-id": [
-      {
-        "number": 7576,
-        "title": "fix!: index wrapper should only decode PFBs",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7576",
-        "repo": "celestia-app",
-        "author": "ninabarbakadze",
-        "reviewer": "rach-id",
-        "requestedAt": "2026-07-24T08:22:16Z"
-      }
-    ],
+    "rach-id": [],
     "mcrakhman": [
       {
         "number": 7571,
@@ -177,5 +167,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-07-24T10:07:28.924Z"
+  "fetchedAt": "2026-07-24T10:51:12.123Z"
 }
