@@ -34,6 +34,15 @@
     ],
     "vgonkivs": [
       {
+        "number": 7577,
+        "title": "feat(fibre): release fibre server binaries with goreleaser",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/7577",
+        "repo": "celestia-app",
+        "author": "rach-id",
+        "reviewer": "vgonkivs",
+        "requestedAt": "2026-07-25T08:49:46Z"
+      },
+      {
         "number": 4738,
         "title": "fix(core): Return partial response for headers if one fails",
         "url": "https://github.com/celestiaorg/celestia-node/pull/4738",
@@ -177,5 +186,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-07-25T08:16:35.344Z"
+  "fetchedAt": "2026-07-25T09:02:03.471Z"
 }
