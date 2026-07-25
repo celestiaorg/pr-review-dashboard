@@ -1,7 +1,17 @@
 {
   "reviews": {
     "rootulp": [],
-    "ninabarbakadze": [],
+    "ninabarbakadze": [
+      {
+        "number": 7579,
+        "title": "fix(fibre): unique available withdrawal index",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/7579",
+        "repo": "celestia-app",
+        "author": "NikhilSharmaWe",
+        "reviewer": "ninabarbakadze",
+        "requestedAt": "2026-07-25T18:31:47Z"
+      }
+    ],
     "rach-id": [],
     "mcrakhman": [
       {
@@ -186,5 +196,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-07-25T18:28:18.907Z"
+  "fetchedAt": "2026-07-25T18:51:51.721Z"
 }
