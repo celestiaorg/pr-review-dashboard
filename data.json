@@ -14,15 +14,6 @@
         "requestedAt": "2026-07-21T13:42:13Z"
       },
       {
-        "number": 7578,
-        "title": "fix(fibre): process withdrawals atomically with bank send",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7578",
-        "repo": "celestia-app",
-        "author": "NikhilSharmaWe",
-        "reviewer": "mcrakhman",
-        "requestedAt": "2026-07-25T12:57:16Z"
-      },
-      {
         "number": 5133,
         "title": "test(tastora): add missing tastora tests",
         "url": "https://github.com/celestiaorg/celestia-node/pull/5133",
@@ -195,5 +186,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-07-25T14:14:30.851Z"
+  "fetchedAt": "2026-07-25T14:45:04.320Z"
 }
