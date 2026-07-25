@@ -1,0 +1,200 @@
+{
+  "reviews": {
+    "rootulp": [],
+    "ninabarbakadze": [
+      {
+        "number": 7579,
+        "title": "fix(fibre): unique available withdrawal index",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/7579",
+        "repo": "celestia-app",
+        "author": "NikhilSharmaWe",
+        "reviewer": "ninabarbakadze",
+        "requestedAt": "2026-07-25T18:31:47Z"
+      }
+    ],
+    "rach-id": [],
+    "mcrakhman": [
+      {
+        "number": 7571,
+        "title": "docs: add ADR 029 Fibre upload rate limiting",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/7571",
+        "repo": "celestia-app",
+        "author": "vgonkivs",
+        "reviewer": "mcrakhman",
+        "requestedAt": "2026-07-21T13:42:13Z"
+      },
+      {
+        "number": 5133,
+        "title": "test(tastora): add missing tastora tests",
+        "url": "https://github.com/celestiaorg/celestia-node/pull/5133",
+        "repo": "celestia-node",
+        "author": "vgonkivs",
+        "reviewer": "mcrakhman",
+        "requestedAt": "2026-07-24T11:26:00Z"
+      },
+      {
+        "number": 272,
+        "title": "chore(deps): bump actions/setup-node from 6 to 7",
+        "url": "https://github.com/celestiaorg/go-square/pull/272",
+        "repo": "go-square",
+        "author": "dependabot",
+        "reviewer": "mcrakhman",
+        "requestedAt": "2026-07-20T19:32:56Z"
+      }
+    ],
+    "vgonkivs": [
+      {
+        "number": 7577,
+        "title": "feat(fibre): release fibre server binaries with goreleaser",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/7577",
+        "repo": "celestia-app",
+        "author": "rach-id",
+        "reviewer": "vgonkivs",
+        "requestedAt": "2026-07-25T08:49:46Z"
+      },
+      {
+        "number": 4738,
+        "title": "fix(core): Return partial response for headers if one fails",
+        "url": "https://github.com/celestiaorg/celestia-node/pull/4738",
+        "repo": "celestia-node",
+        "author": "renaynay",
+        "reviewer": "vgonkivs",
+        "requestedAt": "2025-12-12T13:47:27Z"
+      },
+      {
+        "number": 5124,
+        "title": "nodebuilder/rpc: Make maxConcurrentConns configurable",
+        "url": "https://github.com/celestiaorg/celestia-node/pull/5124",
+        "repo": "celestia-node",
+        "author": "mohsenm4",
+        "reviewer": "vgonkivs",
+        "requestedAt": "2026-07-19T06:48:07Z"
+      },
+      {
+        "number": 5129,
+        "title": "chore(deps): bump github.com/libp2p/go-libp2p-kad-dht from 0.41.0 to 0.42.0",
+        "url": "https://github.com/celestiaorg/celestia-node/pull/5129",
+        "repo": "celestia-node",
+        "author": "dependabot",
+        "reviewer": "vgonkivs",
+        "requestedAt": "2026-07-20T11:06:58Z"
+      },
+      {
+        "number": 5132,
+        "title": "node: Add JWT auth token revocation",
+        "url": "https://github.com/celestiaorg/celestia-node/pull/5132",
+        "repo": "celestia-node",
+        "author": "mohsenm4",
+        "reviewer": "vgonkivs",
+        "requestedAt": "2026-07-20T20:03:15Z"
+      }
+    ],
+    "evan-forbes": [],
+    "walldiss": [
+      {
+        "number": 7571,
+        "title": "docs: add ADR 029 Fibre upload rate limiting",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/7571",
+        "repo": "celestia-app",
+        "author": "vgonkivs",
+        "reviewer": "walldiss",
+        "requestedAt": "2026-07-21T13:42:13Z"
+      }
+    ],
+    "Wondertan": [
+      {
+        "number": 4738,
+        "title": "fix(core): Return partial response for headers if one fails",
+        "url": "https://github.com/celestiaorg/celestia-node/pull/4738",
+        "repo": "celestia-node",
+        "author": "renaynay",
+        "reviewer": "Wondertan",
+        "requestedAt": "2025-12-12T13:47:27Z"
+      }
+    ],
+    "tty47": [],
+    "pippokr": [],
+    "renaynay": [
+      {
+        "number": 5133,
+        "title": "test(tastora): add missing tastora tests",
+        "url": "https://github.com/celestiaorg/celestia-node/pull/5133",
+        "repo": "celestia-node",
+        "author": "vgonkivs",
+        "reviewer": "renaynay",
+        "requestedAt": "2026-07-24T11:26:00Z"
+      }
+    ],
+    "chatton": []
+  },
+  "teamMembers": [
+    {
+      "name": "Rootul",
+      "github": "rootulp",
+      "defaultHidden": false
+    },
+    {
+      "name": "Nina",
+      "github": "ninabarbakadze",
+      "defaultHidden": false
+    },
+    {
+      "name": "Rachid",
+      "github": "rach-id",
+      "defaultHidden": false
+    },
+    {
+      "name": "Mikhail",
+      "github": "mcrakhman",
+      "defaultHidden": false
+    },
+    {
+      "name": "Slava",
+      "github": "vgonkivs",
+      "defaultHidden": false
+    },
+    {
+      "name": "Evan",
+      "github": "evan-forbes",
+      "defaultHidden": true,
+      "alumni": true
+    },
+    {
+      "name": "Vlad",
+      "github": "walldiss",
+      "defaultHidden": true,
+      "alumni": true
+    },
+    {
+      "name": "Hlib",
+      "github": "Wondertan",
+      "defaultHidden": true,
+      "alumni": true
+    },
+    {
+      "name": "Jose",
+      "github": "tty47",
+      "defaultHidden": false
+    },
+    {
+      "name": "Cris",
+      "github": "pippokr",
+      "defaultHidden": false
+    },
+    {
+      "name": "Rene",
+      "github": "renaynay",
+      "defaultHidden": false
+    },
+    {
+      "name": "Cian",
+      "github": "chatton",
+      "defaultHidden": false
+    }
+  ],
+  "thresholds": {
+    "greenMaxHours": 12,
+    "yellowMaxHours": 24
+  },
+  "fetchedAt": "2026-07-25T20:51:45.217Z"
+}
