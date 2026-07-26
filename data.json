@@ -12,7 +12,17 @@
         "requestedAt": "2026-07-25T18:31:47Z"
       }
     ],
-    "rach-id": [],
+    "rach-id": [
+      {
+        "number": 3186,
+        "title": "test(rpc/grpc): deduplicate streaming tests",
+        "url": "https://github.com/celestiaorg/celestia-core/pull/3186",
+        "repo": "celestia-core",
+        "author": "vigneshakaviki",
+        "reviewer": "rach-id",
+        "requestedAt": "2026-07-26T16:07:44Z"
+      }
+    ],
     "mcrakhman": [
       {
         "number": 7571,
@@ -214,5 +224,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-07-26T15:43:47.169Z"
+  "fetchedAt": "2026-07-26T16:10:06.466Z"
 }
