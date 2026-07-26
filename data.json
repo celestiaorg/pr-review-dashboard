@@ -53,6 +53,15 @@
         "requestedAt": "2026-07-25T08:49:46Z"
       },
       {
+        "number": 7580,
+        "title": "fix(minfee): export params in ExportGenesis",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/7580",
+        "repo": "celestia-app",
+        "author": "rach-id",
+        "reviewer": "vgonkivs",
+        "requestedAt": "2026-07-26T08:39:00Z"
+      },
+      {
         "number": 4738,
         "title": "fix(core): Return partial response for headers if one fails",
         "url": "https://github.com/celestiaorg/celestia-node/pull/4738",
@@ -205,5 +214,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-07-26T07:57:13.006Z"
+  "fetchedAt": "2026-07-26T08:52:33.548Z"
 }
