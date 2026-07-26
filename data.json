@@ -87,6 +87,15 @@
         "author": "mohsenm4",
         "reviewer": "vgonkivs",
         "requestedAt": "2026-07-20T20:03:15Z"
+      },
+      {
+        "number": 5134,
+        "title": "docgen: put auth header in openrpc method examples",
+        "url": "https://github.com/celestiaorg/celestia-node/pull/5134",
+        "repo": "celestia-node",
+        "author": "mohsenm4",
+        "reviewer": "vgonkivs",
+        "requestedAt": "2026-07-26T06:44:47Z"
       }
     ],
     "evan-forbes": [],
@@ -196,5 +205,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-07-26T06:10:28.628Z"
+  "fetchedAt": "2026-07-26T07:10:17.121Z"
 }
