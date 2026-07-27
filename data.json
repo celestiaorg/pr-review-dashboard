@@ -3,15 +3,6 @@
     "rootulp": [],
     "ninabarbakadze": [
       {
-        "number": 7586,
-        "title": "chore(deps): bump github.com/aws/aws-sdk-go-v2/service/s3 from 1.105.2 to 1.106.0",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7586",
-        "repo": "celestia-app",
-        "author": "dependabot",
-        "reviewer": "ninabarbakadze",
-        "requestedAt": "2026-07-27T09:34:01Z"
-      },
-      {
         "number": 3190,
         "title": "build(deps): Bump github.com/prometheus/common from 0.70.0 to 0.70.1",
         "url": "https://github.com/celestiaorg/celestia-core/pull/3190",
@@ -241,6 +232,42 @@
         "author": "mohsenm4",
         "reviewer": "vgonkivs",
         "requestedAt": "2026-07-26T06:44:47Z"
+      },
+      {
+        "number": 5135,
+        "title": "chore(deps): bump actions/setup-go from 6 to 7",
+        "url": "https://github.com/celestiaorg/celestia-node/pull/5135",
+        "repo": "celestia-node",
+        "author": "dependabot",
+        "reviewer": "vgonkivs",
+        "requestedAt": "2026-07-27T11:04:10Z"
+      },
+      {
+        "number": 5136,
+        "title": "chore(deps): bump the patch-updates group across 1 directory with 3 updates",
+        "url": "https://github.com/celestiaorg/celestia-node/pull/5136",
+        "repo": "celestia-node",
+        "author": "dependabot",
+        "reviewer": "vgonkivs",
+        "requestedAt": "2026-07-27T11:06:24Z"
+      },
+      {
+        "number": 5137,
+        "title": "chore(deps): bump github.com/prometheus/client_golang from 1.23.2 to 1.24.1",
+        "url": "https://github.com/celestiaorg/celestia-node/pull/5137",
+        "repo": "celestia-node",
+        "author": "dependabot",
+        "reviewer": "vgonkivs",
+        "requestedAt": "2026-07-27T11:06:47Z"
+      },
+      {
+        "number": 5138,
+        "title": "chore(deps): bump go.opentelemetry.io/proto/otlp from 1.10.0 to 1.11.0",
+        "url": "https://github.com/celestiaorg/celestia-node/pull/5138",
+        "repo": "celestia-node",
+        "author": "dependabot",
+        "reviewer": "vgonkivs",
+        "requestedAt": "2026-07-27T11:06:57Z"
       }
     ],
     "evan-forbes": [],
@@ -350,5 +377,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-07-27T10:12:38.887Z"
+  "fetchedAt": "2026-07-27T11:25:48.184Z"
 }
