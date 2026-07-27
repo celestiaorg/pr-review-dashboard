@@ -69,6 +69,15 @@
         "requestedAt": "2026-07-24T11:26:00Z"
       },
       {
+        "number": 745,
+        "title": "fix: abort in-flight snapshots on Close",
+        "url": "https://github.com/celestiaorg/cosmos-sdk/pull/745",
+        "repo": "cosmos-sdk",
+        "author": "NikhilSharmaWe",
+        "reviewer": "mcrakhman",
+        "requestedAt": "2026-07-27T18:40:36Z"
+      },
+      {
         "number": 272,
         "title": "chore(deps): bump actions/setup-node from 6 to 7",
         "url": "https://github.com/celestiaorg/go-square/pull/272",
@@ -340,5 +349,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-07-27T18:17:08.355Z"
+  "fetchedAt": "2026-07-27T18:51:10.334Z"
 }
