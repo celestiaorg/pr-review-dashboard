@@ -30,17 +30,7 @@
         "requestedAt": "2026-07-27T09:40:17Z"
       }
     ],
-    "rach-id": [
-      {
-        "number": 7598,
-        "title": "test(fibre): add missing e2e tests",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7598",
-        "repo": "celestia-app",
-        "author": "vgonkivs",
-        "reviewer": "rach-id",
-        "requestedAt": "2026-07-27T09:52:25Z"
-      }
-    ],
+    "rach-id": [],
     "mcrakhman": [
       {
         "number": 7571,
@@ -187,15 +177,6 @@
         "author": "dependabot",
         "reviewer": "vgonkivs",
         "requestedAt": "2026-07-27T09:30:26Z"
-      },
-      {
-        "number": 4738,
-        "title": "fix(core): Return partial response for headers if one fails",
-        "url": "https://github.com/celestiaorg/celestia-node/pull/4738",
-        "repo": "celestia-node",
-        "author": "renaynay",
-        "reviewer": "vgonkivs",
-        "requestedAt": "2025-12-12T13:47:27Z"
       },
       {
         "number": 5124,
@@ -377,5 +358,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-07-27T11:25:48.184Z"
+  "fetchedAt": "2026-07-27T12:37:32.737Z"
 }
