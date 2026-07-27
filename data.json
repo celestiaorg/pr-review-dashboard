@@ -3,22 +3,13 @@
     "rootulp": [],
     "ninabarbakadze": [
       {
-        "number": 3192,
-        "title": "build(deps): Bump github.com/aws/aws-sdk-go-v2/config from 1.32.30 to 1.32.31",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3192",
-        "repo": "celestia-core",
-        "author": "dependabot",
+        "number": 7580,
+        "title": "fix(minfee): export params in ExportGenesis",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/7580",
+        "repo": "celestia-app",
+        "author": "rach-id",
         "reviewer": "ninabarbakadze",
-        "requestedAt": "2026-07-27T09:38:51Z"
-      },
-      {
-        "number": 3193,
-        "title": "build(deps): Bump github.com/aws/aws-sdk-go-v2/credentials from 1.19.29 to 1.19.30",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3193",
-        "repo": "celestia-core",
-        "author": "dependabot",
-        "reviewer": "ninabarbakadze",
-        "requestedAt": "2026-07-27T09:40:17Z"
+        "requestedAt": "2026-07-27T16:51:44Z"
       }
     ],
     "rach-id": [],
@@ -349,5 +340,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-07-27T16:22:44.721Z"
+  "fetchedAt": "2026-07-27T17:05:40.995Z"
 }
