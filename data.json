@@ -3,15 +3,6 @@
     "rootulp": [],
     "ninabarbakadze": [
       {
-        "number": 3190,
-        "title": "build(deps): Bump github.com/prometheus/common from 0.70.0 to 0.70.1",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3190",
-        "repo": "celestia-core",
-        "author": "dependabot",
-        "reviewer": "ninabarbakadze",
-        "requestedAt": "2026-07-27T09:35:57Z"
-      },
-      {
         "number": 3192,
         "title": "build(deps): Bump github.com/aws/aws-sdk-go-v2/config from 1.32.30 to 1.32.31",
         "url": "https://github.com/celestiaorg/celestia-core/pull/3192",
@@ -358,5 +349,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-07-27T15:30:31.936Z"
+  "fetchedAt": "2026-07-27T16:22:44.721Z"
 }
