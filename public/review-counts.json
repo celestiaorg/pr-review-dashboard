@@ -6,12 +6,12 @@
       "year": 403
     },
     "ninabarbakadze": {
-      "week": 11,
+      "week": 0,
       "month": 39,
       "year": 452
     },
     "rach-id": {
-      "week": 13,
+      "week": 0,
       "month": 58,
       "year": 618
     },
@@ -21,7 +21,7 @@
       "year": 112
     },
     "vgonkivs": {
-      "week": 15,
+      "week": 0,
       "month": 59,
       "year": 178
     },
@@ -36,7 +36,7 @@
       "year": 121
     },
     "Wondertan": {
-      "week": 1,
+      "week": 0,
       "month": 2,
       "year": 85
     },
@@ -51,7 +51,7 @@
       "year": 0
     },
     "renaynay": {
-      "week": 1,
+      "week": 0,
       "month": 5,
       "year": 29
     },
@@ -61,9 +61,9 @@
       "year": 3
     }
   },
-  "computedAt": "2026-07-26T00:21:57.774Z",
+  "computedAt": "2026-07-27T00:21:38.771Z",
   "windows": {
-    "weekStart": "2026-07-20T00:00:00.000Z",
+    "weekStart": "2026-07-27T00:00:00.000Z",
     "monthStart": "2026-07-01T00:00:00.000Z",
     "yearStart": "2026-01-01T00:00:00.000Z"
   }
