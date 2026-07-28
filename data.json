@@ -1,7 +1,17 @@
 {
   "reviews": {
     "rootulp": [],
-    "ninabarbakadze": [],
+    "ninabarbakadze": [
+      {
+        "number": 7600,
+        "title": "fix: export account for slashing and pay rewards in zero-height export",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/7600",
+        "repo": "celestia-app",
+        "author": "rach-id",
+        "reviewer": "ninabarbakadze",
+        "requestedAt": "2026-07-28T09:44:03Z"
+      }
+    ],
     "rach-id": [],
     "mcrakhman": [
       {
@@ -12,15 +22,6 @@
         "author": "vgonkivs",
         "reviewer": "mcrakhman",
         "requestedAt": "2026-07-21T13:42:13Z"
-      },
-      {
-        "number": 7582,
-        "title": "feat(fibre)!: add min/max bounds for payment promise timeout and shard retention",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7582",
-        "repo": "celestia-app",
-        "author": "rach-id",
-        "reviewer": "mcrakhman",
-        "requestedAt": "2026-07-27T05:44:47Z"
       },
       {
         "number": 7593,
@@ -39,6 +40,15 @@
         "author": "dependabot",
         "reviewer": "mcrakhman",
         "requestedAt": "2026-07-27T09:40:10Z"
+      },
+      {
+        "number": 7600,
+        "title": "fix: export account for slashing and pay rewards in zero-height export",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/7600",
+        "repo": "celestia-app",
+        "author": "rach-id",
+        "reviewer": "mcrakhman",
+        "requestedAt": "2026-07-28T09:09:42Z"
       },
       {
         "number": 3188,
@@ -78,15 +88,6 @@
       }
     ],
     "vgonkivs": [
-      {
-        "number": 7582,
-        "title": "feat(fibre)!: add min/max bounds for payment promise timeout and shard retention",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7582",
-        "repo": "celestia-app",
-        "author": "rach-id",
-        "reviewer": "vgonkivs",
-        "requestedAt": "2026-07-27T05:45:12Z"
-      },
       {
         "number": 7587,
         "title": "chore(deps): bump google.golang.org/api from 0.288.0 to 0.290.0",
@@ -187,15 +188,6 @@
         "requestedAt": "2026-07-27T11:04:10Z"
       },
       {
-        "number": 5136,
-        "title": "chore(deps): bump the patch-updates group across 1 directory with 3 updates",
-        "url": "https://github.com/celestiaorg/celestia-node/pull/5136",
-        "repo": "celestia-node",
-        "author": "dependabot",
-        "reviewer": "vgonkivs",
-        "requestedAt": "2026-07-27T11:06:24Z"
-      },
-      {
         "number": 5137,
         "title": "chore(deps): bump github.com/prometheus/client_golang from 1.23.2 to 1.24.1",
         "url": "https://github.com/celestiaorg/celestia-node/pull/5137",
@@ -212,6 +204,24 @@
         "author": "dependabot",
         "reviewer": "vgonkivs",
         "requestedAt": "2026-07-27T11:06:57Z"
+      },
+      {
+        "number": 5140,
+        "title": "chore(deps): bump github.com/quic-go/webtransport-go from 0.10.0 to 0.11.1",
+        "url": "https://github.com/celestiaorg/celestia-node/pull/5140",
+        "repo": "celestia-node",
+        "author": "dependabot",
+        "reviewer": "vgonkivs",
+        "requestedAt": "2026-07-28T10:07:49Z"
+      },
+      {
+        "number": 5141,
+        "title": "chore(deps): bump the patch-updates group across 2 directories with 3 updates",
+        "url": "https://github.com/celestiaorg/celestia-node/pull/5141",
+        "repo": "celestia-node",
+        "author": "dependabot",
+        "reviewer": "vgonkivs",
+        "requestedAt": "2026-07-28T10:08:31Z"
       }
     ],
     "evan-forbes": [],
@@ -226,17 +236,7 @@
         "requestedAt": "2026-07-21T13:42:13Z"
       }
     ],
-    "Wondertan": [
-      {
-        "number": 4738,
-        "title": "fix(core): Return partial response for headers if one fails",
-        "url": "https://github.com/celestiaorg/celestia-node/pull/4738",
-        "repo": "celestia-node",
-        "author": "renaynay",
-        "reviewer": "Wondertan",
-        "requestedAt": "2025-12-12T13:47:27Z"
-      }
-    ],
+    "Wondertan": [],
     "tty47": [],
     "pippokr": [],
     "renaynay": [
@@ -321,5 +321,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-07-28T09:18:04.212Z"
+  "fetchedAt": "2026-07-28T10:13:50.907Z"
 }
