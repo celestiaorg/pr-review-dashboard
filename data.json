@@ -12,17 +12,7 @@
         "requestedAt": "2026-07-27T16:51:44Z"
       }
     ],
-    "rach-id": [
-      {
-        "number": 445,
-        "title": "chore: Bump github.com/ethereum/go-ethereum from 1.17.4 to 1.17.5",
-        "url": "https://github.com/celestiaorg/blobstream-contracts/pull/445",
-        "repo": "blobstream-contracts",
-        "author": "dependabot",
-        "reviewer": "rach-id",
-        "requestedAt": "2026-07-27T23:52:43Z"
-      }
-    ],
+    "rach-id": [],
     "mcrakhman": [
       {
         "number": 7571,
@@ -98,15 +88,6 @@
       }
     ],
     "vgonkivs": [
-      {
-        "number": 7577,
-        "title": "feat(fibre): release fibre server binaries with goreleaser",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7577",
-        "repo": "celestia-app",
-        "author": "rach-id",
-        "reviewer": "vgonkivs",
-        "requestedAt": "2026-07-25T08:49:46Z"
-      },
       {
         "number": 7580,
         "title": "fix(minfee): export params in ExportGenesis",
@@ -359,5 +340,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-07-28T03:26:27.873Z"
+  "fetchedAt": "2026-07-28T04:33:59.701Z"
 }
