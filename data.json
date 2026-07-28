@@ -11,6 +11,15 @@
         "author": "NikhilSharmaWe",
         "reviewer": "rach-id",
         "requestedAt": "2026-07-28T10:22:47Z"
+      },
+      {
+        "number": 402,
+        "title": "chore(deps): bump github.com/quic-go/webtransport-go from 0.10.0 to 0.11.1",
+        "url": "https://github.com/celestiaorg/go-header/pull/402",
+        "repo": "go-header",
+        "author": "dependabot",
+        "reviewer": "rach-id",
+        "requestedAt": "2026-07-28T18:25:15Z"
       }
     ],
     "mcrakhman": [
@@ -312,5 +321,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-07-28T17:57:55.455Z"
+  "fetchedAt": "2026-07-28T18:35:41.298Z"
 }
