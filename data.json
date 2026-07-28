@@ -225,17 +225,7 @@
       }
     ],
     "evan-forbes": [],
-    "walldiss": [
-      {
-        "number": 7571,
-        "title": "docs: add ADR 029 Fibre upload rate limiting",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7571",
-        "repo": "celestia-app",
-        "author": "vgonkivs",
-        "reviewer": "walldiss",
-        "requestedAt": "2026-07-21T13:42:13Z"
-      }
-    ],
+    "walldiss": [],
     "Wondertan": [],
     "tty47": [],
     "pippokr": [],
@@ -321,5 +311,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-07-28T18:35:41.298Z"
+  "fetchedAt": "2026-07-28T19:02:58.554Z"
 }
