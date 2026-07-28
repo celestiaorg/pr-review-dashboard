@@ -1,17 +1,7 @@
 {
   "reviews": {
     "rootulp": [],
-    "ninabarbakadze": [
-      {
-        "number": 7580,
-        "title": "fix(minfee): export params in ExportGenesis",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7580",
-        "repo": "celestia-app",
-        "author": "rach-id",
-        "reviewer": "ninabarbakadze",
-        "requestedAt": "2026-07-27T16:51:44Z"
-      }
-    ],
+    "ninabarbakadze": [],
     "rach-id": [],
     "mcrakhman": [
       {
@@ -88,15 +78,6 @@
       }
     ],
     "vgonkivs": [
-      {
-        "number": 7580,
-        "title": "fix(minfee): export params in ExportGenesis",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7580",
-        "repo": "celestia-app",
-        "author": "rach-id",
-        "reviewer": "vgonkivs",
-        "requestedAt": "2026-07-26T08:39:00Z"
-      },
       {
         "number": 7582,
         "title": "feat(fibre)!: add min/max bounds for payment promise timeout and shard retention",
@@ -340,5 +321,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-07-28T08:17:39.833Z"
+  "fetchedAt": "2026-07-28T09:18:04.212Z"
 }
