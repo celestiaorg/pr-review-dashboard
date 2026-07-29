@@ -107,15 +107,6 @@
         "requestedAt": "2026-07-27T09:39:54Z"
       },
       {
-        "number": 7597,
-        "title": "chore(deps): bump github.com/aws/aws-sdk-go-v2/credentials from 1.19.29 to 1.19.30",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7597",
-        "repo": "celestia-app",
-        "author": "dependabot",
-        "reviewer": "vgonkivs",
-        "requestedAt": "2026-07-27T09:41:34Z"
-      },
-      {
         "number": 3187,
         "title": "build(deps): Bump docker/login-action from 4.4.0 to 4.5.1",
         "url": "https://github.com/celestiaorg/celestia-core/pull/3187",
@@ -283,5 +274,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-07-29T15:01:33.526Z"
+  "fetchedAt": "2026-07-29T15:42:07.266Z"
 }
