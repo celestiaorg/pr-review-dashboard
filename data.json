@@ -2,17 +2,7 @@
   "reviews": {
     "rootulp": [],
     "ninabarbakadze": [],
-    "rach-id": [
-      {
-        "number": 745,
-        "title": "fix: abort in-flight snapshots on Close",
-        "url": "https://github.com/celestiaorg/cosmos-sdk/pull/745",
-        "repo": "cosmos-sdk",
-        "author": "NikhilSharmaWe",
-        "reviewer": "rach-id",
-        "requestedAt": "2026-07-28T10:22:47Z"
-      }
-    ],
+    "rach-id": [],
     "mcrakhman": [
       {
         "number": 7571,
@@ -302,5 +292,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-07-29T08:28:43.141Z"
+  "fetchedAt": "2026-07-29T09:28:03.300Z"
 }
