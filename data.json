@@ -10,15 +10,6 @@
         "author": "dependabot",
         "reviewer": "ninabarbakadze",
         "requestedAt": "2026-07-29T11:52:44Z"
-      },
-      {
-        "number": 7594,
-        "title": "chore(deps): bump github.com/aws/aws-sdk-go-v2/config from 1.32.30 to 1.32.31",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7594",
-        "repo": "celestia-app",
-        "author": "dependabot",
-        "reviewer": "ninabarbakadze",
-        "requestedAt": "2026-07-30T07:41:40Z"
       }
     ],
     "rach-id": [],
@@ -69,15 +60,6 @@
         "author": "dependabot",
         "reviewer": "vgonkivs",
         "requestedAt": "2026-07-27T09:37:04Z"
-      },
-      {
-        "number": 7594,
-        "title": "chore(deps): bump github.com/aws/aws-sdk-go-v2/config from 1.32.30 to 1.32.31",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7594",
-        "repo": "celestia-app",
-        "author": "dependabot",
-        "reviewer": "vgonkivs",
-        "requestedAt": "2026-07-27T09:39:54Z"
       },
       {
         "number": 3187,
@@ -247,5 +229,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-07-30T11:30:41.151Z"
+  "fetchedAt": "2026-07-30T12:09:53.443Z"
 }
