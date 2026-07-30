@@ -18,20 +18,10 @@
         "repo": "celestia-app",
         "author": "dependabot",
         "reviewer": "ninabarbakadze",
-        "requestedAt": "2026-07-29T11:48:16Z"
+        "requestedAt": "2026-07-30T07:41:40Z"
       }
     ],
-    "rach-id": [
-      {
-        "number": 745,
-        "title": "fix: abort in-flight snapshots on Close",
-        "url": "https://github.com/celestiaorg/cosmos-sdk/pull/745",
-        "repo": "cosmos-sdk",
-        "author": "NikhilSharmaWe",
-        "reviewer": "rach-id",
-        "requestedAt": "2026-07-30T04:50:37Z"
-      }
-    ],
+    "rach-id": [],
     "mcrakhman": [
       {
         "number": 7571,
@@ -70,15 +60,6 @@
         "requestedAt": "2026-07-24T11:26:00Z"
       },
       {
-        "number": 745,
-        "title": "fix: abort in-flight snapshots on Close",
-        "url": "https://github.com/celestiaorg/cosmos-sdk/pull/745",
-        "repo": "cosmos-sdk",
-        "author": "NikhilSharmaWe",
-        "reviewer": "mcrakhman",
-        "requestedAt": "2026-07-27T18:40:36Z"
-      },
-      {
         "number": 272,
         "title": "chore(deps): bump actions/setup-node from 6 to 7",
         "url": "https://github.com/celestiaorg/go-square/pull/272",
@@ -89,15 +70,6 @@
       }
     ],
     "vgonkivs": [
-      {
-        "number": 7587,
-        "title": "chore(deps): bump google.golang.org/api from 0.288.0 to 0.290.0",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7587",
-        "repo": "celestia-app",
-        "author": "dependabot",
-        "reviewer": "vgonkivs",
-        "requestedAt": "2026-07-27T09:34:09Z"
-      },
       {
         "number": 7592,
         "title": "chore(deps): bump github.com/aws/aws-sdk-go-v2/feature/s3/transfermanager from 0.3.4 to 0.3.5",
@@ -284,5 +256,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-07-30T07:15:25.741Z"
+  "fetchedAt": "2026-07-30T08:02:47.548Z"
 }
