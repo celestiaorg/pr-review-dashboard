@@ -1,17 +1,7 @@
 {
   "reviews": {
     "rootulp": [],
-    "ninabarbakadze": [
-      {
-        "number": 7592,
-        "title": "chore(deps): bump github.com/aws/aws-sdk-go-v2/feature/s3/transfermanager from 0.3.4 to 0.3.5",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7592",
-        "repo": "celestia-app",
-        "author": "dependabot",
-        "reviewer": "ninabarbakadze",
-        "requestedAt": "2026-07-30T12:41:35Z"
-      }
-    ],
+    "ninabarbakadze": [],
     "rach-id": [],
     "mcrakhman": [
       {
@@ -220,5 +210,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-07-30T12:49:53.802Z"
+  "fetchedAt": "2026-07-30T13:24:02.064Z"
 }
