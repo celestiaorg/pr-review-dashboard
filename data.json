@@ -9,20 +9,11 @@
         "repo": "celestia-app",
         "author": "dependabot",
         "reviewer": "ninabarbakadze",
-        "requestedAt": "2026-07-29T11:52:44Z"
+        "requestedAt": "2026-07-30T12:41:35Z"
       }
     ],
     "rach-id": [],
     "mcrakhman": [
-      {
-        "number": 7571,
-        "title": "docs: add ADR 029 Fibre upload rate limiting",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7571",
-        "repo": "celestia-app",
-        "author": "vgonkivs",
-        "reviewer": "mcrakhman",
-        "requestedAt": "2026-07-21T13:42:13Z"
-      },
       {
         "number": 3188,
         "title": "build(deps): Bump github.com/prometheus/client_golang from 1.23.2 to 1.24.1",
@@ -229,5 +220,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-07-30T12:09:53.443Z"
+  "fetchedAt": "2026-07-30T12:49:53.802Z"
 }
