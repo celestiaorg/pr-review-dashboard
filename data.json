@@ -33,15 +33,6 @@
         "requestedAt": "2026-07-21T13:42:13Z"
       },
       {
-        "number": 7601,
-        "title": "chore: bump hyperlane-cosmos to v1.2.0",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7601",
-        "repo": "celestia-app",
-        "author": "ninabarbakadze",
-        "reviewer": "mcrakhman",
-        "requestedAt": "2026-07-29T14:56:59Z"
-      },
-      {
         "number": 3188,
         "title": "build(deps): Bump github.com/prometheus/client_golang from 1.23.2 to 1.24.1",
         "url": "https://github.com/celestiaorg/celestia-core/pull/3188",
@@ -256,5 +247,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-07-30T09:03:11.751Z"
+  "fetchedAt": "2026-07-30T09:57:35.171Z"
 }
