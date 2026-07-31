@@ -3,6 +3,15 @@
     "rootulp": [],
     "ninabarbakadze": [
       {
+        "number": 7600,
+        "title": "fix: export account for slashing and pay rewards in zero-height export",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/7600",
+        "repo": "celestia-app",
+        "author": "rach-id",
+        "reviewer": "ninabarbakadze",
+        "requestedAt": "2026-07-28T09:44:03Z"
+      },
+      {
         "number": 7605,
         "title": "refactor!: replace Arabica testnet with internal Corto testnet",
         "url": "https://github.com/celestiaorg/celestia-app/pull/7605",
@@ -14,6 +23,15 @@
     ],
     "rach-id": [],
     "mcrakhman": [
+      {
+        "number": 7600,
+        "title": "fix: export account for slashing and pay rewards in zero-height export",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/7600",
+        "repo": "celestia-app",
+        "author": "rach-id",
+        "reviewer": "mcrakhman",
+        "requestedAt": "2026-07-28T09:09:42Z"
+      },
       {
         "number": 3188,
         "title": "build(deps): Bump github.com/prometheus/client_golang from 1.23.2 to 1.24.1",
@@ -211,5 +229,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-07-31T06:15:33.880Z"
+  "fetchedAt": "2026-07-31T07:19:01.633Z"
 }
