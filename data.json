@@ -1,7 +1,17 @@
 {
   "reviews": {
     "rootulp": [],
-    "ninabarbakadze": [],
+    "ninabarbakadze": [
+      {
+        "number": 7583,
+        "title": "fix(fibre): require the payment promise retention window to outlast the promise freshness window",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/7583",
+        "repo": "celestia-app",
+        "author": "rach-id",
+        "reviewer": "ninabarbakadze",
+        "requestedAt": "2026-07-27T06:07:17Z"
+      }
+    ],
     "rach-id": [],
     "mcrakhman": [
       {
@@ -201,5 +211,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-07-31T13:14:18.006Z"
+  "fetchedAt": "2026-07-31T13:59:21.144Z"
 }
