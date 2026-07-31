@@ -12,8 +12,27 @@
         "requestedAt": "2026-07-27T06:07:17Z"
       }
     ],
-    "rach-id": [],
+    "rach-id": [
+      {
+        "number": 7607,
+        "title": "feat(fibre): implement admission control and rate limiting",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/7607",
+        "repo": "celestia-app",
+        "author": "vgonkivs",
+        "reviewer": "rach-id",
+        "requestedAt": "2026-07-31T14:01:49Z"
+      }
+    ],
     "mcrakhman": [
+      {
+        "number": 7607,
+        "title": "feat(fibre): implement admission control and rate limiting",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/7607",
+        "repo": "celestia-app",
+        "author": "vgonkivs",
+        "reviewer": "mcrakhman",
+        "requestedAt": "2026-07-31T14:01:49Z"
+      },
       {
         "number": 3188,
         "title": "build(deps): Bump github.com/prometheus/client_golang from 1.23.2 to 1.24.1",
@@ -135,7 +154,17 @@
       }
     ],
     "evan-forbes": [],
-    "walldiss": [],
+    "walldiss": [
+      {
+        "number": 7607,
+        "title": "feat(fibre): implement admission control and rate limiting",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/7607",
+        "repo": "celestia-app",
+        "author": "vgonkivs",
+        "reviewer": "walldiss",
+        "requestedAt": "2026-07-31T14:01:48Z"
+      }
+    ],
     "Wondertan": [],
     "tty47": [],
     "pippokr": [],
@@ -211,5 +240,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-07-31T13:59:21.144Z"
+  "fetchedAt": "2026-07-31T14:54:24.259Z"
 }
