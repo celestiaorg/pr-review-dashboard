@@ -63,6 +63,15 @@
     ],
     "vgonkivs": [
       {
+        "number": 7583,
+        "title": "fix(fibre): require the payment promise retention window to outlast the promise freshness window",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/7583",
+        "repo": "celestia-app",
+        "author": "rach-id",
+        "reviewer": "vgonkivs",
+        "requestedAt": "2026-07-31T16:27:34Z"
+      },
+      {
         "number": 3187,
         "title": "build(deps): Bump docker/login-action from 4.4.0 to 4.5.1",
         "url": "https://github.com/celestiaorg/celestia-core/pull/3187",
@@ -240,5 +249,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-07-31T16:19:00.083Z"
+  "fetchedAt": "2026-07-31T16:57:22.838Z"
 }
