@@ -52,6 +52,15 @@
         "requestedAt": "2026-07-24T11:26:00Z"
       },
       {
+        "number": 403,
+        "title": "chore(deps): bump github.com/pion/stun/v3 from 3.1.1 to 3.1.5",
+        "url": "https://github.com/celestiaorg/go-header/pull/403",
+        "repo": "go-header",
+        "author": "dependabot",
+        "reviewer": "mcrakhman",
+        "requestedAt": "2026-08-01T06:53:58Z"
+      },
+      {
         "number": 272,
         "title": "chore(deps): bump actions/setup-node from 6 to 7",
         "url": "https://github.com/celestiaorg/go-square/pull/272",
@@ -160,6 +169,15 @@
         "author": "dependabot",
         "reviewer": "vgonkivs",
         "requestedAt": "2026-07-28T10:08:31Z"
+      },
+      {
+        "number": 404,
+        "title": "chore(deps): bump github.com/pion/dtls/v3 from 3.1.2 to 3.1.4",
+        "url": "https://github.com/celestiaorg/go-header/pull/404",
+        "repo": "go-header",
+        "author": "dependabot",
+        "reviewer": "vgonkivs",
+        "requestedAt": "2026-08-01T06:55:03Z"
       }
     ],
     "evan-forbes": [],
@@ -249,5 +267,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-08-01T06:04:38.873Z"
+  "fetchedAt": "2026-08-01T07:00:30.822Z"
 }
