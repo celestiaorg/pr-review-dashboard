@@ -2,28 +2,28 @@
   "counts": {
     "rootulp": {
       "week": 0,
-      "month": 4,
+      "month": 0,
       "year": 403
     },
     "ninabarbakadze": {
-      "week": 14,
-      "month": 53,
-      "year": 466
+      "week": 0,
+      "month": 0,
+      "year": 467
     },
     "rach-id": {
-      "week": 17,
-      "month": 75,
-      "year": 635
+      "week": 0,
+      "month": 0,
+      "year": 637
     },
     "mcrakhman": {
-      "week": 1,
-      "month": 8,
+      "week": 0,
+      "month": 0,
       "year": 113
     },
     "vgonkivs": {
-      "week": 1,
-      "month": 60,
-      "year": 179
+      "week": 0,
+      "month": 0,
+      "year": 181
     },
     "evan-forbes": {
       "week": 0,
@@ -31,14 +31,14 @@
       "year": 106
     },
     "walldiss": {
-      "week": 1,
-      "month": 3,
+      "week": 0,
+      "month": 0,
       "year": 122
     },
     "Wondertan": {
       "week": 0,
-      "month": 2,
-      "year": 85
+      "month": 0,
+      "year": 86
     },
     "tty47": {
       "week": 0,
@@ -46,13 +46,13 @@
       "year": 1
     },
     "pippokr": {
-      "week": 1,
-      "month": 1,
+      "week": 0,
+      "month": 0,
       "year": 1
     },
     "renaynay": {
-      "week": 1,
-      "month": 6,
+      "week": 0,
+      "month": 0,
       "year": 30
     },
     "chatton": {
@@ -61,10 +61,10 @@
       "year": 3
     }
   },
-  "computedAt": "2026-07-31T00:21:51.318Z",
+  "computedAt": "2026-08-01T00:20:11.934Z",
   "windows": {
     "weekStart": "2026-07-27T00:00:00.000Z",
-    "monthStart": "2026-07-01T00:00:00.000Z",
+    "monthStart": "2026-08-01T00:00:00.000Z",
     "yearStart": "2026-01-01T00:00:00.000Z"
   }
 }
