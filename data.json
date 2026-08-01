@@ -171,6 +171,24 @@
         "requestedAt": "2026-07-28T10:08:31Z"
       },
       {
+        "number": 5142,
+        "title": "chore(deps): bump github.com/pion/stun/v3 from 3.1.1 to 3.1.5",
+        "url": "https://github.com/celestiaorg/celestia-node/pull/5142",
+        "repo": "celestia-node",
+        "author": "dependabot",
+        "reviewer": "vgonkivs",
+        "requestedAt": "2026-08-01T07:19:30Z"
+      },
+      {
+        "number": 5143,
+        "title": "chore(deps): bump github.com/pion/dtls/v3 from 3.1.2 to 3.1.4",
+        "url": "https://github.com/celestiaorg/celestia-node/pull/5143",
+        "repo": "celestia-node",
+        "author": "dependabot",
+        "reviewer": "vgonkivs",
+        "requestedAt": "2026-08-01T07:20:39Z"
+      },
+      {
         "number": 404,
         "title": "chore(deps): bump github.com/pion/dtls/v3 from 3.1.2 to 3.1.4",
         "url": "https://github.com/celestiaorg/go-header/pull/404",
@@ -267,5 +285,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-08-01T07:00:30.822Z"
+  "fetchedAt": "2026-08-01T07:49:43.188Z"
 }
