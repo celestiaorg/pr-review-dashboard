@@ -3,15 +3,6 @@
     "rootulp": [],
     "ninabarbakadze": [
       {
-        "number": 7609,
-        "title": "chore(deps): bump github.com/aws/aws-sdk-go-v2/service/ec2 from 1.317.0 to 1.318.0",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7609",
-        "repo": "celestia-app",
-        "author": "dependabot",
-        "reviewer": "ninabarbakadze",
-        "requestedAt": "2026-08-03T09:34:14Z"
-      },
-      {
         "number": 7612,
         "title": "chore(deps): bump github/codeql-action/analyze from 4.37.3 to 4.37.4",
         "url": "https://github.com/celestiaorg/celestia-app/pull/7612",
@@ -27,16 +18,7 @@
         "repo": "celestia-app",
         "author": "dependabot",
         "reviewer": "ninabarbakadze",
-        "requestedAt": "2026-08-03T09:37:00Z"
-      },
-      {
-        "number": 7620,
-        "title": "chore(deps): bump github.com/digitalocean/godo from 1.201.0 to 1.202.0",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7620",
-        "repo": "celestia-app",
-        "author": "dependabot",
-        "reviewer": "ninabarbakadze",
-        "requestedAt": "2026-08-03T09:38:37Z"
+        "requestedAt": "2026-08-03T17:04:45Z"
       },
       {
         "number": 3199,
@@ -303,5 +285,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-08-03T16:19:39.896Z"
+  "fetchedAt": "2026-08-03T17:07:31.713Z"
 }
