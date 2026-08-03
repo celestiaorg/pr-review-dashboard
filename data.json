@@ -3,15 +3,6 @@
     "rootulp": [],
     "ninabarbakadze": [
       {
-        "number": 7583,
-        "title": "fix(fibre): require the payment promise retention window to outlast the promise freshness window",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7583",
-        "repo": "celestia-app",
-        "author": "rach-id",
-        "reviewer": "ninabarbakadze",
-        "requestedAt": "2026-07-27T06:07:17Z"
-      },
-      {
         "number": 7609,
         "title": "chore(deps): bump github.com/aws/aws-sdk-go-v2/service/ec2 from 1.317.0 to 1.318.0",
         "url": "https://github.com/celestiaorg/celestia-app/pull/7609",
@@ -161,15 +152,6 @@
     ],
     "vgonkivs": [
       {
-        "number": 7583,
-        "title": "fix(fibre): require the payment promise retention window to outlast the promise freshness window",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7583",
-        "repo": "celestia-app",
-        "author": "rach-id",
-        "reviewer": "vgonkivs",
-        "requestedAt": "2026-07-31T16:27:34Z"
-      },
-      {
         "number": 7623,
         "title": "chore(deps): bump google.golang.org/grpc from 1.82.1 to 1.83.0",
         "url": "https://github.com/celestiaorg/celestia-app/pull/7623",
@@ -215,22 +197,13 @@
         "requestedAt": "2026-07-26T06:44:47Z"
       },
       {
-        "number": 5137,
-        "title": "chore(deps): bump github.com/prometheus/client_golang from 1.23.2 to 1.24.1",
-        "url": "https://github.com/celestiaorg/celestia-node/pull/5137",
+        "number": 5139,
+        "title": " fix(share/shrex): fail fast(er) on unreachable peers",
+        "url": "https://github.com/celestiaorg/celestia-node/pull/5139",
         "repo": "celestia-node",
-        "author": "dependabot",
+        "author": "renaynay",
         "reviewer": "vgonkivs",
-        "requestedAt": "2026-07-27T11:06:47Z"
-      },
-      {
-        "number": 5138,
-        "title": "chore(deps): bump go.opentelemetry.io/proto/otlp from 1.10.0 to 1.11.0",
-        "url": "https://github.com/celestiaorg/celestia-node/pull/5138",
-        "repo": "celestia-node",
-        "author": "dependabot",
-        "reviewer": "vgonkivs",
-        "requestedAt": "2026-07-27T11:06:57Z"
+        "requestedAt": "2026-08-03T13:15:15Z"
       },
       {
         "number": 5140,
@@ -329,5 +302,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-08-03T12:34:44.052Z"
+  "fetchedAt": "2026-08-03T13:31:51.924Z"
 }
