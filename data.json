@@ -48,7 +48,17 @@
         "requestedAt": "2026-08-03T09:33:30Z"
       }
     ],
-    "rach-id": [],
+    "rach-id": [
+      {
+        "number": 7624,
+        "title": "docs: remove `availableDataHeader` from `Block` in specs",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/7624",
+        "repo": "celestia-app",
+        "author": "rootulp",
+        "reviewer": "rach-id",
+        "requestedAt": "2026-08-03T13:59:14Z"
+      }
+    ],
     "mcrakhman": [
       {
         "number": 7607,
@@ -139,27 +149,9 @@
         "author": "dependabot",
         "reviewer": "mcrakhman",
         "requestedAt": "2026-08-01T06:53:58Z"
-      },
-      {
-        "number": 272,
-        "title": "chore(deps): bump actions/setup-node from 6 to 7",
-        "url": "https://github.com/celestiaorg/go-square/pull/272",
-        "repo": "go-square",
-        "author": "dependabot",
-        "reviewer": "mcrakhman",
-        "requestedAt": "2026-07-20T19:32:56Z"
       }
     ],
     "vgonkivs": [
-      {
-        "number": 7623,
-        "title": "chore(deps): bump google.golang.org/grpc from 1.82.1 to 1.83.0",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7623",
-        "repo": "celestia-app",
-        "author": "dependabot",
-        "reviewer": "vgonkivs",
-        "requestedAt": "2026-08-03T09:41:23Z"
-      },
       {
         "number": 5124,
         "title": "nodebuilder/rpc: Make maxConcurrentConns configurable",
@@ -197,22 +189,13 @@
         "requestedAt": "2026-07-26T06:44:47Z"
       },
       {
-        "number": 5139,
-        "title": " fix(share/shrex): fail fast(er) on unreachable peers",
-        "url": "https://github.com/celestiaorg/celestia-node/pull/5139",
-        "repo": "celestia-node",
-        "author": "renaynay",
-        "reviewer": "vgonkivs",
-        "requestedAt": "2026-08-03T13:15:15Z"
-      },
-      {
-        "number": 5140,
-        "title": "chore(deps): bump github.com/quic-go/webtransport-go from 0.10.0 to 0.11.1",
-        "url": "https://github.com/celestiaorg/celestia-node/pull/5140",
+        "number": 5137,
+        "title": "chore(deps): bump github.com/prometheus/client_golang from 1.23.2 to 1.24.1",
+        "url": "https://github.com/celestiaorg/celestia-node/pull/5137",
         "repo": "celestia-node",
         "author": "dependabot",
         "reviewer": "vgonkivs",
-        "requestedAt": "2026-07-28T10:07:49Z"
+        "requestedAt": "2026-08-03T14:19:43Z"
       }
     ],
     "evan-forbes": [],
@@ -302,5 +285,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-08-03T13:31:51.924Z"
+  "fetchedAt": "2026-08-03T14:26:12.980Z"
 }
