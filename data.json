@@ -213,7 +213,17 @@
     "Wondertan": [],
     "tty47": [],
     "pippokr": [],
-    "renaynay": [],
+    "renaynay": [
+      {
+        "number": 5147,
+        "title": "ci(deps): group Dependabot updates and auto-tidy go.mod on bot PRs",
+        "url": "https://github.com/celestiaorg/celestia-node/pull/5147",
+        "repo": "celestia-node",
+        "author": "vgonkivs",
+        "reviewer": "renaynay",
+        "requestedAt": "2026-08-03T19:53:06Z"
+      }
+    ],
     "chatton": []
   },
   "teamMembers": [
@@ -285,5 +295,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-08-03T19:42:38.891Z"
+  "fetchedAt": "2026-08-03T20:17:57.552Z"
 }
