@@ -170,15 +170,6 @@
         "requestedAt": "2026-07-31T16:27:34Z"
       },
       {
-        "number": 7615,
-        "title": "chore(deps): bump github/codeql-action/init from 4.37.3 to 4.37.4",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7615",
-        "repo": "celestia-app",
-        "author": "dependabot",
-        "reviewer": "vgonkivs",
-        "requestedAt": "2026-08-03T09:36:59Z"
-      },
-      {
         "number": 7623,
         "title": "chore(deps): bump google.golang.org/grpc from 1.82.1 to 1.83.0",
         "url": "https://github.com/celestiaorg/celestia-app/pull/7623",
@@ -249,42 +240,6 @@
         "author": "dependabot",
         "reviewer": "vgonkivs",
         "requestedAt": "2026-07-28T10:07:49Z"
-      },
-      {
-        "number": 5141,
-        "title": "chore(deps): bump the patch-updates group across 2 directories with 3 updates",
-        "url": "https://github.com/celestiaorg/celestia-node/pull/5141",
-        "repo": "celestia-node",
-        "author": "dependabot",
-        "reviewer": "vgonkivs",
-        "requestedAt": "2026-07-28T10:08:31Z"
-      },
-      {
-        "number": 5142,
-        "title": "chore(deps): bump github.com/pion/stun/v3 from 3.1.1 to 3.1.5",
-        "url": "https://github.com/celestiaorg/celestia-node/pull/5142",
-        "repo": "celestia-node",
-        "author": "dependabot",
-        "reviewer": "vgonkivs",
-        "requestedAt": "2026-08-01T07:19:30Z"
-      },
-      {
-        "number": 5143,
-        "title": "chore(deps): bump github.com/pion/dtls/v3 from 3.1.2 to 3.1.4",
-        "url": "https://github.com/celestiaorg/celestia-node/pull/5143",
-        "repo": "celestia-node",
-        "author": "dependabot",
-        "reviewer": "vgonkivs",
-        "requestedAt": "2026-08-01T07:20:39Z"
-      },
-      {
-        "number": 5145,
-        "title": "chore(deps): bump actions/stale from 10 to 11",
-        "url": "https://github.com/celestiaorg/celestia-node/pull/5145",
-        "repo": "celestia-node",
-        "author": "dependabot",
-        "reviewer": "vgonkivs",
-        "requestedAt": "2026-08-03T11:04:24Z"
       }
     ],
     "evan-forbes": [],
@@ -374,5 +329,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-08-03T11:22:52.288Z"
+  "fetchedAt": "2026-08-03T12:34:44.052Z"
 }
