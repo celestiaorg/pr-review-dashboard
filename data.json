@@ -61,6 +61,15 @@
     ],
     "mcrakhman": [
       {
+        "number": 7599,
+        "title": "fix: WIP fibre signature verification bug",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/7599",
+        "repo": "celestia-app",
+        "author": "ninabarbakadze",
+        "reviewer": "mcrakhman",
+        "requestedAt": "2026-08-03T15:20:36Z"
+      },
+      {
         "number": 7607,
         "title": "feat(fibre): implement admission control and rate limiting",
         "url": "https://github.com/celestiaorg/celestia-app/pull/7607",
@@ -285,5 +294,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-08-03T14:26:12.980Z"
+  "fetchedAt": "2026-08-03T15:27:53.242Z"
 }
