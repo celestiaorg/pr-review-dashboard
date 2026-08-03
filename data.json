@@ -50,6 +50,15 @@
     ],
     "rach-id": [
       {
+        "number": 7599,
+        "title": "fix(fibre): signature verification bug",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/7599",
+        "repo": "celestia-app",
+        "author": "ninabarbakadze",
+        "reviewer": "rach-id",
+        "requestedAt": "2026-08-03T16:14:08Z"
+      },
+      {
         "number": 7624,
         "title": "docs: remove `availableDataHeader` from `Block` in specs",
         "url": "https://github.com/celestiaorg/celestia-app/pull/7624",
@@ -62,7 +71,7 @@
     "mcrakhman": [
       {
         "number": 7599,
-        "title": "fix: WIP fibre signature verification bug",
+        "title": "fix(fibre): signature verification bug",
         "url": "https://github.com/celestiaorg/celestia-app/pull/7599",
         "repo": "celestia-app",
         "author": "ninabarbakadze",
@@ -294,5 +303,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-08-03T15:27:53.242Z"
+  "fetchedAt": "2026-08-03T16:19:39.896Z"
 }
