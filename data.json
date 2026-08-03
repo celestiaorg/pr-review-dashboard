@@ -179,15 +179,6 @@
         "requestedAt": "2026-08-03T09:36:59Z"
       },
       {
-        "number": 7619,
-        "title": "chore(deps): bump github.com/aws/aws-sdk-go-v2/credentials from 1.19.30 to 1.19.32",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7619",
-        "repo": "celestia-app",
-        "author": "dependabot",
-        "reviewer": "vgonkivs",
-        "requestedAt": "2026-08-03T09:38:31Z"
-      },
-      {
         "number": 7623,
         "title": "chore(deps): bump google.golang.org/grpc from 1.82.1 to 1.83.0",
         "url": "https://github.com/celestiaorg/celestia-app/pull/7623",
@@ -195,33 +186,6 @@
         "author": "dependabot",
         "reviewer": "vgonkivs",
         "requestedAt": "2026-08-03T09:41:23Z"
-      },
-      {
-        "number": 3198,
-        "title": "build(deps): Bump google.golang.org/grpc from 1.82.1 to 1.83.0",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3198",
-        "repo": "celestia-core",
-        "author": "dependabot",
-        "reviewer": "vgonkivs",
-        "requestedAt": "2026-08-03T09:32:11Z"
-      },
-      {
-        "number": 3201,
-        "title": "build(deps): Bump actions/stale from 10 to 11",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3201",
-        "repo": "celestia-core",
-        "author": "dependabot",
-        "reviewer": "vgonkivs",
-        "requestedAt": "2026-08-03T09:34:09Z"
-      },
-      {
-        "number": 3202,
-        "title": "build(deps): Bump docker/login-action from 4.4.0 to 4.6.0",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3202",
-        "repo": "celestia-core",
-        "author": "dependabot",
-        "reviewer": "vgonkivs",
-        "requestedAt": "2026-08-03T09:34:42Z"
       },
       {
         "number": 5124,
@@ -314,13 +278,13 @@
         "requestedAt": "2026-08-01T07:20:39Z"
       },
       {
-        "number": 404,
-        "title": "chore(deps): bump github.com/pion/dtls/v3 from 3.1.2 to 3.1.4",
-        "url": "https://github.com/celestiaorg/go-header/pull/404",
-        "repo": "go-header",
+        "number": 5145,
+        "title": "chore(deps): bump actions/stale from 10 to 11",
+        "url": "https://github.com/celestiaorg/celestia-node/pull/5145",
+        "repo": "celestia-node",
         "author": "dependabot",
         "reviewer": "vgonkivs",
-        "requestedAt": "2026-08-01T06:55:03Z"
+        "requestedAt": "2026-08-03T11:04:24Z"
       }
     ],
     "evan-forbes": [],
@@ -410,5 +374,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-08-03T10:10:15.794Z"
+  "fetchedAt": "2026-08-03T11:22:52.288Z"
 }
