@@ -19,6 +19,15 @@
         "author": "dependabot",
         "reviewer": "ninabarbakadze",
         "requestedAt": "2026-08-03T09:33:30Z"
+      },
+      {
+        "number": 5148,
+        "title": "chore!: da package removal",
+        "url": "https://github.com/celestiaorg/celestia-node/pull/5148",
+        "repo": "celestia-node",
+        "author": "vgonkivs",
+        "reviewer": "ninabarbakadze",
+        "requestedAt": "2026-08-04T12:46:40Z"
       }
     ],
     "rach-id": [],
@@ -267,5 +276,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-08-04T12:10:07.248Z"
+  "fetchedAt": "2026-08-04T12:53:58.335Z"
 }
