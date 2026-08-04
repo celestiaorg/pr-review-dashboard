@@ -32,6 +32,15 @@
     ],
     "rach-id": [
       {
+        "number": 447,
+        "title": "chore: Bump github/codeql-action from 4.37.3 to 4.37.4",
+        "url": "https://github.com/celestiaorg/blobstream-contracts/pull/447",
+        "repo": "blobstream-contracts",
+        "author": "dependabot",
+        "reviewer": "rach-id",
+        "requestedAt": "2026-08-03T23:53:31Z"
+      },
+      {
         "number": 7599,
         "title": "fix(fibre): signature verification bug",
         "url": "https://github.com/celestiaorg/celestia-app/pull/7599",
@@ -295,5 +304,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-08-03T23:53:20.633Z"
+  "fetchedAt": "2026-08-04T00:17:04.169Z"
 }
