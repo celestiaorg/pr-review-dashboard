@@ -19,15 +19,6 @@
         "author": "dependabot",
         "reviewer": "ninabarbakadze",
         "requestedAt": "2026-08-03T09:33:30Z"
-      },
-      {
-        "number": 5148,
-        "title": "chore!: da package removal",
-        "url": "https://github.com/celestiaorg/celestia-node/pull/5148",
-        "repo": "celestia-node",
-        "author": "vgonkivs",
-        "reviewer": "ninabarbakadze",
-        "requestedAt": "2026-08-04T12:46:40Z"
       }
     ],
     "rach-id": [],
@@ -177,6 +168,24 @@
         "author": "dependabot",
         "reviewer": "vgonkivs",
         "requestedAt": "2026-08-03T14:19:43Z"
+      },
+      {
+        "number": 5149,
+        "title": "chore(deps): bump the libp2p group across 1 directory with 2 updates",
+        "url": "https://github.com/celestiaorg/celestia-node/pull/5149",
+        "repo": "celestia-node",
+        "author": "dependabot",
+        "reviewer": "vgonkivs",
+        "requestedAt": "2026-08-04T13:19:29Z"
+      },
+      {
+        "number": 5150,
+        "title": "chore(deps): bump the go-deps group across 2 directories with 2 updates",
+        "url": "https://github.com/celestiaorg/celestia-node/pull/5150",
+        "repo": "celestia-node",
+        "author": "dependabot",
+        "reviewer": "vgonkivs",
+        "requestedAt": "2026-08-04T13:20:10Z"
       }
     ],
     "evan-forbes": [],
@@ -196,13 +205,13 @@
     "pippokr": [],
     "renaynay": [
       {
-        "number": 5147,
-        "title": "ci(deps): group Dependabot updates and auto-tidy go.mod on bot PRs",
-        "url": "https://github.com/celestiaorg/celestia-node/pull/5147",
+        "number": 5148,
+        "title": "refactor!(api): da package removal",
+        "url": "https://github.com/celestiaorg/celestia-node/pull/5148",
         "repo": "celestia-node",
         "author": "vgonkivs",
         "reviewer": "renaynay",
-        "requestedAt": "2026-08-03T19:53:06Z"
+        "requestedAt": "2026-08-04T12:59:17Z"
       }
     ],
     "chatton": []
@@ -276,5 +285,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-08-04T12:53:58.335Z"
+  "fetchedAt": "2026-08-04T13:31:00.732Z"
 }
