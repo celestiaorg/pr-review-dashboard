@@ -33,15 +33,6 @@
         "requestedAt": "2026-08-03T15:20:36Z"
       },
       {
-        "number": 7607,
-        "title": "feat(fibre): implement admission control and rate limiting",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7607",
-        "repo": "celestia-app",
-        "author": "vgonkivs",
-        "reviewer": "mcrakhman",
-        "requestedAt": "2026-07-31T14:01:49Z"
-      },
-      {
         "number": 7608,
         "title": "chore(deps): bump actions/stale from 10.4.0 to 11.0.0",
         "url": "https://github.com/celestiaorg/celestia-app/pull/7608",
@@ -150,24 +141,6 @@
         "author": "mohsenm4",
         "reviewer": "vgonkivs",
         "requestedAt": "2026-07-26T06:44:47Z"
-      },
-      {
-        "number": 5149,
-        "title": "chore(deps): bump the libp2p group across 1 directory with 2 updates",
-        "url": "https://github.com/celestiaorg/celestia-node/pull/5149",
-        "repo": "celestia-node",
-        "author": "dependabot",
-        "reviewer": "vgonkivs",
-        "requestedAt": "2026-08-04T13:19:29Z"
-      },
-      {
-        "number": 5152,
-        "title": "chore(deps): bump the go-deps group across 2 directories with 1 update",
-        "url": "https://github.com/celestiaorg/celestia-node/pull/5152",
-        "repo": "celestia-node",
-        "author": "dependabot",
-        "reviewer": "vgonkivs",
-        "requestedAt": "2026-08-04T14:15:04Z"
       }
     ],
     "evan-forbes": [],
@@ -257,5 +230,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-08-04T14:23:21.245Z"
+  "fetchedAt": "2026-08-04T15:14:31.546Z"
 }
