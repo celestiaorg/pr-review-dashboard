@@ -21,17 +21,7 @@
         "requestedAt": "2026-08-03T09:33:30Z"
       }
     ],
-    "rach-id": [
-      {
-        "number": 7599,
-        "title": "fix(fibre): signature verification bug",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7599",
-        "repo": "celestia-app",
-        "author": "ninabarbakadze",
-        "reviewer": "rach-id",
-        "requestedAt": "2026-08-03T16:14:08Z"
-      }
-    ],
+    "rach-id": [],
     "mcrakhman": [
       {
         "number": 7599,
@@ -277,5 +267,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-08-04T08:37:56.971Z"
+  "fetchedAt": "2026-08-04T09:35:24.156Z"
 }
