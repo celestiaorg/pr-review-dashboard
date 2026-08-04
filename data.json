@@ -51,17 +51,8 @@
         "requestedAt": "2026-08-03T09:33:55Z"
       },
       {
-        "number": 7611,
-        "title": "chore(deps): bump google.golang.org/grpc from 1.82.1 to 1.83.0 in /test/docker-e2e",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7611",
-        "repo": "celestia-app",
-        "author": "dependabot",
-        "reviewer": "mcrakhman",
-        "requestedAt": "2026-08-03T09:34:32Z"
-      },
-      {
         "number": 7614,
-        "title": "chore(deps): bump github.com/aws/aws-sdk-go-v2/feature/s3/transfermanager from 0.3.5 to 0.3.7",
+        "title": "chore(deps): bump github.com/aws/aws-sdk-go-v2/feature/s3/transfermanager from 0.3.5 to 0.3.8",
         "url": "https://github.com/celestiaorg/celestia-app/pull/7614",
         "repo": "celestia-app",
         "author": "dependabot",
@@ -79,7 +70,7 @@
       },
       {
         "number": 7622,
-        "title": "chore(deps): bump github.com/aws/aws-sdk-go-v2/service/s3 from 1.106.0 to 1.106.2",
+        "title": "chore(deps): bump github.com/aws/aws-sdk-go-v2/service/s3 from 1.106.0 to 1.106.3",
         "url": "https://github.com/celestiaorg/celestia-app/pull/7622",
         "repo": "celestia-app",
         "author": "dependabot",
@@ -161,15 +152,6 @@
         "requestedAt": "2026-07-26T06:44:47Z"
       },
       {
-        "number": 5137,
-        "title": "chore(deps): bump github.com/prometheus/client_golang from 1.23.2 to 1.24.1",
-        "url": "https://github.com/celestiaorg/celestia-node/pull/5137",
-        "repo": "celestia-node",
-        "author": "dependabot",
-        "reviewer": "vgonkivs",
-        "requestedAt": "2026-08-03T14:19:43Z"
-      },
-      {
         "number": 5149,
         "title": "chore(deps): bump the libp2p group across 1 directory with 2 updates",
         "url": "https://github.com/celestiaorg/celestia-node/pull/5149",
@@ -179,27 +161,17 @@
         "requestedAt": "2026-08-04T13:19:29Z"
       },
       {
-        "number": 5150,
-        "title": "chore(deps): bump the go-deps group across 2 directories with 2 updates",
-        "url": "https://github.com/celestiaorg/celestia-node/pull/5150",
+        "number": 5152,
+        "title": "chore(deps): bump the go-deps group across 2 directories with 1 update",
+        "url": "https://github.com/celestiaorg/celestia-node/pull/5152",
         "repo": "celestia-node",
         "author": "dependabot",
         "reviewer": "vgonkivs",
-        "requestedAt": "2026-08-04T13:20:10Z"
+        "requestedAt": "2026-08-04T14:15:04Z"
       }
     ],
     "evan-forbes": [],
-    "walldiss": [
-      {
-        "number": 7607,
-        "title": "feat(fibre): implement admission control and rate limiting",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7607",
-        "repo": "celestia-app",
-        "author": "vgonkivs",
-        "reviewer": "walldiss",
-        "requestedAt": "2026-07-31T14:01:48Z"
-      }
-    ],
+    "walldiss": [],
     "Wondertan": [],
     "tty47": [],
     "pippokr": [],
@@ -285,5 +257,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-08-04T13:31:00.732Z"
+  "fetchedAt": "2026-08-04T14:23:21.245Z"
 }
