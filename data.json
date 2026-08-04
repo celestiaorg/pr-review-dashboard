@@ -3,15 +3,6 @@
     "rootulp": [],
     "ninabarbakadze": [
       {
-        "number": 7612,
-        "title": "chore(deps): bump github/codeql-action/analyze from 4.37.3 to 4.37.4",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7612",
-        "repo": "celestia-app",
-        "author": "dependabot",
-        "reviewer": "ninabarbakadze",
-        "requestedAt": "2026-08-03T09:35:30Z"
-      },
-      {
         "number": 7616,
         "title": "chore(deps): bump github.com/hashicorp/go-metrics from 0.6.0 to 0.6.1",
         "url": "https://github.com/celestiaorg/celestia-app/pull/7616",
@@ -32,15 +23,6 @@
     ],
     "rach-id": [
       {
-        "number": 447,
-        "title": "chore: Bump github/codeql-action from 4.37.3 to 4.37.4",
-        "url": "https://github.com/celestiaorg/blobstream-contracts/pull/447",
-        "repo": "blobstream-contracts",
-        "author": "dependabot",
-        "reviewer": "rach-id",
-        "requestedAt": "2026-08-03T23:53:31Z"
-      },
-      {
         "number": 7599,
         "title": "fix(fibre): signature verification bug",
         "url": "https://github.com/celestiaorg/celestia-app/pull/7599",
@@ -48,15 +30,6 @@
         "author": "ninabarbakadze",
         "reviewer": "rach-id",
         "requestedAt": "2026-08-03T16:14:08Z"
-      },
-      {
-        "number": 7624,
-        "title": "docs: remove `availableDataHeader` from `Block` in specs",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7624",
-        "repo": "celestia-app",
-        "author": "rootulp",
-        "reviewer": "rach-id",
-        "requestedAt": "2026-08-03T13:59:14Z"
       }
     ],
     "mcrakhman": [
@@ -304,5 +277,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-08-04T03:42:46.016Z"
+  "fetchedAt": "2026-08-04T04:48:25.897Z"
 }
