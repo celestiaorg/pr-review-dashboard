@@ -14,19 +14,19 @@
     ],
     "rach-id": [
       {
-        "number": 7633,
-        "title": "feat(fibre)!: drop unused params",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7633",
+        "number": 7634,
+        "title": " feat(fibre)!: drop unused params",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/7634",
         "repo": "celestia-app",
         "author": "vgonkivs",
         "reviewer": "rach-id",
-        "requestedAt": "2026-08-05T13:21:49Z"
+        "requestedAt": "2026-08-05T14:49:47Z"
       }
     ],
     "mcrakhman": [
       {
         "number": 7599,
-        "title": "fix(fibre): signature verification bug",
+        "title": "fix(fibre)!: signature verification bug",
         "url": "https://github.com/celestiaorg/celestia-app/pull/7599",
         "repo": "celestia-app",
         "author": "ninabarbakadze",
@@ -80,7 +80,7 @@
       },
       {
         "number": 3197,
-        "title": "build(deps): Bump github.com/aws/aws-sdk-go-v2/credentials from 1.19.30 to 1.19.32",
+        "title": "build(deps): Bump github.com/aws/aws-sdk-go-v2/credentials from 1.19.32 to 1.19.33",
         "url": "https://github.com/celestiaorg/celestia-core/pull/3197",
         "repo": "celestia-core",
         "author": "dependabot",
@@ -249,5 +249,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-08-05T14:38:00.975Z"
+  "fetchedAt": "2026-08-05T15:27:11.136Z"
 }
