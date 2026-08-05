@@ -30,6 +30,15 @@
         "author": "ninabarbakadze",
         "reviewer": "rach-id",
         "requestedAt": "2026-08-05T16:10:02Z"
+      },
+      {
+        "number": 3206,
+        "title": "fix(mempool/cat): prevent rerequesting tx from a peer whose request just timed out",
+        "url": "https://github.com/celestiaorg/celestia-core/pull/3206",
+        "repo": "celestia-core",
+        "author": "ninabarbakadze",
+        "reviewer": "rach-id",
+        "requestedAt": "2026-08-05T18:27:27Z"
       }
     ],
     "mcrakhman": [
@@ -124,6 +133,15 @@
         "author": "SashaMIT",
         "reviewer": "vgonkivs",
         "requestedAt": "2026-08-05T12:55:32Z"
+      },
+      {
+        "number": 3205,
+        "title": "fix(mempool/cat): retry tx requests rejected by the per peer request limit",
+        "url": "https://github.com/celestiaorg/celestia-core/pull/3205",
+        "repo": "celestia-core",
+        "author": "ninabarbakadze",
+        "reviewer": "vgonkivs",
+        "requestedAt": "2026-08-05T18:10:05Z"
       },
       {
         "number": 5124,
@@ -258,5 +276,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-08-05T17:58:23.169Z"
+  "fetchedAt": "2026-08-05T18:38:50.367Z"
 }
