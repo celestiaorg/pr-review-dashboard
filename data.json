@@ -10,6 +10,15 @@
         "author": "dependabot",
         "reviewer": "ninabarbakadze",
         "requestedAt": "2026-08-03T17:04:45Z"
+      },
+      {
+        "number": 3207,
+        "title": "fix(consensus): backport double-sign check off-by-one and statsMsgQueue stall",
+        "url": "https://github.com/celestiaorg/celestia-core/pull/3207",
+        "repo": "celestia-core",
+        "author": "rootulp",
+        "reviewer": "ninabarbakadze",
+        "requestedAt": "2026-08-05T19:30:53Z"
       }
     ],
     "rach-id": [
@@ -21,6 +30,24 @@
         "author": "vgonkivs",
         "reviewer": "rach-id",
         "requestedAt": "2026-08-05T14:49:47Z"
+      },
+      {
+        "number": 7636,
+        "title": "ci: re-add proto-gen check to flag hand-edited generated code",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/7636",
+        "repo": "celestia-app",
+        "author": "rootulp",
+        "reviewer": "rach-id",
+        "requestedAt": "2026-08-05T19:10:23Z"
+      },
+      {
+        "number": 7639,
+        "title": "chore: pin protobuf plugins via go.mod tool directives",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/7639",
+        "repo": "celestia-app",
+        "author": "rootulp",
+        "reviewer": "rach-id",
+        "requestedAt": "2026-08-05T19:20:17Z"
       },
       {
         "number": 3203,
@@ -79,15 +106,6 @@
         "requestedAt": "2026-08-03T09:41:17Z"
       },
       {
-        "number": 7636,
-        "title": "ci: re-add proto-gen check to flag hand-edited generated code",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7636",
-        "repo": "celestia-app",
-        "author": "rootulp",
-        "reviewer": "mcrakhman",
-        "requestedAt": "2026-08-05T18:59:19Z"
-      },
-      {
         "number": 3188,
         "title": "build(deps): Bump github.com/prometheus/client_golang from 1.23.2 to 1.24.1",
         "url": "https://github.com/celestiaorg/celestia-core/pull/3188",
@@ -113,6 +131,15 @@
         "author": "ninabarbakadze",
         "reviewer": "mcrakhman",
         "requestedAt": "2026-08-05T17:00:49Z"
+      },
+      {
+        "number": 3208,
+        "title": "fix(mempool): reject abusive Txs messages before unmarshalling",
+        "url": "https://github.com/celestiaorg/celestia-core/pull/3208",
+        "repo": "celestia-core",
+        "author": "rootulp",
+        "reviewer": "mcrakhman",
+        "requestedAt": "2026-08-05T19:35:17Z"
       },
       {
         "number": 5133,
@@ -285,5 +312,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-08-05T19:07:40.955Z"
+  "fetchedAt": "2026-08-05T19:47:15.412Z"
 }
