@@ -107,6 +107,15 @@
     ],
     "vgonkivs": [
       {
+        "number": 7632,
+        "title": "ci: bind nightly test tag input via env before shell",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/7632",
+        "repo": "celestia-app",
+        "author": "SashaMIT",
+        "reviewer": "vgonkivs",
+        "requestedAt": "2026-08-05T12:55:32Z"
+      },
+      {
         "number": 5124,
         "title": "nodebuilder/rpc: Make maxConcurrentConns configurable",
         "url": "https://github.com/celestiaorg/celestia-node/pull/5124",
@@ -141,6 +150,15 @@
         "author": "mohsenm4",
         "reviewer": "vgonkivs",
         "requestedAt": "2026-07-26T06:44:47Z"
+      },
+      {
+        "number": 5157,
+        "title": "ci: pass workflow_dispatch tag via env before shell",
+        "url": "https://github.com/celestiaorg/celestia-node/pull/5157",
+        "repo": "celestia-node",
+        "author": "SashaMIT",
+        "reviewer": "vgonkivs",
+        "requestedAt": "2026-08-05T12:39:01Z"
       }
     ],
     "evan-forbes": [],
@@ -230,5 +248,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-08-05T12:26:28.699Z"
+  "fetchedAt": "2026-08-05T13:05:43.955Z"
 }
