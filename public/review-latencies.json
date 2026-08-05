@@ -36,17 +36,17 @@
     },
     "rach-id": {
       "week": {
-        "n": 7,
-        "medianHours": 0.39666666666666667,
-        "p90Hours": 67.85527777777777
+        "n": 13,
+        "medianHours": 0.4061111111111111,
+        "p90Hours": 16.993055555555557
       },
       "month": {
-        "n": 7,
-        "medianHours": 0.39666666666666667,
-        "p90Hours": 67.85527777777777
+        "n": 13,
+        "medianHours": 0.4061111111111111,
+        "p90Hours": 16.993055555555557
       },
       "year": {
-        "n": 472,
+        "n": 478,
         "medianHours": 1.745,
         "p90Hours": 29.25583333333333
       }
@@ -104,18 +104,18 @@
     },
     "walldiss": {
       "week": {
-        "n": 0,
-        "medianHours": null,
-        "p90Hours": null
+        "n": 1,
+        "medianHours": 96.29472222222222,
+        "p90Hours": 96.29472222222222
       },
       "month": {
-        "n": 0,
-        "medianHours": null,
-        "p90Hours": null
+        "n": 1,
+        "medianHours": 96.29472222222222,
+        "p90Hours": 96.29472222222222
       },
       "year": {
-        "n": 57,
-        "medianHours": 30.19333333333333,
+        "n": 58,
+        "medianHours": 38.2375,
         "p90Hours": 457.43305555555554
       }
     },
@@ -172,17 +172,17 @@
     },
     "renaynay": {
       "week": {
-        "n": 1,
-        "medianHours": 0.14972222222222223,
-        "p90Hours": 0.14972222222222223
+        "n": 2,
+        "medianHours": 17.085833333333333,
+        "p90Hours": 17.085833333333333
       },
       "month": {
-        "n": 1,
-        "medianHours": 0.14972222222222223,
-        "p90Hours": 0.14972222222222223
+        "n": 2,
+        "medianHours": 17.085833333333333,
+        "p90Hours": 17.085833333333333
       },
       "year": {
-        "n": 25,
+        "n": 26,
         "medianHours": 20.55472222222222,
         "p90Hours": 357.9772222222222
       }
@@ -270,7 +270,7 @@
       "defaultHidden": false
     }
   ],
-  "computedAt": "2026-08-04T00:22:57.752Z",
+  "computedAt": "2026-08-05T00:22:49.723Z",
   "windows": {
     "weekStart": "2026-08-03T00:00:00.000Z",
     "monthStart": "2026-08-01T00:00:00.000Z",
