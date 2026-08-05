@@ -24,7 +24,7 @@
       },
       {
         "number": 3203,
-        "title": "fix(mempool/cat): failed WantTx send rollback deleting another peer r…",
+        "title": "fix(mempool/cat): failed WantTx send rollback deleting another peer rerequest",
         "url": "https://github.com/celestiaorg/celestia-core/pull/3203",
         "repo": "celestia-core",
         "author": "ninabarbakadze",
@@ -86,6 +86,15 @@
         "author": "dependabot",
         "reviewer": "mcrakhman",
         "requestedAt": "2026-08-03T09:32:07Z"
+      },
+      {
+        "number": 3204,
+        "title": "fix(mempool/cat): retry WantTx after a failed send",
+        "url": "https://github.com/celestiaorg/celestia-core/pull/3204",
+        "repo": "celestia-core",
+        "author": "ninabarbakadze",
+        "reviewer": "mcrakhman",
+        "requestedAt": "2026-08-05T17:00:49Z"
       },
       {
         "number": 5133,
@@ -249,5 +258,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-08-05T16:48:50.144Z"
+  "fetchedAt": "2026-08-05T17:22:17.968Z"
 }
