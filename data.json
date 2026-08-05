@@ -148,17 +148,7 @@
     "Wondertan": [],
     "tty47": [],
     "pippokr": [],
-    "renaynay": [
-      {
-        "number": 5148,
-        "title": "refactor!(api): da package removal",
-        "url": "https://github.com/celestiaorg/celestia-node/pull/5148",
-        "repo": "celestia-node",
-        "author": "vgonkivs",
-        "reviewer": "renaynay",
-        "requestedAt": "2026-08-04T12:59:17Z"
-      }
-    ],
+    "renaynay": [],
     "chatton": []
   },
   "teamMembers": [
@@ -230,5 +220,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-08-05T09:16:23.477Z"
+  "fetchedAt": "2026-08-05T10:12:55.996Z"
 }
