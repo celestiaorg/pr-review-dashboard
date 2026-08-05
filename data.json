@@ -21,6 +21,15 @@
         "author": "vgonkivs",
         "reviewer": "rach-id",
         "requestedAt": "2026-08-05T14:49:47Z"
+      },
+      {
+        "number": 3203,
+        "title": "fix(mempool/cat): failed WantTx send rollback deleting another peer r…",
+        "url": "https://github.com/celestiaorg/celestia-core/pull/3203",
+        "repo": "celestia-core",
+        "author": "ninabarbakadze",
+        "reviewer": "rach-id",
+        "requestedAt": "2026-08-05T16:10:02Z"
       }
     ],
     "mcrakhman": [
@@ -249,5 +258,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-08-05T15:27:11.136Z"
+  "fetchedAt": "2026-08-05T16:10:35.416Z"
 }
