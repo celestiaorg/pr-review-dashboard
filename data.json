@@ -79,6 +79,15 @@
         "requestedAt": "2026-08-03T09:41:17Z"
       },
       {
+        "number": 7636,
+        "title": "ci: re-add proto-gen check to flag hand-edited generated code",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/7636",
+        "repo": "celestia-app",
+        "author": "rootulp",
+        "reviewer": "mcrakhman",
+        "requestedAt": "2026-08-05T18:59:19Z"
+      },
+      {
         "number": 3188,
         "title": "build(deps): Bump github.com/prometheus/client_golang from 1.23.2 to 1.24.1",
         "url": "https://github.com/celestiaorg/celestia-core/pull/3188",
@@ -276,5 +285,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-08-05T18:38:50.367Z"
+  "fetchedAt": "2026-08-05T19:07:40.955Z"
 }
