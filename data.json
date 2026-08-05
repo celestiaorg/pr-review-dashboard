@@ -106,15 +106,6 @@
         "requestedAt": "2026-08-03T09:41:17Z"
       },
       {
-        "number": 3188,
-        "title": "build(deps): Bump github.com/prometheus/client_golang from 1.23.2 to 1.24.1",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3188",
-        "repo": "celestia-core",
-        "author": "dependabot",
-        "reviewer": "mcrakhman",
-        "requestedAt": "2026-07-27T09:34:24Z"
-      },
-      {
         "number": 3197,
         "title": "build(deps): Bump github.com/aws/aws-sdk-go-v2/credentials from 1.19.32 to 1.19.33",
         "url": "https://github.com/celestiaorg/celestia-core/pull/3197",
@@ -241,7 +232,17 @@
         "requestedAt": "2026-08-05T10:28:28Z"
       }
     ],
-    "chatton": []
+    "chatton": [
+      {
+        "number": 3209,
+        "title": "docs: document v0.40.x and correct the celestia-app version mapping",
+        "url": "https://github.com/celestiaorg/celestia-core/pull/3209",
+        "repo": "celestia-core",
+        "author": "rootulp",
+        "reviewer": "chatton",
+        "requestedAt": "2026-08-05T20:08:05Z"
+      }
+    ]
   },
   "teamMembers": [
     {
@@ -312,5 +313,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-08-05T19:47:15.412Z"
+  "fetchedAt": "2026-08-05T20:20:11.149Z"
 }
