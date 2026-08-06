@@ -3,15 +3,6 @@
     "rootulp": [],
     "ninabarbakadze": [
       {
-        "number": 7616,
-        "title": "chore(deps): bump github.com/hashicorp/go-metrics from 0.6.0 to 0.6.1",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7616",
-        "repo": "celestia-app",
-        "author": "dependabot",
-        "reviewer": "ninabarbakadze",
-        "requestedAt": "2026-08-03T17:04:45Z"
-      },
-      {
         "number": 3207,
         "title": "fix(consensus): backport double-sign check off-by-one and statsMsgQueue stall",
         "url": "https://github.com/celestiaorg/celestia-core/pull/3207",
@@ -33,15 +24,6 @@
       }
     ],
     "mcrakhman": [
-      {
-        "number": 7614,
-        "title": "chore(deps): bump github.com/aws/aws-sdk-go-v2/feature/s3/transfermanager from 0.3.5 to 0.3.8",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7614",
-        "repo": "celestia-app",
-        "author": "dependabot",
-        "reviewer": "mcrakhman",
-        "requestedAt": "2026-08-03T09:36:56Z"
-      },
       {
         "number": 7618,
         "title": "chore(deps): bump google.golang.org/api from 0.290.0 to 0.291.0",
@@ -174,9 +156,28 @@
     "evan-forbes": [],
     "walldiss": [],
     "Wondertan": [],
-    "tty47": [],
+    "tty47": [
+      {
+        "number": 746,
+        "title": "feat(consensus)!: prevent updates to block MaxGas",
+        "url": "https://github.com/celestiaorg/cosmos-sdk/pull/746",
+        "repo": "cosmos-sdk",
+        "author": "ninabarbakadze",
+        "reviewer": "tty47",
+        "requestedAt": "2026-08-06T10:13:47Z"
+      }
+    ],
     "pippokr": [],
     "renaynay": [
+      {
+        "number": 7640,
+        "title": "fix(forwarding)!: always use the mailbox default hook",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/7640",
+        "repo": "celestia-app",
+        "author": "ninabarbakadze",
+        "reviewer": "renaynay",
+        "requestedAt": "2026-08-06T10:14:00Z"
+      },
       {
         "number": 5133,
         "title": "test(tastora): add missing tastora tests",
@@ -258,5 +259,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-08-06T09:32:23.237Z"
+  "fetchedAt": "2026-08-06T10:27:35.559Z"
 }
