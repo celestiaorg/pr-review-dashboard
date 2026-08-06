@@ -3,15 +3,6 @@
     "rootulp": [],
     "ninabarbakadze": [
       {
-        "number": 7622,
-        "title": "chore(deps): bump github.com/aws/aws-sdk-go-v2/service/s3 from 1.106.0 to 1.106.3",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7622",
-        "repo": "celestia-app",
-        "author": "dependabot",
-        "reviewer": "ninabarbakadze",
-        "requestedAt": "2026-08-06T13:18:46Z"
-      },
-      {
         "number": 3207,
         "title": "fix(consensus): backport double-sign check off-by-one and statsMsgQueue stall",
         "url": "https://github.com/celestiaorg/celestia-core/pull/3207",
@@ -31,15 +22,6 @@
         "author": "dependabot",
         "reviewer": "mcrakhman",
         "requestedAt": "2026-08-03T09:37:14Z"
-      },
-      {
-        "number": 7622,
-        "title": "chore(deps): bump github.com/aws/aws-sdk-go-v2/service/s3 from 1.106.0 to 1.106.3",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7622",
-        "repo": "celestia-app",
-        "author": "dependabot",
-        "reviewer": "mcrakhman",
-        "requestedAt": "2026-08-03T09:41:17Z"
       },
       {
         "number": 3197,
@@ -268,5 +250,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-08-06T14:12:35.823Z"
+  "fetchedAt": "2026-08-06T15:00:49.519Z"
 }
