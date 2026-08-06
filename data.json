@@ -3,6 +3,15 @@
     "rootulp": [],
     "ninabarbakadze": [
       {
+        "number": 7622,
+        "title": "chore(deps): bump github.com/aws/aws-sdk-go-v2/service/s3 from 1.106.0 to 1.106.3",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/7622",
+        "repo": "celestia-app",
+        "author": "dependabot",
+        "reviewer": "ninabarbakadze",
+        "requestedAt": "2026-08-06T10:28:22Z"
+      },
+      {
         "number": 3207,
         "title": "fix(consensus): backport double-sign check off-by-one and statsMsgQueue stall",
         "url": "https://github.com/celestiaorg/celestia-core/pull/3207",
@@ -12,17 +21,7 @@
         "requestedAt": "2026-08-05T19:30:53Z"
       }
     ],
-    "rach-id": [
-      {
-        "number": 7634,
-        "title": " feat(fibre)!: drop unused params",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7634",
-        "repo": "celestia-app",
-        "author": "vgonkivs",
-        "reviewer": "rach-id",
-        "requestedAt": "2026-08-05T14:49:47Z"
-      }
-    ],
+    "rach-id": [],
     "mcrakhman": [
       {
         "number": 7618,
@@ -259,5 +258,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-08-06T10:27:35.559Z"
+  "fetchedAt": "2026-08-06T11:19:21.644Z"
 }
