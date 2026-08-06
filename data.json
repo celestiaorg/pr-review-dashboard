@@ -3,13 +3,22 @@
     "rootulp": [],
     "ninabarbakadze": [
       {
-        "number": 3207,
-        "title": "fix(consensus): backport double-sign check off-by-one and statsMsgQueue stall",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3207",
-        "repo": "celestia-core",
-        "author": "rootulp",
+        "number": 7643,
+        "title": "fix(forwarding)!: include custom_hook_id in the canonical derivation path of forwarding address #7640",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/7643",
+        "repo": "celestia-app",
+        "author": "jonas089",
         "reviewer": "ninabarbakadze",
-        "requestedAt": "2026-08-05T19:30:53Z"
+        "requestedAt": "2026-08-06T17:45:43Z"
+      },
+      {
+        "number": 3211,
+        "title": "fix(consensus): backport double-sign check off-by-one and statsMsgQueue stall (backport #3207)",
+        "url": "https://github.com/celestiaorg/celestia-core/pull/3211",
+        "repo": "celestia-core",
+        "author": "mergify",
+        "reviewer": "ninabarbakadze",
+        "requestedAt": "2026-08-06T16:47:48Z"
       }
     ],
     "rach-id": [],
@@ -49,6 +58,15 @@
         "author": "rootulp",
         "reviewer": "mcrakhman",
         "requestedAt": "2026-08-05T19:35:17Z"
+      },
+      {
+        "number": 3212,
+        "title": "fix(consensus): backport double-sign check off-by-one and statsMsgQueue stall (backport #3207)",
+        "url": "https://github.com/celestiaorg/celestia-core/pull/3212",
+        "repo": "celestia-core",
+        "author": "mergify",
+        "reviewer": "mcrakhman",
+        "requestedAt": "2026-08-06T16:47:58Z"
       },
       {
         "number": 5133,
@@ -139,36 +157,17 @@
     "Wondertan": [],
     "tty47": [
       {
-        "number": 746,
-        "title": "feat(consensus)!: prevent updates to block MaxGas",
-        "url": "https://github.com/celestiaorg/cosmos-sdk/pull/746",
-        "repo": "cosmos-sdk",
-        "author": "ninabarbakadze",
+        "number": 7643,
+        "title": "fix(forwarding)!: include custom_hook_id in the canonical derivation path of forwarding address #7640",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/7643",
+        "repo": "celestia-app",
+        "author": "jonas089",
         "reviewer": "tty47",
-        "requestedAt": "2026-08-06T10:13:47Z"
+        "requestedAt": "2026-08-06T17:45:30Z"
       }
     ],
-    "pippokr": [
-      {
-        "number": 7642,
-        "title": "ci: auto-tidy go modules on dependabot PRs",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7642",
-        "repo": "celestia-app",
-        "author": "rootulp",
-        "reviewer": "pippokr",
-        "requestedAt": "2026-08-06T13:42:38Z"
-      }
-    ],
+    "pippokr": [],
     "renaynay": [
-      {
-        "number": 7640,
-        "title": "fix(forwarding)!: always use the mailbox default hook",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7640",
-        "repo": "celestia-app",
-        "author": "ninabarbakadze",
-        "reviewer": "renaynay",
-        "requestedAt": "2026-08-06T10:14:00Z"
-      },
       {
         "number": 5133,
         "title": "test(tastora): add missing tastora tests",
@@ -250,5 +249,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-08-06T15:00:49.519Z"
+  "fetchedAt": "2026-08-06T23:08:51.617Z"
 }
