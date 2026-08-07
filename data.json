@@ -33,15 +33,6 @@
         "requestedAt": "2026-08-03T09:37:14Z"
       },
       {
-        "number": 3197,
-        "title": "build(deps): Bump github.com/aws/aws-sdk-go-v2/credentials from 1.19.32 to 1.19.33",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3197",
-        "repo": "celestia-core",
-        "author": "dependabot",
-        "reviewer": "mcrakhman",
-        "requestedAt": "2026-08-03T09:32:07Z"
-      },
-      {
         "number": 3204,
         "title": "fix(mempool/cat): retry WantTx after a failed send",
         "url": "https://github.com/celestiaorg/celestia-core/pull/3204",
@@ -49,15 +40,6 @@
         "author": "ninabarbakadze",
         "reviewer": "mcrakhman",
         "requestedAt": "2026-08-05T17:00:49Z"
-      },
-      {
-        "number": 3208,
-        "title": "fix(mempool): reject abusive Txs messages before unmarshalling",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3208",
-        "repo": "celestia-core",
-        "author": "rootulp",
-        "reviewer": "mcrakhman",
-        "requestedAt": "2026-08-05T19:35:17Z"
       },
       {
         "number": 3212,
@@ -249,5 +231,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-08-07T15:47:30.486Z"
+  "fetchedAt": "2026-08-07T16:09:34.600Z"
 }
