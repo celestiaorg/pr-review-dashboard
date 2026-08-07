@@ -21,7 +21,17 @@
         "requestedAt": "2026-08-06T16:47:48Z"
       }
     ],
-    "rach-id": [],
+    "rach-id": [
+      {
+        "number": 7642,
+        "title": "ci: auto-tidy go modules on dependabot PRs",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/7642",
+        "repo": "celestia-app",
+        "author": "rootulp",
+        "reviewer": "rach-id",
+        "requestedAt": "2026-08-07T17:57:28Z"
+      }
+    ],
     "mcrakhman": [
       {
         "number": 7618,
@@ -231,5 +241,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-08-07T17:56:28.666Z"
+  "fetchedAt": "2026-08-07T18:18:25.545Z"
 }
