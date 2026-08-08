@@ -23,6 +23,15 @@
     ],
     "rach-id": [
       {
+        "number": 450,
+        "title": "chore: Bump github/codeql-action from 4.37.5 to 4.37.6",
+        "url": "https://github.com/celestiaorg/blobstream-contracts/pull/450",
+        "repo": "blobstream-contracts",
+        "author": "dependabot",
+        "reviewer": "rach-id",
+        "requestedAt": "2026-08-07T23:53:48Z"
+      },
+      {
         "number": 7642,
         "title": "ci: auto-tidy go modules on dependabot PRs",
         "url": "https://github.com/celestiaorg/celestia-app/pull/7642",
@@ -241,5 +250,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-08-07T23:46:35.491Z"
+  "fetchedAt": "2026-08-08T00:01:02.933Z"
 }
