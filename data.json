@@ -24,15 +24,6 @@
     "rach-id": [],
     "mcrakhman": [
       {
-        "number": 7618,
-        "title": "chore(deps): bump google.golang.org/api from 0.290.0 to 0.291.0",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7618",
-        "repo": "celestia-app",
-        "author": "dependabot",
-        "reviewer": "mcrakhman",
-        "requestedAt": "2026-08-03T09:37:14Z"
-      },
-      {
         "number": 3204,
         "title": "fix(mempool/cat): retry WantTx after a failed send",
         "url": "https://github.com/celestiaorg/celestia-core/pull/3204",
@@ -231,5 +222,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-08-09T20:22:39.982Z"
+  "fetchedAt": "2026-08-09T20:40:09.057Z"
 }
