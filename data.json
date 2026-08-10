@@ -223,6 +223,24 @@
         "author": "SashaMIT",
         "reviewer": "vgonkivs",
         "requestedAt": "2026-08-05T12:39:01Z"
+      },
+      {
+        "number": 5160,
+        "title": "chore(deps): bump the libp2p group across 1 directory with 2 updates",
+        "url": "https://github.com/celestiaorg/celestia-node/pull/5160",
+        "repo": "celestia-node",
+        "author": "dependabot",
+        "reviewer": "vgonkivs",
+        "requestedAt": "2026-08-10T11:08:48Z"
+      },
+      {
+        "number": 5161,
+        "title": "chore(deps): bump the go-deps group across 1 directory with 13 updates",
+        "url": "https://github.com/celestiaorg/celestia-node/pull/5161",
+        "repo": "celestia-node",
+        "author": "dependabot",
+        "reviewer": "vgonkivs",
+        "requestedAt": "2026-08-10T11:10:06Z"
       }
     ],
     "evan-forbes": [],
@@ -396,5 +414,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-08-10T10:43:02.615Z"
+  "fetchedAt": "2026-08-10T11:11:06.092Z"
 }
