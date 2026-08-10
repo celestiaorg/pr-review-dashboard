@@ -89,30 +89,12 @@
     const container = document.getElementById("toggles");
     container.innerHTML = "";
 
-    const active = teamMembers.filter((m) => !m.alumni);
-    const alumni = teamMembers.filter((m) => m.alumni);
-
-    const activeGroup = document.createElement("div");
-    activeGroup.className = "toggle-group";
-    for (const member of active) {
-      activeGroup.appendChild(createToggleButton(member));
+    const group = document.createElement("div");
+    group.className = "toggle-group";
+    for (const member of teamMembers) {
+      group.appendChild(createToggleButton(member));
     }
-    container.appendChild(activeGroup);
-
-    if (alumni.length > 0) {
-      const alumniGroup = document.createElement("div");
-      alumniGroup.className = "toggle-group alumni";
-
-      const label = document.createElement("span");
-      label.className = "toggle-group-label";
-      label.textContent = "Alumni";
-      alumniGroup.appendChild(label);
-
-      for (const member of alumni) {
-        alumniGroup.appendChild(createToggleButton(member));
-      }
-      container.appendChild(alumniGroup);
-    }
+    container.appendChild(group);
   }
 
   // Collapse a card's PR list when it has more than COLLAPSE_THRESHOLD
@@ -389,7 +371,11 @@
       if (!response.ok) throw new Error(`HTTP ${response.status}`);
 
       const data = await response.json();
-      teamMembers = data.teamMembers;
+      // Alphabetical by name so the toggle bar and card grid stay in a
+      // predictable order regardless of how config.js lists members.
+      teamMembers = [...data.teamMembers].sort((a, b) =>
+        a.name.localeCompare(b.name)
+      );
       thresholds = data.thresholds;
 
       loading.style.display = "none";
