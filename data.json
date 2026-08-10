@@ -216,15 +216,6 @@
         "requestedAt": "2026-07-26T06:44:47Z"
       },
       {
-        "number": 5157,
-        "title": "ci: pass workflow_dispatch tag via env before shell",
-        "url": "https://github.com/celestiaorg/celestia-node/pull/5157",
-        "repo": "celestia-node",
-        "author": "SashaMIT",
-        "reviewer": "vgonkivs",
-        "requestedAt": "2026-08-05T12:39:01Z"
-      },
-      {
         "number": 5160,
         "title": "chore(deps): bump the libp2p group across 1 directory with 2 updates",
         "url": "https://github.com/celestiaorg/celestia-node/pull/5160",
@@ -414,5 +405,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-08-10T12:32:49.056Z"
+  "fetchedAt": "2026-08-10T12:57:43.766Z"
 }
