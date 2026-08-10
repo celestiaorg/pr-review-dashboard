@@ -1,25 +1,6 @@
 {
   "reviews": {
-    "rootulp": [
-      {
-        "number": 7650,
-        "title": "chore(deps): bump go.opentelemetry.io/contrib/instrumentation/google.golang.org/grpc/otelgrpc from 0.68.0 to 0.70.0",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7650",
-        "repo": "celestia-app",
-        "author": "dependabot",
-        "reviewer": "rootulp",
-        "requestedAt": "2026-08-10T09:36:49Z"
-      },
-      {
-        "number": 7656,
-        "title": "chore(deps): bump go.opentelemetry.io/otel/sdk/metric from 1.44.0 to 1.45.0",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7656",
-        "repo": "celestia-app",
-        "author": "dependabot",
-        "reviewer": "rootulp",
-        "requestedAt": "2026-08-10T09:40:00Z"
-      }
-    ],
+    "rootulp": [],
     "ninabarbakadze": [
       {
         "number": 7643,
@@ -77,6 +58,15 @@
         "author": "dependabot",
         "reviewer": "mcrakhman",
         "requestedAt": "2026-08-10T09:38:22Z"
+      },
+      {
+        "number": 7660,
+        "title": "Update merge queue configuration",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/7660",
+        "repo": "celestia-app",
+        "author": "rootulp",
+        "reviewer": "mcrakhman",
+        "requestedAt": "2026-08-10T22:27:31Z"
       },
       {
         "number": 3204,
@@ -378,5 +368,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-08-10T22:20:27.721Z"
+  "fetchedAt": "2026-08-10T22:37:35.138Z"
 }
