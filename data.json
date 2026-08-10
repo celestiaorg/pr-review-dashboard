@@ -12,6 +12,15 @@
         "requestedAt": "2026-08-06T17:45:43Z"
       },
       {
+        "number": 7645,
+        "title": "feat(fibre)!: use Celestia-owned OID for TLS identity extension",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/7645",
+        "repo": "celestia-app",
+        "author": "rach-id",
+        "reviewer": "ninabarbakadze",
+        "requestedAt": "2026-08-10T07:06:25Z"
+      },
+      {
         "number": 3211,
         "title": "fix(consensus): backport double-sign check off-by-one and statsMsgQueue stall (backport #3207)",
         "url": "https://github.com/celestiaorg/celestia-core/pull/3211",
@@ -69,6 +78,15 @@
         "author": "SashaMIT",
         "reviewer": "vgonkivs",
         "requestedAt": "2026-08-05T12:55:32Z"
+      },
+      {
+        "number": 7645,
+        "title": "feat(fibre)!: use Celestia-owned OID for TLS identity extension",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/7645",
+        "repo": "celestia-app",
+        "author": "rach-id",
+        "reviewer": "vgonkivs",
+        "requestedAt": "2026-08-10T07:06:25Z"
       },
       {
         "number": 3205,
@@ -139,7 +157,17 @@
         "requestedAt": "2026-08-06T17:45:30Z"
       }
     ],
-    "pippokr": [],
+    "pippokr": [
+      {
+        "number": 7645,
+        "title": "feat(fibre)!: use Celestia-owned OID for TLS identity extension",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/7645",
+        "repo": "celestia-app",
+        "author": "rach-id",
+        "reviewer": "pippokr",
+        "requestedAt": "2026-08-10T07:06:01Z"
+      }
+    ],
     "renaynay": [
       {
         "number": 5133,
@@ -222,5 +250,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-08-10T06:45:30.520Z"
+  "fetchedAt": "2026-08-10T07:16:40.231Z"
 }
