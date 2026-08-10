@@ -85,24 +85,6 @@
         "author": "dependabot",
         "reviewer": "rach-id",
         "requestedAt": "2026-08-10T09:40:13Z"
-      },
-      {
-        "number": 3214,
-        "title": "build(deps): Bump go.opentelemetry.io/otel/sdk from 1.44.0 to 1.45.0",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3214",
-        "repo": "celestia-core",
-        "author": "dependabot",
-        "reviewer": "rach-id",
-        "requestedAt": "2026-08-10T09:34:20Z"
-      },
-      {
-        "number": 3217,
-        "title": "build(deps): Bump github.com/aws/aws-sdk-go-v2/credentials from 1.19.33 to 1.19.34",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3217",
-        "repo": "celestia-core",
-        "author": "dependabot",
-        "reviewer": "rach-id",
-        "requestedAt": "2026-08-10T09:37:16Z"
       }
     ],
     "mcrakhman": [
@@ -442,5 +424,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-08-10T09:44:01.511Z"
+  "fetchedAt": "2026-08-10T10:13:51.488Z"
 }
