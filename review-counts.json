@@ -1,17 +1,17 @@
 {
   "counts": {
     "rootulp": {
-      "week": 7,
+      "week": 0,
       "month": 7,
       "year": 410
     },
     "ninabarbakadze": {
-      "week": 10,
+      "week": 0,
       "month": 10,
       "year": 477
     },
     "rach-id": {
-      "week": 31,
+      "week": 0,
       "month": 31,
       "year": 668
     },
@@ -21,7 +21,7 @@
       "year": 113
     },
     "vgonkivs": {
-      "week": 17,
+      "week": 0,
       "month": 17,
       "year": 198
     },
@@ -31,7 +31,7 @@
       "year": 106
     },
     "walldiss": {
-      "week": 1,
+      "week": 0,
       "month": 1,
       "year": 123
     },
@@ -51,19 +51,19 @@
       "year": 1
     },
     "renaynay": {
-      "week": 2,
+      "week": 0,
       "month": 2,
       "year": 32
     },
     "chatton": {
-      "week": 1,
+      "week": 0,
       "month": 1,
       "year": 4
     }
   },
-  "computedAt": "2026-08-09T00:07:55.437Z",
+  "computedAt": "2026-08-10T00:08:29.229Z",
   "windows": {
-    "weekStart": "2026-08-03T00:00:00.000Z",
+    "weekStart": "2026-08-10T00:00:00.000Z",
     "monthStart": "2026-08-01T00:00:00.000Z",
     "yearStart": "2026-01-01T00:00:00.000Z"
   }
