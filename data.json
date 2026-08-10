@@ -1,6 +1,130 @@
 {
   "reviews": {
-    "rootulp": [],
+    "chatton": [
+      {
+        "number": 7654,
+        "title": "chore(deps): bump go.opentelemetry.io/contrib/bridges/prometheus from 0.69.0 to 0.70.0",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/7654",
+        "repo": "celestia-app",
+        "author": "dependabot",
+        "reviewer": "chatton",
+        "requestedAt": "2026-08-10T09:38:35Z"
+      },
+      {
+        "number": 3216,
+        "title": "build(deps): Bump go.opentelemetry.io/otel/exporters/stdout/stdouttrace from 1.44.0 to 1.45.0",
+        "url": "https://github.com/celestiaorg/celestia-core/pull/3216",
+        "repo": "celestia-core",
+        "author": "dependabot",
+        "reviewer": "chatton",
+        "requestedAt": "2026-08-10T09:35:51Z"
+      }
+    ],
+    "pippokr": [
+      {
+        "number": 7645,
+        "title": "feat(fibre)!: use Celestia-owned OID for TLS identity extension",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/7645",
+        "repo": "celestia-app",
+        "author": "rach-id",
+        "reviewer": "pippokr",
+        "requestedAt": "2026-08-10T07:06:01Z"
+      },
+      {
+        "number": 7649,
+        "title": "chore(deps): bump github.com/aws/aws-sdk-go-v2 from 1.43.3 to 1.43.4",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/7649",
+        "repo": "celestia-app",
+        "author": "dependabot",
+        "reviewer": "pippokr",
+        "requestedAt": "2026-08-10T09:36:38Z"
+      },
+      {
+        "number": 7655,
+        "title": "chore(deps): bump github.com/aws/aws-sdk-go-v2/config from 1.32.34 to 1.32.35",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/7655",
+        "repo": "celestia-app",
+        "author": "dependabot",
+        "reviewer": "pippokr",
+        "requestedAt": "2026-08-10T09:39:55Z"
+      }
+    ],
+    "tty47": [
+      {
+        "number": 7643,
+        "title": "fix(forwarding)!: include custom_hook_id in the canonical derivation path of forwarding address #7640",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/7643",
+        "repo": "celestia-app",
+        "author": "jonas089",
+        "reviewer": "tty47",
+        "requestedAt": "2026-08-06T17:45:30Z"
+      },
+      {
+        "number": 7647,
+        "title": "chore(deps): bump github/codeql-action/init from 4.37.4 to 4.37.6",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/7647",
+        "repo": "celestia-app",
+        "author": "dependabot",
+        "reviewer": "tty47",
+        "requestedAt": "2026-08-10T09:36:35Z"
+      },
+      {
+        "number": 3218,
+        "title": "build(deps): Bump github.com/aws/aws-sdk-go-v2/service/s3 from 1.106.2 to 1.107.0",
+        "url": "https://github.com/celestiaorg/celestia-core/pull/3218",
+        "repo": "celestia-core",
+        "author": "dependabot",
+        "reviewer": "tty47",
+        "requestedAt": "2026-08-10T09:38:38Z"
+      }
+    ],
+    "mcrakhman": [
+      {
+        "number": 7653,
+        "title": "chore(deps): bump github.com/aws/aws-sdk-go-v2/feature/s3/transfermanager from 0.3.8 to 0.3.11",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/7653",
+        "repo": "celestia-app",
+        "author": "dependabot",
+        "reviewer": "mcrakhman",
+        "requestedAt": "2026-08-10T09:38:22Z"
+      },
+      {
+        "number": 7660,
+        "title": "ci: disable mergify merge queue comments",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/7660",
+        "repo": "celestia-app",
+        "author": "rootulp",
+        "reviewer": "mcrakhman",
+        "requestedAt": "2026-08-10T22:27:31Z"
+      },
+      {
+        "number": 3204,
+        "title": "fix(mempool/cat): retry WantTx after a failed send",
+        "url": "https://github.com/celestiaorg/celestia-core/pull/3204",
+        "repo": "celestia-core",
+        "author": "ninabarbakadze",
+        "reviewer": "mcrakhman",
+        "requestedAt": "2026-08-05T17:00:49Z"
+      },
+      {
+        "number": 5133,
+        "title": "test(tastora): add missing tastora tests",
+        "url": "https://github.com/celestiaorg/celestia-node/pull/5133",
+        "repo": "celestia-node",
+        "author": "vgonkivs",
+        "reviewer": "mcrakhman",
+        "requestedAt": "2026-07-24T11:26:00Z"
+      },
+      {
+        "number": 403,
+        "title": "chore(deps): bump github.com/pion/stun/v3 from 3.1.1 to 3.1.5",
+        "url": "https://github.com/celestiaorg/go-header/pull/403",
+        "repo": "go-header",
+        "author": "dependabot",
+        "reviewer": "mcrakhman",
+        "requestedAt": "2026-08-01T06:53:58Z"
+      }
+    ],
     "ninabarbakadze": [
       {
         "number": 7643,
@@ -49,33 +173,15 @@
       }
     ],
     "rach-id": [],
-    "mcrakhman": [
+    "renaynay": [
       {
-        "number": 7653,
-        "title": "chore(deps): bump github.com/aws/aws-sdk-go-v2/feature/s3/transfermanager from 0.3.8 to 0.3.11",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7653",
+        "number": 7648,
+        "title": "chore(deps): bump github.com/celestiaorg/tastora from 0.21.0 to 0.21.1 in /test/docker-e2e",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/7648",
         "repo": "celestia-app",
         "author": "dependabot",
-        "reviewer": "mcrakhman",
-        "requestedAt": "2026-08-10T09:38:22Z"
-      },
-      {
-        "number": 7660,
-        "title": "Update merge queue configuration",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7660",
-        "repo": "celestia-app",
-        "author": "rootulp",
-        "reviewer": "mcrakhman",
-        "requestedAt": "2026-08-10T22:27:31Z"
-      },
-      {
-        "number": 3204,
-        "title": "fix(mempool/cat): retry WantTx after a failed send",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3204",
-        "repo": "celestia-core",
-        "author": "ninabarbakadze",
-        "reviewer": "mcrakhman",
-        "requestedAt": "2026-08-05T17:00:49Z"
+        "reviewer": "renaynay",
+        "requestedAt": "2026-08-10T09:36:37Z"
       },
       {
         "number": 5133,
@@ -83,19 +189,11 @@
         "url": "https://github.com/celestiaorg/celestia-node/pull/5133",
         "repo": "celestia-node",
         "author": "vgonkivs",
-        "reviewer": "mcrakhman",
-        "requestedAt": "2026-07-24T11:26:00Z"
-      },
-      {
-        "number": 403,
-        "title": "chore(deps): bump github.com/pion/stun/v3 from 3.1.1 to 3.1.5",
-        "url": "https://github.com/celestiaorg/go-header/pull/403",
-        "repo": "go-header",
-        "author": "dependabot",
-        "reviewer": "mcrakhman",
-        "requestedAt": "2026-08-01T06:53:58Z"
+        "reviewer": "renaynay",
+        "requestedAt": "2026-08-05T10:28:28Z"
       }
     ],
+    "rootulp": [],
     "vgonkivs": [
       {
         "number": 7632,
@@ -196,113 +294,27 @@
         "reviewer": "vgonkivs",
         "requestedAt": "2026-08-10T11:10:06Z"
       }
-    ],
-    "evan-forbes": [],
-    "walldiss": [],
-    "Wondertan": [],
-    "tty47": [
-      {
-        "number": 7643,
-        "title": "fix(forwarding)!: include custom_hook_id in the canonical derivation path of forwarding address #7640",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7643",
-        "repo": "celestia-app",
-        "author": "jonas089",
-        "reviewer": "tty47",
-        "requestedAt": "2026-08-06T17:45:30Z"
-      },
-      {
-        "number": 7647,
-        "title": "chore(deps): bump github/codeql-action/init from 4.37.4 to 4.37.6",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7647",
-        "repo": "celestia-app",
-        "author": "dependabot",
-        "reviewer": "tty47",
-        "requestedAt": "2026-08-10T09:36:35Z"
-      },
-      {
-        "number": 3218,
-        "title": "build(deps): Bump github.com/aws/aws-sdk-go-v2/service/s3 from 1.106.2 to 1.107.0",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3218",
-        "repo": "celestia-core",
-        "author": "dependabot",
-        "reviewer": "tty47",
-        "requestedAt": "2026-08-10T09:38:38Z"
-      }
-    ],
-    "pippokr": [
-      {
-        "number": 7645,
-        "title": "feat(fibre)!: use Celestia-owned OID for TLS identity extension",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7645",
-        "repo": "celestia-app",
-        "author": "rach-id",
-        "reviewer": "pippokr",
-        "requestedAt": "2026-08-10T07:06:01Z"
-      },
-      {
-        "number": 7649,
-        "title": "chore(deps): bump github.com/aws/aws-sdk-go-v2 from 1.43.3 to 1.43.4",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7649",
-        "repo": "celestia-app",
-        "author": "dependabot",
-        "reviewer": "pippokr",
-        "requestedAt": "2026-08-10T09:36:38Z"
-      },
-      {
-        "number": 7655,
-        "title": "chore(deps): bump github.com/aws/aws-sdk-go-v2/config from 1.32.34 to 1.32.35",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7655",
-        "repo": "celestia-app",
-        "author": "dependabot",
-        "reviewer": "pippokr",
-        "requestedAt": "2026-08-10T09:39:55Z"
-      }
-    ],
-    "renaynay": [
-      {
-        "number": 7648,
-        "title": "chore(deps): bump github.com/celestiaorg/tastora from 0.21.0 to 0.21.1 in /test/docker-e2e",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7648",
-        "repo": "celestia-app",
-        "author": "dependabot",
-        "reviewer": "renaynay",
-        "requestedAt": "2026-08-10T09:36:37Z"
-      },
-      {
-        "number": 5133,
-        "title": "test(tastora): add missing tastora tests",
-        "url": "https://github.com/celestiaorg/celestia-node/pull/5133",
-        "repo": "celestia-node",
-        "author": "vgonkivs",
-        "reviewer": "renaynay",
-        "requestedAt": "2026-08-05T10:28:28Z"
-      }
-    ],
-    "chatton": [
-      {
-        "number": 7654,
-        "title": "chore(deps): bump go.opentelemetry.io/contrib/bridges/prometheus from 0.69.0 to 0.70.0",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7654",
-        "repo": "celestia-app",
-        "author": "dependabot",
-        "reviewer": "chatton",
-        "requestedAt": "2026-08-10T09:38:35Z"
-      },
-      {
-        "number": 3216,
-        "title": "build(deps): Bump go.opentelemetry.io/otel/exporters/stdout/stdouttrace from 1.44.0 to 1.45.0",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3216",
-        "repo": "celestia-core",
-        "author": "dependabot",
-        "reviewer": "chatton",
-        "requestedAt": "2026-08-10T09:35:51Z"
-      }
     ]
   },
   "teamMembers": [
     {
-      "name": "Rootul",
-      "github": "rootulp",
+      "name": "Cian",
+      "github": "chatton",
+      "defaultHidden": false
+    },
+    {
+      "name": "Cris",
+      "github": "pippokr",
+      "defaultHidden": false
+    },
+    {
+      "name": "Jose",
+      "github": "tty47",
+      "defaultHidden": false
+    },
+    {
+      "name": "Mikhail",
+      "github": "mcrakhman",
       "defaultHidden": false
     },
     {
@@ -316,51 +328,18 @@
       "defaultHidden": false
     },
     {
-      "name": "Mikhail",
-      "github": "mcrakhman",
-      "defaultHidden": false
-    },
-    {
-      "name": "Slava",
-      "github": "vgonkivs",
-      "defaultHidden": false
-    },
-    {
-      "name": "Evan",
-      "github": "evan-forbes",
-      "defaultHidden": true,
-      "alumni": true
-    },
-    {
-      "name": "Vlad",
-      "github": "walldiss",
-      "defaultHidden": true,
-      "alumni": true
-    },
-    {
-      "name": "Hlib",
-      "github": "Wondertan",
-      "defaultHidden": true,
-      "alumni": true
-    },
-    {
-      "name": "Jose",
-      "github": "tty47",
-      "defaultHidden": false
-    },
-    {
-      "name": "Cris",
-      "github": "pippokr",
-      "defaultHidden": false
-    },
-    {
       "name": "Rene",
       "github": "renaynay",
       "defaultHidden": false
     },
     {
-      "name": "Cian",
-      "github": "chatton",
+      "name": "Rootul",
+      "github": "rootulp",
+      "defaultHidden": false
+    },
+    {
+      "name": "Slava",
+      "github": "vgonkivs",
       "defaultHidden": false
     }
   ],
@@ -368,5 +347,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-08-10T22:37:35.138Z"
+  "fetchedAt": "2026-08-10T22:52:21.177Z"
 }

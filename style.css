@@ -39,21 +39,6 @@ header h1 {
   gap: 8px;
 }
 
-.toggle-group-label {
-  font-size: 0.75rem;
-  color: #666;
-  text-transform: uppercase;
-  letter-spacing: 0.05em;
-}
-
-.toggle-group.alumni .toggle-btn {
-  opacity: 0.7;
-}
-
-.toggle-group.alumni .toggle-btn.hidden {
-  opacity: 0.35;
-}
-
 .toggle-btn {
   padding: 6px 16px;
   border-radius: 20px;
