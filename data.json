@@ -89,15 +89,6 @@
         "requestedAt": "2026-08-10T09:38:22Z"
       },
       {
-        "number": 7660,
-        "title": "ci: disable mergify merge queue comments",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7660",
-        "repo": "celestia-app",
-        "author": "rootulp",
-        "reviewer": "mcrakhman",
-        "requestedAt": "2026-08-10T22:27:31Z"
-      },
-      {
         "number": 3204,
         "title": "fix(mempool/cat): retry WantTx after a failed send",
         "url": "https://github.com/celestiaorg/celestia-core/pull/3204",
@@ -356,5 +347,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-08-11T12:55:04.901Z"
+  "fetchedAt": "2026-08-11T13:27:35.500Z"
 }
