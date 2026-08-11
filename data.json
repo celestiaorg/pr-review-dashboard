@@ -112,6 +112,15 @@
         "requestedAt": "2026-08-10T09:36:37Z"
       },
       {
+        "number": 3221,
+        "title": "fix(ci): resolve govulncheck failures on v0.40.x",
+        "url": "https://github.com/celestiaorg/celestia-core/pull/3221",
+        "repo": "celestia-core",
+        "author": "rootulp",
+        "reviewer": "renaynay",
+        "requestedAt": "2026-08-11T23:41:53Z"
+      },
+      {
         "number": 5133,
         "title": "test(tastora): add missing tastora tests",
         "url": "https://github.com/celestiaorg/celestia-node/pull/5133",
@@ -284,5 +293,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-08-11T23:38:56.877Z"
+  "fetchedAt": "2026-08-11T23:58:39.165Z"
 }
