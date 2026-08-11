@@ -69,44 +69,7 @@
         "requestedAt": "2026-08-10T09:38:38Z"
       }
     ],
-    "mcrakhman": [
-      {
-        "number": 7653,
-        "title": "chore(deps): bump github.com/aws/aws-sdk-go-v2/feature/s3/transfermanager from 0.3.8 to 0.3.11",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7653",
-        "repo": "celestia-app",
-        "author": "dependabot",
-        "reviewer": "mcrakhman",
-        "requestedAt": "2026-08-10T09:38:22Z"
-      },
-      {
-        "number": 3204,
-        "title": "fix(mempool/cat): retry WantTx after a failed send",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3204",
-        "repo": "celestia-core",
-        "author": "ninabarbakadze",
-        "reviewer": "mcrakhman",
-        "requestedAt": "2026-08-05T17:00:49Z"
-      },
-      {
-        "number": 5133,
-        "title": "test(tastora): add missing tastora tests",
-        "url": "https://github.com/celestiaorg/celestia-node/pull/5133",
-        "repo": "celestia-node",
-        "author": "vgonkivs",
-        "reviewer": "mcrakhman",
-        "requestedAt": "2026-07-24T11:26:00Z"
-      },
-      {
-        "number": 403,
-        "title": "chore(deps): bump github.com/pion/stun/v3 from 3.1.1 to 3.1.5",
-        "url": "https://github.com/celestiaorg/go-header/pull/403",
-        "repo": "go-header",
-        "author": "dependabot",
-        "reviewer": "mcrakhman",
-        "requestedAt": "2026-08-01T06:53:58Z"
-      }
-    ],
+    "mcrakhman": [],
     "ninabarbakadze": [
       {
         "number": 7643,
@@ -329,5 +292,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-08-11T20:40:12.242Z"
+  "fetchedAt": "2026-08-11T21:01:34.372Z"
 }
