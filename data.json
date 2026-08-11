@@ -22,15 +22,6 @@
     ],
     "pippokr": [
       {
-        "number": 7645,
-        "title": "feat(fibre)!: use Celestia-owned OID for TLS identity extension",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7645",
-        "repo": "celestia-app",
-        "author": "rach-id",
-        "reviewer": "pippokr",
-        "requestedAt": "2026-08-10T07:06:01Z"
-      },
-      {
         "number": 7649,
         "title": "chore(deps): bump github.com/aws/aws-sdk-go-v2 from 1.43.3 to 1.43.4",
         "url": "https://github.com/celestiaorg/celestia-app/pull/7649",
@@ -338,5 +329,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-08-11T20:21:39.136Z"
+  "fetchedAt": "2026-08-11T20:40:12.242Z"
 }
