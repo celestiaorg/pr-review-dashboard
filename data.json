@@ -127,15 +127,6 @@
         "requestedAt": "2026-08-06T17:45:43Z"
       },
       {
-        "number": 7645,
-        "title": "feat(fibre)!: use Celestia-owned OID for TLS identity extension",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7645",
-        "repo": "celestia-app",
-        "author": "rach-id",
-        "reviewer": "ninabarbakadze",
-        "requestedAt": "2026-08-10T07:06:25Z"
-      },
-      {
         "number": 7646,
         "title": "chore(deps): bump dorny/paths-filter from 4.0.2 to 4.0.3",
         "url": "https://github.com/celestiaorg/celestia-app/pull/7646",
@@ -184,7 +175,17 @@
         "requestedAt": "2026-08-05T10:28:28Z"
       }
     ],
-    "rootulp": [],
+    "rootulp": [
+      {
+        "number": 7645,
+        "title": "feat(fibre)!: use Celestia-owned OID for TLS identity extension",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/7645",
+        "repo": "celestia-app",
+        "author": "rach-id",
+        "reviewer": "rootulp",
+        "requestedAt": "2026-08-11T16:01:34Z"
+      }
+    ],
     "vgonkivs": [
       {
         "number": 7632,
@@ -347,5 +348,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-08-11T15:42:16.149Z"
+  "fetchedAt": "2026-08-11T16:07:26.658Z"
 }
