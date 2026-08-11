@@ -9,15 +9,6 @@
         "author": "dependabot",
         "reviewer": "chatton",
         "requestedAt": "2026-08-10T09:38:35Z"
-      },
-      {
-        "number": 3216,
-        "title": "build(deps): Bump go.opentelemetry.io/otel/exporters/stdout/stdouttrace from 1.44.0 to 1.45.0",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3216",
-        "repo": "celestia-core",
-        "author": "dependabot",
-        "reviewer": "chatton",
-        "requestedAt": "2026-08-10T09:35:51Z"
       }
     ],
     "pippokr": [
@@ -58,15 +49,6 @@
         "author": "dependabot",
         "reviewer": "tty47",
         "requestedAt": "2026-08-10T09:36:35Z"
-      },
-      {
-        "number": 3218,
-        "title": "build(deps): Bump github.com/aws/aws-sdk-go-v2/service/s3 from 1.106.2 to 1.107.0",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3218",
-        "repo": "celestia-core",
-        "author": "dependabot",
-        "reviewer": "tty47",
-        "requestedAt": "2026-08-10T09:38:38Z"
       }
     ],
     "mcrakhman": [],
@@ -108,7 +90,17 @@
         "requestedAt": "2026-08-10T09:41:35Z"
       }
     ],
-    "rach-id": [],
+    "rach-id": [
+      {
+        "number": 3220,
+        "title": "fix(types): validate nil SignedHeader in LightClientAttackEvidence (backport #2923)",
+        "url": "https://github.com/celestiaorg/celestia-core/pull/3220",
+        "repo": "celestia-core",
+        "author": "mergify",
+        "reviewer": "rach-id",
+        "requestedAt": "2026-08-11T23:25:44Z"
+      }
+    ],
     "renaynay": [
       {
         "number": 7648,
@@ -292,5 +284,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-08-11T23:21:10.241Z"
+  "fetchedAt": "2026-08-11T23:38:56.877Z"
 }
