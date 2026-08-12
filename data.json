@@ -83,15 +83,6 @@
     ],
     "rach-id": [
       {
-        "number": 7664,
-        "title": "docs(fibre): update the fibre local promise cache ADR",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7664",
-        "repo": "celestia-app",
-        "author": "vgonkivs",
-        "reviewer": "rach-id",
-        "requestedAt": "2026-08-12T11:33:48Z"
-      },
-      {
         "number": 3222,
         "title": "fix(consensus): require the committed part set before finalizing",
         "url": "https://github.com/celestiaorg/celestia-core/pull/3222",
@@ -121,17 +112,7 @@
         "requestedAt": "2026-08-05T10:28:28Z"
       }
     ],
-    "rootulp": [
-      {
-        "number": 7662,
-        "title": "docs(fibre): specify endorsed TLS identity and add golden vectors",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7662",
-        "repo": "celestia-app",
-        "author": "rach-id",
-        "reviewer": "rootulp",
-        "requestedAt": "2026-08-12T08:14:49Z"
-      }
-    ],
+    "rootulp": [],
     "vgonkivs": [
       {
         "number": 7632,
@@ -267,5 +248,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-08-12T13:51:17.526Z"
+  "fetchedAt": "2026-08-12T14:22:32.871Z"
 }
