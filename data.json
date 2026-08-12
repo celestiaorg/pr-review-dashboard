@@ -1,26 +1,17 @@
 {
   "reviews": {
-    "chatton": [],
-    "pippokr": [
+    "chatton": [
       {
-        "number": 7649,
-        "title": "chore(deps): bump github.com/aws/aws-sdk-go-v2 from 1.43.3 to 1.43.4",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7649",
+        "number": 7648,
+        "title": "chore(deps): bump github.com/celestiaorg/tastora from 0.21.0 to 0.21.1 in /test/docker-e2e",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/7648",
         "repo": "celestia-app",
         "author": "dependabot",
-        "reviewer": "pippokr",
-        "requestedAt": "2026-08-10T09:36:38Z"
-      },
-      {
-        "number": 7655,
-        "title": "chore(deps): bump github.com/aws/aws-sdk-go-v2/config from 1.32.34 to 1.32.35",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7655",
-        "repo": "celestia-app",
-        "author": "dependabot",
-        "reviewer": "pippokr",
-        "requestedAt": "2026-08-10T09:39:55Z"
+        "reviewer": "chatton",
+        "requestedAt": "2026-08-12T18:17:16Z"
       }
     ],
+    "pippokr": [],
     "tty47": [
       {
         "number": 7643,
@@ -30,15 +21,6 @@
         "author": "jonas089",
         "reviewer": "tty47",
         "requestedAt": "2026-08-06T17:45:30Z"
-      },
-      {
-        "number": 7647,
-        "title": "chore(deps): bump github/codeql-action/init from 4.37.4 to 4.37.6",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7647",
-        "repo": "celestia-app",
-        "author": "dependabot",
-        "reviewer": "tty47",
-        "requestedAt": "2026-08-10T09:36:35Z"
       }
     ],
     "mcrakhman": [],
@@ -62,26 +44,36 @@
         "requestedAt": "2026-08-10T09:35:00Z"
       },
       {
-        "number": 7652,
-        "title": "chore(deps): bump github/codeql-action/analyze from 4.37.4 to 4.37.6",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7652",
+        "number": 7667,
+        "title": "chore: group dependabot updates into weekly batches",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/7667",
         "repo": "celestia-app",
-        "author": "dependabot",
+        "author": "rootulp",
         "reviewer": "ninabarbakadze",
-        "requestedAt": "2026-08-10T09:37:50Z"
+        "requestedAt": "2026-08-12T18:14:48Z"
+      },
+      {
+        "number": 7668,
+        "title": "chore(deps): bump github/codeql-action to v4.37.6",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/7668",
+        "repo": "celestia-app",
+        "author": "rootulp",
+        "reviewer": "ninabarbakadze",
+        "requestedAt": "2026-08-12T18:20:24Z"
       }
     ],
-    "rach-id": [],
-    "renaynay": [
+    "rach-id": [
       {
-        "number": 7648,
-        "title": "chore(deps): bump github.com/celestiaorg/tastora from 0.21.0 to 0.21.1 in /test/docker-e2e",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7648",
+        "number": 7667,
+        "title": "chore: group dependabot updates into weekly batches",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/7667",
         "repo": "celestia-app",
-        "author": "dependabot",
-        "reviewer": "renaynay",
-        "requestedAt": "2026-08-10T09:36:37Z"
-      },
+        "author": "rootulp",
+        "reviewer": "rach-id",
+        "requestedAt": "2026-08-12T18:14:48Z"
+      }
+    ],
+    "renaynay": [
       {
         "number": 5133,
         "title": "test(tastora): add missing tastora tests",
@@ -102,15 +94,6 @@
         "author": "SashaMIT",
         "reviewer": "vgonkivs",
         "requestedAt": "2026-08-05T12:55:32Z"
-      },
-      {
-        "number": 7651,
-        "title": "chore(deps): bump go.opentelemetry.io/otel from 1.44.0 to 1.45.0",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7651",
-        "repo": "celestia-app",
-        "author": "dependabot",
-        "reviewer": "vgonkivs",
-        "requestedAt": "2026-08-10T09:36:55Z"
       },
       {
         "number": 3205,
@@ -228,5 +211,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-08-12T17:56:41.966Z"
+  "fetchedAt": "2026-08-12T18:20:35.437Z"
 }
