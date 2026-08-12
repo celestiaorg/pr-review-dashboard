@@ -74,7 +74,7 @@
     "rach-id": [
       {
         "number": 7664,
-        "title": "docs(fibre): update ADR_25",
+        "title": "docs(fibre): update the fibre local promise cache ADR",
         "url": "https://github.com/celestiaorg/celestia-app/pull/7664",
         "repo": "celestia-app",
         "author": "vgonkivs",
@@ -257,5 +257,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-08-12T12:46:06.064Z"
+  "fetchedAt": "2026-08-12T13:16:05.431Z"
 }
