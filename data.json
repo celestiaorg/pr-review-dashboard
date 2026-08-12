@@ -71,6 +71,15 @@
         "author": "rootulp",
         "reviewer": "rach-id",
         "requestedAt": "2026-08-12T18:14:48Z"
+      },
+      {
+        "number": 7672,
+        "title": "fix(ci): ignore hadolint DL3066 false positive",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/7672",
+        "repo": "celestia-app",
+        "author": "rootulp",
+        "reviewer": "rach-id",
+        "requestedAt": "2026-08-12T21:18:05Z"
       }
     ],
     "renaynay": [
@@ -220,5 +229,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-08-12T20:58:24.444Z"
+  "fetchedAt": "2026-08-12T21:19:42.682Z"
 }
