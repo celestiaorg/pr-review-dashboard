@@ -71,7 +71,17 @@
         "requestedAt": "2026-08-10T09:37:50Z"
       }
     ],
-    "rach-id": [],
+    "rach-id": [
+      {
+        "number": 7664,
+        "title": "docs(fibre): update ADR_25",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/7664",
+        "repo": "celestia-app",
+        "author": "vgonkivs",
+        "reviewer": "rach-id",
+        "requestedAt": "2026-08-12T11:33:48Z"
+      }
+    ],
     "renaynay": [
       {
         "number": 7648,
@@ -186,15 +196,6 @@
         "requestedAt": "2026-08-10T11:08:48Z"
       },
       {
-        "number": 5161,
-        "title": "chore(deps): bump the go-deps group across 1 directory with 13 updates",
-        "url": "https://github.com/celestiaorg/celestia-node/pull/5161",
-        "repo": "celestia-node",
-        "author": "dependabot",
-        "reviewer": "vgonkivs",
-        "requestedAt": "2026-08-10T11:10:06Z"
-      },
-      {
         "number": 5162,
         "title": "docgen: fix invalid openrpc.json release asset",
         "url": "https://github.com/celestiaorg/celestia-node/pull/5162",
@@ -256,5 +257,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-08-12T11:23:54.511Z"
+  "fetchedAt": "2026-08-12T11:43:37.826Z"
 }
