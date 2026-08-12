@@ -1,6 +1,16 @@
 {
   "reviews": {
-    "chatton": [],
+    "chatton": [
+      {
+        "number": 7644,
+        "title": "fix(fibre): execute PFF messages on proposal state",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/7644",
+        "repo": "celestia-app",
+        "author": "ninabarbakadze",
+        "reviewer": "chatton",
+        "requestedAt": "2026-08-06T17:15:39Z"
+      }
+    ],
     "pippokr": [
       {
         "number": 7649,
@@ -80,6 +90,15 @@
         "author": "vgonkivs",
         "reviewer": "rach-id",
         "requestedAt": "2026-08-12T11:33:48Z"
+      },
+      {
+        "number": 3222,
+        "title": "fix(consensus): require the committed part set before finalizing",
+        "url": "https://github.com/celestiaorg/celestia-core/pull/3222",
+        "repo": "celestia-core",
+        "author": "rootulp",
+        "reviewer": "rach-id",
+        "requestedAt": "2026-08-12T13:50:27Z"
       }
     ],
     "renaynay": [
@@ -149,15 +168,6 @@
         "author": "dependabot",
         "reviewer": "vgonkivs",
         "requestedAt": "2026-08-10T09:34:14Z"
-      },
-      {
-        "number": 3222,
-        "title": "fix(consensus): require the committed part set before finalizing",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3222",
-        "repo": "celestia-core",
-        "author": "rootulp",
-        "reviewer": "vgonkivs",
-        "requestedAt": "2026-08-12T00:19:47Z"
       },
       {
         "number": 5124,
@@ -257,5 +267,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-08-12T13:16:05.431Z"
+  "fetchedAt": "2026-08-12T13:51:17.526Z"
 }
