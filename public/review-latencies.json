@@ -19,19 +19,19 @@
     },
     "pippokr": {
       "week": {
-        "n": 0,
-        "medianHours": null,
-        "p90Hours": null
+        "n": 1,
+        "medianHours": 37.39194444444445,
+        "p90Hours": 37.39194444444445
       },
       "month": {
-        "n": 0,
-        "medianHours": null,
-        "p90Hours": null
+        "n": 1,
+        "medianHours": 37.39194444444445,
+        "p90Hours": 37.39194444444445
       },
       "year": {
-        "n": 0,
-        "medianHours": null,
-        "p90Hours": null
+        "n": 1,
+        "medianHours": 37.39194444444445,
+        "p90Hours": 37.39194444444445
       }
     },
     "tty47": {
@@ -53,18 +53,18 @@
     },
     "mcrakhman": {
       "week": {
-        "n": 0,
-        "medianHours": null,
-        "p90Hours": null
+        "n": 4,
+        "medianHours": 147.79305555555555,
+        "p90Hours": 253.9336111111111
       },
       "month": {
-        "n": 0,
-        "medianHours": null,
-        "p90Hours": null
+        "n": 4,
+        "medianHours": 147.79305555555555,
+        "p90Hours": 253.9336111111111
       },
       "year": {
-        "n": 70,
-        "medianHours": 22.17861111111111,
+        "n": 74,
+        "medianHours": 26.77111111111111,
         "p90Hours": 229.42666666666668
       }
     },
@@ -121,17 +121,17 @@
     },
     "rootulp": {
       "week": {
-        "n": 2,
-        "medianHours": 12.790277777777778,
+        "n": 3,
+        "medianHours": 12.741944444444444,
         "p90Hours": 12.790277777777778
       },
       "month": {
-        "n": 2,
-        "medianHours": 12.790277777777778,
+        "n": 3,
+        "medianHours": 12.741944444444444,
         "p90Hours": 12.790277777777778
       },
       "year": {
-        "n": 173,
+        "n": 174,
         "medianHours": 3.6341666666666668,
         "p90Hours": 36.348333333333336
       }
@@ -201,7 +201,7 @@
       "defaultHidden": false
     }
   ],
-  "computedAt": "2026-08-11T00:10:06.035Z",
+  "computedAt": "2026-08-12T00:14:12.184Z",
   "windows": {
     "weekStart": "2026-08-10T00:00:00.000Z",
     "monthStart": "2026-08-01T00:00:00.000Z",
