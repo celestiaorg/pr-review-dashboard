@@ -51,6 +51,15 @@
         "author": "rootulp",
         "reviewer": "ninabarbakadze",
         "requestedAt": "2026-08-12T18:20:24Z"
+      },
+      {
+        "number": 7671,
+        "title": "chore(deps): bump celestia-core to v0.40.8",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/7671",
+        "repo": "celestia-app",
+        "author": "rootulp",
+        "reviewer": "ninabarbakadze",
+        "requestedAt": "2026-08-12T19:04:52Z"
       }
     ],
     "rach-id": [
@@ -77,6 +86,15 @@
     ],
     "rootulp": [],
     "vgonkivs": [
+      {
+        "number": 7670,
+        "title": "chore(deps): bump celestia-core to v0.40.8",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/7670",
+        "repo": "celestia-app",
+        "author": "rootulp",
+        "reviewer": "vgonkivs",
+        "requestedAt": "2026-08-12T18:59:49Z"
+      },
       {
         "number": 3205,
         "title": "fix(mempool/cat): retry tx requests rejected by the per peer request limit",
@@ -139,6 +157,15 @@
         "author": "mohsenm4",
         "reviewer": "vgonkivs",
         "requestedAt": "2026-08-11T05:58:46Z"
+      },
+      {
+        "number": 5163,
+        "title": "docs: environment-variable table lists 1 of the 7 variables the node reads",
+        "url": "https://github.com/celestiaorg/celestia-node/pull/5163",
+        "repo": "celestia-node",
+        "author": "boleklebovski",
+        "reviewer": "vgonkivs",
+        "requestedAt": "2026-08-12T18:52:20Z"
       }
     ]
   },
@@ -193,5 +220,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-08-12T18:41:10.789Z"
+  "fetchedAt": "2026-08-12T19:07:55.883Z"
 }
