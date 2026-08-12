@@ -79,24 +79,6 @@
         "author": "dependabot",
         "reviewer": "ninabarbakadze",
         "requestedAt": "2026-08-10T09:37:50Z"
-      },
-      {
-        "number": 7659,
-        "title": "chore(deps): bump github.com/aws/aws-sdk-go-v2/service/s3 from 1.106.3 to 1.107.0",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7659",
-        "repo": "celestia-app",
-        "author": "dependabot",
-        "reviewer": "ninabarbakadze",
-        "requestedAt": "2026-08-10T09:41:35Z"
-      },
-      {
-        "number": 7663,
-        "title": "docs: update KMS policy in release notes",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7663",
-        "repo": "celestia-app",
-        "author": "rach-id",
-        "reviewer": "ninabarbakadze",
-        "requestedAt": "2026-08-12T08:30:23Z"
       }
     ],
     "rach-id": [],
@@ -293,5 +275,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-08-12T08:45:59.680Z"
+  "fetchedAt": "2026-08-12T09:15:26.013Z"
 }
