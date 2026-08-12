@@ -88,6 +88,15 @@
         "author": "dependabot",
         "reviewer": "ninabarbakadze",
         "requestedAt": "2026-08-10T09:41:35Z"
+      },
+      {
+        "number": 7663,
+        "title": "docs: update KMS policy in release notes",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/7663",
+        "repo": "celestia-app",
+        "author": "rach-id",
+        "reviewer": "ninabarbakadze",
+        "requestedAt": "2026-08-12T08:30:23Z"
       }
     ],
     "rach-id": [],
@@ -284,5 +293,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-08-12T08:15:29.225Z"
+  "fetchedAt": "2026-08-12T08:45:59.680Z"
 }
