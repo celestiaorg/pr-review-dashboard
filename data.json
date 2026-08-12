@@ -1,16 +1,6 @@
 {
   "reviews": {
-    "chatton": [
-      {
-        "number": 7654,
-        "title": "chore(deps): bump go.opentelemetry.io/contrib/bridges/prometheus from 0.69.0 to 0.70.0",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7654",
-        "repo": "celestia-app",
-        "author": "dependabot",
-        "reviewer": "chatton",
-        "requestedAt": "2026-08-10T09:38:35Z"
-      }
-    ],
+    "chatton": [],
     "pippokr": [
       {
         "number": 7649,
@@ -275,5 +265,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-08-12T09:43:15.533Z"
+  "fetchedAt": "2026-08-12T10:11:27.193Z"
 }
