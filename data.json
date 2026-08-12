@@ -29,6 +29,15 @@
         "author": "dependabot",
         "reviewer": "pippokr",
         "requestedAt": "2026-08-10T09:39:55Z"
+      },
+      {
+        "number": 7661,
+        "title": "fix: compare unscaled square size in ProcessProposal",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/7661",
+        "repo": "celestia-app",
+        "author": "rootulp",
+        "reviewer": "pippokr",
+        "requestedAt": "2026-08-12T00:10:42Z"
       }
     ],
     "tty47": [
@@ -99,6 +108,15 @@
         "author": "mergify",
         "reviewer": "rach-id",
         "requestedAt": "2026-08-11T23:25:44Z"
+      },
+      {
+        "number": 3221,
+        "title": "fix(ci): resolve govulncheck failures on v0.40.x",
+        "url": "https://github.com/celestiaorg/celestia-core/pull/3221",
+        "repo": "celestia-core",
+        "author": "rootulp",
+        "reviewer": "rach-id",
+        "requestedAt": "2026-08-12T00:06:20Z"
       }
     ],
     "renaynay": [
@@ -110,15 +128,6 @@
         "author": "dependabot",
         "reviewer": "renaynay",
         "requestedAt": "2026-08-10T09:36:37Z"
-      },
-      {
-        "number": 3221,
-        "title": "fix(ci): resolve govulncheck failures on v0.40.x",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3221",
-        "repo": "celestia-core",
-        "author": "rootulp",
-        "reviewer": "renaynay",
-        "requestedAt": "2026-08-11T23:41:53Z"
       },
       {
         "number": 5133,
@@ -185,6 +194,15 @@
         "author": "dependabot",
         "reviewer": "vgonkivs",
         "requestedAt": "2026-08-10T09:34:14Z"
+      },
+      {
+        "number": 3222,
+        "title": "fix(consensus): require the committed part set before finalizing",
+        "url": "https://github.com/celestiaorg/celestia-core/pull/3222",
+        "repo": "celestia-core",
+        "author": "rootulp",
+        "reviewer": "vgonkivs",
+        "requestedAt": "2026-08-12T00:19:47Z"
       },
       {
         "number": 5124,
@@ -293,5 +311,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-08-11T23:58:39.165Z"
+  "fetchedAt": "2026-08-12T00:35:13.025Z"
 }

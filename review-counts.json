@@ -6,9 +6,9 @@
       "year": 4
     },
     "pippokr": {
-      "week": 0,
-      "month": 0,
-      "year": 1
+      "week": 1,
+      "month": 1,
+      "year": 2
     },
     "tty47": {
       "week": 0,
@@ -16,9 +16,9 @@
       "year": 1
     },
     "mcrakhman": {
-      "week": 0,
-      "month": 0,
-      "year": 113
+      "week": 4,
+      "month": 4,
+      "year": 117
     },
     "ninabarbakadze": {
       "week": 0,
@@ -36,9 +36,9 @@
       "year": 32
     },
     "rootulp": {
-      "week": 3,
-      "month": 10,
-      "year": 413
+      "week": 6,
+      "month": 13,
+      "year": 416
     },
     "vgonkivs": {
       "week": 2,
@@ -46,7 +46,7 @@
       "year": 200
     }
   },
-  "computedAt": "2026-08-11T00:09:03.017Z",
+  "computedAt": "2026-08-12T00:13:00.685Z",
   "windows": {
     "weekStart": "2026-08-10T00:00:00.000Z",
     "monthStart": "2026-08-01T00:00:00.000Z",
