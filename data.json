@@ -29,15 +29,6 @@
         "author": "dependabot",
         "reviewer": "pippokr",
         "requestedAt": "2026-08-10T09:39:55Z"
-      },
-      {
-        "number": 7661,
-        "title": "fix: compare unscaled square size in ProcessProposal",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7661",
-        "repo": "celestia-app",
-        "author": "rootulp",
-        "reviewer": "pippokr",
-        "requestedAt": "2026-08-12T00:10:42Z"
       }
     ],
     "tty47": [
@@ -120,7 +111,17 @@
         "requestedAt": "2026-08-05T10:28:28Z"
       }
     ],
-    "rootulp": [],
+    "rootulp": [
+      {
+        "number": 7662,
+        "title": "docs(fibre): specify endorsed TLS identity and add golden vectors",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/7662",
+        "repo": "celestia-app",
+        "author": "rach-id",
+        "reviewer": "rootulp",
+        "requestedAt": "2026-08-12T08:14:49Z"
+      }
+    ],
     "vgonkivs": [
       {
         "number": 7632,
@@ -283,5 +284,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-08-12T07:45:26.836Z"
+  "fetchedAt": "2026-08-12T08:15:29.225Z"
 }
