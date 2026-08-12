@@ -123,15 +123,6 @@
         "requestedAt": "2026-08-10T09:36:55Z"
       },
       {
-        "number": 7657,
-        "title": "chore(deps): bump go.opentelemetry.io/otel/exporters/otlp/otlptrace/otlptracehttp from 1.43.0 to 1.45.0",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7657",
-        "repo": "celestia-app",
-        "author": "dependabot",
-        "reviewer": "vgonkivs",
-        "requestedAt": "2026-08-10T09:40:07Z"
-      },
-      {
         "number": 3205,
         "title": "fix(mempool/cat): retry tx requests rejected by the per peer request limit",
         "url": "https://github.com/celestiaorg/celestia-core/pull/3205",
@@ -265,5 +256,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-08-12T10:37:24.400Z"
+  "fetchedAt": "2026-08-12T11:02:31.909Z"
 }
