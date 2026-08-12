@@ -1,17 +1,17 @@
 {
   "reviews": {
-    "chatton": [
+    "chatton": [],
+    "pippokr": [
       {
-        "number": 7648,
-        "title": "chore(deps): bump github.com/celestiaorg/tastora from 0.21.0 to 0.21.1 in /test/docker-e2e",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7648",
+        "number": 7669,
+        "title": "ci: harden nightly workflow against tag input injection",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/7669",
         "repo": "celestia-app",
-        "author": "dependabot",
-        "reviewer": "chatton",
-        "requestedAt": "2026-08-12T18:17:16Z"
+        "author": "rootulp",
+        "reviewer": "pippokr",
+        "requestedAt": "2026-08-12T18:32:13Z"
       }
     ],
-    "pippokr": [],
     "tty47": [
       {
         "number": 7643,
@@ -33,15 +33,6 @@
         "author": "jonas089",
         "reviewer": "ninabarbakadze",
         "requestedAt": "2026-08-06T17:45:43Z"
-      },
-      {
-        "number": 7646,
-        "title": "chore(deps): bump dorny/paths-filter from 4.0.2 to 4.0.3",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7646",
-        "repo": "celestia-app",
-        "author": "dependabot",
-        "reviewer": "ninabarbakadze",
-        "requestedAt": "2026-08-10T09:35:00Z"
       },
       {
         "number": 7667,
@@ -86,15 +77,6 @@
     ],
     "rootulp": [],
     "vgonkivs": [
-      {
-        "number": 7632,
-        "title": "ci: bind nightly test tag input via env before shell",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7632",
-        "repo": "celestia-app",
-        "author": "SashaMIT",
-        "reviewer": "vgonkivs",
-        "requestedAt": "2026-08-05T12:55:32Z"
-      },
       {
         "number": 3205,
         "title": "fix(mempool/cat): retry tx requests rejected by the per peer request limit",
@@ -211,5 +193,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-08-12T18:20:35.437Z"
+  "fetchedAt": "2026-08-12T18:41:10.789Z"
 }
