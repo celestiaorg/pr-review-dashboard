@@ -1,16 +1,6 @@
 {
   "reviews": {
-    "chatton": [
-      {
-        "number": 7644,
-        "title": "fix(fibre): execute PFF messages on proposal state",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7644",
-        "repo": "celestia-app",
-        "author": "ninabarbakadze",
-        "reviewer": "chatton",
-        "requestedAt": "2026-08-06T17:15:39Z"
-      }
-    ],
+    "chatton": [],
     "pippokr": [
       {
         "number": 7649,
@@ -81,17 +71,7 @@
         "requestedAt": "2026-08-10T09:37:50Z"
       }
     ],
-    "rach-id": [
-      {
-        "number": 3222,
-        "title": "fix(consensus): require the committed part set before finalizing",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3222",
-        "repo": "celestia-core",
-        "author": "rootulp",
-        "reviewer": "rach-id",
-        "requestedAt": "2026-08-12T13:50:27Z"
-      }
-    ],
+    "rach-id": [],
     "renaynay": [
       {
         "number": 7648,
@@ -248,5 +228,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-08-12T14:22:32.871Z"
+  "fetchedAt": "2026-08-12T14:45:43.805Z"
 }
