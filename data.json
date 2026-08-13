@@ -60,6 +60,15 @@
         "author": "rootulp",
         "reviewer": "ninabarbakadze",
         "requestedAt": "2026-08-13T14:56:18Z"
+      },
+      {
+        "number": 275,
+        "title": "fix!: decode duplicate tx body field the way the SDK does",
+        "url": "https://github.com/celestiaorg/go-square/pull/275",
+        "repo": "go-square",
+        "author": "rootulp",
+        "reviewer": "ninabarbakadze",
+        "requestedAt": "2026-08-13T04:40:37Z"
       }
     ],
     "rach-id": [
@@ -71,6 +80,15 @@
         "author": "rootulp",
         "reviewer": "rach-id",
         "requestedAt": "2026-08-13T18:33:38Z"
+      },
+      {
+        "number": 275,
+        "title": "fix!: decode duplicate tx body field the way the SDK does",
+        "url": "https://github.com/celestiaorg/go-square/pull/275",
+        "repo": "go-square",
+        "author": "rootulp",
+        "reviewer": "rach-id",
+        "requestedAt": "2026-08-13T20:04:44Z"
       }
     ],
     "renaynay": [
@@ -220,5 +238,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-08-13T19:56:12.651Z"
+  "fetchedAt": "2026-08-13T20:12:52.418Z"
 }
