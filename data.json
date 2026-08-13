@@ -13,7 +13,17 @@
         "requestedAt": "2026-08-06T17:45:30Z"
       }
     ],
-    "mcrakhman": [],
+    "mcrakhman": [
+      {
+        "number": 7679,
+        "title": "feat(talis): use ssd in GC servers by default",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/7679",
+        "repo": "celestia-app",
+        "author": "rach-id",
+        "reviewer": "mcrakhman",
+        "requestedAt": "2026-08-13T10:22:17Z"
+      }
+    ],
     "ninabarbakadze": [
       {
         "number": 7643,
@@ -74,6 +84,15 @@
         "author": "rootulp",
         "reviewer": "vgonkivs",
         "requestedAt": "2026-08-13T04:45:06Z"
+      },
+      {
+        "number": 7679,
+        "title": "feat(talis): use ssd in GC servers by default",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/7679",
+        "repo": "celestia-app",
+        "author": "rach-id",
+        "reviewer": "vgonkivs",
+        "requestedAt": "2026-08-13T10:24:21Z"
       },
       {
         "number": 3205,
@@ -200,5 +219,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-08-13T10:16:39.030Z"
+  "fetchedAt": "2026-08-13T10:41:37.583Z"
 }
