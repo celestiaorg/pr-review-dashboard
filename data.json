@@ -90,7 +90,17 @@
         "requestedAt": "2026-08-13T04:40:37Z"
       }
     ],
-    "rach-id": [],
+    "rach-id": [
+      {
+        "number": 7682,
+        "title": "chore(deps): bump celestiaorg/cosmos-sdk to v0.52.10",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/7682",
+        "repo": "celestia-app",
+        "author": "ninabarbakadze",
+        "reviewer": "rach-id",
+        "requestedAt": "2026-08-13T11:52:30Z"
+      }
+    ],
     "renaynay": [
       {
         "number": 5133,
@@ -121,15 +131,6 @@
         "author": "rach-id",
         "reviewer": "vgonkivs",
         "requestedAt": "2026-08-13T10:24:21Z"
-      },
-      {
-        "number": 3213,
-        "title": "build(deps): Bump github.com/aws/aws-sdk-go-v2/config from 1.32.33 to 1.32.35",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3213",
-        "repo": "celestia-core",
-        "author": "dependabot",
-        "reviewer": "vgonkivs",
-        "requestedAt": "2026-08-10T09:34:14Z"
       },
       {
         "number": 5124,
@@ -247,5 +248,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-08-13T11:46:18.649Z"
+  "fetchedAt": "2026-08-13T12:04:26.112Z"
 }
