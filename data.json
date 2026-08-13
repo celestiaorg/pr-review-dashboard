@@ -1,7 +1,17 @@
 {
   "reviews": {
     "chatton": [],
-    "pippokr": [],
+    "pippokr": [
+      {
+        "number": 277,
+        "title": "feat!: require callers to classify transactions",
+        "url": "https://github.com/celestiaorg/go-square/pull/277",
+        "repo": "go-square",
+        "author": "rootulp",
+        "reviewer": "pippokr",
+        "requestedAt": "2026-08-13T20:40:44Z"
+      }
+    ],
     "tty47": [
       {
         "number": 7643,
@@ -238,5 +248,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-08-13T20:28:36.675Z"
+  "fetchedAt": "2026-08-13T20:49:06.860Z"
 }
