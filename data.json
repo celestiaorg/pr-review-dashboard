@@ -114,15 +114,6 @@
     "rootulp": [],
     "vgonkivs": [
       {
-        "number": 7686,
-        "title": "docs: require clickable issue links in PR descriptions",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7686",
-        "repo": "celestia-app",
-        "author": "rootulp",
-        "reviewer": "vgonkivs",
-        "requestedAt": "2026-08-13T22:21:10Z"
-      },
-      {
         "number": 5124,
         "title": "nodebuilder/rpc: Make maxConcurrentConns configurable",
         "url": "https://github.com/celestiaorg/celestia-node/pull/5124",
@@ -256,5 +247,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-08-13T22:44:26.962Z"
+  "fetchedAt": "2026-08-13T23:04:44.496Z"
 }
