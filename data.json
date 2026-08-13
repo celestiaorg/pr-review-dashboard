@@ -50,6 +50,15 @@
         "author": "renaynay",
         "reviewer": "mcrakhman",
         "requestedAt": "2026-08-13T11:19:38Z"
+      },
+      {
+        "number": 5156,
+        "title": "perf(das): reduce sampling range to reduce HOL blocking",
+        "url": "https://github.com/celestiaorg/celestia-node/pull/5156",
+        "repo": "celestia-node",
+        "author": "renaynay",
+        "reviewer": "mcrakhman",
+        "requestedAt": "2026-08-13T13:46:45Z"
       }
     ],
     "ninabarbakadze": [
@@ -70,6 +79,15 @@
         "author": "rootulp",
         "reviewer": "ninabarbakadze",
         "requestedAt": "2026-08-13T04:28:02Z"
+      },
+      {
+        "number": 7677,
+        "title": "fix: validate the PayForFibre promise namespace",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/7677",
+        "repo": "celestia-app",
+        "author": "rootulp",
+        "reviewer": "ninabarbakadze",
+        "requestedAt": "2026-08-13T13:42:45Z"
       },
       {
         "number": 7678,
@@ -104,15 +122,6 @@
     ],
     "rootulp": [],
     "vgonkivs": [
-      {
-        "number": 7677,
-        "title": "fix: validate the PayForFibre promise namespace",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7677",
-        "repo": "celestia-app",
-        "author": "rootulp",
-        "reviewer": "vgonkivs",
-        "requestedAt": "2026-08-13T04:45:06Z"
-      },
       {
         "number": 7679,
         "title": "feat(talis): use ssd in GC servers by default",
@@ -157,6 +166,15 @@
         "author": "renaynay",
         "reviewer": "vgonkivs",
         "requestedAt": "2026-08-13T11:27:48Z"
+      },
+      {
+        "number": 5156,
+        "title": "perf(das): reduce sampling range to reduce HOL blocking",
+        "url": "https://github.com/celestiaorg/celestia-node/pull/5156",
+        "repo": "celestia-node",
+        "author": "renaynay",
+        "reviewer": "vgonkivs",
+        "requestedAt": "2026-08-13T13:45:47Z"
       },
       {
         "number": 5160,
@@ -238,5 +256,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-08-13T13:19:44.305Z"
+  "fetchedAt": "2026-08-13T13:53:51.710Z"
 }
