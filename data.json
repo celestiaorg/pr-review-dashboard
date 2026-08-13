@@ -83,6 +83,15 @@
     "rach-id": [],
     "renaynay": [
       {
+        "number": 7684,
+        "title": "fix(fibre): return context cancellation from Store.Size",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/7684",
+        "repo": "celestia-app",
+        "author": "questfever",
+        "reviewer": "renaynay",
+        "requestedAt": "2026-08-13T15:55:36Z"
+      },
+      {
         "number": 5133,
         "title": "test(tastora): add missing tastora tests",
         "url": "https://github.com/celestiaorg/celestia-node/pull/5133",
@@ -219,5 +228,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-08-13T15:35:19.442Z"
+  "fetchedAt": "2026-08-13T15:59:56.840Z"
 }
