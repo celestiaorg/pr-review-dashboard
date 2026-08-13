@@ -90,17 +90,7 @@
         "requestedAt": "2026-08-13T04:40:37Z"
       }
     ],
-    "rach-id": [
-      {
-        "number": 7682,
-        "title": "chore(deps): bump celestiaorg/cosmos-sdk to v0.52.10",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7682",
-        "repo": "celestia-app",
-        "author": "ninabarbakadze",
-        "reviewer": "rach-id",
-        "requestedAt": "2026-08-13T11:52:30Z"
-      }
-    ],
+    "rach-id": [],
     "renaynay": [
       {
         "number": 5133,
@@ -248,5 +238,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-08-13T12:26:37.504Z"
+  "fetchedAt": "2026-08-13T12:48:42.458Z"
 }
