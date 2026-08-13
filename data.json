@@ -53,6 +53,24 @@
         "requestedAt": "2026-08-06T17:45:43Z"
       },
       {
+        "number": 7673,
+        "title": "fix: don't block forever when the NMT tree pool is drained",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/7673",
+        "repo": "celestia-app",
+        "author": "rootulp",
+        "reviewer": "ninabarbakadze",
+        "requestedAt": "2026-08-13T14:55:02Z"
+      },
+      {
+        "number": 7677,
+        "title": "fix: validate the PayForFibre promise namespace",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/7677",
+        "repo": "celestia-app",
+        "author": "rootulp",
+        "reviewer": "ninabarbakadze",
+        "requestedAt": "2026-08-13T14:56:18Z"
+      },
+      {
         "number": 275,
         "title": "fix!: decode duplicate tx body field the way the SDK does",
         "url": "https://github.com/celestiaorg/go-square/pull/275",
@@ -201,5 +219,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-08-13T14:47:38.896Z"
+  "fetchedAt": "2026-08-13T15:12:35.316Z"
 }
