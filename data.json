@@ -41,6 +41,15 @@
         "author": "rach-id",
         "reviewer": "mcrakhman",
         "requestedAt": "2026-08-13T10:22:17Z"
+      },
+      {
+        "number": 5139,
+        "title": " fix(share/shrex): fail fast(er) on unreachable peers",
+        "url": "https://github.com/celestiaorg/celestia-node/pull/5139",
+        "repo": "celestia-node",
+        "author": "renaynay",
+        "reviewer": "mcrakhman",
+        "requestedAt": "2026-08-13T11:19:38Z"
       }
     ],
     "ninabarbakadze": [
@@ -112,15 +121,6 @@
         "author": "rach-id",
         "reviewer": "vgonkivs",
         "requestedAt": "2026-08-13T10:24:21Z"
-      },
-      {
-        "number": 3205,
-        "title": "fix(mempool/cat): retry tx requests rejected by the per peer request limit",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3205",
-        "repo": "celestia-core",
-        "author": "ninabarbakadze",
-        "reviewer": "vgonkivs",
-        "requestedAt": "2026-08-05T18:10:05Z"
       },
       {
         "number": 3213,
@@ -238,5 +238,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-08-13T11:06:52.257Z"
+  "fetchedAt": "2026-08-13T11:26:05.985Z"
 }
