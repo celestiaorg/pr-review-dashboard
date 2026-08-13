@@ -1,16 +1,6 @@
 {
   "reviews": {
-    "chatton": [
-      {
-        "number": 7673,
-        "title": "fix: don't block forever when the NMT tree pool is drained",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7673",
-        "repo": "celestia-app",
-        "author": "rootulp",
-        "reviewer": "chatton",
-        "requestedAt": "2026-08-13T04:10:34Z"
-      }
-    ],
+    "chatton": [],
     "pippokr": [
       {
         "number": 7669,
@@ -20,6 +10,15 @@
         "author": "rootulp",
         "reviewer": "pippokr",
         "requestedAt": "2026-08-12T18:32:13Z"
+      },
+      {
+        "number": 7676,
+        "title": "chore(deps): bump the github-actions group with 2 updates",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/7676",
+        "repo": "celestia-app",
+        "author": "dependabot",
+        "reviewer": "pippokr",
+        "requestedAt": "2026-08-13T04:40:17Z"
       }
     ],
     "tty47": [
@@ -31,28 +30,9 @@
         "author": "jonas089",
         "reviewer": "tty47",
         "requestedAt": "2026-08-06T17:45:30Z"
-      },
-      {
-        "number": 7674,
-        "title": "fix: compare unscaled square size in ProcessProposal (backport #7661)",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7674",
-        "repo": "celestia-app",
-        "author": "rootulp",
-        "reviewer": "tty47",
-        "requestedAt": "2026-08-13T04:12:01Z"
       }
     ],
-    "mcrakhman": [
-      {
-        "number": 274,
-        "title": "fix: resolve duplicate tx body_bytes to the last occurrence",
-        "url": "https://github.com/celestiaorg/go-square/pull/274",
-        "repo": "go-square",
-        "author": "rootulp",
-        "reviewer": "mcrakhman",
-        "requestedAt": "2026-08-13T04:02:11Z"
-      }
-    ],
+    "mcrakhman": [],
     "ninabarbakadze": [
       {
         "number": 7643,
@@ -64,15 +44,6 @@
         "requestedAt": "2026-08-06T17:45:43Z"
       },
       {
-        "number": 7667,
-        "title": "chore: group dependabot updates into weekly batches",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7667",
-        "repo": "celestia-app",
-        "author": "rootulp",
-        "reviewer": "ninabarbakadze",
-        "requestedAt": "2026-08-12T18:14:48Z"
-      },
-      {
         "number": 7668,
         "title": "chore(deps): bump github/codeql-action to v4.37.6",
         "url": "https://github.com/celestiaorg/celestia-app/pull/7668",
@@ -82,35 +53,34 @@
         "requestedAt": "2026-08-12T18:20:24Z"
       },
       {
-        "number": 7671,
-        "title": "chore(deps): bump celestia-core to v0.40.8",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7671",
+        "number": 7673,
+        "title": "fix: don't block forever when the NMT tree pool is drained",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/7673",
         "repo": "celestia-app",
         "author": "rootulp",
         "reviewer": "ninabarbakadze",
-        "requestedAt": "2026-08-12T19:04:52Z"
-      }
-    ],
-    "rach-id": [
-      {
-        "number": 7667,
-        "title": "chore: group dependabot updates into weekly batches",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7667",
-        "repo": "celestia-app",
-        "author": "rootulp",
-        "reviewer": "rach-id",
-        "requestedAt": "2026-08-12T18:14:48Z"
+        "requestedAt": "2026-08-13T04:28:02Z"
       },
       {
-        "number": 7672,
-        "title": "fix(ci): ignore hadolint DL3066 false positive",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7672",
+        "number": 7678,
+        "title": "test: cover power-of-two non-square share counts in TestExtendShares",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/7678",
         "repo": "celestia-app",
         "author": "rootulp",
-        "reviewer": "rach-id",
-        "requestedAt": "2026-08-12T21:18:05Z"
+        "reviewer": "ninabarbakadze",
+        "requestedAt": "2026-08-13T04:47:27Z"
+      },
+      {
+        "number": 275,
+        "title": "fix!: decode duplicate tx body field the way the SDK does",
+        "url": "https://github.com/celestiaorg/go-square/pull/275",
+        "repo": "go-square",
+        "author": "rootulp",
+        "reviewer": "ninabarbakadze",
+        "requestedAt": "2026-08-13T04:40:37Z"
       }
     ],
+    "rach-id": [],
     "renaynay": [
       {
         "number": 5133,
@@ -120,15 +90,6 @@
         "author": "vgonkivs",
         "reviewer": "renaynay",
         "requestedAt": "2026-08-05T10:28:28Z"
-      },
-      {
-        "number": 275,
-        "title": "fix!: decode duplicate tx body field the way the SDK does",
-        "url": "https://github.com/celestiaorg/go-square/pull/275",
-        "repo": "go-square",
-        "author": "rootulp",
-        "reviewer": "renaynay",
-        "requestedAt": "2026-08-13T04:12:38Z"
       }
     ],
     "rootulp": [],
@@ -141,6 +102,15 @@
         "author": "rootulp",
         "reviewer": "vgonkivs",
         "requestedAt": "2026-08-12T18:59:49Z"
+      },
+      {
+        "number": 7677,
+        "title": "fix: validate the PayForFibre promise namespace",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/7677",
+        "repo": "celestia-app",
+        "author": "rootulp",
+        "reviewer": "vgonkivs",
+        "requestedAt": "2026-08-13T04:45:06Z"
       },
       {
         "number": 3205,
@@ -267,5 +237,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-08-13T04:20:39.931Z"
+  "fetchedAt": "2026-08-13T05:01:52.132Z"
 }
