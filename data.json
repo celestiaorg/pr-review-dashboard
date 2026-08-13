@@ -80,17 +80,7 @@
         "requestedAt": "2026-08-13T04:40:37Z"
       }
     ],
-    "rach-id": [
-      {
-        "number": 7685,
-        "title": "fix(fibre)!: reject nested PFBs and PFFS in  MsgSubmitProposal",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7685",
-        "repo": "celestia-app",
-        "author": "ninabarbakadze",
-        "reviewer": "rach-id",
-        "requestedAt": "2026-08-13T16:50:52Z"
-      }
-    ],
+    "rach-id": [],
     "renaynay": [
       {
         "number": 7684,
@@ -248,5 +238,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-08-13T17:32:27.434Z"
+  "fetchedAt": "2026-08-13T17:55:55.719Z"
 }
