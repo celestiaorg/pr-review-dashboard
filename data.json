@@ -1,26 +1,7 @@
 {
   "reviews": {
     "chatton": [],
-    "pippokr": [
-      {
-        "number": 7669,
-        "title": "ci: harden nightly workflow against tag input injection",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7669",
-        "repo": "celestia-app",
-        "author": "rootulp",
-        "reviewer": "pippokr",
-        "requestedAt": "2026-08-12T18:32:13Z"
-      },
-      {
-        "number": 7676,
-        "title": "chore(deps): bump the github-actions group with 2 updates",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7676",
-        "repo": "celestia-app",
-        "author": "dependabot",
-        "reviewer": "pippokr",
-        "requestedAt": "2026-08-13T04:40:17Z"
-      }
-    ],
+    "pippokr": [],
     "tty47": [
       {
         "number": 7643,
@@ -42,15 +23,6 @@
         "author": "jonas089",
         "reviewer": "ninabarbakadze",
         "requestedAt": "2026-08-06T17:45:43Z"
-      },
-      {
-        "number": 7668,
-        "title": "chore(deps): bump github/codeql-action to v4.37.6",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7668",
-        "repo": "celestia-app",
-        "author": "rootulp",
-        "reviewer": "ninabarbakadze",
-        "requestedAt": "2026-08-12T18:20:24Z"
       },
       {
         "number": 7673,
@@ -94,15 +66,6 @@
     ],
     "rootulp": [],
     "vgonkivs": [
-      {
-        "number": 7670,
-        "title": "chore(deps): bump celestia-core to v0.40.8",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7670",
-        "repo": "celestia-app",
-        "author": "rootulp",
-        "reviewer": "vgonkivs",
-        "requestedAt": "2026-08-12T18:59:49Z"
-      },
       {
         "number": 7677,
         "title": "fix: validate the PayForFibre promise namespace",
@@ -237,5 +200,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-08-13T09:22:13.126Z"
+  "fetchedAt": "2026-08-13T09:47:31.893Z"
 }
