@@ -1,6 +1,16 @@
 {
   "reviews": {
-    "chatton": [],
+    "chatton": [
+      {
+        "number": 7673,
+        "title": "fix: don't block forever when the NMT tree pool is drained",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/7673",
+        "repo": "celestia-app",
+        "author": "rootulp",
+        "reviewer": "chatton",
+        "requestedAt": "2026-08-13T04:10:34Z"
+      }
+    ],
     "pippokr": [
       {
         "number": 7669,
@@ -21,9 +31,28 @@
         "author": "jonas089",
         "reviewer": "tty47",
         "requestedAt": "2026-08-06T17:45:30Z"
+      },
+      {
+        "number": 7674,
+        "title": "fix: compare unscaled square size in ProcessProposal (backport #7661)",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/7674",
+        "repo": "celestia-app",
+        "author": "rootulp",
+        "reviewer": "tty47",
+        "requestedAt": "2026-08-13T04:12:01Z"
       }
     ],
-    "mcrakhman": [],
+    "mcrakhman": [
+      {
+        "number": 274,
+        "title": "fix: resolve duplicate tx body_bytes to the last occurrence",
+        "url": "https://github.com/celestiaorg/go-square/pull/274",
+        "repo": "go-square",
+        "author": "rootulp",
+        "reviewer": "mcrakhman",
+        "requestedAt": "2026-08-13T04:02:11Z"
+      }
+    ],
     "ninabarbakadze": [
       {
         "number": 7643,
@@ -91,6 +120,15 @@
         "author": "vgonkivs",
         "reviewer": "renaynay",
         "requestedAt": "2026-08-05T10:28:28Z"
+      },
+      {
+        "number": 275,
+        "title": "fix!: decode duplicate tx body field the way the SDK does",
+        "url": "https://github.com/celestiaorg/go-square/pull/275",
+        "repo": "go-square",
+        "author": "rootulp",
+        "reviewer": "renaynay",
+        "requestedAt": "2026-08-13T04:12:38Z"
       }
     ],
     "rootulp": [],
@@ -229,5 +267,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-08-13T03:34:02.382Z"
+  "fetchedAt": "2026-08-13T04:20:39.931Z"
 }
