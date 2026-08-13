@@ -1,6 +1,16 @@
 {
   "reviews": {
-    "chatton": [],
+    "chatton": [
+      {
+        "number": 7680,
+        "title": "feat(talis): use goleveldb as default db backend",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/7680",
+        "repo": "celestia-app",
+        "author": "rach-id",
+        "reviewer": "chatton",
+        "requestedAt": "2026-08-13T10:41:49Z"
+      }
+    ],
     "pippokr": [],
     "tty47": [
       {
@@ -11,6 +21,15 @@
         "author": "jonas089",
         "reviewer": "tty47",
         "requestedAt": "2026-08-06T17:45:30Z"
+      },
+      {
+        "number": 7681,
+        "title": "docs: add simplicity rules to CLAUDE.md",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/7681",
+        "repo": "celestia-app",
+        "author": "rach-id",
+        "reviewer": "tty47",
+        "requestedAt": "2026-08-13T10:59:12Z"
       }
     ],
     "mcrakhman": [
@@ -219,5 +238,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-08-13T10:41:37.583Z"
+  "fetchedAt": "2026-08-13T11:06:52.257Z"
 }
