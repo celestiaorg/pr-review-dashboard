@@ -1,16 +1,6 @@
 {
   "reviews": {
-    "chatton": [
-      {
-        "number": 7680,
-        "title": "feat(talis): use goleveldb as default db backend",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7680",
-        "repo": "celestia-app",
-        "author": "rach-id",
-        "reviewer": "chatton",
-        "requestedAt": "2026-08-13T10:41:49Z"
-      }
-    ],
+    "chatton": [],
     "pippokr": [],
     "tty47": [
       {
@@ -33,15 +23,6 @@
       }
     ],
     "mcrakhman": [
-      {
-        "number": 7679,
-        "title": "feat(talis): use ssd in GC servers by default",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7679",
-        "repo": "celestia-app",
-        "author": "rach-id",
-        "reviewer": "mcrakhman",
-        "requestedAt": "2026-08-13T10:22:17Z"
-      },
       {
         "number": 5139,
         "title": " fix(share/shrex): fail fast(er) on unreachable peers",
@@ -72,33 +53,6 @@
         "requestedAt": "2026-08-06T17:45:43Z"
       },
       {
-        "number": 7673,
-        "title": "fix: don't block forever when the NMT tree pool is drained",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7673",
-        "repo": "celestia-app",
-        "author": "rootulp",
-        "reviewer": "ninabarbakadze",
-        "requestedAt": "2026-08-13T04:28:02Z"
-      },
-      {
-        "number": 7677,
-        "title": "fix: validate the PayForFibre promise namespace",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7677",
-        "repo": "celestia-app",
-        "author": "rootulp",
-        "reviewer": "ninabarbakadze",
-        "requestedAt": "2026-08-13T13:42:45Z"
-      },
-      {
-        "number": 7678,
-        "title": "test: cover power-of-two non-square share counts in TestExtendShares",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7678",
-        "repo": "celestia-app",
-        "author": "rootulp",
-        "reviewer": "ninabarbakadze",
-        "requestedAt": "2026-08-13T04:47:27Z"
-      },
-      {
         "number": 275,
         "title": "fix!: decode duplicate tx body field the way the SDK does",
         "url": "https://github.com/celestiaorg/go-square/pull/275",
@@ -122,15 +76,6 @@
     ],
     "rootulp": [],
     "vgonkivs": [
-      {
-        "number": 7679,
-        "title": "feat(talis): use ssd in GC servers by default",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7679",
-        "repo": "celestia-app",
-        "author": "rach-id",
-        "reviewer": "vgonkivs",
-        "requestedAt": "2026-08-13T10:24:21Z"
-      },
       {
         "number": 5124,
         "title": "nodebuilder/rpc: Make maxConcurrentConns configurable",
@@ -256,5 +201,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-08-13T13:53:51.710Z"
+  "fetchedAt": "2026-08-13T14:24:42.006Z"
 }
