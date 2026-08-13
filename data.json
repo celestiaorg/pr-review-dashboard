@@ -159,6 +159,15 @@
         "requestedAt": "2026-07-20T20:03:15Z"
       },
       {
+        "number": 5153,
+        "title": "perf(nodebuilder/config): Increase `PeersLimit` based on DASer `ConcurrencyLimit`",
+        "url": "https://github.com/celestiaorg/celestia-node/pull/5153",
+        "repo": "celestia-node",
+        "author": "renaynay",
+        "reviewer": "vgonkivs",
+        "requestedAt": "2026-08-13T11:27:48Z"
+      },
+      {
         "number": 5160,
         "title": "chore(deps): bump the libp2p group across 1 directory with 2 updates",
         "url": "https://github.com/celestiaorg/celestia-node/pull/5160",
@@ -238,5 +247,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-08-13T11:26:05.985Z"
+  "fetchedAt": "2026-08-13T11:46:18.649Z"
 }
