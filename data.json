@@ -1,17 +1,7 @@
 {
   "reviews": {
     "chatton": [],
-    "pippokr": [
-      {
-        "number": 277,
-        "title": "feat!: require callers to classify transactions",
-        "url": "https://github.com/celestiaorg/go-square/pull/277",
-        "repo": "go-square",
-        "author": "rootulp",
-        "reviewer": "pippokr",
-        "requestedAt": "2026-08-13T20:40:44Z"
-      }
-    ],
+    "pippokr": [],
     "tty47": [
       {
         "number": 7643,
@@ -194,6 +184,15 @@
         "author": "boleklebovski",
         "reviewer": "vgonkivs",
         "requestedAt": "2026-08-12T18:52:20Z"
+      },
+      {
+        "number": 5164,
+        "title": "core: Avoid duplicate authenticated gRPC retries",
+        "url": "https://github.com/celestiaorg/celestia-node/pull/5164",
+        "repo": "celestia-node",
+        "author": "neyy91",
+        "reviewer": "vgonkivs",
+        "requestedAt": "2026-08-13T20:55:55Z"
       }
     ]
   },
@@ -248,5 +247,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-08-13T20:49:06.860Z"
+  "fetchedAt": "2026-08-13T21:08:36.525Z"
 }
