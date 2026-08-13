@@ -1,6 +1,16 @@
 {
   "reviews": {
-    "chatton": [],
+    "chatton": [
+      {
+        "number": 3227,
+        "title": "fix(mempool): reject abusive Txs messages before unmarshalling",
+        "url": "https://github.com/celestiaorg/celestia-core/pull/3227",
+        "repo": "celestia-core",
+        "author": "rootulp",
+        "reviewer": "chatton",
+        "requestedAt": "2026-08-13T23:39:30Z"
+      }
+    ],
     "pippokr": [],
     "tty47": [
       {
@@ -256,5 +266,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-08-13T23:23:01.434Z"
+  "fetchedAt": "2026-08-13T23:41:41.322Z"
 }
