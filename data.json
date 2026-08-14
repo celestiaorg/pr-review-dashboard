@@ -81,17 +81,7 @@
         "requestedAt": "2026-08-13T04:40:37Z"
       }
     ],
-    "rach-id": [
-      {
-        "number": 275,
-        "title": "fix!: decode duplicate tx body field the way the SDK does",
-        "url": "https://github.com/celestiaorg/go-square/pull/275",
-        "repo": "go-square",
-        "author": "rootulp",
-        "reviewer": "rach-id",
-        "requestedAt": "2026-08-13T20:04:44Z"
-      }
-    ],
+    "rach-id": [],
     "renaynay": [
       {
         "number": 7684,
@@ -248,5 +238,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-08-14T04:57:43.900Z"
+  "fetchedAt": "2026-08-14T05:35:00.899Z"
 }
