@@ -98,7 +98,7 @@
   }
 
   // Collapse a card's PR list when it has more than COLLAPSE_THRESHOLD
-  // entries, showing only the COLLAPSED_PR_COUNT oldest. The threshold is
+  // entries, showing only the first COLLAPSED_PR_COUNT. The threshold is
   // one above the shown count so we never hide a single PR behind "+1 more".
   const COLLAPSED_PR_COUNT = 3;
   const COLLAPSE_THRESHOLD = 4;
@@ -171,22 +171,22 @@
         noReviews.textContent = "No pending reviews";
         card.appendChild(noReviews);
       } else {
-        const sorted = [...reviews].sort(
-          (a, b) => new Date(a.requestedAt) - new Date(b.requestedAt)
-        );
-
-        // Cap long queues at the oldest few PRs so one member's card
+        // data.json arrives ordered by author (coworkers, then bots, then
+        // external contributors) and by wait time within each group; see
+        // comparePendingReviews in github.js.
+        //
+        // Cap long queues at the first few PRs so one member's card
         // doesn't dominate the grid. Only collapse when it hides more
         // than one PR; expansion is ephemeral (resets on re-render).
-        const collapse = sorted.length > COLLAPSE_THRESHOLD;
-        const shown = collapse ? sorted.slice(0, COLLAPSED_PR_COUNT) : sorted;
+        const collapse = reviews.length > COLLAPSE_THRESHOLD;
+        const shown = collapse ? reviews.slice(0, COLLAPSED_PR_COUNT) : reviews;
 
         for (const pr of shown) {
           card.appendChild(createPrItem(pr));
         }
 
         if (collapse) {
-          const hidden = sorted.slice(COLLAPSED_PR_COUNT);
+          const hidden = reviews.slice(COLLAPSED_PR_COUNT);
           const moreBtn = document.createElement("button");
           moreBtn.className = "show-more-btn";
           moreBtn.textContent = `+${hidden.length} more ▾`;

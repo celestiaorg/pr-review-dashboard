@@ -72,6 +72,7 @@ describe("getPendingReviews (GraphQL)", () => {
       url: "https://github.com/celestiaorg/celestia-app/pull/10",
       repo: "celestia-app",
       author: "cmwaters",
+      authorCategory: "external",
       reviewer: "rootulp",
       requestedAt: "2026-04-13T08:00:00Z",
     });
@@ -223,5 +224,161 @@ describe("getPendingReviews (GraphQL)", () => {
     } finally {
       warnSpy.mockRestore();
     }
+  });
+});
+
+describe("pending review ordering", () => {
+  const config = {
+    org: "celestiaorg",
+    repos: ["celestia-app"],
+    teamMembers: [{ name: "Rootul", github: "rootulp", defaultHidden: false }],
+  };
+
+  // Minimal PR node: always requests a review from rootulp so every PR lands
+  // in his queue, with `requestedAt` controlling the within-group order.
+  function prNode({ number, author, authorAssociation, requestedAt }) {
+    return {
+      number,
+      title: `PR ${number}`,
+      url: `https://github.com/celestiaorg/celestia-app/pull/${number}`,
+      isDraft: false,
+      author,
+      authorAssociation,
+      reviewRequests: { nodes: [{ requestedReviewer: { login: "rootulp" } }] },
+      timelineItems: {
+        nodes: [{ createdAt: requestedAt, requestedReviewer: { login: "rootulp" } }],
+      },
+    };
+  }
+
+  test("labels org members, bots, and outside contributors", async () => {
+    fetch.mockResolvedValueOnce(
+      graphqlOk([
+        prNode({
+          number: 1,
+          author: { login: "vgonkivs", __typename: "User" },
+          authorAssociation: "MEMBER",
+          requestedAt: "2026-04-13T08:00:00Z",
+        }),
+        prNode({
+          number: 2,
+          author: { login: "dependabot", __typename: "Bot" },
+          authorAssociation: "CONTRIBUTOR",
+          requestedAt: "2026-04-13T09:00:00Z",
+        }),
+        prNode({
+          number: 3,
+          author: { login: "drive-by", __typename: "User" },
+          authorAssociation: "FIRST_TIME_CONTRIBUTOR",
+          requestedAt: "2026-04-13T10:00:00Z",
+        }),
+        prNode({
+          number: 4,
+          author: { login: "contractor", __typename: "User" },
+          authorAssociation: "COLLABORATOR",
+          requestedAt: "2026-04-13T11:00:00Z",
+        }),
+      ])
+    );
+
+    const result = await getPendingReviews(config, MOCK_TOKEN);
+
+    const byNumber = Object.fromEntries(
+      result.rootulp.map((pr) => [pr.number, pr.authorCategory])
+    );
+    expect(byNumber).toEqual({
+      1: "coworker",
+      2: "bot",
+      3: "external",
+      4: "coworker",
+    });
+  });
+
+  test("treats a `[bot]` login as a bot even when typed as a user", async () => {
+    fetch.mockResolvedValueOnce(
+      graphqlOk([
+        prNode({
+          number: 1,
+          author: { login: "dependabot[bot]", __typename: "User" },
+          authorAssociation: "CONTRIBUTOR",
+          requestedAt: "2026-04-13T08:00:00Z",
+        }),
+      ])
+    );
+
+    const result = await getPendingReviews(config, MOCK_TOKEN);
+    expect(result.rootulp[0].authorCategory).toBe("bot");
+  });
+
+  test("treats configured team members as coworkers regardless of association", async () => {
+    fetch.mockResolvedValueOnce(
+      graphqlOk([
+        prNode({
+          number: 1,
+          author: { login: "rootulp", __typename: "User" },
+          authorAssociation: "NONE",
+          requestedAt: "2026-04-13T08:00:00Z",
+        }),
+      ])
+    );
+
+    const result = await getPendingReviews(config, MOCK_TOKEN);
+    expect(result.rootulp[0].authorCategory).toBe("coworker");
+  });
+
+  test("orders coworkers, then bots, then external contributors", async () => {
+    fetch.mockResolvedValueOnce(
+      graphqlOk([
+        prNode({
+          number: 1,
+          author: { login: "drive-by", __typename: "User" },
+          authorAssociation: "CONTRIBUTOR",
+          requestedAt: "2026-04-01T08:00:00Z",
+        }),
+        prNode({
+          number: 2,
+          author: { login: "dependabot", __typename: "Bot" },
+          authorAssociation: "CONTRIBUTOR",
+          requestedAt: "2026-04-02T08:00:00Z",
+        }),
+        prNode({
+          number: 3,
+          author: { login: "vgonkivs", __typename: "User" },
+          authorAssociation: "MEMBER",
+          requestedAt: "2026-04-03T08:00:00Z",
+        }),
+      ])
+    );
+
+    const result = await getPendingReviews(config, MOCK_TOKEN);
+    expect(result.rootulp.map((pr) => pr.number)).toEqual([3, 2, 1]);
+  });
+
+  test("orders the longest wait first within a group", async () => {
+    fetch.mockResolvedValueOnce(
+      graphqlOk([
+        prNode({
+          number: 1,
+          author: { login: "renaynay", __typename: "User" },
+          authorAssociation: "MEMBER",
+          requestedAt: "2026-04-03T08:00:00Z",
+        }),
+        prNode({
+          number: 2,
+          author: { login: "vgonkivs", __typename: "User" },
+          authorAssociation: "MEMBER",
+          requestedAt: "2026-04-01T08:00:00Z",
+        }),
+        prNode({
+          number: 3,
+          author: { login: "mcrakhman", __typename: "User" },
+          authorAssociation: "MEMBER",
+          requestedAt: "2026-04-02T08:00:00Z",
+        }),
+      ])
+    );
+
+    const result = await getPendingReviews(config, MOCK_TOKEN);
+    expect(result.rootulp.map((pr) => pr.number)).toEqual([2, 3, 1]);
   });
 });

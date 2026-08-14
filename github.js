@@ -9,7 +9,8 @@ const PENDING_REVIEWS_QUERY = `
           title
           url
           isDraft
-          author { login }
+          authorAssociation
+          author { login __typename }
           reviewRequests(first: 20) {
             nodes {
               requestedReviewer {
@@ -67,6 +68,37 @@ function mostRecentRequestedAt(timelineNodes, reviewer) {
   return times.length ? times[times.length - 1] : null;
 }
 
+// GraphQL types bot accounts as Bot, but the same accounts show up as a plain
+// login suffixed with "[bot]" elsewhere, so check both.
+function isBotAuthor(author) {
+  if (!author) return false;
+  return author.__typename === "Bot" || /\[bot\]$/.test(author.login || "");
+}
+
+// GitHub reports MEMBER/OWNER for members of the org that owns the repo and
+// COLLABORATOR for anyone else granted push access; everyone else is outside
+// the org.
+const COWORKER_ASSOCIATIONS = new Set(["MEMBER", "OWNER", "COLLABORATOR"]);
+
+function authorCategory(pr, teamHandles) {
+  const login = pr.author ? pr.author.login : null;
+  if (login && teamHandles.has(login)) return "coworker";
+  if (isBotAuthor(pr.author)) return "bot";
+  if (COWORKER_ASSOCIATIONS.has(pr.authorAssociation)) return "coworker";
+  return "external";
+}
+
+const CATEGORY_RANK = { coworker: 0, bot: 1, external: 2 };
+
+// Coworkers' PRs first, then bots, then external contributors; within a group
+// the longest-waiting review comes first.
+function comparePendingReviews(a, b) {
+  const byCategory =
+    CATEGORY_RANK[a.authorCategory] - CATEGORY_RANK[b.authorCategory];
+  if (byCategory !== 0) return byCategory;
+  return new Date(a.requestedAt) - new Date(b.requestedAt);
+}
+
 async function getPendingReviews(config, token) {
   const { org, repos, teamMembers } = config;
   const teamHandles = new Set(teamMembers.map((m) => m.github));
@@ -107,12 +139,17 @@ async function getPendingReviews(config, token) {
             url: pr.url,
             repo,
             author: pr.author ? pr.author.login : null,
+            authorCategory: authorCategory(pr, teamHandles),
             reviewer,
             requestedAt,
           });
         }
       }
     }
+  }
+
+  for (const reviews of Object.values(result)) {
+    reviews.sort(comparePendingReviews);
   }
 
   return result;
