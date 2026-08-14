@@ -102,6 +102,15 @@
         "requestedAt": "2026-08-13T15:55:36Z"
       },
       {
+        "number": 7688,
+        "title": "docs(fibre): add usage docs, module reference, and v10 spec wiring",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/7688",
+        "repo": "celestia-app",
+        "author": "rach-id",
+        "reviewer": "renaynay",
+        "requestedAt": "2026-08-14T08:35:16Z"
+      },
+      {
         "number": 5133,
         "title": "test(tastora): add missing tastora tests",
         "url": "https://github.com/celestiaorg/celestia-node/pull/5133",
@@ -111,7 +120,17 @@
         "requestedAt": "2026-08-05T10:28:28Z"
       }
     ],
-    "rootulp": [],
+    "rootulp": [
+      {
+        "number": 7689,
+        "title": "feat(fibre)!: set the default FullStakeStorageBudget to 2 TiB",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/7689",
+        "repo": "celestia-app",
+        "author": "rach-id",
+        "reviewer": "rootulp",
+        "requestedAt": "2026-08-14T09:49:27Z"
+      }
+    ],
     "vgonkivs": [
       {
         "number": 7687,
@@ -211,15 +230,6 @@
         "author": "neyy91",
         "reviewer": "vgonkivs",
         "requestedAt": "2026-08-14T08:27:37Z"
-      },
-      {
-        "number": 5166,
-        "title": "share/eds: Preserve intermediate nodes after cancellation",
-        "url": "https://github.com/celestiaorg/celestia-node/pull/5166",
-        "repo": "celestia-node",
-        "author": "neyy91",
-        "reviewer": "vgonkivs",
-        "requestedAt": "2026-08-14T09:03:40Z"
       }
     ]
   },
@@ -274,5 +284,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-08-14T09:38:59.475Z"
+  "fetchedAt": "2026-08-14T10:05:11.836Z"
 }
