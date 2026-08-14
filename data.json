@@ -93,15 +93,6 @@
     "rach-id": [],
     "renaynay": [
       {
-        "number": 7684,
-        "title": "fix(fibre): return context cancellation from Store.Size",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7684",
-        "repo": "celestia-app",
-        "author": "questfever",
-        "reviewer": "renaynay",
-        "requestedAt": "2026-08-13T15:55:36Z"
-      },
-      {
         "number": 7688,
         "title": "docs(fibre): add usage docs, module reference, and v10 spec wiring",
         "url": "https://github.com/celestiaorg/celestia-app/pull/7688",
@@ -248,6 +239,15 @@
         "author": "neyy91",
         "reviewer": "vgonkivs",
         "requestedAt": "2026-08-14T12:43:11Z"
+      },
+      {
+        "number": 5168,
+        "title": "config: Support IPv6 literal endpoints",
+        "url": "https://github.com/celestiaorg/celestia-node/pull/5168",
+        "repo": "celestia-node",
+        "author": "neyy91",
+        "reviewer": "vgonkivs",
+        "requestedAt": "2026-08-14T13:01:16Z"
       }
     ]
   },
@@ -302,5 +302,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-08-14T12:51:50.984Z"
+  "fetchedAt": "2026-08-14T13:23:11.596Z"
 }
