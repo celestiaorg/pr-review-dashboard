@@ -193,6 +193,15 @@
         "author": "neyy91",
         "reviewer": "vgonkivs",
         "requestedAt": "2026-08-14T08:27:37Z"
+      },
+      {
+        "number": 5166,
+        "title": "share/eds: Preserve intermediate nodes after cancellation",
+        "url": "https://github.com/celestiaorg/celestia-node/pull/5166",
+        "repo": "celestia-node",
+        "author": "neyy91",
+        "reviewer": "vgonkivs",
+        "requestedAt": "2026-08-14T09:03:40Z"
       }
     ]
   },
@@ -247,5 +256,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-08-14T08:45:30.909Z"
+  "fetchedAt": "2026-08-14T09:13:52.496Z"
 }
