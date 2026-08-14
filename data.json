@@ -1,16 +1,6 @@
 {
   "reviews": {
-    "chatton": [
-      {
-        "number": 3227,
-        "title": "fix(mempool): reject abusive Txs messages before unmarshalling",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3227",
-        "repo": "celestia-core",
-        "author": "rootulp",
-        "reviewer": "chatton",
-        "requestedAt": "2026-08-13T23:39:30Z"
-      }
-    ],
+    "chatton": [],
     "pippokr": [],
     "tty47": [
       {
@@ -70,24 +60,6 @@
         "author": "jonas089",
         "reviewer": "ninabarbakadze",
         "requestedAt": "2026-08-06T17:45:43Z"
-      },
-      {
-        "number": 7673,
-        "title": "fix: don't block forever when the NMT tree pool is drained",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7673",
-        "repo": "celestia-app",
-        "author": "rootulp",
-        "reviewer": "ninabarbakadze",
-        "requestedAt": "2026-08-13T14:55:02Z"
-      },
-      {
-        "number": 275,
-        "title": "fix!: decode duplicate tx body field the way the SDK does",
-        "url": "https://github.com/celestiaorg/go-square/pull/275",
-        "repo": "go-square",
-        "author": "rootulp",
-        "reviewer": "ninabarbakadze",
-        "requestedAt": "2026-08-13T04:40:37Z"
       }
     ],
     "rach-id": [],
@@ -111,17 +83,7 @@
         "requestedAt": "2026-08-05T10:28:28Z"
       }
     ],
-    "rootulp": [
-      {
-        "number": 7689,
-        "title": "feat(fibre)!: set the default FullStakeStorageBudget to 2 TiB",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7689",
-        "repo": "celestia-app",
-        "author": "rach-id",
-        "reviewer": "rootulp",
-        "requestedAt": "2026-08-14T09:49:27Z"
-      }
-    ],
+    "rootulp": [],
     "vgonkivs": [
       {
         "number": 7687,
@@ -302,5 +264,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-08-14T13:23:11.596Z"
+  "fetchedAt": "2026-08-14T13:55:47.032Z"
 }
