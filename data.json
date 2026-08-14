@@ -53,7 +53,17 @@
         "requestedAt": "2026-08-06T17:45:43Z"
       }
     ],
-    "rach-id": [],
+    "rach-id": [
+      {
+        "number": 7693,
+        "title": "test: benchmark fibre gas usage",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/7693",
+        "repo": "celestia-app",
+        "author": "ninabarbakadze",
+        "reviewer": "rach-id",
+        "requestedAt": "2026-08-14T16:57:36Z"
+      }
+    ],
     "renaynay": [
       {
         "number": 7688,
@@ -246,5 +256,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-08-14T16:51:19.318Z"
+  "fetchedAt": "2026-08-14T17:14:15.687Z"
 }
