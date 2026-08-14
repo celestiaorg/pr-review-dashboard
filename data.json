@@ -239,6 +239,15 @@
         "author": "neyy91",
         "reviewer": "vgonkivs",
         "requestedAt": "2026-08-14T08:27:37Z"
+      },
+      {
+        "number": 5167,
+        "title": "cmd: Load configured RPC URL with explicit token",
+        "url": "https://github.com/celestiaorg/celestia-node/pull/5167",
+        "repo": "celestia-node",
+        "author": "neyy91",
+        "reviewer": "vgonkivs",
+        "requestedAt": "2026-08-14T12:43:11Z"
       }
     ]
   },
@@ -293,5 +302,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-08-14T12:28:57.072Z"
+  "fetchedAt": "2026-08-14T12:51:50.984Z"
 }
