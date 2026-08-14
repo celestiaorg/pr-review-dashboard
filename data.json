@@ -13,15 +13,6 @@
         "requestedAt": "2026-08-06T17:45:30Z"
       },
       {
-        "number": 7681,
-        "title": "docs: add simplicity rules to CLAUDE.md",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7681",
-        "repo": "celestia-app",
-        "author": "rach-id",
-        "reviewer": "tty47",
-        "requestedAt": "2026-08-13T10:59:12Z"
-      },
-      {
         "number": 7687,
         "title": "docs(fibre): document the validator operator path end to end",
         "url": "https://github.com/celestiaorg/celestia-app/pull/7687",
@@ -255,5 +246,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-08-14T14:22:53.206Z"
+  "fetchedAt": "2026-08-14T14:43:25.637Z"
 }
