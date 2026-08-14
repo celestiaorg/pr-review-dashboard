@@ -4,22 +4,24 @@
     "pippokr": [],
     "tty47": [
       {
-        "number": 7643,
-        "title": "fix(forwarding)!: include custom_hook_id in the canonical derivation path of forwarding address #7640",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7643",
-        "repo": "celestia-app",
-        "author": "jonas089",
-        "reviewer": "tty47",
-        "requestedAt": "2026-08-06T17:45:30Z"
-      },
-      {
         "number": 7687,
         "title": "docs(fibre): document the validator operator path end to end",
         "url": "https://github.com/celestiaorg/celestia-app/pull/7687",
         "repo": "celestia-app",
         "author": "rach-id",
+        "authorCategory": "coworker",
         "reviewer": "tty47",
         "requestedAt": "2026-08-14T08:34:57Z"
+      },
+      {
+        "number": 7643,
+        "title": "fix(forwarding)!: include custom_hook_id in the canonical derivation path of forwarding address #7640",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/7643",
+        "repo": "celestia-app",
+        "author": "jonas089",
+        "authorCategory": "external",
+        "reviewer": "tty47",
+        "requestedAt": "2026-08-06T17:45:30Z"
       }
     ],
     "mcrakhman": [
@@ -29,6 +31,7 @@
         "url": "https://github.com/celestiaorg/celestia-node/pull/5139",
         "repo": "celestia-node",
         "author": "renaynay",
+        "authorCategory": "coworker",
         "reviewer": "mcrakhman",
         "requestedAt": "2026-08-13T11:19:38Z"
       },
@@ -38,6 +41,7 @@
         "url": "https://github.com/celestiaorg/celestia-node/pull/5156",
         "repo": "celestia-node",
         "author": "renaynay",
+        "authorCategory": "coworker",
         "reviewer": "mcrakhman",
         "requestedAt": "2026-08-13T13:46:45Z"
       }
@@ -49,6 +53,7 @@
         "url": "https://github.com/celestiaorg/celestia-app/pull/7643",
         "repo": "celestia-app",
         "author": "jonas089",
+        "authorCategory": "external",
         "reviewer": "ninabarbakadze",
         "requestedAt": "2026-08-06T17:45:43Z"
       }
@@ -61,6 +66,7 @@
         "url": "https://github.com/celestiaorg/celestia-app/pull/7688",
         "repo": "celestia-app",
         "author": "rach-id",
+        "authorCategory": "coworker",
         "reviewer": "renaynay",
         "requestedAt": "2026-08-14T08:35:16Z"
       }
@@ -68,56 +74,12 @@
     "rootulp": [],
     "vgonkivs": [
       {
-        "number": 7687,
-        "title": "docs(fibre): document the validator operator path end to end",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7687",
-        "repo": "celestia-app",
-        "author": "rach-id",
-        "reviewer": "vgonkivs",
-        "requestedAt": "2026-08-14T09:36:29Z"
-      },
-      {
-        "number": 7688,
-        "title": "docs(fibre): add usage docs, module reference, and v10 spec wiring",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7688",
-        "repo": "celestia-app",
-        "author": "rach-id",
-        "reviewer": "vgonkivs",
-        "requestedAt": "2026-08-14T11:36:23Z"
-      },
-      {
-        "number": 5124,
-        "title": "nodebuilder/rpc: Make maxConcurrentConns configurable",
-        "url": "https://github.com/celestiaorg/celestia-node/pull/5124",
-        "repo": "celestia-node",
-        "author": "mohsenm4",
-        "reviewer": "vgonkivs",
-        "requestedAt": "2026-07-19T06:48:07Z"
-      },
-      {
-        "number": 5129,
-        "title": "chore(deps): bump github.com/libp2p/go-libp2p-kad-dht from 0.41.0 to 0.42.0",
-        "url": "https://github.com/celestiaorg/celestia-node/pull/5129",
-        "repo": "celestia-node",
-        "author": "dependabot",
-        "reviewer": "vgonkivs",
-        "requestedAt": "2026-07-20T11:06:58Z"
-      },
-      {
-        "number": 5132,
-        "title": "node: Add JWT auth token revocation",
-        "url": "https://github.com/celestiaorg/celestia-node/pull/5132",
-        "repo": "celestia-node",
-        "author": "mohsenm4",
-        "reviewer": "vgonkivs",
-        "requestedAt": "2026-07-20T20:03:15Z"
-      },
-      {
         "number": 5153,
         "title": "perf(nodebuilder/config): Increase `PeersLimit` based on DASer `ConcurrencyLimit`",
         "url": "https://github.com/celestiaorg/celestia-node/pull/5153",
         "repo": "celestia-node",
         "author": "renaynay",
+        "authorCategory": "coworker",
         "reviewer": "vgonkivs",
         "requestedAt": "2026-08-13T11:27:48Z"
       },
@@ -127,8 +89,39 @@
         "url": "https://github.com/celestiaorg/celestia-node/pull/5156",
         "repo": "celestia-node",
         "author": "renaynay",
+        "authorCategory": "coworker",
         "reviewer": "vgonkivs",
         "requestedAt": "2026-08-13T13:45:47Z"
+      },
+      {
+        "number": 7687,
+        "title": "docs(fibre): document the validator operator path end to end",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/7687",
+        "repo": "celestia-app",
+        "author": "rach-id",
+        "authorCategory": "coworker",
+        "reviewer": "vgonkivs",
+        "requestedAt": "2026-08-14T09:36:29Z"
+      },
+      {
+        "number": 7688,
+        "title": "docs(fibre): add usage docs, module reference, and v10 spec wiring",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/7688",
+        "repo": "celestia-app",
+        "author": "rach-id",
+        "authorCategory": "coworker",
+        "reviewer": "vgonkivs",
+        "requestedAt": "2026-08-14T11:36:23Z"
+      },
+      {
+        "number": 5129,
+        "title": "chore(deps): bump github.com/libp2p/go-libp2p-kad-dht from 0.41.0 to 0.42.0",
+        "url": "https://github.com/celestiaorg/celestia-node/pull/5129",
+        "repo": "celestia-node",
+        "author": "dependabot",
+        "authorCategory": "bot",
+        "reviewer": "vgonkivs",
+        "requestedAt": "2026-07-20T11:06:58Z"
       },
       {
         "number": 5160,
@@ -136,8 +129,29 @@
         "url": "https://github.com/celestiaorg/celestia-node/pull/5160",
         "repo": "celestia-node",
         "author": "dependabot",
+        "authorCategory": "bot",
         "reviewer": "vgonkivs",
         "requestedAt": "2026-08-10T11:08:48Z"
+      },
+      {
+        "number": 5124,
+        "title": "nodebuilder/rpc: Make maxConcurrentConns configurable",
+        "url": "https://github.com/celestiaorg/celestia-node/pull/5124",
+        "repo": "celestia-node",
+        "author": "mohsenm4",
+        "authorCategory": "external",
+        "reviewer": "vgonkivs",
+        "requestedAt": "2026-07-19T06:48:07Z"
+      },
+      {
+        "number": 5132,
+        "title": "node: Add JWT auth token revocation",
+        "url": "https://github.com/celestiaorg/celestia-node/pull/5132",
+        "repo": "celestia-node",
+        "author": "mohsenm4",
+        "authorCategory": "external",
+        "reviewer": "vgonkivs",
+        "requestedAt": "2026-07-20T20:03:15Z"
       },
       {
         "number": 5162,
@@ -145,6 +159,7 @@
         "url": "https://github.com/celestiaorg/celestia-node/pull/5162",
         "repo": "celestia-node",
         "author": "mohsenm4",
+        "authorCategory": "external",
         "reviewer": "vgonkivs",
         "requestedAt": "2026-08-11T05:58:46Z"
       },
@@ -154,6 +169,7 @@
         "url": "https://github.com/celestiaorg/celestia-node/pull/5163",
         "repo": "celestia-node",
         "author": "boleklebovski",
+        "authorCategory": "external",
         "reviewer": "vgonkivs",
         "requestedAt": "2026-08-12T18:52:20Z"
       },
@@ -163,6 +179,7 @@
         "url": "https://github.com/celestiaorg/celestia-node/pull/5164",
         "repo": "celestia-node",
         "author": "neyy91",
+        "authorCategory": "external",
         "reviewer": "vgonkivs",
         "requestedAt": "2026-08-13T20:55:55Z"
       },
@@ -172,6 +189,7 @@
         "url": "https://github.com/celestiaorg/celestia-node/pull/5165",
         "repo": "celestia-node",
         "author": "neyy91",
+        "authorCategory": "external",
         "reviewer": "vgonkivs",
         "requestedAt": "2026-08-14T08:27:37Z"
       },
@@ -181,6 +199,7 @@
         "url": "https://github.com/celestiaorg/celestia-node/pull/5167",
         "repo": "celestia-node",
         "author": "neyy91",
+        "authorCategory": "external",
         "reviewer": "vgonkivs",
         "requestedAt": "2026-08-14T12:43:11Z"
       },
@@ -190,6 +209,7 @@
         "url": "https://github.com/celestiaorg/celestia-node/pull/5168",
         "repo": "celestia-node",
         "author": "neyy91",
+        "authorCategory": "external",
         "reviewer": "vgonkivs",
         "requestedAt": "2026-08-14T13:01:16Z"
       }
@@ -246,5 +266,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-08-14T21:00:39.282Z"
+  "fetchedAt": "2026-08-14T21:11:04.156Z"
 }
