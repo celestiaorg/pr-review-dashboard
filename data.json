@@ -58,7 +58,18 @@
         "requestedAt": "2026-08-06T17:45:43Z"
       }
     ],
-    "rach-id": [],
+    "rach-id": [
+      {
+        "number": 7691,
+        "title": "fix!: validate the whole PayForFibre promise in the shape check",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/7691",
+        "repo": "celestia-app",
+        "author": "rootulp",
+        "authorCategory": "coworker",
+        "reviewer": "rach-id",
+        "requestedAt": "2026-08-14T23:38:35Z"
+      }
+    ],
     "renaynay": [
       {
         "number": 7688,
@@ -266,5 +277,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-08-14T23:29:01.242Z"
+  "fetchedAt": "2026-08-14T23:40:57.026Z"
 }
