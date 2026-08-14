@@ -30,6 +30,15 @@
         "author": "rach-id",
         "reviewer": "tty47",
         "requestedAt": "2026-08-13T10:59:12Z"
+      },
+      {
+        "number": 7687,
+        "title": "docs(fibre): document the validator operator path end to end",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/7687",
+        "repo": "celestia-app",
+        "author": "rach-id",
+        "reviewer": "tty47",
+        "requestedAt": "2026-08-14T08:34:57Z"
       }
     ],
     "mcrakhman": [
@@ -104,6 +113,15 @@
     ],
     "rootulp": [],
     "vgonkivs": [
+      {
+        "number": 7687,
+        "title": "docs(fibre): document the validator operator path end to end",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/7687",
+        "repo": "celestia-app",
+        "author": "rach-id",
+        "reviewer": "vgonkivs",
+        "requestedAt": "2026-08-14T09:36:29Z"
+      },
       {
         "number": 5124,
         "title": "nodebuilder/rpc: Make maxConcurrentConns configurable",
@@ -256,5 +274,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-08-14T09:13:52.496Z"
+  "fetchedAt": "2026-08-14T09:38:59.475Z"
 }
