@@ -142,6 +142,15 @@
         "requestedAt": "2026-08-14T09:36:29Z"
       },
       {
+        "number": 7688,
+        "title": "docs(fibre): add usage docs, module reference, and v10 spec wiring",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/7688",
+        "repo": "celestia-app",
+        "author": "rach-id",
+        "reviewer": "vgonkivs",
+        "requestedAt": "2026-08-14T11:36:23Z"
+      },
+      {
         "number": 5124,
         "title": "nodebuilder/rpc: Make maxConcurrentConns configurable",
         "url": "https://github.com/celestiaorg/celestia-node/pull/5124",
@@ -284,5 +293,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-08-14T11:32:48.087Z"
+  "fetchedAt": "2026-08-14T11:52:45.126Z"
 }
