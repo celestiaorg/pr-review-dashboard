@@ -233,6 +233,26 @@
         "authorCategory": "external",
         "reviewer": "vgonkivs",
         "requestedAt": "2026-08-14T13:01:16Z"
+      },
+      {
+        "number": 5169,
+        "title": "das: Group adjacent retry heights",
+        "url": "https://github.com/celestiaorg/celestia-node/pull/5169",
+        "repo": "celestia-node",
+        "author": "neyy91",
+        "authorCategory": "external",
+        "reviewer": "vgonkivs",
+        "requestedAt": "2026-08-15T20:28:16Z"
+      },
+      {
+        "number": 5170,
+        "title": "core: Reject incomplete gRPC responses",
+        "url": "https://github.com/celestiaorg/celestia-node/pull/5170",
+        "repo": "celestia-node",
+        "author": "neyy91",
+        "authorCategory": "external",
+        "reviewer": "vgonkivs",
+        "requestedAt": "2026-08-15T20:28:52Z"
       }
     ]
   },
@@ -287,5 +307,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-08-15T20:15:49.946Z"
+  "fetchedAt": "2026-08-15T20:29:38.880Z"
 }
