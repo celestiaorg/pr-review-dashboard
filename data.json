@@ -1,18 +1,7 @@
 {
   "reviews": {
     "chatton": [],
-    "pippokr": [
-      {
-        "number": 7694,
-        "title": "fix: reject transactions with duplicate TxRaw fields",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7694",
-        "repo": "celestia-app",
-        "author": "rootulp",
-        "authorCategory": "coworker",
-        "reviewer": "pippokr",
-        "requestedAt": "2026-08-14T23:45:56Z"
-      }
-    ],
+    "pippokr": [],
     "tty47": [
       {
         "number": 7687,
@@ -79,6 +68,16 @@
         "authorCategory": "coworker",
         "reviewer": "rach-id",
         "requestedAt": "2026-08-14T23:38:35Z"
+      },
+      {
+        "number": 7694,
+        "title": "fix: reject transactions with duplicate TxRaw fields",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/7694",
+        "repo": "celestia-app",
+        "author": "rootulp",
+        "authorCategory": "coworker",
+        "reviewer": "rach-id",
+        "requestedAt": "2026-08-15T04:30:33Z"
       }
     ],
     "renaynay": [
@@ -288,5 +287,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-08-15T04:21:46.217Z"
+  "fetchedAt": "2026-08-15T04:38:29.991Z"
 }
