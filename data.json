@@ -60,16 +60,6 @@
     ],
     "rach-id": [
       {
-        "number": 7691,
-        "title": "fix!: validate the whole PayForFibre promise in the shape check",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7691",
-        "repo": "celestia-app",
-        "author": "rootulp",
-        "authorCategory": "coworker",
-        "reviewer": "rach-id",
-        "requestedAt": "2026-08-14T23:38:35Z"
-      },
-      {
         "number": 7694,
         "title": "fix: reject transactions with duplicate TxRaw fields",
         "url": "https://github.com/celestiaorg/celestia-app/pull/7694",
@@ -327,5 +317,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-08-16T05:34:18.095Z"
+  "fetchedAt": "2026-08-16T05:47:59.413Z"
 }
