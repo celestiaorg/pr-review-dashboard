@@ -54,16 +54,6 @@
         "authorCategory": "bot",
         "reviewer": "tty47",
         "requestedAt": "2026-08-17T09:39:21Z"
-      },
-      {
-        "number": 7643,
-        "title": "fix(forwarding)!: include custom_hook_id in the canonical derivation path of forwarding address #7640",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7643",
-        "repo": "celestia-app",
-        "author": "jonas089",
-        "authorCategory": "external",
-        "reviewer": "tty47",
-        "requestedAt": "2026-08-06T17:45:30Z"
       }
     ],
     "mcrakhman": [
@@ -299,5 +289,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-08-17T15:29:26.751Z"
+  "fetchedAt": "2026-08-17T15:53:09.373Z"
 }
