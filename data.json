@@ -1,14 +1,242 @@
 {
   "reviews": {
-    "chatton": [],
-    "pippokr": [],
-    "tty47": [],
-    "mcrakhman": [],
-    "ninabarbakadze": [],
+    "chatton": [
+      {
+        "number": 3231,
+        "title": "build(deps): Bump github.com/stretchr/testify from 1.11.1 to 1.12.0",
+        "url": "https://github.com/celestiaorg/celestia-core/pull/3231",
+        "repo": "celestia-core",
+        "author": "dependabot",
+        "authorCategory": "bot",
+        "reviewer": "chatton",
+        "requestedAt": "2026-08-17T09:32:50Z"
+      },
+      {
+        "number": 3238,
+        "title": "build(deps): Bump google.golang.org/protobuf from 1.36.11 to 1.36.12",
+        "url": "https://github.com/celestiaorg/celestia-core/pull/3238",
+        "repo": "celestia-core",
+        "author": "dependabot",
+        "authorCategory": "bot",
+        "reviewer": "chatton",
+        "requestedAt": "2026-08-17T09:37:31Z"
+      }
+    ],
+    "pippokr": [
+      {
+        "number": 7696,
+        "title": "chore(deps): bump github.com/stretchr/testify from 1.11.1 to 1.12.0 in /test/docker-e2e in the go-deps-docker-e2e group",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/7696",
+        "repo": "celestia-app",
+        "author": "dependabot",
+        "authorCategory": "bot",
+        "reviewer": "pippokr",
+        "requestedAt": "2026-08-17T09:35:36Z"
+      }
+    ],
+    "tty47": [
+      {
+        "number": 3232,
+        "title": "build(deps): Bump golang.org/x/net from 0.57.0 to 0.58.0",
+        "url": "https://github.com/celestiaorg/celestia-core/pull/3232",
+        "repo": "celestia-core",
+        "author": "dependabot",
+        "authorCategory": "bot",
+        "reviewer": "tty47",
+        "requestedAt": "2026-08-17T09:32:55Z"
+      },
+      {
+        "number": 7697,
+        "title": "chore(deps): bump the github-actions group with 2 updates",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/7697",
+        "repo": "celestia-app",
+        "author": "dependabot",
+        "authorCategory": "bot",
+        "reviewer": "tty47",
+        "requestedAt": "2026-08-17T09:39:21Z"
+      }
+    ],
+    "mcrakhman": [
+      {
+        "number": 5139,
+        "title": " fix(share/shrex): fail fast(er) on unreachable peers",
+        "url": "https://github.com/celestiaorg/celestia-node/pull/5139",
+        "repo": "celestia-node",
+        "author": "renaynay",
+        "authorCategory": "coworker",
+        "reviewer": "mcrakhman",
+        "requestedAt": "2026-08-13T11:19:38Z"
+      },
+      {
+        "number": 5156,
+        "title": "perf(das): reduce sampling range to reduce HOL blocking",
+        "url": "https://github.com/celestiaorg/celestia-node/pull/5156",
+        "repo": "celestia-node",
+        "author": "renaynay",
+        "authorCategory": "coworker",
+        "reviewer": "mcrakhman",
+        "requestedAt": "2026-08-13T13:46:45Z"
+      }
+    ],
+    "ninabarbakadze": [
+      {
+        "number": 7673,
+        "title": "fix: don't block forever when the NMT tree pool is drained",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/7673",
+        "repo": "celestia-app",
+        "author": "rootulp",
+        "authorCategory": "coworker",
+        "reviewer": "ninabarbakadze",
+        "requestedAt": "2026-08-13T14:55:02Z"
+      },
+      {
+        "number": 3237,
+        "title": "build(deps): Bump github.com/aws/aws-sdk-go-v2/service/s3 from 1.107.0 to 1.107.1",
+        "url": "https://github.com/celestiaorg/celestia-core/pull/3237",
+        "repo": "celestia-core",
+        "author": "dependabot",
+        "authorCategory": "bot",
+        "reviewer": "ninabarbakadze",
+        "requestedAt": "2026-08-17T09:37:29Z"
+      },
+      {
+        "number": 3239,
+        "title": "chore: bump Go patch version to clear govulncheck stdlib findings",
+        "url": "https://github.com/celestiaorg/celestia-core/pull/3239",
+        "repo": "celestia-core",
+        "author": "copilot-swe-agent",
+        "authorCategory": "bot",
+        "reviewer": "ninabarbakadze",
+        "requestedAt": "2026-08-17T10:42:15Z"
+      },
+      {
+        "number": 7643,
+        "title": "fix(forwarding)!: include custom_hook_id in the canonical derivation path of forwarding address #7640",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/7643",
+        "repo": "celestia-app",
+        "author": "jonas089",
+        "authorCategory": "external",
+        "reviewer": "ninabarbakadze",
+        "requestedAt": "2026-08-06T17:45:43Z"
+      }
+    ],
     "rach-id": [],
-    "renaynay": [],
-    "rootulp": [],
-    "vgonkivs": []
+    "renaynay": [
+      {
+        "number": 3233,
+        "title": "build(deps): Bump github.com/grafana/pyroscope-go from 1.4.1 to 1.4.2",
+        "url": "https://github.com/celestiaorg/celestia-core/pull/3233",
+        "repo": "celestia-core",
+        "author": "dependabot",
+        "authorCategory": "bot",
+        "reviewer": "renaynay",
+        "requestedAt": "2026-08-17T09:33:03Z"
+      },
+      {
+        "number": 5132,
+        "title": "node: Add JWT auth token revocation",
+        "url": "https://github.com/celestiaorg/celestia-node/pull/5132",
+        "repo": "celestia-node",
+        "author": "mohsenm4",
+        "authorCategory": "external",
+        "reviewer": "renaynay",
+        "requestedAt": "2026-08-17T11:12:58Z"
+      }
+    ],
+    "rootulp": [
+      {
+        "number": 7698,
+        "title": "chore(deps): bump the go-deps group with 22 updates",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/7698",
+        "repo": "celestia-app",
+        "author": "dependabot",
+        "authorCategory": "bot",
+        "reviewer": "rootulp",
+        "requestedAt": "2026-08-17T09:44:15Z"
+      }
+    ],
+    "vgonkivs": [
+      {
+        "number": 5153,
+        "title": "perf(nodebuilder/config): Increase `PeersLimit` based on DASer `ConcurrencyLimit`",
+        "url": "https://github.com/celestiaorg/celestia-node/pull/5153",
+        "repo": "celestia-node",
+        "author": "renaynay",
+        "authorCategory": "coworker",
+        "reviewer": "vgonkivs",
+        "requestedAt": "2026-08-13T11:27:48Z"
+      },
+      {
+        "number": 5165,
+        "title": "core: Recover interrupted listener publications",
+        "url": "https://github.com/celestiaorg/celestia-node/pull/5165",
+        "repo": "celestia-node",
+        "author": "neyy91",
+        "authorCategory": "external",
+        "reviewer": "vgonkivs",
+        "requestedAt": "2026-08-14T08:27:37Z"
+      },
+      {
+        "number": 5167,
+        "title": "cmd: Load configured RPC URL with explicit token",
+        "url": "https://github.com/celestiaorg/celestia-node/pull/5167",
+        "repo": "celestia-node",
+        "author": "neyy91",
+        "authorCategory": "external",
+        "reviewer": "vgonkivs",
+        "requestedAt": "2026-08-14T12:43:11Z"
+      },
+      {
+        "number": 5168,
+        "title": "config: Support IPv6 literal endpoints",
+        "url": "https://github.com/celestiaorg/celestia-node/pull/5168",
+        "repo": "celestia-node",
+        "author": "neyy91",
+        "authorCategory": "external",
+        "reviewer": "vgonkivs",
+        "requestedAt": "2026-08-14T13:01:16Z"
+      },
+      {
+        "number": 5169,
+        "title": "das: Group adjacent retry heights",
+        "url": "https://github.com/celestiaorg/celestia-node/pull/5169",
+        "repo": "celestia-node",
+        "author": "neyy91",
+        "authorCategory": "external",
+        "reviewer": "vgonkivs",
+        "requestedAt": "2026-08-15T20:28:16Z"
+      },
+      {
+        "number": 5170,
+        "title": "core: Reject incomplete gRPC responses",
+        "url": "https://github.com/celestiaorg/celestia-node/pull/5170",
+        "repo": "celestia-node",
+        "author": "neyy91",
+        "authorCategory": "external",
+        "reviewer": "vgonkivs",
+        "requestedAt": "2026-08-15T20:28:52Z"
+      },
+      {
+        "number": 5172,
+        "title": "nodebuilder: Hold store lock until datastore closes",
+        "url": "https://github.com/celestiaorg/celestia-node/pull/5172",
+        "repo": "celestia-node",
+        "author": "neyy91",
+        "authorCategory": "external",
+        "reviewer": "vgonkivs",
+        "requestedAt": "2026-08-15T22:00:59Z"
+      },
+      {
+        "number": 5174,
+        "title": "core: Back off failed block subscriptions",
+        "url": "https://github.com/celestiaorg/celestia-node/pull/5174",
+        "repo": "celestia-node",
+        "author": "neyy91",
+        "authorCategory": "external",
+        "reviewer": "vgonkivs",
+        "requestedAt": "2026-08-16T22:42:36Z"
+      }
+    ]
   },
   "teamMembers": [
     {
@@ -61,5 +289,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-08-17T17:46:29.957Z"
+  "fetchedAt": "2026-08-17T17:58:36.636Z"
 }
