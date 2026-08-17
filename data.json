@@ -110,6 +110,16 @@
         "requestedAt": "2026-08-17T09:37:29Z"
       },
       {
+        "number": 7698,
+        "title": "chore(deps): bump the go-deps group with 22 updates",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/7698",
+        "repo": "celestia-app",
+        "author": "dependabot",
+        "authorCategory": "bot",
+        "reviewer": "ninabarbakadze",
+        "requestedAt": "2026-08-17T23:17:12Z"
+      },
+      {
         "number": 7643,
         "title": "fix(forwarding)!: include custom_hook_id in the canonical derivation path of forwarding address #7640",
         "url": "https://github.com/celestiaorg/celestia-app/pull/7643",
@@ -122,6 +132,16 @@
     ],
     "rach-id": [],
     "renaynay": [
+      {
+        "number": 281,
+        "title": "chore: preallocate slices flagged by prealloc",
+        "url": "https://github.com/celestiaorg/go-square/pull/281",
+        "repo": "go-square",
+        "author": "rootulp",
+        "authorCategory": "coworker",
+        "reviewer": "renaynay",
+        "requestedAt": "2026-08-17T23:27:11Z"
+      },
       {
         "number": 3233,
         "title": "build(deps): Bump github.com/grafana/pyroscope-go from 1.4.1 to 1.4.2",
@@ -278,5 +298,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-08-17T23:14:16.662Z"
+  "fetchedAt": "2026-08-17T23:27:24.562Z"
 }
