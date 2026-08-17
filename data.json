@@ -100,16 +100,6 @@
         "requestedAt": "2026-08-17T09:37:29Z"
       },
       {
-        "number": 3239,
-        "title": "chore: bump Go patch version to clear govulncheck stdlib findings",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3239",
-        "repo": "celestia-core",
-        "author": "copilot-swe-agent",
-        "authorCategory": "bot",
-        "reviewer": "ninabarbakadze",
-        "requestedAt": "2026-08-17T10:42:15Z"
-      },
-      {
         "number": 7643,
         "title": "fix(forwarding)!: include custom_hook_id in the canonical derivation path of forwarding address #7640",
         "url": "https://github.com/celestiaorg/celestia-app/pull/7643",
@@ -289,5 +279,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-08-17T17:58:36.636Z"
+  "fetchedAt": "2026-08-17T18:12:09.710Z"
 }
