@@ -141,6 +141,16 @@
         "authorCategory": "bot",
         "reviewer": "renaynay",
         "requestedAt": "2026-08-17T09:33:03Z"
+      },
+      {
+        "number": 5132,
+        "title": "node: Add JWT auth token revocation",
+        "url": "https://github.com/celestiaorg/celestia-node/pull/5132",
+        "repo": "celestia-node",
+        "author": "mohsenm4",
+        "authorCategory": "external",
+        "reviewer": "renaynay",
+        "requestedAt": "2026-08-17T11:12:58Z"
       }
     ],
     "rootulp": [
@@ -165,36 +175,6 @@
         "authorCategory": "coworker",
         "reviewer": "vgonkivs",
         "requestedAt": "2026-08-13T11:27:48Z"
-      },
-      {
-        "number": 5175,
-        "title": "chore(deps): bump the libp2p group across 1 directory with 2 updates",
-        "url": "https://github.com/celestiaorg/celestia-node/pull/5175",
-        "repo": "celestia-node",
-        "author": "dependabot",
-        "authorCategory": "bot",
-        "reviewer": "vgonkivs",
-        "requestedAt": "2026-08-17T11:05:55Z"
-      },
-      {
-        "number": 5176,
-        "title": "chore(deps): bump the go-deps group across 2 directories with 5 updates",
-        "url": "https://github.com/celestiaorg/celestia-node/pull/5176",
-        "repo": "celestia-node",
-        "author": "dependabot",
-        "authorCategory": "bot",
-        "reviewer": "vgonkivs",
-        "requestedAt": "2026-08-17T11:06:35Z"
-      },
-      {
-        "number": 5132,
-        "title": "node: Add JWT auth token revocation",
-        "url": "https://github.com/celestiaorg/celestia-node/pull/5132",
-        "repo": "celestia-node",
-        "author": "mohsenm4",
-        "authorCategory": "external",
-        "reviewer": "vgonkivs",
-        "requestedAt": "2026-07-20T20:03:15Z"
       },
       {
         "number": 5162,
@@ -359,5 +339,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-08-17T11:11:17.137Z"
+  "fetchedAt": "2026-08-17T11:24:06.578Z"
 }
