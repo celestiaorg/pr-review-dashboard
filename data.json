@@ -177,26 +177,6 @@
         "requestedAt": "2026-08-13T11:27:48Z"
       },
       {
-        "number": 5129,
-        "title": "chore(deps): bump github.com/libp2p/go-libp2p-kad-dht from 0.41.0 to 0.42.0",
-        "url": "https://github.com/celestiaorg/celestia-node/pull/5129",
-        "repo": "celestia-node",
-        "author": "dependabot",
-        "authorCategory": "bot",
-        "reviewer": "vgonkivs",
-        "requestedAt": "2026-07-20T11:06:58Z"
-      },
-      {
-        "number": 5160,
-        "title": "chore(deps): bump the libp2p group across 1 directory with 2 updates",
-        "url": "https://github.com/celestiaorg/celestia-node/pull/5160",
-        "repo": "celestia-node",
-        "author": "dependabot",
-        "authorCategory": "bot",
-        "reviewer": "vgonkivs",
-        "requestedAt": "2026-08-10T11:08:48Z"
-      },
-      {
         "number": 3236,
         "title": "build(deps): Bump github.com/aws/aws-sdk-go-v2/config from 1.32.35 to 1.32.36",
         "url": "https://github.com/celestiaorg/celestia-core/pull/3236",
@@ -235,16 +215,6 @@
         "authorCategory": "external",
         "reviewer": "vgonkivs",
         "requestedAt": "2026-08-11T05:58:46Z"
-      },
-      {
-        "number": 5163,
-        "title": "docs: environment-variable table lists 1 of the 7 variables the node reads",
-        "url": "https://github.com/celestiaorg/celestia-node/pull/5163",
-        "repo": "celestia-node",
-        "author": "boleklebovski",
-        "authorCategory": "external",
-        "reviewer": "vgonkivs",
-        "requestedAt": "2026-08-12T18:52:20Z"
       },
       {
         "number": 5164,
@@ -399,5 +369,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-08-17T10:17:19.317Z"
+  "fetchedAt": "2026-08-17T10:32:51.549Z"
 }
