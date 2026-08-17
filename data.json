@@ -48,6 +48,16 @@
     ],
     "ninabarbakadze": [
       {
+        "number": 7673,
+        "title": "fix: don't block forever when the NMT tree pool is drained",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/7673",
+        "repo": "celestia-app",
+        "author": "rootulp",
+        "authorCategory": "coworker",
+        "reviewer": "ninabarbakadze",
+        "requestedAt": "2026-08-13T14:55:02Z"
+      },
+      {
         "number": 7643,
         "title": "fix(forwarding)!: include custom_hook_id in the canonical derivation path of forwarding address #7640",
         "url": "https://github.com/celestiaorg/celestia-app/pull/7643",
@@ -68,6 +78,16 @@
         "authorCategory": "coworker",
         "reviewer": "rach-id",
         "requestedAt": "2026-08-15T04:30:33Z"
+      },
+      {
+        "number": 7673,
+        "title": "fix: don't block forever when the NMT tree pool is drained",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/7673",
+        "repo": "celestia-app",
+        "author": "rootulp",
+        "authorCategory": "coworker",
+        "reviewer": "rach-id",
+        "requestedAt": "2026-08-17T04:13:42Z"
       }
     ],
     "renaynay": [
@@ -337,5 +357,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-08-17T04:12:56.016Z"
+  "fetchedAt": "2026-08-17T04:28:55.821Z"
 }
