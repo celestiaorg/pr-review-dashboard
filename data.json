@@ -143,18 +143,7 @@
         "requestedAt": "2026-08-17T11:12:58Z"
       }
     ],
-    "rootulp": [
-      {
-        "number": 7698,
-        "title": "chore(deps): bump the go-deps group with 22 updates",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7698",
-        "repo": "celestia-app",
-        "author": "dependabot",
-        "authorCategory": "bot",
-        "reviewer": "rootulp",
-        "requestedAt": "2026-08-17T09:44:15Z"
-      }
-    ],
+    "rootulp": [],
     "vgonkivs": [
       {
         "number": 5153,
@@ -165,16 +154,6 @@
         "authorCategory": "coworker",
         "reviewer": "vgonkivs",
         "requestedAt": "2026-08-13T11:27:48Z"
-      },
-      {
-        "number": 279,
-        "title": "chore(deps): bump google.golang.org/protobuf from 1.36.11 to 1.36.12",
-        "url": "https://github.com/celestiaorg/go-square/pull/279",
-        "repo": "go-square",
-        "author": "dependabot",
-        "authorCategory": "bot",
-        "reviewer": "vgonkivs",
-        "requestedAt": "2026-08-17T19:38:25Z"
       },
       {
         "number": 5165,
@@ -299,5 +278,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-08-17T22:44:14.714Z"
+  "fetchedAt": "2026-08-17T22:54:50.828Z"
 }
