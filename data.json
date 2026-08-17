@@ -177,26 +177,6 @@
         "requestedAt": "2026-08-13T11:27:48Z"
       },
       {
-        "number": 5162,
-        "title": "docgen: fix invalid openrpc.json release asset",
-        "url": "https://github.com/celestiaorg/celestia-node/pull/5162",
-        "repo": "celestia-node",
-        "author": "mohsenm4",
-        "authorCategory": "external",
-        "reviewer": "vgonkivs",
-        "requestedAt": "2026-08-11T05:58:46Z"
-      },
-      {
-        "number": 5164,
-        "title": "core: Avoid duplicate authenticated gRPC retries",
-        "url": "https://github.com/celestiaorg/celestia-node/pull/5164",
-        "repo": "celestia-node",
-        "author": "neyy91",
-        "authorCategory": "external",
-        "reviewer": "vgonkivs",
-        "requestedAt": "2026-08-13T20:55:55Z"
-      },
-      {
         "number": 5165,
         "title": "core: Recover interrupted listener publications",
         "url": "https://github.com/celestiaorg/celestia-node/pull/5165",
@@ -267,16 +247,6 @@
         "requestedAt": "2026-08-15T22:00:59Z"
       },
       {
-        "number": 5173,
-        "title": "das: Jitter retry scheduling",
-        "url": "https://github.com/celestiaorg/celestia-node/pull/5173",
-        "repo": "celestia-node",
-        "author": "neyy91",
-        "authorCategory": "external",
-        "reviewer": "vgonkivs",
-        "requestedAt": "2026-08-16T22:41:53Z"
-      },
-      {
         "number": 5174,
         "title": "core: Back off failed block subscriptions",
         "url": "https://github.com/celestiaorg/celestia-node/pull/5174",
@@ -339,5 +309,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-08-17T11:24:06.578Z"
+  "fetchedAt": "2026-08-17T11:37:20.731Z"
 }
