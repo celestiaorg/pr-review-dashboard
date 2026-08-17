@@ -227,16 +227,6 @@
         "requestedAt": "2026-08-15T20:28:52Z"
       },
       {
-        "number": 5171,
-        "title": "rpc: Share limiter across concurrent first requests",
-        "url": "https://github.com/celestiaorg/celestia-node/pull/5171",
-        "repo": "celestia-node",
-        "author": "neyy91",
-        "authorCategory": "external",
-        "reviewer": "vgonkivs",
-        "requestedAt": "2026-08-15T22:00:14Z"
-      },
-      {
         "number": 5172,
         "title": "nodebuilder: Hold store lock until datastore closes",
         "url": "https://github.com/celestiaorg/celestia-node/pull/5172",
@@ -309,5 +299,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-08-17T11:37:20.731Z"
+  "fetchedAt": "2026-08-17T11:49:02.695Z"
 }
