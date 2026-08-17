@@ -70,16 +70,6 @@
     ],
     "rach-id": [
       {
-        "number": 7694,
-        "title": "fix: reject transactions with duplicate TxRaw fields",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7694",
-        "repo": "celestia-app",
-        "author": "rootulp",
-        "authorCategory": "coworker",
-        "reviewer": "rach-id",
-        "requestedAt": "2026-08-15T04:30:33Z"
-      },
-      {
         "number": 7673,
         "title": "fix: don't block forever when the NMT tree pool is drained",
         "url": "https://github.com/celestiaorg/celestia-app/pull/7673",
@@ -357,5 +347,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-08-17T06:23:01.778Z"
+  "fetchedAt": "2026-08-17T06:42:34.434Z"
 }
