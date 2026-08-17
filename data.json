@@ -32,19 +32,19 @@
         "authorCategory": "bot",
         "reviewer": "pippokr",
         "requestedAt": "2026-08-17T09:35:36Z"
+      },
+      {
+        "number": 3239,
+        "title": "chore: bump Go patch version to clear govulncheck stdlib findings",
+        "url": "https://github.com/celestiaorg/celestia-core/pull/3239",
+        "repo": "celestia-core",
+        "author": "copilot-swe-agent",
+        "authorCategory": "bot",
+        "reviewer": "pippokr",
+        "requestedAt": "2026-08-17T10:42:02Z"
       }
     ],
     "tty47": [
-      {
-        "number": 7687,
-        "title": "docs(fibre): document the validator operator path end to end",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7687",
-        "repo": "celestia-app",
-        "author": "rach-id",
-        "authorCategory": "coworker",
-        "reviewer": "tty47",
-        "requestedAt": "2026-08-14T08:34:57Z"
-      },
       {
         "number": 3232,
         "title": "build(deps): Bump golang.org/x/net from 0.57.0 to 0.58.0",
@@ -120,6 +120,16 @@
         "requestedAt": "2026-08-17T09:37:29Z"
       },
       {
+        "number": 3239,
+        "title": "chore: bump Go patch version to clear govulncheck stdlib findings",
+        "url": "https://github.com/celestiaorg/celestia-core/pull/3239",
+        "repo": "celestia-core",
+        "author": "copilot-swe-agent",
+        "authorCategory": "bot",
+        "reviewer": "ninabarbakadze",
+        "requestedAt": "2026-08-17T10:42:15Z"
+      },
+      {
         "number": 7643,
         "title": "fix(forwarding)!: include custom_hook_id in the canonical derivation path of forwarding address #7640",
         "url": "https://github.com/celestiaorg/celestia-app/pull/7643",
@@ -132,16 +142,6 @@
     ],
     "rach-id": [],
     "renaynay": [
-      {
-        "number": 7688,
-        "title": "docs(fibre): add usage docs, module reference, and v10 spec wiring",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7688",
-        "repo": "celestia-app",
-        "author": "rach-id",
-        "authorCategory": "coworker",
-        "reviewer": "renaynay",
-        "requestedAt": "2026-08-14T08:35:16Z"
-      },
       {
         "number": 3233,
         "title": "build(deps): Bump github.com/grafana/pyroscope-go from 1.4.1 to 1.4.2",
@@ -369,5 +369,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-08-17T10:32:51.549Z"
+  "fetchedAt": "2026-08-17T10:48:28.230Z"
 }
