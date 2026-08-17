@@ -1,7 +1,39 @@
 {
   "reviews": {
-    "chatton": [],
-    "pippokr": [],
+    "chatton": [
+      {
+        "number": 3231,
+        "title": "build(deps): Bump github.com/stretchr/testify from 1.11.1 to 1.12.0",
+        "url": "https://github.com/celestiaorg/celestia-core/pull/3231",
+        "repo": "celestia-core",
+        "author": "dependabot",
+        "authorCategory": "bot",
+        "reviewer": "chatton",
+        "requestedAt": "2026-08-17T09:32:50Z"
+      },
+      {
+        "number": 3238,
+        "title": "build(deps): Bump google.golang.org/protobuf from 1.36.11 to 1.36.12",
+        "url": "https://github.com/celestiaorg/celestia-core/pull/3238",
+        "repo": "celestia-core",
+        "author": "dependabot",
+        "authorCategory": "bot",
+        "reviewer": "chatton",
+        "requestedAt": "2026-08-17T09:37:31Z"
+      }
+    ],
+    "pippokr": [
+      {
+        "number": 7696,
+        "title": "chore(deps): bump github.com/stretchr/testify from 1.11.1 to 1.12.0 in /test/docker-e2e in the go-deps-docker-e2e group",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/7696",
+        "repo": "celestia-app",
+        "author": "dependabot",
+        "authorCategory": "bot",
+        "reviewer": "pippokr",
+        "requestedAt": "2026-08-17T09:35:36Z"
+      }
+    ],
     "tty47": [
       {
         "number": 7687,
@@ -12,6 +44,26 @@
         "authorCategory": "coworker",
         "reviewer": "tty47",
         "requestedAt": "2026-08-14T08:34:57Z"
+      },
+      {
+        "number": 3232,
+        "title": "build(deps): Bump golang.org/x/net from 0.57.0 to 0.58.0",
+        "url": "https://github.com/celestiaorg/celestia-core/pull/3232",
+        "repo": "celestia-core",
+        "author": "dependabot",
+        "authorCategory": "bot",
+        "reviewer": "tty47",
+        "requestedAt": "2026-08-17T09:32:55Z"
+      },
+      {
+        "number": 7697,
+        "title": "chore(deps): bump the github-actions group with 2 updates",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/7697",
+        "repo": "celestia-app",
+        "author": "dependabot",
+        "authorCategory": "bot",
+        "reviewer": "tty47",
+        "requestedAt": "2026-08-17T09:39:21Z"
       },
       {
         "number": 7643,
@@ -58,6 +110,16 @@
         "requestedAt": "2026-08-13T14:55:02Z"
       },
       {
+        "number": 3237,
+        "title": "build(deps): Bump github.com/aws/aws-sdk-go-v2/service/s3 from 1.107.0 to 1.107.1",
+        "url": "https://github.com/celestiaorg/celestia-core/pull/3237",
+        "repo": "celestia-core",
+        "author": "dependabot",
+        "authorCategory": "bot",
+        "reviewer": "ninabarbakadze",
+        "requestedAt": "2026-08-17T09:37:29Z"
+      },
+      {
         "number": 7643,
         "title": "fix(forwarding)!: include custom_hook_id in the canonical derivation path of forwarding address #7640",
         "url": "https://github.com/celestiaorg/celestia-app/pull/7643",
@@ -68,7 +130,18 @@
         "requestedAt": "2026-08-06T17:45:43Z"
       }
     ],
-    "rach-id": [],
+    "rach-id": [
+      {
+        "number": 3235,
+        "title": "build(deps): Bump golang.org/x/crypto from 0.54.0 to 0.55.0",
+        "url": "https://github.com/celestiaorg/celestia-core/pull/3235",
+        "repo": "celestia-core",
+        "author": "dependabot",
+        "authorCategory": "bot",
+        "reviewer": "rach-id",
+        "requestedAt": "2026-08-17T09:34:32Z"
+      }
+    ],
     "renaynay": [
       {
         "number": 7688,
@@ -79,9 +152,40 @@
         "authorCategory": "coworker",
         "reviewer": "renaynay",
         "requestedAt": "2026-08-14T08:35:16Z"
+      },
+      {
+        "number": 3233,
+        "title": "build(deps): Bump github.com/grafana/pyroscope-go from 1.4.1 to 1.4.2",
+        "url": "https://github.com/celestiaorg/celestia-core/pull/3233",
+        "repo": "celestia-core",
+        "author": "dependabot",
+        "authorCategory": "bot",
+        "reviewer": "renaynay",
+        "requestedAt": "2026-08-17T09:33:03Z"
       }
     ],
-    "rootulp": [],
+    "rootulp": [
+      {
+        "number": 3234,
+        "title": "build(deps): Bump github.com/aws/aws-sdk-go-v2 from 1.43.4 to 1.43.5",
+        "url": "https://github.com/celestiaorg/celestia-core/pull/3234",
+        "repo": "celestia-core",
+        "author": "dependabot",
+        "authorCategory": "bot",
+        "reviewer": "rootulp",
+        "requestedAt": "2026-08-17T09:34:29Z"
+      },
+      {
+        "number": 7698,
+        "title": "chore(deps): bump the go-deps group with 22 updates",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/7698",
+        "repo": "celestia-app",
+        "author": "dependabot",
+        "authorCategory": "bot",
+        "reviewer": "rootulp",
+        "requestedAt": "2026-08-17T09:44:15Z"
+      }
+    ],
     "vgonkivs": [
       {
         "number": 5153,
@@ -104,26 +208,6 @@
         "requestedAt": "2026-08-13T13:45:47Z"
       },
       {
-        "number": 7687,
-        "title": "docs(fibre): document the validator operator path end to end",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7687",
-        "repo": "celestia-app",
-        "author": "rach-id",
-        "authorCategory": "coworker",
-        "reviewer": "vgonkivs",
-        "requestedAt": "2026-08-14T09:36:29Z"
-      },
-      {
-        "number": 7688,
-        "title": "docs(fibre): add usage docs, module reference, and v10 spec wiring",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7688",
-        "repo": "celestia-app",
-        "author": "rach-id",
-        "authorCategory": "coworker",
-        "reviewer": "vgonkivs",
-        "requestedAt": "2026-08-14T11:36:23Z"
-      },
-      {
         "number": 5129,
         "title": "chore(deps): bump github.com/libp2p/go-libp2p-kad-dht from 0.41.0 to 0.42.0",
         "url": "https://github.com/celestiaorg/celestia-node/pull/5129",
@@ -142,6 +226,26 @@
         "authorCategory": "bot",
         "reviewer": "vgonkivs",
         "requestedAt": "2026-08-10T11:08:48Z"
+      },
+      {
+        "number": 3230,
+        "title": "build(deps): Bump github.com/aws/aws-sdk-go-v2/credentials from 1.19.34 to 1.19.35",
+        "url": "https://github.com/celestiaorg/celestia-core/pull/3230",
+        "repo": "celestia-core",
+        "author": "dependabot",
+        "authorCategory": "bot",
+        "reviewer": "vgonkivs",
+        "requestedAt": "2026-08-17T09:32:43Z"
+      },
+      {
+        "number": 3236,
+        "title": "build(deps): Bump github.com/aws/aws-sdk-go-v2/config from 1.32.35 to 1.32.36",
+        "url": "https://github.com/celestiaorg/celestia-core/pull/3236",
+        "repo": "celestia-core",
+        "author": "dependabot",
+        "authorCategory": "bot",
+        "reviewer": "vgonkivs",
+        "requestedAt": "2026-08-17T09:35:59Z"
       },
       {
         "number": 5124,
@@ -336,5 +440,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-08-17T09:28:09.522Z"
+  "fetchedAt": "2026-08-17T09:48:28.496Z"
 }
