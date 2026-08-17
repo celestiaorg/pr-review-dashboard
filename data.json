@@ -100,16 +100,6 @@
         "requestedAt": "2026-08-17T09:37:29Z"
       },
       {
-        "number": 280,
-        "title": "chore(deps): bump github.com/stretchr/testify from 1.11.1 to 1.12.0",
-        "url": "https://github.com/celestiaorg/go-square/pull/280",
-        "repo": "go-square",
-        "author": "dependabot",
-        "authorCategory": "bot",
-        "reviewer": "ninabarbakadze",
-        "requestedAt": "2026-08-17T19:38:29Z"
-      },
-      {
         "number": 7643,
         "title": "fix(forwarding)!: include custom_hook_id in the canonical derivation path of forwarding address #7640",
         "url": "https://github.com/celestiaorg/celestia-app/pull/7643",
@@ -299,5 +289,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-08-17T19:44:58.506Z"
+  "fetchedAt": "2026-08-17T19:55:16.107Z"
 }
