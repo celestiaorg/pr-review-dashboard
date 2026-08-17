@@ -177,26 +177,6 @@
         "requestedAt": "2026-08-13T11:27:48Z"
       },
       {
-        "number": 3236,
-        "title": "build(deps): Bump github.com/aws/aws-sdk-go-v2/config from 1.32.35 to 1.32.36",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3236",
-        "repo": "celestia-core",
-        "author": "dependabot",
-        "authorCategory": "bot",
-        "reviewer": "vgonkivs",
-        "requestedAt": "2026-08-17T09:35:59Z"
-      },
-      {
-        "number": 5124,
-        "title": "nodebuilder/rpc: Make maxConcurrentConns configurable",
-        "url": "https://github.com/celestiaorg/celestia-node/pull/5124",
-        "repo": "celestia-node",
-        "author": "mohsenm4",
-        "authorCategory": "external",
-        "reviewer": "vgonkivs",
-        "requestedAt": "2026-07-19T06:48:07Z"
-      },
-      {
         "number": 5132,
         "title": "node: Add JWT auth token revocation",
         "url": "https://github.com/celestiaorg/celestia-node/pull/5132",
@@ -369,5 +349,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-08-17T10:48:28.230Z"
+  "fetchedAt": "2026-08-17T11:00:02.668Z"
 }
