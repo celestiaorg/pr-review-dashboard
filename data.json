@@ -130,18 +130,7 @@
         "requestedAt": "2026-08-06T17:45:43Z"
       }
     ],
-    "rach-id": [
-      {
-        "number": 3235,
-        "title": "build(deps): Bump golang.org/x/crypto from 0.54.0 to 0.55.0",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3235",
-        "repo": "celestia-core",
-        "author": "dependabot",
-        "authorCategory": "bot",
-        "reviewer": "rach-id",
-        "requestedAt": "2026-08-17T09:34:32Z"
-      }
-    ],
+    "rach-id": [],
     "renaynay": [
       {
         "number": 7688,
@@ -440,5 +429,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-08-17T09:48:28.496Z"
+  "fetchedAt": "2026-08-17T10:04:51.172Z"
 }
