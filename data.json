@@ -46,6 +46,16 @@
     ],
     "tty47": [
       {
+        "number": 7699,
+        "title": "chore: instruct dependabot to ignore cosmos-sdk dependencies",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/7699",
+        "repo": "celestia-app",
+        "author": "rootulp",
+        "authorCategory": "coworker",
+        "reviewer": "tty47",
+        "requestedAt": "2026-08-17T23:02:10Z"
+      },
+      {
         "number": 3232,
         "title": "build(deps): Bump golang.org/x/net from 0.57.0 to 0.58.0",
         "url": "https://github.com/celestiaorg/celestia-core/pull/3232",
@@ -278,5 +288,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-08-17T22:54:50.828Z"
+  "fetchedAt": "2026-08-17T23:03:39.040Z"
 }
