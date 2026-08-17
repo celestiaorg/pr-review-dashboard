@@ -68,18 +68,7 @@
         "requestedAt": "2026-08-06T17:45:43Z"
       }
     ],
-    "rach-id": [
-      {
-        "number": 7673,
-        "title": "fix: don't block forever when the NMT tree pool is drained",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7673",
-        "repo": "celestia-app",
-        "author": "rootulp",
-        "authorCategory": "coworker",
-        "reviewer": "rach-id",
-        "requestedAt": "2026-08-17T04:13:42Z"
-      }
-    ],
+    "rach-id": [],
     "renaynay": [
       {
         "number": 7688,
@@ -347,5 +336,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-08-17T06:42:34.434Z"
+  "fetchedAt": "2026-08-17T07:09:19.743Z"
 }
