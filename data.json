@@ -1,17 +1,6 @@
 {
   "reviews": {
-    "chatton": [
-      {
-        "number": 5133,
-        "title": "test(tastora): add missing tastora tests",
-        "url": "https://github.com/celestiaorg/celestia-node/pull/5133",
-        "repo": "celestia-node",
-        "author": "vgonkivs",
-        "authorCategory": "coworker",
-        "reviewer": "chatton",
-        "requestedAt": "2026-08-18T12:35:42Z"
-      }
-    ],
+    "chatton": [],
     "pippokr": [],
     "tty47": [
       {
@@ -278,5 +267,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-08-18T13:05:56.485Z"
+  "fetchedAt": "2026-08-18T13:26:38.792Z"
 }
