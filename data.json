@@ -143,6 +143,16 @@
         "requestedAt": "2026-08-17T23:27:11Z"
       },
       {
+        "number": 405,
+        "title": "fix(p2p/server): fix partialRange response",
+        "url": "https://github.com/celestiaorg/go-header/pull/405",
+        "repo": "go-header",
+        "author": "vgonkivs",
+        "authorCategory": "coworker",
+        "reviewer": "renaynay",
+        "requestedAt": "2026-08-18T09:17:38Z"
+      },
+      {
         "number": 3233,
         "title": "build(deps): Bump github.com/grafana/pyroscope-go from 1.4.1 to 1.4.2",
         "url": "https://github.com/celestiaorg/celestia-core/pull/3233",
@@ -298,5 +308,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-08-18T09:05:26.121Z"
+  "fetchedAt": "2026-08-18T09:18:06.877Z"
 }
