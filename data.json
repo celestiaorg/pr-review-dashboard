@@ -3,18 +3,7 @@
     "chatton": [],
     "pippokr": [],
     "tty47": [],
-    "mcrakhman": [
-      {
-        "number": 5156,
-        "title": "perf(das): reduce sampling range to reduce HOL blocking",
-        "url": "https://github.com/celestiaorg/celestia-node/pull/5156",
-        "repo": "celestia-node",
-        "author": "renaynay",
-        "authorCategory": "coworker",
-        "reviewer": "mcrakhman",
-        "requestedAt": "2026-08-13T13:46:45Z"
-      }
-    ],
+    "mcrakhman": [],
     "ninabarbakadze": [
       {
         "number": 3240,
@@ -90,6 +79,16 @@
       }
     ],
     "renaynay": [
+      {
+        "number": 5177,
+        "title": "perf(shrex/client): reduce memory usage by removing the buffer",
+        "url": "https://github.com/celestiaorg/celestia-node/pull/5177",
+        "repo": "celestia-node",
+        "author": "vgonkivs",
+        "authorCategory": "coworker",
+        "reviewer": "renaynay",
+        "requestedAt": "2026-08-18T18:32:19Z"
+      },
       {
         "number": 5132,
         "title": "node: Add JWT auth token revocation",
@@ -236,5 +235,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-08-18T18:29:52.606Z"
+  "fetchedAt": "2026-08-18T18:50:04.996Z"
 }
