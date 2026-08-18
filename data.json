@@ -80,6 +80,16 @@
     ],
     "rach-id": [
       {
+        "number": 7703,
+        "title": "feat(fibre): add validator-local promise cache to close double-spend window",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/7703",
+        "repo": "celestia-app",
+        "author": "vgonkivs",
+        "authorCategory": "coworker",
+        "reviewer": "rach-id",
+        "requestedAt": "2026-08-18T12:59:20Z"
+      },
+      {
         "number": 7700,
         "title": "feat!: classify transactions in the app and pass them to go-square",
         "url": "https://github.com/celestiaorg/celestia-app/pull/7700",
@@ -237,5 +247,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-08-18T14:50:42.784Z"
+  "fetchedAt": "2026-08-18T15:04:28.668Z"
 }
