@@ -1,30 +1,8 @@
 {
   "reviews": {
-    "chatton": [
-      {
-        "number": 7704,
-        "title": "chore: bump hyperlane-cosmos to v1.3.0",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7704",
-        "repo": "celestia-app",
-        "author": "ninabarbakadze",
-        "authorCategory": "coworker",
-        "reviewer": "chatton",
-        "requestedAt": "2026-08-18T14:43:48Z"
-      }
-    ],
+    "chatton": [],
     "pippokr": [],
-    "tty47": [
-      {
-        "number": 3243,
-        "title": "fix(blocksync): bound signatures reached through evidence",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3243",
-        "repo": "celestia-core",
-        "author": "rootulp",
-        "authorCategory": "coworker",
-        "reviewer": "tty47",
-        "requestedAt": "2026-08-18T15:11:12Z"
-      }
-    ],
+    "tty47": [],
     "mcrakhman": [
       {
         "number": 5139,
@@ -248,5 +226,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-08-18T15:59:39.648Z"
+  "fetchedAt": "2026-08-18T16:12:13.770Z"
 }
