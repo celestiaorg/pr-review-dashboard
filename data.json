@@ -27,16 +27,6 @@
     ],
     "ninabarbakadze": [
       {
-        "number": 277,
-        "title": "feat!: require callers to classify transactions",
-        "url": "https://github.com/celestiaorg/go-square/pull/277",
-        "repo": "go-square",
-        "author": "rootulp",
-        "authorCategory": "coworker",
-        "reviewer": "ninabarbakadze",
-        "requestedAt": "2026-08-13T21:02:39Z"
-      },
-      {
         "number": 3240,
         "title": "feat!(rpc): harden rpc endpoints",
         "url": "https://github.com/celestiaorg/celestia-core/pull/3240",
@@ -99,14 +89,14 @@
     ],
     "rach-id": [
       {
-        "number": 277,
-        "title": "feat!: require callers to classify transactions",
-        "url": "https://github.com/celestiaorg/go-square/pull/277",
+        "number": 281,
+        "title": "chore: preallocate slices flagged by prealloc",
+        "url": "https://github.com/celestiaorg/go-square/pull/281",
         "repo": "go-square",
         "author": "rootulp",
         "authorCategory": "coworker",
         "reviewer": "rach-id",
-        "requestedAt": "2026-08-18T13:33:38Z"
+        "requestedAt": "2026-08-18T14:14:16Z"
       }
     ],
     "renaynay": [
@@ -266,5 +256,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-08-18T14:03:25.774Z"
+  "fetchedAt": "2026-08-18T14:17:30.535Z"
 }
