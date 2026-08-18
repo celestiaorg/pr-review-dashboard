@@ -2,26 +2,6 @@
   "reviews": {
     "chatton": [
       {
-        "number": 3231,
-        "title": "build(deps): Bump github.com/stretchr/testify from 1.11.1 to 1.12.0",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3231",
-        "repo": "celestia-core",
-        "author": "dependabot",
-        "authorCategory": "bot",
-        "reviewer": "chatton",
-        "requestedAt": "2026-08-17T09:32:50Z"
-      },
-      {
-        "number": 3238,
-        "title": "build(deps): Bump google.golang.org/protobuf from 1.36.11 to 1.36.12",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3238",
-        "repo": "celestia-core",
-        "author": "dependabot",
-        "authorCategory": "bot",
-        "reviewer": "chatton",
-        "requestedAt": "2026-08-17T09:37:31Z"
-      },
-      {
         "number": 334,
         "title": "chore(deps): bump github.com/stretchr/testify from 1.11.1 to 1.12.0",
         "url": "https://github.com/celestiaorg/nmt/pull/334",
@@ -90,7 +70,7 @@
       },
       {
         "number": 3237,
-        "title": "build(deps): Bump github.com/aws/aws-sdk-go-v2/service/s3 from 1.107.0 to 1.107.1",
+        "title": "build(deps): Bump github.com/aws/aws-sdk-go-v2/service/s3 from 1.107.0 to 1.107.2",
         "url": "https://github.com/celestiaorg/celestia-core/pull/3237",
         "repo": "celestia-core",
         "author": "dependabot",
@@ -308,5 +288,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-08-18T09:34:18.780Z"
+  "fetchedAt": "2026-08-18T09:49:46.551Z"
 }
