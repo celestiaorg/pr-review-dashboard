@@ -44,6 +44,16 @@
         "authorCategory": "coworker",
         "reviewer": "ninabarbakadze",
         "requestedAt": "2026-08-18T18:27:24Z"
+      },
+      {
+        "number": 7705,
+        "title": "fix: require canonical encoding for blob txs",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/7705",
+        "repo": "celestia-app",
+        "author": "rootulp",
+        "authorCategory": "coworker",
+        "reviewer": "ninabarbakadze",
+        "requestedAt": "2026-08-18T20:21:11Z"
       }
     ],
     "rach-id": [
@@ -76,6 +86,16 @@
         "authorCategory": "coworker",
         "reviewer": "rach-id",
         "requestedAt": "2026-08-18T18:27:24Z"
+      },
+      {
+        "number": 7705,
+        "title": "fix: require canonical encoding for blob txs",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/7705",
+        "repo": "celestia-app",
+        "author": "rootulp",
+        "authorCategory": "coworker",
+        "reviewer": "rach-id",
+        "requestedAt": "2026-08-18T20:21:11Z"
       }
     ],
     "renaynay": [
@@ -225,5 +245,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-08-18T20:13:29.085Z"
+  "fetchedAt": "2026-08-18T20:27:00.166Z"
 }
