@@ -45,6 +45,16 @@
         "authorCategory": "coworker",
         "reviewer": "ninabarbakadze",
         "requestedAt": "2026-08-18T14:32:04Z"
+      },
+      {
+        "number": 3243,
+        "title": "fix(blocksync): bound signatures reached through evidence",
+        "url": "https://github.com/celestiaorg/celestia-core/pull/3243",
+        "repo": "celestia-core",
+        "author": "rootulp",
+        "authorCategory": "coworker",
+        "reviewer": "ninabarbakadze",
+        "requestedAt": "2026-08-18T18:27:24Z"
       }
     ],
     "rach-id": [
@@ -67,6 +77,16 @@
         "authorCategory": "coworker",
         "reviewer": "rach-id",
         "requestedAt": "2026-08-18T14:32:04Z"
+      },
+      {
+        "number": 3243,
+        "title": "fix(blocksync): bound signatures reached through evidence",
+        "url": "https://github.com/celestiaorg/celestia-core/pull/3243",
+        "repo": "celestia-core",
+        "author": "rootulp",
+        "authorCategory": "coworker",
+        "reviewer": "rach-id",
+        "requestedAt": "2026-08-18T18:27:24Z"
       }
     ],
     "renaynay": [
@@ -216,5 +236,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-08-18T18:14:28.563Z"
+  "fetchedAt": "2026-08-18T18:29:52.606Z"
 }
