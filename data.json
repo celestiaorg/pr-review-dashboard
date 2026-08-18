@@ -119,18 +119,7 @@
         "requestedAt": "2026-08-06T17:45:43Z"
       }
     ],
-    "rach-id": [
-      {
-        "number": 277,
-        "title": "feat!: require callers to classify transactions",
-        "url": "https://github.com/celestiaorg/go-square/pull/277",
-        "repo": "go-square",
-        "author": "rootulp",
-        "authorCategory": "coworker",
-        "reviewer": "rach-id",
-        "requestedAt": "2026-08-13T21:02:39Z"
-      }
-    ],
+    "rach-id": [],
     "renaynay": [
       {
         "number": 281,
@@ -298,5 +287,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-08-18T07:27:31.747Z"
+  "fetchedAt": "2026-08-18T07:46:29.658Z"
 }
