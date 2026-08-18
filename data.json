@@ -119,7 +119,18 @@
         "requestedAt": "2026-08-06T17:45:43Z"
       }
     ],
-    "rach-id": [],
+    "rach-id": [
+      {
+        "number": 7701,
+        "title": "chore(fibre): reduce MaxConcurrentStreams to 13",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/7701",
+        "repo": "celestia-app",
+        "author": "vgonkivs",
+        "authorCategory": "coworker",
+        "reviewer": "rach-id",
+        "requestedAt": "2026-08-18T09:02:56Z"
+      }
+    ],
     "renaynay": [
       {
         "number": 281,
@@ -287,5 +298,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-08-18T08:50:22.197Z"
+  "fetchedAt": "2026-08-18T09:05:26.121Z"
 }
