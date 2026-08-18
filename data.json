@@ -1,6 +1,17 @@
 {
   "reviews": {
-    "chatton": [],
+    "chatton": [
+      {
+        "number": 7704,
+        "title": "chore: bump hyperlane-cosmos to v1.3.0",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/7704",
+        "repo": "celestia-app",
+        "author": "ninabarbakadze",
+        "authorCategory": "coworker",
+        "reviewer": "chatton",
+        "requestedAt": "2026-08-18T14:43:48Z"
+      }
+    ],
     "pippokr": [],
     "tty47": [],
     "mcrakhman": [
@@ -37,16 +48,6 @@
         "requestedAt": "2026-08-18T10:41:39Z"
       },
       {
-        "number": 406,
-        "title": "fix(p2p/server): reject range requests below the store tail",
-        "url": "https://github.com/celestiaorg/go-header/pull/406",
-        "repo": "go-header",
-        "author": "renaynay",
-        "authorCategory": "coworker",
-        "reviewer": "ninabarbakadze",
-        "requestedAt": "2026-08-18T11:43:55Z"
-      },
-      {
         "number": 7699,
         "title": "chore: instruct dependabot to ignore cosmos-sdk dependencies",
         "url": "https://github.com/celestiaorg/celestia-app/pull/7699",
@@ -65,16 +66,6 @@
         "authorCategory": "coworker",
         "reviewer": "ninabarbakadze",
         "requestedAt": "2026-08-18T14:32:04Z"
-      },
-      {
-        "number": 7698,
-        "title": "chore(deps): bump the go-deps group with 22 updates",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7698",
-        "repo": "celestia-app",
-        "author": "dependabot",
-        "authorCategory": "bot",
-        "reviewer": "ninabarbakadze",
-        "requestedAt": "2026-08-17T23:17:12Z"
       },
       {
         "number": 7643,
@@ -246,5 +237,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-08-18T14:33:27.879Z"
+  "fetchedAt": "2026-08-18T14:50:42.784Z"
 }
