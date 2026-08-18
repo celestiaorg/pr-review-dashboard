@@ -129,26 +129,6 @@
         "authorCategory": "coworker",
         "reviewer": "rach-id",
         "requestedAt": "2026-08-13T21:02:39Z"
-      },
-      {
-        "number": 282,
-        "title": "fix: return error from AppendFibreTx on nil fibre tx or system blob",
-        "url": "https://github.com/celestiaorg/go-square/pull/282",
-        "repo": "go-square",
-        "author": "rootulp",
-        "authorCategory": "coworker",
-        "reviewer": "rach-id",
-        "requestedAt": "2026-08-17T23:36:21Z"
-      },
-      {
-        "number": 451,
-        "title": "chore: Bump github/codeql-action from 4.37.6 to 4.37.7",
-        "url": "https://github.com/celestiaorg/blobstream-contracts/pull/451",
-        "repo": "blobstream-contracts",
-        "author": "dependabot",
-        "authorCategory": "bot",
-        "reviewer": "rach-id",
-        "requestedAt": "2026-08-17T23:53:36Z"
       }
     ],
     "renaynay": [
@@ -318,5 +298,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-08-18T05:48:18.543Z"
+  "fetchedAt": "2026-08-18T05:59:10.881Z"
 }
