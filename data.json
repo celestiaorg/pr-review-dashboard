@@ -111,6 +111,16 @@
         "requestedAt": "2026-08-18T09:50:36Z"
       },
       {
+        "number": 405,
+        "title": "fix(p2p/server): fix partialRange response",
+        "url": "https://github.com/celestiaorg/go-header/pull/405",
+        "repo": "go-header",
+        "author": "vgonkivs",
+        "authorCategory": "coworker",
+        "reviewer": "renaynay",
+        "requestedAt": "2026-08-18T12:17:58Z"
+      },
+      {
         "number": 5132,
         "title": "node: Add JWT auth token revocation",
         "url": "https://github.com/celestiaorg/celestia-node/pull/5132",
@@ -256,5 +266,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-08-18T12:10:09.021Z"
+  "fetchedAt": "2026-08-18T12:24:14.736Z"
 }
