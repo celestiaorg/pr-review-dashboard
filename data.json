@@ -78,18 +78,7 @@
         "requestedAt": "2026-08-06T17:45:43Z"
       }
     ],
-    "rach-id": [
-      {
-        "number": 3240,
-        "title": "feat!(rpc): harden rpc endpoints",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3240",
-        "repo": "celestia-core",
-        "author": "vgonkivs",
-        "authorCategory": "coworker",
-        "reviewer": "rach-id",
-        "requestedAt": "2026-08-18T10:41:39Z"
-      }
-    ],
+    "rach-id": [],
     "renaynay": [
       {
         "number": 281,
@@ -133,16 +122,6 @@
         "authorCategory": "coworker",
         "reviewer": "vgonkivs",
         "requestedAt": "2026-08-13T11:27:48Z"
-      },
-      {
-        "number": 7702,
-        "title": "chore: fine tune fibre gas consts",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7702",
-        "repo": "celestia-app",
-        "author": "ninabarbakadze",
-        "authorCategory": "coworker",
-        "reviewer": "vgonkivs",
-        "requestedAt": "2026-08-18T11:12:17Z"
       },
       {
         "number": 5165,
@@ -267,5 +246,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-08-18T11:19:40.418Z"
+  "fetchedAt": "2026-08-18T11:34:06.665Z"
 }
