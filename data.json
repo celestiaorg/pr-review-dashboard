@@ -58,6 +58,16 @@
         "requestedAt": "2026-08-18T10:41:39Z"
       },
       {
+        "number": 406,
+        "title": "fix(p2p/server): reject range requests below the store tail",
+        "url": "https://github.com/celestiaorg/go-header/pull/406",
+        "repo": "go-header",
+        "author": "renaynay",
+        "authorCategory": "coworker",
+        "reviewer": "ninabarbakadze",
+        "requestedAt": "2026-08-18T11:43:55Z"
+      },
+      {
         "number": 7698,
         "title": "chore(deps): bump the go-deps group with 22 updates",
         "url": "https://github.com/celestiaorg/celestia-app/pull/7698",
@@ -246,5 +256,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-08-18T11:34:06.665Z"
+  "fetchedAt": "2026-08-18T11:45:51.983Z"
 }
