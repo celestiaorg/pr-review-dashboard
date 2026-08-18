@@ -131,16 +131,6 @@
         "requestedAt": "2026-08-13T21:02:39Z"
       },
       {
-        "number": 283,
-        "title": "fix: validate tx ordering in TxShareRange and BlobShareRange",
-        "url": "https://github.com/celestiaorg/go-square/pull/283",
-        "repo": "go-square",
-        "author": "rootulp",
-        "authorCategory": "coworker",
-        "reviewer": "rach-id",
-        "requestedAt": "2026-08-17T23:30:02Z"
-      },
-      {
         "number": 282,
         "title": "fix: return error from AppendFibreTx on nil fibre tx or system blob",
         "url": "https://github.com/celestiaorg/go-square/pull/282",
@@ -328,5 +318,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-08-18T05:34:13.828Z"
+  "fetchedAt": "2026-08-18T05:48:18.543Z"
 }
