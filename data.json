@@ -80,16 +80,6 @@
     ],
     "renaynay": [
       {
-        "number": 5177,
-        "title": "perf(shrex/client): reduce memory usage by removing the buffer",
-        "url": "https://github.com/celestiaorg/celestia-node/pull/5177",
-        "repo": "celestia-node",
-        "author": "vgonkivs",
-        "authorCategory": "coworker",
-        "reviewer": "renaynay",
-        "requestedAt": "2026-08-18T18:32:19Z"
-      },
-      {
         "number": 5132,
         "title": "node: Add JWT auth token revocation",
         "url": "https://github.com/celestiaorg/celestia-node/pull/5132",
@@ -235,5 +225,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-08-18T18:50:04.996Z"
+  "fetchedAt": "2026-08-18T19:07:02.953Z"
 }
