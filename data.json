@@ -1,7 +1,18 @@
 {
   "reviews": {
     "chatton": [],
-    "pippokr": [],
+    "pippokr": [
+      {
+        "number": 426,
+        "title": "fix: verify encoding of rebuilt vectors on the self-decode repair path",
+        "url": "https://github.com/celestiaorg/rsmt2d/pull/426",
+        "repo": "rsmt2d",
+        "author": "rootulp",
+        "authorCategory": "coworker",
+        "reviewer": "pippokr",
+        "requestedAt": "2026-08-18T20:36:49Z"
+      }
+    ],
     "tty47": [],
     "mcrakhman": [],
     "ninabarbakadze": [
@@ -245,5 +256,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-08-18T20:27:00.166Z"
+  "fetchedAt": "2026-08-18T20:40:14.054Z"
 }
