@@ -13,7 +13,18 @@
       }
     ],
     "pippokr": [],
-    "tty47": [],
+    "tty47": [
+      {
+        "number": 3243,
+        "title": "fix(blocksync): bound signatures reached through evidence",
+        "url": "https://github.com/celestiaorg/celestia-core/pull/3243",
+        "repo": "celestia-core",
+        "author": "rootulp",
+        "authorCategory": "coworker",
+        "reviewer": "tty47",
+        "requestedAt": "2026-08-18T15:11:12Z"
+      }
+    ],
     "mcrakhman": [
       {
         "number": 5139,
@@ -247,5 +258,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-08-18T15:04:28.668Z"
+  "fetchedAt": "2026-08-18T15:16:49.325Z"
 }
