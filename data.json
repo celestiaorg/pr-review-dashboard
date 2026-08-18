@@ -32,18 +32,7 @@
         "requestedAt": "2026-08-17T21:04:01Z"
       }
     ],
-    "pippokr": [
-      {
-        "number": 7696,
-        "title": "chore(deps): bump github.com/stretchr/testify from 1.11.1 to 1.12.0 in /test/docker-e2e in the go-deps-docker-e2e group",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7696",
-        "repo": "celestia-app",
-        "author": "dependabot",
-        "authorCategory": "bot",
-        "reviewer": "pippokr",
-        "requestedAt": "2026-08-17T09:35:36Z"
-      }
-    ],
+    "pippokr": [],
     "tty47": [
       {
         "number": 7699,
@@ -64,16 +53,6 @@
         "authorCategory": "bot",
         "reviewer": "tty47",
         "requestedAt": "2026-08-17T09:32:55Z"
-      },
-      {
-        "number": 7697,
-        "title": "chore(deps): bump the github-actions group with 2 updates",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7697",
-        "repo": "celestia-app",
-        "author": "dependabot",
-        "authorCategory": "bot",
-        "reviewer": "tty47",
-        "requestedAt": "2026-08-17T09:39:21Z"
       }
     ],
     "mcrakhman": [
@@ -99,6 +78,16 @@
       }
     ],
     "ninabarbakadze": [
+      {
+        "number": 277,
+        "title": "feat!: require callers to classify transactions",
+        "url": "https://github.com/celestiaorg/go-square/pull/277",
+        "repo": "go-square",
+        "author": "rootulp",
+        "authorCategory": "coworker",
+        "reviewer": "ninabarbakadze",
+        "requestedAt": "2026-08-13T21:02:39Z"
+      },
       {
         "number": 3237,
         "title": "build(deps): Bump github.com/aws/aws-sdk-go-v2/service/s3 from 1.107.0 to 1.107.1",
@@ -131,6 +120,16 @@
       }
     ],
     "rach-id": [
+      {
+        "number": 277,
+        "title": "feat!: require callers to classify transactions",
+        "url": "https://github.com/celestiaorg/go-square/pull/277",
+        "repo": "go-square",
+        "author": "rootulp",
+        "authorCategory": "coworker",
+        "reviewer": "rach-id",
+        "requestedAt": "2026-08-13T21:02:39Z"
+      },
       {
         "number": 283,
         "title": "fix: validate tx ordering in TxShareRange and BlobShareRange",
@@ -329,5 +328,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-08-18T03:44:34.674Z"
+  "fetchedAt": "2026-08-18T04:02:24.201Z"
 }
