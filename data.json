@@ -77,16 +77,6 @@
         "authorCategory": "coworker",
         "reviewer": "ninabarbakadze",
         "requestedAt": "2026-08-18T14:32:04Z"
-      },
-      {
-        "number": 7643,
-        "title": "fix(forwarding)!: include custom_hook_id in the canonical derivation path of forwarding address #7640",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7643",
-        "repo": "celestia-app",
-        "author": "jonas089",
-        "authorCategory": "external",
-        "reviewer": "ninabarbakadze",
-        "requestedAt": "2026-08-06T17:45:43Z"
       }
     ],
     "rach-id": [
@@ -258,5 +248,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-08-18T15:32:12.226Z"
+  "fetchedAt": "2026-08-18T15:47:09.314Z"
 }
