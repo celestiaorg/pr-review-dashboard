@@ -57,14 +57,14 @@
         "requestedAt": "2026-08-18T13:26:57Z"
       },
       {
-        "number": 281,
-        "title": "chore: preallocate slices flagged by prealloc",
-        "url": "https://github.com/celestiaorg/go-square/pull/281",
-        "repo": "go-square",
+        "number": 7700,
+        "title": "feat!: classify transactions in the app and pass them to go-square",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/7700",
+        "repo": "celestia-app",
         "author": "rootulp",
         "authorCategory": "coworker",
         "reviewer": "ninabarbakadze",
-        "requestedAt": "2026-08-18T13:33:52Z"
+        "requestedAt": "2026-08-18T14:32:04Z"
       },
       {
         "number": 7698,
@@ -89,27 +89,17 @@
     ],
     "rach-id": [
       {
-        "number": 281,
-        "title": "chore: preallocate slices flagged by prealloc",
-        "url": "https://github.com/celestiaorg/go-square/pull/281",
-        "repo": "go-square",
+        "number": 7700,
+        "title": "feat!: classify transactions in the app and pass them to go-square",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/7700",
+        "repo": "celestia-app",
         "author": "rootulp",
         "authorCategory": "coworker",
         "reviewer": "rach-id",
-        "requestedAt": "2026-08-18T14:14:16Z"
+        "requestedAt": "2026-08-18T14:32:04Z"
       }
     ],
     "renaynay": [
-      {
-        "number": 281,
-        "title": "chore: preallocate slices flagged by prealloc",
-        "url": "https://github.com/celestiaorg/go-square/pull/281",
-        "repo": "go-square",
-        "author": "rootulp",
-        "authorCategory": "coworker",
-        "reviewer": "renaynay",
-        "requestedAt": "2026-08-17T23:27:11Z"
-      },
       {
         "number": 5132,
         "title": "node: Add JWT auth token revocation",
@@ -256,5 +246,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-08-18T14:17:30.535Z"
+  "fetchedAt": "2026-08-18T14:33:27.879Z"
 }
