@@ -1,17 +1,6 @@
 {
   "reviews": {
-    "chatton": [
-      {
-        "number": 334,
-        "title": "chore(deps): bump github.com/stretchr/testify from 1.11.1 to 1.12.0",
-        "url": "https://github.com/celestiaorg/nmt/pull/334",
-        "repo": "nmt",
-        "author": "dependabot",
-        "authorCategory": "bot",
-        "reviewer": "chatton",
-        "requestedAt": "2026-08-17T21:04:01Z"
-      }
-    ],
+    "chatton": [],
     "pippokr": [],
     "tty47": [
       {
@@ -23,16 +12,6 @@
         "authorCategory": "coworker",
         "reviewer": "tty47",
         "requestedAt": "2026-08-17T23:02:10Z"
-      },
-      {
-        "number": 3232,
-        "title": "build(deps): Bump golang.org/x/net from 0.57.0 to 0.58.0",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3232",
-        "repo": "celestia-core",
-        "author": "dependabot",
-        "authorCategory": "bot",
-        "reviewer": "tty47",
-        "requestedAt": "2026-08-17T09:32:55Z"
       }
     ],
     "mcrakhman": [
@@ -67,16 +46,6 @@
         "authorCategory": "coworker",
         "reviewer": "ninabarbakadze",
         "requestedAt": "2026-08-13T21:02:39Z"
-      },
-      {
-        "number": 3237,
-        "title": "build(deps): Bump github.com/aws/aws-sdk-go-v2/service/s3 from 1.107.0 to 1.107.2",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3237",
-        "repo": "celestia-core",
-        "author": "dependabot",
-        "authorCategory": "bot",
-        "reviewer": "ninabarbakadze",
-        "requestedAt": "2026-08-17T09:37:29Z"
       },
       {
         "number": 7698,
@@ -133,14 +102,14 @@
         "requestedAt": "2026-08-18T09:17:38Z"
       },
       {
-        "number": 3233,
-        "title": "build(deps): Bump github.com/grafana/pyroscope-go from 1.4.1 to 1.4.2",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3233",
-        "repo": "celestia-core",
-        "author": "dependabot",
-        "authorCategory": "bot",
+        "number": 5177,
+        "title": "perf(shrex/client): reduce memory usage by removing the buffer",
+        "url": "https://github.com/celestiaorg/celestia-node/pull/5177",
+        "repo": "celestia-node",
+        "author": "vgonkivs",
+        "authorCategory": "coworker",
         "reviewer": "renaynay",
-        "requestedAt": "2026-08-17T09:33:03Z"
+        "requestedAt": "2026-08-18T09:50:36Z"
       },
       {
         "number": 5132,
@@ -288,5 +257,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-08-18T09:49:46.551Z"
+  "fetchedAt": "2026-08-18T10:01:37.599Z"
 }
