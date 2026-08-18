@@ -99,7 +99,18 @@
         "requestedAt": "2026-08-06T17:45:43Z"
       }
     ],
-    "rach-id": [],
+    "rach-id": [
+      {
+        "number": 7703,
+        "title": "feat(fibre): add validator-local promise cache to close double-spend window",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/7703",
+        "repo": "celestia-app",
+        "author": "vgonkivs",
+        "authorCategory": "coworker",
+        "reviewer": "rach-id",
+        "requestedAt": "2026-08-18T12:59:20Z"
+      }
+    ],
     "renaynay": [
       {
         "number": 281,
@@ -267,5 +278,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-08-18T12:43:40.025Z"
+  "fetchedAt": "2026-08-18T13:05:56.485Z"
 }
