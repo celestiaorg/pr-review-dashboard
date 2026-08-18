@@ -5,16 +5,6 @@
     "tty47": [],
     "mcrakhman": [
       {
-        "number": 5139,
-        "title": " fix(share/shrex): fail fast(er) on unreachable peers",
-        "url": "https://github.com/celestiaorg/celestia-node/pull/5139",
-        "repo": "celestia-node",
-        "author": "renaynay",
-        "authorCategory": "coworker",
-        "reviewer": "mcrakhman",
-        "requestedAt": "2026-08-13T11:19:38Z"
-      },
-      {
         "number": 5156,
         "title": "perf(das): reduce sampling range to reduce HOL blocking",
         "url": "https://github.com/celestiaorg/celestia-node/pull/5156",
@@ -226,5 +216,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-08-18T16:57:34.775Z"
+  "fetchedAt": "2026-08-18T17:10:17.299Z"
 }
