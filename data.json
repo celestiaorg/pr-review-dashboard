@@ -48,6 +48,16 @@
         "requestedAt": "2026-08-13T21:02:39Z"
       },
       {
+        "number": 3240,
+        "title": "feat!(rpc): harden rpc endpoints",
+        "url": "https://github.com/celestiaorg/celestia-core/pull/3240",
+        "repo": "celestia-core",
+        "author": "vgonkivs",
+        "authorCategory": "coworker",
+        "reviewer": "ninabarbakadze",
+        "requestedAt": "2026-08-18T10:41:39Z"
+      },
+      {
         "number": 7698,
         "title": "chore(deps): bump the go-deps group with 22 updates",
         "url": "https://github.com/celestiaorg/celestia-app/pull/7698",
@@ -68,7 +78,18 @@
         "requestedAt": "2026-08-06T17:45:43Z"
       }
     ],
-    "rach-id": [],
+    "rach-id": [
+      {
+        "number": 3240,
+        "title": "feat!(rpc): harden rpc endpoints",
+        "url": "https://github.com/celestiaorg/celestia-core/pull/3240",
+        "repo": "celestia-core",
+        "author": "vgonkivs",
+        "authorCategory": "coworker",
+        "reviewer": "rach-id",
+        "requestedAt": "2026-08-18T10:41:39Z"
+      }
+    ],
     "renaynay": [
       {
         "number": 281,
@@ -246,5 +267,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-08-18T10:27:02.719Z"
+  "fetchedAt": "2026-08-18T10:43:01.196Z"
 }
