@@ -96,6 +96,16 @@
         "authorCategory": "coworker",
         "reviewer": "rach-id",
         "requestedAt": "2026-08-18T20:21:11Z"
+      },
+      {
+        "number": 7706,
+        "title": "fix!: bound MaxAgeNumBlocks to the unbonding period",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/7706",
+        "repo": "celestia-app",
+        "author": "rootulp",
+        "authorCategory": "coworker",
+        "reviewer": "rach-id",
+        "requestedAt": "2026-08-19T03:56:23Z"
       }
     ],
     "renaynay": [
@@ -265,5 +275,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-08-19T03:48:38.291Z"
+  "fetchedAt": "2026-08-19T04:06:00.416Z"
 }
