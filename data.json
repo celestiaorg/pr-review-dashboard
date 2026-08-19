@@ -17,16 +17,6 @@
         "requestedAt": "2026-08-18T12:59:20Z"
       },
       {
-        "number": 7700,
-        "title": "feat!: classify transactions in the app and pass them to go-square",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7700",
-        "repo": "celestia-app",
-        "author": "rootulp",
-        "authorCategory": "coworker",
-        "reviewer": "rach-id",
-        "requestedAt": "2026-08-18T14:32:04Z"
-      },
-      {
         "number": 284,
         "title": "refactor: reject unknown fields and nested blobs",
         "url": "https://github.com/celestiaorg/go-square/pull/284",
@@ -225,5 +215,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-08-19T12:42:29.735Z"
+  "fetchedAt": "2026-08-19T13:05:38.133Z"
 }
