@@ -84,26 +84,6 @@
         "requestedAt": "2026-08-13T11:27:48Z"
       },
       {
-        "number": 426,
-        "title": "fix: verify encoding of rebuilt vectors on the self-decode repair path",
-        "url": "https://github.com/celestiaorg/rsmt2d/pull/426",
-        "repo": "rsmt2d",
-        "author": "rootulp",
-        "authorCategory": "coworker",
-        "reviewer": "vgonkivs",
-        "requestedAt": "2026-08-18T20:42:27Z"
-      },
-      {
-        "number": 5178,
-        "title": "chore: remove dead BEFP scaffolding",
-        "url": "https://github.com/celestiaorg/celestia-node/pull/5178",
-        "repo": "celestia-node",
-        "author": "rootulp",
-        "authorCategory": "coworker",
-        "reviewer": "vgonkivs",
-        "requestedAt": "2026-08-18T20:47:48Z"
-      },
-      {
         "number": 5165,
         "title": "core: Recover interrupted listener publications",
         "url": "https://github.com/celestiaorg/celestia-node/pull/5165",
@@ -226,5 +206,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-08-19T15:48:20.778Z"
+  "fetchedAt": "2026-08-19T16:00:22.166Z"
 }
