@@ -68,14 +68,14 @@
         "requestedAt": "2026-08-18T20:21:11Z"
       },
       {
-        "number": 7706,
-        "title": "fix!: bound MaxAgeNumBlocks to the unbonding period",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7706",
-        "repo": "celestia-app",
-        "author": "rootulp",
+        "number": 284,
+        "title": "refactor: reject unknown fields and nested blobs",
+        "url": "https://github.com/celestiaorg/go-square/pull/284",
+        "repo": "go-square",
+        "author": "ninabarbakadze",
         "authorCategory": "coworker",
         "reviewer": "rach-id",
-        "requestedAt": "2026-08-19T03:56:23Z"
+        "requestedAt": "2026-08-19T11:11:12Z"
       }
     ],
     "renaynay": [
@@ -90,7 +90,18 @@
         "requestedAt": "2026-08-17T11:12:58Z"
       }
     ],
-    "rootulp": [],
+    "rootulp": [
+      {
+        "number": 284,
+        "title": "refactor: reject unknown fields and nested blobs",
+        "url": "https://github.com/celestiaorg/go-square/pull/284",
+        "repo": "go-square",
+        "author": "ninabarbakadze",
+        "authorCategory": "coworker",
+        "reviewer": "rootulp",
+        "requestedAt": "2026-08-19T11:11:12Z"
+      }
+    ],
     "vgonkivs": [
       {
         "number": 5153,
@@ -255,5 +266,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-08-19T11:08:12.930Z"
+  "fetchedAt": "2026-08-19T11:20:23.550Z"
 }
