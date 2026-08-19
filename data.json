@@ -35,6 +35,26 @@
         "authorCategory": "coworker",
         "reviewer": "ninabarbakadze",
         "requestedAt": "2026-08-19T17:40:10Z"
+      },
+      {
+        "number": 7713,
+        "title": "docs: instruct Claude to write short godoc comments",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/7713",
+        "repo": "celestia-app",
+        "author": "rootulp",
+        "authorCategory": "coworker",
+        "reviewer": "ninabarbakadze",
+        "requestedAt": "2026-08-19T21:05:09Z"
+      },
+      {
+        "number": 748,
+        "title": "docs: instruct Claude to write short godoc comments",
+        "url": "https://github.com/celestiaorg/cosmos-sdk/pull/748",
+        "repo": "cosmos-sdk",
+        "author": "rootulp",
+        "authorCategory": "coworker",
+        "reviewer": "ninabarbakadze",
+        "requestedAt": "2026-08-19T21:06:56Z"
       }
     ],
     "rach-id": [],
@@ -206,5 +226,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-08-19T20:58:21.728Z"
+  "fetchedAt": "2026-08-19T21:10:09.718Z"
 }
