@@ -26,16 +26,6 @@
         "authorCategory": "coworker",
         "reviewer": "rach-id",
         "requestedAt": "2026-08-19T11:11:12Z"
-      },
-      {
-        "number": 3240,
-        "title": "feat!(rpc): harden rpc endpoints",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3240",
-        "repo": "celestia-core",
-        "author": "vgonkivs",
-        "authorCategory": "coworker",
-        "reviewer": "rach-id",
-        "requestedAt": "2026-08-19T13:09:28Z"
       }
     ],
     "renaynay": [
@@ -206,5 +196,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-08-19T16:00:22.166Z"
+  "fetchedAt": "2026-08-19T16:12:48.217Z"
 }
