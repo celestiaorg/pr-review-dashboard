@@ -18,16 +18,6 @@
     ],
     "rach-id": [
       {
-        "number": 7703,
-        "title": "feat(fibre): add validator-local promise cache to close double-spend window",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7703",
-        "repo": "celestia-app",
-        "author": "vgonkivs",
-        "authorCategory": "coworker",
-        "reviewer": "rach-id",
-        "requestedAt": "2026-08-18T12:59:20Z"
-      },
-      {
         "number": 284,
         "title": "refactor: reject unknown fields and nested blobs",
         "url": "https://github.com/celestiaorg/go-square/pull/284",
@@ -236,5 +226,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-08-19T14:52:28.522Z"
+  "fetchedAt": "2026-08-19T15:05:31.083Z"
 }
