@@ -16,18 +16,7 @@
         "requestedAt": "2026-08-19T13:09:31Z"
       }
     ],
-    "rach-id": [
-      {
-        "number": 284,
-        "title": "refactor: reject unknown fields and nested blobs",
-        "url": "https://github.com/celestiaorg/go-square/pull/284",
-        "repo": "go-square",
-        "author": "ninabarbakadze",
-        "authorCategory": "coworker",
-        "reviewer": "rach-id",
-        "requestedAt": "2026-08-19T11:11:12Z"
-      }
-    ],
+    "rach-id": [],
     "renaynay": [
       {
         "number": 5177,
@@ -196,5 +185,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-08-19T16:26:56.357Z"
+  "fetchedAt": "2026-08-19T16:42:57.479Z"
 }
