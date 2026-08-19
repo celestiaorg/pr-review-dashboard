@@ -114,16 +114,6 @@
         "requestedAt": "2026-08-18T20:47:48Z"
       },
       {
-        "number": 7708,
-        "title": "chore(deps): bump the go-deps group with 6 updates",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7708",
-        "repo": "celestia-app",
-        "author": "dependabot",
-        "authorCategory": "bot",
-        "reviewer": "vgonkivs",
-        "requestedAt": "2026-08-19T10:56:32Z"
-      },
-      {
         "number": 5165,
         "title": "core: Recover interrupted listener publications",
         "url": "https://github.com/celestiaorg/celestia-node/pull/5165",
@@ -246,5 +236,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-08-19T14:18:37.742Z"
+  "fetchedAt": "2026-08-19T14:35:03.679Z"
 }
