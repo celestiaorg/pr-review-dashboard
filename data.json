@@ -55,6 +55,16 @@
         "authorCategory": "coworker",
         "reviewer": "ninabarbakadze",
         "requestedAt": "2026-08-19T21:12:53Z"
+      },
+      {
+        "number": 7705,
+        "title": "fix!: require canonical encoding for blob txs",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/7705",
+        "repo": "celestia-app",
+        "author": "rootulp",
+        "authorCategory": "coworker",
+        "reviewer": "ninabarbakadze",
+        "requestedAt": "2026-08-19T23:50:14Z"
       }
     ],
     "rach-id": [
@@ -67,6 +77,16 @@
         "authorCategory": "coworker",
         "reviewer": "rach-id",
         "requestedAt": "2026-08-19T21:12:53Z"
+      },
+      {
+        "number": 7705,
+        "title": "fix!: require canonical encoding for blob txs",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/7705",
+        "repo": "celestia-app",
+        "author": "rootulp",
+        "authorCategory": "coworker",
+        "reviewer": "rach-id",
+        "requestedAt": "2026-08-19T23:50:13Z"
       }
     ],
     "renaynay": [
@@ -91,18 +111,7 @@
         "requestedAt": "2026-08-17T11:12:58Z"
       }
     ],
-    "rootulp": [
-      {
-        "number": 284,
-        "title": "refactor: reject unknown fields and nested blobs",
-        "url": "https://github.com/celestiaorg/go-square/pull/284",
-        "repo": "go-square",
-        "author": "ninabarbakadze",
-        "authorCategory": "coworker",
-        "reviewer": "rootulp",
-        "requestedAt": "2026-08-19T11:11:12Z"
-      }
-    ],
+    "rootulp": [],
     "vgonkivs": [
       {
         "number": 5153,
@@ -237,5 +246,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-08-19T23:43:39.792Z"
+  "fetchedAt": "2026-08-19T23:53:55.237Z"
 }
