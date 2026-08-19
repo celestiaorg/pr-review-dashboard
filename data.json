@@ -2,7 +2,18 @@
   "reviews": {
     "chatton": [],
     "pippokr": [],
-    "tty47": [],
+    "tty47": [
+      {
+        "number": 7711,
+        "title": "feat: support TLS and auth token for corto gRPC in nightly",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/7711",
+        "repo": "celestia-app",
+        "author": "rach-id",
+        "authorCategory": "coworker",
+        "reviewer": "tty47",
+        "requestedAt": "2026-08-19T18:15:05Z"
+      }
+    ],
     "mcrakhman": [],
     "ninabarbakadze": [
       {
@@ -59,6 +70,16 @@
         "authorCategory": "coworker",
         "reviewer": "rootulp",
         "requestedAt": "2026-08-19T11:11:12Z"
+      },
+      {
+        "number": 7711,
+        "title": "feat: support TLS and auth token for corto gRPC in nightly",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/7711",
+        "repo": "celestia-app",
+        "author": "rach-id",
+        "authorCategory": "coworker",
+        "reviewer": "rootulp",
+        "requestedAt": "2026-08-19T18:16:36Z"
       }
     ],
     "vgonkivs": [
@@ -195,5 +216,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-08-19T18:08:40.998Z"
+  "fetchedAt": "2026-08-19T18:21:33.706Z"
 }
