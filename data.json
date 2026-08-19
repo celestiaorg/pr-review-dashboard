@@ -55,9 +55,30 @@
         "authorCategory": "coworker",
         "reviewer": "ninabarbakadze",
         "requestedAt": "2026-08-19T21:06:56Z"
+      },
+      {
+        "number": 7712,
+        "title": "fix: skip signerDataFromTx when CheckTx fails",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/7712",
+        "repo": "celestia-app",
+        "author": "rootulp",
+        "authorCategory": "coworker",
+        "reviewer": "ninabarbakadze",
+        "requestedAt": "2026-08-19T21:12:53Z"
       }
     ],
-    "rach-id": [],
+    "rach-id": [
+      {
+        "number": 7712,
+        "title": "fix: skip signerDataFromTx when CheckTx fails",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/7712",
+        "repo": "celestia-app",
+        "author": "rootulp",
+        "authorCategory": "coworker",
+        "reviewer": "rach-id",
+        "requestedAt": "2026-08-19T21:12:53Z"
+      }
+    ],
     "renaynay": [
       {
         "number": 5177,
@@ -226,5 +247,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-08-19T21:10:09.718Z"
+  "fetchedAt": "2026-08-19T21:22:54.220Z"
 }
