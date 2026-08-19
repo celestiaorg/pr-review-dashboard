@@ -6,16 +6,6 @@
     "mcrakhman": [],
     "ninabarbakadze": [
       {
-        "number": 3240,
-        "title": "feat!(rpc): harden rpc endpoints",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3240",
-        "repo": "celestia-core",
-        "author": "vgonkivs",
-        "authorCategory": "coworker",
-        "reviewer": "ninabarbakadze",
-        "requestedAt": "2026-08-18T10:41:39Z"
-      },
-      {
         "number": 7699,
         "title": "chore: instruct dependabot to ignore cosmos-sdk dependencies",
         "url": "https://github.com/celestiaorg/celestia-app/pull/7699",
@@ -44,16 +34,6 @@
         "authorCategory": "coworker",
         "reviewer": "ninabarbakadze",
         "requestedAt": "2026-08-18T18:27:24Z"
-      },
-      {
-        "number": 7705,
-        "title": "fix: require canonical encoding for blob txs",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7705",
-        "repo": "celestia-app",
-        "author": "rootulp",
-        "authorCategory": "coworker",
-        "reviewer": "ninabarbakadze",
-        "requestedAt": "2026-08-18T20:21:11Z"
       }
     ],
     "rach-id": [
@@ -275,5 +255,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-08-19T10:15:06.748Z"
+  "fetchedAt": "2026-08-19T10:29:39.929Z"
 }
