@@ -6,16 +6,6 @@
     "mcrakhman": [],
     "ninabarbakadze": [
       {
-        "number": 7699,
-        "title": "chore: instruct dependabot to ignore cosmos-sdk dependencies",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7699",
-        "repo": "celestia-app",
-        "author": "rootulp",
-        "authorCategory": "coworker",
-        "reviewer": "ninabarbakadze",
-        "requestedAt": "2026-08-18T13:26:57Z"
-      },
-      {
         "number": 7700,
         "title": "feat!: classify transactions in the app and pass them to go-square",
         "url": "https://github.com/celestiaorg/celestia-app/pull/7700",
@@ -255,5 +245,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-08-19T10:29:39.929Z"
+  "fetchedAt": "2026-08-19T10:44:35.500Z"
 }
