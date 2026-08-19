@@ -70,16 +70,6 @@
         "authorCategory": "coworker",
         "reviewer": "rootulp",
         "requestedAt": "2026-08-19T11:11:12Z"
-      },
-      {
-        "number": 7711,
-        "title": "feat: support TLS and auth token for corto gRPC in nightly",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7711",
-        "repo": "celestia-app",
-        "author": "rach-id",
-        "authorCategory": "coworker",
-        "reviewer": "rootulp",
-        "requestedAt": "2026-08-19T18:16:36Z"
       }
     ],
     "vgonkivs": [
@@ -216,5 +206,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-08-19T18:39:01.082Z"
+  "fetchedAt": "2026-08-19T18:55:54.230Z"
 }
