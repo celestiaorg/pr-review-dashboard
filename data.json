@@ -14,6 +14,16 @@
         "authorCategory": "coworker",
         "reviewer": "ninabarbakadze",
         "requestedAt": "2026-08-19T13:09:31Z"
+      },
+      {
+        "number": 7709,
+        "title": "chore!: replace mocha-4 with mocha-5",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/7709",
+        "repo": "celestia-app",
+        "author": "rach-id",
+        "authorCategory": "coworker",
+        "reviewer": "ninabarbakadze",
+        "requestedAt": "2026-08-19T17:40:10Z"
       }
     ],
     "rach-id": [],
@@ -185,5 +195,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-08-19T17:34:48.471Z"
+  "fetchedAt": "2026-08-19T17:46:15.817Z"
 }
