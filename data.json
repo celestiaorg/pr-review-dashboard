@@ -48,26 +48,6 @@
         "requestedAt": "2026-08-18T14:32:04Z"
       },
       {
-        "number": 3243,
-        "title": "fix(blocksync): bound signatures reached through evidence",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3243",
-        "repo": "celestia-core",
-        "author": "rootulp",
-        "authorCategory": "coworker",
-        "reviewer": "rach-id",
-        "requestedAt": "2026-08-18T18:27:24Z"
-      },
-      {
-        "number": 7705,
-        "title": "fix: require canonical encoding for blob txs",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7705",
-        "repo": "celestia-app",
-        "author": "rootulp",
-        "authorCategory": "coworker",
-        "reviewer": "rach-id",
-        "requestedAt": "2026-08-18T20:21:11Z"
-      },
-      {
         "number": 284,
         "title": "refactor: reject unknown fields and nested blobs",
         "url": "https://github.com/celestiaorg/go-square/pull/284",
@@ -266,5 +246,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-08-19T11:34:19.661Z"
+  "fetchedAt": "2026-08-19T11:45:55.083Z"
 }
