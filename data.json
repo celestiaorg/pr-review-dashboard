@@ -47,16 +47,6 @@
         "requestedAt": "2026-08-19T21:05:09Z"
       },
       {
-        "number": 748,
-        "title": "docs: instruct Claude to write short godoc comments",
-        "url": "https://github.com/celestiaorg/cosmos-sdk/pull/748",
-        "repo": "cosmos-sdk",
-        "author": "rootulp",
-        "authorCategory": "coworker",
-        "reviewer": "ninabarbakadze",
-        "requestedAt": "2026-08-19T21:06:56Z"
-      },
-      {
         "number": 7712,
         "title": "fix: skip signerDataFromTx when CheckTx fails",
         "url": "https://github.com/celestiaorg/celestia-app/pull/7712",
@@ -247,5 +237,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-08-19T21:48:07.635Z"
+  "fetchedAt": "2026-08-19T21:58:20.767Z"
 }
