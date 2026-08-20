@@ -66,9 +66,40 @@
         "authorCategory": "coworker",
         "reviewer": "ninabarbakadze",
         "requestedAt": "2026-08-20T13:37:46Z"
+      },
+      {
+        "number": 7700,
+        "title": "feat!: classify transactions in the app and pass them to go-square",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/7700",
+        "repo": "celestia-app",
+        "author": "rootulp",
+        "authorCategory": "coworker",
+        "reviewer": "ninabarbakadze",
+        "requestedAt": "2026-08-20T23:40:56Z"
       }
     ],
-    "rach-id": [],
+    "rach-id": [
+      {
+        "number": 7718,
+        "title": "fix!: bump x/evidence to v0.1.2-celestia",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/7718",
+        "repo": "celestia-app",
+        "author": "rootulp",
+        "authorCategory": "coworker",
+        "reviewer": "rach-id",
+        "requestedAt": "2026-08-20T23:40:13Z"
+      },
+      {
+        "number": 7700,
+        "title": "feat!: classify transactions in the app and pass them to go-square",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/7700",
+        "repo": "celestia-app",
+        "author": "rootulp",
+        "authorCategory": "coworker",
+        "reviewer": "rach-id",
+        "requestedAt": "2026-08-20T23:40:53Z"
+      }
+    ],
     "renaynay": [
       {
         "number": 5177,
@@ -242,6 +273,36 @@
         "authorCategory": "external",
         "reviewer": "vgonkivs",
         "requestedAt": "2026-08-20T14:32:19Z"
+      },
+      {
+        "number": 5184,
+        "title": "das: Wake coordinator at retry deadlines",
+        "url": "https://github.com/celestiaorg/celestia-node/pull/5184",
+        "repo": "celestia-node",
+        "author": "neyy91",
+        "authorCategory": "external",
+        "reviewer": "vgonkivs",
+        "requestedAt": "2026-08-20T23:47:15Z"
+      },
+      {
+        "number": 5185,
+        "title": "p2p: Start listening with the node lifecycle",
+        "url": "https://github.com/celestiaorg/celestia-node/pull/5185",
+        "repo": "celestia-node",
+        "author": "neyy91",
+        "authorCategory": "external",
+        "reviewer": "vgonkivs",
+        "requestedAt": "2026-08-20T23:49:10Z"
+      },
+      {
+        "number": 5186,
+        "title": "shwap/bitswap: Bound idle session retention",
+        "url": "https://github.com/celestiaorg/celestia-node/pull/5186",
+        "repo": "celestia-node",
+        "author": "neyy91",
+        "authorCategory": "external",
+        "reviewer": "vgonkivs",
+        "requestedAt": "2026-08-20T23:50:32Z"
       }
     ]
   },
@@ -296,5 +357,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-08-20T23:39:37.568Z"
+  "fetchedAt": "2026-08-20T23:50:52.419Z"
 }
