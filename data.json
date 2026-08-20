@@ -192,6 +192,16 @@
         "authorCategory": "external",
         "reviewer": "vgonkivs",
         "requestedAt": "2026-08-20T07:41:52Z"
+      },
+      {
+        "number": 5180,
+        "title": "blob: Reuse the header across GetAll namespace retrievals",
+        "url": "https://github.com/celestiaorg/celestia-node/pull/5180",
+        "repo": "celestia-node",
+        "author": "neyy91",
+        "authorCategory": "external",
+        "reviewer": "vgonkivs",
+        "requestedAt": "2026-08-20T08:11:30Z"
       }
     ]
   },
@@ -246,5 +256,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-08-20T07:58:44.351Z"
+  "fetchedAt": "2026-08-20T08:16:36.318Z"
 }
