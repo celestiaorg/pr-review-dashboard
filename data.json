@@ -23,18 +23,7 @@
         "requestedAt": "2026-08-20T10:41:41Z"
       }
     ],
-    "tty47": [
-      {
-        "number": 428,
-        "title": "chore(deps): Bump github.com/stretchr/testify from 1.12.0 to 1.12.1",
-        "url": "https://github.com/celestiaorg/rsmt2d/pull/428",
-        "repo": "rsmt2d",
-        "author": "dependabot",
-        "authorCategory": "bot",
-        "reviewer": "tty47",
-        "requestedAt": "2026-08-20T15:52:36Z"
-      }
-    ],
+    "tty47": [],
     "mcrakhman": [
       {
         "number": 5158,
@@ -112,18 +101,7 @@
         "requestedAt": "2026-08-17T11:12:58Z"
       }
     ],
-    "rootulp": [
-      {
-        "number": 427,
-        "title": "chore(deps): Bump github.com/klauspost/reedsolomon from 1.14.1 to 1.14.2",
-        "url": "https://github.com/celestiaorg/rsmt2d/pull/427",
-        "repo": "rsmt2d",
-        "author": "dependabot",
-        "authorCategory": "bot",
-        "reviewer": "rootulp",
-        "requestedAt": "2026-08-20T15:52:33Z"
-      }
-    ],
+    "rootulp": [],
     "vgonkivs": [
       {
         "number": 5153,
@@ -318,5 +296,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-08-20T23:26:20.532Z"
+  "fetchedAt": "2026-08-20T23:39:37.568Z"
 }
