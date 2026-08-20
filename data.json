@@ -37,16 +37,6 @@
         "requestedAt": "2026-08-19T17:40:10Z"
       },
       {
-        "number": 7712,
-        "title": "fix: skip signerDataFromTx when CheckTx fails",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7712",
-        "repo": "celestia-app",
-        "author": "rootulp",
-        "authorCategory": "coworker",
-        "reviewer": "ninabarbakadze",
-        "requestedAt": "2026-08-19T21:12:53Z"
-      },
-      {
         "number": 7705,
         "title": "fix!: require canonical encoding for blob txs",
         "url": "https://github.com/celestiaorg/celestia-app/pull/7705",
@@ -77,38 +67,7 @@
         "requestedAt": "2026-08-20T00:28:44Z"
       }
     ],
-    "rach-id": [
-      {
-        "number": 7712,
-        "title": "fix: skip signerDataFromTx when CheckTx fails",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7712",
-        "repo": "celestia-app",
-        "author": "rootulp",
-        "authorCategory": "coworker",
-        "reviewer": "rach-id",
-        "requestedAt": "2026-08-19T21:12:53Z"
-      },
-      {
-        "number": 7705,
-        "title": "fix!: require canonical encoding for blob txs",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7705",
-        "repo": "celestia-app",
-        "author": "rootulp",
-        "authorCategory": "coworker",
-        "reviewer": "rach-id",
-        "requestedAt": "2026-08-19T23:50:13Z"
-      },
-      {
-        "number": 749,
-        "title": "fix(x/evidence)!: ignore equivocation evidence for a deleted validator",
-        "url": "https://github.com/celestiaorg/cosmos-sdk/pull/749",
-        "repo": "cosmos-sdk",
-        "author": "rootulp",
-        "authorCategory": "coworker",
-        "reviewer": "rach-id",
-        "requestedAt": "2026-08-19T23:56:03Z"
-      }
-    ],
+    "rach-id": [],
     "renaynay": [
       {
         "number": 5177,
@@ -266,5 +225,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-08-20T06:19:03.141Z"
+  "fetchedAt": "2026-08-20T06:36:43.968Z"
 }
