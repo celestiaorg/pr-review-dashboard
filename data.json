@@ -1,28 +1,7 @@
 {
   "reviews": {
-    "chatton": [
-      {
-        "number": 7716,
-        "title": "feat: script to state sync a node to corto",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7716",
-        "repo": "celestia-app",
-        "author": "rach-id",
-        "authorCategory": "coworker",
-        "reviewer": "chatton",
-        "requestedAt": "2026-08-20T11:57:28Z"
-      }
-    ],
+    "chatton": [],
     "pippokr": [
-      {
-        "number": 7716,
-        "title": "feat: script to state sync a node to corto",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7716",
-        "repo": "celestia-app",
-        "author": "rach-id",
-        "authorCategory": "coworker",
-        "reviewer": "pippokr",
-        "requestedAt": "2026-08-20T12:01:02Z"
-      },
       {
         "number": 335,
         "title": "test: cover nextSubtreeSize",
@@ -34,18 +13,7 @@
         "requestedAt": "2026-08-20T10:41:41Z"
       }
     ],
-    "tty47": [
-      {
-        "number": 7711,
-        "title": "feat: support TLS and auth token for corto gRPC in nightly",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7711",
-        "repo": "celestia-app",
-        "author": "rach-id",
-        "authorCategory": "coworker",
-        "reviewer": "tty47",
-        "requestedAt": "2026-08-19T18:15:05Z"
-      }
-    ],
+    "tty47": [],
     "mcrakhman": [],
     "ninabarbakadze": [
       {
@@ -77,16 +45,6 @@
         "authorCategory": "coworker",
         "reviewer": "ninabarbakadze",
         "requestedAt": "2026-08-19T23:50:14Z"
-      },
-      {
-        "number": 749,
-        "title": "fix(x/evidence)!: ignore equivocation evidence for a deleted validator",
-        "url": "https://github.com/celestiaorg/cosmos-sdk/pull/749",
-        "repo": "cosmos-sdk",
-        "author": "rootulp",
-        "authorCategory": "coworker",
-        "reviewer": "ninabarbakadze",
-        "requestedAt": "2026-08-19T23:56:04Z"
       },
       {
         "number": 750,
@@ -308,5 +266,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-08-20T13:17:08.861Z"
+  "fetchedAt": "2026-08-20T13:35:51.397Z"
 }
