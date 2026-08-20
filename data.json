@@ -55,16 +55,6 @@
         "authorCategory": "coworker",
         "reviewer": "ninabarbakadze",
         "requestedAt": "2026-08-20T00:28:44Z"
-      },
-      {
-        "number": 7718,
-        "title": "fix!: bump x/evidence to v0.1.2-celestia",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7718",
-        "repo": "celestia-app",
-        "author": "rootulp",
-        "authorCategory": "coworker",
-        "reviewer": "ninabarbakadze",
-        "requestedAt": "2026-08-20T13:37:46Z"
       }
     ],
     "rach-id": [],
@@ -90,18 +80,7 @@
         "requestedAt": "2026-08-17T11:12:58Z"
       }
     ],
-    "rootulp": [
-      {
-        "number": 7715,
-        "title": "fix: skip signerDataFromTx when CheckTx fails (backport #7712)",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7715",
-        "repo": "celestia-app",
-        "author": "mergify",
-        "authorCategory": "bot",
-        "reviewer": "rootulp",
-        "requestedAt": "2026-08-20T06:36:59Z"
-      }
-    ],
+    "rootulp": [],
     "vgonkivs": [
       {
         "number": 5153,
@@ -222,6 +201,16 @@
         "authorCategory": "external",
         "reviewer": "vgonkivs",
         "requestedAt": "2026-08-20T10:41:58Z"
+      },
+      {
+        "number": 5183,
+        "title": "das: Reset running state after failed start",
+        "url": "https://github.com/celestiaorg/celestia-node/pull/5183",
+        "repo": "celestia-node",
+        "author": "neyy91",
+        "authorCategory": "external",
+        "reviewer": "vgonkivs",
+        "requestedAt": "2026-08-20T14:32:19Z"
       }
     ]
   },
@@ -276,5 +265,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-08-20T14:28:19.992Z"
+  "fetchedAt": "2026-08-20T14:47:05.088Z"
 }
