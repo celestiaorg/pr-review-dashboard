@@ -212,6 +212,16 @@
         "authorCategory": "external",
         "reviewer": "vgonkivs",
         "requestedAt": "2026-08-20T08:11:30Z"
+      },
+      {
+        "number": 5182,
+        "title": "blob: Cancel subscriptions when service stops",
+        "url": "https://github.com/celestiaorg/celestia-node/pull/5182",
+        "repo": "celestia-node",
+        "author": "neyy91",
+        "authorCategory": "external",
+        "reviewer": "vgonkivs",
+        "requestedAt": "2026-08-20T09:44:43Z"
       }
     ]
   },
@@ -266,5 +276,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-08-20T09:37:57.553Z"
+  "fetchedAt": "2026-08-20T09:53:16.031Z"
 }
