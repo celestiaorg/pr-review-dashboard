@@ -3,6 +3,16 @@
     "chatton": [],
     "pippokr": [
       {
+        "number": 337,
+        "title": "chore(deps): bump github.com/stretchr/testify from 1.12.0 to 1.12.1",
+        "url": "https://github.com/celestiaorg/nmt/pull/337",
+        "repo": "nmt",
+        "author": "dependabot",
+        "authorCategory": "bot",
+        "reviewer": "pippokr",
+        "requestedAt": "2026-08-20T21:02:53Z"
+      },
+      {
         "number": 335,
         "title": "test: cover nextSubtreeSize",
         "url": "https://github.com/celestiaorg/nmt/pull/335",
@@ -308,5 +318,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-08-20T20:55:16.558Z"
+  "fetchedAt": "2026-08-20T21:07:11.012Z"
 }
