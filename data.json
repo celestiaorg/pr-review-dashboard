@@ -37,16 +37,6 @@
         "requestedAt": "2026-08-19T17:40:10Z"
       },
       {
-        "number": 7705,
-        "title": "fix!: require canonical encoding for blob txs",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7705",
-        "repo": "celestia-app",
-        "author": "rootulp",
-        "authorCategory": "coworker",
-        "reviewer": "ninabarbakadze",
-        "requestedAt": "2026-08-19T23:50:14Z"
-      },
-      {
         "number": 750,
         "title": "fix: resolve govulncheck failures",
         "url": "https://github.com/celestiaorg/cosmos-sdk/pull/750",
@@ -55,6 +45,16 @@
         "authorCategory": "coworker",
         "reviewer": "ninabarbakadze",
         "requestedAt": "2026-08-20T00:28:44Z"
+      },
+      {
+        "number": 7718,
+        "title": "fix!: bump x/evidence to v0.1.2-celestia",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/7718",
+        "repo": "celestia-app",
+        "author": "rootulp",
+        "authorCategory": "coworker",
+        "reviewer": "ninabarbakadze",
+        "requestedAt": "2026-08-20T13:37:46Z"
       }
     ],
     "rach-id": [],
@@ -265,5 +265,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-08-20T14:47:05.088Z"
+  "fetchedAt": "2026-08-20T15:03:43.706Z"
 }
