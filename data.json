@@ -12,6 +12,16 @@
         "authorCategory": "coworker",
         "reviewer": "tty47",
         "requestedAt": "2026-08-19T18:15:05Z"
+      },
+      {
+        "number": 3242,
+        "title": "chore: fixing some flaky tests",
+        "url": "https://github.com/celestiaorg/celestia-core/pull/3242",
+        "repo": "celestia-core",
+        "author": "chatton",
+        "authorCategory": "coworker",
+        "reviewer": "tty47",
+        "requestedAt": "2026-08-20T08:25:31Z"
       }
     ],
     "mcrakhman": [],
@@ -256,5 +266,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-08-20T08:16:36.318Z"
+  "fetchedAt": "2026-08-20T08:33:04.682Z"
 }
