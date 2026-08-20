@@ -90,7 +90,18 @@
         "requestedAt": "2026-08-17T11:12:58Z"
       }
     ],
-    "rootulp": [],
+    "rootulp": [
+      {
+        "number": 7715,
+        "title": "fix: skip signerDataFromTx when CheckTx fails (backport #7712)",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/7715",
+        "repo": "celestia-app",
+        "author": "mergify",
+        "authorCategory": "bot",
+        "reviewer": "rootulp",
+        "requestedAt": "2026-08-20T06:36:59Z"
+      }
+    ],
     "vgonkivs": [
       {
         "number": 5153,
@@ -225,5 +236,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-08-20T06:36:43.968Z"
+  "fetchedAt": "2026-08-20T06:59:26.845Z"
 }
