@@ -65,6 +65,16 @@
         "authorCategory": "coworker",
         "reviewer": "ninabarbakadze",
         "requestedAt": "2026-08-19T23:50:14Z"
+      },
+      {
+        "number": 749,
+        "title": "fix(x/evidence)!: ignore equivocation evidence for a deleted validator",
+        "url": "https://github.com/celestiaorg/cosmos-sdk/pull/749",
+        "repo": "cosmos-sdk",
+        "author": "rootulp",
+        "authorCategory": "coworker",
+        "reviewer": "ninabarbakadze",
+        "requestedAt": "2026-08-19T23:56:04Z"
       }
     ],
     "rach-id": [
@@ -87,6 +97,16 @@
         "authorCategory": "coworker",
         "reviewer": "rach-id",
         "requestedAt": "2026-08-19T23:50:13Z"
+      },
+      {
+        "number": 749,
+        "title": "fix(x/evidence)!: ignore equivocation evidence for a deleted validator",
+        "url": "https://github.com/celestiaorg/cosmos-sdk/pull/749",
+        "repo": "cosmos-sdk",
+        "author": "rootulp",
+        "authorCategory": "coworker",
+        "reviewer": "rach-id",
+        "requestedAt": "2026-08-19T23:56:03Z"
       }
     ],
     "renaynay": [
@@ -246,5 +266,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-08-19T23:53:55.237Z"
+  "fetchedAt": "2026-08-20T00:02:39.998Z"
 }
