@@ -88,18 +88,7 @@
         "requestedAt": "2026-08-20T00:28:44Z"
       }
     ],
-    "rach-id": [
-      {
-        "number": 407,
-        "title": "fix(p2p): stop peer tracker gc ticker",
-        "url": "https://github.com/celestiaorg/go-header/pull/407",
-        "repo": "go-header",
-        "author": "loglapa",
-        "authorCategory": "external",
-        "reviewer": "rach-id",
-        "requestedAt": "2026-08-20T10:41:47Z"
-      }
-    ],
+    "rach-id": [],
     "renaynay": [
       {
         "number": 5177,
@@ -308,5 +297,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-08-20T11:00:11.387Z"
+  "fetchedAt": "2026-08-20T11:11:46.922Z"
 }
