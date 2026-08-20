@@ -37,16 +37,6 @@
         "requestedAt": "2026-08-19T17:40:10Z"
       },
       {
-        "number": 7713,
-        "title": "docs: instruct Claude to write short godoc comments",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7713",
-        "repo": "celestia-app",
-        "author": "rootulp",
-        "authorCategory": "coworker",
-        "reviewer": "ninabarbakadze",
-        "requestedAt": "2026-08-19T21:05:09Z"
-      },
-      {
         "number": 7712,
         "title": "fix: skip signerDataFromTx when CheckTx fails",
         "url": "https://github.com/celestiaorg/celestia-app/pull/7712",
@@ -276,5 +266,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-08-20T06:05:25.415Z"
+  "fetchedAt": "2026-08-20T06:19:03.141Z"
 }
