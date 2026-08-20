@@ -75,6 +75,16 @@
         "authorCategory": "coworker",
         "reviewer": "ninabarbakadze",
         "requestedAt": "2026-08-19T23:56:04Z"
+      },
+      {
+        "number": 750,
+        "title": "fix: resolve govulncheck failures",
+        "url": "https://github.com/celestiaorg/cosmos-sdk/pull/750",
+        "repo": "cosmos-sdk",
+        "author": "rootulp",
+        "authorCategory": "coworker",
+        "reviewer": "ninabarbakadze",
+        "requestedAt": "2026-08-20T00:28:44Z"
       }
     ],
     "rach-id": [
@@ -266,5 +276,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-08-20T00:22:30.976Z"
+  "fetchedAt": "2026-08-20T00:42:40.754Z"
 }
