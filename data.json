@@ -1,7 +1,28 @@
 {
   "reviews": {
-    "chatton": [],
+    "chatton": [
+      {
+        "number": 7716,
+        "title": "feat: script to state sync a node to corto",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/7716",
+        "repo": "celestia-app",
+        "author": "rach-id",
+        "authorCategory": "coworker",
+        "reviewer": "chatton",
+        "requestedAt": "2026-08-20T11:57:28Z"
+      }
+    ],
     "pippokr": [
+      {
+        "number": 7716,
+        "title": "feat: script to state sync a node to corto",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/7716",
+        "repo": "celestia-app",
+        "author": "rach-id",
+        "authorCategory": "coworker",
+        "reviewer": "pippokr",
+        "requestedAt": "2026-08-20T12:01:02Z"
+      },
       {
         "number": 335,
         "title": "test: cover nextSubtreeSize",
@@ -23,16 +44,6 @@
         "authorCategory": "coworker",
         "reviewer": "tty47",
         "requestedAt": "2026-08-19T18:15:05Z"
-      },
-      {
-        "number": 3242,
-        "title": "chore: fixing some flaky tests",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3242",
-        "repo": "celestia-core",
-        "author": "chatton",
-        "authorCategory": "coworker",
-        "reviewer": "tty47",
-        "requestedAt": "2026-08-20T08:25:31Z"
       }
     ],
     "mcrakhman": [],
@@ -297,5 +308,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-08-20T11:51:13.368Z"
+  "fetchedAt": "2026-08-20T12:01:46.589Z"
 }
