@@ -182,6 +182,16 @@
         "authorCategory": "external",
         "reviewer": "vgonkivs",
         "requestedAt": "2026-08-16T22:42:36Z"
+      },
+      {
+        "number": 5179,
+        "title": "shrex/peers: Avoid cooldown lock-order deadlock",
+        "url": "https://github.com/celestiaorg/celestia-node/pull/5179",
+        "repo": "celestia-node",
+        "author": "neyy91",
+        "authorCategory": "external",
+        "reviewer": "vgonkivs",
+        "requestedAt": "2026-08-20T07:41:52Z"
       }
     ]
   },
@@ -236,5 +246,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-08-20T07:40:32.020Z"
+  "fetchedAt": "2026-08-20T07:58:44.351Z"
 }
