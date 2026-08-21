@@ -41,16 +41,6 @@
     "rach-id": [],
     "renaynay": [
       {
-        "number": 5177,
-        "title": "perf(shrex/client): reduce memory usage by removing the buffer",
-        "url": "https://github.com/celestiaorg/celestia-node/pull/5177",
-        "repo": "celestia-node",
-        "author": "vgonkivs",
-        "authorCategory": "coworker",
-        "reviewer": "renaynay",
-        "requestedAt": "2026-08-19T13:41:35Z"
-      },
-      {
         "number": 7720,
         "title": "ci: retry TestAllUpgrades once in the nightly",
         "url": "https://github.com/celestiaorg/celestia-app/pull/7720",
@@ -71,7 +61,18 @@
         "requestedAt": "2026-08-17T11:12:58Z"
       }
     ],
-    "rootulp": [],
+    "rootulp": [
+      {
+        "number": 7724,
+        "title": "chore: add itrocket seed, peer and RPC for mocha-5 (backport #7723)",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/7724",
+        "repo": "celestia-app",
+        "author": "mergify",
+        "authorCategory": "bot",
+        "reviewer": "rootulp",
+        "requestedAt": "2026-08-21T16:14:37Z"
+      }
+    ],
     "vgonkivs": [
       {
         "number": 5153,
@@ -326,5 +327,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-08-21T16:11:37.891Z"
+  "fetchedAt": "2026-08-21T16:25:30.923Z"
 }
