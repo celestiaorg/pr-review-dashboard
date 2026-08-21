@@ -49,7 +49,18 @@
         "requestedAt": "2026-08-20T00:28:44Z"
       }
     ],
-    "rach-id": [],
+    "rach-id": [
+      {
+        "number": 750,
+        "title": "fix: resolve govulncheck failures",
+        "url": "https://github.com/celestiaorg/cosmos-sdk/pull/750",
+        "repo": "cosmos-sdk",
+        "author": "rootulp",
+        "authorCategory": "coworker",
+        "reviewer": "rach-id",
+        "requestedAt": "2026-08-21T22:49:43Z"
+      }
+    ],
     "renaynay": [
       {
         "number": 7720,
@@ -72,18 +83,7 @@
         "requestedAt": "2026-08-17T11:12:58Z"
       }
     ],
-    "rootulp": [
-      {
-        "number": 7724,
-        "title": "chore: add itrocket seed, peer and RPC for mocha-5 (backport #7723)",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7724",
-        "repo": "celestia-app",
-        "author": "mergify",
-        "authorCategory": "bot",
-        "reviewer": "rootulp",
-        "requestedAt": "2026-08-21T16:14:37Z"
-      }
-    ],
+    "rootulp": [],
     "vgonkivs": [
       {
         "number": 5153,
@@ -338,5 +338,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-08-21T22:45:31.043Z"
+  "fetchedAt": "2026-08-21T22:56:09.922Z"
 }
