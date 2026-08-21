@@ -58,18 +58,7 @@
         "requestedAt": "2026-08-20T13:37:46Z"
       }
     ],
-    "rach-id": [
-      {
-        "number": 7721,
-        "title": "chore!: replace mocha-4 with mocha-5 (backport #7709)",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7721",
-        "repo": "celestia-app",
-        "author": "mergify",
-        "authorCategory": "bot",
-        "reviewer": "rach-id",
-        "requestedAt": "2026-08-21T08:16:53Z"
-      }
-    ],
+    "rach-id": [],
     "renaynay": [
       {
         "number": 5177,
@@ -123,6 +112,16 @@
         "authorCategory": "coworker",
         "reviewer": "vgonkivs",
         "requestedAt": "2026-08-20T15:12:59Z"
+      },
+      {
+        "number": 7722,
+        "title": "feat(talis): add --skip-payload-upload flag to deploy",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/7722",
+        "repo": "celestia-app",
+        "author": "rach-id",
+        "authorCategory": "coworker",
+        "reviewer": "vgonkivs",
+        "requestedAt": "2026-08-21T08:20:07Z"
       },
       {
         "number": 5165,
@@ -327,5 +326,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-08-21T08:17:49.052Z"
+  "fetchedAt": "2026-08-21T08:35:04.457Z"
 }
