@@ -214,16 +214,6 @@
         "requestedAt": "2026-08-20T09:44:43Z"
       },
       {
-        "number": 336,
-        "title": "refactor: extract subtree root computation",
-        "url": "https://github.com/celestiaorg/nmt/pull/336",
-        "repo": "nmt",
-        "author": "loglapa",
-        "authorCategory": "external",
-        "reviewer": "vgonkivs",
-        "requestedAt": "2026-08-20T10:41:58Z"
-      },
-      {
         "number": 5183,
         "title": "das: Reset running state after failed start",
         "url": "https://github.com/celestiaorg/celestia-node/pull/5183",
@@ -306,5 +296,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-08-21T14:23:00.365Z"
+  "fetchedAt": "2026-08-21T14:40:45.411Z"
 }
