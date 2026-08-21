@@ -11,16 +11,6 @@
         "authorCategory": "bot",
         "reviewer": "pippokr",
         "requestedAt": "2026-08-20T21:02:53Z"
-      },
-      {
-        "number": 335,
-        "title": "test: cover nextSubtreeSize",
-        "url": "https://github.com/celestiaorg/nmt/pull/335",
-        "repo": "nmt",
-        "author": "loglapa",
-        "authorCategory": "external",
-        "reviewer": "pippokr",
-        "requestedAt": "2026-08-20T10:41:41Z"
       }
     ],
     "tty47": [],
@@ -326,5 +316,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-08-21T10:26:46.307Z"
+  "fetchedAt": "2026-08-21T10:42:53.010Z"
 }
