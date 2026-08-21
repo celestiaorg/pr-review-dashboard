@@ -272,16 +272,6 @@
         "authorCategory": "external",
         "reviewer": "vgonkivs",
         "requestedAt": "2026-08-20T23:49:10Z"
-      },
-      {
-        "number": 5186,
-        "title": "shwap/bitswap: Bound idle session retention",
-        "url": "https://github.com/celestiaorg/celestia-node/pull/5186",
-        "repo": "celestia-node",
-        "author": "neyy91",
-        "authorCategory": "external",
-        "reviewer": "vgonkivs",
-        "requestedAt": "2026-08-20T23:50:32Z"
       }
     ]
   },
@@ -336,5 +326,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-08-21T09:44:17.391Z"
+  "fetchedAt": "2026-08-21T09:59:27.062Z"
 }
