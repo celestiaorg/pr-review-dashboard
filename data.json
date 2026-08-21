@@ -38,16 +38,6 @@
     ],
     "ninabarbakadze": [
       {
-        "number": 7709,
-        "title": "chore!: replace mocha-4 with mocha-5",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7709",
-        "repo": "celestia-app",
-        "author": "rach-id",
-        "authorCategory": "coworker",
-        "reviewer": "ninabarbakadze",
-        "requestedAt": "2026-08-19T17:40:10Z"
-      },
-      {
         "number": 750,
         "title": "fix: resolve govulncheck failures",
         "url": "https://github.com/celestiaorg/cosmos-sdk/pull/750",
@@ -66,19 +56,20 @@
         "authorCategory": "coworker",
         "reviewer": "ninabarbakadze",
         "requestedAt": "2026-08-20T13:37:46Z"
-      },
-      {
-        "number": 7700,
-        "title": "feat!: classify transactions in the app and pass them to go-square",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7700",
-        "repo": "celestia-app",
-        "author": "rootulp",
-        "authorCategory": "coworker",
-        "reviewer": "ninabarbakadze",
-        "requestedAt": "2026-08-20T23:40:56Z"
       }
     ],
-    "rach-id": [],
+    "rach-id": [
+      {
+        "number": 7721,
+        "title": "chore!: replace mocha-4 with mocha-5 (backport #7709)",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/7721",
+        "repo": "celestia-app",
+        "author": "mergify",
+        "authorCategory": "bot",
+        "reviewer": "rach-id",
+        "requestedAt": "2026-08-21T08:16:53Z"
+      }
+    ],
     "renaynay": [
       {
         "number": 5177,
@@ -336,5 +327,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-08-21T07:57:59.812Z"
+  "fetchedAt": "2026-08-21T08:17:49.052Z"
 }
