@@ -38,16 +38,6 @@
         "requestedAt": "2026-08-20T00:28:44Z"
       },
       {
-        "number": 7718,
-        "title": "fix!: bump x/evidence to v0.1.2-celestia",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7718",
-        "repo": "celestia-app",
-        "author": "rootulp",
-        "authorCategory": "coworker",
-        "reviewer": "ninabarbakadze",
-        "requestedAt": "2026-08-20T13:37:46Z"
-      },
-      {
         "number": 7723,
         "title": "chore: add itrocket seed, peer and RPC for mocha-5",
         "url": "https://github.com/celestiaorg/celestia-app/pull/7723",
@@ -316,5 +306,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-08-21T13:53:15.378Z"
+  "fetchedAt": "2026-08-21T14:09:07.933Z"
 }
