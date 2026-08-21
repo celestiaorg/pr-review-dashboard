@@ -36,16 +36,6 @@
         "authorCategory": "coworker",
         "reviewer": "ninabarbakadze",
         "requestedAt": "2026-08-20T00:28:44Z"
-      },
-      {
-        "number": 7723,
-        "title": "chore: add itrocket seed, peer and RPC for mocha-5",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7723",
-        "repo": "celestia-app",
-        "author": "rach-id",
-        "authorCategory": "coworker",
-        "reviewer": "ninabarbakadze",
-        "requestedAt": "2026-08-21T08:47:22Z"
       }
     ],
     "rach-id": [],
@@ -336,5 +326,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-08-21T15:57:54.517Z"
+  "fetchedAt": "2026-08-21T16:11:37.891Z"
 }
