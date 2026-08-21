@@ -78,28 +78,7 @@
         "requestedAt": "2026-08-20T23:40:56Z"
       }
     ],
-    "rach-id": [
-      {
-        "number": 7718,
-        "title": "fix!: bump x/evidence to v0.1.2-celestia",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7718",
-        "repo": "celestia-app",
-        "author": "rootulp",
-        "authorCategory": "coworker",
-        "reviewer": "rach-id",
-        "requestedAt": "2026-08-20T23:40:13Z"
-      },
-      {
-        "number": 7700,
-        "title": "feat!: classify transactions in the app and pass them to go-square",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7700",
-        "repo": "celestia-app",
-        "author": "rootulp",
-        "authorCategory": "coworker",
-        "reviewer": "rach-id",
-        "requestedAt": "2026-08-20T23:40:53Z"
-      }
-    ],
+    "rach-id": [],
     "renaynay": [
       {
         "number": 5177,
@@ -357,5 +336,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-08-21T07:39:28.976Z"
+  "fetchedAt": "2026-08-21T07:57:59.812Z"
 }
