@@ -13,7 +13,18 @@
         "requestedAt": "2026-08-20T21:02:53Z"
       }
     ],
-    "tty47": [],
+    "tty47": [
+      {
+        "number": 7725,
+        "title": "fix: fibre module address should be a base account",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/7725",
+        "repo": "celestia-app",
+        "author": "ninabarbakadze",
+        "authorCategory": "coworker",
+        "reviewer": "tty47",
+        "requestedAt": "2026-08-21T18:42:16Z"
+      }
+    ],
     "mcrakhman": [
       {
         "number": 5158,
@@ -327,5 +338,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-08-21T18:34:46.099Z"
+  "fetchedAt": "2026-08-21T18:53:05.318Z"
 }
