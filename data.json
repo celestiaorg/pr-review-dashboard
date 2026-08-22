@@ -11,6 +11,16 @@
         "authorCategory": "bot",
         "reviewer": "pippokr",
         "requestedAt": "2026-08-20T21:02:53Z"
+      },
+      {
+        "number": 340,
+        "title": "proof: clarify empty range proof validation",
+        "url": "https://github.com/celestiaorg/nmt/pull/340",
+        "repo": "nmt",
+        "author": "loglapa",
+        "authorCategory": "external",
+        "reviewer": "pippokr",
+        "requestedAt": "2026-08-22T12:00:32Z"
       }
     ],
     "tty47": [
@@ -59,6 +69,16 @@
         "authorCategory": "external",
         "reviewer": "renaynay",
         "requestedAt": "2026-08-17T11:12:58Z"
+      },
+      {
+        "number": 410,
+        "title": "feat(store): expose cache hit ratio metric",
+        "url": "https://github.com/celestiaorg/go-header/pull/410",
+        "repo": "go-header",
+        "author": "loglapa",
+        "authorCategory": "external",
+        "reviewer": "renaynay",
+        "requestedAt": "2026-08-22T11:59:58Z"
       }
     ],
     "rootulp": [],
@@ -262,6 +282,16 @@
         "authorCategory": "external",
         "reviewer": "vgonkivs",
         "requestedAt": "2026-08-21T15:06:36Z"
+      },
+      {
+        "number": 5194,
+        "title": "test(share): cover RowsWithNamespace boundaries",
+        "url": "https://github.com/celestiaorg/celestia-node/pull/5194",
+        "repo": "celestia-node",
+        "author": "loglapa",
+        "authorCategory": "external",
+        "reviewer": "vgonkivs",
+        "requestedAt": "2026-08-22T12:00:06Z"
       }
     ]
   },
@@ -316,5 +346,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-08-22T11:57:55.102Z"
+  "fetchedAt": "2026-08-22T12:09:57.037Z"
 }
