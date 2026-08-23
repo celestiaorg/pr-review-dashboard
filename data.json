@@ -59,18 +59,7 @@
       }
     ],
     "ninabarbakadze": [],
-    "rach-id": [
-      {
-        "number": 408,
-        "title": "test(store): wait for append before checking head",
-        "url": "https://github.com/celestiaorg/go-header/pull/408",
-        "repo": "go-header",
-        "author": "loglapa",
-        "authorCategory": "external",
-        "reviewer": "rach-id",
-        "requestedAt": "2026-08-23T08:03:45Z"
-      }
-    ],
+    "rach-id": [],
     "renaynay": [
       {
         "number": 7720,
@@ -378,5 +367,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-08-23T09:24:26.044Z"
+  "fetchedAt": "2026-08-23T09:38:33.357Z"
 }
