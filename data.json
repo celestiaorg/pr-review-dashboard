@@ -47,16 +47,6 @@
     ],
     "mcrakhman": [
       {
-        "number": 5158,
-        "title": "perf(share/shwap/p2p/shrex/peers): Add EWMA to peer manager",
-        "url": "https://github.com/celestiaorg/celestia-node/pull/5158",
-        "repo": "celestia-node",
-        "author": "renaynay",
-        "authorCategory": "coworker",
-        "reviewer": "mcrakhman",
-        "requestedAt": "2026-08-20T14:04:22Z"
-      },
-      {
         "number": 5156,
         "title": "perf(das): reduce sampling range to reduce HOL blocking",
         "url": "https://github.com/celestiaorg/celestia-node/pull/5156",
@@ -79,16 +69,6 @@
     ],
     "ninabarbakadze": [],
     "rach-id": [
-      {
-        "number": 7732,
-        "title": "fix: bound validator signatures in MsgPayForFibre",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7732",
-        "repo": "celestia-app",
-        "author": "vgonkivs",
-        "authorCategory": "coworker",
-        "reviewer": "rach-id",
-        "requestedAt": "2026-08-24T14:34:05Z"
-      },
       {
         "number": 7725,
         "title": "fix: fibre module address should be a base account",
@@ -397,5 +377,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-08-24T14:39:49.144Z"
+  "fetchedAt": "2026-08-24T14:59:31.922Z"
 }
