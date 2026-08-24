@@ -67,6 +67,16 @@
         "authorCategory": "coworker",
         "reviewer": "ninabarbakadze",
         "requestedAt": "2026-08-24T23:28:32Z"
+      },
+      {
+        "number": 752,
+        "title": "fix!: guard cumulative reward ratio overflow in IncrementValidatorPeriod",
+        "url": "https://github.com/celestiaorg/cosmos-sdk/pull/752",
+        "repo": "cosmos-sdk",
+        "author": "rootulp",
+        "authorCategory": "coworker",
+        "reviewer": "ninabarbakadze",
+        "requestedAt": "2026-08-24T23:37:52Z"
       }
     ],
     "rach-id": [
@@ -89,6 +99,16 @@
         "authorCategory": "coworker",
         "reviewer": "rach-id",
         "requestedAt": "2026-08-24T23:28:32Z"
+      },
+      {
+        "number": 752,
+        "title": "fix!: guard cumulative reward ratio overflow in IncrementValidatorPeriod",
+        "url": "https://github.com/celestiaorg/cosmos-sdk/pull/752",
+        "repo": "cosmos-sdk",
+        "author": "rootulp",
+        "authorCategory": "coworker",
+        "reviewer": "rach-id",
+        "requestedAt": "2026-08-24T23:37:52Z"
       },
       {
         "number": 452,
@@ -378,5 +398,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-08-24T23:35:33.537Z"
+  "fetchedAt": "2026-08-24T23:45:42.417Z"
 }
