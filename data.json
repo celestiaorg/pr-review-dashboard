@@ -87,19 +87,20 @@
         "requestedAt": "2026-08-24T09:37:23Z"
       }
     ],
-    "ninabarbakadze": [],
+    "ninabarbakadze": [
+      {
+        "number": 3240,
+        "title": "feat!(rpc): harden rpc endpoints",
+        "url": "https://github.com/celestiaorg/celestia-core/pull/3240",
+        "repo": "celestia-core",
+        "author": "vgonkivs",
+        "authorCategory": "coworker",
+        "reviewer": "ninabarbakadze",
+        "requestedAt": "2026-08-19T13:09:31Z"
+      }
+    ],
     "rach-id": [],
     "renaynay": [
-      {
-        "number": 7720,
-        "title": "ci: retry TestAllUpgrades once in the nightly",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7720",
-        "repo": "celestia-app",
-        "author": "rach-id",
-        "authorCategory": "coworker",
-        "reviewer": "renaynay",
-        "requestedAt": "2026-08-20T18:17:12Z"
-      },
       {
         "number": 7731,
         "title": "fix: use p99 instead of max for Corto load block-time assertion",
@@ -151,18 +152,7 @@
         "requestedAt": "2026-08-24T13:00:00Z"
       }
     ],
-    "rootulp": [
-      {
-        "number": 7729,
-        "title": "chore(deps): bump the github-actions group with 2 updates",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7729",
-        "repo": "celestia-app",
-        "author": "dependabot",
-        "authorCategory": "bot",
-        "reviewer": "rootulp",
-        "requestedAt": "2026-08-24T09:39:56Z"
-      }
-    ],
+    "rootulp": [],
     "vgonkivs": [
       {
         "number": 5156,
@@ -417,5 +407,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-08-24T14:02:07.166Z"
+  "fetchedAt": "2026-08-24T14:21:28.611Z"
 }
