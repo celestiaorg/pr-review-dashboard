@@ -2,9 +2,9 @@
   "latencies": {
     "chatton": {
       "week": {
-        "n": 7,
-        "medianHours": 1.5227777777777778,
-        "p90Hours": 24.269166666666667
+        "n": 0,
+        "medianHours": null,
+        "p90Hours": null
       },
       "month": {
         "n": 11,
@@ -19,9 +19,9 @@
     },
     "pippokr": {
       "week": {
-        "n": 2,
-        "medianHours": 1.3291666666666666,
-        "p90Hours": 1.3291666666666666
+        "n": 0,
+        "medianHours": null,
+        "p90Hours": null
       },
       "month": {
         "n": 4,
@@ -53,9 +53,9 @@
     },
     "mcrakhman": {
       "week": {
-        "n": 2,
-        "medianHours": 125.7025,
-        "p90Hours": 125.7025
+        "n": 0,
+        "medianHours": null,
+        "p90Hours": null
       },
       "month": {
         "n": 7,
@@ -70,9 +70,9 @@
     },
     "ninabarbakadze": {
       "week": {
-        "n": 8,
-        "medianHours": 18.189722222222223,
-        "p90Hours": 23.670555555555556
+        "n": 0,
+        "medianHours": null,
+        "p90Hours": null
       },
       "month": {
         "n": 20,
@@ -87,9 +87,9 @@
     },
     "rach-id": {
       "week": {
-        "n": 24,
-        "medianHours": 6.245,
-        "p90Hours": 25.965555555555557
+        "n": 0,
+        "medianHours": null,
+        "p90Hours": null
       },
       "month": {
         "n": 66,
@@ -104,9 +104,9 @@
     },
     "renaynay": {
       "week": {
-        "n": 2,
-        "medianHours": 3.674722222222222,
-        "p90Hours": 3.674722222222222
+        "n": 0,
+        "medianHours": null,
+        "p90Hours": null
       },
       "month": {
         "n": 5,
@@ -121,9 +121,9 @@
     },
     "rootulp": {
       "week": {
-        "n": 8,
-        "medianHours": 7.766944444444444,
-        "p90Hours": 13.156666666666666
+        "n": 0,
+        "medianHours": null,
+        "p90Hours": null
       },
       "month": {
         "n": 14,
@@ -138,9 +138,9 @@
     },
     "vgonkivs": {
       "week": {
-        "n": 17,
-        "medianHours": 37.730555555555554,
-        "p90Hours": 671.3525
+        "n": 0,
+        "medianHours": null,
+        "p90Hours": null
       },
       "month": {
         "n": 36,
@@ -201,9 +201,9 @@
       "defaultHidden": false
     }
   ],
-  "computedAt": "2026-08-23T00:05:12.688Z",
+  "computedAt": "2026-08-24T00:05:10.103Z",
   "windows": {
-    "weekStart": "2026-08-17T00:00:00.000Z",
+    "weekStart": "2026-08-24T00:00:00.000Z",
     "monthStart": "2026-08-01T00:00:00.000Z",
     "yearStart": "2026-01-01T00:00:00.000Z"
   }
