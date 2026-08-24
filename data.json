@@ -1,39 +1,8 @@
 {
   "reviews": {
     "chatton": [],
-    "pippokr": [
-      {
-        "number": 337,
-        "title": "chore(deps): bump github.com/stretchr/testify from 1.12.0 to 1.12.1",
-        "url": "https://github.com/celestiaorg/nmt/pull/337",
-        "repo": "nmt",
-        "author": "dependabot",
-        "authorCategory": "bot",
-        "reviewer": "pippokr",
-        "requestedAt": "2026-08-20T21:02:53Z"
-      },
-      {
-        "number": 3251,
-        "title": "build(deps): Bump github.com/aws/aws-sdk-go-v2/credentials from 1.19.35 to 1.19.37",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3251",
-        "repo": "celestia-core",
-        "author": "dependabot",
-        "authorCategory": "bot",
-        "reviewer": "pippokr",
-        "requestedAt": "2026-08-24T09:35:34Z"
-      }
-    ],
+    "pippokr": [],
     "tty47": [
-      {
-        "number": 7725,
-        "title": "fix: fibre module address should be a base account",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7725",
-        "repo": "celestia-app",
-        "author": "ninabarbakadze",
-        "authorCategory": "coworker",
-        "reviewer": "tty47",
-        "requestedAt": "2026-08-21T18:42:16Z"
-      },
       {
         "number": 3249,
         "title": "build(deps): Bump github.com/aws/aws-sdk-go-v2/config from 1.32.36 to 1.32.38",
@@ -58,18 +27,7 @@
       }
     ],
     "ninabarbakadze": [],
-    "rach-id": [
-      {
-        "number": 7725,
-        "title": "fix: fibre module address should be a base account",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7725",
-        "repo": "celestia-app",
-        "author": "ninabarbakadze",
-        "authorCategory": "coworker",
-        "reviewer": "rach-id",
-        "requestedAt": "2026-08-24T14:35:35Z"
-      }
-    ],
+    "rach-id": [],
     "renaynay": [
       {
         "number": 7731,
@@ -80,16 +38,6 @@
         "authorCategory": "coworker",
         "reviewer": "renaynay",
         "requestedAt": "2026-08-24T11:05:09Z"
-      },
-      {
-        "number": 3250,
-        "title": "build(deps): Bump github.com/aws/aws-sdk-go-v2 from 1.43.6 to 1.43.7",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3250",
-        "repo": "celestia-core",
-        "author": "dependabot",
-        "authorCategory": "bot",
-        "reviewer": "renaynay",
-        "requestedAt": "2026-08-24T09:34:08Z"
       },
       {
         "number": 5132,
@@ -357,5 +305,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-08-24T15:36:30.143Z"
+  "fetchedAt": "2026-08-24T15:54:39.780Z"
 }
