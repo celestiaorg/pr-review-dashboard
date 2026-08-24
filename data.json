@@ -1,17 +1,6 @@
 {
   "reviews": {
-    "chatton": [
-      {
-        "number": 339,
-        "title": "docs: clarify ComputeSubtreeRoot range",
-        "url": "https://github.com/celestiaorg/nmt/pull/339",
-        "repo": "nmt",
-        "author": "loglapa",
-        "authorCategory": "external",
-        "reviewer": "chatton",
-        "requestedAt": "2026-08-23T08:03:57Z"
-      }
-    ],
+    "chatton": [],
     "pippokr": [
       {
         "number": 337,
@@ -367,5 +356,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-08-24T07:50:27.028Z"
+  "fetchedAt": "2026-08-24T08:09:33.792Z"
 }
