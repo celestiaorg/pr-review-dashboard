@@ -112,6 +112,16 @@
         "requestedAt": "2026-08-20T18:17:12Z"
       },
       {
+        "number": 7731,
+        "title": "fix: use p99 instead of max for Corto load block-time assertion",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/7731",
+        "repo": "celestia-app",
+        "author": "rach-id",
+        "authorCategory": "coworker",
+        "reviewer": "renaynay",
+        "requestedAt": "2026-08-24T11:05:09Z"
+      },
+      {
         "number": 3250,
         "title": "build(deps): Bump github.com/aws/aws-sdk-go-v2 from 1.43.6 to 1.43.7",
         "url": "https://github.com/celestiaorg/celestia-core/pull/3250",
@@ -204,6 +214,66 @@
         "authorCategory": "bot",
         "reviewer": "vgonkivs",
         "requestedAt": "2026-08-24T09:35:48Z"
+      },
+      {
+        "number": 5195,
+        "title": "chore(deps): bump actions/download-artifact from 4 to 8",
+        "url": "https://github.com/celestiaorg/celestia-node/pull/5195",
+        "repo": "celestia-node",
+        "author": "dependabot",
+        "authorCategory": "bot",
+        "reviewer": "vgonkivs",
+        "requestedAt": "2026-08-24T11:04:50Z"
+      },
+      {
+        "number": 5196,
+        "title": "chore(deps): bump actions/upload-artifact from 4 to 7",
+        "url": "https://github.com/celestiaorg/celestia-node/pull/5196",
+        "repo": "celestia-node",
+        "author": "dependabot",
+        "authorCategory": "bot",
+        "reviewer": "vgonkivs",
+        "requestedAt": "2026-08-24T11:04:58Z"
+      },
+      {
+        "number": 5197,
+        "title": "chore(deps): bump github.com/libp2p/go-libp2p-kad-dht from 0.42.1 to 0.42.2 in the libp2p group across 1 directory",
+        "url": "https://github.com/celestiaorg/celestia-node/pull/5197",
+        "repo": "celestia-node",
+        "author": "dependabot",
+        "authorCategory": "bot",
+        "reviewer": "vgonkivs",
+        "requestedAt": "2026-08-24T11:06:58Z"
+      },
+      {
+        "number": 5198,
+        "title": "chore(deps): bump the go-deps group across 2 directories with 4 updates",
+        "url": "https://github.com/celestiaorg/celestia-node/pull/5198",
+        "repo": "celestia-node",
+        "author": "dependabot",
+        "authorCategory": "bot",
+        "reviewer": "vgonkivs",
+        "requestedAt": "2026-08-24T11:07:47Z"
+      },
+      {
+        "number": 5199,
+        "title": "chore(deps): bump github.com/celestiaorg/go-square/v4 from 4.0.0-rc5 to 4.0.0",
+        "url": "https://github.com/celestiaorg/celestia-node/pull/5199",
+        "repo": "celestia-node",
+        "author": "dependabot",
+        "authorCategory": "bot",
+        "reviewer": "vgonkivs",
+        "requestedAt": "2026-08-24T11:08:06Z"
+      },
+      {
+        "number": 5200,
+        "title": "chore(deps): bump github.com/celestiaorg/go-square/v4 from 4.0.0-rc5 to 4.0.0 in /nodebuilder/tests/tastora",
+        "url": "https://github.com/celestiaorg/celestia-node/pull/5200",
+        "repo": "celestia-node",
+        "author": "dependabot",
+        "authorCategory": "bot",
+        "reviewer": "vgonkivs",
+        "requestedAt": "2026-08-24T11:08:16Z"
       },
       {
         "number": 5165,
@@ -448,5 +518,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-08-24T10:57:50.355Z"
+  "fetchedAt": "2026-08-24T11:11:44.802Z"
 }
