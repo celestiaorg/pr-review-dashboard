@@ -21,16 +21,6 @@
         "authorCategory": "bot",
         "reviewer": "pippokr",
         "requestedAt": "2026-08-24T09:35:34Z"
-      },
-      {
-        "number": 340,
-        "title": "proof: clarify empty range proof validation",
-        "url": "https://github.com/celestiaorg/nmt/pull/340",
-        "repo": "nmt",
-        "author": "loglapa",
-        "authorCategory": "external",
-        "reviewer": "pippokr",
-        "requestedAt": "2026-08-22T12:00:32Z"
       }
     ],
     "tty47": [
@@ -87,19 +77,29 @@
         "requestedAt": "2026-08-24T09:37:23Z"
       }
     ],
-    "ninabarbakadze": [
+    "ninabarbakadze": [],
+    "rach-id": [
       {
-        "number": 3240,
-        "title": "feat!(rpc): harden rpc endpoints",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3240",
-        "repo": "celestia-core",
+        "number": 7732,
+        "title": "fix: bound validator signatures in MsgPayForFibre",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/7732",
+        "repo": "celestia-app",
         "author": "vgonkivs",
         "authorCategory": "coworker",
-        "reviewer": "ninabarbakadze",
-        "requestedAt": "2026-08-19T13:09:31Z"
+        "reviewer": "rach-id",
+        "requestedAt": "2026-08-24T14:34:05Z"
+      },
+      {
+        "number": 7725,
+        "title": "fix: fibre module address should be a base account",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/7725",
+        "repo": "celestia-app",
+        "author": "ninabarbakadze",
+        "authorCategory": "coworker",
+        "reviewer": "rach-id",
+        "requestedAt": "2026-08-24T14:35:35Z"
       }
     ],
-    "rach-id": [],
     "renaynay": [
       {
         "number": 7731,
@@ -154,16 +154,6 @@
     ],
     "rootulp": [],
     "vgonkivs": [
-      {
-        "number": 5156,
-        "title": "perf(das): reduce sampling range to reduce HOL blocking",
-        "url": "https://github.com/celestiaorg/celestia-node/pull/5156",
-        "repo": "celestia-node",
-        "author": "renaynay",
-        "authorCategory": "coworker",
-        "reviewer": "vgonkivs",
-        "requestedAt": "2026-08-24T12:44:45Z"
-      },
       {
         "number": 5198,
         "title": "chore(deps): bump the go-deps group across 2 directories with 4 updates",
@@ -407,5 +397,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-08-24T14:21:28.611Z"
+  "fetchedAt": "2026-08-24T14:39:49.144Z"
 }
