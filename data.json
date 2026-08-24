@@ -27,7 +27,18 @@
       }
     ],
     "ninabarbakadze": [],
-    "rach-id": [],
+    "rach-id": [
+      {
+        "number": 7733,
+        "title": "fix: verify downloaded genesis before replacing destination",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/7733",
+        "repo": "celestia-app",
+        "author": "wangjingshuiku",
+        "authorCategory": "external",
+        "reviewer": "rach-id",
+        "requestedAt": "2026-08-24T17:00:04Z"
+      }
+    ],
     "renaynay": [
       {
         "number": 7731,
@@ -305,5 +316,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-08-24T16:58:32.934Z"
+  "fetchedAt": "2026-08-24T17:14:02.494Z"
 }
