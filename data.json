@@ -186,66 +186,6 @@
         "requestedAt": "2026-08-13T11:27:48Z"
       },
       {
-        "number": 5158,
-        "title": "perf(share/shwap/p2p/shrex/peers): Add EWMA to peer manager",
-        "url": "https://github.com/celestiaorg/celestia-node/pull/5158",
-        "repo": "celestia-node",
-        "author": "renaynay",
-        "authorCategory": "coworker",
-        "reviewer": "vgonkivs",
-        "requestedAt": "2026-08-20T15:12:59Z"
-      },
-      {
-        "number": 7722,
-        "title": "feat(talis): add --skip-payload-upload flag to deploy",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7722",
-        "repo": "celestia-app",
-        "author": "rach-id",
-        "authorCategory": "coworker",
-        "reviewer": "vgonkivs",
-        "requestedAt": "2026-08-21T08:20:07Z"
-      },
-      {
-        "number": 3253,
-        "title": "build(deps): Bump google.golang.org/grpc from 1.83.0 to 1.83.1",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3253",
-        "repo": "celestia-core",
-        "author": "dependabot",
-        "authorCategory": "bot",
-        "reviewer": "vgonkivs",
-        "requestedAt": "2026-08-24T09:35:48Z"
-      },
-      {
-        "number": 5195,
-        "title": "chore(deps): bump actions/download-artifact from 4 to 8",
-        "url": "https://github.com/celestiaorg/celestia-node/pull/5195",
-        "repo": "celestia-node",
-        "author": "dependabot",
-        "authorCategory": "bot",
-        "reviewer": "vgonkivs",
-        "requestedAt": "2026-08-24T11:04:50Z"
-      },
-      {
-        "number": 5196,
-        "title": "chore(deps): bump actions/upload-artifact from 4 to 7",
-        "url": "https://github.com/celestiaorg/celestia-node/pull/5196",
-        "repo": "celestia-node",
-        "author": "dependabot",
-        "authorCategory": "bot",
-        "reviewer": "vgonkivs",
-        "requestedAt": "2026-08-24T11:04:58Z"
-      },
-      {
-        "number": 5197,
-        "title": "chore(deps): bump github.com/libp2p/go-libp2p-kad-dht from 0.42.1 to 0.42.2 in the libp2p group across 1 directory",
-        "url": "https://github.com/celestiaorg/celestia-node/pull/5197",
-        "repo": "celestia-node",
-        "author": "dependabot",
-        "authorCategory": "bot",
-        "reviewer": "vgonkivs",
-        "requestedAt": "2026-08-24T11:06:58Z"
-      },
-      {
         "number": 5198,
         "title": "chore(deps): bump the go-deps group across 2 directories with 4 updates",
         "url": "https://github.com/celestiaorg/celestia-node/pull/5198",
@@ -518,5 +458,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-08-24T12:16:21.097Z"
+  "fetchedAt": "2026-08-24T12:33:10.495Z"
 }
