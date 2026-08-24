@@ -77,6 +77,16 @@
         "requestedAt": "2026-08-20T14:04:22Z"
       },
       {
+        "number": 5156,
+        "title": "perf(das): reduce sampling range to reduce HOL blocking",
+        "url": "https://github.com/celestiaorg/celestia-node/pull/5156",
+        "repo": "celestia-node",
+        "author": "renaynay",
+        "authorCategory": "coworker",
+        "reviewer": "mcrakhman",
+        "requestedAt": "2026-08-24T12:44:44Z"
+      },
+      {
         "number": 3255,
         "title": "build(deps): Bump github.com/aws/aws-sdk-go-v2/service/s3 from 1.107.2 to 1.107.3",
         "url": "https://github.com/celestiaorg/celestia-core/pull/3255",
@@ -176,14 +186,14 @@
     ],
     "vgonkivs": [
       {
-        "number": 5153,
-        "title": "perf(nodebuilder/config): Increase `PeersLimit` based on DASer `ConcurrencyLimit`",
-        "url": "https://github.com/celestiaorg/celestia-node/pull/5153",
+        "number": 5156,
+        "title": "perf(das): reduce sampling range to reduce HOL blocking",
+        "url": "https://github.com/celestiaorg/celestia-node/pull/5156",
         "repo": "celestia-node",
         "author": "renaynay",
         "authorCategory": "coworker",
         "reviewer": "vgonkivs",
-        "requestedAt": "2026-08-13T11:27:48Z"
+        "requestedAt": "2026-08-24T12:44:45Z"
       },
       {
         "number": 5198,
@@ -394,16 +404,6 @@
         "authorCategory": "external",
         "reviewer": "vgonkivs",
         "requestedAt": "2026-08-22T12:00:06Z"
-      },
-      {
-        "number": 409,
-        "title": "test(p2p): provide tail in partial range store",
-        "url": "https://github.com/celestiaorg/go-header/pull/409",
-        "repo": "go-header",
-        "author": "loglapa",
-        "authorCategory": "external",
-        "reviewer": "vgonkivs",
-        "requestedAt": "2026-08-23T08:03:51Z"
       }
     ]
   },
@@ -458,5 +458,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-08-24T12:33:10.495Z"
+  "fetchedAt": "2026-08-24T12:56:28.083Z"
 }
