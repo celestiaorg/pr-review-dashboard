@@ -53,16 +53,6 @@
         "authorCategory": "bot",
         "reviewer": "tty47",
         "requestedAt": "2026-08-24T09:32:44Z"
-      },
-      {
-        "number": 7730,
-        "title": "chore(deps): bump the go-deps group with 11 updates",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7730",
-        "repo": "celestia-app",
-        "author": "dependabot",
-        "authorCategory": "bot",
-        "reviewer": "tty47",
-        "requestedAt": "2026-08-24T09:43:38Z"
       }
     ],
     "mcrakhman": [
@@ -97,18 +87,7 @@
         "requestedAt": "2026-08-24T09:37:23Z"
       }
     ],
-    "ninabarbakadze": [
-      {
-        "number": 7728,
-        "title": "chore(deps): bump the go-deps-docker-e2e group in /test/docker-e2e with 2 updates",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7728",
-        "repo": "celestia-app",
-        "author": "dependabot",
-        "authorCategory": "bot",
-        "reviewer": "ninabarbakadze",
-        "requestedAt": "2026-08-24T09:35:57Z"
-      }
-    ],
+    "ninabarbakadze": [],
     "rach-id": [],
     "renaynay": [
       {
@@ -174,16 +153,6 @@
     ],
     "rootulp": [
       {
-        "number": 3248,
-        "title": "build(deps): Bump docker/setup-buildx-action from 4.2.0 to 4.3.0",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3248",
-        "repo": "celestia-core",
-        "author": "dependabot",
-        "authorCategory": "bot",
-        "reviewer": "rootulp",
-        "requestedAt": "2026-08-24T09:31:24Z"
-      },
-      {
         "number": 7729,
         "title": "chore(deps): bump the github-actions group with 2 updates",
         "url": "https://github.com/celestiaorg/celestia-app/pull/7729",
@@ -224,16 +193,6 @@
         "authorCategory": "bot",
         "reviewer": "vgonkivs",
         "requestedAt": "2026-08-24T11:08:06Z"
-      },
-      {
-        "number": 5200,
-        "title": "chore(deps): bump github.com/celestiaorg/go-square/v4 from 4.0.0-rc5 to 4.0.0 in /nodebuilder/tests/tastora",
-        "url": "https://github.com/celestiaorg/celestia-node/pull/5200",
-        "repo": "celestia-node",
-        "author": "dependabot",
-        "authorCategory": "bot",
-        "reviewer": "vgonkivs",
-        "requestedAt": "2026-08-24T11:08:16Z"
       },
       {
         "number": 5165,
@@ -458,5 +417,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-08-24T13:41:46.575Z"
+  "fetchedAt": "2026-08-24T14:02:07.166Z"
 }
