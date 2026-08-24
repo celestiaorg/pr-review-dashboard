@@ -47,16 +47,6 @@
     ],
     "mcrakhman": [
       {
-        "number": 5156,
-        "title": "perf(das): reduce sampling range to reduce HOL blocking",
-        "url": "https://github.com/celestiaorg/celestia-node/pull/5156",
-        "repo": "celestia-node",
-        "author": "renaynay",
-        "authorCategory": "coworker",
-        "reviewer": "mcrakhman",
-        "requestedAt": "2026-08-24T12:44:44Z"
-      },
-      {
         "number": 3255,
         "title": "build(deps): Bump github.com/aws/aws-sdk-go-v2/service/s3 from 1.107.2 to 1.107.3",
         "url": "https://github.com/celestiaorg/celestia-core/pull/3255",
@@ -120,16 +110,6 @@
         "authorCategory": "external",
         "reviewer": "renaynay",
         "requestedAt": "2026-08-22T11:59:58Z"
-      },
-      {
-        "number": 5179,
-        "title": "shrex/peers: Avoid cooldown lock-order deadlock",
-        "url": "https://github.com/celestiaorg/celestia-node/pull/5179",
-        "repo": "celestia-node",
-        "author": "neyy91",
-        "authorCategory": "external",
-        "reviewer": "renaynay",
-        "requestedAt": "2026-08-24T13:00:00Z"
       }
     ],
     "rootulp": [],
@@ -377,5 +357,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-08-24T15:19:12.350Z"
+  "fetchedAt": "2026-08-24T15:36:30.143Z"
 }
