@@ -1,6 +1,17 @@
 {
   "reviews": {
-    "chatton": [],
+    "chatton": [
+      {
+        "number": 3256,
+        "title": "fix(light): bind ConsensusParams response to requested height",
+        "url": "https://github.com/celestiaorg/celestia-core/pull/3256",
+        "repo": "celestia-core",
+        "author": "rootulp",
+        "authorCategory": "coworker",
+        "reviewer": "chatton",
+        "requestedAt": "2026-08-24T21:08:28Z"
+      }
+    ],
     "pippokr": [],
     "tty47": [
       {
@@ -315,5 +326,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-08-24T20:56:12.141Z"
+  "fetchedAt": "2026-08-24T21:08:36.534Z"
 }
