@@ -316,16 +316,6 @@
         "requestedAt": "2026-08-20T07:41:52Z"
       },
       {
-        "number": 5180,
-        "title": "blob: Reuse the header across GetAll namespace retrievals",
-        "url": "https://github.com/celestiaorg/celestia-node/pull/5180",
-        "repo": "celestia-node",
-        "author": "neyy91",
-        "authorCategory": "external",
-        "reviewer": "vgonkivs",
-        "requestedAt": "2026-08-20T08:11:30Z"
-      },
-      {
         "number": 5182,
         "title": "blob: Cancel subscriptions when service stops",
         "url": "https://github.com/celestiaorg/celestia-node/pull/5182",
@@ -468,5 +458,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-08-24T13:21:49.829Z"
+  "fetchedAt": "2026-08-24T13:41:46.575Z"
 }
