@@ -45,6 +45,16 @@
         "authorCategory": "coworker",
         "reviewer": "mcrakhman",
         "requestedAt": "2026-08-20T14:04:22Z"
+      },
+      {
+        "number": 751,
+        "title": "chore: fixing flaky tests",
+        "url": "https://github.com/celestiaorg/cosmos-sdk/pull/751",
+        "repo": "cosmos-sdk",
+        "author": "chatton",
+        "authorCategory": "coworker",
+        "reviewer": "mcrakhman",
+        "requestedAt": "2026-08-24T08:51:02Z"
       }
     ],
     "ninabarbakadze": [],
@@ -356,5 +366,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-08-24T08:49:13.723Z"
+  "fetchedAt": "2026-08-24T09:09:11.805Z"
 }
