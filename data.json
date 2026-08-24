@@ -37,8 +37,50 @@
         "requestedAt": "2026-08-24T09:37:23Z"
       }
     ],
-    "ninabarbakadze": [],
-    "rach-id": [],
+    "ninabarbakadze": [
+      {
+        "number": 7734,
+        "title": "fix!: reject transaction fees denominated in non-utia denoms",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/7734",
+        "repo": "celestia-app",
+        "author": "rootulp",
+        "authorCategory": "coworker",
+        "reviewer": "ninabarbakadze",
+        "requestedAt": "2026-08-24T21:13:05Z"
+      },
+      {
+        "number": 3256,
+        "title": "fix(light): bind ConsensusParams response to requested height",
+        "url": "https://github.com/celestiaorg/celestia-core/pull/3256",
+        "repo": "celestia-core",
+        "author": "rootulp",
+        "authorCategory": "coworker",
+        "reviewer": "ninabarbakadze",
+        "requestedAt": "2026-08-24T21:15:57Z"
+      }
+    ],
+    "rach-id": [
+      {
+        "number": 3256,
+        "title": "fix(light): bind ConsensusParams response to requested height",
+        "url": "https://github.com/celestiaorg/celestia-core/pull/3256",
+        "repo": "celestia-core",
+        "author": "rootulp",
+        "authorCategory": "coworker",
+        "reviewer": "rach-id",
+        "requestedAt": "2026-08-24T21:15:57Z"
+      },
+      {
+        "number": 452,
+        "title": "chore: Bump github.com/gorilla/websocket from 1.4.2 to 1.5.3",
+        "url": "https://github.com/celestiaorg/blobstream-contracts/pull/452",
+        "repo": "blobstream-contracts",
+        "author": "dependabot",
+        "authorCategory": "bot",
+        "reviewer": "rach-id",
+        "requestedAt": "2026-08-24T21:13:05Z"
+      }
+    ],
     "renaynay": [
       {
         "number": 7731,
@@ -92,16 +134,6 @@
         "authorCategory": "bot",
         "reviewer": "vgonkivs",
         "requestedAt": "2026-08-24T11:08:06Z"
-      },
-      {
-        "number": 285,
-        "title": "chore(deps): bump github.com/stretchr/testify from 1.12.0 to 1.12.1",
-        "url": "https://github.com/celestiaorg/go-square/pull/285",
-        "repo": "go-square",
-        "author": "dependabot",
-        "authorCategory": "bot",
-        "reviewer": "vgonkivs",
-        "requestedAt": "2026-08-24T19:33:43Z"
       },
       {
         "number": 5165,
@@ -326,5 +358,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-08-24T21:08:36.534Z"
+  "fetchedAt": "2026-08-24T21:21:16.565Z"
 }
