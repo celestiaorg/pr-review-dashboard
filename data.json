@@ -1,7 +1,18 @@
 {
   "reviews": {
     "chatton": [],
-    "pippokr": [],
+    "pippokr": [
+      {
+        "number": 3267,
+        "title": "fix(light): stop witness comparison after divergence checks (backport #3043)",
+        "url": "https://github.com/celestiaorg/celestia-core/pull/3267",
+        "repo": "celestia-core",
+        "author": "rootulp",
+        "authorCategory": "coworker",
+        "reviewer": "pippokr",
+        "requestedAt": "2026-08-25T20:54:58Z"
+      }
+    ],
     "tty47": [],
     "mcrakhman": [],
     "ninabarbakadze": [],
@@ -15,6 +26,56 @@
         "authorCategory": "coworker",
         "reviewer": "rach-id",
         "requestedAt": "2026-08-25T20:19:43Z"
+      },
+      {
+        "number": 3263,
+        "title": "fix(consensus): backport double-sign check off-by-one and statsMsgQueue stall (backport #3207)",
+        "url": "https://github.com/celestiaorg/celestia-core/pull/3263",
+        "repo": "celestia-core",
+        "author": "rootulp",
+        "authorCategory": "coworker",
+        "reviewer": "rach-id",
+        "requestedAt": "2026-08-25T20:51:11Z"
+      },
+      {
+        "number": 3264,
+        "title": "fix(blocksync): prevent maxPeerHeight poisoning and IsCaughtUp with pruned-ahead peers (backport #3038, #3058)",
+        "url": "https://github.com/celestiaorg/celestia-core/pull/3264",
+        "repo": "celestia-core",
+        "author": "rootulp",
+        "authorCategory": "coworker",
+        "reviewer": "rach-id",
+        "requestedAt": "2026-08-25T20:52:23Z"
+      },
+      {
+        "number": 3265,
+        "title": "fix(rpc/grpc): non-blocking height broadcast, Stop deadlock, and subscription race (backport #3002, #3004, #3007)",
+        "url": "https://github.com/celestiaorg/celestia-core/pull/3265",
+        "repo": "celestia-core",
+        "author": "rootulp",
+        "authorCategory": "coworker",
+        "reviewer": "rach-id",
+        "requestedAt": "2026-08-25T20:53:19Z"
+      },
+      {
+        "number": 3266,
+        "title": "fix(propagation): guard GetProposal against nil compact block (backport #3060)",
+        "url": "https://github.com/celestiaorg/celestia-core/pull/3266",
+        "repo": "celestia-core",
+        "author": "rootulp",
+        "authorCategory": "coworker",
+        "reviewer": "rach-id",
+        "requestedAt": "2026-08-25T20:53:41Z"
+      },
+      {
+        "number": 3268,
+        "title": "fix(abci): prevent panic on unlock in socket server panic recovery (backport #3040)",
+        "url": "https://github.com/celestiaorg/celestia-core/pull/3268",
+        "repo": "celestia-core",
+        "author": "rootulp",
+        "authorCategory": "coworker",
+        "reviewer": "rach-id",
+        "requestedAt": "2026-08-25T20:55:30Z"
       }
     ],
     "renaynay": [
@@ -304,5 +365,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-08-25T20:42:53.103Z"
+  "fetchedAt": "2026-08-25T20:56:07.413Z"
 }
