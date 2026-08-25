@@ -26,7 +26,18 @@
         "requestedAt": "2026-08-24T09:37:23Z"
       }
     ],
-    "ninabarbakadze": [],
+    "ninabarbakadze": [
+      {
+        "number": 754,
+        "title": "ci: add mergify config to backport PRs via labels",
+        "url": "https://github.com/celestiaorg/cosmos-sdk/pull/754",
+        "repo": "cosmos-sdk",
+        "author": "rootulp",
+        "authorCategory": "coworker",
+        "reviewer": "ninabarbakadze",
+        "requestedAt": "2026-08-25T18:19:42Z"
+      }
+    ],
     "rach-id": [
       {
         "number": 7726,
@@ -326,5 +337,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-08-25T18:15:54.476Z"
+  "fetchedAt": "2026-08-25T18:32:02.351Z"
 }
