@@ -105,16 +105,6 @@
     ],
     "vgonkivs": [
       {
-        "number": 7739,
-        "title": "fix: decide PFF signature verification by exec mode, not sig cache",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7739",
-        "repo": "celestia-app",
-        "author": "rach-id",
-        "authorCategory": "coworker",
-        "reviewer": "vgonkivs",
-        "requestedAt": "2026-08-25T09:22:02Z"
-      },
-      {
         "number": 5198,
         "title": "chore(deps): bump the go-deps group across 2 directories with 4 updates",
         "url": "https://github.com/celestiaorg/celestia-node/pull/5198",
@@ -347,5 +337,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-08-25T10:11:37.651Z"
+  "fetchedAt": "2026-08-25T10:25:36.540Z"
 }
