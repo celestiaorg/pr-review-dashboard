@@ -26,28 +26,7 @@
         "requestedAt": "2026-08-25T19:07:23Z"
       }
     ],
-    "rach-id": [
-      {
-        "number": 7741,
-        "title": "chore(deps): bump celestiaorg/cosmos-sdk to v0.52.11",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7741",
-        "repo": "celestia-app",
-        "author": "rootulp",
-        "authorCategory": "coworker",
-        "reviewer": "rach-id",
-        "requestedAt": "2026-08-25T19:01:47Z"
-      },
-      {
-        "number": 3259,
-        "title": "chore: bump Go to 1.26.6 to clear govulncheck stdlib findings (backport #3239)",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3259",
-        "repo": "celestia-core",
-        "author": "rootulp",
-        "authorCategory": "coworker",
-        "reviewer": "rach-id",
-        "requestedAt": "2026-08-25T19:07:23Z"
-      }
-    ],
+    "rach-id": [],
     "renaynay": [
       {
         "number": 7731,
@@ -58,6 +37,16 @@
         "authorCategory": "coworker",
         "reviewer": "renaynay",
         "requestedAt": "2026-08-24T11:05:09Z"
+      },
+      {
+        "number": 3262,
+        "title": "fix(p2p): render peer identity in JSON log fields",
+        "url": "https://github.com/celestiaorg/celestia-core/pull/3262",
+        "repo": "celestia-core",
+        "author": "rootulp",
+        "authorCategory": "coworker",
+        "reviewer": "renaynay",
+        "requestedAt": "2026-08-25T19:12:59Z"
       },
       {
         "number": 5132,
@@ -335,5 +324,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-08-25T19:09:22.084Z"
+  "fetchedAt": "2026-08-25T19:23:02.326Z"
 }
