@@ -4,28 +4,7 @@
     "pippokr": [],
     "tty47": [],
     "mcrakhman": [],
-    "ninabarbakadze": [
-      {
-        "number": 7741,
-        "title": "chore(deps): bump celestiaorg/cosmos-sdk to v0.52.11",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7741",
-        "repo": "celestia-app",
-        "author": "rootulp",
-        "authorCategory": "coworker",
-        "reviewer": "ninabarbakadze",
-        "requestedAt": "2026-08-25T19:01:47Z"
-      },
-      {
-        "number": 3259,
-        "title": "chore: bump Go to 1.26.6 to clear govulncheck stdlib findings (backport #3239)",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3259",
-        "repo": "celestia-core",
-        "author": "rootulp",
-        "authorCategory": "coworker",
-        "reviewer": "ninabarbakadze",
-        "requestedAt": "2026-08-25T19:07:23Z"
-      }
-    ],
+    "ninabarbakadze": [],
     "rach-id": [],
     "renaynay": [
       {
@@ -324,5 +303,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-08-25T19:23:02.326Z"
+  "fetchedAt": "2026-08-25T19:39:00.691Z"
 }
