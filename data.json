@@ -111,16 +111,6 @@
         "requestedAt": "2026-08-24T23:37:52Z"
       },
       {
-        "number": 452,
-        "title": "chore: Bump github.com/gorilla/websocket from 1.4.2 to 1.5.3",
-        "url": "https://github.com/celestiaorg/blobstream-contracts/pull/452",
-        "repo": "blobstream-contracts",
-        "author": "dependabot",
-        "authorCategory": "bot",
-        "reviewer": "rach-id",
-        "requestedAt": "2026-08-24T21:13:05Z"
-      },
-      {
         "number": 453,
         "title": "chore: Bump github/codeql-action from 4.37.7 to 4.37.8",
         "url": "https://github.com/celestiaorg/blobstream-contracts/pull/453",
@@ -408,5 +398,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-08-25T05:30:41.044Z"
+  "fetchedAt": "2026-08-25T05:46:13.687Z"
 }
