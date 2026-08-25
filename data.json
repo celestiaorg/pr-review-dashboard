@@ -79,16 +79,6 @@
     ],
     "renaynay": [
       {
-        "number": 7731,
-        "title": "fix: use p99 instead of max for Corto load block-time assertion",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7731",
-        "repo": "celestia-app",
-        "author": "rach-id",
-        "authorCategory": "coworker",
-        "reviewer": "renaynay",
-        "requestedAt": "2026-08-24T11:05:09Z"
-      },
-      {
         "number": 5132,
         "title": "node: Add JWT auth token revocation",
         "url": "https://github.com/celestiaorg/celestia-node/pull/5132",
@@ -364,5 +354,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-08-25T23:12:33.795Z"
+  "fetchedAt": "2026-08-25T23:25:38.876Z"
 }
