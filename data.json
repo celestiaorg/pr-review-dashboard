@@ -28,16 +28,6 @@
     ],
     "ninabarbakadze": [
       {
-        "number": 7734,
-        "title": "fix!: reject transaction fees denominated in non-utia denoms",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7734",
-        "repo": "celestia-app",
-        "author": "rootulp",
-        "authorCategory": "coworker",
-        "reviewer": "ninabarbakadze",
-        "requestedAt": "2026-08-24T21:13:05Z"
-      },
-      {
         "number": 7735,
         "title": "fix(zkism)!: require compressed curve points in Groth16 vkey validation",
         "url": "https://github.com/celestiaorg/celestia-app/pull/7735",
@@ -326,5 +316,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-08-25T14:38:35.382Z"
+  "fetchedAt": "2026-08-25T14:59:58.279Z"
 }
