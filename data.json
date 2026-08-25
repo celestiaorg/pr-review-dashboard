@@ -83,6 +83,16 @@
     "rootulp": [],
     "vgonkivs": [
       {
+        "number": 5158,
+        "title": "perf(share/shwap/p2p/shrex/peers): Add EWMA to peer manager",
+        "url": "https://github.com/celestiaorg/celestia-node/pull/5158",
+        "repo": "celestia-node",
+        "author": "renaynay",
+        "authorCategory": "coworker",
+        "reviewer": "vgonkivs",
+        "requestedAt": "2026-08-25T16:52:49Z"
+      },
+      {
         "number": 5198,
         "title": "chore(deps): bump the go-deps group across 2 directories with 4 updates",
         "url": "https://github.com/celestiaorg/celestia-node/pull/5198",
@@ -325,5 +335,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-08-25T16:52:04.250Z"
+  "fetchedAt": "2026-08-25T17:07:44.476Z"
 }
