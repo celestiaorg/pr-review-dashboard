@@ -38,17 +38,28 @@
         "requestedAt": "2026-08-24T21:13:05Z"
       },
       {
-        "number": 752,
-        "title": "fix!: guard cumulative reward ratio overflow in IncrementValidatorPeriod",
-        "url": "https://github.com/celestiaorg/cosmos-sdk/pull/752",
-        "repo": "cosmos-sdk",
+        "number": 7735,
+        "title": "fix(zkism)!: require compressed curve points in Groth16 vkey validation",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/7735",
+        "repo": "celestia-app",
         "author": "rootulp",
         "authorCategory": "coworker",
         "reviewer": "ninabarbakadze",
-        "requestedAt": "2026-08-24T23:37:52Z"
+        "requestedAt": "2026-08-25T13:25:44Z"
       }
     ],
-    "rach-id": [],
+    "rach-id": [
+      {
+        "number": 7735,
+        "title": "fix(zkism)!: require compressed curve points in Groth16 vkey validation",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/7735",
+        "repo": "celestia-app",
+        "author": "rootulp",
+        "authorCategory": "coworker",
+        "reviewer": "rach-id",
+        "requestedAt": "2026-08-25T13:25:44Z"
+      }
+    ],
     "renaynay": [
       {
         "number": 7731,
@@ -91,18 +102,7 @@
         "requestedAt": "2026-08-25T12:31:13Z"
       }
     ],
-    "rootulp": [
-      {
-        "number": 3257,
-        "title": "fix(light): bind ConsensusParams response to requested height (backport #3256)",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3257",
-        "repo": "celestia-core",
-        "author": "mergify",
-        "authorCategory": "bot",
-        "reviewer": "rootulp",
-        "requestedAt": "2026-08-25T05:54:37Z"
-      }
-    ],
+    "rootulp": [],
     "vgonkivs": [
       {
         "number": 5198,
@@ -337,5 +337,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-08-25T13:17:38.174Z"
+  "fetchedAt": "2026-08-25T13:37:19.280Z"
 }
