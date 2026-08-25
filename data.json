@@ -293,16 +293,6 @@
         "authorCategory": "external",
         "reviewer": "vgonkivs",
         "requestedAt": "2026-08-21T15:06:36Z"
-      },
-      {
-        "number": 5194,
-        "title": "test(share): cover RowsWithNamespace boundaries",
-        "url": "https://github.com/celestiaorg/celestia-node/pull/5194",
-        "repo": "celestia-node",
-        "author": "loglapa",
-        "authorCategory": "external",
-        "reviewer": "vgonkivs",
-        "requestedAt": "2026-08-22T12:00:06Z"
       }
     ]
   },
@@ -357,5 +347,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-08-25T09:42:21.839Z"
+  "fetchedAt": "2026-08-25T09:57:51.416Z"
 }
