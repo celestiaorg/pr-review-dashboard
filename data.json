@@ -5,7 +5,18 @@
     "tty47": [],
     "mcrakhman": [],
     "ninabarbakadze": [],
-    "rach-id": [],
+    "rach-id": [
+      {
+        "number": 3262,
+        "title": "fix(p2p): render peer identity in JSON log fields",
+        "url": "https://github.com/celestiaorg/celestia-core/pull/3262",
+        "repo": "celestia-core",
+        "author": "rootulp",
+        "authorCategory": "coworker",
+        "reviewer": "rach-id",
+        "requestedAt": "2026-08-25T20:19:43Z"
+      }
+    ],
     "renaynay": [
       {
         "number": 7731,
@@ -16,16 +27,6 @@
         "authorCategory": "coworker",
         "reviewer": "renaynay",
         "requestedAt": "2026-08-24T11:05:09Z"
-      },
-      {
-        "number": 3262,
-        "title": "fix(p2p): render peer identity in JSON log fields",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3262",
-        "repo": "celestia-core",
-        "author": "rootulp",
-        "authorCategory": "coworker",
-        "reviewer": "renaynay",
-        "requestedAt": "2026-08-25T19:12:59Z"
       },
       {
         "number": 5132,
@@ -303,5 +304,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-08-25T20:13:27.938Z"
+  "fetchedAt": "2026-08-25T20:27:25.673Z"
 }
