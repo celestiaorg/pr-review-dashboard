@@ -12,6 +12,7 @@ module.exports = {
     "go-header",
     "go-libp2p-messenger",
     "go-square",
+    "infrastructure",
     "lumina",
     "nmt",
     "rsmt2d",
