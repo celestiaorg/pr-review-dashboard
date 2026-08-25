@@ -1,18 +1,7 @@
 {
   "reviews": {
     "chatton": [],
-    "pippokr": [
-      {
-        "number": 3267,
-        "title": "fix(light): stop witness comparison after divergence checks (backport #3043)",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3267",
-        "repo": "celestia-core",
-        "author": "rootulp",
-        "authorCategory": "coworker",
-        "reviewer": "pippokr",
-        "requestedAt": "2026-08-25T20:54:58Z"
-      }
-    ],
+    "pippokr": [],
     "tty47": [],
     "mcrakhman": [],
     "ninabarbakadze": [],
@@ -76,6 +65,16 @@
         "authorCategory": "coworker",
         "reviewer": "rach-id",
         "requestedAt": "2026-08-25T20:55:30Z"
+      },
+      {
+        "number": 3267,
+        "title": "fix(light): stop witness comparison after divergence checks (backport #3043)",
+        "url": "https://github.com/celestiaorg/celestia-core/pull/3267",
+        "repo": "celestia-core",
+        "author": "rootulp",
+        "authorCategory": "coworker",
+        "reviewer": "rach-id",
+        "requestedAt": "2026-08-25T22:20:13Z"
       }
     ],
     "renaynay": [
@@ -365,5 +364,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-08-25T22:09:10.948Z"
+  "fetchedAt": "2026-08-25T22:21:45.156Z"
 }
