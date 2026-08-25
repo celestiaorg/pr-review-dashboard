@@ -1,17 +1,6 @@
 {
   "reviews": {
-    "chatton": [
-      {
-        "number": 3256,
-        "title": "fix(light): bind ConsensusParams response to requested height",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3256",
-        "repo": "celestia-core",
-        "author": "rootulp",
-        "authorCategory": "coworker",
-        "reviewer": "chatton",
-        "requestedAt": "2026-08-24T21:08:28Z"
-      }
-    ],
+    "chatton": [],
     "pippokr": [],
     "tty47": [
       {
@@ -49,26 +38,6 @@
         "requestedAt": "2026-08-24T21:13:05Z"
       },
       {
-        "number": 3256,
-        "title": "fix(light): bind ConsensusParams response to requested height",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3256",
-        "repo": "celestia-core",
-        "author": "rootulp",
-        "authorCategory": "coworker",
-        "reviewer": "ninabarbakadze",
-        "requestedAt": "2026-08-24T21:15:57Z"
-      },
-      {
-        "number": 753,
-        "title": "fix(store): reject negative IAVL version in snapshot Restore",
-        "url": "https://github.com/celestiaorg/cosmos-sdk/pull/753",
-        "repo": "cosmos-sdk",
-        "author": "rootulp",
-        "authorCategory": "coworker",
-        "reviewer": "ninabarbakadze",
-        "requestedAt": "2026-08-24T23:28:32Z"
-      },
-      {
         "number": 752,
         "title": "fix!: guard cumulative reward ratio overflow in IncrementValidatorPeriod",
         "url": "https://github.com/celestiaorg/cosmos-sdk/pull/752",
@@ -79,48 +48,7 @@
         "requestedAt": "2026-08-24T23:37:52Z"
       }
     ],
-    "rach-id": [
-      {
-        "number": 3256,
-        "title": "fix(light): bind ConsensusParams response to requested height",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3256",
-        "repo": "celestia-core",
-        "author": "rootulp",
-        "authorCategory": "coworker",
-        "reviewer": "rach-id",
-        "requestedAt": "2026-08-24T21:15:57Z"
-      },
-      {
-        "number": 753,
-        "title": "fix(store): reject negative IAVL version in snapshot Restore",
-        "url": "https://github.com/celestiaorg/cosmos-sdk/pull/753",
-        "repo": "cosmos-sdk",
-        "author": "rootulp",
-        "authorCategory": "coworker",
-        "reviewer": "rach-id",
-        "requestedAt": "2026-08-24T23:28:32Z"
-      },
-      {
-        "number": 752,
-        "title": "fix!: guard cumulative reward ratio overflow in IncrementValidatorPeriod",
-        "url": "https://github.com/celestiaorg/cosmos-sdk/pull/752",
-        "repo": "cosmos-sdk",
-        "author": "rootulp",
-        "authorCategory": "coworker",
-        "reviewer": "rach-id",
-        "requestedAt": "2026-08-24T23:37:52Z"
-      },
-      {
-        "number": 453,
-        "title": "chore: Bump github/codeql-action from 4.37.7 to 4.37.8",
-        "url": "https://github.com/celestiaorg/blobstream-contracts/pull/453",
-        "repo": "blobstream-contracts",
-        "author": "dependabot",
-        "authorCategory": "bot",
-        "reviewer": "rach-id",
-        "requestedAt": "2026-08-24T23:53:53Z"
-      }
-    ],
+    "rach-id": [],
     "renaynay": [
       {
         "number": 7731,
@@ -153,7 +81,18 @@
         "requestedAt": "2026-08-22T11:59:58Z"
       }
     ],
-    "rootulp": [],
+    "rootulp": [
+      {
+        "number": 3257,
+        "title": "fix(light): bind ConsensusParams response to requested height (backport #3256)",
+        "url": "https://github.com/celestiaorg/celestia-core/pull/3257",
+        "repo": "celestia-core",
+        "author": "mergify",
+        "authorCategory": "bot",
+        "reviewer": "rootulp",
+        "requestedAt": "2026-08-25T05:54:37Z"
+      }
+    ],
     "vgonkivs": [
       {
         "number": 5198,
@@ -398,5 +337,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-08-25T05:46:13.687Z"
+  "fetchedAt": "2026-08-25T05:59:51.276Z"
 }
