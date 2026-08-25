@@ -27,7 +27,18 @@
       }
     ],
     "ninabarbakadze": [],
-    "rach-id": [],
+    "rach-id": [
+      {
+        "number": 7726,
+        "title": "fix: bound PFF signature verification cache",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/7726",
+        "repo": "celestia-app",
+        "author": "ninabarbakadze",
+        "authorCategory": "coworker",
+        "reviewer": "rach-id",
+        "requestedAt": "2026-08-25T17:54:22Z"
+      }
+    ],
     "renaynay": [
       {
         "number": 7731,
@@ -315,5 +326,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-08-25T17:50:57.540Z"
+  "fetchedAt": "2026-08-25T18:02:16.817Z"
 }
