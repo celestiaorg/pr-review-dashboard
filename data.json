@@ -26,18 +26,7 @@
         "requestedAt": "2026-08-24T09:37:23Z"
       }
     ],
-    "ninabarbakadze": [
-      {
-        "number": 7735,
-        "title": "fix(zkism)!: require compressed curve points in Groth16 vkey validation",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7735",
-        "repo": "celestia-app",
-        "author": "rootulp",
-        "authorCategory": "coworker",
-        "reviewer": "ninabarbakadze",
-        "requestedAt": "2026-08-25T13:25:44Z"
-      }
-    ],
+    "ninabarbakadze": [],
     "rach-id": [],
     "renaynay": [
       {
@@ -316,5 +305,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-08-25T14:59:58.279Z"
+  "fetchedAt": "2026-08-25T15:21:47.492Z"
 }
