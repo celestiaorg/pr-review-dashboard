@@ -40,16 +40,6 @@
         "requestedAt": "2026-08-24T11:05:09Z"
       },
       {
-        "number": 5201,
-        "title": "specs: restore github-pages deploy by removing deprecated mdBook config key",
-        "url": "https://github.com/celestiaorg/celestia-node/pull/5201",
-        "repo": "celestia-node",
-        "author": "copilot-swe-agent",
-        "authorCategory": "bot",
-        "reviewer": "renaynay",
-        "requestedAt": "2026-08-25T16:44:09Z"
-      },
-      {
         "number": 5132,
         "title": "node: Add JWT auth token revocation",
         "url": "https://github.com/celestiaorg/celestia-node/pull/5132",
@@ -111,16 +101,6 @@
         "authorCategory": "bot",
         "reviewer": "vgonkivs",
         "requestedAt": "2026-08-24T11:08:06Z"
-      },
-      {
-        "number": 5201,
-        "title": "specs: restore github-pages deploy by removing deprecated mdBook config key",
-        "url": "https://github.com/celestiaorg/celestia-node/pull/5201",
-        "repo": "celestia-node",
-        "author": "copilot-swe-agent",
-        "authorCategory": "bot",
-        "reviewer": "vgonkivs",
-        "requestedAt": "2026-08-25T16:38:20Z"
       },
       {
         "number": 5165,
@@ -335,5 +315,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-08-25T17:37:37.238Z"
+  "fetchedAt": "2026-08-25T17:50:57.540Z"
 }
