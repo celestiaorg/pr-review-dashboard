@@ -79,6 +79,16 @@
         "authorCategory": "external",
         "reviewer": "renaynay",
         "requestedAt": "2026-08-22T11:59:58Z"
+      },
+      {
+        "number": 5191,
+        "title": "fix(pruner): handle out-of-order header deletion callbacks",
+        "url": "https://github.com/celestiaorg/celestia-node/pull/5191",
+        "repo": "celestia-node",
+        "author": "neyy91",
+        "authorCategory": "external",
+        "reviewer": "renaynay",
+        "requestedAt": "2026-08-25T12:31:13Z"
       }
     ],
     "rootulp": [
@@ -327,5 +337,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-08-25T12:15:32.605Z"
+  "fetchedAt": "2026-08-25T12:32:00.052Z"
 }
