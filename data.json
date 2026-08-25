@@ -46,16 +46,6 @@
         "authorCategory": "coworker",
         "reviewer": "ninabarbakadze",
         "requestedAt": "2026-08-24T23:37:52Z"
-      },
-      {
-        "number": 7739,
-        "title": "fix: decide PFF signature verification by exec mode, not sig cache",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7739",
-        "repo": "celestia-app",
-        "author": "rach-id",
-        "authorCategory": "coworker",
-        "reviewer": "ninabarbakadze",
-        "requestedAt": "2026-08-25T09:18:18Z"
       }
     ],
     "rach-id": [],
@@ -337,5 +327,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-08-25T11:37:29.533Z"
+  "fetchedAt": "2026-08-25T11:50:33.019Z"
 }
