@@ -79,6 +79,16 @@
     ],
     "renaynay": [
       {
+        "number": 7742,
+        "title": "fix(fibre): handle Store.Size cancellation consistently",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/7742",
+        "repo": "celestia-app",
+        "author": "rootulp",
+        "authorCategory": "coworker",
+        "reviewer": "renaynay",
+        "requestedAt": "2026-08-26T00:04:28Z"
+      },
+      {
         "number": 5132,
         "title": "node: Add JWT auth token revocation",
         "url": "https://github.com/celestiaorg/celestia-node/pull/5132",
@@ -354,5 +364,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-08-25T23:58:47.805Z"
+  "fetchedAt": "2026-08-26T00:23:03.434Z"
 }
