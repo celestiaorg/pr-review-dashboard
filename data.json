@@ -28,18 +28,7 @@
         "requestedAt": "2026-08-25T12:31:13Z"
       }
     ],
-    "rootulp": [
-      {
-        "number": 7695,
-        "title": "docs: add AI code generation invariants and workflow",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7695",
-        "repo": "celestia-app",
-        "author": "rach-id",
-        "authorCategory": "coworker",
-        "reviewer": "rootulp",
-        "requestedAt": "2026-08-26T15:27:29Z"
-      }
-    ],
+    "rootulp": [],
     "vgonkivs": [
       {
         "number": 5206,
@@ -284,5 +273,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-08-26T18:44:47.070Z"
+  "fetchedAt": "2026-08-26T19:25:48.699Z"
 }
