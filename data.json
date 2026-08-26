@@ -5,7 +5,18 @@
     "tty47": [],
     "mcrakhman": [],
     "ninabarbakadze": [],
-    "rach-id": [],
+    "rach-id": [
+      {
+        "number": 5204,
+        "title": "feat!(p2p): switch Mocha network to mocha-5",
+        "url": "https://github.com/celestiaorg/celestia-node/pull/5204",
+        "repo": "celestia-node",
+        "author": "vgonkivs",
+        "authorCategory": "coworker",
+        "reviewer": "rach-id",
+        "requestedAt": "2026-08-26T11:05:26Z"
+      }
+    ],
     "renaynay": [
       {
         "number": 7742,
@@ -304,5 +315,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-08-26T11:01:02.002Z"
+  "fetchedAt": "2026-08-26T11:13:56.722Z"
 }
