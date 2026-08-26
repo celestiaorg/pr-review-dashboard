@@ -4,18 +4,7 @@
     "pippokr": [],
     "tty47": [],
     "mcrakhman": [],
-    "ninabarbakadze": [
-      {
-        "number": 7695,
-        "title": "docs: add AI code generation invariants and workflow",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7695",
-        "repo": "celestia-app",
-        "author": "rach-id",
-        "authorCategory": "coworker",
-        "reviewer": "ninabarbakadze",
-        "requestedAt": "2026-08-17T09:32:45Z"
-      }
-    ],
+    "ninabarbakadze": [],
     "rach-id": [],
     "renaynay": [
       {
@@ -315,5 +304,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-08-26T08:19:48.831Z"
+  "fetchedAt": "2026-08-26T08:37:40.089Z"
 }
