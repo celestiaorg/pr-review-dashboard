@@ -72,16 +72,6 @@
         "requestedAt": "2026-08-25T16:52:49Z"
       },
       {
-        "number": 5203,
-        "title": "feat: adding json or text format options for version command",
-        "url": "https://github.com/celestiaorg/celestia-node/pull/5203",
-        "repo": "celestia-node",
-        "author": "chatton",
-        "authorCategory": "coworker",
-        "reviewer": "vgonkivs",
-        "requestedAt": "2026-08-26T09:40:21Z"
-      },
-      {
         "number": 5198,
         "title": "chore(deps): bump the go-deps group across 2 directories with 4 updates",
         "url": "https://github.com/celestiaorg/celestia-node/pull/5198",
@@ -314,5 +304,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-08-26T10:45:46.160Z"
+  "fetchedAt": "2026-08-26T11:01:02.002Z"
 }
