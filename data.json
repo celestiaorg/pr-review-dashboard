@@ -1,17 +1,6 @@
 {
   "reviews": {
-    "chatton": [
-      {
-        "number": 5205,
-        "title": "feat!(p2p): switch Mocha network to mocha-5 (#5204)",
-        "url": "https://github.com/celestiaorg/celestia-node/pull/5205",
-        "repo": "celestia-node",
-        "author": "vgonkivs",
-        "authorCategory": "coworker",
-        "reviewer": "chatton",
-        "requestedAt": "2026-08-26T13:51:33Z"
-      }
-    ],
+    "chatton": [],
     "pippokr": [],
     "tty47": [],
     "mcrakhman": [],
@@ -305,5 +294,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-08-26T14:38:19.338Z"
+  "fetchedAt": "2026-08-26T14:59:35.859Z"
 }
