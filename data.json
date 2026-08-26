@@ -5,28 +5,7 @@
     "tty47": [],
     "mcrakhman": [],
     "ninabarbakadze": [],
-    "rach-id": [
-      {
-        "number": 7743,
-        "title": "fix: apply fibre state transitions in proposal before pay-for-fibre  settlement",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7743",
-        "repo": "celestia-app",
-        "author": "vgonkivs",
-        "authorCategory": "coworker",
-        "reviewer": "rach-id",
-        "requestedAt": "2026-08-26T13:13:04Z"
-      },
-      {
-        "number": 7726,
-        "title": "fix: bound PFF signature verification cache",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7726",
-        "repo": "celestia-app",
-        "author": "ninabarbakadze",
-        "authorCategory": "coworker",
-        "reviewer": "rach-id",
-        "requestedAt": "2026-08-26T17:57:37Z"
-      }
-    ],
+    "rach-id": [],
     "renaynay": [
       {
         "number": 410,
@@ -305,5 +284,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-08-26T18:01:52.969Z"
+  "fetchedAt": "2026-08-26T18:44:47.070Z"
 }
