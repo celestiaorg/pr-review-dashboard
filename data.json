@@ -4,18 +4,7 @@
     "pippokr": [],
     "tty47": [],
     "mcrakhman": [],
-    "ninabarbakadze": [
-      {
-        "number": 7695,
-        "title": "docs: add AI code generation invariants and workflow",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7695",
-        "repo": "celestia-app",
-        "author": "rach-id",
-        "authorCategory": "coworker",
-        "reviewer": "ninabarbakadze",
-        "requestedAt": "2026-08-26T15:31:47Z"
-      }
-    ],
+    "ninabarbakadze": [],
     "rach-id": [
       {
         "number": 7743,
@@ -26,6 +15,16 @@
         "authorCategory": "coworker",
         "reviewer": "rach-id",
         "requestedAt": "2026-08-26T13:13:04Z"
+      },
+      {
+        "number": 7726,
+        "title": "fix: bound PFF signature verification cache",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/7726",
+        "repo": "celestia-app",
+        "author": "ninabarbakadze",
+        "authorCategory": "coworker",
+        "reviewer": "rach-id",
+        "requestedAt": "2026-08-26T17:57:37Z"
       }
     ],
     "renaynay": [
@@ -306,5 +305,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-08-26T16:59:25.623Z"
+  "fetchedAt": "2026-08-26T18:01:52.969Z"
 }
