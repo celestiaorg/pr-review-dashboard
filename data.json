@@ -30,16 +30,6 @@
     ],
     "renaynay": [
       {
-        "number": 7742,
-        "title": "fix(fibre): handle Store.Size cancellation consistently",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7742",
-        "repo": "celestia-app",
-        "author": "rootulp",
-        "authorCategory": "coworker",
-        "reviewer": "renaynay",
-        "requestedAt": "2026-08-26T00:04:28Z"
-      },
-      {
         "number": 410,
         "title": "feat(store): expose cache hit ratio metric",
         "url": "https://github.com/celestiaorg/go-header/pull/410",
@@ -316,5 +306,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-08-26T16:39:51.417Z"
+  "fetchedAt": "2026-08-26T16:59:25.623Z"
 }
