@@ -40,16 +40,6 @@
         "requestedAt": "2026-08-26T00:04:28Z"
       },
       {
-        "number": 5132,
-        "title": "node: Add JWT auth token revocation",
-        "url": "https://github.com/celestiaorg/celestia-node/pull/5132",
-        "repo": "celestia-node",
-        "author": "mohsenm4",
-        "authorCategory": "external",
-        "reviewer": "renaynay",
-        "requestedAt": "2026-08-17T11:12:58Z"
-      },
-      {
         "number": 410,
         "title": "feat(store): expose cache hit ratio metric",
         "url": "https://github.com/celestiaorg/go-header/pull/410",
@@ -326,5 +316,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-08-26T16:20:11.307Z"
+  "fetchedAt": "2026-08-26T16:39:51.417Z"
 }
