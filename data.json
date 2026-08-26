@@ -4,79 +4,19 @@
     "pippokr": [],
     "tty47": [],
     "mcrakhman": [],
-    "ninabarbakadze": [],
-    "rach-id": [
+    "ninabarbakadze": [
       {
-        "number": 3262,
-        "title": "fix(p2p): render peer identity in JSON log fields",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3262",
-        "repo": "celestia-core",
-        "author": "rootulp",
+        "number": 7695,
+        "title": "docs: add AI code generation invariants and workflow",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/7695",
+        "repo": "celestia-app",
+        "author": "rach-id",
         "authorCategory": "coworker",
-        "reviewer": "rach-id",
-        "requestedAt": "2026-08-25T20:19:43Z"
-      },
-      {
-        "number": 3263,
-        "title": "fix(consensus): backport double-sign check off-by-one and statsMsgQueue stall (backport #3207)",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3263",
-        "repo": "celestia-core",
-        "author": "rootulp",
-        "authorCategory": "coworker",
-        "reviewer": "rach-id",
-        "requestedAt": "2026-08-25T20:51:11Z"
-      },
-      {
-        "number": 3264,
-        "title": "fix(blocksync): prevent maxPeerHeight poisoning and IsCaughtUp with pruned-ahead peers (backport #3038, #3058)",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3264",
-        "repo": "celestia-core",
-        "author": "rootulp",
-        "authorCategory": "coworker",
-        "reviewer": "rach-id",
-        "requestedAt": "2026-08-25T20:52:23Z"
-      },
-      {
-        "number": 3265,
-        "title": "fix(rpc/grpc): non-blocking height broadcast, Stop deadlock, and subscription race (backport #3002, #3004, #3007)",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3265",
-        "repo": "celestia-core",
-        "author": "rootulp",
-        "authorCategory": "coworker",
-        "reviewer": "rach-id",
-        "requestedAt": "2026-08-25T20:53:19Z"
-      },
-      {
-        "number": 3266,
-        "title": "fix(propagation): guard GetProposal against nil compact block (backport #3060)",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3266",
-        "repo": "celestia-core",
-        "author": "rootulp",
-        "authorCategory": "coworker",
-        "reviewer": "rach-id",
-        "requestedAt": "2026-08-25T20:53:41Z"
-      },
-      {
-        "number": 3268,
-        "title": "fix(abci): prevent panic on unlock in socket server panic recovery (backport #3040)",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3268",
-        "repo": "celestia-core",
-        "author": "rootulp",
-        "authorCategory": "coworker",
-        "reviewer": "rach-id",
-        "requestedAt": "2026-08-25T20:55:30Z"
-      },
-      {
-        "number": 3267,
-        "title": "fix(light): stop witness comparison after divergence checks (backport #3043)",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3267",
-        "repo": "celestia-core",
-        "author": "rootulp",
-        "authorCategory": "coworker",
-        "reviewer": "rach-id",
-        "requestedAt": "2026-08-25T22:20:13Z"
+        "reviewer": "ninabarbakadze",
+        "requestedAt": "2026-08-17T09:32:45Z"
       }
     ],
+    "rach-id": [],
     "renaynay": [
       {
         "number": 7742,
@@ -119,7 +59,18 @@
         "requestedAt": "2026-08-25T12:31:13Z"
       }
     ],
-    "rootulp": [],
+    "rootulp": [
+      {
+        "number": 3270,
+        "title": "fix(p2p): render peer identity in JSON log fields (backport #3262)",
+        "url": "https://github.com/celestiaorg/celestia-core/pull/3270",
+        "repo": "celestia-core",
+        "author": "mergify",
+        "authorCategory": "bot",
+        "reviewer": "rootulp",
+        "requestedAt": "2026-08-26T05:16:23Z"
+      }
+    ],
     "vgonkivs": [
       {
         "number": 5158,
@@ -364,5 +315,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-08-26T05:11:18.943Z"
+  "fetchedAt": "2026-08-26T05:25:49.863Z"
 }
