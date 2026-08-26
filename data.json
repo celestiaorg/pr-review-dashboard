@@ -5,7 +5,18 @@
     "tty47": [],
     "mcrakhman": [],
     "ninabarbakadze": [],
-    "rach-id": [],
+    "rach-id": [
+      {
+        "number": 7743,
+        "title": "fix: apply fibre state transitions in proposal before pay-for-fibre  settlement",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/7743",
+        "repo": "celestia-app",
+        "author": "vgonkivs",
+        "authorCategory": "coworker",
+        "reviewer": "rach-id",
+        "requestedAt": "2026-08-26T13:13:04Z"
+      }
+    ],
     "renaynay": [
       {
         "number": 7742,
@@ -48,29 +59,8 @@
         "requestedAt": "2026-08-25T12:31:13Z"
       }
     ],
-    "rootulp": [
-      {
-        "number": 3270,
-        "title": "fix(p2p): render peer identity in JSON log fields (backport #3262)",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3270",
-        "repo": "celestia-core",
-        "author": "mergify",
-        "authorCategory": "bot",
-        "reviewer": "rootulp",
-        "requestedAt": "2026-08-26T05:16:23Z"
-      }
-    ],
+    "rootulp": [],
     "vgonkivs": [
-      {
-        "number": 5158,
-        "title": "perf(share/shwap/p2p/shrex/peers): Add EWMA to peer manager",
-        "url": "https://github.com/celestiaorg/celestia-node/pull/5158",
-        "repo": "celestia-node",
-        "author": "renaynay",
-        "authorCategory": "coworker",
-        "reviewer": "vgonkivs",
-        "requestedAt": "2026-08-25T16:52:49Z"
-      },
       {
         "number": 5198,
         "title": "chore(deps): bump the go-deps group across 2 directories with 4 updates",
@@ -304,5 +294,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-08-26T13:11:41.354Z"
+  "fetchedAt": "2026-08-26T13:36:25.279Z"
 }
