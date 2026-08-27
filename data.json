@@ -42,16 +42,6 @@
     "rootulp": [],
     "vgonkivs": [
       {
-        "number": 7745,
-        "title": "fix!: count authz MsgExec messages against the block message limit",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7745",
-        "repo": "celestia-app",
-        "author": "rach-id",
-        "authorCategory": "coworker",
-        "reviewer": "vgonkivs",
-        "requestedAt": "2026-08-26T20:41:06Z"
-      },
-      {
         "number": 7750,
         "title": "fix: disable inter-block cache for embedded v3-v8 apps",
         "url": "https://github.com/celestiaorg/celestia-app/pull/7750",
@@ -294,5 +284,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-08-27T13:01:36.414Z"
+  "fetchedAt": "2026-08-27T16:48:16.009Z"
 }
