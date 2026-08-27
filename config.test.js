@@ -13,4 +13,9 @@ describe("teamMembers", () => {
       expect(member.defaultHidden).toBe(false);
     }
   });
+
+  test("members are sorted alphabetically by name", () => {
+    const names = config.teamMembers.map((member) => member.name);
+    expect(names).toEqual([...names].sort());
+  });
 });
