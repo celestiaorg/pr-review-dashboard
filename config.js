@@ -22,12 +22,12 @@ module.exports = {
     { name: "Cian", github: "chatton", defaultHidden: false },
     { name: "Cris", github: "pippokr", defaultHidden: false },
     { name: "Jose", github: "tty47", defaultHidden: false },
-    { name: "Mikhail", github: "mcrakhman", defaultHidden: false },
     { name: "Nina", github: "ninabarbakadze", defaultHidden: false },
     { name: "Rachid", github: "rach-id", defaultHidden: false },
     { name: "Rene", github: "renaynay", defaultHidden: false },
     { name: "Rootul", github: "rootulp", defaultHidden: false },
     { name: "Slava", github: "vgonkivs", defaultHidden: false },
+    { name: "Vlad", github: "walldiss", defaultHidden: false },
   ],
 
   thresholds: {
