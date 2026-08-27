@@ -3,31 +3,9 @@
     "chatton": [],
     "pippokr": [],
     "tty47": [],
-    "mcrakhman": [],
-    "ninabarbakadze": [
-      {
-        "number": 7745,
-        "title": "fix!: count authz MsgExec messages against the block message limit",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7745",
-        "repo": "celestia-app",
-        "author": "rach-id",
-        "authorCategory": "coworker",
-        "reviewer": "ninabarbakadze",
-        "requestedAt": "2026-08-26T20:41:06Z"
-      }
-    ],
+    "ninabarbakadze": [],
     "rach-id": [],
     "renaynay": [
-      {
-        "number": 410,
-        "title": "feat(store): expose cache hit ratio metric",
-        "url": "https://github.com/celestiaorg/go-header/pull/410",
-        "repo": "go-header",
-        "author": "loglapa",
-        "authorCategory": "external",
-        "reviewer": "renaynay",
-        "requestedAt": "2026-08-22T11:59:58Z"
-      },
       {
         "number": 5191,
         "title": "fix(pruner): handle out-of-order header deletion callbacks",
@@ -41,16 +19,6 @@
     ],
     "rootulp": [],
     "vgonkivs": [
-      {
-        "number": 7750,
-        "title": "fix: disable inter-block cache for embedded v3-v8 apps",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7750",
-        "repo": "celestia-app",
-        "author": "rach-id",
-        "authorCategory": "coworker",
-        "reviewer": "vgonkivs",
-        "requestedAt": "2026-08-27T07:49:06Z"
-      },
       {
         "number": 5198,
         "title": "chore(deps): bump the go-deps group across 2 directories with 4 updates",
@@ -231,7 +199,8 @@
         "reviewer": "vgonkivs",
         "requestedAt": "2026-08-21T15:06:36Z"
       }
-    ]
+    ],
+    "walldiss": []
   },
   "teamMembers": [
     {
@@ -247,11 +216,6 @@
     {
       "name": "Jose",
       "github": "tty47",
-      "defaultHidden": false
-    },
-    {
-      "name": "Mikhail",
-      "github": "mcrakhman",
       "defaultHidden": false
     },
     {
@@ -278,11 +242,16 @@
       "name": "Slava",
       "github": "vgonkivs",
       "defaultHidden": false
+    },
+    {
+      "name": "Vlad",
+      "github": "walldiss",
+      "defaultHidden": false
     }
   ],
   "thresholds": {
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-08-27T16:48:16.009Z"
+  "fetchedAt": "2026-08-27T19:19:34.729Z"
 }
