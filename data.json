@@ -18,7 +18,7 @@
     "ninabarbakadze": [
       {
         "number": 7745,
-        "title": "fix: count authz MsgExec messages against the block message limit",
+        "title": "fix!: count authz MsgExec messages against the block message limit",
         "url": "https://github.com/celestiaorg/celestia-app/pull/7745",
         "repo": "celestia-app",
         "author": "rach-id",
@@ -64,7 +64,7 @@
       },
       {
         "number": 7745,
-        "title": "fix: count authz MsgExec messages against the block message limit",
+        "title": "fix!: count authz MsgExec messages against the block message limit",
         "url": "https://github.com/celestiaorg/celestia-app/pull/7745",
         "repo": "celestia-app",
         "author": "rach-id",
@@ -305,5 +305,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-08-27T03:58:30.529Z"
+  "fetchedAt": "2026-08-27T06:15:12.670Z"
 }
