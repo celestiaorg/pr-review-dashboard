@@ -1,7 +1,18 @@
 {
   "reviews": {
     "chatton": [],
-    "pippokr": [],
+    "pippokr": [
+      {
+        "number": 7746,
+        "title": "fix: run PFF stateful checks in checktx",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/7746",
+        "repo": "celestia-app",
+        "author": "ninabarbakadze",
+        "authorCategory": "coworker",
+        "reviewer": "pippokr",
+        "requestedAt": "2026-08-27T00:45:21Z"
+      }
+    ],
     "tty47": [],
     "mcrakhman": [],
     "ninabarbakadze": [
@@ -294,5 +305,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-08-27T00:27:30.590Z"
+  "fetchedAt": "2026-08-27T02:07:12.294Z"
 }
