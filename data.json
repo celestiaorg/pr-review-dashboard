@@ -1,18 +1,7 @@
 {
   "reviews": {
     "chatton": [],
-    "pippokr": [
-      {
-        "number": 7746,
-        "title": "fix: run PFF stateful checks in checktx",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7746",
-        "repo": "celestia-app",
-        "author": "ninabarbakadze",
-        "authorCategory": "coworker",
-        "reviewer": "pippokr",
-        "requestedAt": "2026-08-27T00:45:21Z"
-      }
-    ],
+    "pippokr": [],
     "tty47": [],
     "mcrakhman": [],
     "ninabarbakadze": [
@@ -52,16 +41,6 @@
     ],
     "rootulp": [],
     "vgonkivs": [
-      {
-        "number": 5206,
-        "title": "test(share/shrex): add unit test for oversized EDS response reads",
-        "url": "https://github.com/celestiaorg/celestia-node/pull/5206",
-        "repo": "celestia-node",
-        "author": "renaynay",
-        "authorCategory": "coworker",
-        "reviewer": "vgonkivs",
-        "requestedAt": "2026-08-26T15:22:31Z"
-      },
       {
         "number": 7745,
         "title": "fix!: count authz MsgExec messages against the block message limit",
@@ -315,5 +294,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-08-27T09:27:09.129Z"
+  "fetchedAt": "2026-08-27T13:01:36.414Z"
 }
