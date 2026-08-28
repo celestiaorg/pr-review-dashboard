@@ -14,6 +14,26 @@
         "authorCategory": "coworker",
         "reviewer": "rach-id",
         "requestedAt": "2026-08-27T22:28:24Z"
+      },
+      {
+        "number": 3261,
+        "title": "fix(consensus): validate part set before updating valid block",
+        "url": "https://github.com/celestiaorg/celestia-core/pull/3261",
+        "repo": "celestia-core",
+        "author": "rootulp",
+        "authorCategory": "coworker",
+        "reviewer": "rach-id",
+        "requestedAt": "2026-08-27T23:57:30Z"
+      },
+      {
+        "number": 3260,
+        "title": "fix(consensus): backport committed part-set validation",
+        "url": "https://github.com/celestiaorg/celestia-core/pull/3260",
+        "repo": "celestia-core",
+        "author": "rootulp",
+        "authorCategory": "coworker",
+        "reviewer": "rach-id",
+        "requestedAt": "2026-08-28T00:08:12Z"
       }
     ],
     "renaynay": [
@@ -264,5 +284,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-08-27T23:33:40.969Z"
+  "fetchedAt": "2026-08-28T02:13:56.753Z"
 }
