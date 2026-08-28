@@ -1,7 +1,18 @@
 {
   "reviews": {
     "chatton": [],
-    "pippokr": [],
+    "pippokr": [
+      {
+        "number": 988,
+        "title": "fix(fiber): update rsema1d to match celestia app",
+        "url": "https://github.com/celestiaorg/lumina/pull/988",
+        "repo": "lumina",
+        "author": "citizen-stig",
+        "authorCategory": "coworker",
+        "reviewer": "pippokr",
+        "requestedAt": "2026-08-28T10:05:02Z"
+      }
+    ],
     "tty47": [],
     "ninabarbakadze": [],
     "rach-id": [
@@ -38,6 +49,16 @@
     ],
     "renaynay": [
       {
+        "number": 989,
+        "title": "chore(ci): add retries to devnet",
+        "url": "https://github.com/celestiaorg/lumina/pull/989",
+        "repo": "lumina",
+        "author": "citizen-stig",
+        "authorCategory": "coworker",
+        "reviewer": "renaynay",
+        "requestedAt": "2026-08-28T09:59:28Z"
+      },
+      {
         "number": 5191,
         "title": "fix(pruner): handle out-of-order header deletion callbacks",
         "url": "https://github.com/celestiaorg/celestia-node/pull/5191",
@@ -46,20 +67,20 @@
         "authorCategory": "external",
         "reviewer": "renaynay",
         "requestedAt": "2026-08-25T12:31:13Z"
+      },
+      {
+        "number": 410,
+        "title": "feat(store): expose cache access metric",
+        "url": "https://github.com/celestiaorg/go-header/pull/410",
+        "repo": "go-header",
+        "author": "loglapa",
+        "authorCategory": "external",
+        "reviewer": "renaynay",
+        "requestedAt": "2026-08-28T08:08:50Z"
       }
     ],
     "rootulp": [],
     "vgonkivs": [
-      {
-        "number": 5198,
-        "title": "chore(deps): bump the go-deps group across 2 directories with 4 updates",
-        "url": "https://github.com/celestiaorg/celestia-node/pull/5198",
-        "repo": "celestia-node",
-        "author": "dependabot",
-        "authorCategory": "bot",
-        "reviewer": "vgonkivs",
-        "requestedAt": "2026-08-24T11:07:47Z"
-      },
       {
         "number": 5199,
         "title": "chore(deps): bump github.com/celestiaorg/go-square/v4 from 4.0.0-rc5 to 4.0.0",
@@ -284,5 +305,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-08-28T07:42:07.422Z"
+  "fetchedAt": "2026-08-28T11:30:16.609Z"
 }
