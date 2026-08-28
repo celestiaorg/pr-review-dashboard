@@ -209,6 +209,16 @@
         "authorCategory": "external",
         "reviewer": "vgonkivs",
         "requestedAt": "2026-08-21T15:06:36Z"
+      },
+      {
+        "number": 341,
+        "title": "fix: synchronize root cache initialization",
+        "url": "https://github.com/celestiaorg/nmt/pull/341",
+        "repo": "nmt",
+        "author": "loglapa",
+        "authorCategory": "external",
+        "reviewer": "vgonkivs",
+        "requestedAt": "2026-08-28T19:04:55Z"
       }
     ],
     "walldiss": []
@@ -264,5 +274,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-08-28T15:36:11.677Z"
+  "fetchedAt": "2026-08-28T19:36:17.905Z"
 }
