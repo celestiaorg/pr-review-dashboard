@@ -1,63 +1,22 @@
 {
   "reviews": {
     "chatton": [],
-    "pippokr": [
-      {
-        "number": 988,
-        "title": "fix(fiber): update rsema1d to match celestia app",
-        "url": "https://github.com/celestiaorg/lumina/pull/988",
-        "repo": "lumina",
-        "author": "citizen-stig",
-        "authorCategory": "coworker",
-        "reviewer": "pippokr",
-        "requestedAt": "2026-08-28T10:05:02Z"
-      }
-    ],
+    "pippokr": [],
     "tty47": [],
-    "ninabarbakadze": [],
-    "rach-id": [
+    "ninabarbakadze": [
       {
-        "number": 7754,
-        "title": "fix(fibre): bound UploadShard row and proof counts before decoding",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7754",
+        "number": 7643,
+        "title": "fix(forwarding)!: include custom_hook_id in the canonical derivation path of forwarding address #7640",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/7643",
         "repo": "celestia-app",
-        "author": "ninabarbakadze",
-        "authorCategory": "coworker",
-        "reviewer": "rach-id",
-        "requestedAt": "2026-08-27T22:28:24Z"
-      },
-      {
-        "number": 3261,
-        "title": "fix(consensus): validate part set before updating valid block",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3261",
-        "repo": "celestia-core",
-        "author": "rootulp",
-        "authorCategory": "coworker",
-        "reviewer": "rach-id",
-        "requestedAt": "2026-08-27T23:57:30Z"
-      },
-      {
-        "number": 3260,
-        "title": "fix(consensus): backport committed part-set validation",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3260",
-        "repo": "celestia-core",
-        "author": "rootulp",
-        "authorCategory": "coworker",
-        "reviewer": "rach-id",
-        "requestedAt": "2026-08-28T00:08:12Z"
+        "author": "jonas089",
+        "authorCategory": "external",
+        "reviewer": "ninabarbakadze",
+        "requestedAt": "2026-08-28T11:50:53Z"
       }
     ],
+    "rach-id": [],
     "renaynay": [
-      {
-        "number": 989,
-        "title": "chore(ci): add retries to devnet",
-        "url": "https://github.com/celestiaorg/lumina/pull/989",
-        "repo": "lumina",
-        "author": "citizen-stig",
-        "authorCategory": "coworker",
-        "reviewer": "renaynay",
-        "requestedAt": "2026-08-28T09:59:28Z"
-      },
       {
         "number": 5191,
         "title": "fix(pruner): handle out-of-order header deletion callbacks",
@@ -305,5 +264,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-08-28T11:30:16.609Z"
+  "fetchedAt": "2026-08-28T15:36:11.677Z"
 }
