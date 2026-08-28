@@ -21,7 +21,6 @@ module.exports = {
   teamMembers: [
     { name: "Cian", github: "chatton", defaultHidden: false },
     { name: "Cris", github: "pippokr", defaultHidden: false },
-    { name: "Jose", github: "tty47", defaultHidden: false },
     { name: "Nina", github: "ninabarbakadze", defaultHidden: false },
     { name: "Rachid", github: "rach-id", defaultHidden: false },
     { name: "Rene", github: "renaynay", defaultHidden: false },
