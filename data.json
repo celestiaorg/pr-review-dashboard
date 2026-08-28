@@ -2,7 +2,6 @@
   "reviews": {
     "chatton": [],
     "pippokr": [],
-    "tty47": [],
     "ninabarbakadze": [
       {
         "number": 7643,
@@ -235,11 +234,6 @@
       "defaultHidden": false
     },
     {
-      "name": "Jose",
-      "github": "tty47",
-      "defaultHidden": false
-    },
-    {
       "name": "Nina",
       "github": "ninabarbakadze",
       "defaultHidden": false
@@ -274,5 +268,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-08-28T19:36:17.905Z"
+  "fetchedAt": "2026-08-28T20:47:32.065Z"
 }
