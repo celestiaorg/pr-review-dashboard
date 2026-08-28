@@ -15,38 +15,38 @@
       "month": 0,
       "year": 1
     },
-    "mcrakhman": {
-      "week": 1,
-      "month": 9,
-      "year": 122
-    },
     "ninabarbakadze": {
-      "week": 12,
-      "month": 46,
-      "year": 513
+      "week": 15,
+      "month": 49,
+      "year": 516
     },
     "rach-id": {
-      "week": 27,
-      "month": 112,
-      "year": 748
+      "week": 30,
+      "month": 115,
+      "year": 751
     },
     "renaynay": {
-      "week": 5,
-      "month": 12,
-      "year": 42
+      "week": 6,
+      "month": 13,
+      "year": 43
     },
     "rootulp": {
-      "week": 16,
-      "month": 57,
-      "year": 460
+      "week": 18,
+      "month": 59,
+      "year": 462
     },
     "vgonkivs": {
-      "week": 13,
-      "month": 57,
-      "year": 238
+      "week": 15,
+      "month": 59,
+      "year": 240
+    },
+    "walldiss": {
+      "week": 0,
+      "month": 1,
+      "year": 123
     }
   },
-  "computedAt": "2026-08-27T01:11:01.169Z",
+  "computedAt": "2026-08-28T02:33:24.443Z",
   "windows": {
     "weekStart": "2026-08-24T00:00:00.000Z",
     "monthStart": "2026-08-01T00:00:00.000Z",
