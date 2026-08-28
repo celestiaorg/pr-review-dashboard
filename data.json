@@ -218,6 +218,16 @@
         "authorCategory": "external",
         "reviewer": "vgonkivs",
         "requestedAt": "2026-08-28T19:04:55Z"
+      },
+      {
+        "number": 5208,
+        "title": "fix(shrex/peers): filter incompatible discovered peers",
+        "url": "https://github.com/celestiaorg/celestia-node/pull/5208",
+        "repo": "celestia-node",
+        "author": "loglapa",
+        "authorCategory": "external",
+        "reviewer": "vgonkivs",
+        "requestedAt": "2026-08-28T22:22:18Z"
       }
     ],
     "walldiss": []
@@ -268,5 +278,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-08-28T22:16:00.120Z"
+  "fetchedAt": "2026-08-28T22:27:47.120Z"
 }
