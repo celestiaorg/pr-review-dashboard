@@ -1,0 +1,210 @@
+{
+  "latencies": {
+    "chatton": {
+      "week": {
+        "n": 2,
+        "medianHours": 23.809722222222224,
+        "p90Hours": 23.809722222222224
+      },
+      "month": {
+        "n": 13,
+        "medianHours": 11.495,
+        "p90Hours": 48.20444444444445
+      },
+      "year": {
+        "n": 15,
+        "medianHours": 12.795,
+        "p90Hours": 92.48722222222223
+      }
+    },
+    "pippokr": {
+      "week": {
+        "n": 2,
+        "medianHours": 90.67277777777778,
+        "p90Hours": 90.67277777777778
+      },
+      "month": {
+        "n": 6,
+        "medianHours": 7.945277777777778,
+        "p90Hours": 90.67277777777778
+      },
+      "year": {
+        "n": 6,
+        "medianHours": 7.945277777777778,
+        "p90Hours": 90.67277777777778
+      }
+    },
+    "tty47": {
+      "week": {
+        "n": 0,
+        "medianHours": null,
+        "p90Hours": null
+      },
+      "month": {
+        "n": 0,
+        "medianHours": null,
+        "p90Hours": null
+      },
+      "year": {
+        "n": 0,
+        "medianHours": null,
+        "p90Hours": null
+      }
+    },
+    "ninabarbakadze": {
+      "week": {
+        "n": 7,
+        "medianHours": 17.64611111111111,
+        "p90Hours": 429.1075
+      },
+      "month": {
+        "n": 27,
+        "medianHours": 9.648333333333333,
+        "p90Hours": 53.05638888888889
+      },
+      "year": {
+        "n": 329,
+        "medianHours": 8.699444444444444,
+        "p90Hours": 57.17722222222222
+      }
+    },
+    "rach-id": {
+      "week": {
+        "n": 26,
+        "medianHours": 5.040555555555556,
+        "p90Hours": 8.52138888888889
+      },
+      "month": {
+        "n": 92,
+        "medianHours": 5.040555555555556,
+        "p90Hours": 16.993055555555557
+      },
+      "year": {
+        "n": 557,
+        "medianHours": 2.3130555555555556,
+        "p90Hours": 25.965555555555557
+      }
+    },
+    "renaynay": {
+      "week": {
+        "n": 4,
+        "medianHours": 16.716666666666665,
+        "p90Hours": 126.0736111111111
+      },
+      "month": {
+        "n": 9,
+        "medianHours": 3.674722222222222,
+        "p90Hours": 126.0736111111111
+      },
+      "year": {
+        "n": 33,
+        "medianHours": 17.085833333333333,
+        "p90Hours": 140.1811111111111
+      }
+    },
+    "rootulp": {
+      "week": {
+        "n": 5,
+        "medianHours": 4.4319444444444445,
+        "p90Hours": 8.222222222222221
+      },
+      "month": {
+        "n": 19,
+        "medianHours": 5.986111111111111,
+        "p90Hours": 12.790277777777778
+      },
+      "year": {
+        "n": 189,
+        "medianHours": 3.6952777777777777,
+        "p90Hours": 30.35527777777778
+      }
+    },
+    "vgonkivs": {
+      "week": {
+        "n": 14,
+        "medianHours": 21.415277777777778,
+        "p90Hours": 101.21722222222222
+      },
+      "month": {
+        "n": 50,
+        "medianHours": 37.730555555555554,
+        "p90Hours": 265.31666666666666
+      },
+      "year": {
+        "n": 174,
+        "medianHours": 15.507222222222222,
+        "p90Hours": 169.77777777777777
+      }
+    },
+    "walldiss": {
+      "week": {
+        "n": 0,
+        "medianHours": null,
+        "p90Hours": null
+      },
+      "month": {
+        "n": 1,
+        "medianHours": 96.29472222222222,
+        "p90Hours": 96.29472222222222
+      },
+      "year": {
+        "n": 58,
+        "medianHours": 38.2375,
+        "p90Hours": 457.43305555555554
+      }
+    }
+  },
+  "teamMembers": [
+    {
+      "name": "Cian",
+      "github": "chatton",
+      "defaultHidden": false
+    },
+    {
+      "name": "Cris",
+      "github": "pippokr",
+      "defaultHidden": false
+    },
+    {
+      "name": "Jose",
+      "github": "tty47",
+      "defaultHidden": false
+    },
+    {
+      "name": "Nina",
+      "github": "ninabarbakadze",
+      "defaultHidden": false
+    },
+    {
+      "name": "Rachid",
+      "github": "rach-id",
+      "defaultHidden": false
+    },
+    {
+      "name": "Rene",
+      "github": "renaynay",
+      "defaultHidden": false
+    },
+    {
+      "name": "Rootul",
+      "github": "rootulp",
+      "defaultHidden": false
+    },
+    {
+      "name": "Slava",
+      "github": "vgonkivs",
+      "defaultHidden": false
+    },
+    {
+      "name": "Vlad",
+      "github": "walldiss",
+      "defaultHidden": false
+    }
+  ],
+  "computedAt": "2026-08-28T02:34:40.356Z",
+  "windows": {
+    "weekStart": "2026-08-24T00:00:00.000Z",
+    "monthStart": "2026-08-01T00:00:00.000Z",
+    "yearStart": "2026-01-01T00:00:00.000Z"
+  }
+}
