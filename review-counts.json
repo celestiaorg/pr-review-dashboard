@@ -10,20 +10,15 @@
       "month": 6,
       "year": 7
     },
-    "tty47": {
-      "week": 0,
-      "month": 0,
-      "year": 1
-    },
     "ninabarbakadze": {
       "week": 15,
       "month": 49,
       "year": 516
     },
     "rach-id": {
-      "week": 30,
-      "month": 115,
-      "year": 751
+      "week": 36,
+      "month": 121,
+      "year": 757
     },
     "renaynay": {
       "week": 6,
@@ -31,9 +26,9 @@
       "year": 43
     },
     "rootulp": {
-      "week": 18,
-      "month": 59,
-      "year": 462
+      "week": 19,
+      "month": 60,
+      "year": 463
     },
     "vgonkivs": {
       "week": 15,
@@ -46,7 +41,7 @@
       "year": 123
     }
   },
-  "computedAt": "2026-08-28T02:33:24.443Z",
+  "computedAt": "2026-08-29T00:06:12.244Z",
   "windows": {
     "weekStart": "2026-08-24T00:00:00.000Z",
     "monthStart": "2026-08-01T00:00:00.000Z",
