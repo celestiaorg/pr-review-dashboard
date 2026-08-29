@@ -34,23 +34,6 @@
         "p90Hours": 90.67277777777778
       }
     },
-    "tty47": {
-      "week": {
-        "n": 0,
-        "medianHours": null,
-        "p90Hours": null
-      },
-      "month": {
-        "n": 0,
-        "medianHours": null,
-        "p90Hours": null
-      },
-      "year": {
-        "n": 0,
-        "medianHours": null,
-        "p90Hours": null
-      }
-    },
     "ninabarbakadze": {
       "week": {
         "n": 7,
@@ -70,18 +53,18 @@
     },
     "rach-id": {
       "week": {
-        "n": 26,
-        "medianHours": 5.040555555555556,
-        "p90Hours": 8.52138888888889
+        "n": 29,
+        "medianHours": 5.960277777777778,
+        "p90Hours": 12.385
       },
       "month": {
-        "n": 92,
-        "medianHours": 5.040555555555556,
+        "n": 95,
+        "medianHours": 5.316111111111111,
         "p90Hours": 16.993055555555557
       },
       "year": {
-        "n": 557,
-        "medianHours": 2.3130555555555556,
+        "n": 560,
+        "medianHours": 2.3366666666666664,
         "p90Hours": 25.965555555555557
       }
     },
@@ -166,11 +149,6 @@
       "defaultHidden": false
     },
     {
-      "name": "Jose",
-      "github": "tty47",
-      "defaultHidden": false
-    },
-    {
       "name": "Nina",
       "github": "ninabarbakadze",
       "defaultHidden": false
@@ -201,7 +179,7 @@
       "defaultHidden": false
     }
   ],
-  "computedAt": "2026-08-28T02:34:40.356Z",
+  "computedAt": "2026-08-29T00:07:09.894Z",
   "windows": {
     "weekStart": "2026-08-24T00:00:00.000Z",
     "monthStart": "2026-08-01T00:00:00.000Z",
