@@ -10,6 +10,16 @@
         "authorCategory": "coworker",
         "reviewer": "chatton",
         "requestedAt": "2026-08-31T07:41:34Z"
+      },
+      {
+        "number": 3281,
+        "title": "build(deps): Bump github.com/aws/aws-sdk-go-v2/service/s3 from 1.107.3 to 1.109.1",
+        "url": "https://github.com/celestiaorg/celestia-core/pull/3281",
+        "repo": "celestia-core",
+        "author": "dependabot",
+        "authorCategory": "bot",
+        "reviewer": "chatton",
+        "requestedAt": "2026-08-31T09:40:05Z"
       }
     ],
     "pippokr": [
@@ -22,10 +32,31 @@
         "authorCategory": "coworker",
         "reviewer": "pippokr",
         "requestedAt": "2026-08-31T08:48:22Z"
+      },
+      {
+        "number": 7757,
+        "title": "chore(deps): bump google.golang.org/grpc from 1.83.1 to 1.83.2 in /test/docker-e2e in the go-deps-docker-e2e group",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/7757",
+        "repo": "celestia-app",
+        "author": "dependabot",
+        "authorCategory": "bot",
+        "reviewer": "pippokr",
+        "requestedAt": "2026-08-31T09:40:33Z"
       }
     ],
     "ninabarbakadze": [],
-    "rach-id": [],
+    "rach-id": [
+      {
+        "number": 3285,
+        "title": "build(deps): Bump go.opentelemetry.io/otel from 1.45.0 to 1.46.0",
+        "url": "https://github.com/celestiaorg/celestia-core/pull/3285",
+        "repo": "celestia-core",
+        "author": "dependabot",
+        "authorCategory": "bot",
+        "reviewer": "rach-id",
+        "requestedAt": "2026-08-31T09:41:27Z"
+      }
+    ],
     "renaynay": [
       {
         "number": 992,
@@ -36,6 +67,16 @@
         "authorCategory": "coworker",
         "reviewer": "renaynay",
         "requestedAt": "2026-08-31T08:39:44Z"
+      },
+      {
+        "number": 3283,
+        "title": "build(deps): Bump go.opentelemetry.io/otel/exporters/stdout/stdouttrace from 1.45.0 to 1.46.0",
+        "url": "https://github.com/celestiaorg/celestia-core/pull/3283",
+        "repo": "celestia-core",
+        "author": "dependabot",
+        "authorCategory": "bot",
+        "reviewer": "renaynay",
+        "requestedAt": "2026-08-31T09:40:18Z"
       },
       {
         "number": 5191,
@@ -58,8 +99,29 @@
         "requestedAt": "2026-08-28T08:08:50Z"
       }
     ],
-    "rootulp": [],
+    "rootulp": [
+      {
+        "number": 3280,
+        "title": "build(deps): Bump github.com/aws/aws-sdk-go-v2 from 1.43.7 to 1.45.1",
+        "url": "https://github.com/celestiaorg/celestia-core/pull/3280",
+        "repo": "celestia-core",
+        "author": "dependabot",
+        "authorCategory": "bot",
+        "reviewer": "rootulp",
+        "requestedAt": "2026-08-31T09:39:03Z"
+      }
+    ],
     "vgonkivs": [
+      {
+        "number": 5209,
+        "title": "chore(p2p): add P-OPS and Qubelabs bootstrappers to mocha-5",
+        "url": "https://github.com/celestiaorg/celestia-node/pull/5209",
+        "repo": "celestia-node",
+        "author": "rach-id",
+        "authorCategory": "coworker",
+        "reviewer": "vgonkivs",
+        "requestedAt": "2026-08-31T09:33:08Z"
+      },
       {
         "number": 5199,
         "title": "chore(deps): bump github.com/celestiaorg/go-square/v4 from 4.0.0-rc5 to 4.0.0",
@@ -69,6 +131,26 @@
         "authorCategory": "bot",
         "reviewer": "vgonkivs",
         "requestedAt": "2026-08-24T11:08:06Z"
+      },
+      {
+        "number": 3278,
+        "title": "build(deps): Bump github.com/aws/aws-sdk-go-v2/credentials from 1.19.37 to 1.20.1",
+        "url": "https://github.com/celestiaorg/celestia-core/pull/3278",
+        "repo": "celestia-core",
+        "author": "dependabot",
+        "authorCategory": "bot",
+        "reviewer": "vgonkivs",
+        "requestedAt": "2026-08-31T09:37:58Z"
+      },
+      {
+        "number": 3284,
+        "title": "build(deps): Bump github.com/aws/aws-sdk-go-v2/config from 1.32.38 to 1.33.1",
+        "url": "https://github.com/celestiaorg/celestia-core/pull/3284",
+        "repo": "celestia-core",
+        "author": "dependabot",
+        "authorCategory": "bot",
+        "reviewer": "vgonkivs",
+        "requestedAt": "2026-08-31T09:41:22Z"
       },
       {
         "number": 5165,
@@ -299,5 +381,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-08-31T09:29:25.012Z"
+  "fetchedAt": "2026-08-31T09:43:33.341Z"
 }
