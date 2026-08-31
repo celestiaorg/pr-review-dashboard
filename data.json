@@ -2,16 +2,6 @@
   "reviews": {
     "chatton": [
       {
-        "number": 991,
-        "title": "fix(shrex): fix for flaky `shrex_sampling_backward` test",
-        "url": "https://github.com/celestiaorg/lumina/pull/991",
-        "repo": "lumina",
-        "author": "citizen-stig",
-        "authorCategory": "coworker",
-        "reviewer": "chatton",
-        "requestedAt": "2026-08-31T07:41:34Z"
-      },
-      {
         "number": 3281,
         "title": "build(deps): Bump github.com/aws/aws-sdk-go-v2/service/s3 from 1.107.3 to 1.109.1",
         "url": "https://github.com/celestiaorg/celestia-core/pull/3281",
@@ -20,6 +10,16 @@
         "authorCategory": "bot",
         "reviewer": "chatton",
         "requestedAt": "2026-08-31T09:40:05Z"
+      },
+      {
+        "number": 7759,
+        "title": "chore(deps): bump the go-deps group with 25 updates",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/7759",
+        "repo": "celestia-app",
+        "author": "dependabot",
+        "authorCategory": "bot",
+        "reviewer": "chatton",
+        "requestedAt": "2026-08-31T09:49:23Z"
       }
     ],
     "pippokr": [
@@ -109,6 +109,16 @@
         "authorCategory": "bot",
         "reviewer": "rootulp",
         "requestedAt": "2026-08-31T09:39:03Z"
+      },
+      {
+        "number": 7758,
+        "title": "chore(deps): bump the github-actions group with 3 updates",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/7758",
+        "repo": "celestia-app",
+        "author": "dependabot",
+        "authorCategory": "bot",
+        "reviewer": "rootulp",
+        "requestedAt": "2026-08-31T09:43:52Z"
       }
     ],
     "vgonkivs": [
@@ -381,5 +391,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-08-31T09:43:33.341Z"
+  "fetchedAt": "2026-08-31T09:50:37.510Z"
 }
