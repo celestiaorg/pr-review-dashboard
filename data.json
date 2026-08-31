@@ -48,6 +48,26 @@
     "rach-id": [],
     "renaynay": [
       {
+        "number": 5214,
+        "title": "chore(api/docgen): temporarily disable OpenRPC docgen [v0.31.x backport]",
+        "url": "https://github.com/celestiaorg/celestia-node/pull/5214",
+        "repo": "celestia-node",
+        "author": "rach-id",
+        "authorCategory": "coworker",
+        "reviewer": "renaynay",
+        "requestedAt": "2026-08-31T14:37:08Z"
+      },
+      {
+        "number": 5215,
+        "title": "chore(nodebuilder/p2p): add P-OPS and Qubelabs bootstrappers to Mocha [v0.31.x backport]",
+        "url": "https://github.com/celestiaorg/celestia-node/pull/5215",
+        "repo": "celestia-node",
+        "author": "rach-id",
+        "authorCategory": "coworker",
+        "reviewer": "renaynay",
+        "requestedAt": "2026-08-31T14:39:30Z"
+      },
+      {
         "number": 3283,
         "title": "build(deps): Bump go.opentelemetry.io/otel/exporters/stdout/stdouttrace from 1.45.0 to 1.46.0",
         "url": "https://github.com/celestiaorg/celestia-core/pull/3283",
@@ -369,5 +389,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-08-31T14:34:12.585Z"
+  "fetchedAt": "2026-08-31T14:43:07.564Z"
 }
