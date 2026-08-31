@@ -48,26 +48,6 @@
     "rach-id": [],
     "renaynay": [
       {
-        "number": 5214,
-        "title": "chore(api/docgen): temporarily disable OpenRPC docgen [v0.31.x backport]",
-        "url": "https://github.com/celestiaorg/celestia-node/pull/5214",
-        "repo": "celestia-node",
-        "author": "rach-id",
-        "authorCategory": "coworker",
-        "reviewer": "renaynay",
-        "requestedAt": "2026-08-31T14:37:08Z"
-      },
-      {
-        "number": 5215,
-        "title": "chore(nodebuilder/p2p): add P-OPS and Qubelabs bootstrappers to Mocha [v0.31.x backport]",
-        "url": "https://github.com/celestiaorg/celestia-node/pull/5215",
-        "repo": "celestia-node",
-        "author": "rach-id",
-        "authorCategory": "coworker",
-        "reviewer": "renaynay",
-        "requestedAt": "2026-08-31T14:39:30Z"
-      },
-      {
         "number": 3283,
         "title": "build(deps): Bump go.opentelemetry.io/otel/exporters/stdout/stdouttrace from 1.45.0 to 1.46.0",
         "url": "https://github.com/celestiaorg/celestia-core/pull/3283",
@@ -100,16 +80,6 @@
     ],
     "rootulp": [],
     "vgonkivs": [
-      {
-        "number": 5209,
-        "title": "chore(p2p): add P-OPS and Qubelabs bootstrappers to mocha-5",
-        "url": "https://github.com/celestiaorg/celestia-node/pull/5209",
-        "repo": "celestia-node",
-        "author": "rach-id",
-        "authorCategory": "coworker",
-        "reviewer": "vgonkivs",
-        "requestedAt": "2026-08-31T09:33:08Z"
-      },
       {
         "number": 5199,
         "title": "chore(deps): bump github.com/celestiaorg/go-square/v4 from 4.0.0-rc5 to 4.0.0",
@@ -389,5 +359,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-08-31T14:43:07.564Z"
+  "fetchedAt": "2026-08-31T14:50:09.345Z"
 }
