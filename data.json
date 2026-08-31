@@ -12,7 +12,18 @@
         "requestedAt": "2026-08-31T07:41:34Z"
       }
     ],
-    "pippokr": [],
+    "pippokr": [
+      {
+        "number": 995,
+        "title": "chore(rsema1d) update bench and fuzz.",
+        "url": "https://github.com/celestiaorg/lumina/pull/995",
+        "repo": "lumina",
+        "author": "citizen-stig",
+        "authorCategory": "coworker",
+        "reviewer": "pippokr",
+        "requestedAt": "2026-08-31T08:48:22Z"
+      }
+    ],
     "ninabarbakadze": [],
     "rach-id": [],
     "renaynay": [
@@ -288,5 +299,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-08-31T08:46:16.177Z"
+  "fetchedAt": "2026-08-31T08:54:23.613Z"
 }
