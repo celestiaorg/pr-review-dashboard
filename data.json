@@ -89,28 +89,7 @@
         "requestedAt": "2026-08-28T08:08:50Z"
       }
     ],
-    "rootulp": [
-      {
-        "number": 3280,
-        "title": "build(deps): Bump github.com/aws/aws-sdk-go-v2 from 1.43.7 to 1.45.1",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3280",
-        "repo": "celestia-core",
-        "author": "dependabot",
-        "authorCategory": "bot",
-        "reviewer": "rootulp",
-        "requestedAt": "2026-08-31T09:39:03Z"
-      },
-      {
-        "number": 7758,
-        "title": "chore(deps): bump the github-actions group with 3 updates",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7758",
-        "repo": "celestia-app",
-        "author": "dependabot",
-        "authorCategory": "bot",
-        "reviewer": "rootulp",
-        "requestedAt": "2026-08-31T09:43:52Z"
-      }
-    ],
+    "rootulp": [],
     "vgonkivs": [
       {
         "number": 5209,
@@ -121,6 +100,16 @@
         "authorCategory": "coworker",
         "reviewer": "vgonkivs",
         "requestedAt": "2026-08-31T09:33:08Z"
+      },
+      {
+        "number": 5213,
+        "title": "api/docgen: temporarily disable OpenRPC docgen to unblock CI and releases",
+        "url": "https://github.com/celestiaorg/celestia-node/pull/5213",
+        "repo": "celestia-node",
+        "author": "rach-id",
+        "authorCategory": "coworker",
+        "reviewer": "vgonkivs",
+        "requestedAt": "2026-08-31T13:19:51Z"
       },
       {
         "number": 5199,
@@ -401,5 +390,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-08-31T13:00:22.898Z"
+  "fetchedAt": "2026-08-31T13:22:14.534Z"
 }
