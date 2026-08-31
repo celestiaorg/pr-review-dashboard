@@ -44,7 +44,18 @@
         "requestedAt": "2026-08-31T09:40:33Z"
       }
     ],
-    "ninabarbakadze": [],
+    "ninabarbakadze": [
+      {
+        "number": 997,
+        "title": "chore(node): unflaky `head_selection_with_multiple_peers` test",
+        "url": "https://github.com/celestiaorg/lumina/pull/997",
+        "repo": "lumina",
+        "author": "citizen-stig",
+        "authorCategory": "coworker",
+        "reviewer": "ninabarbakadze",
+        "requestedAt": "2026-08-31T12:03:01Z"
+      }
+    ],
     "rach-id": [],
     "renaynay": [
       {
@@ -400,5 +411,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-08-31T11:56:56.479Z"
+  "fetchedAt": "2026-08-31T12:23:09.803Z"
 }
