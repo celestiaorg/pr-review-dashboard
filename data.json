@@ -10,16 +10,6 @@
         "authorCategory": "bot",
         "reviewer": "chatton",
         "requestedAt": "2026-08-31T09:40:05Z"
-      },
-      {
-        "number": 7759,
-        "title": "chore(deps): bump the go-deps group with 25 updates",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7759",
-        "repo": "celestia-app",
-        "author": "dependabot",
-        "authorCategory": "bot",
-        "reviewer": "chatton",
-        "requestedAt": "2026-08-31T09:49:23Z"
       }
     ],
     "pippokr": [
@@ -32,16 +22,6 @@
         "authorCategory": "coworker",
         "reviewer": "pippokr",
         "requestedAt": "2026-08-31T08:48:22Z"
-      },
-      {
-        "number": 7757,
-        "title": "chore(deps): bump google.golang.org/grpc from 1.83.1 to 1.83.2 in /test/docker-e2e in the go-deps-docker-e2e group",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7757",
-        "repo": "celestia-app",
-        "author": "dependabot",
-        "authorCategory": "bot",
-        "reviewer": "pippokr",
-        "requestedAt": "2026-08-31T09:40:33Z"
       }
     ],
     "ninabarbakadze": [],
@@ -359,5 +339,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-08-31T15:13:21.268Z"
+  "fetchedAt": "2026-08-31T15:26:55.042Z"
 }
