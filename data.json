@@ -2,18 +2,7 @@
   "reviews": {
     "chatton": [],
     "pippokr": [],
-    "ninabarbakadze": [
-      {
-        "number": 7643,
-        "title": "fix(forwarding)!: include custom_hook_id in the canonical derivation path of forwarding address #7640",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7643",
-        "repo": "celestia-app",
-        "author": "jonas089",
-        "authorCategory": "external",
-        "reviewer": "ninabarbakadze",
-        "requestedAt": "2026-08-28T11:50:53Z"
-      }
-    ],
+    "ninabarbakadze": [],
     "rach-id": [],
     "renaynay": [
       {
@@ -278,5 +267,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-08-31T07:05:01.858Z"
+  "fetchedAt": "2026-08-31T07:30:20.493Z"
 }
