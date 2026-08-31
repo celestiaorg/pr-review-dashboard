@@ -46,6 +46,16 @@
         "authorCategory": "coworker",
         "reviewer": "rach-id",
         "requestedAt": "2026-08-31T20:46:43Z"
+      },
+      {
+        "number": 454,
+        "title": "chore: Bump github/codeql-action from 4.37.8 to 4.37.9",
+        "url": "https://github.com/celestiaorg/blobstream-contracts/pull/454",
+        "repo": "blobstream-contracts",
+        "author": "dependabot",
+        "authorCategory": "bot",
+        "reviewer": "rach-id",
+        "requestedAt": "2026-08-31T23:53:52Z"
       }
     ],
     "renaynay": [
@@ -391,5 +401,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-08-31T23:49:17.570Z"
+  "fetchedAt": "2026-08-31T23:55:44.092Z"
 }
