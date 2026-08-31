@@ -17,6 +17,16 @@
     "rach-id": [],
     "renaynay": [
       {
+        "number": 992,
+        "title": "fix(fibre): fibre-client does proper download",
+        "url": "https://github.com/celestiaorg/lumina/pull/992",
+        "repo": "lumina",
+        "author": "citizen-stig",
+        "authorCategory": "coworker",
+        "reviewer": "renaynay",
+        "requestedAt": "2026-08-31T08:39:44Z"
+      },
+      {
         "number": 5191,
         "title": "fix(pruner): handle out-of-order header deletion callbacks",
         "url": "https://github.com/celestiaorg/celestia-node/pull/5191",
@@ -278,5 +288,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-08-31T08:30:45.162Z"
+  "fetchedAt": "2026-08-31T08:46:16.177Z"
 }
