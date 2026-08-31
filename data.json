@@ -24,8 +24,30 @@
         "requestedAt": "2026-08-31T08:48:22Z"
       }
     ],
-    "ninabarbakadze": [],
-    "rach-id": [],
+    "ninabarbakadze": [
+      {
+        "number": 7760,
+        "title": "refactor: simplify getTxPriority to a single utia fee amount",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/7760",
+        "repo": "celestia-app",
+        "author": "rootulp",
+        "authorCategory": "coworker",
+        "reviewer": "ninabarbakadze",
+        "requestedAt": "2026-08-31T20:46:49Z"
+      }
+    ],
+    "rach-id": [
+      {
+        "number": 7760,
+        "title": "refactor: simplify getTxPriority to a single utia fee amount",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/7760",
+        "repo": "celestia-app",
+        "author": "rootulp",
+        "authorCategory": "coworker",
+        "reviewer": "rach-id",
+        "requestedAt": "2026-08-31T20:46:43Z"
+      }
+    ],
     "renaynay": [
       {
         "number": 5216,
@@ -369,5 +391,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-08-31T20:44:33.141Z"
+  "fetchedAt": "2026-08-31T20:50:55.118Z"
 }
