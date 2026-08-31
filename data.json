@@ -71,6 +71,16 @@
         "requestedAt": "2026-08-31T16:42:22Z"
       },
       {
+        "number": 5217,
+        "title": "deps: restore OpenRPC docgen via verified go-jsonschema-walk mirror [v0.31.x]",
+        "url": "https://github.com/celestiaorg/celestia-node/pull/5217",
+        "repo": "celestia-node",
+        "author": "rach-id",
+        "authorCategory": "coworker",
+        "reviewer": "vgonkivs",
+        "requestedAt": "2026-08-31T17:16:21Z"
+      },
+      {
         "number": 5199,
         "title": "chore(deps): bump github.com/celestiaorg/go-square/v4 from 4.0.0-rc5 to 4.0.0",
         "url": "https://github.com/celestiaorg/celestia-node/pull/5199",
@@ -349,5 +359,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-08-31T16:58:01.982Z"
+  "fetchedAt": "2026-08-31T17:16:42.920Z"
 }
