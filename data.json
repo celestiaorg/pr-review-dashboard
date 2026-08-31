@@ -1,6 +1,17 @@
 {
   "reviews": {
-    "chatton": [],
+    "chatton": [
+      {
+        "number": 991,
+        "title": "fix(shrex): fix for flaky `shrex_sampling_backward` test",
+        "url": "https://github.com/celestiaorg/lumina/pull/991",
+        "repo": "lumina",
+        "author": "citizen-stig",
+        "authorCategory": "coworker",
+        "reviewer": "chatton",
+        "requestedAt": "2026-08-31T07:41:34Z"
+      }
+    ],
     "pippokr": [],
     "ninabarbakadze": [],
     "rach-id": [],
@@ -267,5 +278,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-08-31T07:30:20.493Z"
+  "fetchedAt": "2026-08-31T07:45:32.097Z"
 }
