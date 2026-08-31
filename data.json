@@ -45,18 +45,7 @@
       }
     ],
     "ninabarbakadze": [],
-    "rach-id": [
-      {
-        "number": 3285,
-        "title": "build(deps): Bump go.opentelemetry.io/otel from 1.45.0 to 1.46.0",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3285",
-        "repo": "celestia-core",
-        "author": "dependabot",
-        "authorCategory": "bot",
-        "reviewer": "rach-id",
-        "requestedAt": "2026-08-31T10:33:08Z"
-      }
-    ],
+    "rach-id": [],
     "renaynay": [
       {
         "number": 992,
@@ -391,5 +380,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-08-31T10:39:31.002Z"
+  "fetchedAt": "2026-08-31T10:46:11.251Z"
 }
