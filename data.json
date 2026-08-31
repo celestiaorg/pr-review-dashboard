@@ -54,7 +54,7 @@
         "author": "dependabot",
         "authorCategory": "bot",
         "reviewer": "rach-id",
-        "requestedAt": "2026-08-31T09:41:27Z"
+        "requestedAt": "2026-08-31T10:33:08Z"
       }
     ],
     "renaynay": [
@@ -391,5 +391,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-08-31T10:29:29.483Z"
+  "fetchedAt": "2026-08-31T10:39:31.002Z"
 }
