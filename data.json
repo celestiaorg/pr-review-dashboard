@@ -152,6 +152,26 @@
         "requestedAt": "2026-08-31T09:41:22Z"
       },
       {
+        "number": 5210,
+        "title": "chore(deps): bump golang from 1.26.5-alpine3.23 to 1.27.0-alpine3.23",
+        "url": "https://github.com/celestiaorg/celestia-node/pull/5210",
+        "repo": "celestia-node",
+        "author": "dependabot",
+        "authorCategory": "bot",
+        "reviewer": "vgonkivs",
+        "requestedAt": "2026-08-31T11:03:56Z"
+      },
+      {
+        "number": 5211,
+        "title": "chore(deps): bump google.golang.org/grpc from 1.83.1 to 1.83.2 in /nodebuilder/tests/tastora in the go-deps group across 1 directory",
+        "url": "https://github.com/celestiaorg/celestia-node/pull/5211",
+        "repo": "celestia-node",
+        "author": "dependabot",
+        "authorCategory": "bot",
+        "reviewer": "vgonkivs",
+        "requestedAt": "2026-08-31T11:07:32Z"
+      },
+      {
         "number": 5165,
         "title": "core: Recover interrupted listener publications",
         "url": "https://github.com/celestiaorg/celestia-node/pull/5165",
@@ -380,5 +400,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-08-31T10:58:58.728Z"
+  "fetchedAt": "2026-08-31T11:17:47.728Z"
 }
