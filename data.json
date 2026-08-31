@@ -91,16 +91,6 @@
         "requestedAt": "2026-08-31T09:33:08Z"
       },
       {
-        "number": 5213,
-        "title": "api/docgen: temporarily disable OpenRPC docgen to unblock CI and releases",
-        "url": "https://github.com/celestiaorg/celestia-node/pull/5213",
-        "repo": "celestia-node",
-        "author": "rach-id",
-        "authorCategory": "coworker",
-        "reviewer": "vgonkivs",
-        "requestedAt": "2026-08-31T13:19:51Z"
-      },
-      {
         "number": 5199,
         "title": "chore(deps): bump github.com/celestiaorg/go-square/v4 from 4.0.0-rc5 to 4.0.0",
         "url": "https://github.com/celestiaorg/celestia-node/pull/5199",
@@ -379,5 +369,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-08-31T14:24:32.366Z"
+  "fetchedAt": "2026-08-31T14:34:12.585Z"
 }
