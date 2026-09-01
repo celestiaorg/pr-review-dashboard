@@ -63,10 +63,31 @@ To change the default-hidden members, set `defaultHidden: true` on their entry. 
 The dashboard is deployed to GitHub Pages via [`.github/workflows/deploy.yml`](./.github/workflows/deploy.yml):
 
 - Runs every 5 minutes on a cron (plus on every push to `main` and on manual dispatch).
-- Fetches PR data using the default `GITHUB_TOKEN` provided to the Actions runner.
+- Fetches PR data using `REVIEW_DASHBOARD_TOKEN` if that secret is set, otherwise the default `GITHUB_TOKEN` provided to the Actions runner.
 - Pushes `public/` (including the freshly-generated `data.json`) to the `gh-pages` branch.
 
 To trigger a manual redeploy: `gh workflow run deploy.yml`.
+
+### Private repos require `REVIEW_DASHBOARD_TOKEN`
+
+The default `GITHUB_TOKEN` is scoped to this repository only, so it cannot read
+private repos elsewhere in the org — `infrastructure` and `da-proxy` are both
+private, and their PRs silently drop out of the dashboard when the fetch runs on
+the default token.
+
+To include them, set a `REVIEW_DASHBOARD_TOKEN` repository secret to a token
+that can read those repos (a classic PAT with `repo` scope, or a fine-grained
+PAT granting `Pull requests: read` and `Metadata: read` on every repo in
+[`config.js`](./config.js)):
+
+```bash
+gh secret set REVIEW_DASHBOARD_TOKEN -R celestiaorg/pr-review-dashboard
+```
+
+Any repo the token cannot read is reported as a warning annotation on the
+Actions run rather than failing the deploy, so the rest of the dashboard keeps
+updating. Fine-grained PATs expire — if private repos vanish from the dashboard,
+check the deploy run's annotations first.
 
 A second workflow ([`.github/workflows/fetch-review-counts.yml`](./.github/workflows/fetch-review-counts.yml)) runs daily at 00:00 UTC to regenerate `public/review-counts.json` (committed to the repo). The regeneration commit triggers the deploy workflow's `push` trigger so the updated file goes live without further coordination.
 

@@ -29,12 +29,12 @@ jobs:
 
       - name: Fetch review counts
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.REVIEW_DASHBOARD_TOKEN || secrets.GITHUB_TOKEN }}
         run: node scripts/fetch-review-counts.js
 
       - name: Fetch review latencies
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.REVIEW_DASHBOARD_TOKEN || secrets.GITHUB_TOKEN }}
         run: node scripts/fetch-review-latencies.js
 
       - name: Commit updated review data if changed

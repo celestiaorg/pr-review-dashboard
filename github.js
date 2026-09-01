@@ -99,6 +99,15 @@ function comparePendingReviews(a, b) {
   return new Date(a.requestedAt) - new Date(b.requestedAt);
 }
 
+// A repo the token cannot see — a private repo when the workflow runs on the
+// default repo-scoped GITHUB_TOKEN — fails the same way a transient error does:
+// its PRs just go missing. Emit an Actions annotation so the run summary shows
+// it instead of burying it in the step log.
+function warnRepoFetchFailed(repo, message) {
+  const text = `Failed to fetch reviews for ${repo}: ${message}`;
+  console.warn(process.env.GITHUB_ACTIONS ? `::warning::${text}` : text);
+}
+
 async function getPendingReviews(config, token) {
   const { org, repos, teamMembers } = config;
   const teamHandles = new Set(teamMembers.map((m) => m.github));
@@ -113,9 +122,7 @@ async function getPendingReviews(config, token) {
       fetchRepoPRs(org, repo, token)
         .then((nodes) => ({ repo, nodes }))
         .catch((err) => {
-          console.warn(
-            `Failed to fetch reviews for ${repo}: ${err.message}`
-          );
+          warnRepoFetchFailed(repo, err.message);
           return { repo, nodes: [] };
         })
     )

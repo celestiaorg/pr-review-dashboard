@@ -225,6 +225,70 @@ describe("getPendingReviews (GraphQL)", () => {
       warnSpy.mockRestore();
     }
   });
+
+  test("annotates an unreachable repo when running in GitHub Actions", async () => {
+    fetch.mockResolvedValueOnce({
+      ok: true,
+      json: async () => ({
+        data: { repository: null },
+        errors: [
+          {
+            type: "NOT_FOUND",
+            message:
+              "Could not resolve to a Repository with the name 'celestiaorg/infrastructure'.",
+          },
+        ],
+      }),
+    });
+
+    const config = {
+      org: "celestiaorg",
+      repos: ["infrastructure"],
+      teamMembers: [{ name: "Rootul", github: "rootulp", defaultHidden: false }],
+    };
+
+    const warnSpy = jest.spyOn(console, "warn").mockImplementation(() => {});
+    const previous = process.env.GITHUB_ACTIONS;
+    process.env.GITHUB_ACTIONS = "true";
+    try {
+      await getPendingReviews(config, MOCK_TOKEN);
+      expect(warnSpy).toHaveBeenCalledTimes(1);
+      const message = warnSpy.mock.calls[0][0];
+      expect(message).toMatch(/^::warning::/);
+      expect(message).toContain("infrastructure");
+    } finally {
+      if (previous === undefined) delete process.env.GITHUB_ACTIONS;
+      else process.env.GITHUB_ACTIONS = previous;
+      warnSpy.mockRestore();
+    }
+  });
+
+  test("logs a plain warning for an unreachable repo outside GitHub Actions", async () => {
+    fetch.mockResolvedValueOnce({
+      ok: false,
+      status: 500,
+      json: async () => ({ message: "server error" }),
+    });
+
+    const config = {
+      org: "celestiaorg",
+      repos: ["infrastructure"],
+      teamMembers: [{ name: "Rootul", github: "rootulp", defaultHidden: false }],
+    };
+
+    const warnSpy = jest.spyOn(console, "warn").mockImplementation(() => {});
+    const previous = process.env.GITHUB_ACTIONS;
+    delete process.env.GITHUB_ACTIONS;
+    try {
+      await getPendingReviews(config, MOCK_TOKEN);
+      expect(warnSpy).toHaveBeenCalledTimes(1);
+      expect(warnSpy.mock.calls[0][0]).not.toMatch(/^::warning::/);
+      expect(warnSpy.mock.calls[0][0]).toContain("infrastructure");
+    } finally {
+      if (previous !== undefined) process.env.GITHUB_ACTIONS = previous;
+      warnSpy.mockRestore();
+    }
+  });
 });
 
 describe("pending review ordering", () => {
