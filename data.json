@@ -24,7 +24,18 @@
         "requestedAt": "2026-09-01T03:27:03Z"
       }
     ],
-    "rach-id": [],
+    "rach-id": [
+      {
+        "number": 3286,
+        "title": "fix(propagation): reject conflicting cached proposals",
+        "url": "https://github.com/celestiaorg/celestia-core/pull/3286",
+        "repo": "celestia-core",
+        "author": "ninabarbakadze",
+        "authorCategory": "coworker",
+        "reviewer": "rach-id",
+        "requestedAt": "2026-09-01T13:48:05Z"
+      }
+    ],
     "renaynay": [
       {
         "number": 5216,
@@ -88,16 +99,6 @@
         "authorCategory": "coworker",
         "reviewer": "vgonkivs",
         "requestedAt": "2026-08-31T17:16:21Z"
-      },
-      {
-        "number": 5218,
-        "title": "chore(p2p): add 01node bootstrapper to mocha-5",
-        "url": "https://github.com/celestiaorg/celestia-node/pull/5218",
-        "repo": "celestia-node",
-        "author": "rach-id",
-        "authorCategory": "coworker",
-        "reviewer": "vgonkivs",
-        "requestedAt": "2026-09-01T07:26:52Z"
       },
       {
         "number": 1000,
@@ -388,5 +389,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-09-01T13:41:16.058Z"
+  "fetchedAt": "2026-09-01T13:48:20.446Z"
 }
