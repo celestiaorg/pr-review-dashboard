@@ -1,6 +1,17 @@
 {
   "reviews": {
-    "chatton": [],
+    "chatton": [
+      {
+        "number": 3287,
+        "title": "fix(propagation): propagation consensus state updates should be atomic",
+        "url": "https://github.com/celestiaorg/celestia-core/pull/3287",
+        "repo": "celestia-core",
+        "author": "ninabarbakadze",
+        "authorCategory": "coworker",
+        "reviewer": "chatton",
+        "requestedAt": "2026-09-01T14:04:57Z"
+      }
+    ],
     "pippokr": [],
     "ninabarbakadze": [
       {
@@ -34,6 +45,16 @@
         "authorCategory": "coworker",
         "reviewer": "rach-id",
         "requestedAt": "2026-09-01T13:48:05Z"
+      },
+      {
+        "number": 3287,
+        "title": "fix(propagation): propagation consensus state updates should be atomic",
+        "url": "https://github.com/celestiaorg/celestia-core/pull/3287",
+        "repo": "celestia-core",
+        "author": "ninabarbakadze",
+        "authorCategory": "coworker",
+        "reviewer": "rach-id",
+        "requestedAt": "2026-09-01T14:05:04Z"
       }
     ],
     "renaynay": [
@@ -389,5 +410,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-09-01T14:01:26.506Z"
+  "fetchedAt": "2026-09-01T14:05:14.617Z"
 }
