@@ -7,9 +7,9 @@
         "p90Hours": null
       },
       "month": {
-        "n": 13,
-        "medianHours": 11.495,
-        "p90Hours": 48.20444444444445
+        "n": 0,
+        "medianHours": null,
+        "p90Hours": null
       },
       "year": {
         "n": 15,
@@ -24,9 +24,9 @@
         "p90Hours": null
       },
       "month": {
-        "n": 6,
-        "medianHours": 7.945277777777778,
-        "p90Hours": 90.67277777777778
+        "n": 0,
+        "medianHours": null,
+        "p90Hours": null
       },
       "year": {
         "n": 6,
@@ -41,12 +41,12 @@
         "p90Hours": null
       },
       "month": {
-        "n": 27,
-        "medianHours": 9.648333333333333,
-        "p90Hours": 53.05638888888889
+        "n": 0,
+        "medianHours": null,
+        "p90Hours": null
       },
       "year": {
-        "n": 329,
+        "n": 330,
         "medianHours": 8.699444444444444,
         "p90Hours": 57.17722222222222
       }
@@ -58,14 +58,14 @@
         "p90Hours": null
       },
       "month": {
-        "n": 95,
-        "medianHours": 5.316111111111111,
-        "p90Hours": 16.993055555555557
+        "n": 0,
+        "medianHours": null,
+        "p90Hours": null
       },
       "year": {
-        "n": 560,
-        "medianHours": 2.3366666666666664,
-        "p90Hours": 25.965555555555557
+        "n": 562,
+        "medianHours": 2.3361111111111112,
+        "p90Hours": 25.157222222222224
       }
     },
     "renaynay": {
@@ -75,13 +75,13 @@
         "p90Hours": null
       },
       "month": {
-        "n": 9,
-        "medianHours": 3.674722222222222,
-        "p90Hours": 126.0736111111111
+        "n": 0,
+        "medianHours": null,
+        "p90Hours": null
       },
       "year": {
-        "n": 33,
-        "medianHours": 17.085833333333333,
+        "n": 36,
+        "medianHours": 16.716666666666665,
         "p90Hours": 140.1811111111111
       }
     },
@@ -92,13 +92,13 @@
         "p90Hours": null
       },
       "month": {
-        "n": 19,
-        "medianHours": 5.986111111111111,
-        "p90Hours": 12.790277777777778
+        "n": 0,
+        "medianHours": null,
+        "p90Hours": null
       },
       "year": {
         "n": 189,
-        "medianHours": 3.6952777777777777,
+        "medianHours": 3.6769444444444446,
         "p90Hours": 30.35527777777778
       }
     },
@@ -109,9 +109,9 @@
         "p90Hours": null
       },
       "month": {
-        "n": 50,
-        "medianHours": 37.730555555555554,
-        "p90Hours": 265.31666666666666
+        "n": 0,
+        "medianHours": null,
+        "p90Hours": null
       },
       "year": {
         "n": 174,
@@ -126,9 +126,9 @@
         "p90Hours": null
       },
       "month": {
-        "n": 1,
-        "medianHours": 96.29472222222222,
-        "p90Hours": 96.29472222222222
+        "n": 0,
+        "medianHours": null,
+        "p90Hours": null
       },
       "year": {
         "n": 58,
@@ -179,10 +179,10 @@
       "defaultHidden": false
     }
   ],
-  "computedAt": "2026-08-31T00:08:23.059Z",
+  "computedAt": "2026-09-01T00:09:09.557Z",
   "windows": {
     "weekStart": "2026-08-31T00:00:00.000Z",
-    "monthStart": "2026-08-01T00:00:00.000Z",
+    "monthStart": "2026-09-01T00:00:00.000Z",
     "yearStart": "2026-01-01T00:00:00.000Z"
   }
 }
