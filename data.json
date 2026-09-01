@@ -44,6 +44,16 @@
         "authorCategory": "coworker",
         "reviewer": "ninabarbakadze",
         "requestedAt": "2026-09-01T03:10:43Z"
+      },
+      {
+        "number": 7762,
+        "title": "fix!: count MsgModuleQuerySafe queries against the block message limit",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/7762",
+        "repo": "celestia-app",
+        "author": "rootulp",
+        "authorCategory": "coworker",
+        "reviewer": "ninabarbakadze",
+        "requestedAt": "2026-09-01T03:27:03Z"
       }
     ],
     "rach-id": [
@@ -411,5 +421,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-09-01T03:26:41.304Z"
+  "fetchedAt": "2026-09-01T03:41:28.718Z"
 }
