@@ -59,6 +59,16 @@
         "requestedAt": "2026-08-31T18:09:54Z"
       },
       {
+        "number": 996,
+        "title": "feat(fibre): Add TLS support",
+        "url": "https://github.com/celestiaorg/lumina/pull/996",
+        "repo": "lumina",
+        "author": "citizen-stig",
+        "authorCategory": "coworker",
+        "reviewer": "renaynay",
+        "requestedAt": "2026-09-01T07:43:25Z"
+      },
+      {
         "number": 3283,
         "title": "build(deps): Bump go.opentelemetry.io/otel/exporters/stdout/stdouttrace from 1.45.0 to 1.46.0",
         "url": "https://github.com/celestiaorg/celestia-core/pull/3283",
@@ -411,5 +421,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-09-01T07:34:49.942Z"
+  "fetchedAt": "2026-09-01T07:44:27.214Z"
 }
