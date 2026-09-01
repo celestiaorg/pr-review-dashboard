@@ -89,7 +89,18 @@
         "requestedAt": "2026-08-28T08:08:50Z"
       }
     ],
-    "rootulp": [],
+    "rootulp": [
+      {
+        "number": 5219,
+        "title": "chore(nodebuilder/p2p): add 01node bootstrapper to Mocha [v0.31.x backport]",
+        "url": "https://github.com/celestiaorg/celestia-node/pull/5219",
+        "repo": "celestia-node",
+        "author": "rach-id",
+        "authorCategory": "coworker",
+        "reviewer": "rootulp",
+        "requestedAt": "2026-09-01T07:27:48Z"
+      }
+    ],
     "vgonkivs": [
       {
         "number": 5216,
@@ -110,6 +121,16 @@
         "authorCategory": "coworker",
         "reviewer": "vgonkivs",
         "requestedAt": "2026-08-31T17:16:21Z"
+      },
+      {
+        "number": 5218,
+        "title": "chore(p2p): add 01node bootstrapper to mocha-5",
+        "url": "https://github.com/celestiaorg/celestia-node/pull/5218",
+        "repo": "celestia-node",
+        "author": "rach-id",
+        "authorCategory": "coworker",
+        "reviewer": "vgonkivs",
+        "requestedAt": "2026-09-01T07:26:52Z"
       },
       {
         "number": 5199,
@@ -390,5 +411,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-09-01T07:24:21.794Z"
+  "fetchedAt": "2026-09-01T07:34:49.942Z"
 }
