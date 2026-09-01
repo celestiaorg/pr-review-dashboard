@@ -30,7 +30,7 @@ jobs:
       - if: github.event.action != 'closed'
         name: Fetch PR review data
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.REVIEW_DASHBOARD_TOKEN || secrets.GITHUB_TOKEN }}
         run: node scripts/fetch-data.js
 
       - if: github.event.action != 'closed'
