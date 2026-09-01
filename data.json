@@ -59,16 +59,6 @@
     ],
     "renaynay": [
       {
-        "number": 5216,
-        "title": "deps: restore OpenRPC docgen via verified go-jsonschema-walk mirror",
-        "url": "https://github.com/celestiaorg/celestia-node/pull/5216",
-        "repo": "celestia-node",
-        "author": "rach-id",
-        "authorCategory": "coworker",
-        "reviewer": "renaynay",
-        "requestedAt": "2026-08-31T18:09:54Z"
-      },
-      {
         "number": 3283,
         "title": "build(deps): Bump go.opentelemetry.io/otel/exporters/stdout/stdouttrace from 1.45.0 to 1.46.0",
         "url": "https://github.com/celestiaorg/celestia-core/pull/3283",
@@ -380,5 +370,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-09-01T15:29:07.396Z"
+  "fetchedAt": "2026-09-01T15:52:20.735Z"
 }
