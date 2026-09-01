@@ -1,17 +1,6 @@
 {
   "reviews": {
-    "chatton": [
-      {
-        "number": 3281,
-        "title": "build(deps): Bump github.com/aws/aws-sdk-go-v2/service/s3 from 1.107.3 to 1.109.1",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3281",
-        "repo": "celestia-core",
-        "author": "dependabot",
-        "authorCategory": "bot",
-        "reviewer": "chatton",
-        "requestedAt": "2026-08-31T09:40:05Z"
-      }
-    ],
+    "chatton": [],
     "pippokr": [],
     "ninabarbakadze": [
       {
@@ -400,5 +389,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-09-01T09:43:41.021Z"
+  "fetchedAt": "2026-09-01T09:51:06.043Z"
 }
