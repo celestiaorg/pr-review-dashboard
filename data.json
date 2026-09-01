@@ -13,18 +13,7 @@
       }
     ],
     "pippokr": [],
-    "ninabarbakadze": [
-      {
-        "number": 7762,
-        "title": "fix!: count MsgModuleQuerySafe queries against the block message limit",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7762",
-        "repo": "celestia-app",
-        "author": "rootulp",
-        "authorCategory": "coworker",
-        "reviewer": "ninabarbakadze",
-        "requestedAt": "2026-09-01T03:27:03Z"
-      }
-    ],
+    "ninabarbakadze": [],
     "rach-id": [
       {
         "number": 3286,
@@ -340,5 +329,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-09-01T16:19:45.752Z"
+  "fetchedAt": "2026-09-01T16:48:08.184Z"
 }
