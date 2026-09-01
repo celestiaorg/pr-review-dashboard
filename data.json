@@ -34,6 +34,16 @@
         "authorCategory": "coworker",
         "reviewer": "ninabarbakadze",
         "requestedAt": "2026-08-31T20:46:49Z"
+      },
+      {
+        "number": 7761,
+        "title": "fix!: count ICA messages in MsgRecvPacket against the block message limit",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/7761",
+        "repo": "celestia-app",
+        "author": "rootulp",
+        "authorCategory": "coworker",
+        "reviewer": "ninabarbakadze",
+        "requestedAt": "2026-09-01T03:10:43Z"
       }
     ],
     "rach-id": [
@@ -401,5 +411,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-09-01T03:00:39.458Z"
+  "fetchedAt": "2026-09-01T03:26:41.304Z"
 }
