@@ -12,18 +12,7 @@
         "requestedAt": "2026-08-31T09:40:05Z"
       }
     ],
-    "pippokr": [
-      {
-        "number": 995,
-        "title": "chore(rsema1d) update bench and fuzz.",
-        "url": "https://github.com/celestiaorg/lumina/pull/995",
-        "repo": "lumina",
-        "author": "citizen-stig",
-        "authorCategory": "coworker",
-        "reviewer": "pippokr",
-        "requestedAt": "2026-08-31T08:48:22Z"
-      }
-    ],
+    "pippokr": [],
     "ninabarbakadze": [
       {
         "number": 7761,
@@ -57,16 +46,6 @@
         "authorCategory": "coworker",
         "reviewer": "renaynay",
         "requestedAt": "2026-08-31T18:09:54Z"
-      },
-      {
-        "number": 996,
-        "title": "feat(fibre): Add TLS support",
-        "url": "https://github.com/celestiaorg/lumina/pull/996",
-        "repo": "lumina",
-        "author": "citizen-stig",
-        "authorCategory": "coworker",
-        "reviewer": "renaynay",
-        "requestedAt": "2026-09-01T07:43:25Z"
       },
       {
         "number": 3283,
@@ -421,5 +400,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-09-01T07:57:27.183Z"
+  "fetchedAt": "2026-09-01T08:24:11.151Z"
 }
