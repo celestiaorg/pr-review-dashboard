@@ -15,16 +15,6 @@
     "pippokr": [],
     "ninabarbakadze": [
       {
-        "number": 7761,
-        "title": "fix!: count ICA messages in MsgRecvPacket against the block message limit",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7761",
-        "repo": "celestia-app",
-        "author": "rootulp",
-        "authorCategory": "coworker",
-        "reviewer": "ninabarbakadze",
-        "requestedAt": "2026-09-01T03:10:43Z"
-      },
-      {
         "number": 7762,
         "title": "fix!: count MsgModuleQuerySafe queries against the block message limit",
         "url": "https://github.com/celestiaorg/celestia-app/pull/7762",
@@ -59,16 +49,6 @@
     ],
     "renaynay": [
       {
-        "number": 3283,
-        "title": "build(deps): Bump go.opentelemetry.io/otel/exporters/stdout/stdouttrace from 1.45.0 to 1.46.0",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3283",
-        "repo": "celestia-core",
-        "author": "dependabot",
-        "authorCategory": "bot",
-        "reviewer": "renaynay",
-        "requestedAt": "2026-08-31T09:40:18Z"
-      },
-      {
         "number": 5191,
         "title": "fix(pruner): handle out-of-order header deletion callbacks",
         "url": "https://github.com/celestiaorg/celestia-node/pull/5191",
@@ -77,16 +57,6 @@
         "authorCategory": "external",
         "reviewer": "renaynay",
         "requestedAt": "2026-08-25T12:31:13Z"
-      },
-      {
-        "number": 410,
-        "title": "feat(store): expose cache access metric",
-        "url": "https://github.com/celestiaorg/go-header/pull/410",
-        "repo": "go-header",
-        "author": "loglapa",
-        "authorCategory": "external",
-        "reviewer": "renaynay",
-        "requestedAt": "2026-08-28T08:08:50Z"
       }
     ],
     "rootulp": [],
@@ -370,5 +340,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-09-01T15:52:20.735Z"
+  "fetchedAt": "2026-09-01T16:19:45.752Z"
 }
