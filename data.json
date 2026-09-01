@@ -26,16 +26,6 @@
     ],
     "ninabarbakadze": [
       {
-        "number": 7760,
-        "title": "refactor: simplify getTxPriority to a single utia fee amount",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7760",
-        "repo": "celestia-app",
-        "author": "rootulp",
-        "authorCategory": "coworker",
-        "reviewer": "ninabarbakadze",
-        "requestedAt": "2026-08-31T20:46:49Z"
-      },
-      {
         "number": 7761,
         "title": "fix!: count ICA messages in MsgRecvPacket against the block message limit",
         "url": "https://github.com/celestiaorg/celestia-app/pull/7761",
@@ -56,28 +46,7 @@
         "requestedAt": "2026-09-01T03:27:03Z"
       }
     ],
-    "rach-id": [
-      {
-        "number": 7760,
-        "title": "refactor: simplify getTxPriority to a single utia fee amount",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7760",
-        "repo": "celestia-app",
-        "author": "rootulp",
-        "authorCategory": "coworker",
-        "reviewer": "rach-id",
-        "requestedAt": "2026-08-31T20:46:43Z"
-      },
-      {
-        "number": 454,
-        "title": "chore: Bump github/codeql-action from 4.37.8 to 4.37.9",
-        "url": "https://github.com/celestiaorg/blobstream-contracts/pull/454",
-        "repo": "blobstream-contracts",
-        "author": "dependabot",
-        "authorCategory": "bot",
-        "reviewer": "rach-id",
-        "requestedAt": "2026-08-31T23:53:52Z"
-      }
-    ],
+    "rach-id": [],
     "renaynay": [
       {
         "number": 5216,
@@ -421,5 +390,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-09-01T04:57:28.853Z"
+  "fetchedAt": "2026-09-01T05:17:54.494Z"
 }
