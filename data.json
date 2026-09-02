@@ -14,7 +14,18 @@
     ],
     "pippokr": [],
     "ninabarbakadze": [],
-    "rach-id": [],
+    "rach-id": [
+      {
+        "number": 7763,
+        "title": "docs: add Fibre elastic shard storage ADR",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/7763",
+        "repo": "celestia-app",
+        "author": "renaynay",
+        "authorCategory": "coworker",
+        "reviewer": "rach-id",
+        "requestedAt": "2026-09-02T18:41:52Z"
+      }
+    ],
     "renaynay": [
       {
         "number": 5191,
@@ -48,6 +59,16 @@
         "authorCategory": "coworker",
         "reviewer": "vgonkivs",
         "requestedAt": "2026-09-02T14:58:39Z"
+      },
+      {
+        "number": 7763,
+        "title": "docs: add Fibre elastic shard storage ADR",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/7763",
+        "repo": "celestia-app",
+        "author": "renaynay",
+        "authorCategory": "coworker",
+        "reviewer": "vgonkivs",
+        "requestedAt": "2026-09-02T18:41:53Z"
       },
       {
         "number": 5199,
@@ -328,5 +349,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-09-02T18:37:34.455Z"
+  "fetchedAt": "2026-09-02T18:46:22.770Z"
 }
