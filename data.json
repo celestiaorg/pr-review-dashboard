@@ -1,6 +1,17 @@
 {
   "reviews": {
-    "chatton": [],
+    "chatton": [
+      {
+        "number": 7766,
+        "title": "docs: simplify fibre server TLS section for node operators",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/7766",
+        "repo": "celestia-app",
+        "author": "rach-id",
+        "authorCategory": "coworker",
+        "reviewer": "chatton",
+        "requestedAt": "2026-09-02T14:45:55Z"
+      }
+    ],
     "pippokr": [],
     "ninabarbakadze": [],
     "rach-id": [
@@ -29,6 +40,16 @@
     ],
     "rootulp": [],
     "vgonkivs": [
+      {
+        "number": 7766,
+        "title": "docs: simplify fibre server TLS section for node operators",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/7766",
+        "repo": "celestia-app",
+        "author": "rach-id",
+        "authorCategory": "coworker",
+        "reviewer": "vgonkivs",
+        "requestedAt": "2026-09-02T14:49:04Z"
+      },
       {
         "number": 5199,
         "title": "chore(deps): bump github.com/celestiaorg/go-square/v4 from 4.0.0-rc5 to 4.0.0",
@@ -308,5 +329,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-09-02T14:42:20.625Z"
+  "fetchedAt": "2026-09-02T14:49:26.095Z"
 }
