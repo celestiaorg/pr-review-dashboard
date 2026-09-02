@@ -27,6 +27,16 @@
     ],
     "renaynay": [
       {
+        "number": 7764,
+        "title": "chore(deps): bump celestia-core to v0.41.0 and nmt to v0.24.4 and rsmt2d to v0.15.3 and cosmos-sdk api to v0.7.7",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/7764",
+        "repo": "celestia-app",
+        "author": "rach-id",
+        "authorCategory": "coworker",
+        "reviewer": "renaynay",
+        "requestedAt": "2026-09-02T11:41:55Z"
+      },
+      {
         "number": 5191,
         "title": "fix(pruner): handle out-of-order header deletion callbacks",
         "url": "https://github.com/celestiaorg/celestia-node/pull/5191",
@@ -329,5 +339,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-09-02T11:38:43.498Z"
+  "fetchedAt": "2026-09-02T11:45:14.450Z"
 }
