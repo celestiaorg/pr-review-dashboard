@@ -27,18 +27,7 @@
         "requestedAt": "2026-08-25T12:31:13Z"
       }
     ],
-    "rootulp": [
-      {
-        "number": 7763,
-        "title": "docs: add Fibre elastic shard storage ADR",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7763",
-        "repo": "celestia-app",
-        "author": "renaynay",
-        "authorCategory": "coworker",
-        "reviewer": "rootulp",
-        "requestedAt": "2026-09-02T11:10:38Z"
-      }
-    ],
+    "rootulp": [],
     "vgonkivs": [
       {
         "number": 5199,
@@ -319,5 +308,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-09-02T13:40:01.825Z"
+  "fetchedAt": "2026-09-02T13:46:31.551Z"
 }
