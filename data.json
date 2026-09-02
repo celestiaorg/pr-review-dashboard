@@ -61,16 +61,6 @@
     ],
     "vgonkivs": [
       {
-        "number": 7764,
-        "title": "chore(deps): bump celestia-core to v0.41.0 and nmt to v0.24.4 and rsmt2d to v0.15.3 and cosmos-sdk api to v0.7.7",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7764",
-        "repo": "celestia-app",
-        "author": "rach-id",
-        "authorCategory": "coworker",
-        "reviewer": "vgonkivs",
-        "requestedAt": "2026-09-02T12:16:31Z"
-      },
-      {
         "number": 7765,
         "title": "docs: add v10 node operator release notes",
         "url": "https://github.com/celestiaorg/celestia-app/pull/7765",
@@ -359,5 +349,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-09-02T12:30:23.614Z"
+  "fetchedAt": "2026-09-02T12:48:15.133Z"
 }
