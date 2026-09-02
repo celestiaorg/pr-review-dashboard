@@ -13,7 +13,18 @@
       }
     ],
     "pippokr": [],
-    "ninabarbakadze": [],
+    "ninabarbakadze": [
+      {
+        "number": 7761,
+        "title": "fix!: count ICA messages in MsgRecvPacket against the block message limit",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/7761",
+        "repo": "celestia-app",
+        "author": "rootulp",
+        "authorCategory": "coworker",
+        "reviewer": "ninabarbakadze",
+        "requestedAt": "2026-09-02T00:09:06Z"
+      }
+    ],
     "rach-id": [
       {
         "number": 3286,
@@ -34,6 +45,16 @@
         "authorCategory": "coworker",
         "reviewer": "rach-id",
         "requestedAt": "2026-09-01T14:05:04Z"
+      },
+      {
+        "number": 7761,
+        "title": "fix!: count ICA messages in MsgRecvPacket against the block message limit",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/7761",
+        "repo": "celestia-app",
+        "author": "rootulp",
+        "authorCategory": "coworker",
+        "reviewer": "rach-id",
+        "requestedAt": "2026-09-02T00:09:05Z"
       }
     ],
     "renaynay": [
@@ -329,5 +350,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-09-01T23:57:31.007Z"
+  "fetchedAt": "2026-09-02T00:47:38.150Z"
 }
