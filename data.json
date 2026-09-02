@@ -34,16 +34,6 @@
         "authorCategory": "coworker",
         "reviewer": "rach-id",
         "requestedAt": "2026-09-01T14:05:04Z"
-      },
-      {
-        "number": 3288,
-        "title": "test: extend tests to cover heavy request cases",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3288",
-        "repo": "celestia-core",
-        "author": "vgonkivs",
-        "authorCategory": "coworker",
-        "reviewer": "rach-id",
-        "requestedAt": "2026-09-02T09:38:12Z"
       }
     ],
     "renaynay": [
@@ -339,5 +329,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-09-02T10:30:50.883Z"
+  "fetchedAt": "2026-09-02T10:41:01.918Z"
 }
