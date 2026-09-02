@@ -14,28 +14,7 @@
     ],
     "pippokr": [],
     "ninabarbakadze": [],
-    "rach-id": [
-      {
-        "number": 3286,
-        "title": "fix(propagation): reject conflicting cached proposals",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3286",
-        "repo": "celestia-core",
-        "author": "ninabarbakadze",
-        "authorCategory": "coworker",
-        "reviewer": "rach-id",
-        "requestedAt": "2026-09-01T13:48:05Z"
-      },
-      {
-        "number": 429,
-        "title": "chore(deps): Bump github.com/celestiaorg/nmt from 0.24.3 to 0.24.4",
-        "url": "https://github.com/celestiaorg/rsmt2d/pull/429",
-        "repo": "rsmt2d",
-        "author": "dependabot",
-        "authorCategory": "bot",
-        "reviewer": "rach-id",
-        "requestedAt": "2026-09-02T15:52:36Z"
-      }
-    ],
+    "rach-id": [],
     "renaynay": [
       {
         "number": 5191,
@@ -360,5 +339,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-09-02T15:57:02.931Z"
+  "fetchedAt": "2026-09-02T16:17:03.962Z"
 }
