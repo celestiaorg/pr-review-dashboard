@@ -24,6 +24,16 @@
         "authorCategory": "coworker",
         "reviewer": "rach-id",
         "requestedAt": "2026-09-01T13:48:05Z"
+      },
+      {
+        "number": 429,
+        "title": "chore(deps): Bump github.com/celestiaorg/nmt from 0.24.3 to 0.24.4",
+        "url": "https://github.com/celestiaorg/rsmt2d/pull/429",
+        "repo": "rsmt2d",
+        "author": "dependabot",
+        "authorCategory": "bot",
+        "reviewer": "rach-id",
+        "requestedAt": "2026-09-02T15:52:36Z"
       }
     ],
     "renaynay": [
@@ -38,7 +48,18 @@
         "requestedAt": "2026-08-25T12:31:13Z"
       }
     ],
-    "rootulp": [],
+    "rootulp": [
+      {
+        "number": 7771,
+        "title": "fix: force inter-block cache on for embedded v3 app",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/7771",
+        "repo": "celestia-app",
+        "author": "rach-id",
+        "authorCategory": "coworker",
+        "reviewer": "rootulp",
+        "requestedAt": "2026-09-02T15:55:48Z"
+      }
+    ],
     "vgonkivs": [
       {
         "number": 7766,
@@ -59,16 +80,6 @@
         "authorCategory": "coworker",
         "reviewer": "vgonkivs",
         "requestedAt": "2026-09-02T14:58:39Z"
-      },
-      {
-        "number": 5207,
-        "title": "perf(share/shrex): Improve shrex-eds sync by ~2.5x",
-        "url": "https://github.com/celestiaorg/celestia-node/pull/5207",
-        "repo": "celestia-node",
-        "author": "renaynay",
-        "authorCategory": "coworker",
-        "reviewer": "vgonkivs",
-        "requestedAt": "2026-09-02T15:10:45Z"
       },
       {
         "number": 5199,
@@ -349,5 +360,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-09-02T15:50:27.419Z"
+  "fetchedAt": "2026-09-02T15:57:02.931Z"
 }
