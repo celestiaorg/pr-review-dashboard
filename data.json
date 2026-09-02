@@ -27,18 +27,7 @@
         "requestedAt": "2026-08-25T12:31:13Z"
       }
     ],
-    "rootulp": [
-      {
-        "number": 7771,
-        "title": "fix: force inter-block cache on for embedded v3 app",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7771",
-        "repo": "celestia-app",
-        "author": "rach-id",
-        "authorCategory": "coworker",
-        "reviewer": "rootulp",
-        "requestedAt": "2026-09-02T15:55:48Z"
-      }
-    ],
+    "rootulp": [],
     "vgonkivs": [
       {
         "number": 7766,
@@ -339,5 +328,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-09-02T17:12:38.238Z"
+  "fetchedAt": "2026-09-02T17:23:53.283Z"
 }
