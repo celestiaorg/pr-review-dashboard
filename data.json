@@ -14,7 +14,18 @@
     ],
     "pippokr": [],
     "ninabarbakadze": [],
-    "rach-id": [],
+    "rach-id": [
+      {
+        "number": 1013,
+        "title": "chore(fibre,rsema1d): add wasm32 benchmarks",
+        "url": "https://github.com/celestiaorg/lumina/pull/1013",
+        "repo": "lumina",
+        "author": "citizen-stig",
+        "authorCategory": "coworker",
+        "reviewer": "rach-id",
+        "requestedAt": "2026-09-03T18:29:02Z"
+      }
+    ],
     "renaynay": [
       {
         "number": 7772,
@@ -358,5 +369,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-09-03T18:20:44.600Z"
+  "fetchedAt": "2026-09-03T18:35:34.794Z"
 }
