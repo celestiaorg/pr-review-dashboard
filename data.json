@@ -29,16 +29,6 @@
     "rootulp": [],
     "vgonkivs": [
       {
-        "number": 7766,
-        "title": "docs: simplify fibre server TLS section for node operators",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7766",
-        "repo": "celestia-app",
-        "author": "rach-id",
-        "authorCategory": "coworker",
-        "reviewer": "vgonkivs",
-        "requestedAt": "2026-09-02T14:49:04Z"
-      },
-      {
         "number": 7767,
         "title": "docs: simplify fibre server signing section",
         "url": "https://github.com/celestiaorg/celestia-app/pull/7767",
@@ -347,5 +337,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-09-03T08:31:30.036Z"
+  "fetchedAt": "2026-09-03T08:46:32.079Z"
 }
