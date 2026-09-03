@@ -39,26 +39,6 @@
         "requestedAt": "2026-09-02T14:58:39Z"
       },
       {
-        "number": 7763,
-        "title": "docs: add Fibre elastic shard storage ADR",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7763",
-        "repo": "celestia-app",
-        "author": "renaynay",
-        "authorCategory": "coworker",
-        "reviewer": "vgonkivs",
-        "requestedAt": "2026-09-02T18:41:53Z"
-      },
-      {
-        "number": 7773,
-        "title": "test(fibre): wait for settlement state visibility before asserting",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7773",
-        "repo": "celestia-app",
-        "author": "rach-id",
-        "authorCategory": "coworker",
-        "reviewer": "vgonkivs",
-        "requestedAt": "2026-09-03T05:10:18Z"
-      },
-      {
         "number": 5199,
         "title": "chore(deps): bump github.com/celestiaorg/go-square/v4 from 4.0.0-rc5 to 4.0.0",
         "url": "https://github.com/celestiaorg/celestia-node/pull/5199",
@@ -277,16 +257,6 @@
         "authorCategory": "external",
         "reviewer": "vgonkivs",
         "requestedAt": "2026-08-28T19:04:55Z"
-      },
-      {
-        "number": 5208,
-        "title": "fix(shrex/peers): filter incompatible discovered peers",
-        "url": "https://github.com/celestiaorg/celestia-node/pull/5208",
-        "repo": "celestia-node",
-        "author": "loglapa",
-        "authorCategory": "external",
-        "reviewer": "vgonkivs",
-        "requestedAt": "2026-08-28T22:22:18Z"
       }
     ],
     "walldiss": []
@@ -337,5 +307,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-09-03T09:01:28.674Z"
+  "fetchedAt": "2026-09-03T09:23:54.383Z"
 }
