@@ -3,18 +3,7 @@
     "chatton": [],
     "pippokr": [],
     "ninabarbakadze": [],
-    "rach-id": [
-      {
-        "number": 5221,
-        "title": "chore: bump fibre to the latest app version",
-        "url": "https://github.com/celestiaorg/celestia-node/pull/5221",
-        "repo": "celestia-node",
-        "author": "vgonkivs",
-        "authorCategory": "coworker",
-        "reviewer": "rach-id",
-        "requestedAt": "2026-09-03T10:58:48Z"
-      }
-    ],
+    "rach-id": [],
     "renaynay": [
       {
         "number": 7772,
@@ -328,5 +317,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-09-03T10:58:55.908Z"
+  "fetchedAt": "2026-09-03T11:16:48.925Z"
 }
