@@ -1,6 +1,17 @@
 {
   "reviews": {
-    "chatton": [],
+    "chatton": [
+      {
+        "number": 411,
+        "title": "perf(store): avoid loading headers while finding boundaries",
+        "url": "https://github.com/celestiaorg/go-header/pull/411",
+        "repo": "go-header",
+        "author": "loglapa",
+        "authorCategory": "external",
+        "reviewer": "chatton",
+        "requestedAt": "2026-09-03T18:05:10Z"
+      }
+    ],
     "pippokr": [],
     "ninabarbakadze": [],
     "rach-id": [],
@@ -287,6 +298,16 @@
         "authorCategory": "external",
         "reviewer": "vgonkivs",
         "requestedAt": "2026-09-03T17:54:59Z"
+      },
+      {
+        "number": 5222,
+        "title": "cmd: Comply with POSIX utility syntax",
+        "url": "https://github.com/celestiaorg/celestia-node/pull/5222",
+        "repo": "celestia-node",
+        "author": "loglapa",
+        "authorCategory": "external",
+        "reviewer": "vgonkivs",
+        "requestedAt": "2026-09-03T18:19:37Z"
       }
     ],
     "walldiss": []
@@ -337,5 +358,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-09-03T17:57:22.276Z"
+  "fetchedAt": "2026-09-03T18:20:44.600Z"
 }
