@@ -1,17 +1,6 @@
 {
   "reviews": {
-    "chatton": [
-      {
-        "number": 7766,
-        "title": "docs: simplify fibre server TLS section for node operators",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7766",
-        "repo": "celestia-app",
-        "author": "rach-id",
-        "authorCategory": "coworker",
-        "reviewer": "chatton",
-        "requestedAt": "2026-09-02T14:45:55Z"
-      }
-    ],
+    "chatton": [],
     "pippokr": [],
     "ninabarbakadze": [],
     "rach-id": [],
@@ -358,5 +347,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-09-03T07:41:37.800Z"
+  "fetchedAt": "2026-09-03T07:48:42.126Z"
 }
