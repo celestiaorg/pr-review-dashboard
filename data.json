@@ -277,6 +277,16 @@
         "authorCategory": "external",
         "reviewer": "vgonkivs",
         "requestedAt": "2026-08-28T19:04:55Z"
+      },
+      {
+        "number": 7780,
+        "title": "fix: populate app version in exported consensus params",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/7780",
+        "repo": "celestia-app",
+        "author": "loglapa",
+        "authorCategory": "external",
+        "reviewer": "vgonkivs",
+        "requestedAt": "2026-09-03T17:54:59Z"
       }
     ],
     "walldiss": []
@@ -327,5 +337,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-09-03T17:50:57.789Z"
+  "fetchedAt": "2026-09-03T17:57:22.276Z"
 }
