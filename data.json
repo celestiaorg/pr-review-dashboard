@@ -17,6 +17,16 @@
     "rach-id": [],
     "renaynay": [
       {
+        "number": 7772,
+        "title": "feat: report effective tx latency alongside actual latency",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/7772",
+        "repo": "celestia-app",
+        "author": "rach-id",
+        "authorCategory": "coworker",
+        "reviewer": "renaynay",
+        "requestedAt": "2026-09-03T04:49:18Z"
+      },
+      {
         "number": 5191,
         "title": "fix(pruner): handle out-of-order header deletion callbacks",
         "url": "https://github.com/celestiaorg/celestia-node/pull/5191",
@@ -58,6 +68,16 @@
         "authorCategory": "coworker",
         "reviewer": "vgonkivs",
         "requestedAt": "2026-09-02T18:41:53Z"
+      },
+      {
+        "number": 7773,
+        "title": "test(fibre): wait for settlement state visibility before asserting",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/7773",
+        "repo": "celestia-app",
+        "author": "rach-id",
+        "authorCategory": "coworker",
+        "reviewer": "vgonkivs",
+        "requestedAt": "2026-09-03T05:10:18Z"
       },
       {
         "number": 5199,
@@ -338,5 +358,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-09-03T04:42:47.362Z"
+  "fetchedAt": "2026-09-03T05:31:26.959Z"
 }
