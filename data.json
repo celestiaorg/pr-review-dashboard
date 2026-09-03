@@ -39,6 +39,16 @@
         "requestedAt": "2026-09-02T14:58:39Z"
       },
       {
+        "number": 7775,
+        "title": "fix(fibre): retry PayForFibre broadcast until the signing height commits",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/7775",
+        "repo": "celestia-app",
+        "author": "rach-id",
+        "authorCategory": "coworker",
+        "reviewer": "vgonkivs",
+        "requestedAt": "2026-09-03T06:28:15Z"
+      },
+      {
         "number": 5199,
         "title": "chore(deps): bump github.com/celestiaorg/go-square/v4 from 4.0.0-rc5 to 4.0.0",
         "url": "https://github.com/celestiaorg/celestia-node/pull/5199",
@@ -307,5 +317,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-09-03T10:14:32.076Z"
+  "fetchedAt": "2026-09-03T10:28:31.918Z"
 }
