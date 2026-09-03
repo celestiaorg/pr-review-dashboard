@@ -48,7 +48,18 @@
         "requestedAt": "2026-09-03T11:49:37Z"
       }
     ],
-    "rootulp": [],
+    "rootulp": [
+      {
+        "number": 7781,
+        "title": "fix(chainbuilder): gracefully handle cancellation",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/7781",
+        "repo": "celestia-app",
+        "author": "loglapa",
+        "authorCategory": "external",
+        "reviewer": "rootulp",
+        "requestedAt": "2026-09-03T18:38:32Z"
+      }
+    ],
     "vgonkivs": [
       {
         "number": 7767,
@@ -369,5 +380,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-09-03T18:35:34.794Z"
+  "fetchedAt": "2026-09-03T18:47:04.426Z"
 }
