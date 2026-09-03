@@ -3,7 +3,18 @@
     "chatton": [],
     "pippokr": [],
     "ninabarbakadze": [],
-    "rach-id": [],
+    "rach-id": [
+      {
+        "number": 1010,
+        "title": "chore(fibre,rsema1d): include packages in CI",
+        "url": "https://github.com/celestiaorg/lumina/pull/1010",
+        "repo": "lumina",
+        "author": "citizen-stig",
+        "authorCategory": "coworker",
+        "reviewer": "rach-id",
+        "requestedAt": "2026-09-03T07:53:21Z"
+      }
+    ],
     "renaynay": [
       {
         "number": 7772,
@@ -347,5 +358,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-09-03T07:48:42.126Z"
+  "fetchedAt": "2026-09-03T07:55:13.709Z"
 }
