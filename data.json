@@ -17,16 +17,6 @@
     "rach-id": [],
     "renaynay": [
       {
-        "number": 7772,
-        "title": "feat: report effective tx latency alongside actual latency",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7772",
-        "repo": "celestia-app",
-        "author": "rach-id",
-        "authorCategory": "coworker",
-        "reviewer": "renaynay",
-        "requestedAt": "2026-09-03T04:49:18Z"
-      },
-      {
         "number": 7778,
         "title": "fix: bound the PFB tx cache with an LRU",
         "url": "https://github.com/celestiaorg/celestia-app/pull/7778",
@@ -369,5 +359,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-09-04T07:34:15.941Z"
+  "fetchedAt": "2026-09-04T07:43:26.463Z"
 }
