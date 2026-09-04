@@ -35,18 +35,7 @@
         "requestedAt": "2026-09-04T12:13:00Z"
       }
     ],
-    "rach-id": [
-      {
-        "number": 983,
-        "title": "perf(grpc): right-size broadcast encoding buffers",
-        "url": "https://github.com/celestiaorg/lumina/pull/983",
-        "repo": "lumina",
-        "author": "citizen-stig",
-        "authorCategory": "coworker",
-        "reviewer": "rach-id",
-        "requestedAt": "2026-09-04T12:13:30Z"
-      }
-    ],
+    "rach-id": [],
     "renaynay": [
       {
         "number": 7778,
@@ -401,5 +390,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-09-04T16:20:30.551Z"
+  "fetchedAt": "2026-09-04T16:30:55.594Z"
 }
