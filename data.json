@@ -14,18 +14,7 @@
     ],
     "pippokr": [],
     "ninabarbakadze": [],
-    "rach-id": [
-      {
-        "number": 7779,
-        "title": "docs: clarify Fibre prune integrity handling in ADR 030",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7779",
-        "repo": "celestia-app",
-        "author": "renaynay",
-        "authorCategory": "coworker",
-        "reviewer": "rach-id",
-        "requestedAt": "2026-09-04T07:49:21Z"
-      }
-    ],
+    "rach-id": [],
     "renaynay": [
       {
         "number": 7778,
@@ -370,5 +359,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-09-04T07:57:34.412Z"
+  "fetchedAt": "2026-09-04T08:22:01.332Z"
 }
