@@ -25,16 +25,6 @@
         "authorCategory": "coworker",
         "reviewer": "renaynay",
         "requestedAt": "2026-09-03T11:49:37Z"
-      },
-      {
-        "number": 1015,
-        "title": "perf(fibre,rsema1d): hand rows to wire without copying",
-        "url": "https://github.com/celestiaorg/lumina/pull/1015",
-        "repo": "lumina",
-        "author": "citizen-stig",
-        "authorCategory": "coworker",
-        "reviewer": "renaynay",
-        "requestedAt": "2026-09-04T09:23:39Z"
       }
     ],
     "rootulp": [
@@ -369,5 +359,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-09-04T11:03:20.386Z"
+  "fetchedAt": "2026-09-04T11:11:22.951Z"
 }
