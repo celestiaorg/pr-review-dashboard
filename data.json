@@ -22,18 +22,7 @@
         "requestedAt": "2026-09-03T18:05:10Z"
       }
     ],
-    "pippokr": [
-      {
-        "number": 413,
-        "title": "chore(deps): bump go.opentelemetry.io/otel/sdk from 1.41.0 to 1.43.0",
-        "url": "https://github.com/celestiaorg/go-header/pull/413",
-        "repo": "go-header",
-        "author": "dependabot",
-        "authorCategory": "bot",
-        "reviewer": "pippokr",
-        "requestedAt": "2026-09-04T12:14:08Z"
-      }
-    ],
+    "pippokr": [],
     "ninabarbakadze": [
       {
         "number": 982,
@@ -412,5 +401,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-09-04T15:58:53.948Z"
+  "fetchedAt": "2026-09-04T16:20:30.551Z"
 }
