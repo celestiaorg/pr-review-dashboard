@@ -124,16 +124,6 @@
         "requestedAt": "2026-09-03T11:44:33Z"
       },
       {
-        "number": 1018,
-        "title": "chore(grpc): wait for the node to catch up before querying a confirmed tx",
-        "url": "https://github.com/celestiaorg/lumina/pull/1018",
-        "repo": "lumina",
-        "author": "citizen-stig",
-        "authorCategory": "coworker",
-        "reviewer": "vgonkivs",
-        "requestedAt": "2026-09-04T13:40:04Z"
-      },
-      {
         "number": 5199,
         "title": "chore(deps): bump github.com/celestiaorg/go-square/v4 from 4.0.0-rc5 to 4.0.0",
         "url": "https://github.com/celestiaorg/celestia-node/pull/5199",
@@ -422,5 +412,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-09-04T14:02:12.687Z"
+  "fetchedAt": "2026-09-04T14:20:17.521Z"
 }
