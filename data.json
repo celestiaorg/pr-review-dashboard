@@ -71,16 +71,6 @@
         "requestedAt": "2026-09-03T11:44:33Z"
       },
       {
-        "number": 412,
-        "title": "ci: use Go version from go.mod",
-        "url": "https://github.com/celestiaorg/go-header/pull/412",
-        "repo": "go-header",
-        "author": "renaynay",
-        "authorCategory": "coworker",
-        "reviewer": "vgonkivs",
-        "requestedAt": "2026-09-04T11:37:33Z"
-      },
-      {
         "number": 5199,
         "title": "chore(deps): bump github.com/celestiaorg/go-square/v4 from 4.0.0-rc5 to 4.0.0",
         "url": "https://github.com/celestiaorg/celestia-node/pull/5199",
@@ -369,5 +359,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-09-04T11:39:12.666Z"
+  "fetchedAt": "2026-09-04T11:52:45.741Z"
 }
