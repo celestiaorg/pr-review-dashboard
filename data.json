@@ -70,6 +70,16 @@
         "requestedAt": "2026-09-04T12:13:52Z"
       },
       {
+        "number": 7777,
+        "title": "feat(fibre): add versioned shard markers",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/7777",
+        "repo": "celestia-app",
+        "author": "renaynay",
+        "authorCategory": "coworker",
+        "reviewer": "rootulp",
+        "requestedAt": "2026-09-05T20:50:55Z"
+      },
+      {
         "number": 7781,
         "title": "fix(chainbuilder): gracefully handle cancellation",
         "url": "https://github.com/celestiaorg/celestia-app/pull/7781",
@@ -400,5 +410,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-09-05T20:44:19.619Z"
+  "fetchedAt": "2026-09-05T20:51:10.358Z"
 }
