@@ -6,9 +6,9 @@
       "year": 26
     },
     "pippokr": {
-      "week": 0,
-      "month": 0,
-      "year": 7
+      "week": 1,
+      "month": 1,
+      "year": 8
     },
     "ninabarbakadze": {
       "week": 2,
@@ -16,14 +16,14 @@
       "year": 521
     },
     "rach-id": {
-      "week": 10,
-      "month": 10,
-      "year": 769
+      "week": 12,
+      "month": 12,
+      "year": 771
     },
     "renaynay": {
-      "week": 5,
-      "month": 5,
-      "year": 52
+      "week": 7,
+      "month": 7,
+      "year": 54
     },
     "rootulp": {
       "week": 5,
@@ -31,9 +31,9 @@
       "year": 471
     },
     "vgonkivs": {
-      "week": 8,
-      "month": 8,
-      "year": 248
+      "week": 9,
+      "month": 9,
+      "year": 249
     },
     "walldiss": {
       "week": 0,
@@ -41,7 +41,7 @@
       "year": 123
     }
   },
-  "computedAt": "2026-09-04T00:11:11.790Z",
+  "computedAt": "2026-09-05T00:06:27.998Z",
   "windows": {
     "weekStart": "2026-08-31T00:00:00.000Z",
     "monthStart": "2026-09-01T00:00:00.000Z",
