@@ -70,6 +70,16 @@
         "requestedAt": "2026-09-05T20:50:55Z"
       },
       {
+        "number": 7788,
+        "title": "fix(signal)!: reschedule corto-1 v10 upgrade to the corto delay",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/7788",
+        "repo": "celestia-app",
+        "author": "rach-id",
+        "authorCategory": "coworker",
+        "reviewer": "rootulp",
+        "requestedAt": "2026-09-07T15:24:06Z"
+      },
+      {
         "number": 3295,
         "title": "build(deps): Bump github.com/prometheus/client_model from 0.6.2 to 0.6.3",
         "url": "https://github.com/celestiaorg/celestia-core/pull/3295",
@@ -91,36 +101,6 @@
       }
     ],
     "vgonkivs": [
-      {
-        "number": 7767,
-        "title": "docs: simplify fibre server signing section",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7767",
-        "repo": "celestia-app",
-        "author": "rach-id",
-        "authorCategory": "coworker",
-        "reviewer": "vgonkivs",
-        "requestedAt": "2026-09-02T14:58:39Z"
-      },
-      {
-        "number": 7775,
-        "title": "fix(fibre): retry PayForFibre broadcast until the signing height commits",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7775",
-        "repo": "celestia-app",
-        "author": "rach-id",
-        "authorCategory": "coworker",
-        "reviewer": "vgonkivs",
-        "requestedAt": "2026-09-03T06:28:15Z"
-      },
-      {
-        "number": 7788,
-        "title": "fix(signal)!: reschedule corto-1 v10 upgrade to the corto delay",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7788",
-        "repo": "celestia-app",
-        "author": "rach-id",
-        "authorCategory": "coworker",
-        "reviewer": "vgonkivs",
-        "requestedAt": "2026-09-07T15:16:42Z"
-      },
       {
         "number": 5199,
         "title": "chore(deps): bump github.com/celestiaorg/go-square/v4 from 4.0.0-rc5 to 4.0.0",
@@ -410,5 +390,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-09-07T15:19:15.023Z"
+  "fetchedAt": "2026-09-07T15:29:07.310Z"
 }
