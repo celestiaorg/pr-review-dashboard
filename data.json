@@ -2,16 +2,6 @@
   "reviews": {
     "chatton": [
       {
-        "number": 990,
-        "title": "bench(client): profile blob submission allocations",
-        "url": "https://github.com/celestiaorg/lumina/pull/990",
-        "repo": "lumina",
-        "author": "citizen-stig",
-        "authorCategory": "coworker",
-        "reviewer": "chatton",
-        "requestedAt": "2026-09-04T12:12:41Z"
-      },
-      {
         "number": 7783,
         "title": "ci: run tx submission before other nightly tests",
         "url": "https://github.com/celestiaorg/celestia-app/pull/7783",
@@ -33,18 +23,7 @@
       }
     ],
     "pippokr": [],
-    "ninabarbakadze": [
-      {
-        "number": 982,
-        "title": "perf(types): compute commitment roots without retaining NMT leaves",
-        "url": "https://github.com/celestiaorg/lumina/pull/982",
-        "repo": "lumina",
-        "author": "citizen-stig",
-        "authorCategory": "coworker",
-        "reviewer": "ninabarbakadze",
-        "requestedAt": "2026-09-04T12:13:00Z"
-      }
-    ],
+    "ninabarbakadze": [],
     "rach-id": [],
     "renaynay": [
       {
@@ -59,16 +38,6 @@
       }
     ],
     "rootulp": [
-      {
-        "number": 984,
-        "title": "perf(types): preallocate sparse blob shares",
-        "url": "https://github.com/celestiaorg/lumina/pull/984",
-        "repo": "lumina",
-        "author": "citizen-stig",
-        "authorCategory": "coworker",
-        "reviewer": "rootulp",
-        "requestedAt": "2026-09-04T12:13:52Z"
-      },
       {
         "number": 7777,
         "title": "feat(fibre): add versioned shard markers",
@@ -410,5 +379,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-09-07T05:42:24.221Z"
+  "fetchedAt": "2026-09-07T05:49:04.936Z"
 }
