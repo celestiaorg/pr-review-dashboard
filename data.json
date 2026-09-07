@@ -60,6 +60,16 @@
     ],
     "rootulp": [
       {
+        "number": 7789,
+        "title": "fix!: bump embedded v9 to v9.0.7-corto",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/7789",
+        "repo": "celestia-app",
+        "author": "rach-id",
+        "authorCategory": "coworker",
+        "reviewer": "rootulp",
+        "requestedAt": "2026-09-07T16:50:29Z"
+      },
+      {
         "number": 7781,
         "title": "fix(chainbuilder): gracefully handle cancellation",
         "url": "https://github.com/celestiaorg/celestia-app/pull/7781",
@@ -71,6 +81,16 @@
       }
     ],
     "vgonkivs": [
+      {
+        "number": 7789,
+        "title": "fix!: bump embedded v9 to v9.0.7-corto",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/7789",
+        "repo": "celestia-app",
+        "author": "rach-id",
+        "authorCategory": "coworker",
+        "reviewer": "vgonkivs",
+        "requestedAt": "2026-09-07T16:50:29Z"
+      },
       {
         "number": 5199,
         "title": "chore(deps): bump github.com/celestiaorg/go-square/v4 from 4.0.0-rc5 to 4.0.0",
@@ -360,5 +380,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-09-07T16:47:40.917Z"
+  "fetchedAt": "2026-09-07T16:53:39.172Z"
 }
