@@ -122,26 +122,6 @@
         "requestedAt": "2026-08-24T11:08:06Z"
       },
       {
-        "number": 5210,
-        "title": "chore(deps): bump golang from 1.26.5-alpine3.23 to 1.27.0-alpine3.23",
-        "url": "https://github.com/celestiaorg/celestia-node/pull/5210",
-        "repo": "celestia-node",
-        "author": "dependabot",
-        "authorCategory": "bot",
-        "reviewer": "vgonkivs",
-        "requestedAt": "2026-08-31T11:03:56Z"
-      },
-      {
-        "number": 5211,
-        "title": "chore(deps): bump google.golang.org/grpc from 1.83.1 to 1.83.2 in /nodebuilder/tests/tastora in the go-deps group across 1 directory",
-        "url": "https://github.com/celestiaorg/celestia-node/pull/5211",
-        "repo": "celestia-node",
-        "author": "dependabot",
-        "authorCategory": "bot",
-        "reviewer": "vgonkivs",
-        "requestedAt": "2026-08-31T11:07:32Z"
-      },
-      {
         "number": 3292,
         "title": "build(deps): Bump github.com/prometheus/common from 0.70.1 to 0.71.0",
         "url": "https://github.com/celestiaorg/celestia-core/pull/3292",
@@ -160,6 +140,26 @@
         "authorCategory": "bot",
         "reviewer": "vgonkivs",
         "requestedAt": "2026-09-07T09:43:55Z"
+      },
+      {
+        "number": 5223,
+        "title": "chore(deps): bump golang from 1.26.5-alpine3.23 to 1.27.1-alpine3.23",
+        "url": "https://github.com/celestiaorg/celestia-node/pull/5223",
+        "repo": "celestia-node",
+        "author": "dependabot",
+        "authorCategory": "bot",
+        "reviewer": "vgonkivs",
+        "requestedAt": "2026-09-07T11:03:53Z"
+      },
+      {
+        "number": 5224,
+        "title": "chore(deps): bump the go-deps group across 1 directory with 3 updates",
+        "url": "https://github.com/celestiaorg/celestia-node/pull/5224",
+        "repo": "celestia-node",
+        "author": "dependabot",
+        "authorCategory": "bot",
+        "reviewer": "vgonkivs",
+        "requestedAt": "2026-09-07T11:07:07Z"
       },
       {
         "number": 5165,
@@ -400,5 +400,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-09-07T11:01:37.514Z"
+  "fetchedAt": "2026-09-07T11:19:03.500Z"
 }
