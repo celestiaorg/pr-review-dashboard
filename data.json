@@ -35,16 +35,6 @@
         "requestedAt": "2026-09-07T06:36:39Z"
       },
       {
-        "number": 5225,
-        "title": "feat: add corto network",
-        "url": "https://github.com/celestiaorg/celestia-node/pull/5225",
-        "repo": "celestia-node",
-        "author": "vgonkivs",
-        "authorCategory": "coworker",
-        "reviewer": "ninabarbakadze",
-        "requestedAt": "2026-09-07T12:38:23Z"
-      },
-      {
         "number": 3294,
         "title": "build(deps): Bump github.com/aws/aws-sdk-go-v2/service/s3 from 1.109.1 to 1.110.0",
         "url": "https://github.com/celestiaorg/celestia-core/pull/3294",
@@ -56,18 +46,7 @@
       }
     ],
     "rach-id": [],
-    "renaynay": [
-      {
-        "number": 7778,
-        "title": "fix: bound the PFB tx cache with an LRU",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7778",
-        "repo": "celestia-app",
-        "author": "rach-id",
-        "authorCategory": "coworker",
-        "reviewer": "renaynay",
-        "requestedAt": "2026-09-03T11:49:37Z"
-      }
-    ],
+    "renaynay": [],
     "rootulp": [
       {
         "number": 7777,
@@ -420,5 +399,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-09-07T12:55:46.360Z"
+  "fetchedAt": "2026-09-07T13:09:37.075Z"
 }
