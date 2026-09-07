@@ -12,16 +12,6 @@
         "requestedAt": "2026-09-07T11:40:40Z"
       },
       {
-        "number": 3298,
-        "title": "fix(propagation): reject conflicting compact blocks and purge replaced peer state",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3298",
-        "repo": "celestia-core",
-        "author": "rach-id",
-        "authorCategory": "coworker",
-        "reviewer": "chatton",
-        "requestedAt": "2026-09-07T15:30:16Z"
-      },
-      {
         "number": 411,
         "title": "perf(store): avoid loading headers while finding boundaries",
         "url": "https://github.com/celestiaorg/go-header/pull/411",
@@ -370,5 +360,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-09-07T16:30:20.127Z"
+  "fetchedAt": "2026-09-07T16:40:16.735Z"
 }
