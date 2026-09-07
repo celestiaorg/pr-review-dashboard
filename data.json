@@ -23,7 +23,18 @@
       }
     ],
     "pippokr": [],
-    "ninabarbakadze": [],
+    "ninabarbakadze": [
+      {
+        "number": 3290,
+        "title": "fix(consensus)!: use the round-adjusted proposer for propagation after WAL replay",
+        "url": "https://github.com/celestiaorg/celestia-core/pull/3290",
+        "repo": "celestia-core",
+        "author": "rach-id",
+        "authorCategory": "coworker",
+        "reviewer": "ninabarbakadze",
+        "requestedAt": "2026-09-07T06:36:39Z"
+      }
+    ],
     "rach-id": [],
     "renaynay": [
       {
@@ -379,5 +390,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-09-07T06:18:26.669Z"
+  "fetchedAt": "2026-09-07T06:54:51.717Z"
 }
