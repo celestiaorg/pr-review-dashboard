@@ -2,16 +2,6 @@
   "reviews": {
     "chatton": [
       {
-        "number": 3293,
-        "title": "build(deps): Bump github.com/aws/aws-sdk-go-v2/credentials from 1.19.37 to 1.20.2",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3293",
-        "repo": "celestia-core",
-        "author": "dependabot",
-        "authorCategory": "bot",
-        "reviewer": "chatton",
-        "requestedAt": "2026-09-07T09:34:11Z"
-      },
-      {
         "number": 411,
         "title": "perf(store): avoid loading headers while finding boundaries",
         "url": "https://github.com/celestiaorg/go-header/pull/411",
@@ -430,5 +420,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-09-07T09:58:12.463Z"
+  "fetchedAt": "2026-09-07T10:20:44.918Z"
 }
