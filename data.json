@@ -2,6 +2,16 @@
   "reviews": {
     "chatton": [
       {
+        "number": 5220,
+        "title": "feat: add fibre support to celestia-node",
+        "url": "https://github.com/celestiaorg/celestia-node/pull/5220",
+        "repo": "celestia-node",
+        "author": "vgonkivs",
+        "authorCategory": "coworker",
+        "reviewer": "chatton",
+        "requestedAt": "2026-09-07T11:40:40Z"
+      },
+      {
         "number": 411,
         "title": "perf(store): avoid loading headers while finding boundaries",
         "url": "https://github.com/celestiaorg/go-header/pull/411",
@@ -400,5 +410,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-09-07T11:38:39.311Z"
+  "fetchedAt": "2026-09-07T11:45:08.394Z"
 }
