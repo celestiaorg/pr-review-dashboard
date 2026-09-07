@@ -22,18 +22,7 @@
         "requestedAt": "2026-09-03T18:05:10Z"
       }
     ],
-    "pippokr": [
-      {
-        "number": 3297,
-        "title": "build(deps): Bump github.com/aws/aws-sdk-go-v2/config from 1.32.38 to 1.33.2",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3297",
-        "repo": "celestia-core",
-        "author": "dependabot",
-        "authorCategory": "bot",
-        "reviewer": "pippokr",
-        "requestedAt": "2026-09-07T09:37:36Z"
-      }
-    ],
+    "pippokr": [],
     "ninabarbakadze": [
       {
         "number": 3290,
@@ -441,5 +430,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-09-07T09:51:48.509Z"
+  "fetchedAt": "2026-09-07T09:58:12.463Z"
 }
