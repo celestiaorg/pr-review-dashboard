@@ -35,6 +35,16 @@
         "requestedAt": "2026-09-07T06:36:39Z"
       },
       {
+        "number": 5225,
+        "title": "feat: add corto network",
+        "url": "https://github.com/celestiaorg/celestia-node/pull/5225",
+        "repo": "celestia-node",
+        "author": "vgonkivs",
+        "authorCategory": "coworker",
+        "reviewer": "ninabarbakadze",
+        "requestedAt": "2026-09-07T12:38:23Z"
+      },
+      {
         "number": 3294,
         "title": "build(deps): Bump github.com/aws/aws-sdk-go-v2/service/s3 from 1.109.1 to 1.110.0",
         "url": "https://github.com/celestiaorg/celestia-core/pull/3294",
@@ -410,5 +420,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-09-07T12:30:02.932Z"
+  "fetchedAt": "2026-09-07T12:47:42.552Z"
 }
