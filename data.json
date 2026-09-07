@@ -45,6 +45,16 @@
         "requestedAt": "2026-09-07T06:36:39Z"
       },
       {
+        "number": 7789,
+        "title": "fix!: bump embedded v9 to v9.0.7-corto",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/7789",
+        "repo": "celestia-app",
+        "author": "rach-id",
+        "authorCategory": "coworker",
+        "reviewer": "ninabarbakadze",
+        "requestedAt": "2026-09-07T16:08:18Z"
+      },
+      {
         "number": 3294,
         "title": "build(deps): Bump github.com/aws/aws-sdk-go-v2/service/s3 from 1.109.1 to 1.110.0",
         "url": "https://github.com/celestiaorg/celestia-core/pull/3294",
@@ -400,5 +410,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-09-07T15:58:03.615Z"
+  "fetchedAt": "2026-09-07T16:19:37.527Z"
 }
