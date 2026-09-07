@@ -2,16 +2,6 @@
   "reviews": {
     "chatton": [
       {
-        "number": 7783,
-        "title": "ci: run tx submission before other nightly tests",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7783",
-        "repo": "celestia-app",
-        "author": "rach-id",
-        "authorCategory": "coworker",
-        "reviewer": "chatton",
-        "requestedAt": "2026-09-05T06:08:09Z"
-      },
-      {
         "number": 411,
         "title": "perf(store): avoid loading headers while finding boundaries",
         "url": "https://github.com/celestiaorg/go-header/pull/411",
@@ -390,5 +380,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-09-07T08:58:43.487Z"
+  "fetchedAt": "2026-09-07T09:28:10.801Z"
 }
