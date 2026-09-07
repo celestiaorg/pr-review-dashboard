@@ -45,16 +45,6 @@
         "requestedAt": "2026-09-07T06:36:39Z"
       },
       {
-        "number": 7789,
-        "title": "fix!: bump embedded v9 to v9.0.7-corto",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7789",
-        "repo": "celestia-app",
-        "author": "rach-id",
-        "authorCategory": "coworker",
-        "reviewer": "ninabarbakadze",
-        "requestedAt": "2026-09-07T16:08:18Z"
-      },
-      {
         "number": 3294,
         "title": "build(deps): Bump github.com/aws/aws-sdk-go-v2/service/s3 from 1.109.1 to 1.110.0",
         "url": "https://github.com/celestiaorg/celestia-core/pull/3294",
@@ -79,36 +69,6 @@
       }
     ],
     "rootulp": [
-      {
-        "number": 7777,
-        "title": "feat(fibre): add versioned shard markers",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7777",
-        "repo": "celestia-app",
-        "author": "renaynay",
-        "authorCategory": "coworker",
-        "reviewer": "rootulp",
-        "requestedAt": "2026-09-05T20:50:55Z"
-      },
-      {
-        "number": 3298,
-        "title": "fix(propagation): reject conflicting compact blocks and purge replaced peer state",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3298",
-        "repo": "celestia-core",
-        "author": "rach-id",
-        "authorCategory": "coworker",
-        "reviewer": "rootulp",
-        "requestedAt": "2026-09-07T15:30:32Z"
-      },
-      {
-        "number": 3295,
-        "title": "build(deps): Bump github.com/prometheus/client_model from 0.6.2 to 0.6.3",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3295",
-        "repo": "celestia-core",
-        "author": "dependabot",
-        "authorCategory": "bot",
-        "reviewer": "rootulp",
-        "requestedAt": "2026-09-07T09:35:53Z"
-      },
       {
         "number": 7781,
         "title": "fix(chainbuilder): gracefully handle cancellation",
@@ -410,5 +370,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-09-07T16:19:37.527Z"
+  "fetchedAt": "2026-09-07T16:30:20.127Z"
 }
