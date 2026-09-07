@@ -80,16 +80,6 @@
         "requestedAt": "2026-09-05T20:50:55Z"
       },
       {
-        "number": 7788,
-        "title": "fix(signal)!: reschedule corto-1 v10 upgrade to the corto delay",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7788",
-        "repo": "celestia-app",
-        "author": "rach-id",
-        "authorCategory": "coworker",
-        "reviewer": "rootulp",
-        "requestedAt": "2026-09-07T15:24:06Z"
-      },
-      {
         "number": 3298,
         "title": "fix(propagation): reject conflicting compact blocks and purge replaced peer state",
         "url": "https://github.com/celestiaorg/celestia-core/pull/3298",
@@ -410,5 +400,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-09-07T15:45:17.887Z"
+  "fetchedAt": "2026-09-07T15:51:41.491Z"
 }
