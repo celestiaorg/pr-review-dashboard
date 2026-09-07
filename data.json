@@ -60,16 +60,6 @@
     ],
     "rootulp": [
       {
-        "number": 7789,
-        "title": "fix!: bump embedded v9 to v9.0.7-corto",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7789",
-        "repo": "celestia-app",
-        "author": "rach-id",
-        "authorCategory": "coworker",
-        "reviewer": "rootulp",
-        "requestedAt": "2026-09-07T16:50:29Z"
-      },
-      {
         "number": 7781,
         "title": "fix(chainbuilder): gracefully handle cancellation",
         "url": "https://github.com/celestiaorg/celestia-app/pull/7781",
@@ -380,5 +370,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-09-07T17:35:13.112Z"
+  "fetchedAt": "2026-09-07T17:41:50.790Z"
 }
