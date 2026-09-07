@@ -46,26 +46,6 @@
         "authorCategory": "coworker",
         "reviewer": "renaynay",
         "requestedAt": "2026-09-03T11:49:37Z"
-      },
-      {
-        "number": 3291,
-        "title": "build(deps): Bump golang.org/x/crypto from 0.55.0 to 0.56.0",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3291",
-        "repo": "celestia-core",
-        "author": "dependabot",
-        "authorCategory": "bot",
-        "reviewer": "renaynay",
-        "requestedAt": "2026-09-07T09:32:27Z"
-      },
-      {
-        "number": 7784,
-        "title": "chore(deps): bump the go-deps-docker-e2e group in /test/docker-e2e with 2 updates",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7784",
-        "repo": "celestia-app",
-        "author": "dependabot",
-        "authorCategory": "bot",
-        "reviewer": "renaynay",
-        "requestedAt": "2026-09-07T09:37:43Z"
       }
     ],
     "rootulp": [
@@ -420,5 +400,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-09-07T10:41:05.661Z"
+  "fetchedAt": "2026-09-07T10:47:40.734Z"
 }
