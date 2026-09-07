@@ -60,6 +60,16 @@
     ],
     "rootulp": [
       {
+        "number": 286,
+        "title": "chore(deps): bump github.com/celestiaorg/nmt from 0.24.3 to 0.24.4",
+        "url": "https://github.com/celestiaorg/go-square/pull/286",
+        "repo": "go-square",
+        "author": "dependabot",
+        "authorCategory": "bot",
+        "reviewer": "rootulp",
+        "requestedAt": "2026-09-07T19:32:51Z"
+      },
+      {
         "number": 7781,
         "title": "fix(chainbuilder): gracefully handle cancellation",
         "url": "https://github.com/celestiaorg/celestia-app/pull/7781",
@@ -360,5 +370,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-09-07T19:30:16.791Z"
+  "fetchedAt": "2026-09-07T19:39:12.985Z"
 }
