@@ -46,18 +46,7 @@
       }
     ],
     "rach-id": [],
-    "renaynay": [
-      {
-        "number": 5220,
-        "title": "feat: add fibre support to celestia-node",
-        "url": "https://github.com/celestiaorg/celestia-node/pull/5220",
-        "repo": "celestia-node",
-        "author": "vgonkivs",
-        "authorCategory": "coworker",
-        "reviewer": "renaynay",
-        "requestedAt": "2026-09-07T13:55:44Z"
-      }
-    ],
+    "renaynay": [],
     "rootulp": [
       {
         "number": 286,
@@ -370,5 +359,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-09-08T10:59:04.055Z"
+  "fetchedAt": "2026-09-08T11:17:40.401Z"
 }
