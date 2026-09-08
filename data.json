@@ -49,6 +49,16 @@
     "renaynay": [],
     "rootulp": [
       {
+        "number": 1031,
+        "title": "chore(types): make the test header generator clock monotonic",
+        "url": "https://github.com/celestiaorg/lumina/pull/1031",
+        "repo": "lumina",
+        "author": "citizen-stig",
+        "authorCategory": "coworker",
+        "reviewer": "rootulp",
+        "requestedAt": "2026-09-08T15:11:50Z"
+      },
+      {
         "number": 286,
         "title": "chore(deps): bump github.com/celestiaorg/nmt from 0.24.3 to 0.24.4",
         "url": "https://github.com/celestiaorg/go-square/pull/286",
@@ -359,5 +369,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-09-08T14:58:18.563Z"
+  "fetchedAt": "2026-09-08T15:19:55.663Z"
 }
