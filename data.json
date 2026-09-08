@@ -121,6 +121,16 @@
         "requestedAt": "2026-09-08T13:24:53Z"
       },
       {
+        "number": 430,
+        "title": "chore(deps): Bump golang.org/x/sync from 0.22.0 to 0.23.0",
+        "url": "https://github.com/celestiaorg/rsmt2d/pull/430",
+        "repo": "rsmt2d",
+        "author": "dependabot",
+        "authorCategory": "bot",
+        "reviewer": "vgonkivs",
+        "requestedAt": "2026-09-08T15:53:13Z"
+      },
+      {
         "number": 5165,
         "title": "core: Recover interrupted listener publications",
         "url": "https://github.com/celestiaorg/celestia-node/pull/5165",
@@ -359,5 +369,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-09-08T15:48:44.327Z"
+  "fetchedAt": "2026-09-08T15:55:06.774Z"
 }
