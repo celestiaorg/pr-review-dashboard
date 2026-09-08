@@ -2,6 +2,16 @@
   "reviews": {
     "chatton": [
       {
+        "number": 7786,
+        "title": "refactor(fibre): extract local shard storage",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/7786",
+        "repo": "celestia-app",
+        "author": "renaynay",
+        "authorCategory": "coworker",
+        "reviewer": "chatton",
+        "requestedAt": "2026-09-08T14:51:00Z"
+      },
+      {
         "number": 411,
         "title": "perf(store): avoid loading headers while finding boundaries",
         "url": "https://github.com/celestiaorg/go-header/pull/411",
@@ -349,5 +359,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-09-08T14:44:41.027Z"
+  "fetchedAt": "2026-09-08T14:51:44.866Z"
 }
