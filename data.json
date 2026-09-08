@@ -2,16 +2,6 @@
   "reviews": {
     "chatton": [
       {
-        "number": 5220,
-        "title": "feat: add fibre support to celestia-node",
-        "url": "https://github.com/celestiaorg/celestia-node/pull/5220",
-        "repo": "celestia-node",
-        "author": "vgonkivs",
-        "authorCategory": "coworker",
-        "reviewer": "chatton",
-        "requestedAt": "2026-09-07T11:40:40Z"
-      },
-      {
         "number": 411,
         "title": "perf(store): avoid loading headers while finding boundaries",
         "url": "https://github.com/celestiaorg/go-header/pull/411",
@@ -45,18 +35,7 @@
         "requestedAt": "2026-09-07T09:35:46Z"
       }
     ],
-    "rach-id": [
-      {
-        "number": 5220,
-        "title": "feat: add fibre support to celestia-node",
-        "url": "https://github.com/celestiaorg/celestia-node/pull/5220",
-        "repo": "celestia-node",
-        "author": "vgonkivs",
-        "authorCategory": "coworker",
-        "reviewer": "rach-id",
-        "requestedAt": "2026-09-08T12:17:28Z"
-      }
-    ],
+    "rach-id": [],
     "renaynay": [],
     "rootulp": [
       {
@@ -113,7 +92,7 @@
       },
       {
         "number": 5223,
-        "title": "chore(deps): bump golang from 1.26.5-alpine3.23 to 1.27.1-alpine3.23",
+        "title": "chore(deps): bump golang from 1.26.8-alpine3.23 to 1.27.1-alpine3.23",
         "url": "https://github.com/celestiaorg/celestia-node/pull/5223",
         "repo": "celestia-node",
         "author": "dependabot",
@@ -122,14 +101,14 @@
         "requestedAt": "2026-09-07T11:03:53Z"
       },
       {
-        "number": 5224,
-        "title": "chore(deps): bump the go-deps group across 1 directory with 3 updates",
-        "url": "https://github.com/celestiaorg/celestia-node/pull/5224",
+        "number": 5226,
+        "title": "chore(deps): bump the go-deps group across 1 directory with 2 updates",
+        "url": "https://github.com/celestiaorg/celestia-node/pull/5226",
         "repo": "celestia-node",
         "author": "dependabot",
         "authorCategory": "bot",
         "reviewer": "vgonkivs",
-        "requestedAt": "2026-09-07T11:07:07Z"
+        "requestedAt": "2026-09-08T13:24:53Z"
       },
       {
         "number": 5165,
@@ -370,5 +349,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-09-08T13:21:10.754Z"
+  "fetchedAt": "2026-09-08T13:31:31.349Z"
 }
