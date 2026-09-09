@@ -45,6 +45,16 @@
         "authorCategory": "coworker",
         "reviewer": "rach-id",
         "requestedAt": "2026-09-09T10:08:28Z"
+      },
+      {
+        "number": 7792,
+        "title": "feat(fibre): add object shard storage",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/7792",
+        "repo": "celestia-app",
+        "author": "renaynay",
+        "authorCategory": "coworker",
+        "reviewer": "rach-id",
+        "requestedAt": "2026-09-09T11:25:39Z"
       }
     ],
     "renaynay": [],
@@ -310,5 +320,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-09-09T11:17:41.977Z"
+  "fetchedAt": "2026-09-09T11:28:00.016Z"
 }
