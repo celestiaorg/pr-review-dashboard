@@ -61,16 +61,6 @@
     ],
     "vgonkivs": [
       {
-        "number": 5223,
-        "title": "chore(deps): bump golang from 1.26.8-alpine3.23 to 1.27.1-alpine3.23",
-        "url": "https://github.com/celestiaorg/celestia-node/pull/5223",
-        "repo": "celestia-node",
-        "author": "dependabot",
-        "authorCategory": "bot",
-        "reviewer": "vgonkivs",
-        "requestedAt": "2026-09-07T11:03:53Z"
-      },
-      {
         "number": 5165,
         "title": "core: Recover interrupted listener publications",
         "url": "https://github.com/celestiaorg/celestia-node/pull/5165",
@@ -299,5 +289,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-09-09T12:27:30.724Z"
+  "fetchedAt": "2026-09-09T12:46:40.912Z"
 }
