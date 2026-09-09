@@ -35,7 +35,18 @@
         "requestedAt": "2026-09-07T09:35:46Z"
       }
     ],
-    "rach-id": [],
+    "rach-id": [
+      {
+        "number": 7780,
+        "title": "fix: populate app version in exported consensus params",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/7780",
+        "repo": "celestia-app",
+        "author": "loglapa",
+        "authorCategory": "external",
+        "reviewer": "rach-id",
+        "requestedAt": "2026-09-09T12:56:41Z"
+      }
+    ],
     "renaynay": [],
     "rootulp": [
       {
@@ -211,16 +222,6 @@
         "requestedAt": "2026-08-28T19:04:55Z"
       },
       {
-        "number": 7780,
-        "title": "fix: populate app version in exported consensus params",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7780",
-        "repo": "celestia-app",
-        "author": "loglapa",
-        "authorCategory": "external",
-        "reviewer": "vgonkivs",
-        "requestedAt": "2026-09-03T17:54:59Z"
-      },
-      {
         "number": 5222,
         "title": "cmd: Comply with POSIX utility syntax",
         "url": "https://github.com/celestiaorg/celestia-node/pull/5222",
@@ -279,5 +280,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-09-09T12:55:53.742Z"
+  "fetchedAt": "2026-09-09T13:09:02.776Z"
 }
