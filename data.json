@@ -122,16 +122,6 @@
         "requestedAt": "2026-08-14T12:43:11Z"
       },
       {
-        "number": 5168,
-        "title": "config: Support IPv6 literal endpoints",
-        "url": "https://github.com/celestiaorg/celestia-node/pull/5168",
-        "repo": "celestia-node",
-        "author": "neyy91",
-        "authorCategory": "external",
-        "reviewer": "vgonkivs",
-        "requestedAt": "2026-08-14T13:01:16Z"
-      },
-      {
         "number": 5169,
         "title": "das: Group adjacent retry heights",
         "url": "https://github.com/celestiaorg/celestia-node/pull/5169",
@@ -340,5 +330,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-09-09T10:14:57.686Z"
+  "fetchedAt": "2026-09-09T10:28:34.993Z"
 }
