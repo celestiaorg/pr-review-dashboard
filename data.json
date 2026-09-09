@@ -12,6 +12,16 @@
         "requestedAt": "2026-09-08T14:51:00Z"
       },
       {
+        "number": 7793,
+        "title": "fix(fibre): bound DownloadShard request size in the server codec",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/7793",
+        "repo": "celestia-app",
+        "author": "rach-id",
+        "authorCategory": "coworker",
+        "reviewer": "chatton",
+        "requestedAt": "2026-09-09T07:14:39Z"
+      },
+      {
         "number": 411,
         "title": "perf(store): avoid loading headers while finding boundaries",
         "url": "https://github.com/celestiaorg/go-header/pull/411",
@@ -359,5 +369,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-09-09T07:00:57.841Z"
+  "fetchedAt": "2026-09-09T07:23:42.215Z"
 }
