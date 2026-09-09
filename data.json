@@ -2,16 +2,6 @@
   "reviews": {
     "chatton": [
       {
-        "number": 7786,
-        "title": "refactor(fibre): extract local shard storage",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7786",
-        "repo": "celestia-app",
-        "author": "renaynay",
-        "authorCategory": "coworker",
-        "reviewer": "chatton",
-        "requestedAt": "2026-09-08T14:51:00Z"
-      },
-      {
         "number": 7793,
         "title": "fix(fibre): bound DownloadShard request size in the server codec",
         "url": "https://github.com/celestiaorg/celestia-app/pull/7793",
@@ -55,7 +45,18 @@
         "requestedAt": "2026-09-07T09:35:46Z"
       }
     ],
-    "rach-id": [],
+    "rach-id": [
+      {
+        "number": 7786,
+        "title": "refactor(fibre): extract local shard storage",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/7786",
+        "repo": "celestia-app",
+        "author": "renaynay",
+        "authorCategory": "coworker",
+        "reviewer": "rach-id",
+        "requestedAt": "2026-09-09T09:22:00Z"
+      }
+    ],
     "renaynay": [],
     "rootulp": [
       {
@@ -379,5 +380,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-09-09T09:00:19.349Z"
+  "fetchedAt": "2026-09-09T09:23:03.730Z"
 }
