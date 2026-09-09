@@ -72,16 +72,6 @@
     ],
     "vgonkivs": [
       {
-        "number": 3292,
-        "title": "build(deps): Bump github.com/prometheus/common from 0.70.1 to 0.71.0",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3292",
-        "repo": "celestia-core",
-        "author": "dependabot",
-        "authorCategory": "bot",
-        "reviewer": "vgonkivs",
-        "requestedAt": "2026-09-07T09:32:31Z"
-      },
-      {
         "number": 5223,
         "title": "chore(deps): bump golang from 1.26.8-alpine3.23 to 1.27.1-alpine3.23",
         "url": "https://github.com/celestiaorg/celestia-node/pull/5223",
@@ -90,16 +80,6 @@
         "authorCategory": "bot",
         "reviewer": "vgonkivs",
         "requestedAt": "2026-09-07T11:03:53Z"
-      },
-      {
-        "number": 430,
-        "title": "chore(deps): Bump golang.org/x/sync from 0.22.0 to 0.23.0",
-        "url": "https://github.com/celestiaorg/rsmt2d/pull/430",
-        "repo": "rsmt2d",
-        "author": "dependabot",
-        "authorCategory": "bot",
-        "reviewer": "vgonkivs",
-        "requestedAt": "2026-09-08T15:53:13Z"
       },
       {
         "number": 5165,
@@ -330,5 +310,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-09-09T10:28:34.993Z"
+  "fetchedAt": "2026-09-09T10:39:43.712Z"
 }
