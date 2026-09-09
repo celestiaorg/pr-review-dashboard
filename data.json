@@ -29,6 +29,16 @@
     "renaynay": [],
     "rootulp": [
       {
+        "number": 7798,
+        "title": "feat(fibre): batch object shard pruning",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/7798",
+        "repo": "celestia-app",
+        "author": "renaynay",
+        "authorCategory": "coworker",
+        "reviewer": "rootulp",
+        "requestedAt": "2026-09-09T19:57:19Z"
+      },
+      {
         "number": 7781,
         "title": "fix(chainbuilder): gracefully handle cancellation",
         "url": "https://github.com/celestiaorg/celestia-app/pull/7781",
@@ -229,5 +239,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-09-09T19:51:37.009Z"
+  "fetchedAt": "2026-09-09T19:58:09.961Z"
 }
