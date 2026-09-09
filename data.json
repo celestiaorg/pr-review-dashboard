@@ -18,26 +18,6 @@
     "renaynay": [],
     "rootulp": [
       {
-        "number": 3302,
-        "title": "chore!(db): tune pebble db config",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3302",
-        "repo": "celestia-core",
-        "author": "vgonkivs",
-        "authorCategory": "coworker",
-        "reviewer": "rootulp",
-        "requestedAt": "2026-09-09T10:08:27Z"
-      },
-      {
-        "number": 3294,
-        "title": "build(deps): Bump github.com/aws/aws-sdk-go-v2/service/s3 from 1.109.1 to 1.110.0",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3294",
-        "repo": "celestia-core",
-        "author": "dependabot",
-        "authorCategory": "bot",
-        "reviewer": "rootulp",
-        "requestedAt": "2026-09-09T15:24:47Z"
-      },
-      {
         "number": 7781,
         "title": "fix(chainbuilder): gracefully handle cancellation",
         "url": "https://github.com/celestiaorg/celestia-app/pull/7781",
@@ -238,5 +218,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-09-09T17:57:26.638Z"
+  "fetchedAt": "2026-09-09T18:21:05.173Z"
 }
