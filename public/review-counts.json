@@ -16,14 +16,14 @@
       "year": 521
     },
     "rach-id": {
-      "week": 3,
-      "month": 15,
-      "year": 774
+      "week": 5,
+      "month": 17,
+      "year": 776
     },
     "renaynay": {
-      "week": 4,
-      "month": 12,
-      "year": 59
+      "week": 5,
+      "month": 13,
+      "year": 60
     },
     "rootulp": {
       "week": 5,
@@ -31,9 +31,9 @@
       "year": 476
     },
     "vgonkivs": {
-      "week": 3,
-      "month": 12,
-      "year": 252
+      "week": 4,
+      "month": 13,
+      "year": 253
     },
     "walldiss": {
       "week": 0,
@@ -41,7 +41,7 @@
       "year": 123
     }
   },
-  "computedAt": "2026-09-08T00:06:50.864Z",
+  "computedAt": "2026-09-09T00:07:03.011Z",
   "windows": {
     "weekStart": "2026-09-07T00:00:00.000Z",
     "monthStart": "2026-09-01T00:00:00.000Z",
