@@ -35,18 +35,7 @@
         "requestedAt": "2026-09-07T09:35:46Z"
       }
     ],
-    "rach-id": [
-      {
-        "number": 7780,
-        "title": "fix: populate app version in exported consensus params",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7780",
-        "repo": "celestia-app",
-        "author": "loglapa",
-        "authorCategory": "external",
-        "reviewer": "rach-id",
-        "requestedAt": "2026-09-09T12:56:41Z"
-      }
-    ],
+    "rach-id": [],
     "renaynay": [],
     "rootulp": [
       {
@@ -280,5 +269,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-09-09T13:09:02.776Z"
+  "fetchedAt": "2026-09-09T13:23:43.131Z"
 }
