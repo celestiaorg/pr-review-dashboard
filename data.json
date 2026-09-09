@@ -35,28 +35,7 @@
         "requestedAt": "2026-09-07T09:35:46Z"
       }
     ],
-    "rach-id": [
-      {
-        "number": 3302,
-        "title": "chore!(db): tune pebble db config",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3302",
-        "repo": "celestia-core",
-        "author": "vgonkivs",
-        "authorCategory": "coworker",
-        "reviewer": "rach-id",
-        "requestedAt": "2026-09-09T10:08:28Z"
-      },
-      {
-        "number": 7792,
-        "title": "feat(fibre): add object shard storage",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7792",
-        "repo": "celestia-app",
-        "author": "renaynay",
-        "authorCategory": "coworker",
-        "reviewer": "rach-id",
-        "requestedAt": "2026-09-09T11:25:39Z"
-      }
-    ],
+    "rach-id": [],
     "renaynay": [],
     "rootulp": [
       {
@@ -320,5 +299,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-09-09T11:57:46.744Z"
+  "fetchedAt": "2026-09-09T12:27:30.724Z"
 }
