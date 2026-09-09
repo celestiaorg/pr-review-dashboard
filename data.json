@@ -61,6 +61,16 @@
     ],
     "vgonkivs": [
       {
+        "number": 7794,
+        "title": "test(fibre): cover object shard routing and replacement",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/7794",
+        "repo": "celestia-app",
+        "author": "renaynay",
+        "authorCategory": "coworker",
+        "reviewer": "vgonkivs",
+        "requestedAt": "2026-09-09T13:48:07Z"
+      },
+      {
         "number": 5167,
         "title": "cmd: Load configured RPC URL with explicit token",
         "url": "https://github.com/celestiaorg/celestia-node/pull/5167",
@@ -249,5 +259,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-09-09T13:42:24.444Z"
+  "fetchedAt": "2026-09-09T13:48:55.838Z"
 }
