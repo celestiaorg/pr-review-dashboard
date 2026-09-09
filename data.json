@@ -111,16 +111,6 @@
         "requestedAt": "2026-08-16T22:42:36Z"
       },
       {
-        "number": 5179,
-        "title": "shrex/peers: Avoid cooldown lock-order deadlock",
-        "url": "https://github.com/celestiaorg/celestia-node/pull/5179",
-        "repo": "celestia-node",
-        "author": "neyy91",
-        "authorCategory": "external",
-        "reviewer": "vgonkivs",
-        "requestedAt": "2026-08-20T07:41:52Z"
-      },
-      {
         "number": 5183,
         "title": "das: Reset running state after failed start",
         "url": "https://github.com/celestiaorg/celestia-node/pull/5183",
@@ -259,5 +249,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-09-09T13:32:50.381Z"
+  "fetchedAt": "2026-09-09T13:42:24.444Z"
 }
