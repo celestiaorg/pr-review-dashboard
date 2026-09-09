@@ -61,16 +61,6 @@
     ],
     "vgonkivs": [
       {
-        "number": 5165,
-        "title": "core: Recover interrupted listener publications",
-        "url": "https://github.com/celestiaorg/celestia-node/pull/5165",
-        "repo": "celestia-node",
-        "author": "neyy91",
-        "authorCategory": "external",
-        "reviewer": "vgonkivs",
-        "requestedAt": "2026-08-14T08:27:37Z"
-      },
-      {
         "number": 5167,
         "title": "cmd: Load configured RPC URL with explicit token",
         "url": "https://github.com/celestiaorg/celestia-node/pull/5167",
@@ -269,5 +259,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-09-09T13:23:43.131Z"
+  "fetchedAt": "2026-09-09T13:32:50.381Z"
 }
