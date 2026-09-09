@@ -14,7 +14,18 @@
     ],
     "pippokr": [],
     "ninabarbakadze": [],
-    "rach-id": [],
+    "rach-id": [
+      {
+        "number": 3303,
+        "title": "fix(propagation): use SetConsensusState in identity test",
+        "url": "https://github.com/celestiaorg/celestia-core/pull/3303",
+        "repo": "celestia-core",
+        "author": "rootulp",
+        "authorCategory": "coworker",
+        "reviewer": "rach-id",
+        "requestedAt": "2026-09-09T18:22:22Z"
+      }
+    ],
     "renaynay": [],
     "rootulp": [
       {
@@ -218,5 +229,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-09-09T18:21:05.173Z"
+  "fetchedAt": "2026-09-09T18:34:57.762Z"
 }
