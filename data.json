@@ -2,16 +2,6 @@
   "reviews": {
     "chatton": [
       {
-        "number": 7793,
-        "title": "fix(fibre): bound DownloadShard request size in the server codec",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7793",
-        "repo": "celestia-app",
-        "author": "rach-id",
-        "authorCategory": "coworker",
-        "reviewer": "chatton",
-        "requestedAt": "2026-09-09T07:14:39Z"
-      },
-      {
         "number": 411,
         "title": "perf(store): avoid loading headers while finding boundaries",
         "url": "https://github.com/celestiaorg/go-header/pull/411",
@@ -47,18 +37,28 @@
     ],
     "rach-id": [
       {
-        "number": 7786,
-        "title": "refactor(fibre): extract local shard storage",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7786",
-        "repo": "celestia-app",
-        "author": "renaynay",
+        "number": 3302,
+        "title": "chore!(db): tune pebble db config",
+        "url": "https://github.com/celestiaorg/celestia-core/pull/3302",
+        "repo": "celestia-core",
+        "author": "vgonkivs",
         "authorCategory": "coworker",
         "reviewer": "rach-id",
-        "requestedAt": "2026-09-09T09:22:00Z"
+        "requestedAt": "2026-09-09T10:08:28Z"
       }
     ],
     "renaynay": [],
     "rootulp": [
+      {
+        "number": 3302,
+        "title": "chore!(db): tune pebble db config",
+        "url": "https://github.com/celestiaorg/celestia-core/pull/3302",
+        "repo": "celestia-core",
+        "author": "vgonkivs",
+        "authorCategory": "coworker",
+        "reviewer": "rootulp",
+        "requestedAt": "2026-09-09T10:08:27Z"
+      },
       {
         "number": 7781,
         "title": "fix(chainbuilder): gracefully handle cancellation",
@@ -72,26 +72,6 @@
     ],
     "vgonkivs": [
       {
-        "number": 7793,
-        "title": "fix(fibre): bound DownloadShard request size in the server codec",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7793",
-        "repo": "celestia-app",
-        "author": "rach-id",
-        "authorCategory": "coworker",
-        "reviewer": "vgonkivs",
-        "requestedAt": "2026-09-09T07:26:42Z"
-      },
-      {
-        "number": 5199,
-        "title": "chore(deps): bump github.com/celestiaorg/go-square/v4 from 4.0.0-rc5 to 4.0.0",
-        "url": "https://github.com/celestiaorg/celestia-node/pull/5199",
-        "repo": "celestia-node",
-        "author": "dependabot",
-        "authorCategory": "bot",
-        "reviewer": "vgonkivs",
-        "requestedAt": "2026-08-24T11:08:06Z"
-      },
-      {
         "number": 3292,
         "title": "build(deps): Bump github.com/prometheus/common from 0.70.1 to 0.71.0",
         "url": "https://github.com/celestiaorg/celestia-core/pull/3292",
@@ -102,16 +82,6 @@
         "requestedAt": "2026-09-07T09:32:31Z"
       },
       {
-        "number": 7785,
-        "title": "chore(deps): bump the go-deps group with 8 updates",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7785",
-        "repo": "celestia-app",
-        "author": "dependabot",
-        "authorCategory": "bot",
-        "reviewer": "vgonkivs",
-        "requestedAt": "2026-09-07T09:43:55Z"
-      },
-      {
         "number": 5223,
         "title": "chore(deps): bump golang from 1.26.8-alpine3.23 to 1.27.1-alpine3.23",
         "url": "https://github.com/celestiaorg/celestia-node/pull/5223",
@@ -120,16 +90,6 @@
         "authorCategory": "bot",
         "reviewer": "vgonkivs",
         "requestedAt": "2026-09-07T11:03:53Z"
-      },
-      {
-        "number": 5226,
-        "title": "chore(deps): bump the go-deps group across 1 directory with 2 updates",
-        "url": "https://github.com/celestiaorg/celestia-node/pull/5226",
-        "repo": "celestia-node",
-        "author": "dependabot",
-        "authorCategory": "bot",
-        "reviewer": "vgonkivs",
-        "requestedAt": "2026-09-08T13:24:53Z"
       },
       {
         "number": 430,
@@ -380,5 +340,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-09-09T09:56:55.666Z"
+  "fetchedAt": "2026-09-09T10:14:57.686Z"
 }
