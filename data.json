@@ -28,16 +28,6 @@
         "requestedAt": "2026-09-09T10:08:27Z"
       },
       {
-        "number": 3290,
-        "title": "fix(consensus)!: use the round-adjusted proposer for propagation after WAL replay",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3290",
-        "repo": "celestia-core",
-        "author": "rach-id",
-        "authorCategory": "coworker",
-        "reviewer": "rootulp",
-        "requestedAt": "2026-09-09T15:24:37Z"
-      },
-      {
         "number": 3294,
         "title": "build(deps): Bump github.com/aws/aws-sdk-go-v2/service/s3 from 1.109.1 to 1.110.0",
         "url": "https://github.com/celestiaorg/celestia-core/pull/3294",
@@ -248,5 +238,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-09-09T17:50:48.226Z"
+  "fetchedAt": "2026-09-09T17:57:26.638Z"
 }
