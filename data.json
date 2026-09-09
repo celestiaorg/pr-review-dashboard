@@ -13,7 +13,8 @@
       }
     ],
     "pippokr": [],
-    "ninabarbakadze": [
+    "ninabarbakadze": [],
+    "rach-id": [
       {
         "number": 7797,
         "title": "feat(fibre): configure object shard storage",
@@ -21,20 +22,8 @@
         "repo": "celestia-app",
         "author": "renaynay",
         "authorCategory": "coworker",
-        "reviewer": "ninabarbakadze",
-        "requestedAt": "2026-09-09T19:05:06Z"
-      }
-    ],
-    "rach-id": [
-      {
-        "number": 3303,
-        "title": "fix(propagation): use SetConsensusState in identity test",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3303",
-        "repo": "celestia-core",
-        "author": "rootulp",
-        "authorCategory": "coworker",
         "reviewer": "rach-id",
-        "requestedAt": "2026-09-09T18:22:22Z"
+        "requestedAt": "2026-09-09T19:23:00Z"
       }
     ],
     "renaynay": [],
@@ -240,5 +229,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-09-09T19:14:43.925Z"
+  "fetchedAt": "2026-09-09T19:23:37.041Z"
 }
