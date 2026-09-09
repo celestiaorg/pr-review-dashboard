@@ -13,7 +13,18 @@
       }
     ],
     "pippokr": [],
-    "ninabarbakadze": [],
+    "ninabarbakadze": [
+      {
+        "number": 7797,
+        "title": "feat(fibre): configure object shard storage",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/7797",
+        "repo": "celestia-app",
+        "author": "renaynay",
+        "authorCategory": "coworker",
+        "reviewer": "ninabarbakadze",
+        "requestedAt": "2026-09-09T19:05:06Z"
+      }
+    ],
     "rach-id": [
       {
         "number": 3303,
@@ -229,5 +240,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-09-09T18:57:59.536Z"
+  "fetchedAt": "2026-09-09T19:14:43.925Z"
 }
