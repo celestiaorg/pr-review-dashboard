@@ -12,7 +12,18 @@
         "requestedAt": "2026-09-03T18:05:10Z"
       }
     ],
-    "pippokr": [],
+    "pippokr": [
+      {
+        "number": 7799,
+        "title": "ci: harden release pipeline against artifact substitution",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/7799",
+        "repo": "celestia-app",
+        "author": "rootulp",
+        "authorCategory": "coworker",
+        "reviewer": "pippokr",
+        "requestedAt": "2026-09-10T03:47:34Z"
+      }
+    ],
     "ninabarbakadze": [],
     "rach-id": [
       {
@@ -239,5 +250,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-09-10T03:44:58.258Z"
+  "fetchedAt": "2026-09-10T03:51:42.405Z"
 }
