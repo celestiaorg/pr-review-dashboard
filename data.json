@@ -35,18 +35,7 @@
       }
     ],
     "ninabarbakadze": [],
-    "rach-id": [
-      {
-        "number": 3306,
-        "title": "feat!(rpc): harden rpc endpoints (backport #3240)",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3306",
-        "repo": "celestia-core",
-        "author": "mergify",
-        "authorCategory": "bot",
-        "reviewer": "rach-id",
-        "requestedAt": "2026-09-10T11:08:01Z"
-      }
-    ],
+    "rach-id": [],
     "renaynay": [
       {
         "number": 3304,
@@ -271,5 +260,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-09-10T12:47:48.693Z"
+  "fetchedAt": "2026-09-10T12:55:52.115Z"
 }
