@@ -37,16 +37,6 @@
     "ninabarbakadze": [],
     "rach-id": [
       {
-        "number": 7797,
-        "title": "feat(fibre): configure object shard storage",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7797",
-        "repo": "celestia-app",
-        "author": "renaynay",
-        "authorCategory": "coworker",
-        "reviewer": "rach-id",
-        "requestedAt": "2026-09-09T19:23:00Z"
-      },
-      {
         "number": 3305,
         "title": "fix(p2p/pex): prefer vetted addresses when picking dial candidates",
         "url": "https://github.com/celestiaorg/celestia-core/pull/3305",
@@ -290,5 +280,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-09-10T05:18:58.230Z"
+  "fetchedAt": "2026-09-10T05:29:40.327Z"
 }
