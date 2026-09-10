@@ -2,16 +2,6 @@
   "reviews": {
     "chatton": [
       {
-        "number": 7803,
-        "title": "ci: assert tx submission latency on Corto",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7803",
-        "repo": "celestia-app",
-        "author": "rach-id",
-        "authorCategory": "coworker",
-        "reviewer": "chatton",
-        "requestedAt": "2026-09-10T04:50:29Z"
-      },
-      {
         "number": 411,
         "title": "perf(store): avoid loading headers while finding boundaries",
         "url": "https://github.com/celestiaorg/go-header/pull/411",
@@ -239,5 +229,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-09-10T15:40:15.343Z"
+  "fetchedAt": "2026-09-10T15:47:19.001Z"
 }
