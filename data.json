@@ -45,9 +45,39 @@
         "authorCategory": "coworker",
         "reviewer": "rach-id",
         "requestedAt": "2026-09-10T03:40:43Z"
+      },
+      {
+        "number": 7801,
+        "title": "fix!: read max square size before the ante loop in ProcessProposal",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/7801",
+        "repo": "celestia-app",
+        "author": "rootulp",
+        "authorCategory": "coworker",
+        "reviewer": "rach-id",
+        "requestedAt": "2026-09-10T04:20:53Z"
+      },
+      {
+        "number": 7800,
+        "title": "fix: bound the PFB tx cache with an LRU (backport #7778)",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/7800",
+        "repo": "celestia-app",
+        "author": "mergify",
+        "authorCategory": "bot",
+        "reviewer": "rach-id",
+        "requestedAt": "2026-09-10T04:00:24Z"
       }
     ],
     "renaynay": [
+      {
+        "number": 342,
+        "title": "fix: bound proof range subtree estimate",
+        "url": "https://github.com/celestiaorg/nmt/pull/342",
+        "repo": "nmt",
+        "author": "rootulp",
+        "authorCategory": "coworker",
+        "reviewer": "renaynay",
+        "requestedAt": "2026-09-10T04:06:58Z"
+      },
       {
         "number": 3304,
         "title": "fix(trace): correct S3Download error handling, file matching and body cleanup",
@@ -61,6 +91,16 @@
     ],
     "rootulp": [],
     "vgonkivs": [
+      {
+        "number": 342,
+        "title": "fix: bound proof range subtree estimate",
+        "url": "https://github.com/celestiaorg/nmt/pull/342",
+        "repo": "nmt",
+        "author": "rootulp",
+        "authorCategory": "coworker",
+        "reviewer": "vgonkivs",
+        "requestedAt": "2026-09-10T04:06:48Z"
+      },
       {
         "number": 5167,
         "title": "cmd: Load configured RPC URL with explicit token",
@@ -250,5 +290,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-09-10T03:58:15.175Z"
+  "fetchedAt": "2026-09-10T04:22:32.276Z"
 }
