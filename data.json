@@ -24,6 +24,16 @@
         "authorCategory": "coworker",
         "reviewer": "rach-id",
         "requestedAt": "2026-09-10T18:32:30Z"
+      },
+      {
+        "number": 3308,
+        "title": "ci: sync GitHub releases to the Linear release pipeline",
+        "url": "https://github.com/celestiaorg/celestia-core/pull/3308",
+        "repo": "celestia-core",
+        "author": "rootulp",
+        "authorCategory": "coworker",
+        "reviewer": "rach-id",
+        "requestedAt": "2026-09-10T18:44:23Z"
       }
     ],
     "renaynay": [
@@ -51,6 +61,16 @@
       }
     ],
     "vgonkivs": [
+      {
+        "number": 5232,
+        "title": "ci: sync GitHub releases to the Linear release pipeline",
+        "url": "https://github.com/celestiaorg/celestia-node/pull/5232",
+        "repo": "celestia-node",
+        "author": "rootulp",
+        "authorCategory": "coworker",
+        "reviewer": "vgonkivs",
+        "requestedAt": "2026-09-10T18:47:16Z"
+      },
       {
         "number": 5167,
         "title": "cmd: Load configured RPC URL with explicit token",
@@ -230,5 +250,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-09-10T18:44:17.331Z"
+  "fetchedAt": "2026-09-10T18:51:10.770Z"
 }
