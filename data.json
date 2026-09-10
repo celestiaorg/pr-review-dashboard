@@ -79,6 +79,16 @@
         "requestedAt": "2026-09-10T04:06:58Z"
       },
       {
+        "number": 5229,
+        "title": "fix(share/shwap): bound rows read in NamespaceData.ReadFrom",
+        "url": "https://github.com/celestiaorg/celestia-node/pull/5229",
+        "repo": "celestia-node",
+        "author": "vgonkivs",
+        "authorCategory": "coworker",
+        "reviewer": "renaynay",
+        "requestedAt": "2026-09-10T09:28:45Z"
+      },
+      {
         "number": 3304,
         "title": "fix(trace): correct S3Download error handling, file matching and body cleanup",
         "url": "https://github.com/celestiaorg/celestia-core/pull/3304",
@@ -301,5 +311,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-09-10T09:23:22.315Z"
+  "fetchedAt": "2026-09-10T09:34:01.938Z"
 }
