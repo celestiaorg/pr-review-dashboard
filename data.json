@@ -65,16 +65,6 @@
         "authorCategory": "coworker",
         "reviewer": "rach-id",
         "requestedAt": "2026-09-10T04:20:53Z"
-      },
-      {
-        "number": 7800,
-        "title": "fix: bound the PFB tx cache with an LRU (backport #7778)",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7800",
-        "repo": "celestia-app",
-        "author": "mergify",
-        "authorCategory": "bot",
-        "reviewer": "rach-id",
-        "requestedAt": "2026-09-10T04:00:24Z"
       }
     ],
     "renaynay": [
@@ -300,5 +290,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-09-10T04:58:25.047Z"
+  "fetchedAt": "2026-09-10T05:18:58.230Z"
 }
