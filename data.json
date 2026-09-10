@@ -51,6 +51,16 @@
     ],
     "vgonkivs": [
       {
+        "number": 5230,
+        "title": "chore(deps): bump github.com/celestiaorg/nmt from v0.24.4 to v0.24.5",
+        "url": "https://github.com/celestiaorg/celestia-node/pull/5230",
+        "repo": "celestia-node",
+        "author": "rootulp",
+        "authorCategory": "coworker",
+        "reviewer": "vgonkivs",
+        "requestedAt": "2026-09-10T15:38:39Z"
+      },
+      {
         "number": 5167,
         "title": "cmd: Load configured RPC URL with explicit token",
         "url": "https://github.com/celestiaorg/celestia-node/pull/5167",
@@ -229,5 +239,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-09-10T15:30:24.937Z"
+  "fetchedAt": "2026-09-10T15:40:15.343Z"
 }
