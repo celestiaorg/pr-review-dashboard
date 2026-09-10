@@ -14,7 +14,18 @@
     ],
     "pippokr": [],
     "ninabarbakadze": [],
-    "rach-id": [],
+    "rach-id": [
+      {
+        "number": 7809,
+        "title": "ci: sync GitHub releases to the Linear release pipeline",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/7809",
+        "repo": "celestia-app",
+        "author": "rootulp",
+        "authorCategory": "coworker",
+        "reviewer": "rach-id",
+        "requestedAt": "2026-09-10T18:32:30Z"
+      }
+    ],
     "renaynay": [
       {
         "number": 3304,
@@ -219,5 +230,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-09-10T18:23:15.330Z"
+  "fetchedAt": "2026-09-10T18:33:37.936Z"
 }
