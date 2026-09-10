@@ -24,6 +24,16 @@
         "authorCategory": "coworker",
         "reviewer": "rach-id",
         "requestedAt": "2026-09-09T19:23:00Z"
+      },
+      {
+        "number": 3305,
+        "title": "fix(p2p/pex): prefer vetted addresses when picking dial candidates",
+        "url": "https://github.com/celestiaorg/celestia-core/pull/3305",
+        "repo": "celestia-core",
+        "author": "rootulp",
+        "authorCategory": "coworker",
+        "reviewer": "rach-id",
+        "requestedAt": "2026-09-10T03:40:43Z"
       }
     ],
     "renaynay": [
@@ -229,5 +239,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-09-10T03:34:24.041Z"
+  "fetchedAt": "2026-09-10T03:44:58.258Z"
 }
