@@ -109,6 +109,16 @@
         "authorCategory": "coworker",
         "reviewer": "rootulp",
         "requestedAt": "2026-09-10T09:11:40Z"
+      },
+      {
+        "number": 7806,
+        "title": "refactor: remove the no-op blob tx cache pruning",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/7806",
+        "repo": "celestia-app",
+        "author": "rach-id",
+        "authorCategory": "coworker",
+        "reviewer": "rootulp",
+        "requestedAt": "2026-09-10T10:05:50Z"
       }
     ],
     "vgonkivs": [
@@ -311,5 +321,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-09-10T09:56:29.909Z"
+  "fetchedAt": "2026-09-10T10:11:50.295Z"
 }
