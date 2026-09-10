@@ -57,14 +57,14 @@
         "requestedAt": "2026-09-10T04:20:53Z"
       },
       {
-        "number": 3302,
-        "title": "chore(db): tune pebble db config",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3302",
+        "number": 3306,
+        "title": "feat!(rpc): harden rpc endpoints (backport #3240)",
+        "url": "https://github.com/celestiaorg/celestia-core/pull/3306",
         "repo": "celestia-core",
-        "author": "vgonkivs",
-        "authorCategory": "coworker",
+        "author": "mergify",
+        "authorCategory": "bot",
         "reviewer": "rach-id",
-        "requestedAt": "2026-09-10T09:11:43Z"
+        "requestedAt": "2026-09-10T11:08:01Z"
       }
     ],
     "renaynay": [
@@ -311,5 +311,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-09-10T10:56:50.165Z"
+  "fetchedAt": "2026-09-10T11:12:34.512Z"
 }
