@@ -62,16 +62,6 @@
     ],
     "vgonkivs": [
       {
-        "number": 5232,
-        "title": "ci: sync GitHub releases to the Linear release pipeline",
-        "url": "https://github.com/celestiaorg/celestia-node/pull/5232",
-        "repo": "celestia-node",
-        "author": "rootulp",
-        "authorCategory": "coworker",
-        "reviewer": "vgonkivs",
-        "requestedAt": "2026-09-10T18:47:16Z"
-      },
-      {
         "number": 5167,
         "title": "cmd: Load configured RPC URL with explicit token",
         "url": "https://github.com/celestiaorg/celestia-node/pull/5167",
@@ -250,5 +240,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-09-10T21:52:44.273Z"
+  "fetchedAt": "2026-09-10T21:59:09.067Z"
 }
