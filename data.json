@@ -22,7 +22,9 @@
         "requestedAt": "2026-09-03T18:05:10Z"
       }
     ],
-    "pippokr": [
+    "pippokr": [],
+    "ninabarbakadze": [],
+    "rach-id": [
       {
         "number": 7799,
         "title": "ci: harden release pipeline against artifact substitution",
@@ -30,12 +32,10 @@
         "repo": "celestia-app",
         "author": "rootulp",
         "authorCategory": "coworker",
-        "reviewer": "pippokr",
-        "requestedAt": "2026-09-10T03:47:34Z"
+        "reviewer": "rach-id",
+        "requestedAt": "2026-09-10T14:22:27Z"
       }
     ],
-    "ninabarbakadze": [],
-    "rach-id": [],
     "renaynay": [
       {
         "number": 3304,
@@ -58,16 +58,6 @@
         "authorCategory": "coworker",
         "reviewer": "rootulp",
         "requestedAt": "2026-09-10T09:11:40Z"
-      },
-      {
-        "number": 7806,
-        "title": "refactor: remove the no-op blob tx cache pruning",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7806",
-        "repo": "celestia-app",
-        "author": "rach-id",
-        "authorCategory": "coworker",
-        "reviewer": "rootulp",
-        "requestedAt": "2026-09-10T10:05:50Z"
       }
     ],
     "vgonkivs": [
@@ -140,16 +130,6 @@
         "authorCategory": "external",
         "reviewer": "vgonkivs",
         "requestedAt": "2026-08-20T23:47:15Z"
-      },
-      {
-        "number": 5185,
-        "title": "p2p: Start listening with the node lifecycle",
-        "url": "https://github.com/celestiaorg/celestia-node/pull/5185",
-        "repo": "celestia-node",
-        "author": "neyy91",
-        "authorCategory": "external",
-        "reviewer": "vgonkivs",
-        "requestedAt": "2026-08-20T23:49:10Z"
       },
       {
         "number": 5190,
@@ -260,5 +240,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-09-10T14:18:39.056Z"
+  "fetchedAt": "2026-09-10T14:29:32.065Z"
 }
