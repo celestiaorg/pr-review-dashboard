@@ -55,6 +55,16 @@
         "authorCategory": "coworker",
         "reviewer": "rach-id",
         "requestedAt": "2026-09-10T04:20:53Z"
+      },
+      {
+        "number": 3302,
+        "title": "chore(db): tune pebble db config",
+        "url": "https://github.com/celestiaorg/celestia-core/pull/3302",
+        "repo": "celestia-core",
+        "author": "vgonkivs",
+        "authorCategory": "coworker",
+        "reviewer": "rach-id",
+        "requestedAt": "2026-09-10T09:11:43Z"
       }
     ],
     "renaynay": [
@@ -79,7 +89,18 @@
         "requestedAt": "2026-09-09T20:03:53Z"
       }
     ],
-    "rootulp": [],
+    "rootulp": [
+      {
+        "number": 3302,
+        "title": "chore(db): tune pebble db config",
+        "url": "https://github.com/celestiaorg/celestia-core/pull/3302",
+        "repo": "celestia-core",
+        "author": "vgonkivs",
+        "authorCategory": "coworker",
+        "reviewer": "rootulp",
+        "requestedAt": "2026-09-10T09:11:40Z"
+      }
+    ],
     "vgonkivs": [
       {
         "number": 342,
@@ -280,5 +301,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-09-10T09:02:49.171Z"
+  "fetchedAt": "2026-09-10T09:23:22.315Z"
 }
