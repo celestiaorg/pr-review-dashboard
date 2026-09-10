@@ -37,16 +37,6 @@
     "ninabarbakadze": [],
     "rach-id": [
       {
-        "number": 3305,
-        "title": "fix(p2p/pex): prefer vetted addresses when picking dial candidates",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3305",
-        "repo": "celestia-core",
-        "author": "rootulp",
-        "authorCategory": "coworker",
-        "reviewer": "rach-id",
-        "requestedAt": "2026-09-10T03:40:43Z"
-      },
-      {
         "number": 7801,
         "title": "fix!: read max square size before the ante loop in ProcessProposal",
         "url": "https://github.com/celestiaorg/celestia-app/pull/7801",
@@ -311,5 +301,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-09-10T11:24:15.396Z"
+  "fetchedAt": "2026-09-10T11:31:17.671Z"
 }
