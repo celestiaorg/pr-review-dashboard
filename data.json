@@ -49,16 +49,6 @@
     ],
     "renaynay": [
       {
-        "number": 342,
-        "title": "fix: bound proof range subtree estimate",
-        "url": "https://github.com/celestiaorg/nmt/pull/342",
-        "repo": "nmt",
-        "author": "rootulp",
-        "authorCategory": "coworker",
-        "reviewer": "renaynay",
-        "requestedAt": "2026-09-10T04:06:58Z"
-      },
-      {
         "number": 3304,
         "title": "fix(trace): correct S3Download error handling, file matching and body cleanup",
         "url": "https://github.com/celestiaorg/celestia-core/pull/3304",
@@ -92,16 +82,6 @@
       }
     ],
     "vgonkivs": [
-      {
-        "number": 342,
-        "title": "fix: bound proof range subtree estimate",
-        "url": "https://github.com/celestiaorg/nmt/pull/342",
-        "repo": "nmt",
-        "author": "rootulp",
-        "authorCategory": "coworker",
-        "reviewer": "vgonkivs",
-        "requestedAt": "2026-09-10T04:06:48Z"
-      },
       {
         "number": 5167,
         "title": "cmd: Load configured RPC URL with explicit token",
@@ -291,5 +271,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-09-10T12:00:27.565Z"
+  "fetchedAt": "2026-09-10T12:29:53.232Z"
 }
