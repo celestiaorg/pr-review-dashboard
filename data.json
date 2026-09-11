@@ -2,16 +2,6 @@
   "reviews": {
     "chatton": [
       {
-        "number": 7810,
-        "title": "feat(fibre): add backend GET pressure metrics",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7810",
-        "repo": "celestia-app",
-        "author": "renaynay",
-        "authorCategory": "coworker",
-        "reviewer": "chatton",
-        "requestedAt": "2026-09-10T18:42:17Z"
-      },
-      {
         "number": 411,
         "title": "perf(store): avoid loading headers while finding boundaries",
         "url": "https://github.com/celestiaorg/go-header/pull/411",
@@ -24,7 +14,18 @@
     ],
     "pippokr": [],
     "ninabarbakadze": [],
-    "rach-id": [],
+    "rach-id": [
+      {
+        "number": 7828,
+        "title": "fix(fibre): warn about retained object shards when switching storage",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/7828",
+        "repo": "celestia-app",
+        "author": "renaynay",
+        "authorCategory": "coworker",
+        "reviewer": "rach-id",
+        "requestedAt": "2026-09-11T15:46:44Z"
+      }
+    ],
     "renaynay": [
       {
         "number": 3304,
@@ -229,5 +230,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-09-11T15:40:17.356Z"
+  "fetchedAt": "2026-09-11T15:47:09.753Z"
 }
