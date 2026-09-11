@@ -69,6 +69,16 @@
         "authorCategory": "coworker",
         "reviewer": "rootulp",
         "requestedAt": "2026-09-10T09:11:40Z"
+      },
+      {
+        "number": 7831,
+        "title": "refactor: PFF cache ",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/7831",
+        "repo": "celestia-app",
+        "author": "ninabarbakadze",
+        "authorCategory": "coworker",
+        "reviewer": "rootulp",
+        "requestedAt": "2026-09-11T12:52:38Z"
       }
     ],
     "vgonkivs": [
@@ -251,5 +261,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-09-11T12:45:40.668Z"
+  "fetchedAt": "2026-09-11T12:54:30.364Z"
 }
