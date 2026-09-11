@@ -2,6 +2,16 @@
   "reviews": {
     "chatton": [
       {
+        "number": 7810,
+        "title": "feat(fibre): add backend GET pressure metrics",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/7810",
+        "repo": "celestia-app",
+        "author": "renaynay",
+        "authorCategory": "coworker",
+        "reviewer": "chatton",
+        "requestedAt": "2026-09-10T18:42:17Z"
+      },
+      {
         "number": 411,
         "title": "perf(store): avoid loading headers while finding boundaries",
         "url": "https://github.com/celestiaorg/go-header/pull/411",
@@ -219,5 +229,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-09-11T11:19:52.130Z"
+  "fetchedAt": "2026-09-11T11:28:48.866Z"
 }
