@@ -23,18 +23,7 @@
       }
     ],
     "pippokr": [],
-    "ninabarbakadze": [
-      {
-        "number": 7828,
-        "title": "fix(fibre): warn about retained object shards when switching storage",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7828",
-        "repo": "celestia-app",
-        "author": "renaynay",
-        "authorCategory": "coworker",
-        "reviewer": "ninabarbakadze",
-        "requestedAt": "2026-09-11T12:08:33Z"
-      }
-    ],
+    "ninabarbakadze": [],
     "rach-id": [
       {
         "number": 7810,
@@ -261,5 +250,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-09-11T12:54:30.364Z"
+  "fetchedAt": "2026-09-11T13:02:43.224Z"
 }
