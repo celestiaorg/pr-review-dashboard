@@ -34,26 +34,6 @@
         "authorCategory": "coworker",
         "reviewer": "rach-id",
         "requestedAt": "2026-09-11T12:08:41Z"
-      },
-      {
-        "number": 7832,
-        "title": "test: expired PFF is evicted on ReCheck",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7832",
-        "repo": "celestia-app",
-        "author": "ninabarbakadze",
-        "authorCategory": "coworker",
-        "reviewer": "rach-id",
-        "requestedAt": "2026-09-11T13:33:44Z"
-      },
-      {
-        "number": 7831,
-        "title": "refactor: PFF cache ",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7831",
-        "repo": "celestia-app",
-        "author": "ninabarbakadze",
-        "authorCategory": "coworker",
-        "reviewer": "rach-id",
-        "requestedAt": "2026-09-11T13:43:57Z"
       }
     ],
     "renaynay": [
@@ -260,5 +240,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-09-11T14:00:03.992Z"
+  "fetchedAt": "2026-09-11T14:20:37.944Z"
 }
