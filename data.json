@@ -24,18 +24,7 @@
     ],
     "pippokr": [],
     "ninabarbakadze": [],
-    "rach-id": [
-      {
-        "number": 7810,
-        "title": "feat(fibre): add backend GET pressure metrics",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7810",
-        "repo": "celestia-app",
-        "author": "renaynay",
-        "authorCategory": "coworker",
-        "reviewer": "rach-id",
-        "requestedAt": "2026-09-11T12:08:41Z"
-      }
-    ],
+    "rach-id": [],
     "renaynay": [
       {
         "number": 3304,
@@ -240,5 +229,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-09-11T14:48:51.802Z"
+  "fetchedAt": "2026-09-11T14:55:43.991Z"
 }
