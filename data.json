@@ -169,6 +169,16 @@
         "authorCategory": "external",
         "reviewer": "vgonkivs",
         "requestedAt": "2026-09-03T18:19:37Z"
+      },
+      {
+        "number": 5233,
+        "title": "fix(api/rpc/client): store multiCloser on client and close initialized connections on error (#5188)",
+        "url": "https://github.com/celestiaorg/celestia-node/pull/5233",
+        "repo": "celestia-node",
+        "author": "Tyagiquamar",
+        "authorCategory": "external",
+        "reviewer": "vgonkivs",
+        "requestedAt": "2026-09-13T09:08:08Z"
       }
     ],
     "walldiss": []
@@ -219,5 +229,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-09-13T08:48:15.472Z"
+  "fetchedAt": "2026-09-13T09:45:36.305Z"
 }
