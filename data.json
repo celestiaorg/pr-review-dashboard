@@ -25,7 +25,18 @@
         "requestedAt": "2026-09-14T09:39:36Z"
       }
     ],
-    "rach-id": [],
+    "rach-id": [
+      {
+        "number": 7829,
+        "title": "fix(fibre): persist object storage namespace",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/7829",
+        "repo": "celestia-app",
+        "author": "renaynay",
+        "authorCategory": "coworker",
+        "reviewer": "rach-id",
+        "requestedAt": "2026-09-14T10:01:00Z"
+      }
+    ],
     "renaynay": [
       {
         "number": 3313,
@@ -58,16 +69,6 @@
         "authorCategory": "coworker",
         "reviewer": "rootulp",
         "requestedAt": "2026-09-10T09:11:40Z"
-      },
-      {
-        "number": 7829,
-        "title": "fix(fibre): persist object storage namespace",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7829",
-        "repo": "celestia-app",
-        "author": "renaynay",
-        "authorCategory": "coworker",
-        "reviewer": "rootulp",
-        "requestedAt": "2026-09-14T09:44:34Z"
       },
       {
         "number": 7835,
@@ -290,5 +291,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-09-14T09:59:38.665Z"
+  "fetchedAt": "2026-09-14T10:20:56.932Z"
 }
