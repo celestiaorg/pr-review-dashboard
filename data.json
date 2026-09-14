@@ -13,7 +13,18 @@
       }
     ],
     "pippokr": [],
-    "ninabarbakadze": [],
+    "ninabarbakadze": [
+      {
+        "number": 287,
+        "title": "chore(deps): bump golang.org/x/sync from 0.22.0 to 0.23.0",
+        "url": "https://github.com/celestiaorg/go-square/pull/287",
+        "repo": "go-square",
+        "author": "dependabot",
+        "authorCategory": "bot",
+        "reviewer": "ninabarbakadze",
+        "requestedAt": "2026-09-14T19:33:06Z"
+      }
+    ],
     "rach-id": [
       {
         "number": 7840,
@@ -270,5 +281,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-09-14T19:25:35.204Z"
+  "fetchedAt": "2026-09-14T19:33:09.836Z"
 }
