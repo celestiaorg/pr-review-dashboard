@@ -50,16 +50,6 @@
     ],
     "renaynay": [
       {
-        "number": 3313,
-        "title": "build(deps): Bump github.com/aws/aws-sdk-go-v2/config from 1.33.2 to 1.33.4",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3313",
-        "repo": "celestia-core",
-        "author": "dependabot",
-        "authorCategory": "bot",
-        "reviewer": "renaynay",
-        "requestedAt": "2026-09-14T09:34:37Z"
-      },
-      {
         "number": 3304,
         "title": "fix(trace): correct S3Download error handling, file matching and body cleanup",
         "url": "https://github.com/celestiaorg/celestia-core/pull/3304",
@@ -302,5 +292,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-09-14T10:48:26.557Z"
+  "fetchedAt": "2026-09-14T10:54:44.016Z"
 }
