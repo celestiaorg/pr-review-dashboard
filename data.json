@@ -2,6 +2,16 @@
   "reviews": {
     "chatton": [
       {
+        "number": 3317,
+        "title": "feat: add TLS to privval gRPC",
+        "url": "https://github.com/celestiaorg/celestia-core/pull/3317",
+        "repo": "celestia-core",
+        "author": "ninabarbakadze",
+        "authorCategory": "coworker",
+        "reviewer": "chatton",
+        "requestedAt": "2026-09-14T13:52:31Z"
+      },
+      {
         "number": 7836,
         "title": "chore(deps): bump the github-actions group with 2 updates",
         "url": "https://github.com/celestiaorg/celestia-app/pull/7836",
@@ -24,6 +34,16 @@
         "authorCategory": "coworker",
         "reviewer": "rach-id",
         "requestedAt": "2026-09-14T13:35:45Z"
+      },
+      {
+        "number": 3317,
+        "title": "feat: add TLS to privval gRPC",
+        "url": "https://github.com/celestiaorg/celestia-core/pull/3317",
+        "repo": "celestia-core",
+        "author": "ninabarbakadze",
+        "authorCategory": "coworker",
+        "reviewer": "rach-id",
+        "requestedAt": "2026-09-14T13:52:41Z"
       }
     ],
     "renaynay": [
@@ -51,16 +71,6 @@
       }
     ],
     "vgonkivs": [
-      {
-        "number": 5234,
-        "title": "chore(deps): bump the go-deps group across 2 directories with 7 updates",
-        "url": "https://github.com/celestiaorg/celestia-node/pull/5234",
-        "repo": "celestia-node",
-        "author": "dependabot",
-        "authorCategory": "bot",
-        "reviewer": "vgonkivs",
-        "requestedAt": "2026-09-14T11:08:05Z"
-      },
       {
         "number": 5167,
         "title": "cmd: Load configured RPC URL with explicit token",
@@ -250,5 +260,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-09-14T13:49:35.601Z"
+  "fetchedAt": "2026-09-14T13:55:59.418Z"
 }
