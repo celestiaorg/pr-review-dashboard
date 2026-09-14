@@ -14,18 +14,7 @@
     ],
     "pippokr": [],
     "ninabarbakadze": [],
-    "rach-id": [
-      {
-        "number": 7841,
-        "title": "feat: make fibre server connection caps configurable",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7841",
-        "repo": "celestia-app",
-        "author": "vgonkivs",
-        "authorCategory": "coworker",
-        "reviewer": "rach-id",
-        "requestedAt": "2026-09-14T14:52:52Z"
-      }
-    ],
+    "rach-id": [],
     "renaynay": [
       {
         "number": 3304,
@@ -261,5 +250,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-09-14T14:57:01.796Z"
+  "fetchedAt": "2026-09-14T15:15:37.795Z"
 }
