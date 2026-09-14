@@ -15,14 +15,14 @@
     "pippokr": [],
     "ninabarbakadze": [
       {
-        "number": 287,
-        "title": "chore(deps): bump golang.org/x/sync from 0.22.0 to 0.23.0",
-        "url": "https://github.com/celestiaorg/go-square/pull/287",
-        "repo": "go-square",
-        "author": "dependabot",
-        "authorCategory": "bot",
+        "number": 7833,
+        "title": "ci: disable mergify queue control comments",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/7833",
+        "repo": "celestia-app",
+        "author": "rootulp",
+        "authorCategory": "coworker",
         "reviewer": "ninabarbakadze",
-        "requestedAt": "2026-09-14T19:33:06Z"
+        "requestedAt": "2026-09-14T21:35:22Z"
       }
     ],
     "rach-id": [
@@ -69,16 +69,6 @@
         "authorCategory": "coworker",
         "reviewer": "rootulp",
         "requestedAt": "2026-09-10T09:11:40Z"
-      },
-      {
-        "number": 288,
-        "title": "chore(deps): bump github.com/celestiaorg/nmt from 0.24.4 to 0.24.5",
-        "url": "https://github.com/celestiaorg/go-square/pull/288",
-        "repo": "go-square",
-        "author": "dependabot",
-        "authorCategory": "bot",
-        "reviewer": "rootulp",
-        "requestedAt": "2026-09-14T19:33:10Z"
       }
     ],
     "vgonkivs": [
@@ -291,5 +281,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-09-14T21:31:59.870Z"
+  "fetchedAt": "2026-09-14T21:40:23.892Z"
 }
