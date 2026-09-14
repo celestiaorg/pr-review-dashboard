@@ -1,9 +1,31 @@
 {
   "reviews": {
-    "chatton": [],
+    "chatton": [
+      {
+        "number": 3311,
+        "title": "build(deps): Bump golang.org/x/net from 0.58.0 to 0.59.0",
+        "url": "https://github.com/celestiaorg/celestia-core/pull/3311",
+        "repo": "celestia-core",
+        "author": "dependabot",
+        "authorCategory": "bot",
+        "reviewer": "chatton",
+        "requestedAt": "2026-09-14T09:31:31Z"
+      }
+    ],
     "pippokr": [],
     "ninabarbakadze": [],
-    "rach-id": [],
+    "rach-id": [
+      {
+        "number": 3309,
+        "title": "build(deps): Bump golang.org/x/sync from 0.22.0 to 0.23.0",
+        "url": "https://github.com/celestiaorg/celestia-core/pull/3309",
+        "repo": "celestia-core",
+        "author": "dependabot",
+        "authorCategory": "bot",
+        "reviewer": "rach-id",
+        "requestedAt": "2026-09-14T09:29:51Z"
+      }
+    ],
     "renaynay": [
       {
         "number": 3304,
@@ -29,6 +51,16 @@
       }
     ],
     "vgonkivs": [
+      {
+        "number": 3310,
+        "title": "build(deps): Bump github.com/aws/aws-sdk-go-v2/credentials from 1.20.2 to 1.20.4",
+        "url": "https://github.com/celestiaorg/celestia-core/pull/3310",
+        "repo": "celestia-core",
+        "author": "dependabot",
+        "authorCategory": "bot",
+        "reviewer": "vgonkivs",
+        "requestedAt": "2026-09-14T09:31:26Z"
+      },
       {
         "number": 5167,
         "title": "cmd: Load configured RPC URL with explicit token",
@@ -218,5 +250,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-09-14T09:05:31.246Z"
+  "fetchedAt": "2026-09-14T09:31:49.385Z"
 }
