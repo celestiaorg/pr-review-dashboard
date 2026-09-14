@@ -14,7 +14,18 @@
     ],
     "pippokr": [],
     "ninabarbakadze": [],
-    "rach-id": [],
+    "rach-id": [
+      {
+        "number": 7839,
+        "title": "fix(fibre): reject prefixes that prevent store restarts",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/7839",
+        "repo": "celestia-app",
+        "author": "renaynay",
+        "authorCategory": "coworker",
+        "reviewer": "rach-id",
+        "requestedAt": "2026-09-14T13:35:45Z"
+      }
+    ],
     "renaynay": [
       {
         "number": 3304,
@@ -37,16 +48,6 @@
         "authorCategory": "coworker",
         "reviewer": "rootulp",
         "requestedAt": "2026-09-10T09:11:40Z"
-      },
-      {
-        "number": 7835,
-        "title": "chore(deps): bump golang.org/x/sync from 0.22.0 to 0.23.0 in /test/docker-e2e in the go-deps-docker-e2e group",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7835",
-        "repo": "celestia-app",
-        "author": "dependabot",
-        "authorCategory": "bot",
-        "reviewer": "rootulp",
-        "requestedAt": "2026-09-14T09:33:12Z"
       }
     ],
     "vgonkivs": [
@@ -269,5 +270,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-09-14T13:32:15.208Z"
+  "fetchedAt": "2026-09-14T13:42:47.064Z"
 }
