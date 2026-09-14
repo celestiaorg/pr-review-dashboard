@@ -12,18 +12,7 @@
         "requestedAt": "2026-09-14T09:36:52Z"
       }
     ],
-    "pippokr": [
-      {
-        "number": 7830,
-        "title": "fix(fibre): continue pruning after local deletion failures",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7830",
-        "repo": "celestia-app",
-        "author": "renaynay",
-        "authorCategory": "coworker",
-        "reviewer": "pippokr",
-        "requestedAt": "2026-09-14T10:40:08Z"
-      }
-    ],
+    "pippokr": [],
     "ninabarbakadze": [
       {
         "number": 7837,
@@ -46,6 +35,26 @@
         "authorCategory": "coworker",
         "reviewer": "rach-id",
         "requestedAt": "2026-09-14T10:01:00Z"
+      },
+      {
+        "number": 7830,
+        "title": "fix(fibre): continue pruning after local deletion failures",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/7830",
+        "repo": "celestia-app",
+        "author": "renaynay",
+        "authorCategory": "coworker",
+        "reviewer": "rach-id",
+        "requestedAt": "2026-09-14T11:35:12Z"
+      },
+      {
+        "number": 7838,
+        "title": "fix(fibre): configure object transport and bound requests",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/7838",
+        "repo": "celestia-app",
+        "author": "renaynay",
+        "authorCategory": "coworker",
+        "reviewer": "rach-id",
+        "requestedAt": "2026-09-14T11:37:05Z"
       }
     ],
     "renaynay": [
@@ -302,5 +311,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-09-14T11:30:31.260Z"
+  "fetchedAt": "2026-09-14T11:40:16.649Z"
 }
