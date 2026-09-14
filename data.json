@@ -12,18 +12,7 @@
         "requestedAt": "2026-09-14T09:36:52Z"
       }
     ],
-    "pippokr": [
-      {
-        "number": 3314,
-        "title": "build(deps): Bump golang.org/x/crypto from 0.56.0 to 0.57.0",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3314",
-        "repo": "celestia-core",
-        "author": "dependabot",
-        "authorCategory": "bot",
-        "reviewer": "pippokr",
-        "requestedAt": "2026-09-14T09:34:42Z"
-      }
-    ],
+    "pippokr": [],
     "ninabarbakadze": [
       {
         "number": 7837,
@@ -301,5 +290,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-09-14T09:53:17.276Z"
+  "fetchedAt": "2026-09-14T09:59:38.665Z"
 }
