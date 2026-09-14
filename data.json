@@ -2,16 +2,6 @@
   "reviews": {
     "chatton": [
       {
-        "number": 3317,
-        "title": "feat: add TLS to privval gRPC",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3317",
-        "repo": "celestia-core",
-        "author": "ninabarbakadze",
-        "authorCategory": "coworker",
-        "reviewer": "chatton",
-        "requestedAt": "2026-09-14T13:52:31Z"
-      },
-      {
         "number": 7836,
         "title": "chore(deps): bump the github-actions group with 2 updates",
         "url": "https://github.com/celestiaorg/celestia-app/pull/7836",
@@ -24,28 +14,7 @@
     ],
     "pippokr": [],
     "ninabarbakadze": [],
-    "rach-id": [
-      {
-        "number": 7839,
-        "title": "fix(fibre): reject prefixes that prevent store restarts",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7839",
-        "repo": "celestia-app",
-        "author": "renaynay",
-        "authorCategory": "coworker",
-        "reviewer": "rach-id",
-        "requestedAt": "2026-09-14T13:35:45Z"
-      },
-      {
-        "number": 3317,
-        "title": "feat: add TLS to privval gRPC",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3317",
-        "repo": "celestia-core",
-        "author": "ninabarbakadze",
-        "authorCategory": "coworker",
-        "reviewer": "rach-id",
-        "requestedAt": "2026-09-14T13:52:41Z"
-      }
-    ],
+    "rach-id": [],
     "renaynay": [
       {
         "number": 3304,
@@ -281,5 +250,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-09-14T14:28:08.820Z"
+  "fetchedAt": "2026-09-14T14:42:36.514Z"
 }
