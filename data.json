@@ -2,16 +2,6 @@
   "reviews": {
     "chatton": [
       {
-        "number": 3311,
-        "title": "build(deps): Bump golang.org/x/net from 0.58.0 to 0.59.0",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3311",
-        "repo": "celestia-core",
-        "author": "dependabot",
-        "authorCategory": "bot",
-        "reviewer": "chatton",
-        "requestedAt": "2026-09-14T09:31:31Z"
-      },
-      {
         "number": 7836,
         "title": "chore(deps): bump the github-actions group with 2 updates",
         "url": "https://github.com/celestiaorg/celestia-app/pull/7836",
@@ -35,16 +25,6 @@
       }
     ],
     "ninabarbakadze": [
-      {
-        "number": 3312,
-        "title": "build(deps): Bump github.com/aws/aws-sdk-go-v2 from 1.45.1 to 1.47.0",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3312",
-        "repo": "celestia-core",
-        "author": "dependabot",
-        "authorCategory": "bot",
-        "reviewer": "ninabarbakadze",
-        "requestedAt": "2026-09-14T09:33:04Z"
-      },
       {
         "number": 7837,
         "title": "chore(deps): bump the go-deps group with 14 updates",
@@ -321,5 +301,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-09-14T09:45:43.174Z"
+  "fetchedAt": "2026-09-14T09:53:17.276Z"
 }
