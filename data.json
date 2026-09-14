@@ -36,6 +36,16 @@
         "authorCategory": "external",
         "reviewer": "renaynay",
         "requestedAt": "2026-09-09T20:03:53Z"
+      },
+      {
+        "number": 5179,
+        "title": "shrex/peers: Avoid cooldown lock-order deadlock",
+        "url": "https://github.com/celestiaorg/celestia-node/pull/5179",
+        "repo": "celestia-node",
+        "author": "neyy91",
+        "authorCategory": "external",
+        "reviewer": "renaynay",
+        "requestedAt": "2026-09-14T16:07:33Z"
       }
     ],
     "rootulp": [
@@ -200,20 +210,19 @@
         "authorCategory": "external",
         "reviewer": "vgonkivs",
         "requestedAt": "2026-09-13T09:08:08Z"
+      },
+      {
+        "number": 5179,
+        "title": "shrex/peers: Avoid cooldown lock-order deadlock",
+        "url": "https://github.com/celestiaorg/celestia-node/pull/5179",
+        "repo": "celestia-node",
+        "author": "neyy91",
+        "authorCategory": "external",
+        "reviewer": "vgonkivs",
+        "requestedAt": "2026-09-14T16:07:31Z"
       }
     ],
-    "walldiss": [
-      {
-        "number": 431,
-        "title": "chore(deps): Bump github.com/celestiaorg/nmt from 0.24.4 to 0.24.5",
-        "url": "https://github.com/celestiaorg/rsmt2d/pull/431",
-        "repo": "rsmt2d",
-        "author": "dependabot",
-        "authorCategory": "bot",
-        "reviewer": "walldiss",
-        "requestedAt": "2026-09-14T15:52:54Z"
-      }
-    ]
+    "walldiss": []
   },
   "teamMembers": [
     {
@@ -261,5 +270,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-09-14T16:02:29.376Z"
+  "fetchedAt": "2026-09-14T16:21:46.160Z"
 }
