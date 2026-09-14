@@ -13,18 +13,7 @@
       }
     ],
     "pippokr": [],
-    "ninabarbakadze": [
-      {
-        "number": 7837,
-        "title": "chore(deps): bump the go-deps group with 14 updates",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7837",
-        "repo": "celestia-app",
-        "author": "dependabot",
-        "authorCategory": "bot",
-        "reviewer": "ninabarbakadze",
-        "requestedAt": "2026-09-14T09:39:36Z"
-      }
-    ],
+    "ninabarbakadze": [],
     "rach-id": [],
     "renaynay": [
       {
@@ -280,5 +269,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-09-14T13:20:27.292Z"
+  "fetchedAt": "2026-09-14T13:32:15.208Z"
 }
