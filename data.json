@@ -1,17 +1,6 @@
 {
   "reviews": {
-    "chatton": [
-      {
-        "number": 411,
-        "title": "perf(store): avoid loading headers while finding boundaries",
-        "url": "https://github.com/celestiaorg/go-header/pull/411",
-        "repo": "go-header",
-        "author": "loglapa",
-        "authorCategory": "external",
-        "reviewer": "chatton",
-        "requestedAt": "2026-09-03T18:05:10Z"
-      }
-    ],
+    "chatton": [],
     "pippokr": [],
     "ninabarbakadze": [],
     "rach-id": [],
@@ -229,5 +218,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-09-14T08:54:56.996Z"
+  "fetchedAt": "2026-09-14T09:05:31.246Z"
 }
