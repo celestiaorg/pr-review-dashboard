@@ -2,6 +2,16 @@
   "reviews": {
     "chatton": [
       {
+        "number": 7834,
+        "title": "ci: retry nightly Corto load test",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/7834",
+        "repo": "celestia-app",
+        "author": "rach-id",
+        "authorCategory": "coworker",
+        "reviewer": "chatton",
+        "requestedAt": "2026-09-14T04:33:33Z"
+      },
+      {
         "number": 411,
         "title": "perf(store): avoid loading headers while finding boundaries",
         "url": "https://github.com/celestiaorg/go-header/pull/411",
@@ -229,5 +239,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-09-14T04:25:34.521Z"
+  "fetchedAt": "2026-09-14T04:40:30.968Z"
 }
