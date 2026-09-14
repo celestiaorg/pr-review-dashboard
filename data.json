@@ -72,6 +72,16 @@
     ],
     "vgonkivs": [
       {
+        "number": 5235,
+        "title": "chore: update default code owners",
+        "url": "https://github.com/celestiaorg/celestia-node/pull/5235",
+        "repo": "celestia-node",
+        "author": "rootulp",
+        "authorCategory": "coworker",
+        "reviewer": "vgonkivs",
+        "requestedAt": "2026-09-14T14:04:48Z"
+      },
+      {
         "number": 5167,
         "title": "cmd: Load configured RPC URL with explicit token",
         "url": "https://github.com/celestiaorg/celestia-node/pull/5167",
@@ -212,7 +222,18 @@
         "requestedAt": "2026-09-13T09:08:08Z"
       }
     ],
-    "walldiss": []
+    "walldiss": [
+      {
+        "number": 5235,
+        "title": "chore: update default code owners",
+        "url": "https://github.com/celestiaorg/celestia-node/pull/5235",
+        "repo": "celestia-node",
+        "author": "rootulp",
+        "authorCategory": "coworker",
+        "reviewer": "walldiss",
+        "requestedAt": "2026-09-14T14:06:33Z"
+      }
+    ]
   },
   "teamMembers": [
     {
@@ -260,5 +281,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-09-14T13:55:59.418Z"
+  "fetchedAt": "2026-09-14T14:11:20.305Z"
 }
