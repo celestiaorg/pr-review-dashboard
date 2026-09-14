@@ -52,26 +52,6 @@
     ],
     "vgonkivs": [
       {
-        "number": 3310,
-        "title": "build(deps): Bump github.com/aws/aws-sdk-go-v2/credentials from 1.20.2 to 1.20.4",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3310",
-        "repo": "celestia-core",
-        "author": "dependabot",
-        "authorCategory": "bot",
-        "reviewer": "vgonkivs",
-        "requestedAt": "2026-09-14T09:31:26Z"
-      },
-      {
-        "number": 3316,
-        "title": "build(deps): Bump github.com/celestiaorg/nmt from 0.24.4 to 0.24.5",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3316",
-        "repo": "celestia-core",
-        "author": "dependabot",
-        "authorCategory": "bot",
-        "reviewer": "vgonkivs",
-        "requestedAt": "2026-09-14T09:36:22Z"
-      },
-      {
         "number": 5234,
         "title": "chore(deps): bump the go-deps group across 2 directories with 7 updates",
         "url": "https://github.com/celestiaorg/celestia-node/pull/5234",
@@ -270,5 +250,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-09-14T13:42:47.064Z"
+  "fetchedAt": "2026-09-14T13:49:35.601Z"
 }
