@@ -12,7 +12,18 @@
         "requestedAt": "2026-09-14T09:36:52Z"
       }
     ],
-    "pippokr": [],
+    "pippokr": [
+      {
+        "number": 7830,
+        "title": "fix(fibre): continue pruning after local deletion failures",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/7830",
+        "repo": "celestia-app",
+        "author": "renaynay",
+        "authorCategory": "coworker",
+        "reviewer": "pippokr",
+        "requestedAt": "2026-09-14T10:40:08Z"
+      }
+    ],
     "ninabarbakadze": [
       {
         "number": 7837,
@@ -291,5 +302,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-09-14T10:31:20.138Z"
+  "fetchedAt": "2026-09-14T10:41:43.760Z"
 }
