@@ -10,23 +10,64 @@
         "authorCategory": "bot",
         "reviewer": "chatton",
         "requestedAt": "2026-09-14T09:31:31Z"
+      },
+      {
+        "number": 7836,
+        "title": "chore(deps): bump the github-actions group with 2 updates",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/7836",
+        "repo": "celestia-app",
+        "author": "dependabot",
+        "authorCategory": "bot",
+        "reviewer": "chatton",
+        "requestedAt": "2026-09-14T09:36:52Z"
       }
     ],
-    "pippokr": [],
-    "ninabarbakadze": [],
-    "rach-id": [
+    "pippokr": [
       {
-        "number": 3309,
-        "title": "build(deps): Bump golang.org/x/sync from 0.22.0 to 0.23.0",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3309",
+        "number": 3314,
+        "title": "build(deps): Bump golang.org/x/crypto from 0.56.0 to 0.57.0",
+        "url": "https://github.com/celestiaorg/celestia-core/pull/3314",
         "repo": "celestia-core",
         "author": "dependabot",
         "authorCategory": "bot",
-        "reviewer": "rach-id",
-        "requestedAt": "2026-09-14T09:29:51Z"
+        "reviewer": "pippokr",
+        "requestedAt": "2026-09-14T09:34:42Z"
       }
     ],
+    "ninabarbakadze": [
+      {
+        "number": 3312,
+        "title": "build(deps): Bump github.com/aws/aws-sdk-go-v2 from 1.45.1 to 1.47.0",
+        "url": "https://github.com/celestiaorg/celestia-core/pull/3312",
+        "repo": "celestia-core",
+        "author": "dependabot",
+        "authorCategory": "bot",
+        "reviewer": "ninabarbakadze",
+        "requestedAt": "2026-09-14T09:33:04Z"
+      },
+      {
+        "number": 7837,
+        "title": "chore(deps): bump the go-deps group with 14 updates",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/7837",
+        "repo": "celestia-app",
+        "author": "dependabot",
+        "authorCategory": "bot",
+        "reviewer": "ninabarbakadze",
+        "requestedAt": "2026-09-14T09:39:36Z"
+      }
+    ],
+    "rach-id": [],
     "renaynay": [
+      {
+        "number": 3313,
+        "title": "build(deps): Bump github.com/aws/aws-sdk-go-v2/config from 1.33.2 to 1.33.4",
+        "url": "https://github.com/celestiaorg/celestia-core/pull/3313",
+        "repo": "celestia-core",
+        "author": "dependabot",
+        "authorCategory": "bot",
+        "reviewer": "renaynay",
+        "requestedAt": "2026-09-14T09:34:37Z"
+      },
       {
         "number": 3304,
         "title": "fix(trace): correct S3Download error handling, file matching and body cleanup",
@@ -48,6 +89,26 @@
         "authorCategory": "coworker",
         "reviewer": "rootulp",
         "requestedAt": "2026-09-10T09:11:40Z"
+      },
+      {
+        "number": 7829,
+        "title": "fix(fibre): persist object storage namespace",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/7829",
+        "repo": "celestia-app",
+        "author": "renaynay",
+        "authorCategory": "coworker",
+        "reviewer": "rootulp",
+        "requestedAt": "2026-09-14T09:44:34Z"
+      },
+      {
+        "number": 7835,
+        "title": "chore(deps): bump golang.org/x/sync from 0.22.0 to 0.23.0 in /test/docker-e2e in the go-deps-docker-e2e group",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/7835",
+        "repo": "celestia-app",
+        "author": "dependabot",
+        "authorCategory": "bot",
+        "reviewer": "rootulp",
+        "requestedAt": "2026-09-14T09:33:12Z"
       }
     ],
     "vgonkivs": [
@@ -60,6 +121,16 @@
         "authorCategory": "bot",
         "reviewer": "vgonkivs",
         "requestedAt": "2026-09-14T09:31:26Z"
+      },
+      {
+        "number": 3316,
+        "title": "build(deps): Bump github.com/celestiaorg/nmt from 0.24.4 to 0.24.5",
+        "url": "https://github.com/celestiaorg/celestia-core/pull/3316",
+        "repo": "celestia-core",
+        "author": "dependabot",
+        "authorCategory": "bot",
+        "reviewer": "vgonkivs",
+        "requestedAt": "2026-09-14T09:36:22Z"
       },
       {
         "number": 5167,
@@ -250,5 +321,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-09-14T09:31:49.385Z"
+  "fetchedAt": "2026-09-14T09:45:43.174Z"
 }
