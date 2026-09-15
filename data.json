@@ -74,26 +74,6 @@
         "authorCategory": "coworker",
         "reviewer": "rach-id",
         "requestedAt": "2026-09-14T15:28:32Z"
-      },
-      {
-        "number": 7843,
-        "title": "test: wait for first block before starting host registry",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7843",
-        "repo": "celestia-app",
-        "author": "rootulp",
-        "authorCategory": "coworker",
-        "reviewer": "rach-id",
-        "requestedAt": "2026-09-14T21:52:12Z"
-      },
-      {
-        "number": 456,
-        "title": "chore: Bump github/codeql-action from 4.37.9 to 4.38.0",
-        "url": "https://github.com/celestiaorg/blobstream-contracts/pull/456",
-        "repo": "blobstream-contracts",
-        "author": "dependabot",
-        "authorCategory": "bot",
-        "reviewer": "rach-id",
-        "requestedAt": "2026-09-14T23:54:09Z"
       }
     ],
     "renaynay": [
@@ -339,5 +319,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-09-15T05:01:57.038Z"
+  "fetchedAt": "2026-09-15T05:21:47.958Z"
 }
