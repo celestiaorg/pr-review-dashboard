@@ -24,7 +24,18 @@
         "requestedAt": "2026-09-15T12:21:34Z"
       }
     ],
-    "ninabarbakadze": [],
+    "ninabarbakadze": [
+      {
+        "number": 7845,
+        "title": "fix: wait for first block before txsim selects a master account",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/7845",
+        "repo": "celestia-app",
+        "author": "rootulp",
+        "authorCategory": "coworker",
+        "reviewer": "ninabarbakadze",
+        "requestedAt": "2026-09-15T13:49:26Z"
+      }
+    ],
     "rach-id": [],
     "renaynay": [
       {
@@ -61,16 +72,6 @@
       }
     ],
     "vgonkivs": [
-      {
-        "number": 7845,
-        "title": "fix: wait for first block before txsim selects a master account",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7845",
-        "repo": "celestia-app",
-        "author": "rootulp",
-        "authorCategory": "coworker",
-        "reviewer": "vgonkivs",
-        "requestedAt": "2026-09-14T23:44:35Z"
-      },
       {
         "number": 5167,
         "title": "cmd: Load configured RPC URL with explicit token",
@@ -271,5 +272,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-09-15T13:48:17.735Z"
+  "fetchedAt": "2026-09-15T13:54:59.425Z"
 }
