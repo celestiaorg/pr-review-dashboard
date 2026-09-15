@@ -77,6 +77,16 @@
         "authorCategory": "coworker",
         "reviewer": "rootulp",
         "requestedAt": "2026-09-15T08:41:26Z"
+      },
+      {
+        "number": 7848,
+        "title": "docs: recommend separate disks for fibre and celestia-app",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/7848",
+        "repo": "celestia-app",
+        "author": "rach-id",
+        "authorCategory": "coworker",
+        "reviewer": "rootulp",
+        "requestedAt": "2026-09-15T09:44:49Z"
       }
     ],
     "vgonkivs": [
@@ -299,5 +309,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-09-15T09:40:09.729Z"
+  "fetchedAt": "2026-09-15T09:49:38.318Z"
 }
