@@ -19,3 +19,14 @@ describe("teamMembers", () => {
     expect(names).toEqual([...names].sort());
   });
 });
+
+describe("repos", () => {
+  test("includes networks and tastora", () => {
+    expect(config.repos).toContain("networks");
+    expect(config.repos).toContain("tastora");
+  });
+
+  test("repos are sorted alphabetically", () => {
+    expect(config.repos).toEqual([...config.repos].sort());
+  });
+});
