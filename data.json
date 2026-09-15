@@ -4,16 +4,6 @@
     "pippokr": [],
     "ninabarbakadze": [
       {
-        "number": 7844,
-        "title": "test: pin celestia-node to v0.34.1-corto and re-enable TestE2EFullStackPFB",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7844",
-        "repo": "celestia-app",
-        "author": "rootulp",
-        "authorCategory": "coworker",
-        "reviewer": "ninabarbakadze",
-        "requestedAt": "2026-09-14T23:41:30Z"
-      },
-      {
         "number": 3319,
         "title": "chore: remove upstream CometBFT QA reporting scripts",
         "url": "https://github.com/celestiaorg/celestia-core/pull/3319",
@@ -54,7 +44,18 @@
         "requestedAt": "2026-09-15T00:19:12Z"
       }
     ],
-    "rach-id": [],
+    "rach-id": [
+      {
+        "number": 1038,
+        "title": "chore(fibre): consolidate tests and remove unused `ShardMap::verify`",
+        "url": "https://github.com/celestiaorg/lumina/pull/1038",
+        "repo": "lumina",
+        "author": "citizen-stig",
+        "authorCategory": "coworker",
+        "reviewer": "rach-id",
+        "requestedAt": "2026-09-15T11:40:39Z"
+      }
+    ],
     "renaynay": [
       {
         "number": 3304,
@@ -299,5 +300,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-09-15T11:39:45.459Z"
+  "fetchedAt": "2026-09-15T11:46:06.777Z"
 }
