@@ -12,6 +12,16 @@
         "requestedAt": "2026-08-31T23:53:04Z"
       },
       {
+        "number": 566,
+        "title": "docs: mark arabica-11 and mocha-4 as deprecated",
+        "url": "https://github.com/celestiaorg/networks/pull/566",
+        "repo": "networks",
+        "author": "rootulp",
+        "authorCategory": "coworker",
+        "reviewer": "chatton",
+        "requestedAt": "2026-09-15T22:22:31Z"
+      },
+      {
         "number": 204,
         "title": "chore(deps): bump google.golang.org/grpc from 1.82.1 to 1.83.1 in the go_modules group across 1 directory",
         "url": "https://github.com/celestiaorg/tastora/pull/204",
@@ -249,5 +259,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-09-15T22:19:21.909Z"
+  "fetchedAt": "2026-09-15T22:28:45.244Z"
 }
