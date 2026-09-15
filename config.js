@@ -14,8 +14,10 @@ module.exports = {
     "go-square",
     "infrastructure",
     "lumina",
+    "networks",
     "nmt",
     "rsmt2d",
+    "tastora",
   ],
 
   teamMembers: [
