@@ -58,19 +58,19 @@
         "authorCategory": "coworker",
         "reviewer": "rootulp",
         "requestedAt": "2026-09-15T12:20:35Z"
+      },
+      {
+        "number": 3325,
+        "title": "chore(ci): enable Mergify backports to v0.42.x",
+        "url": "https://github.com/celestiaorg/celestia-core/pull/3325",
+        "repo": "celestia-core",
+        "author": "rach-id",
+        "authorCategory": "coworker",
+        "reviewer": "rootulp",
+        "requestedAt": "2026-09-15T12:39:25Z"
       }
     ],
     "vgonkivs": [
-      {
-        "number": 5236,
-        "title": "chore: remove Slava from PRs assignment",
-        "url": "https://github.com/celestiaorg/celestia-node/pull/5236",
-        "repo": "celestia-node",
-        "author": "rootulp",
-        "authorCategory": "coworker",
-        "reviewer": "vgonkivs",
-        "requestedAt": "2026-09-14T15:52:26Z"
-      },
       {
         "number": 7845,
         "title": "fix: wait for first block before txsim selects a master account",
@@ -291,5 +291,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-09-15T12:29:09.440Z"
+  "fetchedAt": "2026-09-15T12:47:45.782Z"
 }
