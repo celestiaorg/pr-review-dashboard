@@ -2,14 +2,14 @@
   "reviews": {
     "chatton": [
       {
-        "number": 3324,
-        "title": "ci: delete dead upstream CometBFT workflows (backport #3318)",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3324",
-        "repo": "celestia-core",
-        "author": "mergify",
-        "authorCategory": "bot",
+        "number": 7850,
+        "title": "ci: enable Mergify backports to v10.x",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/7850",
+        "repo": "celestia-app",
+        "author": "rach-id",
+        "authorCategory": "coworker",
         "reviewer": "chatton",
-        "requestedAt": "2026-09-15T11:52:40Z"
+        "requestedAt": "2026-09-15T13:31:06Z"
       }
     ],
     "pippokr": [
@@ -58,16 +58,6 @@
         "authorCategory": "coworker",
         "reviewer": "rootulp",
         "requestedAt": "2026-09-15T12:20:35Z"
-      },
-      {
-        "number": 3325,
-        "title": "chore(ci): enable Mergify backports to v0.42.x",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3325",
-        "repo": "celestia-core",
-        "author": "rach-id",
-        "authorCategory": "coworker",
-        "reviewer": "rootulp",
-        "requestedAt": "2026-09-15T12:39:25Z"
       }
     ],
     "vgonkivs": [
@@ -80,16 +70,6 @@
         "authorCategory": "coworker",
         "reviewer": "vgonkivs",
         "requestedAt": "2026-09-14T23:44:35Z"
-      },
-      {
-        "number": 3323,
-        "title": "ci: delete dead upstream CometBFT workflows (backport #3318)",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3323",
-        "repo": "celestia-core",
-        "author": "mergify",
-        "authorCategory": "bot",
-        "reviewer": "vgonkivs",
-        "requestedAt": "2026-09-15T11:52:27Z"
       },
       {
         "number": 5167,
@@ -291,5 +271,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-09-15T13:29:02.251Z"
+  "fetchedAt": "2026-09-15T13:41:13.433Z"
 }
