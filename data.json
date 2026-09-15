@@ -1,6 +1,17 @@
 {
   "reviews": {
-    "chatton": [],
+    "chatton": [
+      {
+        "number": 3324,
+        "title": "ci: delete dead upstream CometBFT workflows (backport #3318)",
+        "url": "https://github.com/celestiaorg/celestia-core/pull/3324",
+        "repo": "celestia-core",
+        "author": "mergify",
+        "authorCategory": "bot",
+        "reviewer": "chatton",
+        "requestedAt": "2026-09-15T11:52:40Z"
+      }
+    ],
     "pippokr": [],
     "ninabarbakadze": [
       {
@@ -12,36 +23,6 @@
         "authorCategory": "coworker",
         "reviewer": "ninabarbakadze",
         "requestedAt": "2026-09-15T00:18:10Z"
-      },
-      {
-        "number": 3318,
-        "title": "ci: delete dead upstream CometBFT workflows",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3318",
-        "repo": "celestia-core",
-        "author": "rootulp",
-        "authorCategory": "coworker",
-        "reviewer": "ninabarbakadze",
-        "requestedAt": "2026-09-15T00:18:20Z"
-      },
-      {
-        "number": 3320,
-        "title": "ci: set explicit GITHUB_TOKEN permissions on workflows",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3320",
-        "repo": "celestia-core",
-        "author": "rootulp",
-        "authorCategory": "coworker",
-        "reviewer": "ninabarbakadze",
-        "requestedAt": "2026-09-15T00:18:50Z"
-      },
-      {
-        "number": 3321,
-        "title": "build(deps): bump github.com/opencontainers/runc to v1.3.6",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3321",
-        "repo": "celestia-core",
-        "author": "rootulp",
-        "authorCategory": "coworker",
-        "reviewer": "ninabarbakadze",
-        "requestedAt": "2026-09-15T00:19:12Z"
       }
     ],
     "rach-id": [
@@ -110,6 +91,16 @@
         "authorCategory": "coworker",
         "reviewer": "vgonkivs",
         "requestedAt": "2026-09-14T23:44:35Z"
+      },
+      {
+        "number": 3323,
+        "title": "ci: delete dead upstream CometBFT workflows (backport #3318)",
+        "url": "https://github.com/celestiaorg/celestia-core/pull/3323",
+        "repo": "celestia-core",
+        "author": "mergify",
+        "authorCategory": "bot",
+        "reviewer": "vgonkivs",
+        "requestedAt": "2026-09-15T11:52:27Z"
       },
       {
         "number": 5167,
@@ -300,5 +291,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-09-15T11:46:06.777Z"
+  "fetchedAt": "2026-09-15T11:52:43.451Z"
 }
