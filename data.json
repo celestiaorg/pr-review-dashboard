@@ -64,18 +64,7 @@
         "requestedAt": "2026-09-15T00:19:12Z"
       }
     ],
-    "rach-id": [
-      {
-        "number": 7840,
-        "title": "fix(fibre): make object uploads retryable",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7840",
-        "repo": "celestia-app",
-        "author": "renaynay",
-        "authorCategory": "coworker",
-        "reviewer": "rach-id",
-        "requestedAt": "2026-09-14T15:28:32Z"
-      }
-    ],
+    "rach-id": [],
     "renaynay": [
       {
         "number": 3304,
@@ -319,5 +308,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-09-15T05:32:45.298Z"
+  "fetchedAt": "2026-09-15T05:42:44.893Z"
 }
