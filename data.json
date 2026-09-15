@@ -62,6 +62,16 @@
         "authorCategory": "coworker",
         "reviewer": "ninabarbakadze",
         "requestedAt": "2026-09-15T00:19:12Z"
+      },
+      {
+        "number": 1053,
+        "title": "Nikolai/less arcs where not needed",
+        "url": "https://github.com/celestiaorg/lumina/pull/1053",
+        "repo": "lumina",
+        "author": "citizen-stig",
+        "authorCategory": "coworker",
+        "reviewer": "ninabarbakadze",
+        "requestedAt": "2026-09-15T06:52:16Z"
       }
     ],
     "rach-id": [],
@@ -308,5 +318,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-09-15T06:47:15.221Z"
+  "fetchedAt": "2026-09-15T07:01:12.652Z"
 }
