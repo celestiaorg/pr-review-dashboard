@@ -159,7 +159,18 @@
         "requestedAt": "2026-09-13T09:08:08Z"
       }
     ],
-    "walldiss": []
+    "walldiss": [
+      {
+        "number": 5238,
+        "title": "chore(deps): bump app to v10.1.0-corto and core to v0.42.0",
+        "url": "https://github.com/celestiaorg/celestia-node/pull/5238",
+        "repo": "celestia-node",
+        "author": "rach-id",
+        "authorCategory": "coworker",
+        "reviewer": "walldiss",
+        "requestedAt": "2026-09-15T16:19:07Z"
+      }
+    ]
   },
   "teamMembers": [
     {
@@ -207,5 +218,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-09-15T16:00:10.942Z"
+  "fetchedAt": "2026-09-15T16:21:16.481Z"
 }
