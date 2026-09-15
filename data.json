@@ -4,16 +4,6 @@
     "pippokr": [],
     "ninabarbakadze": [
       {
-        "number": 7833,
-        "title": "ci: disable mergify queue control comments",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7833",
-        "repo": "celestia-app",
-        "author": "rootulp",
-        "authorCategory": "coworker",
-        "reviewer": "ninabarbakadze",
-        "requestedAt": "2026-09-14T21:35:22Z"
-      },
-      {
         "number": 7844,
         "title": "test: pin celestia-node to v0.34.1-corto and re-enable TestE2EFullStackPFB",
         "url": "https://github.com/celestiaorg/celestia-app/pull/7844",
@@ -309,5 +299,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-09-15T09:07:17.364Z"
+  "fetchedAt": "2026-09-15T09:40:09.729Z"
 }
