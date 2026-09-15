@@ -44,6 +44,16 @@
         "authorCategory": "coworker",
         "reviewer": "rach-id",
         "requestedAt": "2026-09-15T21:35:08Z"
+      },
+      {
+        "number": 7851,
+        "title": "chore(observability): sync the fibre Grafana dashboard with the corto export",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/7851",
+        "repo": "celestia-app",
+        "author": "rootulp",
+        "authorCategory": "coworker",
+        "reviewer": "rach-id",
+        "requestedAt": "2026-09-15T22:31:57Z"
       }
     ],
     "renaynay": [
@@ -259,5 +269,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-09-15T22:28:45.244Z"
+  "fetchedAt": "2026-09-15T22:38:02.852Z"
 }
