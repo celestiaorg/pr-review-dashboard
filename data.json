@@ -1,17 +1,6 @@
 {
   "reviews": {
-    "chatton": [
-      {
-        "number": 7850,
-        "title": "ci: enable Mergify backports to v10.x",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7850",
-        "repo": "celestia-app",
-        "author": "rach-id",
-        "authorCategory": "coworker",
-        "reviewer": "chatton",
-        "requestedAt": "2026-09-15T13:31:06Z"
-      }
-    ],
+    "chatton": [],
     "pippokr": [
       {
         "number": 1047,
@@ -272,5 +261,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-09-15T13:54:59.425Z"
+  "fetchedAt": "2026-09-15T14:05:40.499Z"
 }
