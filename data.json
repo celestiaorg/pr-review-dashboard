@@ -22,6 +22,46 @@
         "authorCategory": "coworker",
         "reviewer": "ninabarbakadze",
         "requestedAt": "2026-09-14T23:41:30Z"
+      },
+      {
+        "number": 3319,
+        "title": "chore: remove upstream CometBFT QA reporting scripts",
+        "url": "https://github.com/celestiaorg/celestia-core/pull/3319",
+        "repo": "celestia-core",
+        "author": "rootulp",
+        "authorCategory": "coworker",
+        "reviewer": "ninabarbakadze",
+        "requestedAt": "2026-09-15T00:18:10Z"
+      },
+      {
+        "number": 3318,
+        "title": "ci: delete dead upstream CometBFT workflows",
+        "url": "https://github.com/celestiaorg/celestia-core/pull/3318",
+        "repo": "celestia-core",
+        "author": "rootulp",
+        "authorCategory": "coworker",
+        "reviewer": "ninabarbakadze",
+        "requestedAt": "2026-09-15T00:18:20Z"
+      },
+      {
+        "number": 3320,
+        "title": "ci: set explicit GITHUB_TOKEN permissions on workflows",
+        "url": "https://github.com/celestiaorg/celestia-core/pull/3320",
+        "repo": "celestia-core",
+        "author": "rootulp",
+        "authorCategory": "coworker",
+        "reviewer": "ninabarbakadze",
+        "requestedAt": "2026-09-15T00:18:50Z"
+      },
+      {
+        "number": 3321,
+        "title": "build(deps): bump github.com/opencontainers/runc to v1.3.6",
+        "url": "https://github.com/celestiaorg/celestia-core/pull/3321",
+        "repo": "celestia-core",
+        "author": "rootulp",
+        "authorCategory": "coworker",
+        "reviewer": "ninabarbakadze",
+        "requestedAt": "2026-09-15T00:19:12Z"
       }
     ],
     "rach-id": [
@@ -299,5 +339,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-09-14T23:59:36.580Z"
+  "fetchedAt": "2026-09-15T00:54:31.462Z"
 }
