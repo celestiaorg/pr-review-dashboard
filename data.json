@@ -1,9 +1,41 @@
 {
   "reviews": {
-    "chatton": [],
+    "chatton": [
+      {
+        "number": 550,
+        "title": "feat(peers): automated weekly peers.txt + addrbook.json refresh",
+        "url": "https://github.com/celestiaorg/networks/pull/550",
+        "repo": "networks",
+        "author": "rootulp",
+        "authorCategory": "coworker",
+        "reviewer": "chatton",
+        "requestedAt": "2026-08-31T23:53:04Z"
+      },
+      {
+        "number": 204,
+        "title": "chore(deps): bump google.golang.org/grpc from 1.82.1 to 1.83.1 in the go_modules group across 1 directory",
+        "url": "https://github.com/celestiaorg/tastora/pull/204",
+        "repo": "tastora",
+        "author": "dependabot",
+        "authorCategory": "bot",
+        "reviewer": "chatton",
+        "requestedAt": "2026-09-02T07:49:19Z"
+      }
+    ],
     "pippokr": [],
     "ninabarbakadze": [],
-    "rach-id": [],
+    "rach-id": [
+      {
+        "number": 3322,
+        "title": "ci: run native Go fuzz tests nightly",
+        "url": "https://github.com/celestiaorg/celestia-core/pull/3322",
+        "repo": "celestia-core",
+        "author": "rootulp",
+        "authorCategory": "coworker",
+        "reviewer": "rach-id",
+        "requestedAt": "2026-09-15T21:35:08Z"
+      }
+    ],
     "renaynay": [
       {
         "number": 5238,
@@ -217,5 +249,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-09-15T21:34:20.647Z"
+  "fetchedAt": "2026-09-15T21:37:42.710Z"
 }
