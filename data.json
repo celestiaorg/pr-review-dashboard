@@ -30,6 +30,16 @@
         "authorCategory": "coworker",
         "reviewer": "chatton",
         "requestedAt": "2026-09-16T14:43:55Z"
+      },
+      {
+        "number": 772,
+        "title": "fix(celestia-node): stamp explicit VERSION and rebuild on re-tag",
+        "url": "https://github.com/celestiaorg/infrastructure/pull/772",
+        "repo": "infrastructure",
+        "author": "pippokr",
+        "authorCategory": "coworker",
+        "reviewer": "chatton",
+        "requestedAt": "2026-09-16T16:03:23Z"
       }
     ],
     "pippokr": [],
@@ -54,6 +64,16 @@
         "authorCategory": "coworker",
         "reviewer": "rach-id",
         "requestedAt": "2026-09-16T15:02:03Z"
+      },
+      {
+        "number": 7861,
+        "title": "feat(fibre): allow downloads without a keyring",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/7861",
+        "repo": "celestia-app",
+        "author": "theodorebugnet",
+        "authorCategory": "coworker",
+        "reviewer": "rach-id",
+        "requestedAt": "2026-09-16T16:10:02Z"
       }
     ],
     "renaynay": [
@@ -251,16 +271,6 @@
         "authorCategory": "coworker",
         "reviewer": "walldiss",
         "requestedAt": "2026-09-16T15:02:03Z"
-      },
-      {
-        "number": 567,
-        "title": "Bump google.golang.org/grpc from 1.79.3 to 1.83.2 in /scripts/peers/verifypeer",
-        "url": "https://github.com/celestiaorg/networks/pull/567",
-        "repo": "networks",
-        "author": "dependabot",
-        "authorCategory": "bot",
-        "reviewer": "walldiss",
-        "requestedAt": "2026-09-16T14:49:41Z"
       }
     ]
   },
@@ -310,5 +320,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-09-16T15:57:04.564Z"
+  "fetchedAt": "2026-09-16T16:16:24.750Z"
 }
