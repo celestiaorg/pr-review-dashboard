@@ -33,7 +33,18 @@
       }
     ],
     "pippokr": [],
-    "ninabarbakadze": [],
+    "ninabarbakadze": [
+      {
+        "number": 7852,
+        "title": "fix(observability): complete fibre dashboard rate interval fixes",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/7852",
+        "repo": "celestia-app",
+        "author": "rach-id",
+        "authorCategory": "coworker",
+        "reviewer": "ninabarbakadze",
+        "requestedAt": "2026-09-16T04:34:28Z"
+      }
+    ],
     "rach-id": [],
     "renaynay": [
       {
@@ -248,5 +259,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-09-16T04:26:15.409Z"
+  "fetchedAt": "2026-09-16T04:39:22.695Z"
 }
