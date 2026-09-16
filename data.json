@@ -1,12 +1,256 @@
 {
   "reviews": {
-    "chatton": [],
+    "chatton": [
+      {
+        "number": 550,
+        "title": "feat(peers): automated weekly peers.txt + addrbook.json refresh",
+        "url": "https://github.com/celestiaorg/networks/pull/550",
+        "repo": "networks",
+        "author": "rootulp",
+        "authorCategory": "coworker",
+        "reviewer": "chatton",
+        "requestedAt": "2026-08-31T23:53:04Z"
+      },
+      {
+        "number": 3317,
+        "title": "feat: add TLS to privval gRPC",
+        "url": "https://github.com/celestiaorg/celestia-core/pull/3317",
+        "repo": "celestia-core",
+        "author": "ninabarbakadze",
+        "authorCategory": "coworker",
+        "reviewer": "chatton",
+        "requestedAt": "2026-09-14T13:52:31Z"
+      },
+      {
+        "number": 566,
+        "title": "docs: mark arabica-11 and mocha-4 as deprecated",
+        "url": "https://github.com/celestiaorg/networks/pull/566",
+        "repo": "networks",
+        "author": "rootulp",
+        "authorCategory": "coworker",
+        "reviewer": "chatton",
+        "requestedAt": "2026-09-15T22:22:31Z"
+      }
+    ],
     "pippokr": [],
     "ninabarbakadze": [],
-    "rach-id": [],
-    "renaynay": [],
+    "rach-id": [
+      {
+        "number": 7857,
+        "title": "feat(proto): add fibre DownloadStream",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/7857",
+        "repo": "celestia-app",
+        "author": "vgonkivs",
+        "authorCategory": "coworker",
+        "reviewer": "rach-id",
+        "requestedAt": "2026-09-16T13:50:33Z"
+      },
+      {
+        "number": 7855,
+        "title": "feat(gRPC): add Cosmos reflection service",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/7855",
+        "repo": "celestia-app",
+        "author": "nman98",
+        "authorCategory": "external",
+        "reviewer": "rach-id",
+        "requestedAt": "2026-09-16T13:15:41Z"
+      }
+    ],
+    "renaynay": [
+      {
+        "number": 99,
+        "title": "feat: bound method-label cardinality on the RPC listeners",
+        "url": "https://github.com/celestiaorg/da-proxy/pull/99",
+        "repo": "da-proxy",
+        "author": "mcrakhman",
+        "authorCategory": "coworker",
+        "reviewer": "renaynay",
+        "requestedAt": "2026-07-31T08:30:54Z"
+      },
+      {
+        "number": 109,
+        "title": "test: cover archival-flag short-circuit in height routing",
+        "url": "https://github.com/celestiaorg/da-proxy/pull/109",
+        "repo": "da-proxy",
+        "author": "vgonkivs",
+        "authorCategory": "coworker",
+        "reviewer": "renaynay",
+        "requestedAt": "2026-09-16T09:32:12Z"
+      },
+      {
+        "number": 7842,
+        "title": "feat(fibre): support mTLS for the fibre signer gRPC connection",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/7842",
+        "repo": "celestia-app",
+        "author": "ninabarbakadze",
+        "authorCategory": "coworker",
+        "reviewer": "renaynay",
+        "requestedAt": "2026-09-16T13:17:31Z"
+      },
+      {
+        "number": 3304,
+        "title": "fix(trace): correct S3Download error handling, file matching and body cleanup",
+        "url": "https://github.com/celestiaorg/celestia-core/pull/3304",
+        "repo": "celestia-core",
+        "author": "kriss39",
+        "authorCategory": "external",
+        "reviewer": "renaynay",
+        "requestedAt": "2026-09-09T20:03:53Z"
+      }
+    ],
     "rootulp": [],
-    "vgonkivs": [],
+    "vgonkivs": [
+      {
+        "number": 108,
+        "title": "ci: publish prebuilt release binaries",
+        "url": "https://github.com/celestiaorg/da-proxy/pull/108",
+        "repo": "da-proxy",
+        "author": "auricom",
+        "authorCategory": "coworker",
+        "reviewer": "vgonkivs",
+        "requestedAt": "2026-09-15T20:31:05Z"
+      },
+      {
+        "number": 5167,
+        "title": "cmd: Load configured RPC URL with explicit token",
+        "url": "https://github.com/celestiaorg/celestia-node/pull/5167",
+        "repo": "celestia-node",
+        "author": "neyy91",
+        "authorCategory": "external",
+        "reviewer": "vgonkivs",
+        "requestedAt": "2026-08-14T12:43:11Z"
+      },
+      {
+        "number": 5169,
+        "title": "das: Group adjacent retry heights",
+        "url": "https://github.com/celestiaorg/celestia-node/pull/5169",
+        "repo": "celestia-node",
+        "author": "neyy91",
+        "authorCategory": "external",
+        "reviewer": "vgonkivs",
+        "requestedAt": "2026-08-15T20:28:16Z"
+      },
+      {
+        "number": 5170,
+        "title": "core: Reject incomplete gRPC responses",
+        "url": "https://github.com/celestiaorg/celestia-node/pull/5170",
+        "repo": "celestia-node",
+        "author": "neyy91",
+        "authorCategory": "external",
+        "reviewer": "vgonkivs",
+        "requestedAt": "2026-08-15T20:28:52Z"
+      },
+      {
+        "number": 5172,
+        "title": "nodebuilder: Hold store lock until datastore closes",
+        "url": "https://github.com/celestiaorg/celestia-node/pull/5172",
+        "repo": "celestia-node",
+        "author": "neyy91",
+        "authorCategory": "external",
+        "reviewer": "vgonkivs",
+        "requestedAt": "2026-08-15T22:00:59Z"
+      },
+      {
+        "number": 5174,
+        "title": "core: Back off failed block subscriptions",
+        "url": "https://github.com/celestiaorg/celestia-node/pull/5174",
+        "repo": "celestia-node",
+        "author": "neyy91",
+        "authorCategory": "external",
+        "reviewer": "vgonkivs",
+        "requestedAt": "2026-08-16T22:42:36Z"
+      },
+      {
+        "number": 5183,
+        "title": "das: Reset running state after failed start",
+        "url": "https://github.com/celestiaorg/celestia-node/pull/5183",
+        "repo": "celestia-node",
+        "author": "neyy91",
+        "authorCategory": "external",
+        "reviewer": "vgonkivs",
+        "requestedAt": "2026-08-20T14:32:19Z"
+      },
+      {
+        "number": 5184,
+        "title": "das: Wake coordinator at retry deadlines",
+        "url": "https://github.com/celestiaorg/celestia-node/pull/5184",
+        "repo": "celestia-node",
+        "author": "neyy91",
+        "authorCategory": "external",
+        "reviewer": "vgonkivs",
+        "requestedAt": "2026-08-20T23:47:15Z"
+      },
+      {
+        "number": 5190,
+        "title": "fix(rpc/client): close namespace connections",
+        "url": "https://github.com/celestiaorg/celestia-node/pull/5190",
+        "repo": "celestia-node",
+        "author": "neyy91",
+        "authorCategory": "external",
+        "reviewer": "vgonkivs",
+        "requestedAt": "2026-08-21T15:05:41Z"
+      },
+      {
+        "number": 5191,
+        "title": "fix(pruner): handle out-of-order header deletion callbacks",
+        "url": "https://github.com/celestiaorg/celestia-node/pull/5191",
+        "repo": "celestia-node",
+        "author": "neyy91",
+        "authorCategory": "external",
+        "reviewer": "vgonkivs",
+        "requestedAt": "2026-08-21T15:06:03Z"
+      },
+      {
+        "number": 5192,
+        "title": "fix(store/file): deduplicate concurrent ODS cache fills",
+        "url": "https://github.com/celestiaorg/celestia-node/pull/5192",
+        "repo": "celestia-node",
+        "author": "neyy91",
+        "authorCategory": "external",
+        "reviewer": "vgonkivs",
+        "requestedAt": "2026-08-21T15:06:23Z"
+      },
+      {
+        "number": 5193,
+        "title": "perf(store/file): reuse ODS reconstruction workers",
+        "url": "https://github.com/celestiaorg/celestia-node/pull/5193",
+        "repo": "celestia-node",
+        "author": "neyy91",
+        "authorCategory": "external",
+        "reviewer": "vgonkivs",
+        "requestedAt": "2026-08-21T15:06:36Z"
+      },
+      {
+        "number": 341,
+        "title": "fix: synchronize root cache initialization",
+        "url": "https://github.com/celestiaorg/nmt/pull/341",
+        "repo": "nmt",
+        "author": "loglapa",
+        "authorCategory": "external",
+        "reviewer": "vgonkivs",
+        "requestedAt": "2026-08-28T19:04:55Z"
+      },
+      {
+        "number": 5222,
+        "title": "cmd: Comply with POSIX utility syntax",
+        "url": "https://github.com/celestiaorg/celestia-node/pull/5222",
+        "repo": "celestia-node",
+        "author": "loglapa",
+        "authorCategory": "external",
+        "reviewer": "vgonkivs",
+        "requestedAt": "2026-09-03T18:19:37Z"
+      },
+      {
+        "number": 5233,
+        "title": "fix(api/rpc/client): store multiCloser on client and close initialized connections on error (#5188)",
+        "url": "https://github.com/celestiaorg/celestia-node/pull/5233",
+        "repo": "celestia-node",
+        "author": "Tyagiquamar",
+        "authorCategory": "external",
+        "reviewer": "vgonkivs",
+        "requestedAt": "2026-09-13T09:08:08Z"
+      }
+    ],
     "walldiss": []
   },
   "teamMembers": [
@@ -55,5 +299,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-09-16T14:24:53.678Z"
+  "fetchedAt": "2026-09-16T14:33:04.463Z"
 }
