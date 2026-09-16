@@ -12,43 +12,11 @@
         "requestedAt": "2026-09-02T07:49:19Z"
       }
     ],
-    "pippokr": [
-      {
-        "number": 762,
-        "title": "fix(monitoring): complete fibre dashboard rate interval fixes",
-        "url": "https://github.com/celestiaorg/infrastructure/pull/762",
-        "repo": "infrastructure",
-        "author": "rach-id",
-        "authorCategory": "coworker",
-        "reviewer": "pippokr",
-        "requestedAt": "2026-09-16T04:35:16Z"
-      },
-      {
-        "number": 763,
-        "title": "fix(monitoring): forward corto fibre traces through alloy",
-        "url": "https://github.com/celestiaorg/infrastructure/pull/763",
-        "repo": "infrastructure",
-        "author": "rach-id",
-        "authorCategory": "coworker",
-        "reviewer": "pippokr",
-        "requestedAt": "2026-09-16T04:41:01Z"
-      }
-    ],
+    "pippokr": [],
     "ninabarbakadze": [],
     "rach-id": [],
     "renaynay": [],
-    "rootulp": [
-      {
-        "number": 762,
-        "title": "fix(monitoring): complete fibre dashboard rate interval fixes",
-        "url": "https://github.com/celestiaorg/infrastructure/pull/762",
-        "repo": "infrastructure",
-        "author": "rach-id",
-        "authorCategory": "coworker",
-        "reviewer": "rootulp",
-        "requestedAt": "2026-09-16T04:35:13Z"
-      }
-    ],
+    "rootulp": [],
     "vgonkivs": [],
     "walldiss": []
   },
@@ -98,5 +66,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-09-16T07:46:03.129Z"
+  "fetchedAt": "2026-09-16T07:53:12.928Z"
 }
