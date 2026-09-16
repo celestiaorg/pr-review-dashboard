@@ -68,18 +68,7 @@
         "requestedAt": "2026-09-16T18:18:53Z"
       }
     ],
-    "rootulp": [
-      {
-        "number": 3304,
-        "title": "fix(trace): correct S3Download error handling, file matching and body cleanup",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3304",
-        "repo": "celestia-core",
-        "author": "kriss39",
-        "authorCategory": "external",
-        "reviewer": "rootulp",
-        "requestedAt": "2026-09-16T18:13:56Z"
-      }
-    ],
+    "rootulp": [],
     "vgonkivs": [
       {
         "number": 108,
@@ -311,5 +300,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-09-16T22:50:05.635Z"
+  "fetchedAt": "2026-09-16T22:56:27.957Z"
 }
