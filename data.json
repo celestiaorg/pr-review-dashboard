@@ -1,7 +1,18 @@
 {
   "reviews": {
     "chatton": [],
-    "pippokr": [],
+    "pippokr": [
+      {
+        "number": 767,
+        "title": "fix(ansible): manage lunar archival node through community fleet",
+        "url": "https://github.com/celestiaorg/infrastructure/pull/767",
+        "repo": "infrastructure",
+        "author": "chatton",
+        "authorCategory": "coworker",
+        "reviewer": "pippokr",
+        "requestedAt": "2026-09-16T12:29:42Z"
+      }
+    ],
     "ninabarbakadze": [],
     "rach-id": [],
     "renaynay": [],
@@ -55,5 +66,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-09-16T12:00:14.416Z"
+  "fetchedAt": "2026-09-16T12:30:30.644Z"
 }
