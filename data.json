@@ -2,16 +2,6 @@
   "reviews": {
     "chatton": [
       {
-        "number": 550,
-        "title": "feat(peers): automated weekly peers.txt + addrbook.json refresh",
-        "url": "https://github.com/celestiaorg/networks/pull/550",
-        "repo": "networks",
-        "author": "rootulp",
-        "authorCategory": "coworker",
-        "reviewer": "chatton",
-        "requestedAt": "2026-08-31T23:53:04Z"
-      },
-      {
         "number": 3317,
         "title": "feat: add TLS to privval gRPC",
         "url": "https://github.com/celestiaorg/celestia-core/pull/3317",
@@ -30,6 +20,16 @@
         "authorCategory": "coworker",
         "reviewer": "chatton",
         "requestedAt": "2026-09-15T22:22:31Z"
+      },
+      {
+        "number": 7859,
+        "title": "fix(observability): populate fibre validator filter from server metrics",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/7859",
+        "repo": "celestia-app",
+        "author": "rach-id",
+        "authorCategory": "coworker",
+        "reviewer": "chatton",
+        "requestedAt": "2026-09-16T14:43:55Z"
       }
     ],
     "pippokr": [],
@@ -44,16 +44,6 @@
         "authorCategory": "coworker",
         "reviewer": "rach-id",
         "requestedAt": "2026-09-16T13:50:33Z"
-      },
-      {
-        "number": 7855,
-        "title": "feat(gRPC): add Cosmos reflection service",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7855",
-        "repo": "celestia-app",
-        "author": "nman98",
-        "authorCategory": "external",
-        "reviewer": "rach-id",
-        "requestedAt": "2026-09-16T13:15:41Z"
       }
     ],
     "renaynay": [
@@ -261,7 +251,18 @@
         "requestedAt": "2026-09-13T09:08:08Z"
       }
     ],
-    "walldiss": []
+    "walldiss": [
+      {
+        "number": 567,
+        "title": "Bump google.golang.org/grpc from 1.79.3 to 1.83.2 in /scripts/peers/verifypeer",
+        "url": "https://github.com/celestiaorg/networks/pull/567",
+        "repo": "networks",
+        "author": "dependabot",
+        "authorCategory": "bot",
+        "reviewer": "walldiss",
+        "requestedAt": "2026-09-16T14:49:41Z"
+      }
+    ]
   },
   "teamMembers": [
     {
@@ -309,5 +310,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-09-16T14:43:14.133Z"
+  "fetchedAt": "2026-09-16T14:50:29.120Z"
 }
