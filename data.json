@@ -1,17 +1,6 @@
 {
   "reviews": {
-    "chatton": [
-      {
-        "number": 204,
-        "title": "chore(deps): bump google.golang.org/grpc from 1.82.1 to 1.83.1 in the go_modules group across 1 directory",
-        "url": "https://github.com/celestiaorg/tastora/pull/204",
-        "repo": "tastora",
-        "author": "dependabot",
-        "authorCategory": "bot",
-        "reviewer": "chatton",
-        "requestedAt": "2026-09-02T07:49:19Z"
-      }
-    ],
+    "chatton": [],
     "pippokr": [],
     "ninabarbakadze": [],
     "rach-id": [],
@@ -66,5 +55,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-09-16T08:27:50.586Z"
+  "fetchedAt": "2026-09-16T08:45:27.425Z"
 }
