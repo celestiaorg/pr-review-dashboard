@@ -88,18 +88,7 @@
         "requestedAt": "2026-09-09T20:03:53Z"
       }
     ],
-    "rootulp": [
-      {
-        "number": 7860,
-        "title": "feat(gRPC): add Cosmos reflection service (backport #7855)",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7860",
-        "repo": "celestia-app",
-        "author": "mergify",
-        "authorCategory": "bot",
-        "reviewer": "rootulp",
-        "requestedAt": "2026-09-16T15:07:57Z"
-      }
-    ],
+    "rootulp": [],
     "vgonkivs": [
       {
         "number": 108,
@@ -321,5 +310,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-09-16T15:35:26.387Z"
+  "fetchedAt": "2026-09-16T15:43:00.394Z"
 }
