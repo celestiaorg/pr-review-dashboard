@@ -2,16 +2,6 @@
   "reviews": {
     "chatton": [
       {
-        "number": 765,
-        "title": "fix(dashboards): Celestia Node Overview shows No data (wrong metric names)",
-        "url": "https://github.com/celestiaorg/infrastructure/pull/765",
-        "repo": "infrastructure",
-        "author": "pippokr",
-        "authorCategory": "coworker",
-        "reviewer": "chatton",
-        "requestedAt": "2026-09-16T09:41:45Z"
-      },
-      {
         "number": 205,
         "title": "chore(deps): bump google.golang.org/grpc from 1.83.1 to 1.83.2 in the go_modules group across 1 directory",
         "url": "https://github.com/celestiaorg/tastora/pull/205",
@@ -76,5 +66,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-09-16T09:43:43.082Z"
+  "fetchedAt": "2026-09-16T09:50:50.425Z"
 }
