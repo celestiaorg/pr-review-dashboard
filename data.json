@@ -111,6 +111,16 @@
         "requestedAt": "2026-09-15T20:31:05Z"
       },
       {
+        "number": 7858,
+        "title": "ci: sync GitHub releases to the Linear release pipeline (backport #7809)",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/7858",
+        "repo": "celestia-app",
+        "author": "mergify",
+        "authorCategory": "bot",
+        "reviewer": "vgonkivs",
+        "requestedAt": "2026-09-16T14:42:19Z"
+      },
+      {
         "number": 5167,
         "title": "cmd: Load configured RPC URL with explicit token",
         "url": "https://github.com/celestiaorg/celestia-node/pull/5167",
@@ -299,5 +309,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-09-16T14:35:33.448Z"
+  "fetchedAt": "2026-09-16T14:43:14.133Z"
 }
