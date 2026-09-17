@@ -40,6 +40,16 @@
         "authorCategory": "coworker",
         "reviewer": "chatton",
         "requestedAt": "2026-09-17T08:52:05Z"
+      },
+      {
+        "number": 778,
+        "title": "cleanup(mocha-4): remove decommissioned da-bridge nodes",
+        "url": "https://github.com/celestiaorg/infrastructure/pull/778",
+        "repo": "infrastructure",
+        "author": "pippokr",
+        "authorCategory": "coworker",
+        "reviewer": "chatton",
+        "requestedAt": "2026-09-17T09:18:32Z"
       }
     ],
     "pippokr": [],
@@ -390,5 +400,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-09-17T08:59:21.070Z"
+  "fetchedAt": "2026-09-17T09:22:59.505Z"
 }
