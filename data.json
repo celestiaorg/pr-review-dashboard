@@ -25,16 +25,6 @@
         "requestedAt": "2026-09-17T03:21:22Z"
       },
       {
-        "number": 760,
-        "title": "fix(deps): update root security dependencies",
-        "url": "https://github.com/celestiaorg/cosmos-sdk/pull/760",
-        "repo": "cosmos-sdk",
-        "author": "rootulp",
-        "authorCategory": "coworker",
-        "reviewer": "ninabarbakadze",
-        "requestedAt": "2026-09-17T03:24:45Z"
-      },
-      {
         "number": 761,
         "title": "fix(deps): update nested module security dependencies",
         "url": "https://github.com/celestiaorg/cosmos-sdk/pull/761",
@@ -360,5 +350,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-09-17T11:47:42.876Z"
+  "fetchedAt": "2026-09-17T11:54:10.948Z"
 }
