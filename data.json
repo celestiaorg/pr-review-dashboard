@@ -1,17 +1,6 @@
 {
   "reviews": {
-    "chatton": [
-      {
-        "number": 777,
-        "title": "cleanup(mocha-4): remove decommissioned validator-1 node",
-        "url": "https://github.com/celestiaorg/infrastructure/pull/777",
-        "repo": "infrastructure",
-        "author": "pippokr",
-        "authorCategory": "coworker",
-        "reviewer": "chatton",
-        "requestedAt": "2026-09-17T09:58:44Z"
-      }
-    ],
+    "chatton": [],
     "pippokr": [],
     "ninabarbakadze": [
       {
@@ -360,5 +349,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-09-17T10:20:25.346Z"
+  "fetchedAt": "2026-09-17T10:31:26.938Z"
 }
