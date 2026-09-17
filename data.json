@@ -11,6 +11,16 @@
         "authorCategory": "coworker",
         "reviewer": "pippokr",
         "requestedAt": "2026-09-17T10:39:34Z"
+      },
+      {
+        "number": 783,
+        "title": "feat(ansible): enforce state-sync snapshot configs",
+        "url": "https://github.com/celestiaorg/infrastructure/pull/783",
+        "repo": "infrastructure",
+        "author": "chatton",
+        "authorCategory": "coworker",
+        "reviewer": "pippokr",
+        "requestedAt": "2026-09-17T13:33:41Z"
       }
     ],
     "ninabarbakadze": [
@@ -301,5 +311,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-09-17T13:30:23.639Z"
+  "fetchedAt": "2026-09-17T13:41:05.432Z"
 }
