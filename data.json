@@ -23,26 +23,6 @@
         "authorCategory": "coworker",
         "reviewer": "ninabarbakadze",
         "requestedAt": "2026-09-17T03:21:22Z"
-      },
-      {
-        "number": 7868,
-        "title": "test(e2e): block sync from mocha and mainnet genesis",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7868",
-        "repo": "celestia-app",
-        "author": "rootulp",
-        "authorCategory": "coworker",
-        "reviewer": "ninabarbakadze",
-        "requestedAt": "2026-09-17T03:42:58Z"
-      },
-      {
-        "number": 7867,
-        "title": "ci: remove TestBlockSync e2e matrix entry that matches no test",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7867",
-        "repo": "celestia-app",
-        "author": "rootulp",
-        "authorCategory": "coworker",
-        "reviewer": "ninabarbakadze",
-        "requestedAt": "2026-09-17T03:43:50Z"
       }
     ],
     "rach-id": [
@@ -310,5 +290,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-09-17T12:31:21.386Z"
+  "fetchedAt": "2026-09-17T12:49:42.619Z"
 }
