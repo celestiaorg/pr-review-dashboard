@@ -1,17 +1,6 @@
 {
   "reviews": {
-    "chatton": [
-      {
-        "number": 786,
-        "title": "feat(ansible): shared celestia-fibre role (default-off) + fibre build target",
-        "url": "https://github.com/celestiaorg/infrastructure/pull/786",
-        "repo": "infrastructure",
-        "author": "pippokr",
-        "authorCategory": "coworker",
-        "reviewer": "chatton",
-        "requestedAt": "2026-09-17T14:32:08Z"
-      }
-    ],
+    "chatton": [],
     "pippokr": [
       {
         "number": 768,
@@ -322,5 +311,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-09-17T14:43:29.741Z"
+  "fetchedAt": "2026-09-17T14:50:49.871Z"
 }
