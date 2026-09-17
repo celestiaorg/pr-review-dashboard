@@ -33,6 +33,16 @@
         "authorCategory": "coworker",
         "reviewer": "ninabarbakadze",
         "requestedAt": "2026-09-17T03:21:22Z"
+      },
+      {
+        "number": 7869,
+        "title": "feat(talis): add `--successful-only` to fibre-throughput",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/7869",
+        "repo": "celestia-app",
+        "author": "renaynay",
+        "authorCategory": "coworker",
+        "reviewer": "ninabarbakadze",
+        "requestedAt": "2026-09-17T13:48:02Z"
       }
     ],
     "rach-id": [
@@ -45,16 +55,6 @@
         "authorCategory": "coworker",
         "reviewer": "rach-id",
         "requestedAt": "2026-09-16T13:50:33Z"
-      },
-      {
-        "number": 7869,
-        "title": "feat(talis): add `--successful-only` to fibre-throughput",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7869",
-        "repo": "celestia-app",
-        "author": "renaynay",
-        "authorCategory": "coworker",
-        "reviewer": "rach-id",
-        "requestedAt": "2026-09-17T13:47:49Z"
       }
     ],
     "renaynay": [],
@@ -321,5 +321,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-09-17T13:48:01.720Z"
+  "fetchedAt": "2026-09-17T13:54:27.396Z"
 }
