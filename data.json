@@ -30,10 +30,51 @@
         "authorCategory": "coworker",
         "reviewer": "chatton",
         "requestedAt": "2026-09-16T16:21:39Z"
+      },
+      {
+        "number": 760,
+        "title": "fix(deps): update root security dependencies",
+        "url": "https://github.com/celestiaorg/cosmos-sdk/pull/760",
+        "repo": "cosmos-sdk",
+        "author": "rootulp",
+        "authorCategory": "coworker",
+        "reviewer": "chatton",
+        "requestedAt": "2026-09-17T03:24:34Z"
       }
     ],
     "pippokr": [],
-    "ninabarbakadze": [],
+    "ninabarbakadze": [
+      {
+        "number": 7865,
+        "title": "fix: ignore quit signal error code in standalone start",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/7865",
+        "repo": "celestia-app",
+        "author": "rootulp",
+        "authorCategory": "coworker",
+        "reviewer": "ninabarbakadze",
+        "requestedAt": "2026-09-17T03:21:22Z"
+      },
+      {
+        "number": 760,
+        "title": "fix(deps): update root security dependencies",
+        "url": "https://github.com/celestiaorg/cosmos-sdk/pull/760",
+        "repo": "cosmos-sdk",
+        "author": "rootulp",
+        "authorCategory": "coworker",
+        "reviewer": "ninabarbakadze",
+        "requestedAt": "2026-09-17T03:24:45Z"
+      },
+      {
+        "number": 761,
+        "title": "fix(deps): update nested module security dependencies",
+        "url": "https://github.com/celestiaorg/cosmos-sdk/pull/761",
+        "repo": "cosmos-sdk",
+        "author": "rootulp",
+        "authorCategory": "coworker",
+        "reviewer": "ninabarbakadze",
+        "requestedAt": "2026-09-17T03:26:47Z"
+      }
+    ],
     "rach-id": [
       {
         "number": 7857,
@@ -58,6 +99,16 @@
         "authorCategory": "coworker",
         "reviewer": "vgonkivs",
         "requestedAt": "2026-09-15T20:31:05Z"
+      },
+      {
+        "number": 7864,
+        "title": "fix(blob): compile on 32-bit targets",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/7864",
+        "repo": "celestia-app",
+        "author": "rootulp",
+        "authorCategory": "coworker",
+        "reviewer": "vgonkivs",
+        "requestedAt": "2026-09-17T03:12:01Z"
       },
       {
         "number": 5167,
@@ -230,6 +281,16 @@
         "authorCategory": "coworker",
         "reviewer": "walldiss",
         "requestedAt": "2026-09-16T18:09:11Z"
+      },
+      {
+        "number": 761,
+        "title": "fix(deps): update nested module security dependencies",
+        "url": "https://github.com/celestiaorg/cosmos-sdk/pull/761",
+        "repo": "cosmos-sdk",
+        "author": "rootulp",
+        "authorCategory": "coworker",
+        "reviewer": "walldiss",
+        "requestedAt": "2026-09-17T03:26:43Z"
       }
     ]
   },
@@ -279,5 +340,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-09-17T03:07:29.464Z"
+  "fetchedAt": "2026-09-17T03:27:01.204Z"
 }
