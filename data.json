@@ -33,6 +33,16 @@
         "authorCategory": "coworker",
         "reviewer": "ninabarbakadze",
         "requestedAt": "2026-09-17T03:21:22Z"
+      },
+      {
+        "number": 289,
+        "title": "fix: reject non-canonical blob tx encodings",
+        "url": "https://github.com/celestiaorg/go-square/pull/289",
+        "repo": "go-square",
+        "author": "rootulp",
+        "authorCategory": "coworker",
+        "reviewer": "ninabarbakadze",
+        "requestedAt": "2026-09-17T17:53:24Z"
       }
     ],
     "rach-id": [
@@ -233,16 +243,6 @@
         "requestedAt": "2026-09-16T18:09:11Z"
       },
       {
-        "number": 761,
-        "title": "fix(deps): update nested module security dependencies",
-        "url": "https://github.com/celestiaorg/cosmos-sdk/pull/761",
-        "repo": "cosmos-sdk",
-        "author": "rootulp",
-        "authorCategory": "coworker",
-        "reviewer": "walldiss",
-        "requestedAt": "2026-09-17T03:26:43Z"
-      },
-      {
         "number": 3317,
         "title": "feat: add TLS to privval gRPC",
         "url": "https://github.com/celestiaorg/celestia-core/pull/3317",
@@ -300,5 +300,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-09-17T17:47:20.920Z"
+  "fetchedAt": "2026-09-17T17:54:01.187Z"
 }
