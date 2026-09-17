@@ -2,14 +2,14 @@
   "reviews": {
     "chatton": [
       {
-        "number": 784,
-        "title": "feat(golang): add mocha-5 Go 1.26.8 pin for celestia-app v10 builds",
-        "url": "https://github.com/celestiaorg/infrastructure/pull/784",
+        "number": 786,
+        "title": "feat(ansible): shared celestia-fibre role (default-off) + fibre build target",
+        "url": "https://github.com/celestiaorg/infrastructure/pull/786",
         "repo": "infrastructure",
         "author": "pippokr",
         "authorCategory": "coworker",
         "reviewer": "chatton",
-        "requestedAt": "2026-09-17T14:21:08Z"
+        "requestedAt": "2026-09-17T14:32:08Z"
       }
     ],
     "pippokr": [
@@ -322,5 +322,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-09-17T14:24:06.526Z"
+  "fetchedAt": "2026-09-17T14:33:59.637Z"
 }
