@@ -72,6 +72,16 @@
     "rootulp": [],
     "vgonkivs": [
       {
+        "number": 7872,
+        "title": "fix(blob): compile on 32-bit targets (backport #7864)",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/7872",
+        "repo": "celestia-app",
+        "author": "mergify",
+        "authorCategory": "bot",
+        "reviewer": "vgonkivs",
+        "requestedAt": "2026-09-17T20:40:27Z"
+      },
+      {
         "number": 5167,
         "title": "cmd: Load configured RPC URL with explicit token",
         "url": "https://github.com/celestiaorg/celestia-node/pull/5167",
@@ -301,5 +311,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-09-17T20:40:25.660Z"
+  "fetchedAt": "2026-09-17T20:47:00.994Z"
 }
