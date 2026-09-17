@@ -25,46 +25,6 @@
         "requestedAt": "2026-09-17T03:21:22Z"
       },
       {
-        "number": 761,
-        "title": "fix(deps): update nested module security dependencies",
-        "url": "https://github.com/celestiaorg/cosmos-sdk/pull/761",
-        "repo": "cosmos-sdk",
-        "author": "rootulp",
-        "authorCategory": "coworker",
-        "reviewer": "ninabarbakadze",
-        "requestedAt": "2026-09-17T03:26:47Z"
-      },
-      {
-        "number": 762,
-        "title": "fix(deps): update Cosmos security dependencies",
-        "url": "https://github.com/celestiaorg/cosmos-sdk/pull/762",
-        "repo": "cosmos-sdk",
-        "author": "rootulp",
-        "authorCategory": "coworker",
-        "reviewer": "ninabarbakadze",
-        "requestedAt": "2026-09-17T03:28:07Z"
-      },
-      {
-        "number": 763,
-        "title": "ci(security): cover every Go module",
-        "url": "https://github.com/celestiaorg/cosmos-sdk/pull/763",
-        "repo": "cosmos-sdk",
-        "author": "rootulp",
-        "authorCategory": "coworker",
-        "reviewer": "ninabarbakadze",
-        "requestedAt": "2026-09-17T03:29:13Z"
-      },
-      {
-        "number": 7866,
-        "title": "ci: re-add govulncheck",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7866",
-        "repo": "celestia-app",
-        "author": "rootulp",
-        "authorCategory": "coworker",
-        "reviewer": "ninabarbakadze",
-        "requestedAt": "2026-09-17T03:41:02Z"
-      },
-      {
         "number": 7868,
         "title": "test(e2e): block sync from mocha and mainnet genesis",
         "url": "https://github.com/celestiaorg/celestia-app/pull/7868",
@@ -350,5 +310,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-09-17T12:02:03.084Z"
+  "fetchedAt": "2026-09-17T12:31:21.386Z"
 }
