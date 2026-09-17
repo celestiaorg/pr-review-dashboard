@@ -121,16 +121,6 @@
         "requestedAt": "2026-09-17T03:12:01Z"
       },
       {
-        "number": 780,
-        "title": "cleanup(mocha-4): drop dead mocha-4 fleet from tg_bot",
-        "url": "https://github.com/celestiaorg/infrastructure/pull/780",
-        "repo": "infrastructure",
-        "author": "pippokr",
-        "authorCategory": "coworker",
-        "reviewer": "vgonkivs",
-        "requestedAt": "2026-09-17T09:39:49Z"
-      },
-      {
         "number": 5167,
         "title": "cmd: Load configured RPC URL with explicit token",
         "url": "https://github.com/celestiaorg/celestia-node/pull/5167",
@@ -360,5 +350,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-09-17T11:09:49.263Z"
+  "fetchedAt": "2026-09-17T11:22:50.743Z"
 }
