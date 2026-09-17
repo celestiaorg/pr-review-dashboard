@@ -50,6 +50,16 @@
         "authorCategory": "coworker",
         "reviewer": "chatton",
         "requestedAt": "2026-09-17T09:18:32Z"
+      },
+      {
+        "number": 779,
+        "title": "cleanup(mocha-4): remove decommissioned mocha-archival node",
+        "url": "https://github.com/celestiaorg/infrastructure/pull/779",
+        "repo": "infrastructure",
+        "author": "pippokr",
+        "authorCategory": "coworker",
+        "reviewer": "chatton",
+        "requestedAt": "2026-09-17T09:23:42Z"
       }
     ],
     "pippokr": [],
@@ -400,5 +410,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-09-17T09:22:59.505Z"
+  "fetchedAt": "2026-09-17T09:34:56.713Z"
 }
