@@ -12,16 +12,6 @@
         "requestedAt": "2026-09-15T22:22:31Z"
       },
       {
-        "number": 7859,
-        "title": "fix(observability): populate fibre validator filter from server metrics",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7859",
-        "repo": "celestia-app",
-        "author": "rach-id",
-        "authorCategory": "coworker",
-        "reviewer": "chatton",
-        "requestedAt": "2026-09-16T14:43:55Z"
-      },
-      {
         "number": 772,
         "title": "fix(celestia-node): stamp explicit VERSION and rebuild on re-tag",
         "url": "https://github.com/celestiaorg/infrastructure/pull/772",
@@ -289,5 +279,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-09-17T02:55:13.654Z"
+  "fetchedAt": "2026-09-17T03:07:29.464Z"
 }
