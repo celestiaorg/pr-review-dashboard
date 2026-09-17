@@ -48,18 +48,7 @@
       }
     ],
     "renaynay": [],
-    "rootulp": [
-      {
-        "number": 5239,
-        "title": "chore(deps): bump celestia-app to v10.1.0-mocha",
-        "url": "https://github.com/celestiaorg/celestia-node/pull/5239",
-        "repo": "celestia-node",
-        "author": "ninabarbakadze",
-        "authorCategory": "coworker",
-        "reviewer": "rootulp",
-        "requestedAt": "2026-09-17T13:06:30Z"
-      }
-    ],
+    "rootulp": [],
     "vgonkivs": [
       {
         "number": 7864,
@@ -311,5 +300,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-09-17T17:40:25.665Z"
+  "fetchedAt": "2026-09-17T17:47:20.920Z"
 }
