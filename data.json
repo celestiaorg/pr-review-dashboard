@@ -72,16 +72,6 @@
     "rootulp": [],
     "vgonkivs": [
       {
-        "number": 7864,
-        "title": "fix(blob): compile on 32-bit targets",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7864",
-        "repo": "celestia-app",
-        "author": "rootulp",
-        "authorCategory": "coworker",
-        "reviewer": "vgonkivs",
-        "requestedAt": "2026-09-17T03:12:01Z"
-      },
-      {
         "number": 5167,
         "title": "cmd: Load configured RPC URL with explicit token",
         "url": "https://github.com/celestiaorg/celestia-node/pull/5167",
@@ -311,5 +301,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-09-17T20:19:57.999Z"
+  "fetchedAt": "2026-09-17T20:30:55.819Z"
 }
