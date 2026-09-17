@@ -56,18 +56,7 @@
         "requestedAt": "2026-09-16T13:50:33Z"
       }
     ],
-    "renaynay": [
-      {
-        "number": 7863,
-        "title": "feat(fibre): allow downloads without a keyring (backport #7861)",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7863",
-        "repo": "celestia-app",
-        "author": "mergify",
-        "authorCategory": "bot",
-        "reviewer": "renaynay",
-        "requestedAt": "2026-09-16T18:18:53Z"
-      }
-    ],
+    "renaynay": [],
     "rootulp": [],
     "vgonkivs": [
       {
@@ -300,5 +289,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-09-17T02:47:55.021Z"
+  "fetchedAt": "2026-09-17T02:55:13.654Z"
 }
