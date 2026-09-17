@@ -2,46 +2,6 @@
   "reviews": {
     "chatton": [
       {
-        "number": 773,
-        "title": "fix(deployment-agent): announce each live deploy batch in Slack",
-        "url": "https://github.com/celestiaorg/infrastructure/pull/773",
-        "repo": "infrastructure",
-        "author": "pippokr",
-        "authorCategory": "coworker",
-        "reviewer": "chatton",
-        "requestedAt": "2026-09-16T16:21:39Z"
-      },
-      {
-        "number": 760,
-        "title": "fix(deps): update root security dependencies",
-        "url": "https://github.com/celestiaorg/cosmos-sdk/pull/760",
-        "repo": "cosmos-sdk",
-        "author": "rootulp",
-        "authorCategory": "coworker",
-        "reviewer": "chatton",
-        "requestedAt": "2026-09-17T03:24:34Z"
-      },
-      {
-        "number": 774,
-        "title": "mocha-5: TF-manage consensus DNS + repoint api.consensus off mocha-4",
-        "url": "https://github.com/celestiaorg/infrastructure/pull/774",
-        "repo": "infrastructure",
-        "author": "pippokr",
-        "authorCategory": "coworker",
-        "reviewer": "chatton",
-        "requestedAt": "2026-09-17T08:52:05Z"
-      },
-      {
-        "number": 778,
-        "title": "cleanup(mocha-4): remove decommissioned da-bridge nodes",
-        "url": "https://github.com/celestiaorg/infrastructure/pull/778",
-        "repo": "infrastructure",
-        "author": "pippokr",
-        "authorCategory": "coworker",
-        "reviewer": "chatton",
-        "requestedAt": "2026-09-17T09:18:32Z"
-      },
-      {
         "number": 777,
         "title": "cleanup(mocha-4): remove decommissioned validator-1 node",
         "url": "https://github.com/celestiaorg/infrastructure/pull/777",
@@ -400,5 +360,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-09-17T09:59:10.944Z"
+  "fetchedAt": "2026-09-17T10:20:25.346Z"
 }
