@@ -2,16 +2,6 @@
   "reviews": {
     "chatton": [
       {
-        "number": 790,
-        "title": "fix(celestia-app): rebuild fibre binary on the force-rebuild path",
-        "url": "https://github.com/celestiaorg/infrastructure/pull/790",
-        "repo": "infrastructure",
-        "author": "pippokr",
-        "authorCategory": "coworker",
-        "reviewer": "chatton",
-        "requestedAt": "2026-09-17T16:01:38Z"
-      },
-      {
         "number": 791,
         "title": "feat(dashboards): fibre column on the Mocha Validators fleet row",
         "url": "https://github.com/celestiaorg/infrastructure/pull/791",
@@ -342,5 +332,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-09-17T16:22:00.626Z"
+  "fetchedAt": "2026-09-17T16:33:21.607Z"
 }
