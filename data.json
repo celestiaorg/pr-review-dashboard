@@ -60,6 +60,16 @@
         "authorCategory": "coworker",
         "reviewer": "chatton",
         "requestedAt": "2026-09-17T09:23:42Z"
+      },
+      {
+        "number": 108,
+        "title": "ci: publish prebuilt release binaries",
+        "url": "https://github.com/celestiaorg/da-proxy/pull/108",
+        "repo": "da-proxy",
+        "author": "auricom",
+        "authorCategory": "coworker",
+        "reviewer": "chatton",
+        "requestedAt": "2026-09-17T09:37:42Z"
       }
     ],
     "pippokr": [],
@@ -161,16 +171,6 @@
     "rootulp": [],
     "vgonkivs": [
       {
-        "number": 108,
-        "title": "ci: publish prebuilt release binaries",
-        "url": "https://github.com/celestiaorg/da-proxy/pull/108",
-        "repo": "da-proxy",
-        "author": "auricom",
-        "authorCategory": "coworker",
-        "reviewer": "vgonkivs",
-        "requestedAt": "2026-09-15T20:31:05Z"
-      },
-      {
         "number": 7864,
         "title": "fix(blob): compile on 32-bit targets",
         "url": "https://github.com/celestiaorg/celestia-app/pull/7864",
@@ -179,6 +179,16 @@
         "authorCategory": "coworker",
         "reviewer": "vgonkivs",
         "requestedAt": "2026-09-17T03:12:01Z"
+      },
+      {
+        "number": 780,
+        "title": "cleanup(mocha-4): drop dead mocha-4 fleet from tg_bot",
+        "url": "https://github.com/celestiaorg/infrastructure/pull/780",
+        "repo": "infrastructure",
+        "author": "pippokr",
+        "authorCategory": "coworker",
+        "reviewer": "vgonkivs",
+        "requestedAt": "2026-09-17T09:39:49Z"
       },
       {
         "number": 5167,
@@ -410,5 +420,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-09-17T09:34:56.713Z"
+  "fetchedAt": "2026-09-17T09:45:24.769Z"
 }
