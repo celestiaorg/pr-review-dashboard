@@ -57,7 +57,18 @@
         "requestedAt": "2026-09-16T13:50:33Z"
       }
     ],
-    "renaynay": [],
+    "renaynay": [
+      {
+        "number": 5240,
+        "title": "ci: disable Mergify merge queue comments",
+        "url": "https://github.com/celestiaorg/celestia-node/pull/5240",
+        "repo": "celestia-node",
+        "author": "rootulp",
+        "authorCategory": "coworker",
+        "reviewer": "renaynay",
+        "requestedAt": "2026-09-17T19:21:19Z"
+      }
+    ],
     "rootulp": [],
     "vgonkivs": [
       {
@@ -300,5 +311,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-09-17T19:21:19.706Z"
+  "fetchedAt": "2026-09-17T19:29:30.694Z"
 }
