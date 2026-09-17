@@ -22,16 +22,6 @@
         "requestedAt": "2026-09-17T03:24:34Z"
       },
       {
-        "number": 776,
-        "title": "cleanup(mocha-4): remove decommissioned consensus-full node",
-        "url": "https://github.com/celestiaorg/infrastructure/pull/776",
-        "repo": "infrastructure",
-        "author": "pippokr",
-        "authorCategory": "coworker",
-        "reviewer": "chatton",
-        "requestedAt": "2026-09-17T08:51:50Z"
-      },
-      {
         "number": 774,
         "title": "mocha-5: TF-manage consensus DNS + repoint api.consensus off mocha-4",
         "url": "https://github.com/celestiaorg/infrastructure/pull/774",
@@ -50,6 +40,16 @@
         "authorCategory": "coworker",
         "reviewer": "chatton",
         "requestedAt": "2026-09-17T09:18:32Z"
+      },
+      {
+        "number": 777,
+        "title": "cleanup(mocha-4): remove decommissioned validator-1 node",
+        "url": "https://github.com/celestiaorg/infrastructure/pull/777",
+        "repo": "infrastructure",
+        "author": "pippokr",
+        "authorCategory": "coworker",
+        "reviewer": "chatton",
+        "requestedAt": "2026-09-17T09:58:44Z"
       }
     ],
     "pippokr": [],
@@ -400,5 +400,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-09-17T09:52:36.401Z"
+  "fetchedAt": "2026-09-17T09:59:10.944Z"
 }
