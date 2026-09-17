@@ -21,6 +21,16 @@
         "authorCategory": "coworker",
         "reviewer": "pippokr",
         "requestedAt": "2026-09-17T13:33:41Z"
+      },
+      {
+        "number": 432,
+        "title": "chore(deps): Bump codecov/codecov-action from 7.0.0 to 7.1.0",
+        "url": "https://github.com/celestiaorg/rsmt2d/pull/432",
+        "repo": "rsmt2d",
+        "author": "dependabot",
+        "authorCategory": "bot",
+        "reviewer": "pippokr",
+        "requestedAt": "2026-09-17T15:52:42Z"
       }
     ],
     "ninabarbakadze": [
@@ -311,5 +321,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-09-17T15:46:16.867Z"
+  "fetchedAt": "2026-09-17T15:52:49.952Z"
 }
