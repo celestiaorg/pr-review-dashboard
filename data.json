@@ -1,6 +1,17 @@
 {
   "reviews": {
-    "chatton": [],
+    "chatton": [
+      {
+        "number": 784,
+        "title": "feat(golang): add mocha-5 Go 1.26.8 pin for celestia-app v10 builds",
+        "url": "https://github.com/celestiaorg/infrastructure/pull/784",
+        "repo": "infrastructure",
+        "author": "pippokr",
+        "authorCategory": "coworker",
+        "reviewer": "chatton",
+        "requestedAt": "2026-09-17T14:21:08Z"
+      }
+    ],
     "pippokr": [
       {
         "number": 768,
@@ -33,16 +44,6 @@
         "authorCategory": "coworker",
         "reviewer": "ninabarbakadze",
         "requestedAt": "2026-09-17T03:21:22Z"
-      },
-      {
-        "number": 7869,
-        "title": "feat(talis): add `--successful-only` to fibre-throughput",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7869",
-        "repo": "celestia-app",
-        "author": "renaynay",
-        "authorCategory": "coworker",
-        "reviewer": "ninabarbakadze",
-        "requestedAt": "2026-09-17T13:48:02Z"
       }
     ],
     "rach-id": [
@@ -321,5 +322,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-09-17T14:03:02.641Z"
+  "fetchedAt": "2026-09-17T14:24:06.526Z"
 }
