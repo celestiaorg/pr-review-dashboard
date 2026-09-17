@@ -1,7 +1,18 @@
 {
   "reviews": {
     "chatton": [],
-    "pippokr": [],
+    "pippokr": [
+      {
+        "number": 768,
+        "title": "refactor(ansible): manage mainnet archives through da-proxy workflow",
+        "url": "https://github.com/celestiaorg/infrastructure/pull/768",
+        "repo": "infrastructure",
+        "author": "chatton",
+        "authorCategory": "coworker",
+        "reviewer": "pippokr",
+        "requestedAt": "2026-09-17T10:39:34Z"
+      }
+    ],
     "ninabarbakadze": [
       {
         "number": 7865,
@@ -349,5 +360,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-09-17T10:31:26.938Z"
+  "fetchedAt": "2026-09-17T10:42:24.007Z"
 }
