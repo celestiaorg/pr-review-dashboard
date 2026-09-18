@@ -76,18 +76,7 @@
         "requestedAt": "2026-09-18T14:53:47Z"
       }
     ],
-    "rach-id": [
-      {
-        "number": 7856,
-        "title": "feat: add pebble db rebuilt tool",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7856",
-        "repo": "celestia-app",
-        "author": "vgonkivs",
-        "authorCategory": "coworker",
-        "reviewer": "rach-id",
-        "requestedAt": "2026-09-16T13:07:37Z"
-      }
-    ],
+    "rach-id": [],
     "renaynay": [
       {
         "number": 5241,
@@ -100,7 +89,18 @@
         "requestedAt": "2026-09-18T08:59:53Z"
       }
     ],
-    "rootulp": [],
+    "rootulp": [
+      {
+        "number": 7875,
+        "title": "docs: clarify Fibre connections and v10 configuration",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/7875",
+        "repo": "celestia-app",
+        "author": "rach-id",
+        "authorCategory": "coworker",
+        "reviewer": "rootulp",
+        "requestedAt": "2026-09-18T16:47:24Z"
+      }
+    ],
     "vgonkivs": [
       {
         "number": 7872,
@@ -362,5 +362,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-09-18T16:41:03.564Z"
+  "fetchedAt": "2026-09-18T16:47:47.056Z"
 }
