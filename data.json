@@ -66,7 +66,18 @@
         "requestedAt": "2026-09-17T03:21:22Z"
       }
     ],
-    "rach-id": [],
+    "rach-id": [
+      {
+        "number": 7856,
+        "title": "feat: add pebble db rebuilt tool",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/7856",
+        "repo": "celestia-app",
+        "author": "vgonkivs",
+        "authorCategory": "coworker",
+        "reviewer": "rach-id",
+        "requestedAt": "2026-09-16T13:07:37Z"
+      }
+    ],
     "renaynay": [
       {
         "number": 5241,
@@ -341,5 +352,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-09-18T13:45:58.476Z"
+  "fetchedAt": "2026-09-18T13:52:21.531Z"
 }
