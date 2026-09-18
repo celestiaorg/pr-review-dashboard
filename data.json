@@ -30,6 +30,16 @@
         "authorCategory": "bot",
         "reviewer": "chatton",
         "requestedAt": "2026-09-18T00:36:45Z"
+      },
+      {
+        "number": 7879,
+        "title": "refactor: rely on go-square blob tx validation (backport #7871)",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/7879",
+        "repo": "celestia-app",
+        "author": "mergify",
+        "authorCategory": "bot",
+        "reviewer": "chatton",
+        "requestedAt": "2026-09-18T19:46:39Z"
       }
     ],
     "pippokr": [
@@ -64,16 +74,6 @@
         "authorCategory": "coworker",
         "reviewer": "ninabarbakadze",
         "requestedAt": "2026-09-17T03:21:22Z"
-      },
-      {
-        "number": 7871,
-        "title": "refactor: rely on go-square blob tx validation",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7871",
-        "repo": "celestia-app",
-        "author": "rootulp",
-        "authorCategory": "coworker",
-        "reviewer": "ninabarbakadze",
-        "requestedAt": "2026-09-18T14:53:47Z"
       }
     ],
     "rach-id": [],
@@ -351,5 +351,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-09-18T19:45:04.087Z"
+  "fetchedAt": "2026-09-18T19:51:29.218Z"
 }
