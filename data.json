@@ -120,7 +120,18 @@
         "requestedAt": "2026-09-18T08:59:53Z"
       }
     ],
-    "rootulp": [],
+    "rootulp": [
+      {
+        "number": 7882,
+        "title": "fix: add missing preposition to filtered square builder comment",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/7882",
+        "repo": "celestia-app",
+        "author": "copilot-swe-agent",
+        "authorCategory": "bot",
+        "reviewer": "rootulp",
+        "requestedAt": "2026-09-18T23:28:34Z"
+      }
+    ],
     "vgonkivs": [
       {
         "number": 7872,
@@ -382,5 +393,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-09-18T23:23:27.318Z"
+  "fetchedAt": "2026-09-18T23:30:09.116Z"
 }
