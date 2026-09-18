@@ -96,16 +96,6 @@
         "requestedAt": "2026-09-18T23:41:35Z"
       },
       {
-        "number": 7886,
-        "title": "ci: authenticate Codecov uploads with OIDC",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7886",
-        "repo": "celestia-app",
-        "author": "rootulp",
-        "authorCategory": "coworker",
-        "reviewer": "ninabarbakadze",
-        "requestedAt": "2026-09-18T23:42:56Z"
-      },
-      {
         "number": 7880,
         "title": "feat: add missing config settings using a command (backport #7877)",
         "url": "https://github.com/celestiaorg/celestia-app/pull/7880",
@@ -383,6 +373,16 @@
         "authorCategory": "bot",
         "reviewer": "walldiss",
         "requestedAt": "2026-09-18T00:44:42Z"
+      },
+      {
+        "number": 7884,
+        "title": "fix: align docker e2e evidence replacement",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/7884",
+        "repo": "celestia-app",
+        "author": "copilot-swe-agent",
+        "authorCategory": "bot",
+        "reviewer": "walldiss",
+        "requestedAt": "2026-09-18T23:57:29Z"
       }
     ]
   },
@@ -432,5 +432,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-09-18T23:51:59.450Z"
+  "fetchedAt": "2026-09-18T23:58:26.295Z"
 }
