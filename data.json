@@ -88,6 +88,16 @@
         "authorCategory": "coworker",
         "reviewer": "renaynay",
         "requestedAt": "2026-09-17T19:21:19Z"
+      },
+      {
+        "number": 5241,
+        "title": "perf(share/eds): pool buffered NMTs in EDS construction",
+        "url": "https://github.com/celestiaorg/celestia-node/pull/5241",
+        "repo": "celestia-node",
+        "author": "vgonkivs",
+        "authorCategory": "coworker",
+        "reviewer": "renaynay",
+        "requestedAt": "2026-09-18T08:59:53Z"
       }
     ],
     "rootulp": [],
@@ -285,6 +295,16 @@
         "requestedAt": "2026-09-17T11:45:55Z"
       },
       {
+        "number": 5241,
+        "title": "perf(share/eds): pool buffered NMTs in EDS construction",
+        "url": "https://github.com/celestiaorg/celestia-node/pull/5241",
+        "repo": "celestia-node",
+        "author": "vgonkivs",
+        "authorCategory": "coworker",
+        "reviewer": "walldiss",
+        "requestedAt": "2026-09-18T08:59:53Z"
+      },
+      {
         "number": 111,
         "title": "build(deps): bump the go_modules group across 2 directories with 1 update",
         "url": "https://github.com/celestiaorg/da-proxy/pull/111",
@@ -342,5 +362,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-09-18T08:56:17.600Z"
+  "fetchedAt": "2026-09-18T09:11:55.039Z"
 }
