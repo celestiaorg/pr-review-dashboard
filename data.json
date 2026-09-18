@@ -91,16 +91,6 @@
     ],
     "rootulp": [
       {
-        "number": 3328,
-        "title": "feat(config): expose documented TOML renderer on main",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3328",
-        "repo": "celestia-core",
-        "author": "rach-id",
-        "authorCategory": "coworker",
-        "reviewer": "rootulp",
-        "requestedAt": "2026-09-18T19:54:33Z"
-      },
-      {
         "number": 7877,
         "title": "feat: add missing config settings using a command",
         "url": "https://github.com/celestiaorg/celestia-app/pull/7877",
@@ -372,5 +362,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-09-18T20:51:42.974Z"
+  "fetchedAt": "2026-09-18T20:58:12.224Z"
 }
