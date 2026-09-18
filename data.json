@@ -69,16 +69,6 @@
     "rach-id": [],
     "renaynay": [
       {
-        "number": 5240,
-        "title": "ci: disable Mergify merge queue comments",
-        "url": "https://github.com/celestiaorg/celestia-node/pull/5240",
-        "repo": "celestia-node",
-        "author": "rootulp",
-        "authorCategory": "coworker",
-        "reviewer": "renaynay",
-        "requestedAt": "2026-09-17T19:21:19Z"
-      },
-      {
         "number": 5241,
         "title": "perf(share/eds): pool buffered NMTs in EDS construction",
         "url": "https://github.com/celestiaorg/celestia-node/pull/5241",
@@ -351,5 +341,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-09-18T10:53:59.515Z"
+  "fetchedAt": "2026-09-18T11:00:31.025Z"
 }
