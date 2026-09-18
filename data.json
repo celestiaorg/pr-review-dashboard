@@ -86,16 +86,6 @@
         "authorCategory": "coworker",
         "reviewer": "rach-id",
         "requestedAt": "2026-09-16T13:07:37Z"
-      },
-      {
-        "number": 7871,
-        "title": "refactor: rely on go-square blob tx validation",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7871",
-        "repo": "celestia-app",
-        "author": "rootulp",
-        "authorCategory": "coworker",
-        "reviewer": "rach-id",
-        "requestedAt": "2026-09-18T14:53:31Z"
       }
     ],
     "renaynay": [
@@ -372,5 +362,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-09-18T16:21:22.249Z"
+  "fetchedAt": "2026-09-18T16:41:03.564Z"
 }
