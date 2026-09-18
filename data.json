@@ -12,6 +12,16 @@
         "requestedAt": "2026-09-18T11:52:03Z"
       },
       {
+        "number": 3330,
+        "title": "ci: upload unit test coverage to Codecov",
+        "url": "https://github.com/celestiaorg/celestia-core/pull/3330",
+        "repo": "celestia-core",
+        "author": "rootulp",
+        "authorCategory": "coworker",
+        "reviewer": "chatton",
+        "requestedAt": "2026-09-18T23:39:45Z"
+      },
+      {
         "number": 414,
         "title": "chore(deps): bump go.opentelemetry.io/otel/sdk from 1.43.0 to 1.45.0",
         "url": "https://github.com/celestiaorg/go-header/pull/414",
@@ -52,16 +62,6 @@
         "authorCategory": "coworker",
         "reviewer": "pippokr",
         "requestedAt": "2026-09-17T13:33:41Z"
-      },
-      {
-        "number": 7885,
-        "title": "fix: address code quality findings",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7885",
-        "repo": "celestia-app",
-        "author": "rootulp",
-        "authorCategory": "coworker",
-        "reviewer": "pippokr",
-        "requestedAt": "2026-09-18T23:37:52Z"
       }
     ],
     "ninabarbakadze": [
@@ -86,6 +86,26 @@
         "requestedAt": "2026-09-18T23:31:10Z"
       },
       {
+        "number": 7885,
+        "title": "fix: address code quality findings",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/7885",
+        "repo": "celestia-app",
+        "author": "rootulp",
+        "authorCategory": "coworker",
+        "reviewer": "ninabarbakadze",
+        "requestedAt": "2026-09-18T23:41:35Z"
+      },
+      {
+        "number": 7886,
+        "title": "ci: authenticate Codecov uploads with OIDC",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/7886",
+        "repo": "celestia-app",
+        "author": "rootulp",
+        "authorCategory": "coworker",
+        "reviewer": "ninabarbakadze",
+        "requestedAt": "2026-09-18T23:42:56Z"
+      },
+      {
         "number": 7880,
         "title": "feat: add missing config settings using a command (backport #7877)",
         "url": "https://github.com/celestiaorg/celestia-app/pull/7880",
@@ -94,6 +114,26 @@
         "authorCategory": "bot",
         "reviewer": "ninabarbakadze",
         "requestedAt": "2026-09-18T21:09:11Z"
+      },
+      {
+        "number": 7884,
+        "title": "fix: align docker e2e evidence replacement",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/7884",
+        "repo": "celestia-app",
+        "author": "copilot-swe-agent",
+        "authorCategory": "bot",
+        "reviewer": "ninabarbakadze",
+        "requestedAt": "2026-09-18T23:42:11Z"
+      },
+      {
+        "number": 7881,
+        "title": "docs: clarify fibre escrow helper invariant",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/7881",
+        "repo": "celestia-app",
+        "author": "copilot-swe-agent",
+        "authorCategory": "bot",
+        "reviewer": "ninabarbakadze",
+        "requestedAt": "2026-09-18T23:43:44Z"
       }
     ],
     "rach-id": [
@@ -130,19 +170,18 @@
         "requestedAt": "2026-09-18T08:59:53Z"
       }
     ],
-    "rootulp": [
-      {
-        "number": 7882,
-        "title": "fix: add missing preposition to filtered square builder comment",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7882",
-        "repo": "celestia-app",
-        "author": "copilot-swe-agent",
-        "authorCategory": "bot",
-        "reviewer": "rootulp",
-        "requestedAt": "2026-09-18T23:28:34Z"
-      }
-    ],
+    "rootulp": [],
     "vgonkivs": [
+      {
+        "number": 5242,
+        "title": "ci: authenticate Codecov uploads with OIDC",
+        "url": "https://github.com/celestiaorg/celestia-node/pull/5242",
+        "repo": "celestia-node",
+        "author": "rootulp",
+        "authorCategory": "coworker",
+        "reviewer": "vgonkivs",
+        "requestedAt": "2026-09-18T23:39:44Z"
+      },
       {
         "number": 5167,
         "title": "cmd: Load configured RPC URL with explicit token",
@@ -393,5 +432,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-09-18T23:39:01.323Z"
+  "fetchedAt": "2026-09-18T23:45:08.956Z"
 }
