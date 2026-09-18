@@ -96,6 +96,16 @@
         "authorCategory": "coworker",
         "reviewer": "rach-id",
         "requestedAt": "2026-09-18T22:44:25Z"
+      },
+      {
+        "number": 433,
+        "title": "ci: pilot GitHub Code Quality coverage",
+        "url": "https://github.com/celestiaorg/rsmt2d/pull/433",
+        "repo": "rsmt2d",
+        "author": "rootulp",
+        "authorCategory": "coworker",
+        "reviewer": "rach-id",
+        "requestedAt": "2026-09-18T23:22:08Z"
       }
     ],
     "renaynay": [
@@ -372,5 +382,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-09-18T23:11:39.587Z"
+  "fetchedAt": "2026-09-18T23:23:27.318Z"
 }
