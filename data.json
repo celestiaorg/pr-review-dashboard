@@ -30,16 +30,6 @@
         "authorCategory": "bot",
         "reviewer": "chatton",
         "requestedAt": "2026-09-18T00:36:45Z"
-      },
-      {
-        "number": 7879,
-        "title": "refactor: rely on go-square blob tx validation (backport #7871)",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7879",
-        "repo": "celestia-app",
-        "author": "mergify",
-        "authorCategory": "bot",
-        "reviewer": "chatton",
-        "requestedAt": "2026-09-18T19:46:39Z"
       }
     ],
     "pippokr": [
@@ -62,6 +52,16 @@
         "authorCategory": "coworker",
         "reviewer": "pippokr",
         "requestedAt": "2026-09-17T13:33:41Z"
+      },
+      {
+        "number": 7885,
+        "title": "fix: address code quality findings",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/7885",
+        "repo": "celestia-app",
+        "author": "rootulp",
+        "authorCategory": "coworker",
+        "reviewer": "pippokr",
+        "requestedAt": "2026-09-18T23:37:52Z"
       }
     ],
     "ninabarbakadze": [
@@ -74,6 +74,16 @@
         "authorCategory": "coworker",
         "reviewer": "ninabarbakadze",
         "requestedAt": "2026-09-17T03:21:22Z"
+      },
+      {
+        "number": 433,
+        "title": "ci: harden Codecov coverage uploads",
+        "url": "https://github.com/celestiaorg/rsmt2d/pull/433",
+        "repo": "rsmt2d",
+        "author": "rootulp",
+        "authorCategory": "coworker",
+        "reviewer": "ninabarbakadze",
+        "requestedAt": "2026-09-18T23:31:10Z"
       },
       {
         "number": 7880,
@@ -98,14 +108,14 @@
         "requestedAt": "2026-09-18T22:44:25Z"
       },
       {
-        "number": 433,
-        "title": "ci: pilot GitHub Code Quality coverage",
-        "url": "https://github.com/celestiaorg/rsmt2d/pull/433",
-        "repo": "rsmt2d",
+        "number": 7865,
+        "title": "fix: ignore quit signal error code in standalone start",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/7865",
+        "repo": "celestia-app",
         "author": "rootulp",
         "authorCategory": "coworker",
         "reviewer": "rach-id",
-        "requestedAt": "2026-09-18T23:22:08Z"
+        "requestedAt": "2026-09-18T23:35:14Z"
       }
     ],
     "renaynay": [
@@ -133,16 +143,6 @@
       }
     ],
     "vgonkivs": [
-      {
-        "number": 7872,
-        "title": "fix(blob): compile on 32-bit targets (backport #7864)",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7872",
-        "repo": "celestia-app",
-        "author": "mergify",
-        "authorCategory": "bot",
-        "reviewer": "vgonkivs",
-        "requestedAt": "2026-09-17T20:40:27Z"
-      },
       {
         "number": 5167,
         "title": "cmd: Load configured RPC URL with explicit token",
@@ -393,5 +393,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-09-18T23:30:09.116Z"
+  "fetchedAt": "2026-09-18T23:39:01.323Z"
 }
