@@ -2,6 +2,16 @@
   "reviews": {
     "chatton": [
       {
+        "number": 792,
+        "title": "fix(monitoring): rotate expired Scaleway Cockpit federate token",
+        "url": "https://github.com/celestiaorg/infrastructure/pull/792",
+        "repo": "infrastructure",
+        "author": "pippokr",
+        "authorCategory": "coworker",
+        "reviewer": "chatton",
+        "requestedAt": "2026-09-18T11:52:03Z"
+      },
+      {
         "number": 414,
         "title": "chore(deps): bump go.opentelemetry.io/otel/sdk from 1.43.0 to 1.45.0",
         "url": "https://github.com/celestiaorg/go-header/pull/414",
@@ -341,5 +351,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-09-18T11:50:36.345Z"
+  "fetchedAt": "2026-09-18T11:57:16.361Z"
 }
