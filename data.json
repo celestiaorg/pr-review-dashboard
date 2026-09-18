@@ -89,18 +89,7 @@
         "requestedAt": "2026-09-18T08:59:53Z"
       }
     ],
-    "rootulp": [
-      {
-        "number": 7875,
-        "title": "docs: clarify Fibre connections and v10 configuration",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7875",
-        "repo": "celestia-app",
-        "author": "rach-id",
-        "authorCategory": "coworker",
-        "reviewer": "rootulp",
-        "requestedAt": "2026-09-18T16:47:24Z"
-      }
-    ],
+    "rootulp": [],
     "vgonkivs": [
       {
         "number": 7872,
@@ -362,5 +351,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-09-18T19:38:32.829Z"
+  "fetchedAt": "2026-09-18T19:45:04.087Z"
 }
