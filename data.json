@@ -99,6 +99,16 @@
         "authorCategory": "coworker",
         "reviewer": "rootulp",
         "requestedAt": "2026-09-18T19:54:33Z"
+      },
+      {
+        "number": 7877,
+        "title": "feat: add missing config settings using a command",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/7877",
+        "repo": "celestia-app",
+        "author": "rach-id",
+        "authorCategory": "coworker",
+        "reviewer": "rootulp",
+        "requestedAt": "2026-09-18T19:58:09Z"
       }
     ],
     "vgonkivs": [
@@ -362,5 +372,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-09-18T19:57:49.428Z"
+  "fetchedAt": "2026-09-18T20:17:45.554Z"
 }
