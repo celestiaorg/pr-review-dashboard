@@ -1,6 +1,27 @@
 {
   "reviews": {
-    "chatton": [],
+    "chatton": [
+      {
+        "number": 414,
+        "title": "chore(deps): bump go.opentelemetry.io/otel/sdk from 1.43.0 to 1.45.0",
+        "url": "https://github.com/celestiaorg/go-header/pull/414",
+        "repo": "go-header",
+        "author": "dependabot",
+        "authorCategory": "bot",
+        "reviewer": "chatton",
+        "requestedAt": "2026-09-18T00:27:11Z"
+      },
+      {
+        "number": 206,
+        "title": "chore(deps): bump go.opentelemetry.io/otel/sdk from 1.44.0 to 1.45.0 in the go_modules group across 1 directory",
+        "url": "https://github.com/celestiaorg/tastora/pull/206",
+        "repo": "tastora",
+        "author": "dependabot",
+        "authorCategory": "bot",
+        "reviewer": "chatton",
+        "requestedAt": "2026-09-18T00:36:45Z"
+      }
+    ],
     "pippokr": [
       {
         "number": 768,
@@ -262,6 +283,16 @@
         "authorCategory": "coworker",
         "reviewer": "walldiss",
         "requestedAt": "2026-09-17T11:45:55Z"
+      },
+      {
+        "number": 111,
+        "title": "build(deps): bump the go_modules group across 2 directories with 1 update",
+        "url": "https://github.com/celestiaorg/da-proxy/pull/111",
+        "repo": "da-proxy",
+        "author": "dependabot",
+        "authorCategory": "bot",
+        "reviewer": "walldiss",
+        "requestedAt": "2026-09-18T00:44:42Z"
       }
     ]
   },
@@ -311,5 +342,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-09-17T23:58:43.372Z"
+  "fetchedAt": "2026-09-18T00:52:19.510Z"
 }
