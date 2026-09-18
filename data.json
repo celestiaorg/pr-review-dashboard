@@ -86,7 +86,18 @@
         "requestedAt": "2026-09-18T21:09:11Z"
       }
     ],
-    "rach-id": [],
+    "rach-id": [
+      {
+        "number": 3329,
+        "title": "fix(indexer): cap tx_search/block_search match set via max_search_results",
+        "url": "https://github.com/celestiaorg/celestia-core/pull/3329",
+        "repo": "celestia-core",
+        "author": "vgonkivs",
+        "authorCategory": "coworker",
+        "reviewer": "rach-id",
+        "requestedAt": "2026-09-18T22:44:25Z"
+      }
+    ],
     "renaynay": [
       {
         "number": 5241,
@@ -361,5 +372,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-09-18T22:42:44.907Z"
+  "fetchedAt": "2026-09-18T22:50:52.015Z"
 }
