@@ -74,6 +74,16 @@
         "authorCategory": "coworker",
         "reviewer": "ninabarbakadze",
         "requestedAt": "2026-09-17T03:21:22Z"
+      },
+      {
+        "number": 7880,
+        "title": "feat: add missing config settings using a command (backport #7877)",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/7880",
+        "repo": "celestia-app",
+        "author": "mergify",
+        "authorCategory": "bot",
+        "reviewer": "ninabarbakadze",
+        "requestedAt": "2026-09-18T21:09:11Z"
       }
     ],
     "rach-id": [],
@@ -89,18 +99,7 @@
         "requestedAt": "2026-09-18T08:59:53Z"
       }
     ],
-    "rootulp": [
-      {
-        "number": 7877,
-        "title": "feat: add missing config settings using a command",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7877",
-        "repo": "celestia-app",
-        "author": "rach-id",
-        "authorCategory": "coworker",
-        "reviewer": "rootulp",
-        "requestedAt": "2026-09-18T19:58:09Z"
-      }
-    ],
+    "rootulp": [],
     "vgonkivs": [
       {
         "number": 7872,
@@ -362,5 +361,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-09-18T20:58:12.224Z"
+  "fetchedAt": "2026-09-18T21:16:05.026Z"
 }
