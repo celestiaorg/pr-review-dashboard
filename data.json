@@ -66,26 +66,6 @@
     ],
     "ninabarbakadze": [
       {
-        "number": 7865,
-        "title": "fix: ignore quit signal error code in standalone start",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7865",
-        "repo": "celestia-app",
-        "author": "rootulp",
-        "authorCategory": "coworker",
-        "reviewer": "ninabarbakadze",
-        "requestedAt": "2026-09-17T03:21:22Z"
-      },
-      {
-        "number": 433,
-        "title": "ci: harden Codecov coverage uploads",
-        "url": "https://github.com/celestiaorg/rsmt2d/pull/433",
-        "repo": "rsmt2d",
-        "author": "rootulp",
-        "authorCategory": "coworker",
-        "reviewer": "ninabarbakadze",
-        "requestedAt": "2026-09-18T23:31:10Z"
-      },
-      {
         "number": 7885,
         "title": "fix: address code quality findings",
         "url": "https://github.com/celestiaorg/celestia-app/pull/7885",
@@ -94,16 +74,6 @@
         "authorCategory": "coworker",
         "reviewer": "ninabarbakadze",
         "requestedAt": "2026-09-18T23:41:35Z"
-      },
-      {
-        "number": 7880,
-        "title": "feat: add missing config settings using a command (backport #7877)",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7880",
-        "repo": "celestia-app",
-        "author": "mergify",
-        "authorCategory": "bot",
-        "reviewer": "ninabarbakadze",
-        "requestedAt": "2026-09-18T21:09:11Z"
       },
       {
         "number": 7884,
@@ -126,16 +96,6 @@
         "authorCategory": "coworker",
         "reviewer": "rach-id",
         "requestedAt": "2026-09-18T22:44:25Z"
-      },
-      {
-        "number": 7865,
-        "title": "fix: ignore quit signal error code in standalone start",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7865",
-        "repo": "celestia-app",
-        "author": "rootulp",
-        "authorCategory": "coworker",
-        "reviewer": "rach-id",
-        "requestedAt": "2026-09-18T23:35:14Z"
       }
     ],
     "renaynay": [
@@ -422,5 +382,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-09-19T05:25:18.839Z"
+  "fetchedAt": "2026-09-19T05:33:51.552Z"
 }
