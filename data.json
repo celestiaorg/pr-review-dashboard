@@ -110,7 +110,18 @@
         "requestedAt": "2026-09-18T08:59:53Z"
       }
     ],
-    "rootulp": [],
+    "rootulp": [
+      {
+        "number": 7887,
+        "title": "docs: sync config before editing new settings",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/7887",
+        "repo": "celestia-app",
+        "author": "rach-id",
+        "authorCategory": "coworker",
+        "reviewer": "rootulp",
+        "requestedAt": "2026-09-19T05:37:01Z"
+      }
+    ],
     "vgonkivs": [
       {
         "number": 5242,
@@ -382,5 +393,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-09-19T05:33:51.552Z"
+  "fetchedAt": "2026-09-19T05:41:39.970Z"
 }
