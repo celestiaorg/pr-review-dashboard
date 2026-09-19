@@ -114,16 +114,6 @@
         "authorCategory": "bot",
         "reviewer": "ninabarbakadze",
         "requestedAt": "2026-09-18T23:42:11Z"
-      },
-      {
-        "number": 7881,
-        "title": "docs: clarify fibre escrow helper invariant",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7881",
-        "repo": "celestia-app",
-        "author": "copilot-swe-agent",
-        "authorCategory": "bot",
-        "reviewer": "ninabarbakadze",
-        "requestedAt": "2026-09-18T23:43:44Z"
       }
     ],
     "rach-id": [
@@ -432,5 +422,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-09-18T23:58:26.295Z"
+  "fetchedAt": "2026-09-19T00:50:42.171Z"
 }
