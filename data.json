@@ -118,6 +118,16 @@
         "authorCategory": "coworker",
         "reviewer": "renaynay",
         "requestedAt": "2026-09-18T08:59:53Z"
+      },
+      {
+        "number": 7891,
+        "title": "fix(fibre): release upload storage before settlement",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/7891",
+        "repo": "celestia-app",
+        "author": "walldiss",
+        "authorCategory": "coworker",
+        "reviewer": "renaynay",
+        "requestedAt": "2026-09-20T14:01:53Z"
       }
     ],
     "rootulp": [
@@ -142,6 +152,16 @@
         "authorCategory": "coworker",
         "reviewer": "vgonkivs",
         "requestedAt": "2026-09-18T23:39:44Z"
+      },
+      {
+        "number": 7892,
+        "title": "feat(fibre): bound concurrent Put storage and expose memory stats",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/7892",
+        "repo": "celestia-app",
+        "author": "walldiss",
+        "authorCategory": "coworker",
+        "reviewer": "vgonkivs",
+        "requestedAt": "2026-09-20T14:02:25Z"
       },
       {
         "number": 5167,
@@ -403,5 +423,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-09-20T13:55:09.460Z"
+  "fetchedAt": "2026-09-20T14:05:12.080Z"
 }
