@@ -62,6 +62,16 @@
         "authorCategory": "coworker",
         "reviewer": "pippokr",
         "requestedAt": "2026-09-17T13:33:41Z"
+      },
+      {
+        "number": 7890,
+        "title": "feat(fibre): support TLS for app gRPC clients",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/7890",
+        "repo": "celestia-app",
+        "author": "walldiss",
+        "authorCategory": "coworker",
+        "reviewer": "pippokr",
+        "requestedAt": "2026-09-20T12:33:48Z"
       }
     ],
     "ninabarbakadze": [
@@ -393,5 +403,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-09-20T12:29:20.675Z"
+  "fetchedAt": "2026-09-20T12:44:39.708Z"
 }
