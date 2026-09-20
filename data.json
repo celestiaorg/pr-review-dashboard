@@ -213,6 +213,16 @@
         "requestedAt": "2026-09-20T14:02:25Z"
       },
       {
+        "number": 112,
+        "title": "ci: report test coverage to Codecov",
+        "url": "https://github.com/celestiaorg/da-proxy/pull/112",
+        "repo": "da-proxy",
+        "author": "rootulp",
+        "authorCategory": "coworker",
+        "reviewer": "vgonkivs",
+        "requestedAt": "2026-09-20T22:43:26Z"
+      },
+      {
         "number": 5167,
         "title": "cmd: Load configured RPC URL with explicit token",
         "url": "https://github.com/celestiaorg/celestia-node/pull/5167",
@@ -472,5 +482,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-09-20T22:40:37.851Z"
+  "fetchedAt": "2026-09-20T22:47:29.888Z"
 }
