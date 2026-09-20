@@ -96,18 +96,7 @@
         "requestedAt": "2026-09-18T23:42:11Z"
       }
     ],
-    "rach-id": [
-      {
-        "number": 434,
-        "title": "test: mark EDS builders as helpers",
-        "url": "https://github.com/celestiaorg/rsmt2d/pull/434",
-        "repo": "rsmt2d",
-        "author": "vividvisit",
-        "authorCategory": "external",
-        "reviewer": "rach-id",
-        "requestedAt": "2026-09-19T19:04:00Z"
-      }
-    ],
+    "rach-id": [],
     "renaynay": [
       {
         "number": 5241,
@@ -423,5 +412,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-09-20T18:32:49.539Z"
+  "fetchedAt": "2026-09-20T18:42:18.251Z"
 }
