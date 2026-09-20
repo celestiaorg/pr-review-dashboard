@@ -116,6 +116,16 @@
         "requestedAt": "2026-09-20T19:55:52Z"
       },
       {
+        "number": 768,
+        "title": "ci: report test coverage to Codecov",
+        "url": "https://github.com/celestiaorg/cosmos-sdk/pull/768",
+        "repo": "cosmos-sdk",
+        "author": "rootulp",
+        "authorCategory": "coworker",
+        "reviewer": "ninabarbakadze",
+        "requestedAt": "2026-09-20T20:49:28Z"
+      },
+      {
         "number": 7884,
         "title": "fix: align docker e2e evidence replacement",
         "url": "https://github.com/celestiaorg/celestia-app/pull/7884",
@@ -126,7 +136,18 @@
         "requestedAt": "2026-09-18T23:42:11Z"
       }
     ],
-    "rach-id": [],
+    "rach-id": [
+      {
+        "number": 7894,
+        "title": "chore: bump v3 multiplexer binary to v3.13.0",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/7894",
+        "repo": "celestia-app",
+        "author": "rootulp",
+        "authorCategory": "coworker",
+        "reviewer": "rach-id",
+        "requestedAt": "2026-09-20T20:48:05Z"
+      }
+    ],
     "renaynay": [
       {
         "number": 5241,
@@ -431,5 +452,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-09-20T20:44:18.028Z"
+  "fetchedAt": "2026-09-20T20:50:57.601Z"
 }
