@@ -86,18 +86,7 @@
         "requestedAt": "2026-09-18T23:42:11Z"
       }
     ],
-    "rach-id": [
-      {
-        "number": 3330,
-        "title": "ci: upload unit test coverage to Codecov",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3330",
-        "repo": "celestia-core",
-        "author": "rootulp",
-        "authorCategory": "coworker",
-        "reviewer": "rach-id",
-        "requestedAt": "2026-09-20T19:15:04Z"
-      }
-    ],
+    "rach-id": [],
     "renaynay": [
       {
         "number": 5241,
@@ -402,5 +391,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-09-20T19:24:44.029Z"
+  "fetchedAt": "2026-09-20T19:31:39.244Z"
 }
