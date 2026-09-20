@@ -12,6 +12,16 @@
         "requestedAt": "2026-09-18T11:52:03Z"
       },
       {
+        "number": 7893,
+        "title": "chore: remove unused talis helpers",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/7893",
+        "repo": "celestia-app",
+        "author": "rootulp",
+        "authorCategory": "coworker",
+        "reviewer": "chatton",
+        "requestedAt": "2026-09-20T19:44:22Z"
+      },
+      {
         "number": 414,
         "title": "chore(deps): bump go.opentelemetry.io/otel/sdk from 1.43.0 to 1.45.0",
         "url": "https://github.com/celestiaorg/go-header/pull/414",
@@ -391,5 +401,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-09-20T19:39:02.712Z"
+  "fetchedAt": "2026-09-20T19:45:32.867Z"
 }
