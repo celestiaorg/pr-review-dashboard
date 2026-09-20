@@ -12,16 +12,6 @@
         "requestedAt": "2026-09-18T11:52:03Z"
       },
       {
-        "number": 3330,
-        "title": "ci: upload unit test coverage to Codecov",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3330",
-        "repo": "celestia-core",
-        "author": "rootulp",
-        "authorCategory": "coworker",
-        "reviewer": "chatton",
-        "requestedAt": "2026-09-18T23:39:45Z"
-      },
-      {
         "number": 414,
         "title": "chore(deps): bump go.opentelemetry.io/otel/sdk from 1.43.0 to 1.45.0",
         "url": "https://github.com/celestiaorg/go-header/pull/414",
@@ -96,7 +86,18 @@
         "requestedAt": "2026-09-18T23:42:11Z"
       }
     ],
-    "rach-id": [],
+    "rach-id": [
+      {
+        "number": 3330,
+        "title": "ci: upload unit test coverage to Codecov",
+        "url": "https://github.com/celestiaorg/celestia-core/pull/3330",
+        "repo": "celestia-core",
+        "author": "rootulp",
+        "authorCategory": "coworker",
+        "reviewer": "rach-id",
+        "requestedAt": "2026-09-20T19:15:04Z"
+      }
+    ],
     "renaynay": [
       {
         "number": 5241,
@@ -119,18 +120,7 @@
         "requestedAt": "2026-09-20T14:01:53Z"
       }
     ],
-    "rootulp": [
-      {
-        "number": 7887,
-        "title": "docs: sync config before editing new settings",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7887",
-        "repo": "celestia-app",
-        "author": "rach-id",
-        "authorCategory": "coworker",
-        "reviewer": "rootulp",
-        "requestedAt": "2026-09-19T05:37:01Z"
-      }
-    ],
+    "rootulp": [],
     "vgonkivs": [
       {
         "number": 5242,
@@ -412,5 +402,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-09-20T19:06:16.937Z"
+  "fetchedAt": "2026-09-20T19:16:45.767Z"
 }
