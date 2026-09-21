@@ -2,46 +2,6 @@
   "reviews": {
     "chatton": [
       {
-        "number": 798,
-        "title": "feat(mocha): add _dnsaddr TXT records for mocha-5 bootstrappers",
-        "url": "https://github.com/celestiaorg/infrastructure/pull/798",
-        "repo": "infrastructure",
-        "author": "pippokr",
-        "authorCategory": "coworker",
-        "reviewer": "chatton",
-        "requestedAt": "2026-09-21T09:17:57Z"
-      },
-      {
-        "number": 801,
-        "title": "fix(caddy): make scoped --tags caddy runs work + correct 1Password vault name",
-        "url": "https://github.com/celestiaorg/infrastructure/pull/801",
-        "repo": "infrastructure",
-        "author": "pippokr",
-        "authorCategory": "coworker",
-        "reviewer": "chatton",
-        "requestedAt": "2026-09-21T10:30:10Z"
-      },
-      {
-        "number": 414,
-        "title": "chore(deps): bump go.opentelemetry.io/otel/sdk from 1.43.0 to 1.45.0",
-        "url": "https://github.com/celestiaorg/go-header/pull/414",
-        "repo": "go-header",
-        "author": "dependabot",
-        "authorCategory": "bot",
-        "reviewer": "chatton",
-        "requestedAt": "2026-09-18T00:27:11Z"
-      },
-      {
-        "number": 206,
-        "title": "chore(deps): bump go.opentelemetry.io/otel/sdk from 1.44.0 to 1.45.0 in the go_modules group across 1 directory",
-        "url": "https://github.com/celestiaorg/tastora/pull/206",
-        "repo": "tastora",
-        "author": "dependabot",
-        "authorCategory": "bot",
-        "reviewer": "chatton",
-        "requestedAt": "2026-09-18T00:36:45Z"
-      },
-      {
         "number": 3333,
         "title": "build(deps): Bump github.com/aws/aws-sdk-go-v2/service/s3 from 1.113.0 to 1.113.1",
         "url": "https://github.com/celestiaorg/celestia-core/pull/3333",
@@ -492,5 +452,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-09-21T11:55:17.795Z"
+  "fetchedAt": "2026-09-21T12:09:19.427Z"
 }
