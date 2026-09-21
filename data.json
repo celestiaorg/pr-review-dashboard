@@ -136,16 +136,6 @@
         "requestedAt": "2026-09-20T20:54:11Z"
       },
       {
-        "number": 772,
-        "title": "fix(testutil/network): wait for the app to commit a height before returning",
-        "url": "https://github.com/celestiaorg/cosmos-sdk/pull/772",
-        "repo": "cosmos-sdk",
-        "author": "rootulp",
-        "authorCategory": "coworker",
-        "reviewer": "ninabarbakadze",
-        "requestedAt": "2026-09-20T23:28:52Z"
-      },
-      {
         "number": 7884,
         "title": "fix: align docker e2e evidence replacement",
         "url": "https://github.com/celestiaorg/celestia-app/pull/7884",
@@ -522,5 +512,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-09-21T10:49:17.587Z"
+  "fetchedAt": "2026-09-21T10:55:41.580Z"
 }
