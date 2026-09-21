@@ -64,9 +64,30 @@
         "authorCategory": "coworker",
         "reviewer": "ninabarbakadze",
         "requestedAt": "2026-09-20T20:54:11Z"
+      },
+      {
+        "number": 770,
+        "title": "test(e2e/distribution): fix flaky TestNewWithdrawAllRewardsGenerateOnly",
+        "url": "https://github.com/celestiaorg/cosmos-sdk/pull/770",
+        "repo": "cosmos-sdk",
+        "author": "rootulp",
+        "authorCategory": "coworker",
+        "reviewer": "ninabarbakadze",
+        "requestedAt": "2026-09-21T13:15:39Z"
       }
     ],
-    "rach-id": [],
+    "rach-id": [
+      {
+        "number": 770,
+        "title": "test(e2e/distribution): fix flaky TestNewWithdrawAllRewardsGenerateOnly",
+        "url": "https://github.com/celestiaorg/cosmos-sdk/pull/770",
+        "repo": "cosmos-sdk",
+        "author": "rootulp",
+        "authorCategory": "coworker",
+        "reviewer": "rach-id",
+        "requestedAt": "2026-09-21T13:15:39Z"
+      }
+    ],
     "renaynay": [
       {
         "number": 5241,
@@ -97,40 +118,9 @@
         "authorCategory": "bot",
         "reviewer": "renaynay",
         "requestedAt": "2026-09-21T09:28:29Z"
-      },
-      {
-        "number": 7903,
-        "title": "chore(deps): bump the go-deps group with 11 updates",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7903",
-        "repo": "celestia-app",
-        "author": "dependabot",
-        "authorCategory": "bot",
-        "reviewer": "renaynay",
-        "requestedAt": "2026-09-21T09:39:00Z"
       }
     ],
-    "rootulp": [
-      {
-        "number": 7901,
-        "title": "chore(deps): bump google.golang.org/grpc from 1.83.2 to 1.84.0 in /test/docker-e2e in the go-deps-docker-e2e group",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7901",
-        "repo": "celestia-app",
-        "author": "dependabot",
-        "authorCategory": "bot",
-        "reviewer": "rootulp",
-        "requestedAt": "2026-09-21T09:32:35Z"
-      },
-      {
-        "number": 5246,
-        "title": "chore(deps): bump the go-deps group across 2 directories with 2 updates",
-        "url": "https://github.com/celestiaorg/celestia-node/pull/5246",
-        "repo": "celestia-node",
-        "author": "dependabot",
-        "authorCategory": "bot",
-        "reviewer": "rootulp",
-        "requestedAt": "2026-09-21T11:05:41Z"
-      }
-    ],
+    "rootulp": [],
     "vgonkivs": [
       {
         "number": 7892,
@@ -345,16 +335,6 @@
         "requestedAt": "2026-09-18T08:59:53Z"
       },
       {
-        "number": 770,
-        "title": "test(e2e/distribution): fix flaky TestNewWithdrawAllRewardsGenerateOnly",
-        "url": "https://github.com/celestiaorg/cosmos-sdk/pull/770",
-        "repo": "cosmos-sdk",
-        "author": "rootulp",
-        "authorCategory": "coworker",
-        "reviewer": "walldiss",
-        "requestedAt": "2026-09-20T23:07:53Z"
-      },
-      {
         "number": 111,
         "title": "build(deps): bump the go_modules group across 2 directories with 1 update",
         "url": "https://github.com/celestiaorg/da-proxy/pull/111",
@@ -432,5 +412,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-09-21T13:12:20.472Z"
+  "fetchedAt": "2026-09-21T13:27:31.947Z"
 }
