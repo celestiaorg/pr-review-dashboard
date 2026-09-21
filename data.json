@@ -170,18 +170,7 @@
         "requestedAt": "2026-09-21T14:32:43Z"
       }
     ],
-    "rootulp": [
-      {
-        "number": 344,
-        "title": "chore(deps): bump codecov/codecov-action from 7.1.0 to 7.1.1",
-        "url": "https://github.com/celestiaorg/nmt/pull/344",
-        "repo": "nmt",
-        "author": "dependabot",
-        "authorCategory": "bot",
-        "reviewer": "rootulp",
-        "requestedAt": "2026-09-21T21:03:07Z"
-      }
-    ],
+    "rootulp": [],
     "vgonkivs": [
       {
         "number": 7892,
@@ -463,5 +452,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-09-21T22:45:43.909Z"
+  "fetchedAt": "2026-09-21T22:52:12.034Z"
 }
