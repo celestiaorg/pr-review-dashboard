@@ -116,26 +116,6 @@
         "requestedAt": "2026-09-18T23:41:35Z"
       },
       {
-        "number": 343,
-        "title": "ci: report test coverage to Codecov",
-        "url": "https://github.com/celestiaorg/nmt/pull/343",
-        "repo": "nmt",
-        "author": "rootulp",
-        "authorCategory": "coworker",
-        "reviewer": "ninabarbakadze",
-        "requestedAt": "2026-09-20T19:55:37Z"
-      },
-      {
-        "number": 290,
-        "title": "ci: report test coverage to Codecov",
-        "url": "https://github.com/celestiaorg/go-square/pull/290",
-        "repo": "go-square",
-        "author": "rootulp",
-        "authorCategory": "coworker",
-        "reviewer": "ninabarbakadze",
-        "requestedAt": "2026-09-20T19:55:52Z"
-      },
-      {
         "number": 768,
         "title": "ci: report test coverage to Codecov",
         "url": "https://github.com/celestiaorg/cosmos-sdk/pull/768",
@@ -542,5 +522,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-09-21T10:42:21.106Z"
+  "fetchedAt": "2026-09-21T10:49:17.587Z"
 }
