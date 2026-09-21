@@ -94,6 +94,26 @@
         "authorCategory": "coworker",
         "reviewer": "ninabarbakadze",
         "requestedAt": "2026-09-21T20:46:33Z"
+      },
+      {
+        "number": 447,
+        "title": "test: deflake byzantine coverage and remove unreachable uneven-share check",
+        "url": "https://github.com/celestiaorg/rsmt2d/pull/447",
+        "repo": "rsmt2d",
+        "author": "rootulp",
+        "authorCategory": "coworker",
+        "reviewer": "ninabarbakadze",
+        "requestedAt": "2026-09-21T23:40:01Z"
+      },
+      {
+        "number": 448,
+        "title": "test: cover error-propagation and byzantine branches with failing fixtures",
+        "url": "https://github.com/celestiaorg/rsmt2d/pull/448",
+        "repo": "rsmt2d",
+        "author": "rootulp",
+        "authorCategory": "coworker",
+        "reviewer": "ninabarbakadze",
+        "requestedAt": "2026-09-21T23:41:48Z"
       }
     ],
     "rach-id": [
@@ -136,6 +156,26 @@
         "authorCategory": "coworker",
         "reviewer": "rach-id",
         "requestedAt": "2026-09-21T20:46:33Z"
+      },
+      {
+        "number": 447,
+        "title": "test: deflake byzantine coverage and remove unreachable uneven-share check",
+        "url": "https://github.com/celestiaorg/rsmt2d/pull/447",
+        "repo": "rsmt2d",
+        "author": "rootulp",
+        "authorCategory": "coworker",
+        "reviewer": "rach-id",
+        "requestedAt": "2026-09-21T23:40:01Z"
+      },
+      {
+        "number": 448,
+        "title": "test: cover error-propagation and byzantine branches with failing fixtures",
+        "url": "https://github.com/celestiaorg/rsmt2d/pull/448",
+        "repo": "rsmt2d",
+        "author": "rootulp",
+        "authorCategory": "coworker",
+        "reviewer": "rach-id",
+        "requestedAt": "2026-09-21T23:41:48Z"
       }
     ],
     "renaynay": [
@@ -452,5 +492,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-09-21T23:37:29.956Z"
+  "fetchedAt": "2026-09-21T23:44:01.183Z"
 }
