@@ -54,16 +54,6 @@
         "requestedAt": "2026-09-21T23:45:25Z"
       },
       {
-        "number": 7906,
-        "title": "test(fibre): wait for app commit before asserting withdrawal state",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7906",
-        "repo": "celestia-app",
-        "author": "rootulp",
-        "authorCategory": "coworker",
-        "reviewer": "pippokr",
-        "requestedAt": "2026-09-21T23:50:39Z"
-      },
-      {
         "number": 7902,
         "title": "chore(deps): bump the github-actions group with 4 updates",
         "url": "https://github.com/celestiaorg/celestia-app/pull/7902",
@@ -164,6 +154,16 @@
         "authorCategory": "coworker",
         "reviewer": "ninabarbakadze",
         "requestedAt": "2026-09-21T23:50:08Z"
+      },
+      {
+        "number": 7906,
+        "title": "test(fibre): wait for app commit before asserting withdrawal state",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/7906",
+        "repo": "celestia-app",
+        "author": "rootulp",
+        "authorCategory": "coworker",
+        "reviewer": "ninabarbakadze",
+        "requestedAt": "2026-09-21T23:50:48Z"
       }
     ],
     "rach-id": [
@@ -236,6 +236,16 @@
         "authorCategory": "coworker",
         "reviewer": "rach-id",
         "requestedAt": "2026-09-21T23:50:01Z"
+      },
+      {
+        "number": 7906,
+        "title": "test(fibre): wait for app commit before asserting withdrawal state",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/7906",
+        "repo": "celestia-app",
+        "author": "rootulp",
+        "authorCategory": "coworker",
+        "reviewer": "rach-id",
+        "requestedAt": "2026-09-21T23:50:48Z"
       }
     ],
     "renaynay": [
@@ -268,6 +278,16 @@
         "authorCategory": "coworker",
         "reviewer": "renaynay",
         "requestedAt": "2026-09-21T14:32:43Z"
+      },
+      {
+        "number": 574,
+        "title": "fix(ci): pin peter-evans/create-pull-request to a commit SHA",
+        "url": "https://github.com/celestiaorg/networks/pull/574",
+        "repo": "networks",
+        "author": "rootulp",
+        "authorCategory": "coworker",
+        "reviewer": "renaynay",
+        "requestedAt": "2026-09-21T23:54:37Z"
       }
     ],
     "rootulp": [],
@@ -552,5 +572,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-09-21T23:50:41.339Z"
+  "fetchedAt": "2026-09-21T23:57:04.676Z"
 }
