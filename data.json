@@ -12,6 +12,16 @@
         "requestedAt": "2026-09-21T09:17:57Z"
       },
       {
+        "number": 801,
+        "title": "fix(da-proxy): correct misspelled 1Password vault in service vars",
+        "url": "https://github.com/celestiaorg/infrastructure/pull/801",
+        "repo": "infrastructure",
+        "author": "pippokr",
+        "authorCategory": "coworker",
+        "reviewer": "chatton",
+        "requestedAt": "2026-09-21T10:30:10Z"
+      },
+      {
         "number": 414,
         "title": "chore(deps): bump go.opentelemetry.io/otel/sdk from 1.43.0 to 1.45.0",
         "url": "https://github.com/celestiaorg/go-header/pull/414",
@@ -40,6 +50,16 @@
         "authorCategory": "bot",
         "reviewer": "chatton",
         "requestedAt": "2026-09-21T09:30:06Z"
+      },
+      {
+        "number": 3338,
+        "title": "fix(indexer): cap tx_search/block_search match set via max_search_results (backport #3329)",
+        "url": "https://github.com/celestiaorg/celestia-core/pull/3338",
+        "repo": "celestia-core",
+        "author": "mergify",
+        "authorCategory": "bot",
+        "reviewer": "chatton",
+        "requestedAt": "2026-09-21T10:24:37Z"
       }
     ],
     "pippokr": [
@@ -213,16 +233,6 @@
     ],
     "vgonkivs": [
       {
-        "number": 5242,
-        "title": "ci: authenticate Codecov uploads with OIDC",
-        "url": "https://github.com/celestiaorg/celestia-node/pull/5242",
-        "repo": "celestia-node",
-        "author": "rootulp",
-        "authorCategory": "coworker",
-        "reviewer": "vgonkivs",
-        "requestedAt": "2026-09-18T23:39:44Z"
-      },
-      {
         "number": 7892,
         "title": "feat(fibre): bound concurrent Put storage and expose memory stats",
         "url": "https://github.com/celestiaorg/celestia-app/pull/7892",
@@ -233,16 +243,6 @@
         "requestedAt": "2026-09-20T14:02:25Z"
       },
       {
-        "number": 112,
-        "title": "ci: report test coverage to Codecov",
-        "url": "https://github.com/celestiaorg/da-proxy/pull/112",
-        "repo": "da-proxy",
-        "author": "rootulp",
-        "authorCategory": "coworker",
-        "reviewer": "vgonkivs",
-        "requestedAt": "2026-09-20T22:43:26Z"
-      },
-      {
         "number": 3332,
         "title": "build(deps): Bump linear/linear-release-action from 0.17.2 to 0.18.0",
         "url": "https://github.com/celestiaorg/celestia-core/pull/3332",
@@ -251,6 +251,16 @@
         "authorCategory": "bot",
         "reviewer": "vgonkivs",
         "requestedAt": "2026-09-21T09:28:36Z"
+      },
+      {
+        "number": 3337,
+        "title": "fix(indexer): cap tx_search/block_search match set via max_search_results (backport #3329)",
+        "url": "https://github.com/celestiaorg/celestia-core/pull/3337",
+        "repo": "celestia-core",
+        "author": "mergify",
+        "authorCategory": "bot",
+        "reviewer": "vgonkivs",
+        "requestedAt": "2026-09-21T10:24:32Z"
       },
       {
         "number": 5167,
@@ -532,5 +542,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-09-21T10:21:57.637Z"
+  "fetchedAt": "2026-09-21T10:32:41.073Z"
 }
