@@ -54,8 +54,40 @@
         "requestedAt": "2026-09-21T09:36:08Z"
       }
     ],
-    "ninabarbakadze": [],
-    "rach-id": [],
+    "ninabarbakadze": [
+      {
+        "number": 436,
+        "title": "docs: add godoc for computeRowProof test helper",
+        "url": "https://github.com/celestiaorg/rsmt2d/pull/436",
+        "repo": "rsmt2d",
+        "author": "rootulp",
+        "authorCategory": "coworker",
+        "reviewer": "ninabarbakadze",
+        "requestedAt": "2026-09-21T20:32:15Z"
+      },
+      {
+        "number": 7899,
+        "title": "test: run prepare proposal capping and consistency tests in CI",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/7899",
+        "repo": "celestia-app",
+        "author": "rootulp",
+        "authorCategory": "coworker",
+        "reviewer": "ninabarbakadze",
+        "requestedAt": "2026-09-21T20:34:46Z"
+      }
+    ],
+    "rach-id": [
+      {
+        "number": 7899,
+        "title": "test: run prepare proposal capping and consistency tests in CI",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/7899",
+        "repo": "celestia-app",
+        "author": "rootulp",
+        "authorCategory": "coworker",
+        "reviewer": "rach-id",
+        "requestedAt": "2026-09-21T20:34:40Z"
+      }
+    ],
     "renaynay": [
       {
         "number": 5241,
@@ -303,6 +335,16 @@
         "requestedAt": "2026-09-18T08:59:53Z"
       },
       {
+        "number": 437,
+        "title": "test: add native Go fuzz targets",
+        "url": "https://github.com/celestiaorg/rsmt2d/pull/437",
+        "repo": "rsmt2d",
+        "author": "rootulp",
+        "authorCategory": "coworker",
+        "reviewer": "walldiss",
+        "requestedAt": "2026-09-21T20:31:35Z"
+      },
+      {
         "number": 111,
         "title": "build(deps): bump the go_modules group across 2 directories with 1 update",
         "url": "https://github.com/celestiaorg/da-proxy/pull/111",
@@ -380,5 +422,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-09-21T20:25:57.177Z"
+  "fetchedAt": "2026-09-21T20:34:48.741Z"
 }
