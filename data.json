@@ -156,18 +156,7 @@
         "requestedAt": "2026-09-18T23:42:11Z"
       }
     ],
-    "rach-id": [
-      {
-        "number": 3336,
-        "title": "build(deps): Bump github.com/aws/aws-sdk-go-v2/config from 1.33.4 to 1.33.5",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3336",
-        "repo": "celestia-core",
-        "author": "dependabot",
-        "authorCategory": "bot",
-        "reviewer": "rach-id",
-        "requestedAt": "2026-09-21T09:33:19Z"
-      }
-    ],
+    "rach-id": [],
     "renaynay": [
       {
         "number": 5241,
@@ -252,16 +241,6 @@
         "authorCategory": "coworker",
         "reviewer": "vgonkivs",
         "requestedAt": "2026-09-20T22:43:26Z"
-      },
-      {
-        "number": 795,
-        "title": "chore: temporarily disable automation on da-proxy-mainnet-consensus-par1-01",
-        "url": "https://github.com/celestiaorg/infrastructure/pull/795",
-        "repo": "infrastructure",
-        "author": "chatton",
-        "authorCategory": "coworker",
-        "reviewer": "vgonkivs",
-        "requestedAt": "2026-09-21T09:06:04Z"
       },
       {
         "number": 3332,
@@ -553,5 +532,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-09-21T10:00:08.897Z"
+  "fetchedAt": "2026-09-21T10:21:57.637Z"
 }
