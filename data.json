@@ -12,16 +12,6 @@
         "requestedAt": "2026-09-18T11:52:03Z"
       },
       {
-        "number": 7893,
-        "title": "chore: remove unused talis helpers",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7893",
-        "repo": "celestia-app",
-        "author": "rootulp",
-        "authorCategory": "coworker",
-        "reviewer": "chatton",
-        "requestedAt": "2026-09-20T19:44:22Z"
-      },
-      {
         "number": 207,
         "title": "ci: report test coverage to Codecov",
         "url": "https://github.com/celestiaorg/tastora/pull/207",
@@ -491,5 +481,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-09-21T05:55:20.664Z"
+  "fetchedAt": "2026-09-21T06:15:46.696Z"
 }
