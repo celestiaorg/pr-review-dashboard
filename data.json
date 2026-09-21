@@ -106,26 +106,6 @@
     ],
     "ninabarbakadze": [
       {
-        "number": 7885,
-        "title": "fix: address code quality findings",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7885",
-        "repo": "celestia-app",
-        "author": "rootulp",
-        "authorCategory": "coworker",
-        "reviewer": "ninabarbakadze",
-        "requestedAt": "2026-09-18T23:41:35Z"
-      },
-      {
-        "number": 768,
-        "title": "ci: report test coverage to Codecov",
-        "url": "https://github.com/celestiaorg/cosmos-sdk/pull/768",
-        "repo": "cosmos-sdk",
-        "author": "rootulp",
-        "authorCategory": "coworker",
-        "reviewer": "ninabarbakadze",
-        "requestedAt": "2026-09-20T20:49:28Z"
-      },
-      {
         "number": 7895,
         "title": "refactor(multiplexer): make GetForAppVersion strict about registered versions",
         "url": "https://github.com/celestiaorg/celestia-app/pull/7895",
@@ -134,26 +114,6 @@
         "authorCategory": "coworker",
         "reviewer": "ninabarbakadze",
         "requestedAt": "2026-09-20T20:54:11Z"
-      },
-      {
-        "number": 7884,
-        "title": "fix: align docker e2e evidence replacement",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7884",
-        "repo": "celestia-app",
-        "author": "copilot-swe-agent",
-        "authorCategory": "bot",
-        "reviewer": "ninabarbakadze",
-        "requestedAt": "2026-09-18T23:42:11Z"
-      },
-      {
-        "number": 5245,
-        "title": "chore(deps): bump linear/linear-release-action from 0.17.2 to 0.18.0",
-        "url": "https://github.com/celestiaorg/celestia-node/pull/5245",
-        "repo": "celestia-node",
-        "author": "dependabot",
-        "authorCategory": "bot",
-        "reviewer": "ninabarbakadze",
-        "requestedAt": "2026-09-21T11:05:16Z"
       }
     ],
     "rach-id": [],
@@ -542,5 +502,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-09-21T11:41:40.080Z"
+  "fetchedAt": "2026-09-21T11:48:33.975Z"
 }
