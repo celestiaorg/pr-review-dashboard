@@ -156,6 +156,16 @@
         "requestedAt": "2026-09-20T23:28:52Z"
       },
       {
+        "number": 7898,
+        "title": "ci: measure cross-package coverage and ignore generated code",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/7898",
+        "repo": "celestia-app",
+        "author": "rootulp",
+        "authorCategory": "coworker",
+        "reviewer": "ninabarbakadze",
+        "requestedAt": "2026-09-21T03:39:08Z"
+      },
+      {
         "number": 7884,
         "title": "fix: align docker e2e evidence replacement",
         "url": "https://github.com/celestiaorg/celestia-app/pull/7884",
@@ -196,6 +206,16 @@
         "authorCategory": "coworker",
         "reviewer": "rach-id",
         "requestedAt": "2026-09-20T23:04:24Z"
+      },
+      {
+        "number": 7898,
+        "title": "ci: measure cross-package coverage and ignore generated code",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/7898",
+        "repo": "celestia-app",
+        "author": "rootulp",
+        "authorCategory": "coworker",
+        "reviewer": "rach-id",
+        "requestedAt": "2026-09-21T03:39:08Z"
       }
     ],
     "renaynay": [
@@ -230,18 +250,7 @@
         "requestedAt": "2026-09-20T23:09:26Z"
       }
     ],
-    "rootulp": [
-      {
-        "number": 570,
-        "title": "chore(peers): refresh mainnet peers + addrbook",
-        "url": "https://github.com/celestiaorg/networks/pull/570",
-        "repo": "networks",
-        "author": "github-actions",
-        "authorCategory": "bot",
-        "reviewer": "rootulp",
-        "requestedAt": "2026-09-21T00:17:09Z"
-      }
-    ],
+    "rootulp": [],
     "vgonkivs": [
       {
         "number": 5242,
@@ -543,5 +552,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-09-21T03:31:06.531Z"
+  "fetchedAt": "2026-09-21T03:48:43.001Z"
 }
