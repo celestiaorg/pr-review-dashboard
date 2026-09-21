@@ -13,7 +13,7 @@
       },
       {
         "number": 801,
-        "title": "fix(da-proxy): correct misspelled 1Password vault in service vars",
+        "title": "fix(caddy): make scoped --tags caddy runs work + correct 1Password vault name",
         "url": "https://github.com/celestiaorg/infrastructure/pull/801",
         "repo": "infrastructure",
         "author": "pippokr",
@@ -542,5 +542,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-09-21T10:32:41.073Z"
+  "fetchedAt": "2026-09-21T10:42:21.106Z"
 }
