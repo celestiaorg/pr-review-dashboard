@@ -101,6 +101,16 @@
         "requestedAt": "2026-09-21T14:33:20Z"
       },
       {
+        "number": 435,
+        "title": "chore(deps): Bump codecov/codecov-action from 7.1.0 to 7.1.1",
+        "url": "https://github.com/celestiaorg/rsmt2d/pull/435",
+        "repo": "rsmt2d",
+        "author": "dependabot",
+        "authorCategory": "bot",
+        "reviewer": "vgonkivs",
+        "requestedAt": "2026-09-21T15:52:54Z"
+      },
+      {
         "number": 5167,
         "title": "cmd: Load configured RPC URL with explicit token",
         "url": "https://github.com/celestiaorg/celestia-node/pull/5167",
@@ -370,5 +380,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-09-21T15:52:21.046Z"
+  "fetchedAt": "2026-09-21T15:58:58.361Z"
 }
