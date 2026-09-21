@@ -167,16 +167,6 @@
         "authorCategory": "coworker",
         "reviewer": "renaynay",
         "requestedAt": "2026-09-20T14:01:53Z"
-      },
-      {
-        "number": 5243,
-        "title": "state: Fix flaky TestSubmitFromCustomAccount balance assertions",
-        "url": "https://github.com/celestiaorg/celestia-node/pull/5243",
-        "repo": "celestia-node",
-        "author": "rootulp",
-        "authorCategory": "coworker",
-        "reviewer": "renaynay",
-        "requestedAt": "2026-09-20T23:09:26Z"
       }
     ],
     "rootulp": [],
@@ -481,5 +471,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-09-21T07:24:35.384Z"
+  "fetchedAt": "2026-09-21T07:45:03.705Z"
 }
