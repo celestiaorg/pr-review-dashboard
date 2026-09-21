@@ -2,6 +2,16 @@
   "reviews": {
     "chatton": [
       {
+        "number": 573,
+        "title": "chore: remove unreachable seeds from celestia/seeds.txt",
+        "url": "https://github.com/celestiaorg/networks/pull/573",
+        "repo": "networks",
+        "author": "rootulp",
+        "authorCategory": "coworker",
+        "reviewer": "chatton",
+        "requestedAt": "2026-09-21T23:44:22Z"
+      },
+      {
         "number": 3338,
         "title": "fix(indexer): cap tx_search/block_search match set via max_search_results (backport #3329)",
         "url": "https://github.com/celestiaorg/celestia-core/pull/3338",
@@ -32,6 +42,26 @@
         "authorCategory": "coworker",
         "reviewer": "pippokr",
         "requestedAt": "2026-09-20T12:33:48Z"
+      },
+      {
+        "number": 573,
+        "title": "chore: remove unreachable seeds from celestia/seeds.txt",
+        "url": "https://github.com/celestiaorg/networks/pull/573",
+        "repo": "networks",
+        "author": "rootulp",
+        "authorCategory": "coworker",
+        "reviewer": "pippokr",
+        "requestedAt": "2026-09-21T23:45:25Z"
+      },
+      {
+        "number": 7906,
+        "title": "test(fibre): wait for app commit before asserting withdrawal state",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/7906",
+        "repo": "celestia-app",
+        "author": "rootulp",
+        "authorCategory": "coworker",
+        "reviewer": "pippokr",
+        "requestedAt": "2026-09-21T23:50:39Z"
       },
       {
         "number": 7902,
@@ -114,6 +144,26 @@
         "authorCategory": "coworker",
         "reviewer": "ninabarbakadze",
         "requestedAt": "2026-09-21T23:41:48Z"
+      },
+      {
+        "number": 442,
+        "title": "ci: add codecov.yml with 1% project coverage threshold",
+        "url": "https://github.com/celestiaorg/rsmt2d/pull/442",
+        "repo": "rsmt2d",
+        "author": "rootulp",
+        "authorCategory": "coworker",
+        "reviewer": "ninabarbakadze",
+        "requestedAt": "2026-09-21T23:49:41Z"
+      },
+      {
+        "number": 446,
+        "title": "ci: point Codecov default branch and README badge at main",
+        "url": "https://github.com/celestiaorg/rsmt2d/pull/446",
+        "repo": "rsmt2d",
+        "author": "rootulp",
+        "authorCategory": "coworker",
+        "reviewer": "ninabarbakadze",
+        "requestedAt": "2026-09-21T23:50:08Z"
       }
     ],
     "rach-id": [
@@ -176,6 +226,16 @@
         "authorCategory": "coworker",
         "reviewer": "rach-id",
         "requestedAt": "2026-09-21T23:41:48Z"
+      },
+      {
+        "number": 446,
+        "title": "ci: point Codecov default branch and README badge at main",
+        "url": "https://github.com/celestiaorg/rsmt2d/pull/446",
+        "repo": "rsmt2d",
+        "author": "rootulp",
+        "authorCategory": "coworker",
+        "reviewer": "rach-id",
+        "requestedAt": "2026-09-21T23:50:01Z"
       }
     ],
     "renaynay": [
@@ -492,5 +552,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-09-21T23:44:01.183Z"
+  "fetchedAt": "2026-09-21T23:50:41.339Z"
 }
