@@ -14,16 +14,6 @@
     ],
     "pippokr": [
       {
-        "number": 768,
-        "title": "refactor(ansible): manage mainnet archives through da-proxy workflow",
-        "url": "https://github.com/celestiaorg/infrastructure/pull/768",
-        "repo": "infrastructure",
-        "author": "chatton",
-        "authorCategory": "coworker",
-        "reviewer": "pippokr",
-        "requestedAt": "2026-09-17T10:39:34Z"
-      },
-      {
         "number": 783,
         "title": "feat(ansible): enforce state-sync snapshot configs",
         "url": "https://github.com/celestiaorg/infrastructure/pull/783",
@@ -380,5 +370,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-09-21T14:34:40.464Z"
+  "fetchedAt": "2026-09-21T14:45:21.582Z"
 }
