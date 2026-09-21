@@ -2,6 +2,16 @@
   "reviews": {
     "chatton": [
       {
+        "number": 798,
+        "title": "feat(mocha): add _dnsaddr TXT records for mocha-5 bootstrappers",
+        "url": "https://github.com/celestiaorg/infrastructure/pull/798",
+        "repo": "infrastructure",
+        "author": "pippokr",
+        "authorCategory": "coworker",
+        "reviewer": "chatton",
+        "requestedAt": "2026-09-21T09:17:57Z"
+      },
+      {
         "number": 414,
         "title": "chore(deps): bump go.opentelemetry.io/otel/sdk from 1.43.0 to 1.45.0",
         "url": "https://github.com/celestiaorg/go-header/pull/414",
@@ -20,6 +30,16 @@
         "authorCategory": "bot",
         "reviewer": "chatton",
         "requestedAt": "2026-09-18T00:36:45Z"
+      },
+      {
+        "number": 3333,
+        "title": "build(deps): Bump github.com/aws/aws-sdk-go-v2/service/s3 from 1.113.0 to 1.113.1",
+        "url": "https://github.com/celestiaorg/celestia-core/pull/3333",
+        "repo": "celestia-core",
+        "author": "dependabot",
+        "authorCategory": "bot",
+        "reviewer": "chatton",
+        "requestedAt": "2026-09-21T09:30:06Z"
       }
     ],
     "pippokr": [
@@ -147,6 +167,16 @@
         "authorCategory": "coworker",
         "reviewer": "renaynay",
         "requestedAt": "2026-09-20T14:01:53Z"
+      },
+      {
+        "number": 3331,
+        "title": "build(deps): Bump codecov/codecov-action from 7.0.0 to 7.1.1",
+        "url": "https://github.com/celestiaorg/celestia-core/pull/3331",
+        "repo": "celestia-core",
+        "author": "dependabot",
+        "authorCategory": "bot",
+        "reviewer": "renaynay",
+        "requestedAt": "2026-09-21T09:28:29Z"
       }
     ],
     "rootulp": [],
@@ -180,6 +210,26 @@
         "authorCategory": "coworker",
         "reviewer": "vgonkivs",
         "requestedAt": "2026-09-20T22:43:26Z"
+      },
+      {
+        "number": 795,
+        "title": "chore: temporarily disable automation on da-proxy-mainnet-consensus-par1-01",
+        "url": "https://github.com/celestiaorg/infrastructure/pull/795",
+        "repo": "infrastructure",
+        "author": "chatton",
+        "authorCategory": "coworker",
+        "reviewer": "vgonkivs",
+        "requestedAt": "2026-09-21T09:06:04Z"
+      },
+      {
+        "number": 3332,
+        "title": "build(deps): Bump linear/linear-release-action from 0.17.2 to 0.18.0",
+        "url": "https://github.com/celestiaorg/celestia-core/pull/3332",
+        "repo": "celestia-core",
+        "author": "dependabot",
+        "authorCategory": "bot",
+        "reviewer": "vgonkivs",
+        "requestedAt": "2026-09-21T09:28:36Z"
       },
       {
         "number": 5167,
@@ -402,6 +452,16 @@
         "authorCategory": "bot",
         "reviewer": "walldiss",
         "requestedAt": "2026-09-18T23:57:29Z"
+      },
+      {
+        "number": 3334,
+        "title": "build(deps): Bump google.golang.org/grpc from 1.83.2 to 1.84.0",
+        "url": "https://github.com/celestiaorg/celestia-core/pull/3334",
+        "repo": "celestia-core",
+        "author": "dependabot",
+        "authorCategory": "bot",
+        "reviewer": "walldiss",
+        "requestedAt": "2026-09-21T09:30:15Z"
       }
     ]
   },
@@ -451,5 +511,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-09-21T09:04:49.977Z"
+  "fetchedAt": "2026-09-21T09:31:04.518Z"
 }
