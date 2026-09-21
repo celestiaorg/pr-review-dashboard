@@ -2,16 +2,6 @@
   "reviews": {
     "chatton": [
       {
-        "number": 207,
-        "title": "ci: report test coverage to Codecov",
-        "url": "https://github.com/celestiaorg/tastora/pull/207",
-        "repo": "tastora",
-        "author": "rootulp",
-        "authorCategory": "coworker",
-        "reviewer": "chatton",
-        "requestedAt": "2026-09-20T19:52:45Z"
-      },
-      {
         "number": 414,
         "title": "chore(deps): bump go.opentelemetry.io/otel/sdk from 1.43.0 to 1.45.0",
         "url": "https://github.com/celestiaorg/go-header/pull/414",
@@ -461,5 +451,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-09-21T08:21:40.331Z"
+  "fetchedAt": "2026-09-21T08:41:57.791Z"
 }
