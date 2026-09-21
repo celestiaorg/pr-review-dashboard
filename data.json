@@ -72,6 +72,16 @@
         "authorCategory": "coworker",
         "reviewer": "pippokr",
         "requestedAt": "2026-09-20T12:33:48Z"
+      },
+      {
+        "number": 7902,
+        "title": "chore(deps): bump the github-actions group with 4 updates",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/7902",
+        "repo": "celestia-app",
+        "author": "dependabot",
+        "authorCategory": "bot",
+        "reviewer": "pippokr",
+        "requestedAt": "2026-09-21T09:36:08Z"
       }
     ],
     "ninabarbakadze": [
@@ -144,9 +154,30 @@
         "authorCategory": "bot",
         "reviewer": "ninabarbakadze",
         "requestedAt": "2026-09-18T23:42:11Z"
+      },
+      {
+        "number": 3335,
+        "title": "build(deps): Bump github.com/aws/aws-sdk-go-v2/credentials from 1.20.4 to 1.20.5",
+        "url": "https://github.com/celestiaorg/celestia-core/pull/3335",
+        "repo": "celestia-core",
+        "author": "dependabot",
+        "authorCategory": "bot",
+        "reviewer": "ninabarbakadze",
+        "requestedAt": "2026-09-21T09:31:50Z"
       }
     ],
-    "rach-id": [],
+    "rach-id": [
+      {
+        "number": 3336,
+        "title": "build(deps): Bump github.com/aws/aws-sdk-go-v2/config from 1.33.4 to 1.33.5",
+        "url": "https://github.com/celestiaorg/celestia-core/pull/3336",
+        "repo": "celestia-core",
+        "author": "dependabot",
+        "authorCategory": "bot",
+        "reviewer": "rach-id",
+        "requestedAt": "2026-09-21T09:33:19Z"
+      }
+    ],
     "renaynay": [
       {
         "number": 5241,
@@ -177,9 +208,30 @@
         "authorCategory": "bot",
         "reviewer": "renaynay",
         "requestedAt": "2026-09-21T09:28:29Z"
+      },
+      {
+        "number": 7903,
+        "title": "chore(deps): bump the go-deps group with 11 updates",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/7903",
+        "repo": "celestia-app",
+        "author": "dependabot",
+        "authorCategory": "bot",
+        "reviewer": "renaynay",
+        "requestedAt": "2026-09-21T09:39:00Z"
       }
     ],
-    "rootulp": [],
+    "rootulp": [
+      {
+        "number": 7901,
+        "title": "chore(deps): bump google.golang.org/grpc from 1.83.2 to 1.84.0 in /test/docker-e2e in the go-deps-docker-e2e group",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/7901",
+        "repo": "celestia-app",
+        "author": "dependabot",
+        "authorCategory": "bot",
+        "reviewer": "rootulp",
+        "requestedAt": "2026-09-21T09:32:35Z"
+      }
+    ],
     "vgonkivs": [
       {
         "number": 5242,
@@ -511,5 +563,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-09-21T09:31:04.518Z"
+  "fetchedAt": "2026-09-21T09:46:26.675Z"
 }
