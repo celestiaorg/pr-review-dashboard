@@ -243,16 +243,6 @@
         "requestedAt": "2026-09-21T09:28:36Z"
       },
       {
-        "number": 3337,
-        "title": "fix(indexer): cap tx_search/block_search match set via max_search_results (backport #3329)",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3337",
-        "repo": "celestia-core",
-        "author": "mergify",
-        "authorCategory": "bot",
-        "reviewer": "vgonkivs",
-        "requestedAt": "2026-09-21T10:24:32Z"
-      },
-      {
         "number": 5167,
         "title": "cmd: Load configured RPC URL with explicit token",
         "url": "https://github.com/celestiaorg/celestia-node/pull/5167",
@@ -542,5 +532,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-09-21T11:22:25.273Z"
+  "fetchedAt": "2026-09-21T11:31:42.528Z"
 }
