@@ -136,16 +136,6 @@
         "requestedAt": "2026-09-20T20:54:11Z"
       },
       {
-        "number": 769,
-        "title": "chore!: remove cosmovisor",
-        "url": "https://github.com/celestiaorg/cosmos-sdk/pull/769",
-        "repo": "cosmos-sdk",
-        "author": "rootulp",
-        "authorCategory": "coworker",
-        "reviewer": "ninabarbakadze",
-        "requestedAt": "2026-09-20T23:04:24Z"
-      },
-      {
         "number": 772,
         "title": "fix(testutil/network): wait for the app to commit a height before returning",
         "url": "https://github.com/celestiaorg/cosmos-sdk/pull/772",
@@ -154,16 +144,6 @@
         "authorCategory": "coworker",
         "reviewer": "ninabarbakadze",
         "requestedAt": "2026-09-20T23:28:52Z"
-      },
-      {
-        "number": 7898,
-        "title": "ci: measure cross-package coverage and ignore generated code",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7898",
-        "repo": "celestia-app",
-        "author": "rootulp",
-        "authorCategory": "coworker",
-        "reviewer": "ninabarbakadze",
-        "requestedAt": "2026-09-21T03:39:08Z"
       },
       {
         "number": 7884,
@@ -176,48 +156,7 @@
         "requestedAt": "2026-09-18T23:42:11Z"
       }
     ],
-    "rach-id": [
-      {
-        "number": 7894,
-        "title": "chore: bump v3 multiplexer binary to v3.13.0",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7894",
-        "repo": "celestia-app",
-        "author": "rootulp",
-        "authorCategory": "coworker",
-        "reviewer": "rach-id",
-        "requestedAt": "2026-09-20T20:48:05Z"
-      },
-      {
-        "number": 7897,
-        "title": "test(fibre): wait for app commit before asserting escrow debit",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7897",
-        "repo": "celestia-app",
-        "author": "rootulp",
-        "authorCategory": "coworker",
-        "reviewer": "rach-id",
-        "requestedAt": "2026-09-20T20:55:58Z"
-      },
-      {
-        "number": 769,
-        "title": "chore!: remove cosmovisor",
-        "url": "https://github.com/celestiaorg/cosmos-sdk/pull/769",
-        "repo": "cosmos-sdk",
-        "author": "rootulp",
-        "authorCategory": "coworker",
-        "reviewer": "rach-id",
-        "requestedAt": "2026-09-20T23:04:24Z"
-      },
-      {
-        "number": 7898,
-        "title": "ci: measure cross-package coverage and ignore generated code",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7898",
-        "repo": "celestia-app",
-        "author": "rootulp",
-        "authorCategory": "coworker",
-        "reviewer": "rach-id",
-        "requestedAt": "2026-09-21T03:39:08Z"
-      }
-    ],
+    "rach-id": [],
     "renaynay": [
       {
         "number": 5241,
@@ -552,5 +491,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-09-21T05:11:02.261Z"
+  "fetchedAt": "2026-09-21T05:27:00.400Z"
 }
