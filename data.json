@@ -154,16 +154,6 @@
         "authorCategory": "bot",
         "reviewer": "ninabarbakadze",
         "requestedAt": "2026-09-18T23:42:11Z"
-      },
-      {
-        "number": 3335,
-        "title": "build(deps): Bump github.com/aws/aws-sdk-go-v2/credentials from 1.20.4 to 1.20.5",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3335",
-        "repo": "celestia-core",
-        "author": "dependabot",
-        "authorCategory": "bot",
-        "reviewer": "ninabarbakadze",
-        "requestedAt": "2026-09-21T09:31:50Z"
       }
     ],
     "rach-id": [
@@ -563,5 +553,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-09-21T09:46:26.675Z"
+  "fetchedAt": "2026-09-21T09:53:42.445Z"
 }
