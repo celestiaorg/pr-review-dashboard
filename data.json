@@ -396,16 +396,6 @@
         "requestedAt": "2026-09-18T08:59:53Z"
       },
       {
-        "number": 111,
-        "title": "build(deps): bump the go_modules group across 2 directories with 1 update",
-        "url": "https://github.com/celestiaorg/da-proxy/pull/111",
-        "repo": "da-proxy",
-        "author": "dependabot",
-        "authorCategory": "bot",
-        "reviewer": "walldiss",
-        "requestedAt": "2026-09-18T00:44:42Z"
-      },
-      {
         "number": 3334,
         "title": "build(deps): Bump google.golang.org/grpc from 1.83.2 to 1.84.0",
         "url": "https://github.com/celestiaorg/celestia-core/pull/3334",
@@ -473,5 +463,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-09-21T22:39:19.946Z"
+  "fetchedAt": "2026-09-21T22:45:43.909Z"
 }
