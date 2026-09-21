@@ -196,16 +196,6 @@
         "authorCategory": "coworker",
         "reviewer": "rach-id",
         "requestedAt": "2026-09-20T23:04:24Z"
-      },
-      {
-        "number": 571,
-        "title": "chore(peers): refresh mocha-5 peers",
-        "url": "https://github.com/celestiaorg/networks/pull/571",
-        "repo": "networks",
-        "author": "github-actions",
-        "authorCategory": "bot",
-        "reviewer": "rach-id",
-        "requestedAt": "2026-09-21T00:17:18Z"
       }
     ],
     "renaynay": [
@@ -553,5 +543,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-09-21T03:09:57.762Z"
+  "fetchedAt": "2026-09-21T03:31:06.531Z"
 }
