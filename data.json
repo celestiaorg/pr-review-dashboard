@@ -54,18 +54,7 @@
         "requestedAt": "2026-09-21T09:36:08Z"
       }
     ],
-    "ninabarbakadze": [
-      {
-        "number": 7895,
-        "title": "refactor(multiplexer): make GetForAppVersion strict about registered versions",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7895",
-        "repo": "celestia-app",
-        "author": "rootulp",
-        "authorCategory": "coworker",
-        "reviewer": "ninabarbakadze",
-        "requestedAt": "2026-09-20T20:54:11Z"
-      }
-    ],
+    "ninabarbakadze": [],
     "rach-id": [],
     "renaynay": [
       {
@@ -100,16 +89,6 @@
         "authorCategory": "coworker",
         "reviewer": "vgonkivs",
         "requestedAt": "2026-09-20T14:02:25Z"
-      },
-      {
-        "number": 3332,
-        "title": "build(deps): Bump linear/linear-release-action from 0.17.2 to 0.18.0",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3332",
-        "repo": "celestia-core",
-        "author": "dependabot",
-        "authorCategory": "bot",
-        "reviewer": "vgonkivs",
-        "requestedAt": "2026-09-21T09:28:36Z"
       },
       {
         "number": 5167,
@@ -381,5 +360,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-09-21T14:00:14.532Z"
+  "fetchedAt": "2026-09-21T14:22:51.381Z"
 }
