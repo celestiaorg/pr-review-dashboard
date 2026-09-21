@@ -144,6 +144,16 @@
         "authorCategory": "bot",
         "reviewer": "ninabarbakadze",
         "requestedAt": "2026-09-18T23:42:11Z"
+      },
+      {
+        "number": 5245,
+        "title": "chore(deps): bump linear/linear-release-action from 0.17.2 to 0.18.0",
+        "url": "https://github.com/celestiaorg/celestia-node/pull/5245",
+        "repo": "celestia-node",
+        "author": "dependabot",
+        "authorCategory": "bot",
+        "reviewer": "ninabarbakadze",
+        "requestedAt": "2026-09-21T11:05:16Z"
       }
     ],
     "rach-id": [],
@@ -199,6 +209,16 @@
         "authorCategory": "bot",
         "reviewer": "rootulp",
         "requestedAt": "2026-09-21T09:32:35Z"
+      },
+      {
+        "number": 5246,
+        "title": "chore(deps): bump the go-deps group across 2 directories with 2 updates",
+        "url": "https://github.com/celestiaorg/celestia-node/pull/5246",
+        "repo": "celestia-node",
+        "author": "dependabot",
+        "authorCategory": "bot",
+        "reviewer": "rootulp",
+        "requestedAt": "2026-09-21T11:05:41Z"
       }
     ],
     "vgonkivs": [
@@ -463,6 +483,16 @@
         "authorCategory": "bot",
         "reviewer": "walldiss",
         "requestedAt": "2026-09-21T09:30:15Z"
+      },
+      {
+        "number": 5244,
+        "title": "chore(deps): bump codecov/codecov-action from 7.0.0 to 7.1.1",
+        "url": "https://github.com/celestiaorg/celestia-node/pull/5244",
+        "repo": "celestia-node",
+        "author": "dependabot",
+        "authorCategory": "bot",
+        "reviewer": "walldiss",
+        "requestedAt": "2026-09-21T11:05:14Z"
       }
     ]
   },
@@ -512,5 +542,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-09-21T10:55:41.580Z"
+  "fetchedAt": "2026-09-21T11:07:46.775Z"
 }
