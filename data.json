@@ -66,18 +66,7 @@
         "requestedAt": "2026-09-20T20:54:11Z"
       }
     ],
-    "rach-id": [
-      {
-        "number": 7905,
-        "title": "chore(deps): bump the go-deps group across 1 directory with 10 updates",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7905",
-        "repo": "celestia-app",
-        "author": "dependabot",
-        "authorCategory": "bot",
-        "reviewer": "rach-id",
-        "requestedAt": "2026-09-21T13:33:46Z"
-      }
-    ],
+    "rach-id": [],
     "renaynay": [
       {
         "number": 5241,
@@ -392,5 +381,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-09-21T13:47:18.861Z"
+  "fetchedAt": "2026-09-21T13:53:54.763Z"
 }
