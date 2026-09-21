@@ -196,6 +196,16 @@
         "authorCategory": "coworker",
         "reviewer": "rach-id",
         "requestedAt": "2026-09-20T23:04:24Z"
+      },
+      {
+        "number": 571,
+        "title": "chore(peers): refresh mocha-5 peers",
+        "url": "https://github.com/celestiaorg/networks/pull/571",
+        "repo": "networks",
+        "author": "github-actions",
+        "authorCategory": "bot",
+        "reviewer": "rach-id",
+        "requestedAt": "2026-09-21T00:17:18Z"
       }
     ],
     "renaynay": [
@@ -230,7 +240,18 @@
         "requestedAt": "2026-09-20T23:09:26Z"
       }
     ],
-    "rootulp": [],
+    "rootulp": [
+      {
+        "number": 570,
+        "title": "chore(peers): refresh mainnet peers + addrbook",
+        "url": "https://github.com/celestiaorg/networks/pull/570",
+        "repo": "networks",
+        "author": "github-actions",
+        "authorCategory": "bot",
+        "reviewer": "rootulp",
+        "requestedAt": "2026-09-21T00:17:09Z"
+      }
+    ],
     "vgonkivs": [
       {
         "number": 5242,
@@ -532,5 +553,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-09-21T00:00:42.080Z"
+  "fetchedAt": "2026-09-21T00:58:39.244Z"
 }
