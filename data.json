@@ -10,6 +10,16 @@
         "authorCategory": "bot",
         "reviewer": "chatton",
         "requestedAt": "2026-09-21T10:24:37Z"
+      },
+      {
+        "number": 291,
+        "title": "chore(deps): bump codecov/codecov-action from 7.1.0 to 7.1.1",
+        "url": "https://github.com/celestiaorg/go-square/pull/291",
+        "repo": "go-square",
+        "author": "dependabot",
+        "authorCategory": "bot",
+        "reviewer": "chatton",
+        "requestedAt": "2026-09-21T19:32:55Z"
       }
     ],
     "pippokr": [
@@ -370,5 +380,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-09-21T19:26:58.357Z"
+  "fetchedAt": "2026-09-21T19:36:17.942Z"
 }
