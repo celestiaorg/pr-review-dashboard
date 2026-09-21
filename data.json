@@ -76,6 +76,16 @@
         "authorCategory": "coworker",
         "reviewer": "renaynay",
         "requestedAt": "2026-09-20T14:01:53Z"
+      },
+      {
+        "number": 5248,
+        "title": "chore(deps): bump go-libp2p to v0.50.0 (v0.33.x)",
+        "url": "https://github.com/celestiaorg/celestia-node/pull/5248",
+        "repo": "celestia-node",
+        "author": "rach-id",
+        "authorCategory": "coworker",
+        "reviewer": "renaynay",
+        "requestedAt": "2026-09-21T14:32:43Z"
       }
     ],
     "rootulp": [],
@@ -89,6 +99,16 @@
         "authorCategory": "coworker",
         "reviewer": "vgonkivs",
         "requestedAt": "2026-09-20T14:02:25Z"
+      },
+      {
+        "number": 5247,
+        "title": "chore(deps): bump go-libp2p to v0.50.0",
+        "url": "https://github.com/celestiaorg/celestia-node/pull/5247",
+        "repo": "celestia-node",
+        "author": "rach-id",
+        "authorCategory": "coworker",
+        "reviewer": "vgonkivs",
+        "requestedAt": "2026-09-21T14:33:20Z"
       },
       {
         "number": 5167,
@@ -360,5 +380,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-09-21T14:22:51.381Z"
+  "fetchedAt": "2026-09-21T14:34:40.464Z"
 }
