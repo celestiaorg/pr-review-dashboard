@@ -425,16 +425,6 @@
         "requestedAt": "2026-09-18T00:44:42Z"
       },
       {
-        "number": 7884,
-        "title": "fix: align docker e2e evidence replacement",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7884",
-        "repo": "celestia-app",
-        "author": "copilot-swe-agent",
-        "authorCategory": "bot",
-        "reviewer": "walldiss",
-        "requestedAt": "2026-09-18T23:57:29Z"
-      },
-      {
         "number": 3334,
         "title": "build(deps): Bump google.golang.org/grpc from 1.83.2 to 1.84.0",
         "url": "https://github.com/celestiaorg/celestia-core/pull/3334",
@@ -502,5 +492,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-09-21T11:48:33.975Z"
+  "fetchedAt": "2026-09-21T11:55:17.795Z"
 }
