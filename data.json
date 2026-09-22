@@ -80,16 +80,6 @@
         "requestedAt": "2026-09-22T15:07:20Z"
       },
       {
-        "number": 3344,
-        "title": "fix(consensus/propagation): reject WantParts bit arrays larger than the max part count",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3344",
-        "repo": "celestia-core",
-        "author": "ninabarbakadze",
-        "authorCategory": "coworker",
-        "reviewer": "rootulp",
-        "requestedAt": "2026-09-22T16:07:15Z"
-      },
-      {
         "number": 5244,
         "title": "chore(deps): bump codecov/codecov-action from 7.0.0 to 7.1.1",
         "url": "https://github.com/celestiaorg/celestia-node/pull/5244",
@@ -310,5 +300,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-09-22T17:40:41.902Z"
+  "fetchedAt": "2026-09-22T17:47:24.340Z"
 }
