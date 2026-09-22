@@ -24,8 +24,40 @@
         "requestedAt": "2026-09-20T12:33:48Z"
       }
     ],
-    "ninabarbakadze": [],
-    "rach-id": [],
+    "ninabarbakadze": [
+      {
+        "number": 7909,
+        "title": "fix: bump embedded v9 binary to v9.0.8",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/7909",
+        "repo": "celestia-app",
+        "author": "rach-id",
+        "authorCategory": "coworker",
+        "reviewer": "ninabarbakadze",
+        "requestedAt": "2026-09-22T15:03:42Z"
+      }
+    ],
+    "rach-id": [
+      {
+        "number": 109,
+        "title": "test: cover archival-flag short-circuit in height routing",
+        "url": "https://github.com/celestiaorg/da-proxy/pull/109",
+        "repo": "da-proxy",
+        "author": "vgonkivs",
+        "authorCategory": "coworker",
+        "reviewer": "rach-id",
+        "requestedAt": "2026-09-22T15:06:14Z"
+      },
+      {
+        "number": 110,
+        "title": "feat: use round robin for DA node switch",
+        "url": "https://github.com/celestiaorg/da-proxy/pull/110",
+        "repo": "da-proxy",
+        "author": "vgonkivs",
+        "authorCategory": "coworker",
+        "reviewer": "rach-id",
+        "requestedAt": "2026-09-22T15:07:40Z"
+      }
+    ],
     "renaynay": [
       {
         "number": 5241,
@@ -38,7 +70,28 @@
         "requestedAt": "2026-09-18T08:59:53Z"
       }
     ],
-    "rootulp": [],
+    "rootulp": [
+      {
+        "number": 7910,
+        "title": "fix: bump embedded v9 binary to v9.0.8 (v10.x)",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/7910",
+        "repo": "celestia-app",
+        "author": "rach-id",
+        "authorCategory": "coworker",
+        "reviewer": "rootulp",
+        "requestedAt": "2026-09-22T15:04:47Z"
+      },
+      {
+        "number": 110,
+        "title": "feat: use round robin for DA node switch",
+        "url": "https://github.com/celestiaorg/da-proxy/pull/110",
+        "repo": "da-proxy",
+        "author": "vgonkivs",
+        "authorCategory": "coworker",
+        "reviewer": "rootulp",
+        "requestedAt": "2026-09-22T15:07:20Z"
+      }
+    ],
     "vgonkivs": [
       {
         "number": 7892,
@@ -203,46 +256,6 @@
     ],
     "walldiss": [
       {
-        "number": 7842,
-        "title": "feat(fibre): support mTLS for the fibre signer gRPC connection",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7842",
-        "repo": "celestia-app",
-        "author": "ninabarbakadze",
-        "authorCategory": "coworker",
-        "reviewer": "walldiss",
-        "requestedAt": "2026-09-16T15:02:03Z"
-      },
-      {
-        "number": 110,
-        "title": "feat: use round robin for DA node switch",
-        "url": "https://github.com/celestiaorg/da-proxy/pull/110",
-        "repo": "da-proxy",
-        "author": "vgonkivs",
-        "authorCategory": "coworker",
-        "reviewer": "walldiss",
-        "requestedAt": "2026-09-16T18:08:57Z"
-      },
-      {
-        "number": 109,
-        "title": "test: cover archival-flag short-circuit in height routing",
-        "url": "https://github.com/celestiaorg/da-proxy/pull/109",
-        "repo": "da-proxy",
-        "author": "vgonkivs",
-        "authorCategory": "coworker",
-        "reviewer": "walldiss",
-        "requestedAt": "2026-09-16T18:09:11Z"
-      },
-      {
-        "number": 3317,
-        "title": "feat: add TLS to privval gRPC",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3317",
-        "repo": "celestia-core",
-        "author": "ninabarbakadze",
-        "authorCategory": "coworker",
-        "reviewer": "walldiss",
-        "requestedAt": "2026-09-17T11:45:55Z"
-      },
-      {
         "number": 5241,
         "title": "perf(share/eds): pool buffered NMTs in EDS construction",
         "url": "https://github.com/celestiaorg/celestia-node/pull/5241",
@@ -320,5 +333,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-09-22T15:02:08.585Z"
+  "fetchedAt": "2026-09-22T15:20:36.865Z"
 }
