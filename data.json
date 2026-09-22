@@ -24,6 +24,16 @@
     ],
     "pippokr": [
       {
+        "number": 768,
+        "title": "refactor(ansible): manage mainnet da-proxy archive nodes through da-proxy workflow",
+        "url": "https://github.com/celestiaorg/infrastructure/pull/768",
+        "repo": "infrastructure",
+        "author": "chatton",
+        "authorCategory": "coworker",
+        "reviewer": "pippokr",
+        "requestedAt": "2026-09-17T10:39:34Z"
+      },
+      {
         "number": 783,
         "title": "feat(ansible): enforce state-sync snapshot configs",
         "url": "https://github.com/celestiaorg/infrastructure/pull/783",
@@ -110,26 +120,6 @@
         "authorCategory": "coworker",
         "reviewer": "vgonkivs",
         "requestedAt": "2026-09-20T14:02:25Z"
-      },
-      {
-        "number": 5247,
-        "title": "chore(deps): bump go-libp2p to v0.50.0",
-        "url": "https://github.com/celestiaorg/celestia-node/pull/5247",
-        "repo": "celestia-node",
-        "author": "rach-id",
-        "authorCategory": "coworker",
-        "reviewer": "vgonkivs",
-        "requestedAt": "2026-09-21T14:33:20Z"
-      },
-      {
-        "number": 804,
-        "title": "cleanup: remove decommissioned rpc-archival-mocha reference",
-        "url": "https://github.com/celestiaorg/infrastructure/pull/804",
-        "repo": "infrastructure",
-        "author": "pippokr",
-        "authorCategory": "coworker",
-        "reviewer": "vgonkivs",
-        "requestedAt": "2026-09-22T11:34:21Z"
       },
       {
         "number": 5167,
@@ -391,5 +381,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-09-22T11:59:12.216Z"
+  "fetchedAt": "2026-09-22T12:29:08.405Z"
 }
