@@ -122,16 +122,6 @@
         "requestedAt": "2026-09-20T14:02:25Z"
       },
       {
-        "number": 415,
-        "title": "ci: fix Codecov coverage upload",
-        "url": "https://github.com/celestiaorg/go-header/pull/415",
-        "repo": "go-header",
-        "author": "rootulp",
-        "authorCategory": "coworker",
-        "reviewer": "vgonkivs",
-        "requestedAt": "2026-09-22T13:59:34Z"
-      },
-      {
         "number": 5167,
         "title": "cmd: Load configured RPC URL with explicit token",
         "url": "https://github.com/celestiaorg/celestia-node/pull/5167",
@@ -320,5 +310,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-09-22T17:14:02.890Z"
+  "fetchedAt": "2026-09-22T17:25:32.560Z"
 }
