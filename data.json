@@ -97,16 +97,6 @@
         "authorCategory": "coworker",
         "reviewer": "renaynay",
         "requestedAt": "2026-09-20T14:01:53Z"
-      },
-      {
-        "number": 5248,
-        "title": "chore(deps): bump go-libp2p to v0.50.0 (v0.33.x)",
-        "url": "https://github.com/celestiaorg/celestia-node/pull/5248",
-        "repo": "celestia-node",
-        "author": "rach-id",
-        "authorCategory": "coworker",
-        "reviewer": "renaynay",
-        "requestedAt": "2026-09-21T14:32:43Z"
       }
     ],
     "rootulp": [],
@@ -391,5 +381,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-09-22T09:42:41.333Z"
+  "fetchedAt": "2026-09-22T09:49:40.528Z"
 }
