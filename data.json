@@ -34,6 +34,16 @@
         "requestedAt": "2026-09-20T12:33:48Z"
       },
       {
+        "number": 805,
+        "title": "fix(ansible): enable snapshots in v10.2 Mocha configs",
+        "url": "https://github.com/celestiaorg/infrastructure/pull/805",
+        "repo": "infrastructure",
+        "author": "chatton",
+        "authorCategory": "coworker",
+        "reviewer": "pippokr",
+        "requestedAt": "2026-09-22T13:45:44Z"
+      },
+      {
         "number": 7902,
         "title": "chore(deps): bump the github-actions group with 4 updates",
         "url": "https://github.com/celestiaorg/celestia-app/pull/7902",
@@ -341,5 +351,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-09-22T13:41:29.297Z"
+  "fetchedAt": "2026-09-22T13:48:53.215Z"
 }
