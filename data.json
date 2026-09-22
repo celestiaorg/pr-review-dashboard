@@ -67,16 +67,6 @@
         "authorCategory": "coworker",
         "reviewer": "renaynay",
         "requestedAt": "2026-09-18T08:59:53Z"
-      },
-      {
-        "number": 7917,
-        "title": "fix: default the node gas price filter to zero",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7917",
-        "repo": "celestia-app",
-        "author": "rach-id",
-        "authorCategory": "coworker",
-        "reviewer": "renaynay",
-        "requestedAt": "2026-09-22T21:41:29Z"
       }
     ],
     "rootulp": [
@@ -311,5 +301,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-09-22T21:41:31.037Z"
+  "fetchedAt": "2026-09-22T21:48:59.575Z"
 }
