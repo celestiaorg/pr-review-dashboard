@@ -107,16 +107,6 @@
         "authorCategory": "coworker",
         "reviewer": "renaynay",
         "requestedAt": "2026-09-21T14:32:43Z"
-      },
-      {
-        "number": 574,
-        "title": "fix(ci): pin peter-evans/create-pull-request to a commit SHA",
-        "url": "https://github.com/celestiaorg/networks/pull/574",
-        "repo": "networks",
-        "author": "rootulp",
-        "authorCategory": "coworker",
-        "reviewer": "renaynay",
-        "requestedAt": "2026-09-21T23:54:37Z"
       }
     ],
     "rootulp": [],
@@ -401,5 +391,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-09-22T09:22:00.966Z"
+  "fetchedAt": "2026-09-22T09:32:22.837Z"
 }
