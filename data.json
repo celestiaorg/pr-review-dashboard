@@ -2,16 +2,6 @@
   "reviews": {
     "chatton": [
       {
-        "number": 804,
-        "title": "cleanup: remove decommissioned rpc-archival-mocha reference",
-        "url": "https://github.com/celestiaorg/infrastructure/pull/804",
-        "repo": "infrastructure",
-        "author": "pippokr",
-        "authorCategory": "coworker",
-        "reviewer": "chatton",
-        "requestedAt": "2026-09-22T11:34:12Z"
-      },
-      {
         "number": 3338,
         "title": "fix(indexer): cap tx_search/block_search match set via max_search_results (backport #3329)",
         "url": "https://github.com/celestiaorg/celestia-core/pull/3338",
@@ -34,16 +24,6 @@
         "requestedAt": "2026-09-17T10:39:34Z"
       },
       {
-        "number": 783,
-        "title": "feat(ansible): enforce state-sync snapshot configs",
-        "url": "https://github.com/celestiaorg/infrastructure/pull/783",
-        "repo": "infrastructure",
-        "author": "chatton",
-        "authorCategory": "coworker",
-        "reviewer": "pippokr",
-        "requestedAt": "2026-09-17T13:33:41Z"
-      },
-      {
         "number": 7890,
         "title": "feat(fibre): support TLS for app gRPC clients",
         "url": "https://github.com/celestiaorg/celestia-app/pull/7890",
@@ -64,38 +44,7 @@
         "requestedAt": "2026-09-21T09:36:08Z"
       }
     ],
-    "ninabarbakadze": [
-      {
-        "number": 436,
-        "title": "docs: add godoc for computeRowProof test helper",
-        "url": "https://github.com/celestiaorg/rsmt2d/pull/436",
-        "repo": "rsmt2d",
-        "author": "rootulp",
-        "authorCategory": "coworker",
-        "reviewer": "ninabarbakadze",
-        "requestedAt": "2026-09-21T20:32:15Z"
-      },
-      {
-        "number": 441,
-        "title": "chore: bump Go to 1.27 and read the version from go.mod in CI",
-        "url": "https://github.com/celestiaorg/rsmt2d/pull/441",
-        "repo": "rsmt2d",
-        "author": "rootulp",
-        "authorCategory": "coworker",
-        "reviewer": "ninabarbakadze",
-        "requestedAt": "2026-09-21T20:39:34Z"
-      },
-      {
-        "number": 448,
-        "title": "test: cover error-propagation and byzantine branches with failing fixtures",
-        "url": "https://github.com/celestiaorg/rsmt2d/pull/448",
-        "repo": "rsmt2d",
-        "author": "rootulp",
-        "authorCategory": "coworker",
-        "reviewer": "ninabarbakadze",
-        "requestedAt": "2026-09-21T23:41:48Z"
-      }
-    ],
+    "ninabarbakadze": [],
     "rach-id": [],
     "renaynay": [
       {
@@ -381,5 +330,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-09-22T12:29:08.405Z"
+  "fetchedAt": "2026-09-22T12:47:57.703Z"
 }
