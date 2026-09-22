@@ -24,30 +24,8 @@
         "requestedAt": "2026-09-20T12:33:48Z"
       }
     ],
-    "ninabarbakadze": [
-      {
-        "number": 448,
-        "title": "test: cover error-propagation and byzantine branches with failing fixtures",
-        "url": "https://github.com/celestiaorg/rsmt2d/pull/448",
-        "repo": "rsmt2d",
-        "author": "rootulp",
-        "authorCategory": "coworker",
-        "reviewer": "ninabarbakadze",
-        "requestedAt": "2026-09-22T14:15:27Z"
-      }
-    ],
-    "rach-id": [
-      {
-        "number": 448,
-        "title": "test: cover error-propagation and byzantine branches with failing fixtures",
-        "url": "https://github.com/celestiaorg/rsmt2d/pull/448",
-        "repo": "rsmt2d",
-        "author": "rootulp",
-        "authorCategory": "coworker",
-        "reviewer": "rach-id",
-        "requestedAt": "2026-09-22T14:15:24Z"
-      }
-    ],
+    "ninabarbakadze": [],
+    "rach-id": [],
     "renaynay": [
       {
         "number": 5241,
@@ -342,5 +320,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-09-22T14:54:23.117Z"
+  "fetchedAt": "2026-09-22T15:02:08.585Z"
 }
