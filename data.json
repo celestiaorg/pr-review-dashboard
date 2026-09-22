@@ -58,7 +58,18 @@
         "requestedAt": "2026-09-18T08:59:53Z"
       }
     ],
-    "rootulp": [],
+    "rootulp": [
+      {
+        "number": 7907,
+        "title": "fix(fibre): Dedupe before verification in `UploadShard`",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/7907",
+        "repo": "celestia-app",
+        "author": "theodorebugnet",
+        "authorCategory": "coworker",
+        "reviewer": "rootulp",
+        "requestedAt": "2026-09-22T13:28:17Z"
+      }
+    ],
     "vgonkivs": [
       {
         "number": 7892,
@@ -330,5 +341,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-09-22T13:15:54.080Z"
+  "fetchedAt": "2026-09-22T13:30:18.854Z"
 }
