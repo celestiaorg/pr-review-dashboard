@@ -253,7 +253,18 @@
         "requestedAt": "2026-09-13T09:08:08Z"
       }
     ],
-    "walldiss": []
+    "walldiss": [
+      {
+        "number": 7916,
+        "title": "perf: temp-network throughput — consensus pacing, propagation, PebbleDB, 1 utia fibre fees",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/7916",
+        "repo": "celestia-app",
+        "author": "rach-id",
+        "authorCategory": "coworker",
+        "reviewer": "walldiss",
+        "requestedAt": "2026-09-22T21:22:20Z"
+      }
+    ]
   },
   "teamMembers": [
     {
@@ -301,5 +312,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-09-22T21:16:39.686Z"
+  "fetchedAt": "2026-09-22T21:26:28.228Z"
 }
