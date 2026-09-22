@@ -16,16 +16,6 @@
     "ninabarbakadze": [],
     "rach-id": [
       {
-        "number": 109,
-        "title": "test: cover archival-flag short-circuit in height routing",
-        "url": "https://github.com/celestiaorg/da-proxy/pull/109",
-        "repo": "da-proxy",
-        "author": "vgonkivs",
-        "authorCategory": "coworker",
-        "reviewer": "rach-id",
-        "requestedAt": "2026-09-22T15:06:14Z"
-      },
-      {
         "number": 110,
         "title": "feat: use round robin for DA node switch",
         "url": "https://github.com/celestiaorg/da-proxy/pull/110",
@@ -34,16 +24,6 @@
         "authorCategory": "coworker",
         "reviewer": "rach-id",
         "requestedAt": "2026-09-22T15:07:40Z"
-      },
-      {
-        "number": 3343,
-        "title": "fix(consensus/propagation): bound WantParts.MissingPartsCount by the bit array size",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3343",
-        "repo": "celestia-core",
-        "author": "ninabarbakadze",
-        "authorCategory": "coworker",
-        "reviewer": "rach-id",
-        "requestedAt": "2026-09-22T15:23:27Z"
       },
       {
         "number": 774,
@@ -300,5 +280,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-09-22T17:47:24.340Z"
+  "fetchedAt": "2026-09-22T17:54:03.434Z"
 }
