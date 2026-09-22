@@ -164,6 +164,16 @@
         "authorCategory": "coworker",
         "reviewer": "ninabarbakadze",
         "requestedAt": "2026-09-21T23:50:48Z"
+      },
+      {
+        "number": 3339,
+        "title": "docs: add v0.42.x to README branches and convert to a table",
+        "url": "https://github.com/celestiaorg/celestia-core/pull/3339",
+        "repo": "celestia-core",
+        "author": "rootulp",
+        "authorCategory": "coworker",
+        "reviewer": "ninabarbakadze",
+        "requestedAt": "2026-09-22T00:00:55Z"
       }
     ],
     "rach-id": [
@@ -246,6 +256,16 @@
         "authorCategory": "coworker",
         "reviewer": "rach-id",
         "requestedAt": "2026-09-21T23:50:48Z"
+      },
+      {
+        "number": 3339,
+        "title": "docs: add v0.42.x to README branches and convert to a table",
+        "url": "https://github.com/celestiaorg/celestia-core/pull/3339",
+        "repo": "celestia-core",
+        "author": "rootulp",
+        "authorCategory": "coworker",
+        "reviewer": "rach-id",
+        "requestedAt": "2026-09-22T00:00:55Z"
       }
     ],
     "renaynay": [
@@ -572,5 +592,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-09-21T23:57:04.676Z"
+  "fetchedAt": "2026-09-22T00:41:03.958Z"
 }
