@@ -232,7 +232,18 @@
         "requestedAt": "2026-09-13T09:08:08Z"
       }
     ],
-    "walldiss": []
+    "walldiss": [
+      {
+        "number": 292,
+        "title": "test: pin share and square wire format ahead of compact/sparse refactor",
+        "url": "https://github.com/celestiaorg/go-square/pull/292",
+        "repo": "go-square",
+        "author": "rootulp",
+        "authorCategory": "coworker",
+        "reviewer": "walldiss",
+        "requestedAt": "2026-09-22T18:22:55Z"
+      }
+    ]
   },
   "teamMembers": [
     {
@@ -280,5 +291,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-09-22T18:00:59.147Z"
+  "fetchedAt": "2026-09-22T18:26:37.993Z"
 }
