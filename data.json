@@ -13,18 +13,7 @@
       }
     ],
     "pippokr": [],
-    "ninabarbakadze": [
-      {
-        "number": 7909,
-        "title": "fix: bump embedded v9 binary to v9.0.8",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7909",
-        "repo": "celestia-app",
-        "author": "rach-id",
-        "authorCategory": "coworker",
-        "reviewer": "ninabarbakadze",
-        "requestedAt": "2026-09-22T15:03:42Z"
-      }
-    ],
+    "ninabarbakadze": [],
     "rach-id": [
       {
         "number": 109,
@@ -311,5 +300,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-09-22T15:46:57.856Z"
+  "fetchedAt": "2026-09-22T15:53:19.916Z"
 }
