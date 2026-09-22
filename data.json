@@ -2,6 +2,16 @@
   "reviews": {
     "chatton": [
       {
+        "number": 804,
+        "title": "cleanup: remove decommissioned rpc-archival-mocha reference",
+        "url": "https://github.com/celestiaorg/infrastructure/pull/804",
+        "repo": "infrastructure",
+        "author": "pippokr",
+        "authorCategory": "coworker",
+        "reviewer": "chatton",
+        "requestedAt": "2026-09-22T11:34:12Z"
+      },
+      {
         "number": 3338,
         "title": "fix(indexer): cap tx_search/block_search match set via max_search_results (backport #3329)",
         "url": "https://github.com/celestiaorg/celestia-core/pull/3338",
@@ -87,16 +97,6 @@
         "authorCategory": "coworker",
         "reviewer": "renaynay",
         "requestedAt": "2026-09-18T08:59:53Z"
-      },
-      {
-        "number": 7891,
-        "title": "fix(fibre): release upload storage before settlement",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7891",
-        "repo": "celestia-app",
-        "author": "walldiss",
-        "authorCategory": "coworker",
-        "reviewer": "renaynay",
-        "requestedAt": "2026-09-20T14:01:53Z"
       }
     ],
     "rootulp": [],
@@ -120,6 +120,16 @@
         "authorCategory": "coworker",
         "reviewer": "vgonkivs",
         "requestedAt": "2026-09-21T14:33:20Z"
+      },
+      {
+        "number": 804,
+        "title": "cleanup: remove decommissioned rpc-archival-mocha reference",
+        "url": "https://github.com/celestiaorg/infrastructure/pull/804",
+        "repo": "infrastructure",
+        "author": "pippokr",
+        "authorCategory": "coworker",
+        "reviewer": "vgonkivs",
+        "requestedAt": "2026-09-22T11:34:21Z"
       },
       {
         "number": 5167,
@@ -381,5 +391,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-09-22T11:29:19.948Z"
+  "fetchedAt": "2026-09-22T11:39:27.335Z"
 }
