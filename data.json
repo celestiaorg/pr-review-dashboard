@@ -253,7 +253,18 @@
         "requestedAt": "2026-09-13T09:08:08Z"
       }
     ],
-    "walldiss": []
+    "walldiss": [
+      {
+        "number": 7914,
+        "title": "perf(fibre)!: cache and parallelise PayForFibre signature verification",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/7914",
+        "repo": "celestia-app",
+        "author": "rach-id",
+        "authorCategory": "coworker",
+        "reviewer": "walldiss",
+        "requestedAt": "2026-09-22T20:16:19Z"
+      }
+    ]
   },
   "teamMembers": [
     {
@@ -301,5 +312,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-09-22T19:58:28.253Z"
+  "fetchedAt": "2026-09-22T20:17:43.173Z"
 }
