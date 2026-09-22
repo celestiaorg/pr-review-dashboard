@@ -65,6 +65,16 @@
         "authorCategory": "coworker",
         "reviewer": "rach-id",
         "requestedAt": "2026-09-22T22:02:31Z"
+      },
+      {
+        "number": 7919,
+        "title": "fix(talis): honor --config flag",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/7919",
+        "repo": "celestia-app",
+        "author": "rootulp",
+        "authorCategory": "coworker",
+        "reviewer": "rach-id",
+        "requestedAt": "2026-09-22T22:10:16Z"
       }
     ],
     "renaynay": [
@@ -311,5 +321,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-09-22T22:07:46.093Z"
+  "fetchedAt": "2026-09-22T22:21:00.447Z"
 }
