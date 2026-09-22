@@ -55,6 +55,16 @@
         "authorCategory": "coworker",
         "reviewer": "rach-id",
         "requestedAt": "2026-09-22T18:47:48Z"
+      },
+      {
+        "number": 7918,
+        "title": "fix(talis): resolve SSH public key path from TALIS_SSH_PUB_KEY_PATH",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/7918",
+        "repo": "celestia-app",
+        "author": "rootulp",
+        "authorCategory": "coworker",
+        "reviewer": "rach-id",
+        "requestedAt": "2026-09-22T22:02:31Z"
       }
     ],
     "renaynay": [
@@ -301,5 +311,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-09-22T21:55:49.973Z"
+  "fetchedAt": "2026-09-22T22:07:46.093Z"
 }
