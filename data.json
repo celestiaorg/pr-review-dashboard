@@ -44,6 +44,16 @@
         "authorCategory": "coworker",
         "reviewer": "rach-id",
         "requestedAt": "2026-09-22T15:23:27Z"
+      },
+      {
+        "number": 774,
+        "title": "fix(store)!: discard IAVL versions left by an interrupted commit on s…",
+        "url": "https://github.com/celestiaorg/cosmos-sdk/pull/774",
+        "repo": "cosmos-sdk",
+        "author": "ninabarbakadze",
+        "authorCategory": "coworker",
+        "reviewer": "rach-id",
+        "requestedAt": "2026-09-22T16:04:07Z"
       }
     ],
     "renaynay": [
@@ -68,6 +78,16 @@
         "authorCategory": "coworker",
         "reviewer": "rootulp",
         "requestedAt": "2026-09-22T15:07:20Z"
+      },
+      {
+        "number": 3344,
+        "title": "fix(consensus/propagation): reject WantParts bit arrays larger than the max part count",
+        "url": "https://github.com/celestiaorg/celestia-core/pull/3344",
+        "repo": "celestia-core",
+        "author": "ninabarbakadze",
+        "authorCategory": "coworker",
+        "reviewer": "rootulp",
+        "requestedAt": "2026-09-22T16:07:15Z"
       },
       {
         "number": 5244,
@@ -300,5 +320,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-09-22T15:59:51.753Z"
+  "fetchedAt": "2026-09-22T16:21:43.356Z"
 }
