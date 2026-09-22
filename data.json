@@ -2,16 +2,6 @@
   "reviews": {
     "chatton": [
       {
-        "number": 573,
-        "title": "chore: remove unreachable seeds from celestia/seeds.txt",
-        "url": "https://github.com/celestiaorg/networks/pull/573",
-        "repo": "networks",
-        "author": "rootulp",
-        "authorCategory": "coworker",
-        "reviewer": "chatton",
-        "requestedAt": "2026-09-21T23:44:22Z"
-      },
-      {
         "number": 3338,
         "title": "fix(indexer): cap tx_search/block_search match set via max_search_results (backport #3329)",
         "url": "https://github.com/celestiaorg/celestia-core/pull/3338",
@@ -42,16 +32,6 @@
         "authorCategory": "coworker",
         "reviewer": "pippokr",
         "requestedAt": "2026-09-20T12:33:48Z"
-      },
-      {
-        "number": 573,
-        "title": "chore: remove unreachable seeds from celestia/seeds.txt",
-        "url": "https://github.com/celestiaorg/networks/pull/573",
-        "repo": "networks",
-        "author": "rootulp",
-        "authorCategory": "coworker",
-        "reviewer": "pippokr",
-        "requestedAt": "2026-09-21T23:45:25Z"
       },
       {
         "number": 7902,
@@ -421,5 +401,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-09-22T07:02:19.394Z"
+  "fetchedAt": "2026-09-22T07:25:09.845Z"
 }
