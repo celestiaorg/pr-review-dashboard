@@ -34,16 +34,6 @@
         "requestedAt": "2026-09-20T12:33:48Z"
       },
       {
-        "number": 805,
-        "title": "fix(ansible): enable snapshots in v10.2 Mocha configs",
-        "url": "https://github.com/celestiaorg/infrastructure/pull/805",
-        "repo": "infrastructure",
-        "author": "chatton",
-        "authorCategory": "coworker",
-        "reviewer": "pippokr",
-        "requestedAt": "2026-09-22T13:45:44Z"
-      },
-      {
         "number": 7902,
         "title": "chore(deps): bump the github-actions group with 4 updates",
         "url": "https://github.com/celestiaorg/celestia-app/pull/7902",
@@ -54,8 +44,30 @@
         "requestedAt": "2026-09-21T09:36:08Z"
       }
     ],
-    "ninabarbakadze": [],
-    "rach-id": [],
+    "ninabarbakadze": [
+      {
+        "number": 448,
+        "title": "test: cover error-propagation and byzantine branches with failing fixtures",
+        "url": "https://github.com/celestiaorg/rsmt2d/pull/448",
+        "repo": "rsmt2d",
+        "author": "rootulp",
+        "authorCategory": "coworker",
+        "reviewer": "ninabarbakadze",
+        "requestedAt": "2026-09-22T14:15:27Z"
+      }
+    ],
+    "rach-id": [
+      {
+        "number": 448,
+        "title": "test: cover error-propagation and byzantine branches with failing fixtures",
+        "url": "https://github.com/celestiaorg/rsmt2d/pull/448",
+        "repo": "rsmt2d",
+        "author": "rootulp",
+        "authorCategory": "coworker",
+        "reviewer": "rach-id",
+        "requestedAt": "2026-09-22T14:15:24Z"
+      }
+    ],
     "renaynay": [
       {
         "number": 5241,
@@ -68,18 +80,7 @@
         "requestedAt": "2026-09-18T08:59:53Z"
       }
     ],
-    "rootulp": [
-      {
-        "number": 7907,
-        "title": "fix(fibre): Dedupe before verification in `UploadShard`",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7907",
-        "repo": "celestia-app",
-        "author": "theodorebugnet",
-        "authorCategory": "coworker",
-        "reviewer": "rootulp",
-        "requestedAt": "2026-09-22T13:28:17Z"
-      }
-    ],
+    "rootulp": [],
     "vgonkivs": [
       {
         "number": 7892,
@@ -361,5 +362,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-09-22T14:07:06.543Z"
+  "fetchedAt": "2026-09-22T14:24:33.508Z"
 }
