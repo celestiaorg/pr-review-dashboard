@@ -23,6 +23,16 @@
         "authorCategory": "coworker",
         "reviewer": "ninabarbakadze",
         "requestedAt": "2026-09-22T18:47:48Z"
+      },
+      {
+        "number": 293,
+        "title": "fix(share): skip leading shares with no unit start in ParseTxs",
+        "url": "https://github.com/celestiaorg/go-square/pull/293",
+        "repo": "go-square",
+        "author": "rootulp",
+        "authorCategory": "coworker",
+        "reviewer": "ninabarbakadze",
+        "requestedAt": "2026-09-22T22:22:06Z"
       }
     ],
     "rach-id": [
@@ -75,6 +85,16 @@
         "authorCategory": "coworker",
         "reviewer": "rach-id",
         "requestedAt": "2026-09-22T22:10:16Z"
+      },
+      {
+        "number": 293,
+        "title": "fix(share): skip leading shares with no unit start in ParseTxs",
+        "url": "https://github.com/celestiaorg/go-square/pull/293",
+        "repo": "go-square",
+        "author": "rootulp",
+        "authorCategory": "coworker",
+        "reviewer": "rach-id",
+        "requestedAt": "2026-09-22T22:22:06Z"
       }
     ],
     "renaynay": [
@@ -321,5 +341,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-09-22T22:21:00.447Z"
+  "fetchedAt": "2026-09-22T22:29:48.388Z"
 }
