@@ -12,18 +12,7 @@
         "requestedAt": "2026-09-21T10:24:37Z"
       }
     ],
-    "pippokr": [
-      {
-        "number": 7890,
-        "title": "feat(fibre): support TLS for app gRPC clients",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7890",
-        "repo": "celestia-app",
-        "author": "walldiss",
-        "authorCategory": "coworker",
-        "reviewer": "pippokr",
-        "requestedAt": "2026-09-20T12:33:48Z"
-      }
-    ],
+    "pippokr": [],
     "ninabarbakadze": [
       {
         "number": 7909,
@@ -56,6 +45,16 @@
         "authorCategory": "coworker",
         "reviewer": "rach-id",
         "requestedAt": "2026-09-22T15:07:40Z"
+      },
+      {
+        "number": 3343,
+        "title": "fix(consensus/propagation): bound WantParts.MissingPartsCount by the bit array size",
+        "url": "https://github.com/celestiaorg/celestia-core/pull/3343",
+        "repo": "celestia-core",
+        "author": "ninabarbakadze",
+        "authorCategory": "coworker",
+        "reviewer": "rach-id",
+        "requestedAt": "2026-09-22T15:23:27Z"
       }
     ],
     "renaynay": [
@@ -90,6 +89,46 @@
         "authorCategory": "coworker",
         "reviewer": "rootulp",
         "requestedAt": "2026-09-22T15:07:20Z"
+      },
+      {
+        "number": 7911,
+        "title": "chore: update embedded v6 and v7 releases",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/7911",
+        "repo": "celestia-app",
+        "author": "rach-id",
+        "authorCategory": "coworker",
+        "reviewer": "rootulp",
+        "requestedAt": "2026-09-22T15:29:43Z"
+      },
+      {
+        "number": 7912,
+        "title": "chore: update embedded v3, v6, and v7 releases (v10.x)",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/7912",
+        "repo": "celestia-app",
+        "author": "rach-id",
+        "authorCategory": "coworker",
+        "reviewer": "rootulp",
+        "requestedAt": "2026-09-22T15:30:01Z"
+      },
+      {
+        "number": 5244,
+        "title": "chore(deps): bump codecov/codecov-action from 7.0.0 to 7.1.1",
+        "url": "https://github.com/celestiaorg/celestia-node/pull/5244",
+        "repo": "celestia-node",
+        "author": "dependabot",
+        "authorCategory": "bot",
+        "reviewer": "rootulp",
+        "requestedAt": "2026-09-22T15:20:40Z"
+      },
+      {
+        "number": 3334,
+        "title": "build(deps): Bump google.golang.org/grpc from 1.83.2 to 1.84.0",
+        "url": "https://github.com/celestiaorg/celestia-core/pull/3334",
+        "repo": "celestia-core",
+        "author": "dependabot",
+        "authorCategory": "bot",
+        "reviewer": "rootulp",
+        "requestedAt": "2026-09-22T15:20:45Z"
       }
     ],
     "vgonkivs": [
@@ -254,38 +293,7 @@
         "requestedAt": "2026-09-13T09:08:08Z"
       }
     ],
-    "walldiss": [
-      {
-        "number": 5241,
-        "title": "perf(share/eds): pool buffered NMTs in EDS construction",
-        "url": "https://github.com/celestiaorg/celestia-node/pull/5241",
-        "repo": "celestia-node",
-        "author": "vgonkivs",
-        "authorCategory": "coworker",
-        "reviewer": "walldiss",
-        "requestedAt": "2026-09-18T08:59:53Z"
-      },
-      {
-        "number": 3334,
-        "title": "build(deps): Bump google.golang.org/grpc from 1.83.2 to 1.84.0",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3334",
-        "repo": "celestia-core",
-        "author": "dependabot",
-        "authorCategory": "bot",
-        "reviewer": "walldiss",
-        "requestedAt": "2026-09-21T09:30:15Z"
-      },
-      {
-        "number": 5244,
-        "title": "chore(deps): bump codecov/codecov-action from 7.0.0 to 7.1.1",
-        "url": "https://github.com/celestiaorg/celestia-node/pull/5244",
-        "repo": "celestia-node",
-        "author": "dependabot",
-        "authorCategory": "bot",
-        "reviewer": "walldiss",
-        "requestedAt": "2026-09-21T11:05:14Z"
-      }
-    ]
+    "walldiss": []
   },
   "teamMembers": [
     {
@@ -333,5 +341,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-09-22T15:20:36.865Z"
+  "fetchedAt": "2026-09-22T15:30:18.154Z"
 }
