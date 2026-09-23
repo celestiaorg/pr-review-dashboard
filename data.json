@@ -55,6 +55,16 @@
         "authorCategory": "coworker",
         "reviewer": "rach-id",
         "requestedAt": "2026-09-23T19:41:42Z"
+      },
+      {
+        "number": 7931,
+        "title": "fix(fibre)!: use default gas price for escrow payments",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/7931",
+        "repo": "celestia-app",
+        "author": "rootulp",
+        "authorCategory": "coworker",
+        "reviewer": "rach-id",
+        "requestedAt": "2026-09-23T20:27:58Z"
       }
     ],
     "renaynay": [
@@ -321,5 +331,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-09-23T20:20:16.747Z"
+  "fetchedAt": "2026-09-23T20:31:00.455Z"
 }
