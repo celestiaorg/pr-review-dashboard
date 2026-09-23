@@ -2,6 +2,16 @@
   "reviews": {
     "chatton": [
       {
+        "number": 808,
+        "title": "feat(ci): monthly SCW tag-compliance audit",
+        "url": "https://github.com/celestiaorg/infrastructure/pull/808",
+        "repo": "infrastructure",
+        "author": "pippokr",
+        "authorCategory": "coworker",
+        "reviewer": "chatton",
+        "requestedAt": "2026-09-23T09:59:14Z"
+      },
+      {
         "number": 3338,
         "title": "fix(indexer): cap tx_search/block_search match set via max_search_results (backport #3329)",
         "url": "https://github.com/celestiaorg/celestia-core/pull/3338",
@@ -24,16 +34,6 @@
         "authorCategory": "coworker",
         "reviewer": "rach-id",
         "requestedAt": "2026-09-22T16:04:07Z"
-      },
-      {
-        "number": 3345,
-        "title": "fix(types): bind row proof Merkle indexes to the claimed rows",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3345",
-        "repo": "celestia-core",
-        "author": "ninabarbakadze",
-        "authorCategory": "coworker",
-        "reviewer": "rach-id",
-        "requestedAt": "2026-09-23T07:49:13Z"
       }
     ],
     "renaynay": [
@@ -300,5 +300,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-09-23T09:53:34.063Z"
+  "fetchedAt": "2026-09-23T10:00:04.246Z"
 }
