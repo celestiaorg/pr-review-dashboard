@@ -10,16 +10,6 @@
         "authorCategory": "bot",
         "reviewer": "chatton",
         "requestedAt": "2026-09-21T10:24:37Z"
-      },
-      {
-        "number": 3347,
-        "title": "fix(consensus/propagation): bound WantParts.MissingPartsCount by the bit array size (backport #3343)",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3347",
-        "repo": "celestia-core",
-        "author": "mergify",
-        "authorCategory": "bot",
-        "reviewer": "chatton",
-        "requestedAt": "2026-09-23T10:37:22Z"
       }
     ],
     "pippokr": [],
@@ -289,5 +279,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-09-23T12:19:58.373Z"
+  "fetchedAt": "2026-09-23T12:41:55.294Z"
 }
