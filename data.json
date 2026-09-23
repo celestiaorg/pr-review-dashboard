@@ -37,6 +37,16 @@
         "requestedAt": "2026-09-23T04:39:16Z"
       },
       {
+        "number": 5251,
+        "title": "fix(shrex): reserve what the server holds",
+        "url": "https://github.com/celestiaorg/celestia-node/pull/5251",
+        "repo": "celestia-node",
+        "author": "vgonkivs",
+        "authorCategory": "coworker",
+        "reviewer": "renaynay",
+        "requestedAt": "2026-09-23T11:13:09Z"
+      },
+      {
         "number": 113,
         "title": "build(deps): bump go.opentelemetry.io/otel/sdk from 1.44.0 to 1.45.0 in /test/integration in the go_modules group across 1 directory",
         "url": "https://github.com/celestiaorg/da-proxy/pull/113",
@@ -279,5 +289,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-09-23T11:12:23.965Z"
+  "fetchedAt": "2026-09-23T11:25:32.272Z"
 }
