@@ -88,16 +88,6 @@
     ],
     "rach-id": [
       {
-        "number": 110,
-        "title": "feat: use round robin for DA node switch",
-        "url": "https://github.com/celestiaorg/da-proxy/pull/110",
-        "repo": "da-proxy",
-        "author": "vgonkivs",
-        "authorCategory": "coworker",
-        "reviewer": "rach-id",
-        "requestedAt": "2026-09-22T15:07:40Z"
-      },
-      {
         "number": 774,
         "title": "fix(store)!: discard IAVL versions left by an interrupted commit on s…",
         "url": "https://github.com/celestiaorg/cosmos-sdk/pull/774",
@@ -200,7 +190,18 @@
         "requestedAt": "2026-09-23T03:42:11Z"
       }
     ],
-    "rootulp": [],
+    "rootulp": [
+      {
+        "number": 7929,
+        "title": "fix: anchor the block time floor on the committed proposal timestamp",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/7929",
+        "repo": "celestia-app",
+        "author": "rach-id",
+        "authorCategory": "coworker",
+        "reviewer": "rootulp",
+        "requestedAt": "2026-09-23T06:19:11Z"
+      }
+    ],
     "vgonkivs": [
       {
         "number": 7892,
@@ -422,5 +423,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-09-23T05:56:34.982Z"
+  "fetchedAt": "2026-09-23T06:22:56.250Z"
 }
