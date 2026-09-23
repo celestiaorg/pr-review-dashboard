@@ -159,18 +159,7 @@
         "requestedAt": "2026-09-23T03:42:11Z"
       }
     ],
-    "rootulp": [
-      {
-        "number": 109,
-        "title": "test: cover archival-flag short-circuit in height routing",
-        "url": "https://github.com/celestiaorg/da-proxy/pull/109",
-        "repo": "da-proxy",
-        "author": "vgonkivs",
-        "authorCategory": "coworker",
-        "reviewer": "rootulp",
-        "requestedAt": "2026-09-23T03:39:59Z"
-      }
-    ],
+    "rootulp": [],
     "vgonkivs": [
       {
         "number": 7892,
@@ -371,5 +360,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-09-23T03:56:11.676Z"
+  "fetchedAt": "2026-09-23T04:13:34.708Z"
 }
