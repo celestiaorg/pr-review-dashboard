@@ -134,16 +134,6 @@
         "requestedAt": "2026-09-23T13:59:43Z"
       },
       {
-        "number": 451,
-        "title": "test: migrate public API tests to external package",
-        "url": "https://github.com/celestiaorg/rsmt2d/pull/451",
-        "repo": "rsmt2d",
-        "author": "rootulp",
-        "authorCategory": "coworker",
-        "reviewer": "vgonkivs",
-        "requestedAt": "2026-09-23T22:09:09Z"
-      },
-      {
         "number": 5167,
         "title": "cmd: Load configured RPC URL with explicit token",
         "url": "https://github.com/celestiaorg/celestia-node/pull/5167",
@@ -332,5 +322,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-09-23T22:35:49.926Z"
+  "fetchedAt": "2026-09-23T22:42:22.546Z"
 }
