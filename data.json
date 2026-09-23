@@ -12,18 +12,7 @@
         "requestedAt": "2026-09-21T10:24:37Z"
       }
     ],
-    "pippokr": [
-      {
-        "number": 812,
-        "title": "chore: remove environment from Check Service workflow",
-        "url": "https://github.com/celestiaorg/infrastructure/pull/812",
-        "repo": "infrastructure",
-        "author": "chatton",
-        "authorCategory": "coworker",
-        "reviewer": "pippokr",
-        "requestedAt": "2026-09-23T12:49:44Z"
-      }
-    ],
+    "pippokr": [],
     "ninabarbakadze": [
       {
         "number": 7930,
@@ -36,7 +25,38 @@
         "requestedAt": "2026-09-23T13:05:34Z"
       }
     ],
-    "rach-id": [],
+    "rach-id": [
+      {
+        "number": 3354,
+        "title": "fix(cmd/debug): create debug archives with owner-only permissions",
+        "url": "https://github.com/celestiaorg/celestia-core/pull/3354",
+        "repo": "celestia-core",
+        "author": "ninabarbakadze",
+        "authorCategory": "coworker",
+        "reviewer": "rach-id",
+        "requestedAt": "2026-09-23T13:16:26Z"
+      },
+      {
+        "number": 3353,
+        "title": "fix(types/time): require a strict majority in WeightedMedian",
+        "url": "https://github.com/celestiaorg/celestia-core/pull/3353",
+        "repo": "celestia-core",
+        "author": "ninabarbakadze",
+        "authorCategory": "coworker",
+        "reviewer": "rach-id",
+        "requestedAt": "2026-09-23T13:19:19Z"
+      },
+      {
+        "number": 3355,
+        "title": "fix(mempool/cat): guard against zero total gas in txSet aggregation",
+        "url": "https://github.com/celestiaorg/celestia-core/pull/3355",
+        "repo": "celestia-core",
+        "author": "ninabarbakadze",
+        "authorCategory": "coworker",
+        "reviewer": "rach-id",
+        "requestedAt": "2026-09-23T13:21:49Z"
+      }
+    ],
     "renaynay": [
       {
         "number": 775,
@@ -79,6 +99,26 @@
         "authorCategory": "coworker",
         "reviewer": "rootulp",
         "requestedAt": "2026-09-23T12:54:10Z"
+      },
+      {
+        "number": 3353,
+        "title": "fix(types/time): require a strict majority in WeightedMedian",
+        "url": "https://github.com/celestiaorg/celestia-core/pull/3353",
+        "repo": "celestia-core",
+        "author": "ninabarbakadze",
+        "authorCategory": "coworker",
+        "reviewer": "rootulp",
+        "requestedAt": "2026-09-23T13:19:18Z"
+      },
+      {
+        "number": 3355,
+        "title": "fix(mempool/cat): guard against zero total gas in txSet aggregation",
+        "url": "https://github.com/celestiaorg/celestia-core/pull/3355",
+        "repo": "celestia-core",
+        "author": "ninabarbakadze",
+        "authorCategory": "coworker",
+        "reviewer": "rootulp",
+        "requestedAt": "2026-09-23T13:21:48Z"
       }
     ],
     "vgonkivs": [
@@ -312,5 +352,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-09-23T13:08:54.555Z"
+  "fetchedAt": "2026-09-23T13:24:00.573Z"
 }
