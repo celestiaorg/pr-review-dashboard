@@ -33,6 +33,16 @@
         "authorCategory": "coworker",
         "reviewer": "ninabarbakadze",
         "requestedAt": "2026-09-22T22:22:06Z"
+      },
+      {
+        "number": 7924,
+        "title": "docs: remove broken README badges",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/7924",
+        "repo": "celestia-app",
+        "author": "rootulp",
+        "authorCategory": "coworker",
+        "reviewer": "ninabarbakadze",
+        "requestedAt": "2026-09-23T00:17:59Z"
       }
     ],
     "rach-id": [
@@ -341,5 +351,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-09-23T00:00:36.078Z"
+  "fetchedAt": "2026-09-23T00:52:01.594Z"
 }
