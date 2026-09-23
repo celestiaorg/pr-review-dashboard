@@ -38,16 +38,6 @@
     ],
     "renaynay": [
       {
-        "number": 5241,
-        "title": "perf(share/eds): pool buffered NMTs in EDS construction",
-        "url": "https://github.com/celestiaorg/celestia-node/pull/5241",
-        "repo": "celestia-node",
-        "author": "vgonkivs",
-        "authorCategory": "coworker",
-        "reviewer": "renaynay",
-        "requestedAt": "2026-09-18T08:59:53Z"
-      },
-      {
         "number": 775,
         "title": "chore(deps): enforce 7-day dependency cooldown",
         "url": "https://github.com/celestiaorg/cosmos-sdk/pull/775",
@@ -300,5 +290,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-09-23T10:00:04.246Z"
+  "fetchedAt": "2026-09-23T10:20:42.471Z"
 }
