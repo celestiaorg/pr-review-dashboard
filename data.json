@@ -2,6 +2,16 @@
   "reviews": {
     "chatton": [
       {
+        "number": 5249,
+        "title": "chore(deps): enforce 7-day dependency cooldown",
+        "url": "https://github.com/celestiaorg/celestia-node/pull/5249",
+        "repo": "celestia-node",
+        "author": "rootulp",
+        "authorCategory": "coworker",
+        "reviewer": "chatton",
+        "requestedAt": "2026-09-23T04:34:36Z"
+      },
+      {
         "number": 3338,
         "title": "fix(indexer): cap tx_search/block_search match set via max_search_results (backport #3329)",
         "url": "https://github.com/celestiaorg/celestia-core/pull/3338",
@@ -12,7 +22,18 @@
         "requestedAt": "2026-09-21T10:24:37Z"
       }
     ],
-    "pippokr": [],
+    "pippokr": [
+      {
+        "number": 345,
+        "title": "chore(deps): enforce 7-day dependency cooldown",
+        "url": "https://github.com/celestiaorg/nmt/pull/345",
+        "repo": "nmt",
+        "author": "rootulp",
+        "authorCategory": "coworker",
+        "reviewer": "pippokr",
+        "requestedAt": "2026-09-23T04:34:40Z"
+      }
+    ],
     "ninabarbakadze": [
       {
         "number": 292,
@@ -53,6 +74,16 @@
         "authorCategory": "coworker",
         "reviewer": "ninabarbakadze",
         "requestedAt": "2026-09-23T03:34:00Z"
+      },
+      {
+        "number": 3346,
+        "title": "chore(deps): enforce 7-day dependency cooldown",
+        "url": "https://github.com/celestiaorg/celestia-core/pull/3346",
+        "repo": "celestia-core",
+        "author": "rootulp",
+        "authorCategory": "coworker",
+        "reviewer": "ninabarbakadze",
+        "requestedAt": "2026-09-23T04:34:39Z"
       }
     ],
     "rach-id": [
@@ -149,6 +180,16 @@
         "requestedAt": "2026-09-18T08:59:53Z"
       },
       {
+        "number": 775,
+        "title": "chore(deps): enforce 7-day dependency cooldown",
+        "url": "https://github.com/celestiaorg/cosmos-sdk/pull/775",
+        "repo": "cosmos-sdk",
+        "author": "rootulp",
+        "authorCategory": "coworker",
+        "reviewer": "renaynay",
+        "requestedAt": "2026-09-23T04:39:16Z"
+      },
+      {
         "number": 113,
         "title": "build(deps): bump go.opentelemetry.io/otel/sdk from 1.44.0 to 1.45.0 in /test/integration in the go_modules group across 1 directory",
         "url": "https://github.com/celestiaorg/da-proxy/pull/113",
@@ -170,6 +211,16 @@
         "authorCategory": "coworker",
         "reviewer": "vgonkivs",
         "requestedAt": "2026-09-20T14:02:25Z"
+      },
+      {
+        "number": 7928,
+        "title": "chore(deps): enforce 7-day dependency cooldown",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/7928",
+        "repo": "celestia-app",
+        "author": "rootulp",
+        "authorCategory": "coworker",
+        "reviewer": "vgonkivs",
+        "requestedAt": "2026-09-23T04:32:19Z"
       },
       {
         "number": 5167,
@@ -312,7 +363,18 @@
         "requestedAt": "2026-09-13T09:08:08Z"
       }
     ],
-    "walldiss": []
+    "walldiss": [
+      {
+        "number": 450,
+        "title": "chore(deps): enforce 7-day dependency cooldown",
+        "url": "https://github.com/celestiaorg/rsmt2d/pull/450",
+        "repo": "rsmt2d",
+        "author": "rootulp",
+        "authorCategory": "coworker",
+        "reviewer": "walldiss",
+        "requestedAt": "2026-09-23T04:34:38Z"
+      }
+    ]
   },
   "teamMembers": [
     {
@@ -360,5 +422,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-09-23T04:32:05.097Z"
+  "fetchedAt": "2026-09-23T04:45:27.849Z"
 }
