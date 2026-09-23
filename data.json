@@ -55,6 +55,16 @@
         "authorCategory": "coworker",
         "reviewer": "rach-id",
         "requestedAt": "2026-09-23T13:21:49Z"
+      },
+      {
+        "number": 7904,
+        "title": "feat(talis): show successful PFF inclusion throughput",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/7904",
+        "repo": "celestia-app",
+        "author": "renaynay",
+        "authorCategory": "coworker",
+        "reviewer": "rach-id",
+        "requestedAt": "2026-09-23T13:32:40Z"
       }
     ],
     "renaynay": [
@@ -131,16 +141,6 @@
         "authorCategory": "coworker",
         "reviewer": "vgonkivs",
         "requestedAt": "2026-09-20T14:02:25Z"
-      },
-      {
-        "number": 7928,
-        "title": "chore(deps): enforce 7-day dependency cooldown",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7928",
-        "repo": "celestia-app",
-        "author": "rootulp",
-        "authorCategory": "coworker",
-        "reviewer": "vgonkivs",
-        "requestedAt": "2026-09-23T04:32:19Z"
       },
       {
         "number": 5250,
@@ -352,5 +352,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-09-23T13:24:00.573Z"
+  "fetchedAt": "2026-09-23T13:33:13.676Z"
 }
