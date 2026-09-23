@@ -12,6 +12,16 @@
         "requestedAt": "2026-09-23T04:34:36Z"
       },
       {
+        "number": 806,
+        "title": "docs: align agent instruction files with the AGENTS.md standard",
+        "url": "https://github.com/celestiaorg/infrastructure/pull/806",
+        "repo": "infrastructure",
+        "author": "pippokr",
+        "authorCategory": "coworker",
+        "reviewer": "chatton",
+        "requestedAt": "2026-09-23T07:59:09Z"
+      },
+      {
         "number": 3338,
         "title": "fix(indexer): cap tx_search/block_search match set via max_search_results (backport #3329)",
         "url": "https://github.com/celestiaorg/celestia-core/pull/3338",
@@ -311,5 +321,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-09-23T07:55:21.117Z"
+  "fetchedAt": "2026-09-23T08:09:47.871Z"
 }
