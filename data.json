@@ -12,9 +12,51 @@
         "requestedAt": "2026-09-21T10:24:37Z"
       }
     ],
-    "pippokr": [],
+    "pippokr": [
+      {
+        "number": 812,
+        "title": "chore: remove environment from Check Service workflow",
+        "url": "https://github.com/celestiaorg/infrastructure/pull/812",
+        "repo": "infrastructure",
+        "author": "chatton",
+        "authorCategory": "coworker",
+        "reviewer": "pippokr",
+        "requestedAt": "2026-09-23T12:49:44Z"
+      }
+    ],
     "ninabarbakadze": [],
-    "rach-id": [],
+    "rach-id": [
+      {
+        "number": 3348,
+        "title": "fix(rpc/core): cancel event write contexts per delivery instead of per subscription",
+        "url": "https://github.com/celestiaorg/celestia-core/pull/3348",
+        "repo": "celestia-core",
+        "author": "ninabarbakadze",
+        "authorCategory": "coworker",
+        "reviewer": "rach-id",
+        "requestedAt": "2026-09-23T12:50:07Z"
+      },
+      {
+        "number": 3349,
+        "title": "fix(rpc/core): enforce max query length in block_search",
+        "url": "https://github.com/celestiaorg/celestia-core/pull/3349",
+        "repo": "celestia-core",
+        "author": "ninabarbakadze",
+        "authorCategory": "coworker",
+        "reviewer": "rach-id",
+        "requestedAt": "2026-09-23T12:50:56Z"
+      },
+      {
+        "number": 3350,
+        "title": "fix(types): validate commit BlockID in Commit.ValidateBasic",
+        "url": "https://github.com/celestiaorg/celestia-core/pull/3350",
+        "repo": "celestia-core",
+        "author": "ninabarbakadze",
+        "authorCategory": "coworker",
+        "reviewer": "rach-id",
+        "requestedAt": "2026-09-23T12:51:51Z"
+      }
+    ],
     "renaynay": [
       {
         "number": 775,
@@ -47,7 +89,48 @@
         "requestedAt": "2026-09-23T03:42:11Z"
       }
     ],
-    "rootulp": [],
+    "rootulp": [
+      {
+        "number": 3348,
+        "title": "fix(rpc/core): cancel event write contexts per delivery instead of per subscription",
+        "url": "https://github.com/celestiaorg/celestia-core/pull/3348",
+        "repo": "celestia-core",
+        "author": "ninabarbakadze",
+        "authorCategory": "coworker",
+        "reviewer": "rootulp",
+        "requestedAt": "2026-09-23T12:50:07Z"
+      },
+      {
+        "number": 3349,
+        "title": "fix(rpc/core): enforce max query length in block_search",
+        "url": "https://github.com/celestiaorg/celestia-core/pull/3349",
+        "repo": "celestia-core",
+        "author": "ninabarbakadze",
+        "authorCategory": "coworker",
+        "reviewer": "rootulp",
+        "requestedAt": "2026-09-23T12:50:56Z"
+      },
+      {
+        "number": 3350,
+        "title": "fix(types): validate commit BlockID in Commit.ValidateBasic",
+        "url": "https://github.com/celestiaorg/celestia-core/pull/3350",
+        "repo": "celestia-core",
+        "author": "ninabarbakadze",
+        "authorCategory": "coworker",
+        "reviewer": "rootulp",
+        "requestedAt": "2026-09-23T12:51:51Z"
+      },
+      {
+        "number": 3351,
+        "title": "fix(types): reject duplicate validator addresses in ValidatorSetFromExistingValidators",
+        "url": "https://github.com/celestiaorg/celestia-core/pull/3351",
+        "repo": "celestia-core",
+        "author": "ninabarbakadze",
+        "authorCategory": "coworker",
+        "reviewer": "rootulp",
+        "requestedAt": "2026-09-23T12:54:10Z"
+      }
+    ],
     "vgonkivs": [
       {
         "number": 7892,
@@ -279,5 +362,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-09-23T12:41:55.294Z"
+  "fetchedAt": "2026-09-23T12:55:47.533Z"
 }
