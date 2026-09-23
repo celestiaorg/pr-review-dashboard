@@ -137,6 +137,16 @@
         "authorCategory": "coworker",
         "reviewer": "renaynay",
         "requestedAt": "2026-09-18T08:59:53Z"
+      },
+      {
+        "number": 113,
+        "title": "build(deps): bump go.opentelemetry.io/otel/sdk from 1.44.0 to 1.45.0 in /test/integration in the go_modules group across 1 directory",
+        "url": "https://github.com/celestiaorg/da-proxy/pull/113",
+        "repo": "da-proxy",
+        "author": "dependabot",
+        "authorCategory": "bot",
+        "reviewer": "renaynay",
+        "requestedAt": "2026-09-23T03:42:11Z"
       }
     ],
     "rootulp": [
@@ -149,6 +159,16 @@
         "authorCategory": "coworker",
         "reviewer": "rootulp",
         "requestedAt": "2026-09-22T15:07:20Z"
+      },
+      {
+        "number": 109,
+        "title": "test: cover archival-flag short-circuit in height routing",
+        "url": "https://github.com/celestiaorg/da-proxy/pull/109",
+        "repo": "da-proxy",
+        "author": "vgonkivs",
+        "authorCategory": "coworker",
+        "reviewer": "rootulp",
+        "requestedAt": "2026-09-23T03:39:59Z"
       }
     ],
     "vgonkivs": [
@@ -351,5 +371,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-09-23T03:39:05.698Z"
+  "fetchedAt": "2026-09-23T03:49:45.954Z"
 }
