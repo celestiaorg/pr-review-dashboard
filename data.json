@@ -64,16 +64,6 @@
         "authorCategory": "coworker",
         "reviewer": "ninabarbakadze",
         "requestedAt": "2026-09-23T03:34:00Z"
-      },
-      {
-        "number": 3346,
-        "title": "chore(deps): enforce 7-day dependency cooldown",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3346",
-        "repo": "celestia-core",
-        "author": "rootulp",
-        "authorCategory": "coworker",
-        "reviewer": "ninabarbakadze",
-        "requestedAt": "2026-09-23T04:34:39Z"
       }
     ],
     "rach-id": [
@@ -342,5 +332,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-09-23T06:47:55.979Z"
+  "fetchedAt": "2026-09-23T07:02:08.245Z"
 }
