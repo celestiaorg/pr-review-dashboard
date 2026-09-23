@@ -2,16 +2,6 @@
   "reviews": {
     "chatton": [
       {
-        "number": 5249,
-        "title": "chore(deps): enforce 7-day dependency cooldown",
-        "url": "https://github.com/celestiaorg/celestia-node/pull/5249",
-        "repo": "celestia-node",
-        "author": "rootulp",
-        "authorCategory": "coworker",
-        "reviewer": "chatton",
-        "requestedAt": "2026-09-23T04:34:36Z"
-      },
-      {
         "number": 806,
         "title": "docs: align agent instruction files with the AGENTS.md standard",
         "url": "https://github.com/celestiaorg/infrastructure/pull/806",
@@ -32,18 +22,7 @@
         "requestedAt": "2026-09-21T10:24:37Z"
       }
     ],
-    "pippokr": [
-      {
-        "number": 345,
-        "title": "chore(deps): enforce 7-day dependency cooldown",
-        "url": "https://github.com/celestiaorg/nmt/pull/345",
-        "repo": "nmt",
-        "author": "rootulp",
-        "authorCategory": "coworker",
-        "reviewer": "pippokr",
-        "requestedAt": "2026-09-23T04:34:40Z"
-      }
-    ],
+    "pippokr": [],
     "ninabarbakadze": [],
     "rach-id": [
       {
@@ -120,6 +99,16 @@
         "authorCategory": "coworker",
         "reviewer": "vgonkivs",
         "requestedAt": "2026-09-23T04:32:19Z"
+      },
+      {
+        "number": 5250,
+        "title": "chore(deps): bump github.com/celestiaorg/celestia-app/v9 from 9.0.6 to 9.0.8 in the go-deps group across 1 directory",
+        "url": "https://github.com/celestiaorg/celestia-node/pull/5250",
+        "repo": "celestia-node",
+        "author": "dependabot",
+        "authorCategory": "bot",
+        "reviewer": "vgonkivs",
+        "requestedAt": "2026-09-23T08:29:34Z"
       },
       {
         "number": 5167,
@@ -321,5 +310,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-09-23T08:09:47.871Z"
+  "fetchedAt": "2026-09-23T08:31:59.814Z"
 }
