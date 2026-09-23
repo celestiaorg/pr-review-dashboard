@@ -2,6 +2,16 @@
   "reviews": {
     "chatton": [
       {
+        "number": 3363,
+        "title": "docs(rpc/core): document broadcast_evidence decode cost tradeoff",
+        "url": "https://github.com/celestiaorg/celestia-core/pull/3363",
+        "repo": "celestia-core",
+        "author": "ninabarbakadze",
+        "authorCategory": "coworker",
+        "reviewer": "chatton",
+        "requestedAt": "2026-09-23T14:00:06Z"
+      },
+      {
         "number": 3338,
         "title": "fix(indexer): cap tx_search/block_search match set via max_search_results (backport #3329)",
         "url": "https://github.com/celestiaorg/celestia-core/pull/3338",
@@ -12,7 +22,18 @@
         "requestedAt": "2026-09-21T10:24:37Z"
       }
     ],
-    "pippokr": [],
+    "pippokr": [
+      {
+        "number": 3361,
+        "title": "docs(p2p): document partial-message retention in recvPacketMsg",
+        "url": "https://github.com/celestiaorg/celestia-core/pull/3361",
+        "repo": "celestia-core",
+        "author": "ninabarbakadze",
+        "authorCategory": "coworker",
+        "reviewer": "pippokr",
+        "requestedAt": "2026-09-23T14:02:00Z"
+      }
+    ],
     "ninabarbakadze": [
       {
         "number": 7930,
@@ -35,38 +56,18 @@
         "authorCategory": "coworker",
         "reviewer": "rach-id",
         "requestedAt": "2026-09-23T13:21:49Z"
-      },
-      {
-        "number": 7904,
-        "title": "feat(talis): show successful PFF inclusion throughput",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7904",
-        "repo": "celestia-app",
-        "author": "renaynay",
-        "authorCategory": "coworker",
-        "reviewer": "rach-id",
-        "requestedAt": "2026-09-23T13:32:40Z"
       }
     ],
     "renaynay": [
       {
-        "number": 775,
-        "title": "chore(deps): enforce 7-day dependency cooldown",
-        "url": "https://github.com/celestiaorg/cosmos-sdk/pull/775",
-        "repo": "cosmos-sdk",
-        "author": "rootulp",
+        "number": 3360,
+        "title": "docs(statesync): document why chunk responses are not peer-bound",
+        "url": "https://github.com/celestiaorg/celestia-core/pull/3360",
+        "repo": "celestia-core",
+        "author": "ninabarbakadze",
         "authorCategory": "coworker",
         "reviewer": "renaynay",
-        "requestedAt": "2026-09-23T04:39:16Z"
-      },
-      {
-        "number": 5251,
-        "title": "fix(shrex): reserve what the server holds",
-        "url": "https://github.com/celestiaorg/celestia-node/pull/5251",
-        "repo": "celestia-node",
-        "author": "vgonkivs",
-        "authorCategory": "coworker",
-        "reviewer": "renaynay",
-        "requestedAt": "2026-09-23T11:13:09Z"
+        "requestedAt": "2026-09-23T14:02:57Z"
       },
       {
         "number": 113,
@@ -80,16 +81,6 @@
       }
     ],
     "rootulp": [
-      {
-        "number": 3351,
-        "title": "fix(types): reject duplicate validator addresses in ValidatorSetFromExistingValidators",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3351",
-        "repo": "celestia-core",
-        "author": "ninabarbakadze",
-        "authorCategory": "coworker",
-        "reviewer": "rootulp",
-        "requestedAt": "2026-09-23T12:54:10Z"
-      },
       {
         "number": 3353,
         "title": "fix(types/time): require a strict majority in WeightedMedian",
@@ -119,6 +110,16 @@
         "authorCategory": "coworker",
         "reviewer": "rootulp",
         "requestedAt": "2026-09-23T13:35:09Z"
+      },
+      {
+        "number": 3317,
+        "title": "feat: add TLS to privval gRPC",
+        "url": "https://github.com/celestiaorg/celestia-core/pull/3317",
+        "repo": "celestia-core",
+        "author": "ninabarbakadze",
+        "authorCategory": "coworker",
+        "reviewer": "rootulp",
+        "requestedAt": "2026-09-23T14:02:15Z"
       }
     ],
     "vgonkivs": [
@@ -131,6 +132,16 @@
         "authorCategory": "coworker",
         "reviewer": "vgonkivs",
         "requestedAt": "2026-09-20T14:02:25Z"
+      },
+      {
+        "number": 3364,
+        "title": "docs(rpc/core): document data root tuple proof allocation tradeoff",
+        "url": "https://github.com/celestiaorg/celestia-core/pull/3364",
+        "repo": "celestia-core",
+        "author": "ninabarbakadze",
+        "authorCategory": "coworker",
+        "reviewer": "vgonkivs",
+        "requestedAt": "2026-09-23T13:59:43Z"
       },
       {
         "number": 5250,
@@ -342,5 +353,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-09-23T13:56:39.272Z"
+  "fetchedAt": "2026-09-23T14:13:44.709Z"
 }
