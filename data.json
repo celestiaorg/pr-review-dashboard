@@ -46,16 +46,6 @@
         "requestedAt": "2026-09-22T18:47:48Z"
       },
       {
-        "number": 293,
-        "title": "fix(share): skip leading shares with no unit start in ParseTxs",
-        "url": "https://github.com/celestiaorg/go-square/pull/293",
-        "repo": "go-square",
-        "author": "rootulp",
-        "authorCategory": "coworker",
-        "reviewer": "ninabarbakadze",
-        "requestedAt": "2026-09-22T22:22:06Z"
-      },
-      {
         "number": 7924,
         "title": "docs: remove broken README badges",
         "url": "https://github.com/celestiaorg/celestia-app/pull/7924",
@@ -96,66 +86,6 @@
         "authorCategory": "coworker",
         "reviewer": "rach-id",
         "requestedAt": "2026-09-22T16:04:07Z"
-      },
-      {
-        "number": 292,
-        "title": "test: pin share and square wire format ahead of compact/sparse refactor",
-        "url": "https://github.com/celestiaorg/go-square/pull/292",
-        "repo": "go-square",
-        "author": "rootulp",
-        "authorCategory": "coworker",
-        "reviewer": "rach-id",
-        "requestedAt": "2026-09-22T18:47:48Z"
-      },
-      {
-        "number": 7918,
-        "title": "fix(talis): resolve SSH public key path from TALIS_SSH_PUB_KEY_PATH",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7918",
-        "repo": "celestia-app",
-        "author": "rootulp",
-        "authorCategory": "coworker",
-        "reviewer": "rach-id",
-        "requestedAt": "2026-09-22T22:02:31Z"
-      },
-      {
-        "number": 7919,
-        "title": "fix(talis): honor --config flag",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7919",
-        "repo": "celestia-app",
-        "author": "rootulp",
-        "authorCategory": "coworker",
-        "reviewer": "rach-id",
-        "requestedAt": "2026-09-22T22:10:16Z"
-      },
-      {
-        "number": 293,
-        "title": "fix(share): skip leading shares with no unit start in ParseTxs",
-        "url": "https://github.com/celestiaorg/go-square/pull/293",
-        "repo": "go-square",
-        "author": "rootulp",
-        "authorCategory": "coworker",
-        "reviewer": "rach-id",
-        "requestedAt": "2026-09-22T22:22:06Z"
-      },
-      {
-        "number": 7925,
-        "title": "docs: update agent instructions for current model guidance",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7925",
-        "repo": "celestia-app",
-        "author": "rootulp",
-        "authorCategory": "coworker",
-        "reviewer": "rach-id",
-        "requestedAt": "2026-09-23T03:34:00Z"
-      },
-      {
-        "number": 449,
-        "title": "docs: clarify codecs are erasure-only",
-        "url": "https://github.com/celestiaorg/rsmt2d/pull/449",
-        "repo": "rsmt2d",
-        "author": "rootulp",
-        "authorCategory": "coworker",
-        "reviewer": "rach-id",
-        "requestedAt": "2026-09-23T03:54:29Z"
       }
     ],
     "renaynay": [
@@ -190,18 +120,7 @@
         "requestedAt": "2026-09-23T03:42:11Z"
       }
     ],
-    "rootulp": [
-      {
-        "number": 7929,
-        "title": "fix: anchor the block time floor on the committed proposal timestamp",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7929",
-        "repo": "celestia-app",
-        "author": "rach-id",
-        "authorCategory": "coworker",
-        "reviewer": "rootulp",
-        "requestedAt": "2026-09-23T06:19:11Z"
-      }
-    ],
+    "rootulp": [],
     "vgonkivs": [
       {
         "number": 7892,
@@ -423,5 +342,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-09-23T06:22:56.250Z"
+  "fetchedAt": "2026-09-23T06:47:55.979Z"
 }
