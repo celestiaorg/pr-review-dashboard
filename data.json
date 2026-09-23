@@ -1,17 +1,6 @@
 {
   "reviews": {
-    "chatton": [
-      {
-        "number": 3338,
-        "title": "fix(indexer): cap tx_search/block_search match set via max_search_results (backport #3329)",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3338",
-        "repo": "celestia-core",
-        "author": "mergify",
-        "authorCategory": "bot",
-        "reviewer": "chatton",
-        "requestedAt": "2026-09-21T10:24:37Z"
-      }
-    ],
+    "chatton": [],
     "pippokr": [
       {
         "number": 3361,
@@ -333,5 +322,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-09-23T14:29:45.706Z"
+  "fetchedAt": "2026-09-23T14:42:44.292Z"
 }
