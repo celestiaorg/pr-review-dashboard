@@ -103,16 +103,6 @@
         "requestedAt": "2026-09-23T13:59:43Z"
       },
       {
-        "number": 452,
-        "title": "test: cover public API copy and repair contracts",
-        "url": "https://github.com/celestiaorg/rsmt2d/pull/452",
-        "repo": "rsmt2d",
-        "author": "rootulp",
-        "authorCategory": "coworker",
-        "reviewer": "vgonkivs",
-        "requestedAt": "2026-09-23T22:51:44Z"
-      },
-      {
         "number": 450,
         "title": "chore(deps): enforce 7-day dependency cooldown",
         "url": "https://github.com/celestiaorg/rsmt2d/pull/450",
@@ -311,5 +301,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-09-23T22:56:14.505Z"
+  "fetchedAt": "2026-09-23T23:09:01.099Z"
 }
