@@ -24,39 +24,19 @@
         "requestedAt": "2026-09-23T12:49:44Z"
       }
     ],
-    "ninabarbakadze": [],
-    "rach-id": [
+    "ninabarbakadze": [
       {
-        "number": 3348,
-        "title": "fix(rpc/core): cancel event write contexts per delivery instead of per subscription",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3348",
-        "repo": "celestia-core",
-        "author": "ninabarbakadze",
+        "number": 7930,
+        "title": "fix(fibre): use correct OTLP HTTP export paths",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/7930",
+        "repo": "celestia-app",
+        "author": "renaynay",
         "authorCategory": "coworker",
-        "reviewer": "rach-id",
-        "requestedAt": "2026-09-23T12:50:07Z"
-      },
-      {
-        "number": 3349,
-        "title": "fix(rpc/core): enforce max query length in block_search",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3349",
-        "repo": "celestia-core",
-        "author": "ninabarbakadze",
-        "authorCategory": "coworker",
-        "reviewer": "rach-id",
-        "requestedAt": "2026-09-23T12:50:56Z"
-      },
-      {
-        "number": 3350,
-        "title": "fix(types): validate commit BlockID in Commit.ValidateBasic",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3350",
-        "repo": "celestia-core",
-        "author": "ninabarbakadze",
-        "authorCategory": "coworker",
-        "reviewer": "rach-id",
-        "requestedAt": "2026-09-23T12:51:51Z"
+        "reviewer": "ninabarbakadze",
+        "requestedAt": "2026-09-23T13:05:34Z"
       }
     ],
+    "rach-id": [],
     "renaynay": [
       {
         "number": 775,
@@ -90,36 +70,6 @@
       }
     ],
     "rootulp": [
-      {
-        "number": 3348,
-        "title": "fix(rpc/core): cancel event write contexts per delivery instead of per subscription",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3348",
-        "repo": "celestia-core",
-        "author": "ninabarbakadze",
-        "authorCategory": "coworker",
-        "reviewer": "rootulp",
-        "requestedAt": "2026-09-23T12:50:07Z"
-      },
-      {
-        "number": 3349,
-        "title": "fix(rpc/core): enforce max query length in block_search",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3349",
-        "repo": "celestia-core",
-        "author": "ninabarbakadze",
-        "authorCategory": "coworker",
-        "reviewer": "rootulp",
-        "requestedAt": "2026-09-23T12:50:56Z"
-      },
-      {
-        "number": 3350,
-        "title": "fix(types): validate commit BlockID in Commit.ValidateBasic",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3350",
-        "repo": "celestia-core",
-        "author": "ninabarbakadze",
-        "authorCategory": "coworker",
-        "reviewer": "rootulp",
-        "requestedAt": "2026-09-23T12:51:51Z"
-      },
       {
         "number": 3351,
         "title": "fix(types): reject duplicate validator addresses in ValidatorSetFromExistingValidators",
@@ -362,5 +312,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-09-23T12:55:47.533Z"
+  "fetchedAt": "2026-09-23T13:08:54.555Z"
 }
