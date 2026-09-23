@@ -125,6 +125,16 @@
         "authorCategory": "coworker",
         "reviewer": "rach-id",
         "requestedAt": "2026-09-23T03:34:00Z"
+      },
+      {
+        "number": 449,
+        "title": "docs: clarify codecs are erasure-only",
+        "url": "https://github.com/celestiaorg/rsmt2d/pull/449",
+        "repo": "rsmt2d",
+        "author": "rootulp",
+        "authorCategory": "coworker",
+        "reviewer": "rach-id",
+        "requestedAt": "2026-09-23T03:54:29Z"
       }
     ],
     "renaynay": [
@@ -150,16 +160,6 @@
       }
     ],
     "rootulp": [
-      {
-        "number": 110,
-        "title": "feat: use round robin for DA node switch",
-        "url": "https://github.com/celestiaorg/da-proxy/pull/110",
-        "repo": "da-proxy",
-        "author": "vgonkivs",
-        "authorCategory": "coworker",
-        "reviewer": "rootulp",
-        "requestedAt": "2026-09-22T15:07:20Z"
-      },
       {
         "number": 109,
         "title": "test: cover archival-flag short-circuit in height routing",
@@ -371,5 +371,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-09-23T03:49:45.954Z"
+  "fetchedAt": "2026-09-23T03:56:11.676Z"
 }
