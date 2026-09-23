@@ -27,26 +27,6 @@
     ],
     "rach-id": [
       {
-        "number": 3354,
-        "title": "fix(cmd/debug): create debug archives with owner-only permissions",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3354",
-        "repo": "celestia-core",
-        "author": "ninabarbakadze",
-        "authorCategory": "coworker",
-        "reviewer": "rach-id",
-        "requestedAt": "2026-09-23T13:16:26Z"
-      },
-      {
-        "number": 3353,
-        "title": "fix(types/time): require a strict majority in WeightedMedian",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3353",
-        "repo": "celestia-core",
-        "author": "ninabarbakadze",
-        "authorCategory": "coworker",
-        "reviewer": "rach-id",
-        "requestedAt": "2026-09-23T13:19:19Z"
-      },
-      {
         "number": 3355,
         "title": "fix(mempool/cat): guard against zero total gas in txSet aggregation",
         "url": "https://github.com/celestiaorg/celestia-core/pull/3355",
@@ -362,5 +342,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-09-23T13:50:13.538Z"
+  "fetchedAt": "2026-09-23T13:56:39.272Z"
 }
