@@ -24,18 +24,7 @@
     ],
     "pippokr": [],
     "ninabarbakadze": [],
-    "rach-id": [
-      {
-        "number": 774,
-        "title": "fix(store)!: discard IAVL versions left by an interrupted commit on s…",
-        "url": "https://github.com/celestiaorg/cosmos-sdk/pull/774",
-        "repo": "cosmos-sdk",
-        "author": "ninabarbakadze",
-        "authorCategory": "coworker",
-        "reviewer": "rach-id",
-        "requestedAt": "2026-09-22T16:04:07Z"
-      }
-    ],
+    "rach-id": [],
     "renaynay": [
       {
         "number": 775,
@@ -290,5 +279,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-09-23T10:42:47.842Z"
+  "fetchedAt": "2026-09-23T10:50:12.770Z"
 }
