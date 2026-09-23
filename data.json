@@ -2,16 +2,6 @@
   "reviews": {
     "chatton": [
       {
-        "number": 3363,
-        "title": "docs(rpc/core): document broadcast_evidence decode cost tradeoff",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3363",
-        "repo": "celestia-core",
-        "author": "ninabarbakadze",
-        "authorCategory": "coworker",
-        "reviewer": "chatton",
-        "requestedAt": "2026-09-23T14:00:06Z"
-      },
-      {
         "number": 3338,
         "title": "fix(indexer): cap tx_search/block_search match set via max_search_results (backport #3329)",
         "url": "https://github.com/celestiaorg/celestia-core/pull/3338",
@@ -81,16 +71,6 @@
       }
     ],
     "rootulp": [
-      {
-        "number": 3353,
-        "title": "fix(types/time): require a strict majority in WeightedMedian",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3353",
-        "repo": "celestia-core",
-        "author": "ninabarbakadze",
-        "authorCategory": "coworker",
-        "reviewer": "rootulp",
-        "requestedAt": "2026-09-23T13:19:18Z"
-      },
       {
         "number": 3355,
         "title": "fix(mempool/cat): guard against zero total gas in txSet aggregation",
@@ -353,5 +333,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-09-23T14:13:44.709Z"
+  "fetchedAt": "2026-09-23T14:29:45.706Z"
 }
