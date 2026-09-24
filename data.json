@@ -43,6 +43,16 @@
         "authorCategory": "coworker",
         "reviewer": "ninabarbakadze",
         "requestedAt": "2026-09-24T03:36:01Z"
+      },
+      {
+        "number": 3367,
+        "title": "fix(statesync): clarify snapshot discovery retry log",
+        "url": "https://github.com/celestiaorg/celestia-core/pull/3367",
+        "repo": "celestia-core",
+        "author": "rootulp",
+        "authorCategory": "coworker",
+        "reviewer": "ninabarbakadze",
+        "requestedAt": "2026-09-24T03:48:58Z"
       }
     ],
     "rach-id": [
@@ -85,6 +95,16 @@
         "authorCategory": "coworker",
         "reviewer": "rach-id",
         "requestedAt": "2026-09-24T03:36:01Z"
+      },
+      {
+        "number": 3368,
+        "title": "ci: check Go module tidiness",
+        "url": "https://github.com/celestiaorg/celestia-core/pull/3368",
+        "repo": "celestia-core",
+        "author": "rootulp",
+        "authorCategory": "coworker",
+        "reviewer": "rach-id",
+        "requestedAt": "2026-09-24T03:49:17Z"
       }
     ],
     "renaynay": [
@@ -97,6 +117,16 @@
         "authorCategory": "coworker",
         "reviewer": "renaynay",
         "requestedAt": "2026-09-23T14:02:57Z"
+      },
+      {
+        "number": 3366,
+        "title": "test(evidence): allow gossip assertions to wait for rebroadcast",
+        "url": "https://github.com/celestiaorg/celestia-core/pull/3366",
+        "repo": "celestia-core",
+        "author": "rootulp",
+        "authorCategory": "coworker",
+        "reviewer": "renaynay",
+        "requestedAt": "2026-09-24T03:47:18Z"
       },
       {
         "number": 113,
@@ -330,5 +360,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-09-24T03:43:26.674Z"
+  "fetchedAt": "2026-09-24T03:51:50.520Z"
 }
