@@ -1,17 +1,6 @@
 {
   "reviews": {
-    "chatton": [
-      {
-        "number": 7933,
-        "title": "test: fuzz CheckTx and PrepareProposal consistency",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7933",
-        "repo": "celestia-app",
-        "author": "rootulp",
-        "authorCategory": "coworker",
-        "reviewer": "chatton",
-        "requestedAt": "2026-09-24T03:55:10Z"
-      }
-    ],
+    "chatton": [],
     "pippokr": [
       {
         "number": 3361,
@@ -64,6 +53,36 @@
         "authorCategory": "coworker",
         "reviewer": "ninabarbakadze",
         "requestedAt": "2026-09-24T03:48:58Z"
+      },
+      {
+        "number": 7935,
+        "title": "test: cover Info app version consistency",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/7935",
+        "repo": "celestia-app",
+        "author": "rootulp",
+        "authorCategory": "coworker",
+        "reviewer": "ninabarbakadze",
+        "requestedAt": "2026-09-24T04:08:31Z"
+      },
+      {
+        "number": 7934,
+        "title": "fix: require gRPC when REST API is enabled",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/7934",
+        "repo": "celestia-app",
+        "author": "rootulp",
+        "authorCategory": "coworker",
+        "reviewer": "ninabarbakadze",
+        "requestedAt": "2026-09-24T04:08:49Z"
+      },
+      {
+        "number": 7933,
+        "title": "test: fuzz CheckTx and PrepareProposal consistency",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/7933",
+        "repo": "celestia-app",
+        "author": "rootulp",
+        "authorCategory": "coworker",
+        "reviewer": "ninabarbakadze",
+        "requestedAt": "2026-09-24T04:09:50Z"
       }
     ],
     "rach-id": [
@@ -371,5 +390,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-09-24T03:58:26.445Z"
+  "fetchedAt": "2026-09-24T04:23:25.094Z"
 }
