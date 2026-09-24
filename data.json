@@ -1,6 +1,17 @@
 {
   "reviews": {
-    "chatton": [],
+    "chatton": [
+      {
+        "number": 7933,
+        "title": "test: fuzz CheckTx and PrepareProposal consistency",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/7933",
+        "repo": "celestia-app",
+        "author": "rootulp",
+        "authorCategory": "coworker",
+        "reviewer": "chatton",
+        "requestedAt": "2026-09-24T03:55:10Z"
+      }
+    ],
     "pippokr": [
       {
         "number": 3361,
@@ -105,6 +116,16 @@
         "authorCategory": "coworker",
         "reviewer": "rach-id",
         "requestedAt": "2026-09-24T03:49:17Z"
+      },
+      {
+        "number": 3366,
+        "title": "test(evidence): allow gossip assertions to wait for rebroadcast",
+        "url": "https://github.com/celestiaorg/celestia-core/pull/3366",
+        "repo": "celestia-core",
+        "author": "rootulp",
+        "authorCategory": "coworker",
+        "reviewer": "rach-id",
+        "requestedAt": "2026-09-24T03:54:19Z"
       }
     ],
     "renaynay": [
@@ -117,16 +138,6 @@
         "authorCategory": "coworker",
         "reviewer": "renaynay",
         "requestedAt": "2026-09-23T14:02:57Z"
-      },
-      {
-        "number": 3366,
-        "title": "test(evidence): allow gossip assertions to wait for rebroadcast",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3366",
-        "repo": "celestia-core",
-        "author": "rootulp",
-        "authorCategory": "coworker",
-        "reviewer": "renaynay",
-        "requestedAt": "2026-09-24T03:47:18Z"
       },
       {
         "number": 113,
@@ -360,5 +371,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-09-24T03:51:50.520Z"
+  "fetchedAt": "2026-09-24T03:58:26.445Z"
 }
