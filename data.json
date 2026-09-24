@@ -12,7 +12,18 @@
         "requestedAt": "2026-09-24T13:41:28Z"
       }
     ],
-    "pippokr": [],
+    "pippokr": [
+      {
+        "number": 7941,
+        "title": "fix: update Corto genesis checksum (v10.x)",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/7941",
+        "repo": "celestia-app",
+        "author": "rach-id",
+        "authorCategory": "coworker",
+        "reviewer": "pippokr",
+        "requestedAt": "2026-09-24T13:45:36Z"
+      }
+    ],
     "ninabarbakadze": [
       {
         "number": 7930,
@@ -98,6 +109,16 @@
         "authorCategory": "coworker",
         "reviewer": "rootulp",
         "requestedAt": "2026-09-24T12:37:34Z"
+      },
+      {
+        "number": 5253,
+        "title": "test(tastora): add fresh light node canary for Mainnet and Mocha",
+        "url": "https://github.com/celestiaorg/celestia-node/pull/5253",
+        "repo": "celestia-node",
+        "author": "Denend",
+        "authorCategory": "external",
+        "reviewer": "rootulp",
+        "requestedAt": "2026-09-24T13:50:17Z"
       }
     ],
     "vgonkivs": [
@@ -240,19 +261,20 @@
         "authorCategory": "external",
         "reviewer": "vgonkivs",
         "requestedAt": "2026-09-13T09:08:08Z"
-      },
-      {
-        "number": 5253,
-        "title": "test(tastora): add fresh light node canary for Mainnet and Mocha",
-        "url": "https://github.com/celestiaorg/celestia-node/pull/5253",
-        "repo": "celestia-node",
-        "author": "Denend",
-        "authorCategory": "external",
-        "reviewer": "vgonkivs",
-        "requestedAt": "2026-09-24T12:51:45Z"
       }
     ],
-    "walldiss": []
+    "walldiss": [
+      {
+        "number": 7940,
+        "title": "fix: update Corto genesis checksum",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/7940",
+        "repo": "celestia-app",
+        "author": "rach-id",
+        "authorCategory": "coworker",
+        "reviewer": "walldiss",
+        "requestedAt": "2026-09-24T13:45:03Z"
+      }
+    ]
   },
   "teamMembers": [
     {
@@ -300,5 +322,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-09-24T13:43:13.363Z"
+  "fetchedAt": "2026-09-24T13:50:48.563Z"
 }
