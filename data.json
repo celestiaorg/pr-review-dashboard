@@ -54,7 +54,18 @@
         "requestedAt": "2026-09-24T04:09:50Z"
       }
     ],
-    "rach-id": [],
+    "rach-id": [
+      {
+        "number": 7938,
+        "title": "fix(fibre): retain cached connections during active requests",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/7938",
+        "repo": "celestia-app",
+        "author": "renaynay",
+        "authorCategory": "coworker",
+        "reviewer": "rach-id",
+        "requestedAt": "2026-09-24T11:16:57Z"
+      }
+    ],
     "renaynay": [
       {
         "number": 113,
@@ -279,5 +290,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-09-24T11:14:43.778Z"
+  "fetchedAt": "2026-09-24T11:27:51.663Z"
 }
