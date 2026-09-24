@@ -34,28 +34,7 @@
         "requestedAt": "2026-09-24T04:09:50Z"
       }
     ],
-    "rach-id": [
-      {
-        "number": 3355,
-        "title": "fix(mempool/cat): guard against zero total gas in txSet aggregation",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3355",
-        "repo": "celestia-core",
-        "author": "ninabarbakadze",
-        "authorCategory": "coworker",
-        "reviewer": "rach-id",
-        "requestedAt": "2026-09-23T13:21:49Z"
-      },
-      {
-        "number": 3356,
-        "title": "fix(rpc/jsonrpc): cap JSON-RPC client response body size",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3356",
-        "repo": "celestia-core",
-        "author": "ninabarbakadze",
-        "authorCategory": "coworker",
-        "reviewer": "rach-id",
-        "requestedAt": "2026-09-24T12:37:34Z"
-      }
-    ],
+    "rach-id": [],
     "renaynay": [
       {
         "number": 5252,
@@ -240,6 +219,16 @@
         "authorCategory": "external",
         "reviewer": "vgonkivs",
         "requestedAt": "2026-09-13T09:08:08Z"
+      },
+      {
+        "number": 5253,
+        "title": "test(tastora): add fresh light node canary for Mainnet and Mocha",
+        "url": "https://github.com/celestiaorg/celestia-node/pull/5253",
+        "repo": "celestia-node",
+        "author": "Denend",
+        "authorCategory": "external",
+        "reviewer": "vgonkivs",
+        "requestedAt": "2026-09-24T12:51:45Z"
       }
     ],
     "walldiss": []
@@ -290,5 +279,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-09-24T12:49:59.742Z"
+  "fetchedAt": "2026-09-24T12:58:36.900Z"
 }
