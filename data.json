@@ -24,26 +24,6 @@
         "requestedAt": "2026-09-24T03:13:51Z"
       },
       {
-        "number": 7935,
-        "title": "test: cover Info app version consistency",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7935",
-        "repo": "celestia-app",
-        "author": "rootulp",
-        "authorCategory": "coworker",
-        "reviewer": "ninabarbakadze",
-        "requestedAt": "2026-09-24T04:08:31Z"
-      },
-      {
-        "number": 7934,
-        "title": "fix: require gRPC when REST API is enabled",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7934",
-        "repo": "celestia-app",
-        "author": "rootulp",
-        "authorCategory": "coworker",
-        "reviewer": "ninabarbakadze",
-        "requestedAt": "2026-09-24T04:08:49Z"
-      },
-      {
         "number": 7933,
         "title": "test: fuzz CheckTx and PrepareProposal consistency",
         "url": "https://github.com/celestiaorg/celestia-app/pull/7933",
@@ -56,17 +36,37 @@
     ],
     "rach-id": [
       {
-        "number": 3364,
-        "title": "docs(rpc/core): document data root tuple proof allocation tradeoff",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3364",
+        "number": 3355,
+        "title": "fix(mempool/cat): guard against zero total gas in txSet aggregation",
+        "url": "https://github.com/celestiaorg/celestia-core/pull/3355",
         "repo": "celestia-core",
         "author": "ninabarbakadze",
         "authorCategory": "coworker",
         "reviewer": "rach-id",
-        "requestedAt": "2026-09-24T12:14:32Z"
+        "requestedAt": "2026-09-23T13:21:49Z"
+      },
+      {
+        "number": 3356,
+        "title": "fix(rpc/jsonrpc): cap JSON-RPC client response body size",
+        "url": "https://github.com/celestiaorg/celestia-core/pull/3356",
+        "repo": "celestia-core",
+        "author": "ninabarbakadze",
+        "authorCategory": "coworker",
+        "reviewer": "rach-id",
+        "requestedAt": "2026-09-24T12:37:34Z"
       }
     ],
     "renaynay": [
+      {
+        "number": 5252,
+        "title": "chore: remove celestia-app v9 dependency",
+        "url": "https://github.com/celestiaorg/celestia-node/pull/5252",
+        "repo": "celestia-node",
+        "author": "vgonkivs",
+        "authorCategory": "coworker",
+        "reviewer": "renaynay",
+        "requestedAt": "2026-09-24T12:36:58Z"
+      },
       {
         "number": 113,
         "title": "build(deps): bump go.opentelemetry.io/otel/sdk from 1.44.0 to 1.45.0 in /test/integration in the go_modules group across 1 directory",
@@ -88,19 +88,19 @@
         "authorCategory": "coworker",
         "reviewer": "rootulp",
         "requestedAt": "2026-09-24T10:37:17Z"
-      }
-    ],
-    "vgonkivs": [
+      },
       {
-        "number": 3364,
-        "title": "docs(rpc/core): document data root tuple proof allocation tradeoff",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3364",
+        "number": 3356,
+        "title": "fix(rpc/jsonrpc): cap JSON-RPC client response body size",
+        "url": "https://github.com/celestiaorg/celestia-core/pull/3356",
         "repo": "celestia-core",
         "author": "ninabarbakadze",
         "authorCategory": "coworker",
-        "reviewer": "vgonkivs",
-        "requestedAt": "2026-09-23T13:59:43Z"
-      },
+        "reviewer": "rootulp",
+        "requestedAt": "2026-09-24T12:37:34Z"
+      }
+    ],
+    "vgonkivs": [
       {
         "number": 5167,
         "title": "cmd: Load configured RPC URL with explicit token",
@@ -290,5 +290,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-09-24T12:29:51.225Z"
+  "fetchedAt": "2026-09-24T12:49:59.742Z"
 }
