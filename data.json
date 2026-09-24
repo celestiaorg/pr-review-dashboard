@@ -89,7 +89,18 @@
         "requestedAt": "2026-09-23T03:42:11Z"
       }
     ],
-    "rootulp": [],
+    "rootulp": [
+      {
+        "number": 7939,
+        "title": "feat(fibre-txsim): isolate server throughput with preencoded blobs",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/7939",
+        "repo": "celestia-app",
+        "author": "renaynay",
+        "authorCategory": "coworker",
+        "reviewer": "rootulp",
+        "requestedAt": "2026-09-24T10:37:17Z"
+      }
+    ],
     "vgonkivs": [
       {
         "number": 3364,
@@ -300,5 +311,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-09-24T10:32:48.954Z"
+  "fetchedAt": "2026-09-24T10:43:03.305Z"
 }
