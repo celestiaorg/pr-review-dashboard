@@ -22,6 +22,26 @@
         "authorCategory": "coworker",
         "reviewer": "ninabarbakadze",
         "requestedAt": "2026-09-24T04:09:50Z"
+      },
+      {
+        "number": 296,
+        "title": "refactor(share): centralize sequence finalization",
+        "url": "https://github.com/celestiaorg/go-square/pull/296",
+        "repo": "go-square",
+        "author": "rootulp",
+        "authorCategory": "coworker",
+        "reviewer": "ninabarbakadze",
+        "requestedAt": "2026-09-24T14:20:40Z"
+      },
+      {
+        "number": 297,
+        "title": "fix(share): resume partial shares after export",
+        "url": "https://github.com/celestiaorg/go-square/pull/297",
+        "repo": "go-square",
+        "author": "rootulp",
+        "authorCategory": "coworker",
+        "reviewer": "ninabarbakadze",
+        "requestedAt": "2026-09-24T23:49:30Z"
       }
     ],
     "rach-id": [
@@ -34,6 +54,36 @@
         "authorCategory": "coworker",
         "reviewer": "rach-id",
         "requestedAt": "2026-09-24T20:11:19Z"
+      },
+      {
+        "number": 7944,
+        "title": "feat(fibre): add validator-local minimum upload size",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/7944",
+        "repo": "celestia-app",
+        "author": "rootulp",
+        "authorCategory": "coworker",
+        "reviewer": "rach-id",
+        "requestedAt": "2026-09-24T23:42:26Z"
+      },
+      {
+        "number": 296,
+        "title": "refactor(share): centralize sequence finalization",
+        "url": "https://github.com/celestiaorg/go-square/pull/296",
+        "repo": "go-square",
+        "author": "rootulp",
+        "authorCategory": "coworker",
+        "reviewer": "rach-id",
+        "requestedAt": "2026-09-24T23:47:04Z"
+      },
+      {
+        "number": 297,
+        "title": "fix(share): resume partial shares after export",
+        "url": "https://github.com/celestiaorg/go-square/pull/297",
+        "repo": "go-square",
+        "author": "rootulp",
+        "authorCategory": "coworker",
+        "reviewer": "rach-id",
+        "requestedAt": "2026-09-24T23:49:30Z"
       }
     ],
     "renaynay": [
@@ -232,7 +282,18 @@
         "requestedAt": "2026-09-13T09:08:08Z"
       }
     ],
-    "walldiss": []
+    "walldiss": [
+      {
+        "number": 7944,
+        "title": "feat(fibre): add validator-local minimum upload size",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/7944",
+        "repo": "celestia-app",
+        "author": "rootulp",
+        "authorCategory": "coworker",
+        "reviewer": "walldiss",
+        "requestedAt": "2026-09-24T23:42:25Z"
+      }
+    ]
   },
   "teamMembers": [
     {
@@ -280,5 +341,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-09-24T23:42:54.743Z"
+  "fetchedAt": "2026-09-24T23:50:24.060Z"
 }
