@@ -69,18 +69,7 @@
         "requestedAt": "2026-09-23T03:42:11Z"
       }
     ],
-    "rootulp": [
-      {
-        "number": 3317,
-        "title": "feat: add TLS to privval gRPC",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3317",
-        "repo": "celestia-core",
-        "author": "ninabarbakadze",
-        "authorCategory": "coworker",
-        "reviewer": "rootulp",
-        "requestedAt": "2026-09-23T14:02:15Z"
-      }
-    ],
+    "rootulp": [],
     "vgonkivs": [
       {
         "number": 7892,
@@ -301,5 +290,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-09-24T02:55:29.849Z"
+  "fetchedAt": "2026-09-24T03:08:30.360Z"
 }
