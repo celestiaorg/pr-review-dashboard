@@ -1,18 +1,18 @@
 {
   "reviews": {
-    "chatton": [],
-    "pippokr": [
+    "chatton": [
       {
-        "number": 816,
-        "title": "chore: disable automation for 184",
-        "url": "https://github.com/celestiaorg/infrastructure/pull/816",
+        "number": 817,
+        "title": "feat(grafana): show successful Fibre PFF inclusion throughput",
+        "url": "https://github.com/celestiaorg/infrastructure/pull/817",
         "repo": "infrastructure",
-        "author": "chatton",
+        "author": "renaynay",
         "authorCategory": "coworker",
-        "reviewer": "pippokr",
-        "requestedAt": "2026-09-24T09:51:17Z"
+        "reviewer": "chatton",
+        "requestedAt": "2026-09-24T09:58:51Z"
       }
     ],
+    "pippokr": [],
     "ninabarbakadze": [
       {
         "number": 7930,
@@ -65,7 +65,18 @@
         "requestedAt": "2026-09-24T04:09:50Z"
       }
     ],
-    "rach-id": [],
+    "rach-id": [
+      {
+        "number": 7904,
+        "title": "feat(talis): show successful PFF inclusion throughput",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/7904",
+        "repo": "celestia-app",
+        "author": "renaynay",
+        "authorCategory": "coworker",
+        "reviewer": "rach-id",
+        "requestedAt": "2026-09-24T10:00:31Z"
+      }
+    ],
     "renaynay": [
       {
         "number": 3360,
@@ -309,5 +320,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-09-24T09:54:05.647Z"
+  "fetchedAt": "2026-09-24T10:01:06.882Z"
 }
