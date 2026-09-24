@@ -35,16 +35,6 @@
         "requestedAt": "2026-09-24T03:13:51Z"
       },
       {
-        "number": 3367,
-        "title": "fix(statesync): clarify snapshot discovery retry log",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3367",
-        "repo": "celestia-core",
-        "author": "rootulp",
-        "authorCategory": "coworker",
-        "reviewer": "ninabarbakadze",
-        "requestedAt": "2026-09-24T03:48:58Z"
-      },
-      {
         "number": 7935,
         "title": "test: cover Info app version consistency",
         "url": "https://github.com/celestiaorg/celestia-app/pull/7935",
@@ -110,16 +100,6 @@
     ],
     "rootulp": [],
     "vgonkivs": [
-      {
-        "number": 7892,
-        "title": "feat(fibre): bound concurrent Put storage and expose memory stats",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7892",
-        "repo": "celestia-app",
-        "author": "walldiss",
-        "authorCategory": "coworker",
-        "reviewer": "vgonkivs",
-        "requestedAt": "2026-09-20T14:02:25Z"
-      },
       {
         "number": 3364,
         "title": "docs(rpc/core): document data root tuple proof allocation tradeoff",
@@ -329,5 +309,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-09-24T09:26:07.461Z"
+  "fetchedAt": "2026-09-24T09:38:07.677Z"
 }
