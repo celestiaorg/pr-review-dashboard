@@ -37,16 +37,6 @@
     "rach-id": [],
     "renaynay": [
       {
-        "number": 5252,
-        "title": "chore: remove celestia-app v9 dependency",
-        "url": "https://github.com/celestiaorg/celestia-node/pull/5252",
-        "repo": "celestia-node",
-        "author": "vgonkivs",
-        "authorCategory": "coworker",
-        "reviewer": "renaynay",
-        "requestedAt": "2026-09-24T12:36:58Z"
-      },
-      {
         "number": 5241,
         "title": "perf(share/eds): pool buffered NMTs in EDS construction",
         "url": "https://github.com/celestiaorg/celestia-node/pull/5241",
@@ -55,6 +45,16 @@
         "authorCategory": "coworker",
         "reviewer": "renaynay",
         "requestedAt": "2026-09-24T13:35:35Z"
+      },
+      {
+        "number": 297,
+        "title": "fix(share): resume partial shares after export",
+        "url": "https://github.com/celestiaorg/go-square/pull/297",
+        "repo": "go-square",
+        "author": "rootulp",
+        "authorCategory": "coworker",
+        "reviewer": "renaynay",
+        "requestedAt": "2026-09-24T14:23:09Z"
       },
       {
         "number": 113,
@@ -289,5 +289,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-09-24T14:17:31.743Z"
+  "fetchedAt": "2026-09-24T14:33:08.558Z"
 }
