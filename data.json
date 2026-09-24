@@ -81,7 +81,7 @@
     "rootulp": [
       {
         "number": 7939,
-        "title": "feat(fibre-txsim): isolate server throughput with preencoded blobs",
+        "title": "feat(fibre-txsim): support preencoded blobs for throughput benchmarks",
         "url": "https://github.com/celestiaorg/celestia-app/pull/7939",
         "repo": "celestia-app",
         "author": "renaynay",
@@ -290,5 +290,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-09-24T11:27:51.663Z"
+  "fetchedAt": "2026-09-24T11:39:15.102Z"
 }
