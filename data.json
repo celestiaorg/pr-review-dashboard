@@ -87,16 +87,6 @@
     ],
     "rach-id": [
       {
-        "number": 3355,
-        "title": "fix(mempool/cat): guard against zero total gas in txSet aggregation",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3355",
-        "repo": "celestia-core",
-        "author": "ninabarbakadze",
-        "authorCategory": "coworker",
-        "reviewer": "rach-id",
-        "requestedAt": "2026-09-23T13:21:49Z"
-      },
-      {
         "number": 294,
         "title": "test: cover zero-reserved share ranges after parser fix",
         "url": "https://github.com/celestiaorg/go-square/pull/294",
@@ -390,5 +380,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-09-24T05:23:08.870Z"
+  "fetchedAt": "2026-09-24T05:33:26.921Z"
 }
