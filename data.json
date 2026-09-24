@@ -3,14 +3,14 @@
     "chatton": [],
     "pippokr": [
       {
-        "number": 3361,
-        "title": "docs(p2p): document partial-message retention in recvPacketMsg",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3361",
-        "repo": "celestia-core",
-        "author": "ninabarbakadze",
+        "number": 816,
+        "title": "chore: disable automation for 184",
+        "url": "https://github.com/celestiaorg/infrastructure/pull/816",
+        "repo": "infrastructure",
+        "author": "chatton",
         "authorCategory": "coworker",
         "reviewer": "pippokr",
-        "requestedAt": "2026-09-23T14:02:00Z"
+        "requestedAt": "2026-09-24T09:51:17Z"
       }
     ],
     "ninabarbakadze": [
@@ -309,5 +309,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-09-24T09:47:27.718Z"
+  "fetchedAt": "2026-09-24T09:54:05.647Z"
 }
