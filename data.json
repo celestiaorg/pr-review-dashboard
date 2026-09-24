@@ -33,6 +33,16 @@
         "authorCategory": "coworker",
         "reviewer": "ninabarbakadze",
         "requestedAt": "2026-09-24T03:13:51Z"
+      },
+      {
+        "number": 7932,
+        "title": "docs: clarify server architecture",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/7932",
+        "repo": "celestia-app",
+        "author": "rootulp",
+        "authorCategory": "coworker",
+        "reviewer": "ninabarbakadze",
+        "requestedAt": "2026-09-24T03:36:01Z"
       }
     ],
     "rach-id": [
@@ -65,6 +75,16 @@
         "authorCategory": "coworker",
         "reviewer": "rach-id",
         "requestedAt": "2026-09-24T03:13:51Z"
+      },
+      {
+        "number": 7932,
+        "title": "docs: clarify server architecture",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/7932",
+        "repo": "celestia-app",
+        "author": "rootulp",
+        "authorCategory": "coworker",
+        "reviewer": "rach-id",
+        "requestedAt": "2026-09-24T03:36:01Z"
       }
     ],
     "renaynay": [
@@ -310,5 +330,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-09-24T03:27:27.065Z"
+  "fetchedAt": "2026-09-24T03:43:26.674Z"
 }
