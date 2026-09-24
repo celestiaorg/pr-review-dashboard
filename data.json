@@ -1,17 +1,6 @@
 {
   "reviews": {
-    "chatton": [
-      {
-        "number": 575,
-        "title": "chore: start corto genesis at app v10",
-        "url": "https://github.com/celestiaorg/networks/pull/575",
-        "repo": "networks",
-        "author": "rach-id",
-        "authorCategory": "coworker",
-        "reviewer": "chatton",
-        "requestedAt": "2026-09-24T13:41:28Z"
-      }
-    ],
+    "chatton": [],
     "pippokr": [],
     "ninabarbakadze": [
       {
@@ -45,18 +34,7 @@
         "requestedAt": "2026-09-24T04:09:50Z"
       }
     ],
-    "rach-id": [
-      {
-        "number": 818,
-        "title": "corto: clean-slate rebuild — fresh fleet, regenerated records",
-        "url": "https://github.com/celestiaorg/infrastructure/pull/818",
-        "repo": "infrastructure",
-        "author": "pippokr",
-        "authorCategory": "coworker",
-        "reviewer": "rach-id",
-        "requestedAt": "2026-09-24T13:52:37Z"
-      }
-    ],
+    "rach-id": [],
     "renaynay": [
       {
         "number": 5252,
@@ -263,18 +241,7 @@
         "requestedAt": "2026-09-13T09:08:08Z"
       }
     ],
-    "walldiss": [
-      {
-        "number": 7940,
-        "title": "fix: update Corto genesis checksum",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7940",
-        "repo": "celestia-app",
-        "author": "rach-id",
-        "authorCategory": "coworker",
-        "reviewer": "walldiss",
-        "requestedAt": "2026-09-24T13:45:03Z"
-      }
-    ]
+    "walldiss": []
   },
   "teamMembers": [
     {
@@ -322,5 +289,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-09-24T13:57:15.787Z"
+  "fetchedAt": "2026-09-24T14:17:31.743Z"
 }
