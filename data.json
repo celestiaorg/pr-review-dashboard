@@ -23,6 +23,16 @@
         "authorCategory": "coworker",
         "reviewer": "ninabarbakadze",
         "requestedAt": "2026-09-23T13:05:34Z"
+      },
+      {
+        "number": 295,
+        "title": "refactor(share): unify share encoding behind existing splitters",
+        "url": "https://github.com/celestiaorg/go-square/pull/295",
+        "repo": "go-square",
+        "author": "rootulp",
+        "authorCategory": "coworker",
+        "reviewer": "ninabarbakadze",
+        "requestedAt": "2026-09-24T03:13:51Z"
       }
     ],
     "rach-id": [
@@ -45,6 +55,16 @@
         "authorCategory": "coworker",
         "reviewer": "rach-id",
         "requestedAt": "2026-09-23T22:06:52Z"
+      },
+      {
+        "number": 295,
+        "title": "refactor(share): unify share encoding behind existing splitters",
+        "url": "https://github.com/celestiaorg/go-square/pull/295",
+        "repo": "go-square",
+        "author": "rootulp",
+        "authorCategory": "coworker",
+        "reviewer": "rach-id",
+        "requestedAt": "2026-09-24T03:13:51Z"
       }
     ],
     "renaynay": [
@@ -290,5 +310,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-09-24T03:08:30.360Z"
+  "fetchedAt": "2026-09-24T03:27:27.065Z"
 }
