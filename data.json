@@ -79,26 +79,6 @@
     ],
     "renaynay": [
       {
-        "number": 3360,
-        "title": "docs(statesync): document why chunk responses are not peer-bound",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3360",
-        "repo": "celestia-core",
-        "author": "ninabarbakadze",
-        "authorCategory": "coworker",
-        "reviewer": "renaynay",
-        "requestedAt": "2026-09-23T14:02:57Z"
-      },
-      {
-        "number": 5251,
-        "title": "fix(shrex): reserve what the server holds",
-        "url": "https://github.com/celestiaorg/celestia-node/pull/5251",
-        "repo": "celestia-node",
-        "author": "vgonkivs",
-        "authorCategory": "coworker",
-        "reviewer": "renaynay",
-        "requestedAt": "2026-09-24T09:20:27Z"
-      },
-      {
         "number": 113,
         "title": "build(deps): bump go.opentelemetry.io/otel/sdk from 1.44.0 to 1.45.0 in /test/integration in the go_modules group across 1 directory",
         "url": "https://github.com/celestiaorg/da-proxy/pull/113",
@@ -320,5 +300,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-09-24T10:01:06.882Z"
+  "fetchedAt": "2026-09-24T10:21:46.923Z"
 }
