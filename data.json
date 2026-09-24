@@ -54,7 +54,18 @@
         "requestedAt": "2026-09-24T04:09:50Z"
       }
     ],
-    "rach-id": [],
+    "rach-id": [
+      {
+        "number": 3364,
+        "title": "docs(rpc/core): document data root tuple proof allocation tradeoff",
+        "url": "https://github.com/celestiaorg/celestia-core/pull/3364",
+        "repo": "celestia-core",
+        "author": "ninabarbakadze",
+        "authorCategory": "coworker",
+        "reviewer": "rach-id",
+        "requestedAt": "2026-09-24T12:14:32Z"
+      }
+    ],
     "renaynay": [
       {
         "number": 113,
@@ -279,5 +290,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-09-24T11:58:53.469Z"
+  "fetchedAt": "2026-09-24T12:29:51.225Z"
 }
