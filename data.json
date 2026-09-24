@@ -14,16 +14,6 @@
         "requestedAt": "2026-09-23T13:05:34Z"
       },
       {
-        "number": 295,
-        "title": "refactor(share): unify share encoding behind existing splitters",
-        "url": "https://github.com/celestiaorg/go-square/pull/295",
-        "repo": "go-square",
-        "author": "rootulp",
-        "authorCategory": "coworker",
-        "reviewer": "ninabarbakadze",
-        "requestedAt": "2026-09-24T03:13:51Z"
-      },
-      {
         "number": 7933,
         "title": "test: fuzz CheckTx and PrepareProposal consistency",
         "url": "https://github.com/celestiaorg/celestia-app/pull/7933",
@@ -45,16 +35,6 @@
         "authorCategory": "coworker",
         "reviewer": "renaynay",
         "requestedAt": "2026-09-24T13:35:35Z"
-      },
-      {
-        "number": 297,
-        "title": "fix(share): resume partial shares after export",
-        "url": "https://github.com/celestiaorg/go-square/pull/297",
-        "repo": "go-square",
-        "author": "rootulp",
-        "authorCategory": "coworker",
-        "reviewer": "renaynay",
-        "requestedAt": "2026-09-24T14:23:09Z"
       },
       {
         "number": 113,
@@ -299,5 +279,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-09-24T15:32:06.375Z"
+  "fetchedAt": "2026-09-24T15:42:55.660Z"
 }
