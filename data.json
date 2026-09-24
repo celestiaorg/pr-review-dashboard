@@ -12,18 +12,7 @@
         "requestedAt": "2026-09-24T13:41:28Z"
       }
     ],
-    "pippokr": [
-      {
-        "number": 7941,
-        "title": "fix: update Corto genesis checksum (v10.x)",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7941",
-        "repo": "celestia-app",
-        "author": "rach-id",
-        "authorCategory": "coworker",
-        "reviewer": "pippokr",
-        "requestedAt": "2026-09-24T13:45:36Z"
-      }
-    ],
+    "pippokr": [],
     "ninabarbakadze": [
       {
         "number": 7930,
@@ -56,7 +45,18 @@
         "requestedAt": "2026-09-24T04:09:50Z"
       }
     ],
-    "rach-id": [],
+    "rach-id": [
+      {
+        "number": 818,
+        "title": "corto: clean-slate rebuild — fresh fleet, regenerated records",
+        "url": "https://github.com/celestiaorg/infrastructure/pull/818",
+        "repo": "infrastructure",
+        "author": "pippokr",
+        "authorCategory": "coworker",
+        "reviewer": "rach-id",
+        "requestedAt": "2026-09-24T13:52:37Z"
+      }
+    ],
     "renaynay": [
       {
         "number": 5252,
@@ -322,5 +322,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-09-24T13:50:48.563Z"
+  "fetchedAt": "2026-09-24T13:57:15.787Z"
 }
