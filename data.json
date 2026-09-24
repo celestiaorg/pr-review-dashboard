@@ -92,16 +92,6 @@
     ],
     "vgonkivs": [
       {
-        "number": 7944,
-        "title": "feat(fibre): add validator-local minimum upload size",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7944",
-        "repo": "celestia-app",
-        "author": "rootulp",
-        "authorCategory": "coworker",
-        "reviewer": "vgonkivs",
-        "requestedAt": "2026-09-24T22:01:33Z"
-      },
-      {
         "number": 5167,
         "title": "cmd: Load configured RPC URL with explicit token",
         "url": "https://github.com/celestiaorg/celestia-node/pull/5167",
@@ -290,5 +280,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-09-24T23:36:22.893Z"
+  "fetchedAt": "2026-09-24T23:42:54.743Z"
 }
