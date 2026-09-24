@@ -35,16 +35,6 @@
         "requestedAt": "2026-09-24T03:13:51Z"
       },
       {
-        "number": 7932,
-        "title": "docs: clarify server architecture",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7932",
-        "repo": "celestia-app",
-        "author": "rootulp",
-        "authorCategory": "coworker",
-        "reviewer": "ninabarbakadze",
-        "requestedAt": "2026-09-24T03:36:01Z"
-      },
-      {
         "number": 3367,
         "title": "fix(statesync): clarify snapshot discovery retry log",
         "url": "https://github.com/celestiaorg/celestia-core/pull/3367",
@@ -85,58 +75,7 @@
         "requestedAt": "2026-09-24T04:09:50Z"
       }
     ],
-    "rach-id": [
-      {
-        "number": 294,
-        "title": "test: cover zero-reserved share ranges after parser fix",
-        "url": "https://github.com/celestiaorg/go-square/pull/294",
-        "repo": "go-square",
-        "author": "rootulp",
-        "authorCategory": "coworker",
-        "reviewer": "rach-id",
-        "requestedAt": "2026-09-23T22:06:52Z"
-      },
-      {
-        "number": 295,
-        "title": "refactor(share): unify share encoding behind existing splitters",
-        "url": "https://github.com/celestiaorg/go-square/pull/295",
-        "repo": "go-square",
-        "author": "rootulp",
-        "authorCategory": "coworker",
-        "reviewer": "rach-id",
-        "requestedAt": "2026-09-24T03:13:51Z"
-      },
-      {
-        "number": 7932,
-        "title": "docs: clarify server architecture",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7932",
-        "repo": "celestia-app",
-        "author": "rootulp",
-        "authorCategory": "coworker",
-        "reviewer": "rach-id",
-        "requestedAt": "2026-09-24T03:36:01Z"
-      },
-      {
-        "number": 3368,
-        "title": "ci: check Go module tidiness",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3368",
-        "repo": "celestia-core",
-        "author": "rootulp",
-        "authorCategory": "coworker",
-        "reviewer": "rach-id",
-        "requestedAt": "2026-09-24T03:49:17Z"
-      },
-      {
-        "number": 3366,
-        "title": "test(evidence): allow gossip assertions to wait for rebroadcast",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3366",
-        "repo": "celestia-core",
-        "author": "rootulp",
-        "authorCategory": "coworker",
-        "reviewer": "rach-id",
-        "requestedAt": "2026-09-24T03:54:19Z"
-      }
-    ],
+    "rach-id": [],
     "renaynay": [
       {
         "number": 3360,
@@ -380,5 +319,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-09-24T05:57:51.436Z"
+  "fetchedAt": "2026-09-24T06:33:25.772Z"
 }
