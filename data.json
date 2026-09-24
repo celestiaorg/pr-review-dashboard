@@ -89,6 +89,16 @@
         "requestedAt": "2026-09-24T12:37:34Z"
       },
       {
+        "number": 7942,
+        "title": "feat: add scanning tool for block results",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/7942",
+        "repo": "celestia-app",
+        "author": "vgonkivs",
+        "authorCategory": "coworker",
+        "reviewer": "rootulp",
+        "requestedAt": "2026-09-24T15:04:39Z"
+      },
+      {
         "number": 5253,
         "title": "test(tastora): add fresh light node canary for Mainnet and Mocha",
         "url": "https://github.com/celestiaorg/celestia-node/pull/5253",
@@ -289,5 +299,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-09-24T15:00:21.698Z"
+  "fetchedAt": "2026-09-24T15:21:02.472Z"
 }
