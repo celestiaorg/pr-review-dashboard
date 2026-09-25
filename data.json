@@ -30,6 +30,16 @@
         "authorCategory": "coworker",
         "reviewer": "chatton",
         "requestedAt": "2026-09-25T10:32:41Z"
+      },
+      {
+        "number": 3380,
+        "title": "fix(privval): cap connections and handshake time on the gRPC server",
+        "url": "https://github.com/celestiaorg/celestia-core/pull/3380",
+        "repo": "celestia-core",
+        "author": "ninabarbakadze",
+        "authorCategory": "coworker",
+        "reviewer": "chatton",
+        "requestedAt": "2026-09-25T12:35:54Z"
       }
     ],
     "pippokr": [],
@@ -279,5 +289,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-09-25T13:42:17.459Z"
+  "fetchedAt": "2026-09-25T13:49:47.843Z"
 }
