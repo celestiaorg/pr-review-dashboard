@@ -65,6 +65,16 @@
         "authorCategory": "coworker",
         "reviewer": "rach-id",
         "requestedAt": "2026-09-25T13:55:28Z"
+      },
+      {
+        "number": 297,
+        "title": "fix(share): resume partial shares after export",
+        "url": "https://github.com/celestiaorg/go-square/pull/297",
+        "repo": "go-square",
+        "author": "rootulp",
+        "authorCategory": "coworker",
+        "reviewer": "rach-id",
+        "requestedAt": "2026-09-25T14:13:11Z"
       }
     ],
     "renaynay": [],
@@ -78,16 +88,6 @@
         "authorCategory": "coworker",
         "reviewer": "rootulp",
         "requestedAt": "2026-09-25T09:13:08Z"
-      },
-      {
-        "number": 827,
-        "title": "docs: restore or spin up a new node from donor",
-        "url": "https://github.com/celestiaorg/infrastructure/pull/827",
-        "repo": "infrastructure",
-        "author": "vgonkivs",
-        "authorCategory": "coworker",
-        "reviewer": "rootulp",
-        "requestedAt": "2026-09-25T10:32:41Z"
       },
       {
         "number": 7808,
@@ -311,5 +311,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-09-25T14:12:22.548Z"
+  "fetchedAt": "2026-09-25T14:29:21.148Z"
 }
