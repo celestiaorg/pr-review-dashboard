@@ -42,7 +42,18 @@
         "requestedAt": "2026-09-25T12:35:54Z"
       }
     ],
-    "pippokr": [],
+    "pippokr": [
+      {
+        "number": 7969,
+        "title": "fix(valaddr): preserve provider registry in genesis exports",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/7969",
+        "repo": "celestia-app",
+        "author": "rootulp",
+        "authorCategory": "coworker",
+        "reviewer": "pippokr",
+        "requestedAt": "2026-09-25T14:34:10Z"
+      }
+    ],
     "ninabarbakadze": [
       {
         "number": 297,
@@ -53,6 +64,16 @@
         "authorCategory": "coworker",
         "reviewer": "ninabarbakadze",
         "requestedAt": "2026-09-24T23:49:30Z"
+      },
+      {
+        "number": 5255,
+        "title": "fix(share/shwap): reset RangeNamespaceData on ReadFrom",
+        "url": "https://github.com/celestiaorg/celestia-node/pull/5255",
+        "repo": "celestia-node",
+        "author": "kriss39",
+        "authorCategory": "external",
+        "reviewer": "ninabarbakadze",
+        "requestedAt": "2026-09-25T14:34:22Z"
       }
     ],
     "rach-id": [
@@ -75,6 +96,16 @@
         "authorCategory": "coworker",
         "reviewer": "rach-id",
         "requestedAt": "2026-09-25T14:13:11Z"
+      },
+      {
+        "number": 5256,
+        "title": "fix(shrex/peers): don't keep pools in managers without shrexsub",
+        "url": "https://github.com/celestiaorg/celestia-node/pull/5256",
+        "repo": "celestia-node",
+        "author": "kriss39",
+        "authorCategory": "external",
+        "reviewer": "rach-id",
+        "requestedAt": "2026-09-25T14:36:58Z"
       }
     ],
     "renaynay": [],
@@ -311,5 +342,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-09-25T14:29:21.148Z"
+  "fetchedAt": "2026-09-25T14:43:19.224Z"
 }
