@@ -20,6 +20,16 @@
         "authorCategory": "coworker",
         "reviewer": "chatton",
         "requestedAt": "2026-09-25T08:09:49Z"
+      },
+      {
+        "number": 826,
+        "title": "monitoring(mocha-5): fibre alert, dashboards and OTLP metrics",
+        "url": "https://github.com/celestiaorg/infrastructure/pull/826",
+        "repo": "infrastructure",
+        "author": "pippokr",
+        "authorCategory": "coworker",
+        "reviewer": "chatton",
+        "requestedAt": "2026-09-25T08:59:42Z"
       }
     ],
     "pippokr": [],
@@ -65,29 +75,19 @@
         "authorCategory": "coworker",
         "reviewer": "rach-id",
         "requestedAt": "2026-09-25T08:47:06Z"
+      },
+      {
+        "number": 826,
+        "title": "monitoring(mocha-5): fibre alert, dashboards and OTLP metrics",
+        "url": "https://github.com/celestiaorg/infrastructure/pull/826",
+        "repo": "infrastructure",
+        "author": "pippokr",
+        "authorCategory": "coworker",
+        "reviewer": "rach-id",
+        "requestedAt": "2026-09-25T08:59:30Z"
       }
     ],
     "renaynay": [
-      {
-        "number": 5241,
-        "title": "perf(share/eds): pool buffered NMTs in EDS construction",
-        "url": "https://github.com/celestiaorg/celestia-node/pull/5241",
-        "repo": "celestia-node",
-        "author": "vgonkivs",
-        "authorCategory": "coworker",
-        "reviewer": "renaynay",
-        "requestedAt": "2026-09-24T13:35:35Z"
-      },
-      {
-        "number": 416,
-        "title": "chore: disable Mergify queue control comments",
-        "url": "https://github.com/celestiaorg/go-header/pull/416",
-        "repo": "go-header",
-        "author": "rootulp",
-        "authorCategory": "coworker",
-        "reviewer": "renaynay",
-        "requestedAt": "2026-09-25T03:33:24Z"
-      },
       {
         "number": 113,
         "title": "build(deps): bump go.opentelemetry.io/otel/sdk from 1.44.0 to 1.45.0 in /test/integration in the go_modules group across 1 directory",
@@ -311,5 +311,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-09-25T08:55:33.835Z"
+  "fetchedAt": "2026-09-25T09:08:43.910Z"
 }
