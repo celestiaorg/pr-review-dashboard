@@ -62,7 +62,18 @@
         "requestedAt": "2026-09-25T16:01:21Z"
       }
     ],
-    "pippokr": [],
+    "pippokr": [
+      {
+        "number": 5280,
+        "title": "fix(state/cmd): return an error on the wrong address kind",
+        "url": "https://github.com/celestiaorg/celestia-node/pull/5280",
+        "repo": "celestia-node",
+        "author": "FlashWayne",
+        "authorCategory": "external",
+        "reviewer": "pippokr",
+        "requestedAt": "2026-09-25T16:49:15Z"
+      }
+    ],
     "ninabarbakadze": [
       {
         "number": 5255,
@@ -138,6 +149,16 @@
         "authorCategory": "coworker",
         "reviewer": "rootulp",
         "requestedAt": "2026-09-25T09:13:08Z"
+      },
+      {
+        "number": 5276,
+        "title": "fix(pruner): stop prune round when a full batch makes no progress",
+        "url": "https://github.com/celestiaorg/celestia-node/pull/5276",
+        "repo": "celestia-node",
+        "author": "FlashWayne",
+        "authorCategory": "external",
+        "reviewer": "rootulp",
+        "requestedAt": "2026-09-25T16:48:34Z"
       }
     ],
     "vgonkivs": [
@@ -352,6 +373,16 @@
         "authorCategory": "external",
         "reviewer": "walldiss",
         "requestedAt": "2026-09-25T15:53:12Z"
+      },
+      {
+        "number": 5278,
+        "title": "fix(das): report catch-up done after resuming an empty checkpoint",
+        "url": "https://github.com/celestiaorg/celestia-node/pull/5278",
+        "repo": "celestia-node",
+        "author": "FlashWayne",
+        "authorCategory": "external",
+        "reviewer": "walldiss",
+        "requestedAt": "2026-09-25T16:48:54Z"
       }
     ]
   },
@@ -401,5 +432,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-09-25T16:48:00.642Z"
+  "fetchedAt": "2026-09-25T16:54:40.620Z"
 }
