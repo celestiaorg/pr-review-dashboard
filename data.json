@@ -2,6 +2,26 @@
   "reviews": {
     "chatton": [
       {
+        "number": 7947,
+        "title": "fix(test): enable gRPC for live-network sync nodes",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/7947",
+        "repo": "celestia-app",
+        "author": "rootulp",
+        "authorCategory": "coworker",
+        "reviewer": "chatton",
+        "requestedAt": "2026-09-25T03:25:23Z"
+      },
+      {
+        "number": 453,
+        "title": "chore: disable Mergify queue control comments",
+        "url": "https://github.com/celestiaorg/rsmt2d/pull/453",
+        "repo": "rsmt2d",
+        "author": "rootulp",
+        "authorCategory": "coworker",
+        "reviewer": "chatton",
+        "requestedAt": "2026-09-25T03:33:37Z"
+      },
+      {
         "number": 7946,
         "title": "fix(zkism): export all genesis messages per ISM",
         "url": "https://github.com/celestiaorg/celestia-app/pull/7946",
@@ -53,6 +73,26 @@
         "authorCategory": "coworker",
         "reviewer": "ninabarbakadze",
         "requestedAt": "2026-09-24T23:49:30Z"
+      },
+      {
+        "number": 3373,
+        "title": "chore: disable Mergify queue control comments",
+        "url": "https://github.com/celestiaorg/celestia-core/pull/3373",
+        "repo": "celestia-core",
+        "author": "rootulp",
+        "authorCategory": "coworker",
+        "reviewer": "ninabarbakadze",
+        "requestedAt": "2026-09-25T03:24:16Z"
+      },
+      {
+        "number": 776,
+        "title": "chore: disable Mergify queue control comments",
+        "url": "https://github.com/celestiaorg/cosmos-sdk/pull/776",
+        "repo": "cosmos-sdk",
+        "author": "rootulp",
+        "authorCategory": "coworker",
+        "reviewer": "ninabarbakadze",
+        "requestedAt": "2026-09-25T03:33:20Z"
       }
     ],
     "rach-id": [
@@ -95,6 +135,16 @@
         "authorCategory": "coworker",
         "reviewer": "rach-id",
         "requestedAt": "2026-09-24T23:49:30Z"
+      },
+      {
+        "number": 298,
+        "title": "chore: disable Mergify queue control comments",
+        "url": "https://github.com/celestiaorg/go-square/pull/298",
+        "repo": "go-square",
+        "author": "rootulp",
+        "authorCategory": "coworker",
+        "reviewer": "rach-id",
+        "requestedAt": "2026-09-25T03:33:28Z"
       }
     ],
     "renaynay": [
@@ -109,6 +159,16 @@
         "requestedAt": "2026-09-24T13:35:35Z"
       },
       {
+        "number": 416,
+        "title": "chore: disable Mergify queue control comments",
+        "url": "https://github.com/celestiaorg/go-header/pull/416",
+        "repo": "go-header",
+        "author": "rootulp",
+        "authorCategory": "coworker",
+        "reviewer": "renaynay",
+        "requestedAt": "2026-09-25T03:33:24Z"
+      },
+      {
         "number": 113,
         "title": "build(deps): bump go.opentelemetry.io/otel/sdk from 1.44.0 to 1.45.0 in /test/integration in the go_modules group across 1 directory",
         "url": "https://github.com/celestiaorg/da-proxy/pull/113",
@@ -121,6 +181,16 @@
     ],
     "rootulp": [],
     "vgonkivs": [
+      {
+        "number": 346,
+        "title": "chore: disable Mergify queue control comments",
+        "url": "https://github.com/celestiaorg/nmt/pull/346",
+        "repo": "nmt",
+        "author": "rootulp",
+        "authorCategory": "coworker",
+        "reviewer": "vgonkivs",
+        "requestedAt": "2026-09-25T03:33:33Z"
+      },
       {
         "number": 5167,
         "title": "cmd: Load configured RPC URL with explicit token",
@@ -272,16 +342,6 @@
         "authorCategory": "coworker",
         "reviewer": "walldiss",
         "requestedAt": "2026-09-24T23:42:25Z"
-      },
-      {
-        "number": 3373,
-        "title": "chore: disable Mergify queue control comments",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3373",
-        "repo": "celestia-core",
-        "author": "rootulp",
-        "authorCategory": "coworker",
-        "reviewer": "walldiss",
-        "requestedAt": "2026-09-25T03:21:20Z"
       }
     ]
   },
@@ -331,5 +391,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-09-25T03:22:31.552Z"
+  "fetchedAt": "2026-09-25T03:35:56.928Z"
 }
