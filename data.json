@@ -146,7 +146,18 @@
         "requestedAt": "2026-09-25T16:55:29Z"
       }
     ],
-    "rach-id": [],
+    "rach-id": [
+      {
+        "number": 7975,
+        "title": "fix(fibre): log missing blob shards at debug level",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/7975",
+        "repo": "celestia-app",
+        "author": "rootulp",
+        "authorCategory": "coworker",
+        "reviewer": "rach-id",
+        "requestedAt": "2026-09-25T21:42:47Z"
+      }
+    ],
     "renaynay": [
       {
         "number": 5289,
@@ -241,6 +252,16 @@
         "authorCategory": "coworker",
         "reviewer": "vgonkivs",
         "requestedAt": "2026-09-25T03:33:33Z"
+      },
+      {
+        "number": 7975,
+        "title": "fix(fibre): log missing blob shards at debug level",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/7975",
+        "repo": "celestia-app",
+        "author": "rootulp",
+        "authorCategory": "coworker",
+        "reviewer": "vgonkivs",
+        "requestedAt": "2026-09-25T21:42:47Z"
       },
       {
         "number": 5167,
@@ -512,5 +533,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-09-25T21:45:52.671Z"
+  "fetchedAt": "2026-09-25T21:52:26.672Z"
 }
