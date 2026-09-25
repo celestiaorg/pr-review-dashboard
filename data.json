@@ -10,6 +10,16 @@
         "authorCategory": "coworker",
         "reviewer": "chatton",
         "requestedAt": "2026-09-25T03:33:37Z"
+      },
+      {
+        "number": 824,
+        "title": "monitoring(mainnet): page the da-proxy on-call for da-proxy consensus nodes",
+        "url": "https://github.com/celestiaorg/infrastructure/pull/824",
+        "repo": "infrastructure",
+        "author": "pippokr",
+        "authorCategory": "coworker",
+        "reviewer": "chatton",
+        "requestedAt": "2026-09-25T08:09:49Z"
       }
     ],
     "pippokr": [],
@@ -269,5 +279,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-09-25T08:02:56.442Z"
+  "fetchedAt": "2026-09-25T08:30:05.826Z"
 }
