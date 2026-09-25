@@ -64,16 +64,6 @@
     ],
     "pippokr": [
       {
-        "number": 778,
-        "title": "ci: restore CodeQL scanning",
-        "url": "https://github.com/celestiaorg/cosmos-sdk/pull/778",
-        "repo": "cosmos-sdk",
-        "author": "rootulp",
-        "authorCategory": "coworker",
-        "reviewer": "pippokr",
-        "requestedAt": "2026-09-25T18:03:30Z"
-      },
-      {
         "number": 5280,
         "title": "fix(state/cmd): return an error on the wrong address kind",
         "url": "https://github.com/celestiaorg/celestia-node/pull/5280",
@@ -94,6 +84,16 @@
         "authorCategory": "coworker",
         "reviewer": "ninabarbakadze",
         "requestedAt": "2026-09-25T17:55:13Z"
+      },
+      {
+        "number": 778,
+        "title": "ci: restore CodeQL scanning",
+        "url": "https://github.com/celestiaorg/cosmos-sdk/pull/778",
+        "repo": "cosmos-sdk",
+        "author": "rootulp",
+        "authorCategory": "coworker",
+        "reviewer": "ninabarbakadze",
+        "requestedAt": "2026-09-25T18:26:01Z"
       },
       {
         "number": 5255,
@@ -136,7 +136,18 @@
         "requestedAt": "2026-09-25T16:55:29Z"
       }
     ],
-    "rach-id": [],
+    "rach-id": [
+      {
+        "number": 7973,
+        "title": "chore: merge main into rachid/fibre-performance-main",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/7973",
+        "repo": "celestia-app",
+        "author": "rootulp",
+        "authorCategory": "coworker",
+        "reviewer": "rach-id",
+        "requestedAt": "2026-09-25T18:34:41Z"
+      }
+    ],
     "renaynay": [
       {
         "number": 5289,
@@ -209,6 +220,16 @@
         "authorCategory": "coworker",
         "reviewer": "rootulp",
         "requestedAt": "2026-09-25T09:13:08Z"
+      },
+      {
+        "number": 7972,
+        "title": "feat(fibre): Introduce ability to use object storage for storing blob shards (backport #7808)",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/7972",
+        "repo": "celestia-app",
+        "author": "mergify",
+        "authorCategory": "bot",
+        "reviewer": "rootulp",
+        "requestedAt": "2026-09-25T18:31:01Z"
       },
       {
         "number": 5276,
@@ -435,16 +456,6 @@
     ],
     "walldiss": [
       {
-        "number": 7808,
-        "title": "feat(fibre): Introduce ability to use object storage for storing blob shards",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7808",
-        "repo": "celestia-app",
-        "author": "renaynay",
-        "authorCategory": "coworker",
-        "reviewer": "walldiss",
-        "requestedAt": "2026-09-25T13:53:33Z"
-      },
-      {
         "number": 5264,
         "title": "fix(fibre): detach Upload's shard fan-out from the caller ctx",
         "url": "https://github.com/celestiaorg/celestia-node/pull/5264",
@@ -512,5 +523,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-09-25T18:24:02.186Z"
+  "fetchedAt": "2026-09-25T18:36:19.478Z"
 }
