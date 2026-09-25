@@ -45,7 +45,18 @@
         "requestedAt": "2026-09-24T23:49:30Z"
       }
     ],
-    "rach-id": [],
+    "rach-id": [
+      {
+        "number": 3374,
+        "title": "fix(privval): reject SignRawBytes for other chain IDs",
+        "url": "https://github.com/celestiaorg/celestia-core/pull/3374",
+        "repo": "celestia-core",
+        "author": "ninabarbakadze",
+        "authorCategory": "coworker",
+        "reviewer": "rach-id",
+        "requestedAt": "2026-09-25T08:45:40Z"
+      }
+    ],
     "renaynay": [
       {
         "number": 5241,
@@ -231,7 +242,18 @@
         "requestedAt": "2026-09-13T09:08:08Z"
       }
     ],
-    "walldiss": []
+    "walldiss": [
+      {
+        "number": 3374,
+        "title": "fix(privval): reject SignRawBytes for other chain IDs",
+        "url": "https://github.com/celestiaorg/celestia-core/pull/3374",
+        "repo": "celestia-core",
+        "author": "ninabarbakadze",
+        "authorCategory": "coworker",
+        "reviewer": "walldiss",
+        "requestedAt": "2026-09-25T08:40:46Z"
+      }
+    ]
   },
   "teamMembers": [
     {
@@ -279,5 +301,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-09-25T08:30:05.826Z"
+  "fetchedAt": "2026-09-25T08:46:58.462Z"
 }
