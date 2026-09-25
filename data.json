@@ -20,6 +20,16 @@
         "authorCategory": "coworker",
         "reviewer": "chatton",
         "requestedAt": "2026-09-25T08:09:49Z"
+      },
+      {
+        "number": 827,
+        "title": "docs: restore or spin up a new node from donor",
+        "url": "https://github.com/celestiaorg/infrastructure/pull/827",
+        "repo": "infrastructure",
+        "author": "vgonkivs",
+        "authorCategory": "coworker",
+        "reviewer": "chatton",
+        "requestedAt": "2026-09-25T10:32:41Z"
       }
     ],
     "pippokr": [],
@@ -57,6 +67,16 @@
         "authorCategory": "coworker",
         "reviewer": "rootulp",
         "requestedAt": "2026-09-25T09:13:08Z"
+      },
+      {
+        "number": 827,
+        "title": "docs: restore or spin up a new node from donor",
+        "url": "https://github.com/celestiaorg/infrastructure/pull/827",
+        "repo": "infrastructure",
+        "author": "vgonkivs",
+        "authorCategory": "coworker",
+        "reviewer": "rootulp",
+        "requestedAt": "2026-09-25T10:32:41Z"
       }
     ],
     "vgonkivs": [
@@ -270,5 +290,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-09-25T10:23:29.590Z"
+  "fetchedAt": "2026-09-25T10:34:01.416Z"
 }
