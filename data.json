@@ -64,6 +64,16 @@
     ],
     "pippokr": [
       {
+        "number": 778,
+        "title": "ci: restore CodeQL scanning",
+        "url": "https://github.com/celestiaorg/cosmos-sdk/pull/778",
+        "repo": "cosmos-sdk",
+        "author": "rootulp",
+        "authorCategory": "coworker",
+        "reviewer": "pippokr",
+        "requestedAt": "2026-09-25T18:03:30Z"
+      },
+      {
         "number": 5280,
         "title": "fix(state/cmd): return an error on the wrong address kind",
         "url": "https://github.com/celestiaorg/celestia-node/pull/5280",
@@ -502,5 +512,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-09-25T18:00:34.152Z"
+  "fetchedAt": "2026-09-25T18:24:02.186Z"
 }
