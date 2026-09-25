@@ -292,6 +292,16 @@
         "authorCategory": "coworker",
         "reviewer": "walldiss",
         "requestedAt": "2026-09-25T13:53:33Z"
+      },
+      {
+        "number": 5264,
+        "title": "fix(fibre): detach Upload's shard fan-out from the caller ctx",
+        "url": "https://github.com/celestiaorg/celestia-node/pull/5264",
+        "repo": "celestia-node",
+        "author": "Bruce039",
+        "authorCategory": "external",
+        "reviewer": "walldiss",
+        "requestedAt": "2026-09-25T15:53:12Z"
       }
     ]
   },
@@ -341,5 +351,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-09-25T15:47:48.739Z"
+  "fetchedAt": "2026-09-25T15:54:22.989Z"
 }
