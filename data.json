@@ -243,16 +243,6 @@
         "requestedAt": "2026-09-25T03:33:33Z"
       },
       {
-        "number": 7990,
-        "title": "fix(fibre): log missing blob shards at debug level (backport #7975)",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7990",
-        "repo": "celestia-app",
-        "author": "mergify",
-        "authorCategory": "bot",
-        "reviewer": "vgonkivs",
-        "requestedAt": "2026-09-25T23:14:35Z"
-      },
-      {
         "number": 5167,
         "title": "cmd: Load configured RPC URL with explicit token",
         "url": "https://github.com/celestiaorg/celestia-node/pull/5167",
@@ -522,5 +512,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-09-25T23:16:47.087Z"
+  "fetchedAt": "2026-09-25T23:26:36.715Z"
 }
