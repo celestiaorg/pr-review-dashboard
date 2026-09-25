@@ -52,6 +52,16 @@
         "requestedAt": "2026-09-25T21:41:43Z"
       },
       {
+        "number": 7991,
+        "title": "fix(multiplexer): don't forward unsupported start flags to embedded binaries",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/7991",
+        "repo": "celestia-app",
+        "author": "rootulp",
+        "authorCategory": "coworker",
+        "reviewer": "chatton",
+        "requestedAt": "2026-09-25T23:49:31Z"
+      },
+      {
         "number": 5262,
         "title": "fix(nodebuilder/blob): stop prefixing blob data with 0x in submit",
         "url": "https://github.com/celestiaorg/celestia-node/pull/5262",
@@ -512,5 +522,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-09-25T23:49:14.200Z"
+  "fetchedAt": "2026-09-25T23:55:57.262Z"
 }
