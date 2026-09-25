@@ -55,6 +55,16 @@
         "authorCategory": "coworker",
         "reviewer": "rach-id",
         "requestedAt": "2026-09-25T08:45:40Z"
+      },
+      {
+        "number": 825,
+        "title": "fibre: reproducible mocha-5 on-chain setup (escrow opt-out, key name, chain-id map)",
+        "url": "https://github.com/celestiaorg/infrastructure/pull/825",
+        "repo": "infrastructure",
+        "author": "pippokr",
+        "authorCategory": "coworker",
+        "reviewer": "rach-id",
+        "requestedAt": "2026-09-25T08:47:06Z"
       }
     ],
     "renaynay": [
@@ -301,5 +311,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-09-25T08:46:58.462Z"
+  "fetchedAt": "2026-09-25T08:55:33.835Z"
 }
