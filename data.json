@@ -55,19 +55,18 @@
         "requestedAt": "2026-09-25T14:34:22Z"
       }
     ],
-    "rach-id": [
-      {
-        "number": 7808,
-        "title": "feat(fibre): Introduce ability to use object storage for storing blob shards",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7808",
-        "repo": "celestia-app",
-        "author": "renaynay",
-        "authorCategory": "coworker",
-        "reviewer": "rach-id",
-        "requestedAt": "2026-09-25T13:55:28Z"
-      }
-    ],
+    "rach-id": [],
     "renaynay": [
+      {
+        "number": 7970,
+        "title": "fix(valaddr): preserve provider registry in genesis exports (backport #7969)",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/7970",
+        "repo": "celestia-app",
+        "author": "mergify",
+        "authorCategory": "bot",
+        "reviewer": "renaynay",
+        "requestedAt": "2026-09-25T15:29:47Z"
+      },
       {
         "number": 5256,
         "title": "fix(shrex/peers): don't keep pools in managers without shrexsub",
@@ -322,5 +321,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-09-25T15:19:21.657Z"
+  "fetchedAt": "2026-09-25T15:31:05.443Z"
 }
