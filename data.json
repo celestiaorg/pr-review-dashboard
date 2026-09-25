@@ -53,19 +53,20 @@
         "authorCategory": "coworker",
         "reviewer": "ninabarbakadze",
         "requestedAt": "2026-09-24T23:49:30Z"
-      },
-      {
-        "number": 7964,
-        "title": "chore(deps): bump google.golang.org/grpc from 1.82.1 to 1.83.2 in /tools/scan-blockresults",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7964",
-        "repo": "celestia-app",
-        "author": "dependabot",
-        "authorCategory": "bot",
-        "reviewer": "ninabarbakadze",
-        "requestedAt": "2026-09-25T11:55:20Z"
       }
     ],
-    "rach-id": [],
+    "rach-id": [
+      {
+        "number": 7808,
+        "title": "feat(fibre): Introduce ability to use object storage for storing blob shards",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/7808",
+        "repo": "celestia-app",
+        "author": "renaynay",
+        "authorCategory": "coworker",
+        "reviewer": "rach-id",
+        "requestedAt": "2026-09-25T13:55:28Z"
+      }
+    ],
     "renaynay": [],
     "rootulp": [
       {
@@ -87,6 +88,16 @@
         "authorCategory": "coworker",
         "reviewer": "rootulp",
         "requestedAt": "2026-09-25T10:32:41Z"
+      },
+      {
+        "number": 7808,
+        "title": "feat(fibre): Introduce ability to use object storage for storing blob shards",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/7808",
+        "repo": "celestia-app",
+        "author": "renaynay",
+        "authorCategory": "coworker",
+        "reviewer": "rootulp",
+        "requestedAt": "2026-09-25T13:55:28Z"
       }
     ],
     "vgonkivs": [
@@ -241,7 +252,18 @@
         "requestedAt": "2026-09-13T09:08:08Z"
       }
     ],
-    "walldiss": []
+    "walldiss": [
+      {
+        "number": 7808,
+        "title": "feat(fibre): Introduce ability to use object storage for storing blob shards",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/7808",
+        "repo": "celestia-app",
+        "author": "renaynay",
+        "authorCategory": "coworker",
+        "reviewer": "walldiss",
+        "requestedAt": "2026-09-25T13:53:33Z"
+      }
+    ]
   },
   "teamMembers": [
     {
@@ -289,5 +311,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-09-25T13:49:47.843Z"
+  "fetchedAt": "2026-09-25T13:56:17.253Z"
 }
