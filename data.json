@@ -55,18 +55,7 @@
         "requestedAt": "2026-09-25T03:33:20Z"
       }
     ],
-    "rach-id": [
-      {
-        "number": 297,
-        "title": "fix(share): resume partial shares after export",
-        "url": "https://github.com/celestiaorg/go-square/pull/297",
-        "repo": "go-square",
-        "author": "rootulp",
-        "authorCategory": "coworker",
-        "reviewer": "rach-id",
-        "requestedAt": "2026-09-24T23:49:30Z"
-      }
-    ],
+    "rach-id": [],
     "renaynay": [
       {
         "number": 5241,
@@ -300,5 +289,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-09-25T04:10:10.711Z"
+  "fetchedAt": "2026-09-25T04:29:16.946Z"
 }
