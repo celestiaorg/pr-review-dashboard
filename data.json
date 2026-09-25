@@ -35,16 +35,6 @@
         "requestedAt": "2026-09-23T13:05:34Z"
       },
       {
-        "number": 7933,
-        "title": "test: fuzz CheckTx and PrepareProposal consistency",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7933",
-        "repo": "celestia-app",
-        "author": "rootulp",
-        "authorCategory": "coworker",
-        "reviewer": "ninabarbakadze",
-        "requestedAt": "2026-09-24T04:09:50Z"
-      },
-      {
         "number": 296,
         "title": "refactor(share): centralize sequence finalization",
         "url": "https://github.com/celestiaorg/go-square/pull/296",
@@ -95,16 +85,6 @@
         "authorCategory": "coworker",
         "reviewer": "rach-id",
         "requestedAt": "2026-09-24T23:49:30Z"
-      },
-      {
-        "number": 7946,
-        "title": "fix(zkism): export all genesis messages per ISM",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7946",
-        "repo": "celestia-app",
-        "author": "zjubiology",
-        "authorCategory": "external",
-        "reviewer": "rach-id",
-        "requestedAt": "2026-09-25T03:45:54Z"
       }
     ],
     "renaynay": [
@@ -292,18 +272,7 @@
         "requestedAt": "2026-09-13T09:08:08Z"
       }
     ],
-    "walldiss": [
-      {
-        "number": 7944,
-        "title": "feat(fibre): add validator-local minimum upload size",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7944",
-        "repo": "celestia-app",
-        "author": "rootulp",
-        "authorCategory": "coworker",
-        "reviewer": "walldiss",
-        "requestedAt": "2026-09-24T23:42:25Z"
-      }
-    ]
+    "walldiss": []
   },
   "teamMembers": [
     {
@@ -351,5 +320,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-09-25T03:48:00.831Z"
+  "fetchedAt": "2026-09-25T03:55:38.858Z"
 }
