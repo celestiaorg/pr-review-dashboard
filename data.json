@@ -116,18 +116,7 @@
         "requestedAt": "2026-09-25T16:55:29Z"
       }
     ],
-    "rach-id": [
-      {
-        "number": 5284,
-        "title": "fix(blob): return errors instead of panicking on malformed proofs",
-        "url": "https://github.com/celestiaorg/celestia-node/pull/5284",
-        "repo": "celestia-node",
-        "author": "Bruce039",
-        "authorCategory": "external",
-        "reviewer": "rach-id",
-        "requestedAt": "2026-09-25T16:55:56Z"
-      }
-    ],
+    "rach-id": [],
     "renaynay": [
       {
         "number": 5256,
@@ -493,5 +482,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-09-25T17:29:47.749Z"
+  "fetchedAt": "2026-09-25T17:40:42.037Z"
 }
