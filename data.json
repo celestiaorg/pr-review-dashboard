@@ -55,18 +55,7 @@
         "requestedAt": "2026-09-24T23:49:30Z"
       }
     ],
-    "rach-id": [
-      {
-        "number": 3374,
-        "title": "fix(privval): reject SignRawBytes for other chain IDs",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3374",
-        "repo": "celestia-core",
-        "author": "ninabarbakadze",
-        "authorCategory": "coworker",
-        "reviewer": "rach-id",
-        "requestedAt": "2026-09-25T08:45:40Z"
-      }
-    ],
+    "rach-id": [],
     "renaynay": [],
     "rootulp": [
       {
@@ -291,5 +280,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-09-25T09:39:37.506Z"
+  "fetchedAt": "2026-09-25T09:48:58.530Z"
 }
