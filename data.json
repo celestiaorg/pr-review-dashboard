@@ -149,6 +149,16 @@
         "requestedAt": "2026-09-25T17:55:37Z"
       },
       {
+        "number": 7975,
+        "title": "fix(fibre): log missing blob shards at debug level",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/7975",
+        "repo": "celestia-app",
+        "author": "rootulp",
+        "authorCategory": "coworker",
+        "reviewer": "renaynay",
+        "requestedAt": "2026-09-25T21:32:04Z"
+      },
+      {
         "number": 5256,
         "title": "fix(shrex/peers): don't keep pools in managers without shrexsub",
         "url": "https://github.com/celestiaorg/celestia-node/pull/5256",
@@ -502,5 +512,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-09-25T21:28:40.960Z"
+  "fetchedAt": "2026-09-25T21:39:25.145Z"
 }
