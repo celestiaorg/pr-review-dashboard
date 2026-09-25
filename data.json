@@ -110,26 +110,6 @@
     ],
     "rootulp": [
       {
-        "number": 3356,
-        "title": "fix(rpc/jsonrpc): cap JSON-RPC client response body size",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3356",
-        "repo": "celestia-core",
-        "author": "ninabarbakadze",
-        "authorCategory": "coworker",
-        "reviewer": "rootulp",
-        "requestedAt": "2026-09-24T12:37:34Z"
-      },
-      {
-        "number": 7942,
-        "title": "feat: add scanning tool for block results",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7942",
-        "repo": "celestia-app",
-        "author": "vgonkivs",
-        "authorCategory": "coworker",
-        "reviewer": "rootulp",
-        "requestedAt": "2026-09-24T15:04:39Z"
-      },
-      {
         "number": 5253,
         "title": "test(tastora): add fresh light node canary for Mainnet and Mocha",
         "url": "https://github.com/celestiaorg/celestia-node/pull/5253",
@@ -341,5 +321,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-09-24T23:56:54.147Z"
+  "fetchedAt": "2026-09-25T00:38:33.387Z"
 }
