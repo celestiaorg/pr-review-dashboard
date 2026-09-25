@@ -104,9 +104,30 @@
         "authorCategory": "external",
         "reviewer": "ninabarbakadze",
         "requestedAt": "2026-09-25T15:55:33Z"
+      },
+      {
+        "number": 5282,
+        "title": "fix(nodebuilder/pruner): respect --archival=false",
+        "url": "https://github.com/celestiaorg/celestia-node/pull/5282",
+        "repo": "celestia-node",
+        "author": "Bruce039",
+        "authorCategory": "external",
+        "reviewer": "ninabarbakadze",
+        "requestedAt": "2026-09-25T16:55:29Z"
       }
     ],
-    "rach-id": [],
+    "rach-id": [
+      {
+        "number": 5284,
+        "title": "fix(blob): return errors instead of panicking on malformed proofs",
+        "url": "https://github.com/celestiaorg/celestia-node/pull/5284",
+        "repo": "celestia-node",
+        "author": "Bruce039",
+        "authorCategory": "external",
+        "reviewer": "rach-id",
+        "requestedAt": "2026-09-25T16:55:56Z"
+      }
+    ],
     "renaynay": [
       {
         "number": 5256,
@@ -137,6 +158,26 @@
         "authorCategory": "external",
         "reviewer": "renaynay",
         "requestedAt": "2026-09-25T16:01:22Z"
+      },
+      {
+        "number": 5286,
+        "title": "fix(share/shwap): return an error for an unknown row side in JSON",
+        "url": "https://github.com/celestiaorg/celestia-node/pull/5286",
+        "repo": "celestia-node",
+        "author": "0xShadowX",
+        "authorCategory": "external",
+        "reviewer": "renaynay",
+        "requestedAt": "2026-09-25T16:56:22Z"
+      },
+      {
+        "number": 5284,
+        "title": "fix(blob): return errors instead of panicking on malformed proofs",
+        "url": "https://github.com/celestiaorg/celestia-node/pull/5284",
+        "repo": "celestia-node",
+        "author": "Bruce039",
+        "authorCategory": "external",
+        "reviewer": "renaynay",
+        "requestedAt": "2026-09-25T17:00:15Z"
       }
     ],
     "rootulp": [
@@ -351,6 +392,26 @@
         "authorCategory": "external",
         "reviewer": "vgonkivs",
         "requestedAt": "2026-09-25T16:01:22Z"
+      },
+      {
+        "number": 5288,
+        "title": "fix(state): validate GrantFee amount",
+        "url": "https://github.com/celestiaorg/celestia-node/pull/5288",
+        "repo": "celestia-node",
+        "author": "0xShadowX",
+        "authorCategory": "external",
+        "reviewer": "vgonkivs",
+        "requestedAt": "2026-09-25T16:57:31Z"
+      },
+      {
+        "number": 5284,
+        "title": "fix(blob): return errors instead of panicking on malformed proofs",
+        "url": "https://github.com/celestiaorg/celestia-node/pull/5284",
+        "repo": "celestia-node",
+        "author": "Bruce039",
+        "authorCategory": "external",
+        "reviewer": "vgonkivs",
+        "requestedAt": "2026-09-25T17:00:15Z"
       }
     ],
     "walldiss": [
@@ -432,5 +493,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-09-25T16:54:40.620Z"
+  "fetchedAt": "2026-09-25T17:02:47.824Z"
 }
