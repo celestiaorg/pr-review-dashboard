@@ -20,16 +20,6 @@
         "authorCategory": "coworker",
         "reviewer": "chatton",
         "requestedAt": "2026-09-25T03:33:37Z"
-      },
-      {
-        "number": 7946,
-        "title": "fix(zkism): export all genesis messages per ISM",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7946",
-        "repo": "celestia-app",
-        "author": "zjubiology",
-        "authorCategory": "external",
-        "reviewer": "chatton",
-        "requestedAt": "2026-09-25T03:08:25Z"
       }
     ],
     "pippokr": [],
@@ -75,16 +65,6 @@
         "requestedAt": "2026-09-24T23:49:30Z"
       },
       {
-        "number": 3373,
-        "title": "chore: disable Mergify queue control comments",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3373",
-        "repo": "celestia-core",
-        "author": "rootulp",
-        "authorCategory": "coworker",
-        "reviewer": "ninabarbakadze",
-        "requestedAt": "2026-09-25T03:24:16Z"
-      },
-      {
         "number": 776,
         "title": "chore: disable Mergify queue control comments",
         "url": "https://github.com/celestiaorg/cosmos-sdk/pull/776",
@@ -96,26 +76,6 @@
       }
     ],
     "rach-id": [
-      {
-        "number": 7933,
-        "title": "test: fuzz CheckTx and PrepareProposal consistency",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7933",
-        "repo": "celestia-app",
-        "author": "rootulp",
-        "authorCategory": "coworker",
-        "reviewer": "rach-id",
-        "requestedAt": "2026-09-24T20:11:19Z"
-      },
-      {
-        "number": 7944,
-        "title": "feat(fibre): add validator-local minimum upload size",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7944",
-        "repo": "celestia-app",
-        "author": "rootulp",
-        "authorCategory": "coworker",
-        "reviewer": "rach-id",
-        "requestedAt": "2026-09-24T23:42:26Z"
-      },
       {
         "number": 296,
         "title": "refactor(share): centralize sequence finalization",
@@ -137,14 +97,14 @@
         "requestedAt": "2026-09-24T23:49:30Z"
       },
       {
-        "number": 298,
-        "title": "chore: disable Mergify queue control comments",
-        "url": "https://github.com/celestiaorg/go-square/pull/298",
-        "repo": "go-square",
-        "author": "rootulp",
-        "authorCategory": "coworker",
+        "number": 7946,
+        "title": "fix(zkism): export all genesis messages per ISM",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/7946",
+        "repo": "celestia-app",
+        "author": "zjubiology",
+        "authorCategory": "external",
         "reviewer": "rach-id",
-        "requestedAt": "2026-09-25T03:33:28Z"
+        "requestedAt": "2026-09-25T03:45:54Z"
       }
     ],
     "renaynay": [
@@ -391,5 +351,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-09-25T03:35:56.928Z"
+  "fetchedAt": "2026-09-25T03:48:00.831Z"
 }
