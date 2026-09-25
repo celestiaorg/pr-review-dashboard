@@ -65,16 +65,6 @@
     "pippokr": [],
     "ninabarbakadze": [
       {
-        "number": 7971,
-        "title": "fix(test): enable gRPC on state sync node",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7971",
-        "repo": "celestia-app",
-        "author": "rootulp",
-        "authorCategory": "coworker",
-        "reviewer": "ninabarbakadze",
-        "requestedAt": "2026-09-25T15:56:47Z"
-      },
-      {
         "number": 5255,
         "title": "fix(share/shwap): reset RangeNamespaceData on ReadFrom",
         "url": "https://github.com/celestiaorg/celestia-node/pull/5255",
@@ -411,5 +401,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-09-25T16:02:24.971Z"
+  "fetchedAt": "2026-09-25T16:24:43.274Z"
 }
