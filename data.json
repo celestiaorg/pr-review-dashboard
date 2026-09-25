@@ -43,9 +43,30 @@
         "authorCategory": "coworker",
         "reviewer": "ninabarbakadze",
         "requestedAt": "2026-09-24T23:49:30Z"
+      },
+      {
+        "number": 7964,
+        "title": "chore(deps): bump google.golang.org/grpc from 1.82.1 to 1.83.2 in /tools/scan-blockresults",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/7964",
+        "repo": "celestia-app",
+        "author": "dependabot",
+        "authorCategory": "bot",
+        "reviewer": "ninabarbakadze",
+        "requestedAt": "2026-09-25T11:55:20Z"
       }
     ],
-    "rach-id": [],
+    "rach-id": [
+      {
+        "number": 7963,
+        "title": "fix(fibre): coordinate uploads by full promise hash",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/7963",
+        "repo": "celestia-app",
+        "author": "renaynay",
+        "authorCategory": "coworker",
+        "reviewer": "rach-id",
+        "requestedAt": "2026-09-25T11:56:34Z"
+      }
+    ],
     "renaynay": [],
     "rootulp": [
       {
@@ -269,5 +290,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-09-25T11:53:53.349Z"
+  "fetchedAt": "2026-09-25T12:00:18.671Z"
 }
