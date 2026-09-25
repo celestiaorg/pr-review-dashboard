@@ -42,6 +42,16 @@
         "requestedAt": "2026-09-25T12:35:54Z"
       },
       {
+        "number": 829,
+        "title": "da-proxy(corto): app v10.3.0-corto, matching the fleet",
+        "url": "https://github.com/celestiaorg/infrastructure/pull/829",
+        "repo": "infrastructure",
+        "author": "pippokr",
+        "authorCategory": "coworker",
+        "reviewer": "chatton",
+        "requestedAt": "2026-09-25T21:41:43Z"
+      },
+      {
         "number": 5262,
         "title": "fix(nodebuilder/blob): stop prefixing blob data with 0x in submit",
         "url": "https://github.com/celestiaorg/celestia-node/pull/5262",
@@ -147,16 +157,6 @@
         "authorCategory": "coworker",
         "reviewer": "renaynay",
         "requestedAt": "2026-09-25T17:55:37Z"
-      },
-      {
-        "number": 7975,
-        "title": "fix(fibre): log missing blob shards at debug level",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7975",
-        "repo": "celestia-app",
-        "author": "rootulp",
-        "authorCategory": "coworker",
-        "reviewer": "renaynay",
-        "requestedAt": "2026-09-25T21:32:04Z"
       },
       {
         "number": 5256,
@@ -512,5 +512,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-09-25T21:39:25.145Z"
+  "fetchedAt": "2026-09-25T21:45:52.671Z"
 }
