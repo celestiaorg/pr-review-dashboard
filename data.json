@@ -55,28 +55,7 @@
         "requestedAt": "2026-09-25T11:55:20Z"
       }
     ],
-    "rach-id": [
-      {
-        "number": 7963,
-        "title": "fix(fibre): coordinate uploads by full promise hash",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7963",
-        "repo": "celestia-app",
-        "author": "renaynay",
-        "authorCategory": "coworker",
-        "reviewer": "rach-id",
-        "requestedAt": "2026-09-25T11:56:34Z"
-      },
-      {
-        "number": 3379,
-        "title": "fix(config): don't treat localhost hostname as loopback for privval gRPC",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3379",
-        "repo": "celestia-core",
-        "author": "ninabarbakadze",
-        "authorCategory": "coworker",
-        "reviewer": "rach-id",
-        "requestedAt": "2026-09-25T12:25:17Z"
-      }
-    ],
+    "rach-id": [],
     "renaynay": [],
     "rootulp": [
       {
@@ -110,16 +89,6 @@
         "authorCategory": "coworker",
         "reviewer": "vgonkivs",
         "requestedAt": "2026-09-25T03:33:33Z"
-      },
-      {
-        "number": 7965,
-        "title": "chore: merge main into fibre object storage branch",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7965",
-        "repo": "celestia-app",
-        "author": "renaynay",
-        "authorCategory": "coworker",
-        "reviewer": "vgonkivs",
-        "requestedAt": "2026-09-25T12:30:47Z"
       },
       {
         "number": 5167,
@@ -310,5 +279,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-09-25T12:30:52.629Z"
+  "fetchedAt": "2026-09-25T12:50:10.989Z"
 }
