@@ -136,18 +136,7 @@
         "requestedAt": "2026-09-25T16:55:29Z"
       }
     ],
-    "rach-id": [
-      {
-        "number": 7973,
-        "title": "chore: merge main into rachid/fibre-performance-main",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7973",
-        "repo": "celestia-app",
-        "author": "rootulp",
-        "authorCategory": "coworker",
-        "reviewer": "rach-id",
-        "requestedAt": "2026-09-25T18:34:41Z"
-      }
-    ],
+    "rach-id": [],
     "renaynay": [
       {
         "number": 5289,
@@ -220,16 +209,6 @@
         "authorCategory": "coworker",
         "reviewer": "rootulp",
         "requestedAt": "2026-09-25T09:13:08Z"
-      },
-      {
-        "number": 7972,
-        "title": "feat(fibre): Introduce ability to use object storage for storing blob shards (backport #7808)",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7972",
-        "repo": "celestia-app",
-        "author": "mergify",
-        "authorCategory": "bot",
-        "reviewer": "rootulp",
-        "requestedAt": "2026-09-25T18:31:01Z"
       },
       {
         "number": 5276,
@@ -523,5 +502,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-09-25T18:36:19.478Z"
+  "fetchedAt": "2026-09-25T18:47:14.112Z"
 }
