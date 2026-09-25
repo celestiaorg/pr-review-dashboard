@@ -20,16 +20,6 @@
         "authorCategory": "coworker",
         "reviewer": "chatton",
         "requestedAt": "2026-09-25T08:09:49Z"
-      },
-      {
-        "number": 826,
-        "title": "monitoring(mocha-5): fibre alert, dashboards and OTLP metrics",
-        "url": "https://github.com/celestiaorg/infrastructure/pull/826",
-        "repo": "infrastructure",
-        "author": "pippokr",
-        "authorCategory": "coworker",
-        "reviewer": "chatton",
-        "requestedAt": "2026-09-25T08:59:42Z"
       }
     ],
     "pippokr": [],
@@ -280,5 +270,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-09-25T10:05:00.515Z"
+  "fetchedAt": "2026-09-25T10:23:29.590Z"
 }
