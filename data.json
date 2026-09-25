@@ -50,10 +50,30 @@
         "authorCategory": "external",
         "reviewer": "chatton",
         "requestedAt": "2026-09-25T15:34:58Z"
+      },
+      {
+        "number": 5274,
+        "title": "fix(state/txclient): validate gas price before building the fee",
+        "url": "https://github.com/celestiaorg/celestia-node/pull/5274",
+        "repo": "celestia-node",
+        "author": "FlashWayne",
+        "authorCategory": "external",
+        "reviewer": "chatton",
+        "requestedAt": "2026-09-25T16:01:21Z"
       }
     ],
     "pippokr": [],
     "ninabarbakadze": [
+      {
+        "number": 7971,
+        "title": "fix(test): enable gRPC on state sync node",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/7971",
+        "repo": "celestia-app",
+        "author": "rootulp",
+        "authorCategory": "coworker",
+        "reviewer": "ninabarbakadze",
+        "requestedAt": "2026-09-25T15:56:47Z"
+      },
       {
         "number": 5255,
         "title": "fix(share/shwap): reset RangeNamespaceData on ReadFrom",
@@ -73,6 +93,16 @@
         "authorCategory": "external",
         "reviewer": "ninabarbakadze",
         "requestedAt": "2026-09-25T15:41:15Z"
+      },
+      {
+        "number": 5266,
+        "title": "fix(das): resume an interrupted recent job after restart",
+        "url": "https://github.com/celestiaorg/celestia-node/pull/5266",
+        "repo": "celestia-node",
+        "author": "0xShadowX",
+        "authorCategory": "external",
+        "reviewer": "ninabarbakadze",
+        "requestedAt": "2026-09-25T15:55:33Z"
       }
     ],
     "rach-id": [],
@@ -86,6 +116,26 @@
         "authorCategory": "external",
         "reviewer": "renaynay",
         "requestedAt": "2026-09-25T15:06:02Z"
+      },
+      {
+        "number": 5270,
+        "title": "fix(share/shwap): bound proof node count in wire decoders",
+        "url": "https://github.com/celestiaorg/celestia-node/pull/5270",
+        "repo": "celestia-node",
+        "author": "FlashWayne",
+        "authorCategory": "external",
+        "reviewer": "renaynay",
+        "requestedAt": "2026-09-25T15:58:25Z"
+      },
+      {
+        "number": 5268,
+        "title": "fix(api/client): use the configured conn for the fibre state client",
+        "url": "https://github.com/celestiaorg/celestia-node/pull/5268",
+        "repo": "celestia-node",
+        "author": "0xShadowX",
+        "authorCategory": "external",
+        "reviewer": "renaynay",
+        "requestedAt": "2026-09-25T16:01:22Z"
       }
     ],
     "rootulp": [
@@ -98,16 +148,6 @@
         "authorCategory": "coworker",
         "reviewer": "rootulp",
         "requestedAt": "2026-09-25T09:13:08Z"
-      },
-      {
-        "number": 7808,
-        "title": "feat(fibre): Introduce ability to use object storage for storing blob shards",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7808",
-        "repo": "celestia-app",
-        "author": "renaynay",
-        "authorCategory": "coworker",
-        "reviewer": "rootulp",
-        "requestedAt": "2026-09-25T13:55:28Z"
       }
     ],
     "vgonkivs": [
@@ -280,6 +320,26 @@
         "authorCategory": "external",
         "reviewer": "vgonkivs",
         "requestedAt": "2026-09-25T15:33:39Z"
+      },
+      {
+        "number": 5272,
+        "title": "fix(fibre/stateclient): reject empty proof ops",
+        "url": "https://github.com/celestiaorg/celestia-node/pull/5272",
+        "repo": "celestia-node",
+        "author": "FlashWayne",
+        "authorCategory": "external",
+        "reviewer": "vgonkivs",
+        "requestedAt": "2026-09-25T15:59:38Z"
+      },
+      {
+        "number": 5268,
+        "title": "fix(api/client): use the configured conn for the fibre state client",
+        "url": "https://github.com/celestiaorg/celestia-node/pull/5268",
+        "repo": "celestia-node",
+        "author": "0xShadowX",
+        "authorCategory": "external",
+        "reviewer": "vgonkivs",
+        "requestedAt": "2026-09-25T16:01:22Z"
       }
     ],
     "walldiss": [
@@ -351,5 +411,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-09-25T15:54:22.989Z"
+  "fetchedAt": "2026-09-25T16:02:24.971Z"
 }
