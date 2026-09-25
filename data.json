@@ -42,16 +42,6 @@
         "requestedAt": "2026-09-25T12:35:54Z"
       },
       {
-        "number": 3382,
-        "title": "fix(ci): pin test diff action to commit SHA",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3382",
-        "repo": "celestia-core",
-        "author": "rootulp",
-        "authorCategory": "coworker",
-        "reviewer": "chatton",
-        "requestedAt": "2026-09-25T17:51:43Z"
-      },
-      {
         "number": 5262,
         "title": "fix(nodebuilder/blob): stop prefixing blob data with 0x in submit",
         "url": "https://github.com/celestiaorg/celestia-node/pull/5262",
@@ -85,6 +75,16 @@
       }
     ],
     "ninabarbakadze": [
+      {
+        "number": 3382,
+        "title": "fix(ci): pin test diff action to commit SHA",
+        "url": "https://github.com/celestiaorg/celestia-core/pull/3382",
+        "repo": "celestia-core",
+        "author": "rootulp",
+        "authorCategory": "coworker",
+        "reviewer": "ninabarbakadze",
+        "requestedAt": "2026-09-25T17:55:13Z"
+      },
       {
         "number": 5255,
         "title": "fix(share/shwap): reset RangeNamespaceData on ReadFrom",
@@ -128,6 +128,16 @@
     ],
     "rach-id": [],
     "renaynay": [
+      {
+        "number": 5289,
+        "title": "fix(ci): pin reusable Docker workflows to commit SHA",
+        "url": "https://github.com/celestiaorg/celestia-node/pull/5289",
+        "repo": "celestia-node",
+        "author": "rootulp",
+        "authorCategory": "coworker",
+        "reviewer": "renaynay",
+        "requestedAt": "2026-09-25T17:55:37Z"
+      },
       {
         "number": 5256,
         "title": "fix(shrex/peers): don't keep pools in managers without shrexsub",
@@ -425,16 +435,6 @@
         "requestedAt": "2026-09-25T13:53:33Z"
       },
       {
-        "number": 5289,
-        "title": "fix(ci): pin reusable Docker workflows to commit SHA",
-        "url": "https://github.com/celestiaorg/celestia-node/pull/5289",
-        "repo": "celestia-node",
-        "author": "rootulp",
-        "authorCategory": "coworker",
-        "reviewer": "walldiss",
-        "requestedAt": "2026-09-25T17:51:45Z"
-      },
-      {
         "number": 5264,
         "title": "fix(fibre): detach Upload's shard fan-out from the caller ctx",
         "url": "https://github.com/celestiaorg/celestia-node/pull/5264",
@@ -502,5 +502,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-09-25T17:54:00.651Z"
+  "fetchedAt": "2026-09-25T18:00:34.152Z"
 }
