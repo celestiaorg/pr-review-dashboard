@@ -1,6 +1,17 @@
 {
   "reviews": {
-    "chatton": [],
+    "chatton": [
+      {
+        "number": 7946,
+        "title": "fix(zkism): export all genesis messages per ISM",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/7946",
+        "repo": "celestia-app",
+        "author": "zjubiology",
+        "authorCategory": "external",
+        "reviewer": "chatton",
+        "requestedAt": "2026-09-25T03:08:25Z"
+      }
+    ],
     "pippokr": [],
     "ninabarbakadze": [
       {
@@ -108,18 +119,7 @@
         "requestedAt": "2026-09-23T03:42:11Z"
       }
     ],
-    "rootulp": [
-      {
-        "number": 5253,
-        "title": "test(tastora): add fresh light node canary for Mainnet and Mocha",
-        "url": "https://github.com/celestiaorg/celestia-node/pull/5253",
-        "repo": "celestia-node",
-        "author": "Denend",
-        "authorCategory": "external",
-        "reviewer": "rootulp",
-        "requestedAt": "2026-09-24T13:50:17Z"
-      }
-    ],
+    "rootulp": [],
     "vgonkivs": [
       {
         "number": 5167,
@@ -272,6 +272,16 @@
         "authorCategory": "coworker",
         "reviewer": "walldiss",
         "requestedAt": "2026-09-24T23:42:25Z"
+      },
+      {
+        "number": 3373,
+        "title": "chore: disable Mergify queue control comments",
+        "url": "https://github.com/celestiaorg/celestia-core/pull/3373",
+        "repo": "celestia-core",
+        "author": "rootulp",
+        "authorCategory": "coworker",
+        "reviewer": "walldiss",
+        "requestedAt": "2026-09-25T03:21:20Z"
       }
     ]
   },
@@ -321,5 +331,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-09-25T02:58:37.657Z"
+  "fetchedAt": "2026-09-25T03:22:31.552Z"
 }
