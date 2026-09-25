@@ -2,16 +2,6 @@
   "reviews": {
     "chatton": [
       {
-        "number": 7947,
-        "title": "fix(test): enable gRPC for live-network sync nodes",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7947",
-        "repo": "celestia-app",
-        "author": "rootulp",
-        "authorCategory": "coworker",
-        "reviewer": "chatton",
-        "requestedAt": "2026-09-25T03:25:23Z"
-      },
-      {
         "number": 453,
         "title": "chore: disable Mergify queue control comments",
         "url": "https://github.com/celestiaorg/rsmt2d/pull/453",
@@ -43,16 +33,6 @@
         "authorCategory": "coworker",
         "reviewer": "ninabarbakadze",
         "requestedAt": "2026-09-24T23:49:30Z"
-      },
-      {
-        "number": 776,
-        "title": "chore: disable Mergify queue control comments",
-        "url": "https://github.com/celestiaorg/cosmos-sdk/pull/776",
-        "repo": "cosmos-sdk",
-        "author": "rootulp",
-        "authorCategory": "coworker",
-        "reviewer": "ninabarbakadze",
-        "requestedAt": "2026-09-25T03:33:20Z"
       }
     ],
     "rach-id": [],
@@ -289,5 +269,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-09-25T05:00:25.779Z"
+  "fetchedAt": "2026-09-25T05:21:09.346Z"
 }
