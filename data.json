@@ -74,6 +74,16 @@
     ],
     "pippokr": [
       {
+        "number": 7997,
+        "title": "feat(multiplexer): warn about embedded binaries from previous releases",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/7997",
+        "repo": "celestia-app",
+        "author": "rootulp",
+        "authorCategory": "coworker",
+        "reviewer": "pippokr",
+        "requestedAt": "2026-09-26T14:43:55Z"
+      },
+      {
         "number": 5280,
         "title": "fix(state/cmd): return an error on the wrong address kind",
         "url": "https://github.com/celestiaorg/celestia-node/pull/5280",
@@ -186,6 +196,46 @@
         "requestedAt": "2026-09-26T14:39:24Z"
       },
       {
+        "number": 7998,
+        "title": "fix(scripts): fix mainnet, mocha, and single-node scripts",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/7998",
+        "repo": "celestia-app",
+        "author": "rootulp",
+        "authorCategory": "coworker",
+        "reviewer": "ninabarbakadze",
+        "requestedAt": "2026-09-26T14:40:17Z"
+      },
+      {
+        "number": 7999,
+        "title": "fix(docker): quote entrypoint args and remove unused build args",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/7999",
+        "repo": "celestia-app",
+        "author": "rootulp",
+        "authorCategory": "coworker",
+        "reviewer": "ninabarbakadze",
+        "requestedAt": "2026-09-26T14:41:32Z"
+      },
+      {
+        "number": 7997,
+        "title": "feat(multiplexer): warn about embedded binaries from previous releases",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/7997",
+        "repo": "celestia-app",
+        "author": "rootulp",
+        "authorCategory": "coworker",
+        "reviewer": "ninabarbakadze",
+        "requestedAt": "2026-09-26T14:43:58Z"
+      },
+      {
+        "number": 7994,
+        "title": "fix(user): query network min gas price from x/minfee",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/7994",
+        "repo": "celestia-app",
+        "author": "rootulp",
+        "authorCategory": "coworker",
+        "reviewer": "ninabarbakadze",
+        "requestedAt": "2026-09-26T14:46:23Z"
+      },
+      {
         "number": 5255,
         "title": "fix(share/shwap): reset RangeNamespaceData on ReadFrom",
         "url": "https://github.com/celestiaorg/celestia-node/pull/5255",
@@ -296,6 +346,16 @@
         "authorCategory": "coworker",
         "reviewer": "rach-id",
         "requestedAt": "2026-09-26T14:39:24Z"
+      },
+      {
+        "number": 7996,
+        "title": "fix(cmd): log consensus timeout overrides",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/7996",
+        "repo": "celestia-app",
+        "author": "rootulp",
+        "authorCategory": "coworker",
+        "reviewer": "rach-id",
+        "requestedAt": "2026-09-26T14:45:11Z"
       }
     ],
     "renaynay": [
@@ -693,5 +753,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-09-26T14:39:42.716Z"
+  "fetchedAt": "2026-09-26T14:46:35.017Z"
 }
