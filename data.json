@@ -473,6 +473,16 @@
         "authorCategory": "external",
         "reviewer": "walldiss",
         "requestedAt": "2026-09-25T16:48:54Z"
+      },
+      {
+        "number": 3383,
+        "title": "test(consensus): drain prevote before injecting precommits",
+        "url": "https://github.com/celestiaorg/celestia-core/pull/3383",
+        "repo": "celestia-core",
+        "author": "HusseinAdeiza",
+        "authorCategory": "external",
+        "reviewer": "walldiss",
+        "requestedAt": "2026-09-26T09:23:53Z"
       }
     ]
   },
@@ -522,5 +532,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-09-26T09:15:37.835Z"
+  "fetchedAt": "2026-09-26T09:28:22.194Z"
 }
