@@ -288,16 +288,6 @@
         "requestedAt": "2026-09-26T13:41:35Z"
       },
       {
-        "number": 8006,
-        "title": "fix(cmd): shorten init output, fix BBR hint, document env vars",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/8006",
-        "repo": "celestia-app",
-        "author": "rootulp",
-        "authorCategory": "coworker",
-        "reviewer": "rach-id",
-        "requestedAt": "2026-09-26T13:44:30Z"
-      },
-      {
         "number": 8004,
         "title": "refactor(app): dedupe ante handler and EDS construction",
         "url": "https://github.com/celestiaorg/celestia-app/pull/8004",
@@ -306,46 +296,6 @@
         "authorCategory": "coworker",
         "reviewer": "rach-id",
         "requestedAt": "2026-09-26T13:47:21Z"
-      },
-      {
-        "number": 8003,
-        "title": "fix(cmd): point update-config to config sync",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/8003",
-        "repo": "celestia-app",
-        "author": "rootulp",
-        "authorCategory": "coworker",
-        "reviewer": "rach-id",
-        "requestedAt": "2026-09-26T13:48:34Z"
-      },
-      {
-        "number": 8000,
-        "title": "docs: fix stale operator docs",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/8000",
-        "repo": "celestia-app",
-        "author": "rootulp",
-        "authorCategory": "coworker",
-        "reviewer": "rach-id",
-        "requestedAt": "2026-09-26T14:05:14Z"
-      },
-      {
-        "number": 8001,
-        "title": "chore(build): collapse download-vN-binaries Makefile targets",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/8001",
-        "repo": "celestia-app",
-        "author": "rootulp",
-        "authorCategory": "coworker",
-        "reviewer": "rach-id",
-        "requestedAt": "2026-09-26T14:39:24Z"
-      },
-      {
-        "number": 7996,
-        "title": "fix(cmd): log consensus timeout overrides",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7996",
-        "repo": "celestia-app",
-        "author": "rootulp",
-        "authorCategory": "coworker",
-        "reviewer": "rach-id",
-        "requestedAt": "2026-09-26T14:45:11Z"
       }
     ],
     "renaynay": [
@@ -723,5 +673,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-09-26T15:59:17.582Z"
+  "fetchedAt": "2026-09-26T16:20:21.825Z"
 }
