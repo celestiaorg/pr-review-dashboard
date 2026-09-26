@@ -52,16 +52,6 @@
         "requestedAt": "2026-09-25T21:41:43Z"
       },
       {
-        "number": 8000,
-        "title": "docs: fix stale operator docs",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/8000",
-        "repo": "celestia-app",
-        "author": "rootulp",
-        "authorCategory": "coworker",
-        "reviewer": "chatton",
-        "requestedAt": "2026-09-26T14:05:09Z"
-      },
-      {
         "number": 5262,
         "title": "fix(nodebuilder/blob): stop prefixing blob data with 0x in submit",
         "url": "https://github.com/celestiaorg/celestia-node/pull/5262",
@@ -186,6 +176,16 @@
         "requestedAt": "2026-09-26T14:05:14Z"
       },
       {
+        "number": 8001,
+        "title": "chore(build): collapse download-vN-binaries Makefile targets",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/8001",
+        "repo": "celestia-app",
+        "author": "rootulp",
+        "authorCategory": "coworker",
+        "reviewer": "ninabarbakadze",
+        "requestedAt": "2026-09-26T14:39:24Z"
+      },
+      {
         "number": 5255,
         "title": "fix(share/shwap): reset RangeNamespaceData on ReadFrom",
         "url": "https://github.com/celestiaorg/celestia-node/pull/5255",
@@ -286,6 +286,16 @@
         "authorCategory": "coworker",
         "reviewer": "rach-id",
         "requestedAt": "2026-09-26T14:05:14Z"
+      },
+      {
+        "number": 8001,
+        "title": "chore(build): collapse download-vN-binaries Makefile targets",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/8001",
+        "repo": "celestia-app",
+        "author": "rootulp",
+        "authorCategory": "coworker",
+        "reviewer": "rach-id",
+        "requestedAt": "2026-09-26T14:39:24Z"
       }
     ],
     "renaynay": [
@@ -683,5 +693,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-09-26T14:29:48.539Z"
+  "fetchedAt": "2026-09-26T14:39:42.716Z"
 }
