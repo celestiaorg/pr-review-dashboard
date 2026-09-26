@@ -126,16 +126,6 @@
         "requestedAt": "2026-09-26T13:41:36Z"
       },
       {
-        "number": 8004,
-        "title": "refactor(app): dedupe ante handler and EDS construction",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/8004",
-        "repo": "celestia-app",
-        "author": "rootulp",
-        "authorCategory": "coworker",
-        "reviewer": "ninabarbakadze",
-        "requestedAt": "2026-09-26T13:47:25Z"
-      },
-      {
         "number": 7995,
         "title": "fix(deps): bump cosmos-sdk to v0.52.12 and store to v1.1.3-celestia.3",
         "url": "https://github.com/celestiaorg/celestia-app/pull/7995",
@@ -236,18 +226,7 @@
         "requestedAt": "2026-09-25T16:55:29Z"
       }
     ],
-    "rach-id": [
-      {
-        "number": 7991,
-        "title": "fix(multiplexer): don't forward unsupported start flags to embedded binaries",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7991",
-        "repo": "celestia-app",
-        "author": "rootulp",
-        "authorCategory": "coworker",
-        "reviewer": "rach-id",
-        "requestedAt": "2026-09-26T13:41:35Z"
-      }
-    ],
+    "rach-id": [],
     "renaynay": [
       {
         "number": 5289,
@@ -623,5 +602,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-09-26T16:31:41.328Z"
+  "fetchedAt": "2026-09-26T16:42:01.178Z"
 }
