@@ -146,6 +146,16 @@
         "requestedAt": "2026-09-26T13:47:25Z"
       },
       {
+        "number": 8003,
+        "title": "fix(cmd): point update-config to config sync",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/8003",
+        "repo": "celestia-app",
+        "author": "rootulp",
+        "authorCategory": "coworker",
+        "reviewer": "ninabarbakadze",
+        "requestedAt": "2026-09-26T13:48:34Z"
+      },
+      {
         "number": 5255,
         "title": "fix(share/shwap): reset RangeNamespaceData on ReadFrom",
         "url": "https://github.com/celestiaorg/celestia-node/pull/5255",
@@ -226,6 +236,16 @@
         "authorCategory": "coworker",
         "reviewer": "rach-id",
         "requestedAt": "2026-09-26T13:47:21Z"
+      },
+      {
+        "number": 8003,
+        "title": "fix(cmd): point update-config to config sync",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/8003",
+        "repo": "celestia-app",
+        "author": "rootulp",
+        "authorCategory": "coworker",
+        "reviewer": "rach-id",
+        "requestedAt": "2026-09-26T13:48:34Z"
       }
     ],
     "renaynay": [
@@ -603,5 +623,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-09-26T13:47:45.768Z"
+  "fetchedAt": "2026-09-26T13:54:27.038Z"
 }
