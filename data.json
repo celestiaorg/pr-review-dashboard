@@ -84,16 +84,6 @@
     ],
     "pippokr": [
       {
-        "number": 8009,
-        "title": "feat(fibre): add gRPC health and readiness diagnostics to the fibre server",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/8009",
-        "repo": "celestia-app",
-        "author": "rach-id",
-        "authorCategory": "coworker",
-        "reviewer": "pippokr",
-        "requestedAt": "2026-09-26T09:28:43Z"
-      },
-      {
         "number": 5280,
         "title": "fix(state/cmd): return an error on the wrong address kind",
         "url": "https://github.com/celestiaorg/celestia-node/pull/5280",
@@ -542,5 +532,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-09-26T09:58:45.366Z"
+  "fetchedAt": "2026-09-26T10:17:21.270Z"
 }
