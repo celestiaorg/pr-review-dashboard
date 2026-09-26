@@ -12,16 +12,6 @@
         "requestedAt": "2026-09-25T03:33:37Z"
       },
       {
-        "number": 824,
-        "title": "monitoring(mainnet): page the da-proxy on-call for da-proxy consensus nodes",
-        "url": "https://github.com/celestiaorg/infrastructure/pull/824",
-        "repo": "infrastructure",
-        "author": "pippokr",
-        "authorCategory": "coworker",
-        "reviewer": "chatton",
-        "requestedAt": "2026-09-25T08:09:49Z"
-      },
-      {
         "number": 827,
         "title": "docs: restore or spin up a new node from donor",
         "url": "https://github.com/celestiaorg/infrastructure/pull/827",
@@ -592,5 +582,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-09-26T18:46:22.309Z"
+  "fetchedAt": "2026-09-26T18:53:52.314Z"
 }
