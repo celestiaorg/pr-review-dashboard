@@ -52,6 +52,16 @@
         "requestedAt": "2026-09-25T21:41:43Z"
       },
       {
+        "number": 8000,
+        "title": "docs: fix stale operator docs",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/8000",
+        "repo": "celestia-app",
+        "author": "rootulp",
+        "authorCategory": "coworker",
+        "reviewer": "chatton",
+        "requestedAt": "2026-09-26T14:05:09Z"
+      },
+      {
         "number": 5262,
         "title": "fix(nodebuilder/blob): stop prefixing blob data with 0x in submit",
         "url": "https://github.com/celestiaorg/celestia-node/pull/5262",
@@ -166,6 +176,16 @@
         "requestedAt": "2026-09-26T14:00:44Z"
       },
       {
+        "number": 8000,
+        "title": "docs: fix stale operator docs",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/8000",
+        "repo": "celestia-app",
+        "author": "rootulp",
+        "authorCategory": "coworker",
+        "reviewer": "ninabarbakadze",
+        "requestedAt": "2026-09-26T14:05:14Z"
+      },
+      {
         "number": 5255,
         "title": "fix(share/shwap): reset RangeNamespaceData on ReadFrom",
         "url": "https://github.com/celestiaorg/celestia-node/pull/5255",
@@ -256,6 +276,16 @@
         "authorCategory": "coworker",
         "reviewer": "rach-id",
         "requestedAt": "2026-09-26T13:48:34Z"
+      },
+      {
+        "number": 8000,
+        "title": "docs: fix stale operator docs",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/8000",
+        "repo": "celestia-app",
+        "author": "rootulp",
+        "authorCategory": "coworker",
+        "reviewer": "rach-id",
+        "requestedAt": "2026-09-26T14:05:14Z"
       }
     ],
     "renaynay": [
@@ -268,6 +298,16 @@
         "authorCategory": "coworker",
         "reviewer": "renaynay",
         "requestedAt": "2026-09-25T17:55:37Z"
+      },
+      {
+        "number": 7992,
+        "title": "fix(fibre): skip malformed prune keys instead of panicking",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/7992",
+        "repo": "celestia-app",
+        "author": "rootulp",
+        "authorCategory": "coworker",
+        "reviewer": "renaynay",
+        "requestedAt": "2026-09-26T14:02:27Z"
       },
       {
         "number": 5256,
@@ -352,6 +392,16 @@
         "authorCategory": "coworker",
         "reviewer": "vgonkivs",
         "requestedAt": "2026-09-25T03:33:33Z"
+      },
+      {
+        "number": 8002,
+        "title": "chore: remove unused Makefile targets and repo cruft",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/8002",
+        "repo": "celestia-app",
+        "author": "rootulp",
+        "authorCategory": "coworker",
+        "reviewer": "vgonkivs",
+        "requestedAt": "2026-09-26T14:04:18Z"
       },
       {
         "number": 5167,
@@ -633,5 +683,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-09-26T14:02:33.216Z"
+  "fetchedAt": "2026-09-26T14:19:39.551Z"
 }
