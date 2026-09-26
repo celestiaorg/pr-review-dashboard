@@ -52,6 +52,16 @@
         "requestedAt": "2026-09-25T21:41:43Z"
       },
       {
+        "number": 8010,
+        "title": "fix(test): let Docker allocate end-to-end test host ports",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/8010",
+        "repo": "celestia-app",
+        "author": "rootulp",
+        "authorCategory": "coworker",
+        "reviewer": "chatton",
+        "requestedAt": "2026-09-26T15:06:46Z"
+      },
+      {
         "number": 5262,
         "title": "fix(nodebuilder/blob): stop prefixing blob data with 0x in submit",
         "url": "https://github.com/celestiaorg/celestia-node/pull/5262",
@@ -298,16 +308,6 @@
         "requestedAt": "2026-09-26T13:44:30Z"
       },
       {
-        "number": 8005,
-        "title": "chore(test): remove unused test helpers",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/8005",
-        "repo": "celestia-app",
-        "author": "rootulp",
-        "authorCategory": "coworker",
-        "reviewer": "rach-id",
-        "requestedAt": "2026-09-26T13:45:30Z"
-      },
-      {
         "number": 8004,
         "title": "refactor(app): dedupe ante handler and EDS construction",
         "url": "https://github.com/celestiaorg/celestia-app/pull/8004",
@@ -440,6 +440,16 @@
         "authorCategory": "external",
         "reviewer": "rootulp",
         "requestedAt": "2026-09-25T16:48:34Z"
+      },
+      {
+        "number": 3383,
+        "title": "test(consensus): drain prevote before injecting precommits",
+        "url": "https://github.com/celestiaorg/celestia-core/pull/3383",
+        "repo": "celestia-core",
+        "author": "HusseinAdeiza",
+        "authorCategory": "external",
+        "reviewer": "rootulp",
+        "requestedAt": "2026-09-26T15:12:36Z"
       }
     ],
     "vgonkivs": [
@@ -684,16 +694,6 @@
         "authorCategory": "external",
         "reviewer": "walldiss",
         "requestedAt": "2026-09-25T16:48:54Z"
-      },
-      {
-        "number": 3383,
-        "title": "test(consensus): drain prevote before injecting precommits",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3383",
-        "repo": "celestia-core",
-        "author": "HusseinAdeiza",
-        "authorCategory": "external",
-        "reviewer": "walldiss",
-        "requestedAt": "2026-09-26T09:23:53Z"
       }
     ]
   },
@@ -743,5 +743,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-09-26T14:59:48.145Z"
+  "fetchedAt": "2026-09-26T15:17:38.261Z"
 }
