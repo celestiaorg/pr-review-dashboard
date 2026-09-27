@@ -289,6 +289,16 @@
         "authorCategory": "external",
         "reviewer": "rootulp",
         "requestedAt": "2026-09-25T16:48:34Z"
+      },
+      {
+        "number": 8013,
+        "title": "feat(fibre): export the time of the last successful shard upload",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/8013",
+        "repo": "celestia-app",
+        "author": "alexeymoskalev-devops",
+        "authorCategory": "external",
+        "reviewer": "rootulp",
+        "requestedAt": "2026-09-27T05:24:49Z"
       }
     ],
     "vgonkivs": [
@@ -582,5 +592,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-09-27T05:23:49.333Z"
+  "fetchedAt": "2026-09-27T05:33:31.571Z"
 }
