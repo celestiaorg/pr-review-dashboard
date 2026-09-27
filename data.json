@@ -206,18 +206,7 @@
         "requestedAt": "2026-09-25T16:55:29Z"
       }
     ],
-    "rach-id": [
-      {
-        "number": 8014,
-        "title": "feat(fibre): export the time of the last successful shard upload (backport #8013)",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/8014",
-        "repo": "celestia-app",
-        "author": "mergify",
-        "authorCategory": "bot",
-        "reviewer": "rach-id",
-        "requestedAt": "2026-09-27T06:28:14Z"
-      }
-    ],
+    "rach-id": [],
     "renaynay": [
       {
         "number": 5289,
@@ -228,16 +217,6 @@
         "authorCategory": "coworker",
         "reviewer": "renaynay",
         "requestedAt": "2026-09-25T17:55:37Z"
-      },
-      {
-        "number": 8014,
-        "title": "feat(fibre): export the time of the last successful shard upload (backport #8013)",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/8014",
-        "repo": "celestia-app",
-        "author": "mergify",
-        "authorCategory": "bot",
-        "reviewer": "renaynay",
-        "requestedAt": "2026-09-27T06:22:23Z"
       },
       {
         "number": 5256,
@@ -603,5 +582,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-09-27T07:23:39.908Z"
+  "fetchedAt": "2026-09-27T07:34:16.208Z"
 }
