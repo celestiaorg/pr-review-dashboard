@@ -1,9 +1,9 @@
 {
   "counts": {
     "chatton": {
-      "week": 21,
-      "month": 128,
-      "year": 189
+      "week": 22,
+      "month": 129,
+      "year": 190
     },
     "pippokr": {
       "week": 26,
@@ -16,9 +16,9 @@
       "year": 589
     },
     "rach-id": {
-      "week": 71,
-      "month": 140,
-      "year": 905
+      "week": 80,
+      "month": 149,
+      "year": 914
     },
     "renaynay": {
       "week": 12,
@@ -26,9 +26,9 @@
       "year": 88
     },
     "rootulp": {
-      "week": 44,
-      "month": 104,
-      "year": 593
+      "week": 49,
+      "month": 109,
+      "year": 598
     },
     "vgonkivs": {
       "week": 18,
@@ -41,7 +41,7 @@
       "year": 127
     }
   },
-  "computedAt": "2026-09-26T00:06:25.187Z",
+  "computedAt": "2026-09-27T00:07:57.790Z",
   "windows": {
     "weekStart": "2026-09-21T00:00:00.000Z",
     "monthStart": "2026-09-01T00:00:00.000Z",
