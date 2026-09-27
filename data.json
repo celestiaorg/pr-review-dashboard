@@ -219,6 +219,16 @@
         "requestedAt": "2026-09-25T17:55:37Z"
       },
       {
+        "number": 8014,
+        "title": "feat(fibre): export the time of the last successful shard upload (backport #8013)",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/8014",
+        "repo": "celestia-app",
+        "author": "mergify",
+        "authorCategory": "bot",
+        "reviewer": "renaynay",
+        "requestedAt": "2026-09-27T06:22:23Z"
+      },
+      {
         "number": 5256,
         "title": "fix(shrex/peers): don't keep pools in managers without shrexsub",
         "url": "https://github.com/celestiaorg/celestia-node/pull/5256",
@@ -289,16 +299,6 @@
         "authorCategory": "external",
         "reviewer": "rootulp",
         "requestedAt": "2026-09-25T16:48:34Z"
-      },
-      {
-        "number": 8013,
-        "title": "feat(fibre): export the time of the last successful shard upload",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/8013",
-        "repo": "celestia-app",
-        "author": "alexeymoskalev-devops",
-        "authorCategory": "external",
-        "reviewer": "rootulp",
-        "requestedAt": "2026-09-27T05:24:49Z"
       }
     ],
     "vgonkivs": [
@@ -592,5 +592,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-09-27T05:57:19.857Z"
+  "fetchedAt": "2026-09-27T06:27:16.494Z"
 }
