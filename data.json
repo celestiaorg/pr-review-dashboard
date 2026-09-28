@@ -2,16 +2,6 @@
   "reviews": {
     "chatton": [
       {
-        "number": 8018,
-        "title": "test(app): raise ProcessProposal coverage above 95%",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/8018",
-        "repo": "celestia-app",
-        "author": "rootulp",
-        "authorCategory": "coworker",
-        "reviewer": "chatton",
-        "requestedAt": "2026-09-28T03:29:48Z"
-      },
-      {
         "number": 5262,
         "title": "fix(nodebuilder/blob): stop prefixing blob data with 0x in submit",
         "url": "https://github.com/celestiaorg/celestia-node/pull/5262",
@@ -643,5 +633,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-09-28T13:13:47.935Z"
+  "fetchedAt": "2026-09-28T13:33:06.704Z"
 }
