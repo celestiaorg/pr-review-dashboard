@@ -216,6 +216,16 @@
         "authorCategory": "coworker",
         "reviewer": "rach-id",
         "requestedAt": "2026-09-28T06:10:21Z"
+      },
+      {
+        "number": 7842,
+        "title": "feat(fibre)!: support mTLS for the fibre signer gRPC connection",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/7842",
+        "repo": "celestia-app",
+        "author": "ninabarbakadze",
+        "authorCategory": "coworker",
+        "reviewer": "rach-id",
+        "requestedAt": "2026-09-28T12:38:42Z"
       }
     ],
     "renaynay": [
@@ -633,5 +643,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-09-28T12:35:01.553Z"
+  "fetchedAt": "2026-09-28T12:56:16.041Z"
 }
