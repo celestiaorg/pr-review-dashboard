@@ -216,7 +216,18 @@
         "requestedAt": "2026-09-25T16:55:29Z"
       }
     ],
-    "rach-id": [],
+    "rach-id": [
+      {
+        "number": 8016,
+        "title": "test: restore validated race test coverage",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/8016",
+        "repo": "celestia-app",
+        "author": "rootulp",
+        "authorCategory": "coworker",
+        "reviewer": "rach-id",
+        "requestedAt": "2026-09-28T02:53:04Z"
+      }
+    ],
     "renaynay": [
       {
         "number": 5289,
@@ -611,5 +622,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-09-28T02:37:26.572Z"
+  "fetchedAt": "2026-09-28T02:56:43.535Z"
 }
