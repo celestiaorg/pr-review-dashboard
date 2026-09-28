@@ -22,16 +22,6 @@
         "requestedAt": "2026-09-25T10:32:41Z"
       },
       {
-        "number": 3380,
-        "title": "fix(privval): cap connections and handshake time on the gRPC server",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3380",
-        "repo": "celestia-core",
-        "author": "ninabarbakadze",
-        "authorCategory": "coworker",
-        "reviewer": "chatton",
-        "requestedAt": "2026-09-25T12:35:54Z"
-      },
-      {
         "number": 829,
         "title": "da-proxy(corto): app v10.3.0-corto, matching the fleet",
         "url": "https://github.com/celestiaorg/infrastructure/pull/829",
@@ -266,6 +256,16 @@
         "authorCategory": "coworker",
         "reviewer": "rach-id",
         "requestedAt": "2026-09-28T03:17:47Z"
+      },
+      {
+        "number": 3380,
+        "title": "fix(privval): cap connections and handshake time on the gRPC server",
+        "url": "https://github.com/celestiaorg/celestia-core/pull/3380",
+        "repo": "celestia-core",
+        "author": "ninabarbakadze",
+        "authorCategory": "coworker",
+        "reviewer": "rach-id",
+        "requestedAt": "2026-09-28T06:10:21Z"
       }
     ],
     "renaynay": [
@@ -662,5 +662,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-09-28T05:56:31.559Z"
+  "fetchedAt": "2026-09-28T06:30:08.751Z"
 }
