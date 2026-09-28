@@ -34,6 +34,16 @@
     ],
     "pippokr": [
       {
+        "number": 5292,
+        "title": "chore(deps): bump the go-deps group across 2 directories with 3 updates",
+        "url": "https://github.com/celestiaorg/celestia-node/pull/5292",
+        "repo": "celestia-node",
+        "author": "dependabot",
+        "authorCategory": "bot",
+        "reviewer": "pippokr",
+        "requestedAt": "2026-09-28T11:07:06Z"
+      },
+      {
         "number": 5280,
         "title": "fix(state/cmd): return an error on the wrong address kind",
         "url": "https://github.com/celestiaorg/celestia-node/pull/5280",
@@ -633,5 +643,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-09-28T11:05:58.207Z"
+  "fetchedAt": "2026-09-28T11:23:11.103Z"
 }
