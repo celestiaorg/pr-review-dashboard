@@ -52,6 +52,16 @@
         "requestedAt": "2026-09-26T15:06:46Z"
       },
       {
+        "number": 576,
+        "title": "chore(peers): refresh mocha-5 peers",
+        "url": "https://github.com/celestiaorg/networks/pull/576",
+        "repo": "networks",
+        "author": "github-actions",
+        "authorCategory": "bot",
+        "reviewer": "chatton",
+        "requestedAt": "2026-09-28T00:18:27Z"
+      },
+      {
         "number": 5262,
         "title": "fix(nodebuilder/blob): stop prefixing blob data with 0x in submit",
         "url": "https://github.com/celestiaorg/celestia-node/pull/5262",
@@ -525,6 +535,16 @@
     ],
     "walldiss": [
       {
+        "number": 577,
+        "title": "chore(peers): refresh mainnet peers + addrbook",
+        "url": "https://github.com/celestiaorg/networks/pull/577",
+        "repo": "networks",
+        "author": "github-actions",
+        "authorCategory": "bot",
+        "reviewer": "walldiss",
+        "requestedAt": "2026-09-28T00:18:28Z"
+      },
+      {
         "number": 5264,
         "title": "fix(fibre): detach Upload's shard fan-out from the caller ctx",
         "url": "https://github.com/celestiaorg/celestia-node/pull/5264",
@@ -592,5 +612,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-09-27T23:58:06.317Z"
+  "fetchedAt": "2026-09-28T01:00:20.897Z"
 }
