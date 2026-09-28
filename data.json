@@ -20,16 +20,6 @@
         "authorCategory": "external",
         "reviewer": "chatton",
         "requestedAt": "2026-09-25T15:34:58Z"
-      },
-      {
-        "number": 5274,
-        "title": "fix(state/txclient): validate gas price before building the fee",
-        "url": "https://github.com/celestiaorg/celestia-node/pull/5274",
-        "repo": "celestia-node",
-        "author": "FlashWayne",
-        "authorCategory": "external",
-        "reviewer": "chatton",
-        "requestedAt": "2026-09-25T16:01:21Z"
       }
     ],
     "pippokr": [
@@ -643,5 +633,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-09-28T11:59:28.838Z"
+  "fetchedAt": "2026-09-28T12:35:01.553Z"
 }
