@@ -2,36 +2,6 @@
   "reviews": {
     "chatton": [
       {
-        "number": 827,
-        "title": "docs: restore or spin up a new node from donor",
-        "url": "https://github.com/celestiaorg/infrastructure/pull/827",
-        "repo": "infrastructure",
-        "author": "vgonkivs",
-        "authorCategory": "coworker",
-        "reviewer": "chatton",
-        "requestedAt": "2026-09-25T10:32:41Z"
-      },
-      {
-        "number": 8010,
-        "title": "fix(test): let Docker allocate end-to-end test host ports",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/8010",
-        "repo": "celestia-app",
-        "author": "rootulp",
-        "authorCategory": "coworker",
-        "reviewer": "chatton",
-        "requestedAt": "2026-09-26T15:06:46Z"
-      },
-      {
-        "number": 8015,
-        "title": "fix(test): retry latest upgrade startup on port collisions",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/8015",
-        "repo": "celestia-app",
-        "author": "rootulp",
-        "authorCategory": "coworker",
-        "reviewer": "chatton",
-        "requestedAt": "2026-09-28T02:21:29Z"
-      },
-      {
         "number": 8018,
         "title": "test(app): raise ProcessProposal coverage above 95%",
         "url": "https://github.com/celestiaorg/celestia-app/pull/8018",
@@ -653,5 +623,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-09-28T10:22:52.565Z"
+  "fetchedAt": "2026-09-28T10:35:29.225Z"
 }
