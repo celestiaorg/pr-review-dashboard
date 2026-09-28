@@ -14,6 +14,16 @@
     ],
     "pippokr": [
       {
+        "number": 839,
+        "title": "fix: skip backend UFW deny inserts in check mode",
+        "url": "https://github.com/celestiaorg/infrastructure/pull/839",
+        "repo": "infrastructure",
+        "author": "chatton",
+        "authorCategory": "coworker",
+        "reviewer": "pippokr",
+        "requestedAt": "2026-09-28T13:55:57Z"
+      },
+      {
         "number": 5292,
         "title": "chore(deps): bump the go-deps group across 2 directories with 3 updates",
         "url": "https://github.com/celestiaorg/celestia-node/pull/5292",
@@ -66,26 +76,6 @@
         "requestedAt": "2026-09-26T14:00:44Z"
       },
       {
-        "number": 7998,
-        "title": "fix(scripts): fix mainnet, mocha, and single-node scripts",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7998",
-        "repo": "celestia-app",
-        "author": "rootulp",
-        "authorCategory": "coworker",
-        "reviewer": "ninabarbakadze",
-        "requestedAt": "2026-09-26T14:40:17Z"
-      },
-      {
-        "number": 7999,
-        "title": "fix(docker): quote entrypoint args and remove unused build args",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7999",
-        "repo": "celestia-app",
-        "author": "rootulp",
-        "authorCategory": "coworker",
-        "reviewer": "ninabarbakadze",
-        "requestedAt": "2026-09-26T14:41:32Z"
-      },
-      {
         "number": 7997,
         "title": "feat(multiplexer): warn about embedded binaries from previous releases",
         "url": "https://github.com/celestiaorg/celestia-app/pull/7997",
@@ -104,6 +94,16 @@
         "authorCategory": "coworker",
         "reviewer": "ninabarbakadze",
         "requestedAt": "2026-09-26T14:46:23Z"
+      },
+      {
+        "number": 8016,
+        "title": "test: restore validated race test coverage",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/8016",
+        "repo": "celestia-app",
+        "author": "rootulp",
+        "authorCategory": "coworker",
+        "reviewer": "ninabarbakadze",
+        "requestedAt": "2026-09-28T13:48:02Z"
       },
       {
         "number": 5255,
@@ -148,26 +148,6 @@
     ],
     "rach-id": [
       {
-        "number": 8016,
-        "title": "test: restore validated race test coverage",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/8016",
-        "repo": "celestia-app",
-        "author": "rootulp",
-        "authorCategory": "coworker",
-        "reviewer": "rach-id",
-        "requestedAt": "2026-09-28T02:53:04Z"
-      },
-      {
-        "number": 8017,
-        "title": "fix(ci): normalize cross-package coverage reports",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/8017",
-        "repo": "celestia-app",
-        "author": "rootulp",
-        "authorCategory": "coworker",
-        "reviewer": "rach-id",
-        "requestedAt": "2026-09-28T03:15:46Z"
-      },
-      {
         "number": 299,
         "title": "refactor(share): reuse sequence assembly for blob parsing",
         "url": "https://github.com/celestiaorg/go-square/pull/299",
@@ -208,16 +188,6 @@
         "authorCategory": "coworker",
         "reviewer": "renaynay",
         "requestedAt": "2026-09-25T17:55:37Z"
-      },
-      {
-        "number": 8012,
-        "title": "test(fibre): deflake TestObjectStorageRequestTimeout",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/8012",
-        "repo": "celestia-app",
-        "author": "rootulp",
-        "authorCategory": "coworker",
-        "reviewer": "renaynay",
-        "requestedAt": "2026-09-28T01:54:16Z"
       },
       {
         "number": 8019,
@@ -612,5 +582,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-09-28T13:47:49.379Z"
+  "fetchedAt": "2026-09-28T13:57:13.769Z"
 }
