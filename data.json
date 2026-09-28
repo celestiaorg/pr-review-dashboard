@@ -233,6 +233,26 @@
         "requestedAt": "2026-09-26T14:04:18Z"
       },
       {
+        "number": 5290,
+        "title": "fix(ci): tolerate small project coverage fluctuations",
+        "url": "https://github.com/celestiaorg/celestia-node/pull/5290",
+        "repo": "celestia-node",
+        "author": "rootulp",
+        "authorCategory": "coworker",
+        "reviewer": "vgonkivs",
+        "requestedAt": "2026-09-28T20:47:35Z"
+      },
+      {
+        "number": 5289,
+        "title": "fix(ci): pin reusable Docker workflows to commit SHA",
+        "url": "https://github.com/celestiaorg/celestia-node/pull/5289",
+        "repo": "celestia-node",
+        "author": "rootulp",
+        "authorCategory": "coworker",
+        "reviewer": "vgonkivs",
+        "requestedAt": "2026-09-28T20:47:54Z"
+      },
+      {
         "number": 5167,
         "title": "cmd: Load configured RPC URL with explicit token",
         "url": "https://github.com/celestiaorg/celestia-node/pull/5167",
@@ -562,5 +582,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-09-28T20:44:33.623Z"
+  "fetchedAt": "2026-09-28T20:53:55.125Z"
 }
