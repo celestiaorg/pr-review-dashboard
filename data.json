@@ -14,16 +14,6 @@
     ],
     "pippokr": [
       {
-        "number": 839,
-        "title": "fix: skip backend UFW deny inserts in check mode",
-        "url": "https://github.com/celestiaorg/infrastructure/pull/839",
-        "repo": "infrastructure",
-        "author": "chatton",
-        "authorCategory": "coworker",
-        "reviewer": "pippokr",
-        "requestedAt": "2026-09-28T13:55:57Z"
-      },
-      {
         "number": 5292,
         "title": "chore(deps): bump the go-deps group across 2 directories with 3 updates",
         "url": "https://github.com/celestiaorg/celestia-node/pull/5292",
@@ -572,5 +562,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-09-28T19:59:50.296Z"
+  "fetchedAt": "2026-09-28T20:20:13.651Z"
 }
