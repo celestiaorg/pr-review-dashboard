@@ -340,7 +340,18 @@
         "requestedAt": "2026-09-29T10:34:00Z"
       }
     ],
-    "rootulp": [],
+    "rootulp": [
+      {
+        "number": 418,
+        "title": "fix(sync): don't punish duplicates of the current head",
+        "url": "https://github.com/celestiaorg/go-header/pull/418",
+        "repo": "go-header",
+        "author": "ninabarbakadze",
+        "authorCategory": "coworker",
+        "reviewer": "rootulp",
+        "requestedAt": "2026-09-29T11:20:18Z"
+      }
+    ],
     "vgonkivs": [
       {
         "number": 5289,
@@ -742,5 +753,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-09-29T11:04:19.824Z"
+  "fetchedAt": "2026-09-29T11:22:03.167Z"
 }
