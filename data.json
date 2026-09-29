@@ -210,16 +210,6 @@
         "requestedAt": "2026-09-25T17:55:37Z"
       },
       {
-        "number": 5293,
-        "title": "fix(shrex): synchronize peer pool cleanup",
-        "url": "https://github.com/celestiaorg/celestia-node/pull/5293",
-        "repo": "celestia-node",
-        "author": "rootulp",
-        "authorCategory": "coworker",
-        "reviewer": "renaynay",
-        "requestedAt": "2026-09-28T21:44:23Z"
-      },
-      {
         "number": 5256,
         "title": "fix(shrex/peers): don't keep pools in managers without shrexsub",
         "url": "https://github.com/celestiaorg/celestia-node/pull/5256",
@@ -298,16 +288,6 @@
         "authorCategory": "external",
         "reviewer": "renaynay",
         "requestedAt": "2026-09-29T10:28:54Z"
-      },
-      {
-        "number": 5295,
-        "title": "fix(shrex): rate limit IPv6 peers per /64",
-        "url": "https://github.com/celestiaorg/celestia-node/pull/5295",
-        "repo": "celestia-node",
-        "author": "kriss39",
-        "authorCategory": "external",
-        "reviewer": "renaynay",
-        "requestedAt": "2026-09-29T10:34:00Z"
       }
     ],
     "rootulp": [
@@ -350,6 +330,16 @@
         "authorCategory": "coworker",
         "reviewer": "rootulp",
         "requestedAt": "2026-09-29T12:07:58Z"
+      },
+      {
+        "number": 8024,
+        "title": "fix(fibre): cap gRPC connection age so stalled streams free slots",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/8024",
+        "repo": "celestia-app",
+        "author": "ninabarbakadze",
+        "authorCategory": "coworker",
+        "reviewer": "rootulp",
+        "requestedAt": "2026-09-29T13:21:05Z"
       }
     ],
     "vgonkivs": [
@@ -642,16 +632,6 @@
         "authorCategory": "external",
         "reviewer": "vgonkivs",
         "requestedAt": "2026-09-29T10:28:54Z"
-      },
-      {
-        "number": 5295,
-        "title": "fix(shrex): rate limit IPv6 peers per /64",
-        "url": "https://github.com/celestiaorg/celestia-node/pull/5295",
-        "repo": "celestia-node",
-        "author": "kriss39",
-        "authorCategory": "external",
-        "reviewer": "vgonkivs",
-        "requestedAt": "2026-09-29T10:34:00Z"
       }
     ],
     "walldiss": [
@@ -763,5 +743,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-09-29T13:11:09.878Z"
+  "fetchedAt": "2026-09-29T13:31:54.771Z"
 }
