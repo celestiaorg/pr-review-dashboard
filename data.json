@@ -210,6 +210,16 @@
         "requestedAt": "2026-09-25T17:55:37Z"
       },
       {
+        "number": 418,
+        "title": "fix(sync): don't punish duplicates of the current head",
+        "url": "https://github.com/celestiaorg/go-header/pull/418",
+        "repo": "go-header",
+        "author": "ninabarbakadze",
+        "authorCategory": "coworker",
+        "reviewer": "renaynay",
+        "requestedAt": "2026-09-29T14:35:48Z"
+      },
+      {
         "number": 5270,
         "title": "fix(share/shwap): bound proof node count in wire decoders",
         "url": "https://github.com/celestiaorg/celestia-node/pull/5270",
@@ -652,5 +662,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-09-29T14:31:28.782Z"
+  "fetchedAt": "2026-09-29T14:45:37.587Z"
 }
