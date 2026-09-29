@@ -104,16 +104,6 @@
         "authorCategory": "coworker",
         "reviewer": "ninabarbakadze",
         "requestedAt": "2026-09-28T22:11:13Z"
-      },
-      {
-        "number": 3385,
-        "title": "fix(deps): downgrade google.golang.org/grpc to v1.83.2",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3385",
-        "repo": "celestia-core",
-        "author": "rootulp",
-        "authorCategory": "coworker",
-        "reviewer": "ninabarbakadze",
-        "requestedAt": "2026-09-29T03:23:51Z"
       }
     ],
     "rach-id": [
@@ -216,16 +206,6 @@
         "authorCategory": "coworker",
         "reviewer": "rach-id",
         "requestedAt": "2026-09-29T04:16:25Z"
-      },
-      {
-        "number": 5299,
-        "title": "fix(shrex): stream NamespaceData responses row by row",
-        "url": "https://github.com/celestiaorg/celestia-node/pull/5299",
-        "repo": "celestia-node",
-        "author": "ninabarbakadze",
-        "authorCategory": "coworker",
-        "reviewer": "rach-id",
-        "requestedAt": "2026-09-29T11:52:12Z"
       },
       {
         "number": 5297,
@@ -783,5 +763,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-09-29T11:53:03.417Z"
+  "fetchedAt": "2026-09-29T11:59:32.644Z"
 }
