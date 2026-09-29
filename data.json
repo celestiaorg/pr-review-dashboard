@@ -22,6 +22,16 @@
         "requestedAt": "2026-09-29T04:21:12Z"
       },
       {
+        "number": 844,
+        "title": "feat(interop): move hyperlane-relayer to monthly billing",
+        "url": "https://github.com/celestiaorg/infrastructure/pull/844",
+        "repo": "infrastructure",
+        "author": "pippokr",
+        "authorCategory": "coworker",
+        "reviewer": "chatton",
+        "requestedAt": "2026-09-29T11:50:24Z"
+      },
+      {
         "number": 5262,
         "title": "fix(nodebuilder/blob): stop prefixing blob data with 0x in submit",
         "url": "https://github.com/celestiaorg/celestia-node/pull/5262",
@@ -206,6 +216,16 @@
         "authorCategory": "coworker",
         "reviewer": "rach-id",
         "requestedAt": "2026-09-29T04:16:25Z"
+      },
+      {
+        "number": 5299,
+        "title": "fix(shrex): stream NamespaceData responses row by row",
+        "url": "https://github.com/celestiaorg/celestia-node/pull/5299",
+        "repo": "celestia-node",
+        "author": "ninabarbakadze",
+        "authorCategory": "coworker",
+        "reviewer": "rach-id",
+        "requestedAt": "2026-09-29T11:52:12Z"
       },
       {
         "number": 5297,
@@ -763,5 +783,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-09-29T11:44:16.675Z"
+  "fetchedAt": "2026-09-29T11:53:03.417Z"
 }
