@@ -300,46 +300,6 @@
         "authorCategory": "coworker",
         "reviewer": "rootulp",
         "requestedAt": "2026-09-29T11:20:18Z"
-      },
-      {
-        "number": 116,
-        "title": "fix: fix context cancelation flow",
-        "url": "https://github.com/celestiaorg/da-proxy/pull/116",
-        "repo": "da-proxy",
-        "author": "vgonkivs",
-        "authorCategory": "coworker",
-        "reviewer": "rootulp",
-        "requestedAt": "2026-09-29T11:41:12Z"
-      },
-      {
-        "number": 117,
-        "title": "feat: add token name to metrics",
-        "url": "https://github.com/celestiaorg/da-proxy/pull/117",
-        "repo": "da-proxy",
-        "author": "vgonkivs",
-        "authorCategory": "coworker",
-        "reviewer": "rootulp",
-        "requestedAt": "2026-09-29T12:04:24Z"
-      },
-      {
-        "number": 845,
-        "title": "feat: add token names to existing panels",
-        "url": "https://github.com/celestiaorg/infrastructure/pull/845",
-        "repo": "infrastructure",
-        "author": "vgonkivs",
-        "authorCategory": "coworker",
-        "reviewer": "rootulp",
-        "requestedAt": "2026-09-29T12:07:58Z"
-      },
-      {
-        "number": 118,
-        "title": "feat: add chain-id guard ",
-        "url": "https://github.com/celestiaorg/da-proxy/pull/118",
-        "repo": "da-proxy",
-        "author": "vgonkivs",
-        "authorCategory": "coworker",
-        "reviewer": "rootulp",
-        "requestedAt": "2026-09-29T13:33:19Z"
       }
     ],
     "vgonkivs": [
@@ -352,16 +312,6 @@
         "authorCategory": "coworker",
         "reviewer": "vgonkivs",
         "requestedAt": "2026-09-28T20:47:54Z"
-      },
-      {
-        "number": 5293,
-        "title": "fix(shrex): synchronize peer pool cleanup",
-        "url": "https://github.com/celestiaorg/celestia-node/pull/5293",
-        "repo": "celestia-node",
-        "author": "rootulp",
-        "authorCategory": "coworker",
-        "reviewer": "vgonkivs",
-        "requestedAt": "2026-09-28T21:44:23Z"
       },
       {
         "number": 3396,
@@ -743,5 +693,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-09-29T13:47:36.601Z"
+  "fetchedAt": "2026-09-29T13:56:50.533Z"
 }
