@@ -96,6 +96,16 @@
         "requestedAt": "2026-09-28T22:11:13Z"
       },
       {
+        "number": 3385,
+        "title": "fix(deps): downgrade google.golang.org/grpc to v1.83.2",
+        "url": "https://github.com/celestiaorg/celestia-core/pull/3385",
+        "repo": "celestia-core",
+        "author": "rootulp",
+        "authorCategory": "coworker",
+        "reviewer": "ninabarbakadze",
+        "requestedAt": "2026-09-29T03:23:51Z"
+      },
+      {
         "number": 5266,
         "title": "fix(das): resume an interrupted recent job after restart",
         "url": "https://github.com/celestiaorg/celestia-node/pull/5266",
@@ -206,6 +216,16 @@
         "authorCategory": "coworker",
         "reviewer": "rach-id",
         "requestedAt": "2026-09-28T22:11:13Z"
+      },
+      {
+        "number": 3385,
+        "title": "fix(deps): downgrade google.golang.org/grpc to v1.83.2",
+        "url": "https://github.com/celestiaorg/celestia-core/pull/3385",
+        "repo": "celestia-core",
+        "author": "rootulp",
+        "authorCategory": "coworker",
+        "reviewer": "rach-id",
+        "requestedAt": "2026-09-29T03:23:51Z"
       },
       {
         "number": 5297,
@@ -662,5 +682,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-09-29T03:21:04.242Z"
+  "fetchedAt": "2026-09-29T03:39:03.414Z"
 }
