@@ -22,16 +22,6 @@
         "requestedAt": "2026-09-29T04:21:12Z"
       },
       {
-        "number": 844,
-        "title": "feat(interop): move hyperlane-relayer to monthly billing",
-        "url": "https://github.com/celestiaorg/infrastructure/pull/844",
-        "repo": "infrastructure",
-        "author": "pippokr",
-        "authorCategory": "coworker",
-        "reviewer": "chatton",
-        "requestedAt": "2026-09-29T11:50:24Z"
-      },
-      {
         "number": 5262,
         "title": "fix(nodebuilder/blob): stop prefixing blob data with 0x in submit",
         "url": "https://github.com/celestiaorg/celestia-node/pull/5262",
@@ -176,16 +166,6 @@
         "authorCategory": "coworker",
         "reviewer": "rach-id",
         "requestedAt": "2026-09-28T22:11:13Z"
-      },
-      {
-        "number": 3385,
-        "title": "fix(deps): downgrade google.golang.org/grpc to v1.83.2",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3385",
-        "repo": "celestia-core",
-        "author": "rootulp",
-        "authorCategory": "coworker",
-        "reviewer": "rach-id",
-        "requestedAt": "2026-09-29T03:23:51Z"
       },
       {
         "number": 7991,
@@ -360,6 +340,26 @@
         "authorCategory": "coworker",
         "reviewer": "rootulp",
         "requestedAt": "2026-09-29T11:41:12Z"
+      },
+      {
+        "number": 117,
+        "title": "feat: add token name to metrics",
+        "url": "https://github.com/celestiaorg/da-proxy/pull/117",
+        "repo": "da-proxy",
+        "author": "vgonkivs",
+        "authorCategory": "coworker",
+        "reviewer": "rootulp",
+        "requestedAt": "2026-09-29T12:04:24Z"
+      },
+      {
+        "number": 845,
+        "title": "feat: add token names to existing panels",
+        "url": "https://github.com/celestiaorg/infrastructure/pull/845",
+        "repo": "infrastructure",
+        "author": "vgonkivs",
+        "authorCategory": "coworker",
+        "reviewer": "rootulp",
+        "requestedAt": "2026-09-29T12:07:58Z"
       }
     ],
     "vgonkivs": [
@@ -392,6 +392,16 @@
         "authorCategory": "coworker",
         "reviewer": "vgonkivs",
         "requestedAt": "2026-09-29T04:18:31Z"
+      },
+      {
+        "number": 8024,
+        "title": "fix(fibre): cap gRPC connection age so stalled streams free slots",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/8024",
+        "repo": "celestia-app",
+        "author": "ninabarbakadze",
+        "authorCategory": "coworker",
+        "reviewer": "vgonkivs",
+        "requestedAt": "2026-09-29T12:12:16Z"
       },
       {
         "number": 5167,
@@ -763,5 +773,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-09-29T11:59:32.644Z"
+  "fetchedAt": "2026-09-29T12:33:27.763Z"
 }
