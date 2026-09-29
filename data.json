@@ -270,18 +270,7 @@
         "requestedAt": "2026-09-28T14:15:14Z"
       }
     ],
-    "rootulp": [
-      {
-        "number": 8030,
-        "title": "chore(deps): bump celestia-core to v0.40.11",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/8030",
-        "repo": "celestia-app",
-        "author": "ninabarbakadze",
-        "authorCategory": "coworker",
-        "reviewer": "rootulp",
-        "requestedAt": "2026-09-29T15:01:20Z"
-      }
-    ],
+    "rootulp": [],
     "vgonkivs": [
       {
         "number": 5289,
@@ -663,5 +652,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-09-29T17:57:34.788Z"
+  "fetchedAt": "2026-09-29T18:23:06.001Z"
 }
