@@ -2,6 +2,26 @@
   "reviews": {
     "chatton": [
       {
+        "number": 3387,
+        "title": "ci: replace Janitor with concurrency groups",
+        "url": "https://github.com/celestiaorg/celestia-core/pull/3387",
+        "repo": "celestia-core",
+        "author": "rootulp",
+        "authorCategory": "coworker",
+        "reviewer": "chatton",
+        "requestedAt": "2026-09-29T04:13:05Z"
+      },
+      {
+        "number": 3394,
+        "title": "ci: replace deprecated buf actions with bufbuild/buf-action",
+        "url": "https://github.com/celestiaorg/celestia-core/pull/3394",
+        "repo": "celestia-core",
+        "author": "rootulp",
+        "authorCategory": "coworker",
+        "reviewer": "chatton",
+        "requestedAt": "2026-09-29T04:21:12Z"
+      },
+      {
         "number": 5262,
         "title": "fix(nodebuilder/blob): stop prefixing blob data with 0x in submit",
         "url": "https://github.com/celestiaorg/celestia-node/pull/5262",
@@ -13,6 +33,16 @@
       }
     ],
     "pippokr": [
+      {
+        "number": 3392,
+        "title": "ci: run govulncheck daily on main instead of on every PR",
+        "url": "https://github.com/celestiaorg/celestia-core/pull/3392",
+        "repo": "celestia-core",
+        "author": "rootulp",
+        "authorCategory": "coworker",
+        "reviewer": "pippokr",
+        "requestedAt": "2026-09-29T04:14:42Z"
+      },
       {
         "number": 5292,
         "title": "chore(deps): bump the go-deps group across 2 directories with 3 updates",
@@ -35,6 +65,16 @@
       }
     ],
     "ninabarbakadze": [
+      {
+        "number": 7991,
+        "title": "fix(multiplexer): don't forward unsupported start flags to embedded binaries",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/7991",
+        "repo": "celestia-app",
+        "author": "rootulp",
+        "authorCategory": "coworker",
+        "reviewer": "ninabarbakadze",
+        "requestedAt": "2026-09-26T13:41:36Z"
+      },
       {
         "number": 7994,
         "title": "fix(user): query network min gas price from x/minfee",
@@ -104,6 +144,16 @@
         "authorCategory": "coworker",
         "reviewer": "ninabarbakadze",
         "requestedAt": "2026-09-29T03:23:51Z"
+      },
+      {
+        "number": 3390,
+        "title": "ci: add job timeouts and read-only permissions",
+        "url": "https://github.com/celestiaorg/celestia-core/pull/3390",
+        "repo": "celestia-core",
+        "author": "rootulp",
+        "authorCategory": "coworker",
+        "reviewer": "ninabarbakadze",
+        "requestedAt": "2026-09-29T04:15:51Z"
       },
       {
         "number": 5266,
@@ -228,6 +278,26 @@
         "requestedAt": "2026-09-29T03:23:51Z"
       },
       {
+        "number": 7991,
+        "title": "fix(multiplexer): don't forward unsupported start flags to embedded binaries",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/7991",
+        "repo": "celestia-app",
+        "author": "rootulp",
+        "authorCategory": "coworker",
+        "reviewer": "rach-id",
+        "requestedAt": "2026-09-29T04:09:05Z"
+      },
+      {
+        "number": 3391,
+        "title": "ci: move copilot-setup-steps into .github/workflows",
+        "url": "https://github.com/celestiaorg/celestia-core/pull/3391",
+        "repo": "celestia-core",
+        "author": "rootulp",
+        "authorCategory": "coworker",
+        "reviewer": "rach-id",
+        "requestedAt": "2026-09-29T04:16:25Z"
+      },
+      {
         "number": 5297,
         "title": "fix(fibre/stateclient): bound the host query in GetHost",
         "url": "https://github.com/celestiaorg/celestia-node/pull/5297",
@@ -250,6 +320,16 @@
         "requestedAt": "2026-09-25T17:55:37Z"
       },
       {
+        "number": 8012,
+        "title": "test(fibre): deflake TestObjectStorageRequestTimeout",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/8012",
+        "repo": "celestia-app",
+        "author": "rootulp",
+        "authorCategory": "coworker",
+        "reviewer": "renaynay",
+        "requestedAt": "2026-09-28T01:54:16Z"
+      },
+      {
         "number": 5293,
         "title": "fix(shrex): synchronize peer pool cleanup",
         "url": "https://github.com/celestiaorg/celestia-node/pull/5293",
@@ -258,6 +338,16 @@
         "authorCategory": "coworker",
         "reviewer": "renaynay",
         "requestedAt": "2026-09-28T21:44:23Z"
+      },
+      {
+        "number": 3397,
+        "title": "ci: lint GitHub Actions workflows with actionlint",
+        "url": "https://github.com/celestiaorg/celestia-core/pull/3397",
+        "repo": "celestia-core",
+        "author": "rootulp",
+        "authorCategory": "coworker",
+        "reviewer": "renaynay",
+        "requestedAt": "2026-09-29T04:17:51Z"
       },
       {
         "number": 5256,
@@ -351,6 +441,16 @@
         "authorCategory": "coworker",
         "reviewer": "vgonkivs",
         "requestedAt": "2026-09-28T21:44:23Z"
+      },
+      {
+        "number": 3396,
+        "title": "build: pin govulncheck and protoc-gen-gogofaster versions",
+        "url": "https://github.com/celestiaorg/celestia-core/pull/3396",
+        "repo": "celestia-core",
+        "author": "rootulp",
+        "authorCategory": "coworker",
+        "reviewer": "vgonkivs",
+        "requestedAt": "2026-09-29T04:18:31Z"
       },
       {
         "number": 5167,
@@ -595,6 +695,26 @@
     ],
     "walldiss": [
       {
+        "number": 3388,
+        "title": "fix(ci): run post-merge checks on main",
+        "url": "https://github.com/celestiaorg/celestia-core/pull/3388",
+        "repo": "celestia-core",
+        "author": "rootulp",
+        "authorCategory": "coworker",
+        "reviewer": "walldiss",
+        "requestedAt": "2026-09-29T04:14:05Z"
+      },
+      {
+        "number": 3386,
+        "title": "fix(ci): run check-generated on all pull requests",
+        "url": "https://github.com/celestiaorg/celestia-core/pull/3386",
+        "repo": "celestia-core",
+        "author": "rootulp",
+        "authorCategory": "coworker",
+        "reviewer": "walldiss",
+        "requestedAt": "2026-09-29T04:24:31Z"
+      },
+      {
         "number": 5291,
         "title": "chore(deps): bump alpine from 3.24.1 to 3.24.2 in the patch-updates group",
         "url": "https://github.com/celestiaorg/celestia-node/pull/5291",
@@ -682,5 +802,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-09-29T03:58:37.959Z"
+  "fetchedAt": "2026-09-29T04:24:40.262Z"
 }
