@@ -22,16 +22,6 @@
         "requestedAt": "2026-09-29T04:21:12Z"
       },
       {
-        "number": 846,
-        "title": "feat: add chain id guard",
-        "url": "https://github.com/celestiaorg/infrastructure/pull/846",
-        "repo": "infrastructure",
-        "author": "vgonkivs",
-        "authorCategory": "coworker",
-        "reviewer": "chatton",
-        "requestedAt": "2026-09-29T13:35:41Z"
-      },
-      {
         "number": 8029,
         "title": "fix(ci): retry Go module downloads in Docker builds",
         "url": "https://github.com/celestiaorg/celestia-app/pull/8029",
@@ -673,5 +663,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-09-29T15:24:55.470Z"
+  "fetchedAt": "2026-09-29T15:37:12.917Z"
 }
