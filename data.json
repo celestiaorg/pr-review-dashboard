@@ -210,16 +210,6 @@
         "requestedAt": "2026-09-25T17:55:37Z"
       },
       {
-        "number": 8012,
-        "title": "test(fibre): deflake TestObjectStorageRequestTimeout",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/8012",
-        "repo": "celestia-app",
-        "author": "rootulp",
-        "authorCategory": "coworker",
-        "reviewer": "renaynay",
-        "requestedAt": "2026-09-28T01:54:16Z"
-      },
-      {
         "number": 5293,
         "title": "fix(shrex): synchronize peer pool cleanup",
         "url": "https://github.com/celestiaorg/celestia-node/pull/5293",
@@ -773,5 +763,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-09-29T12:33:27.763Z"
+  "fetchedAt": "2026-09-29T12:55:33.794Z"
 }
