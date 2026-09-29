@@ -44,6 +44,16 @@
     ],
     "pippokr": [
       {
+        "number": 8028,
+        "title": "chore(deps): bump celestia-core to v0.42.2",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/8028",
+        "repo": "celestia-app",
+        "author": "ninabarbakadze",
+        "authorCategory": "coworker",
+        "reviewer": "pippokr",
+        "requestedAt": "2026-09-29T14:10:14Z"
+      },
+      {
         "number": 5292,
         "title": "chore(deps): bump the go-deps group across 2 directories with 3 updates",
         "url": "https://github.com/celestiaorg/celestia-node/pull/5292",
@@ -158,16 +168,6 @@
         "requestedAt": "2026-09-28T21:48:27Z"
       },
       {
-        "number": 7994,
-        "title": "fix(user): query network min gas price from x/minfee",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7994",
-        "repo": "celestia-app",
-        "author": "rootulp",
-        "authorCategory": "coworker",
-        "reviewer": "rach-id",
-        "requestedAt": "2026-09-28T21:48:41Z"
-      },
-      {
         "number": 3384,
         "title": "fix(consensus): precheck propagation messages",
         "url": "https://github.com/celestiaorg/celestia-core/pull/3384",
@@ -218,16 +218,6 @@
         "authorCategory": "coworker",
         "reviewer": "renaynay",
         "requestedAt": "2026-09-25T17:55:37Z"
-      },
-      {
-        "number": 5256,
-        "title": "fix(shrex/peers): don't keep pools in managers without shrexsub",
-        "url": "https://github.com/celestiaorg/celestia-node/pull/5256",
-        "repo": "celestia-node",
-        "author": "kriss39",
-        "authorCategory": "external",
-        "reviewer": "renaynay",
-        "requestedAt": "2026-09-25T15:06:02Z"
       },
       {
         "number": 5270,
@@ -290,18 +280,7 @@
         "requestedAt": "2026-09-28T14:15:14Z"
       }
     ],
-    "rootulp": [
-      {
-        "number": 418,
-        "title": "fix(sync): don't punish duplicates of the current head",
-        "url": "https://github.com/celestiaorg/go-header/pull/418",
-        "repo": "go-header",
-        "author": "ninabarbakadze",
-        "authorCategory": "coworker",
-        "reviewer": "rootulp",
-        "requestedAt": "2026-09-29T11:20:18Z"
-      }
-    ],
+    "rootulp": [],
     "vgonkivs": [
       {
         "number": 5289,
@@ -322,16 +301,6 @@
         "authorCategory": "coworker",
         "reviewer": "vgonkivs",
         "requestedAt": "2026-09-29T04:18:31Z"
-      },
-      {
-        "number": 8024,
-        "title": "fix(fibre): cap gRPC connection age so stalled streams free slots",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/8024",
-        "repo": "celestia-app",
-        "author": "ninabarbakadze",
-        "authorCategory": "coworker",
-        "reviewer": "vgonkivs",
-        "requestedAt": "2026-09-29T12:12:16Z"
       },
       {
         "number": 5167,
@@ -693,5 +662,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-09-29T13:56:50.533Z"
+  "fetchedAt": "2026-09-29T14:14:21.126Z"
 }
