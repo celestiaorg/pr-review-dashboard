@@ -350,6 +350,16 @@
         "authorCategory": "coworker",
         "reviewer": "rootulp",
         "requestedAt": "2026-09-29T11:20:18Z"
+      },
+      {
+        "number": 116,
+        "title": "fix: fix context cancelation flow",
+        "url": "https://github.com/celestiaorg/da-proxy/pull/116",
+        "repo": "da-proxy",
+        "author": "vgonkivs",
+        "authorCategory": "coworker",
+        "reviewer": "rootulp",
+        "requestedAt": "2026-09-29T11:41:12Z"
       }
     ],
     "vgonkivs": [
@@ -753,5 +763,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-09-29T11:33:35.976Z"
+  "fetchedAt": "2026-09-29T11:44:16.675Z"
 }
