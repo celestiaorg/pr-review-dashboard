@@ -148,26 +148,6 @@
         "requestedAt": "2026-09-28T14:47:27Z"
       },
       {
-        "number": 8002,
-        "title": "chore: remove unused Makefile targets and repo cruft",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/8002",
-        "repo": "celestia-app",
-        "author": "rootulp",
-        "authorCategory": "coworker",
-        "reviewer": "rach-id",
-        "requestedAt": "2026-09-28T21:47:38Z"
-      },
-      {
-        "number": 346,
-        "title": "chore: disable Mergify queue control comments",
-        "url": "https://github.com/celestiaorg/nmt/pull/346",
-        "repo": "nmt",
-        "author": "rootulp",
-        "authorCategory": "coworker",
-        "reviewer": "rach-id",
-        "requestedAt": "2026-09-28T21:47:53Z"
-      },
-      {
         "number": 7997,
         "title": "feat(multiplexer): automatically prune stale embedded binaries",
         "url": "https://github.com/celestiaorg/celestia-app/pull/7997",
@@ -186,16 +166,6 @@
         "authorCategory": "coworker",
         "reviewer": "rach-id",
         "requestedAt": "2026-09-28T21:48:41Z"
-      },
-      {
-        "number": 8021,
-        "title": "fix(fibre): apply on-chain promise validation before signing",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/8021",
-        "repo": "celestia-app",
-        "author": "rootulp",
-        "authorCategory": "coworker",
-        "reviewer": "rach-id",
-        "requestedAt": "2026-09-28T22:03:51Z"
       },
       {
         "number": 3384,
@@ -772,5 +742,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-09-29T10:34:23.638Z"
+  "fetchedAt": "2026-09-29T10:46:44.066Z"
 }
