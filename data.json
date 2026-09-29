@@ -22,16 +22,6 @@
         "requestedAt": "2026-09-29T04:21:12Z"
       },
       {
-        "number": 843,
-        "title": "feat(terraform-agent): show the billing period in the server report",
-        "url": "https://github.com/celestiaorg/infrastructure/pull/843",
-        "repo": "infrastructure",
-        "author": "pippokr",
-        "authorCategory": "coworker",
-        "reviewer": "chatton",
-        "requestedAt": "2026-09-29T08:50:37Z"
-      },
-      {
         "number": 5262,
         "title": "fix(nodebuilder/blob): stop prefixing blob data with 0x in submit",
         "url": "https://github.com/celestiaorg/celestia-node/pull/5262",
@@ -852,5 +842,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-09-29T08:58:17.943Z"
+  "fetchedAt": "2026-09-29T09:24:26.274Z"
 }
