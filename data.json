@@ -42,6 +42,16 @@
         "requestedAt": "2026-09-29T14:23:56Z"
       },
       {
+        "number": 837,
+        "title": "feat(ci): sync GitHub security advisories to Linear",
+        "url": "https://github.com/celestiaorg/infrastructure/pull/837",
+        "repo": "infrastructure",
+        "author": "ninabarbakadze",
+        "authorCategory": "coworker",
+        "reviewer": "chatton",
+        "requestedAt": "2026-09-29T14:59:30Z"
+      },
+      {
         "number": 5262,
         "title": "fix(nodebuilder/blob): stop prefixing blob data with 0x in submit",
         "url": "https://github.com/celestiaorg/celestia-node/pull/5262",
@@ -280,7 +290,18 @@
         "requestedAt": "2026-09-28T14:15:14Z"
       }
     ],
-    "rootulp": [],
+    "rootulp": [
+      {
+        "number": 8030,
+        "title": "chore(deps): bump celestia-core to v0.40.11",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/8030",
+        "repo": "celestia-app",
+        "author": "ninabarbakadze",
+        "authorCategory": "coworker",
+        "reviewer": "rootulp",
+        "requestedAt": "2026-09-29T15:01:20Z"
+      }
+    ],
     "vgonkivs": [
       {
         "number": 5289,
@@ -662,5 +683,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-09-29T14:54:57.701Z"
+  "fetchedAt": "2026-09-29T15:05:14.336Z"
 }
