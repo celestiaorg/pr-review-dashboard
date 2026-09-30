@@ -2,16 +2,6 @@
   "reviews": {
     "chatton": [
       {
-        "number": 837,
-        "title": "feat(ci): sync GitHub security advisories to Linear",
-        "url": "https://github.com/celestiaorg/infrastructure/pull/837",
-        "repo": "infrastructure",
-        "author": "ninabarbakadze",
-        "authorCategory": "coworker",
-        "reviewer": "chatton",
-        "requestedAt": "2026-09-29T14:59:30Z"
-      },
-      {
         "number": 5262,
         "title": "fix(nodebuilder/blob): stop prefixing blob data with 0x in submit",
         "url": "https://github.com/celestiaorg/celestia-node/pull/5262",
@@ -62,6 +52,16 @@
         "authorCategory": "external",
         "reviewer": "pippokr",
         "requestedAt": "2026-09-25T16:49:15Z"
+      },
+      {
+        "number": 8034,
+        "title": "feat(fibre): keep post-quorum uploads running after the caller cancels",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/8034",
+        "repo": "celestia-app",
+        "author": "alexeymoskalev-devops",
+        "authorCategory": "external",
+        "reviewer": "pippokr",
+        "requestedAt": "2026-09-30T13:04:26Z"
       }
     ],
     "ninabarbakadze": [
@@ -541,5 +541,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-09-30T12:58:06.163Z"
+  "fetchedAt": "2026-09-30T13:22:16.846Z"
 }
