@@ -169,18 +169,7 @@
         "requestedAt": "2026-09-30T03:43:16Z"
       }
     ],
-    "rootulp": [
-      {
-        "number": 8035,
-        "title": "fix(fibre): reject unknown server config keys",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/8035",
-        "repo": "celestia-app",
-        "author": "pmensik",
-        "authorCategory": "external",
-        "reviewer": "rootulp",
-        "requestedAt": "2026-09-30T15:41:01Z"
-      }
-    ],
+    "rootulp": [],
     "vgonkivs": [
       {
         "number": 5167,
@@ -542,5 +531,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-09-30T18:27:11.929Z"
+  "fetchedAt": "2026-09-30T18:44:56.470Z"
 }
