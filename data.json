@@ -12,6 +12,16 @@
         "requestedAt": "2026-09-29T14:59:30Z"
       },
       {
+        "number": 856,
+        "title": "docs(baremetal): monthly billing + module inputs guidance",
+        "url": "https://github.com/celestiaorg/infrastructure/pull/856",
+        "repo": "infrastructure",
+        "author": "pippokr",
+        "authorCategory": "coworker",
+        "reviewer": "chatton",
+        "requestedAt": "2026-09-30T12:12:14Z"
+      },
+      {
         "number": 5262,
         "title": "fix(nodebuilder/blob): stop prefixing blob data with 0x in submit",
         "url": "https://github.com/celestiaorg/celestia-node/pull/5262",
@@ -444,6 +454,16 @@
         "requestedAt": "2026-09-29T04:24:31Z"
       },
       {
+        "number": 8033,
+        "title": "chore(scan-blockresults): bump celestia-core to v0.40.11",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/8033",
+        "repo": "celestia-app",
+        "author": "ninabarbakadze",
+        "authorCategory": "coworker",
+        "reviewer": "walldiss",
+        "requestedAt": "2026-09-30T11:59:16Z"
+      },
+      {
         "number": 5291,
         "title": "chore(deps): bump alpine from 3.24.1 to 3.24.2 in the patch-updates group",
         "url": "https://github.com/celestiaorg/celestia-node/pull/5291",
@@ -531,5 +551,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-09-30T11:59:08.489Z"
+  "fetchedAt": "2026-09-30T12:35:19.584Z"
 }
