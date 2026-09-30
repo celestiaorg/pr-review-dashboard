@@ -192,36 +192,6 @@
     "rootulp": [],
     "vgonkivs": [
       {
-        "number": 5289,
-        "title": "fix(ci): pin reusable Docker workflows to commit SHA",
-        "url": "https://github.com/celestiaorg/celestia-node/pull/5289",
-        "repo": "celestia-node",
-        "author": "rootulp",
-        "authorCategory": "coworker",
-        "reviewer": "vgonkivs",
-        "requestedAt": "2026-09-28T20:47:54Z"
-      },
-      {
-        "number": 3396,
-        "title": "build: pin govulncheck and protoc-gen-gogofaster versions",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3396",
-        "repo": "celestia-core",
-        "author": "rootulp",
-        "authorCategory": "coworker",
-        "reviewer": "vgonkivs",
-        "requestedAt": "2026-09-29T04:18:31Z"
-      },
-      {
-        "number": 3400,
-        "title": "build(deps): Bump actions/checkout from 7.0.0 to 7.0.1",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3400",
-        "repo": "celestia-core",
-        "author": "dependabot",
-        "authorCategory": "bot",
-        "reviewer": "vgonkivs",
-        "requestedAt": "2026-09-30T09:23:58Z"
-      },
-      {
         "number": 5167,
         "title": "cmd: Load configured RPC URL with explicit token",
         "url": "https://github.com/celestiaorg/celestia-node/pull/5167",
@@ -581,5 +551,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-09-30T10:55:02.768Z"
+  "fetchedAt": "2026-09-30T11:05:25.806Z"
 }
