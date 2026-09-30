@@ -74,9 +74,50 @@
         "authorCategory": "coworker",
         "reviewer": "ninabarbakadze",
         "requestedAt": "2026-09-30T15:39:27Z"
+      },
+      {
+        "number": 3386,
+        "title": "fix(ci): run check-generated on all pull requests",
+        "url": "https://github.com/celestiaorg/celestia-core/pull/3386",
+        "repo": "celestia-core",
+        "author": "rootulp",
+        "authorCategory": "coworker",
+        "reviewer": "ninabarbakadze",
+        "requestedAt": "2026-09-30T21:50:27Z"
+      },
+      {
+        "number": 3388,
+        "title": "fix(ci): run post-merge checks on main",
+        "url": "https://github.com/celestiaorg/celestia-core/pull/3388",
+        "repo": "celestia-core",
+        "author": "rootulp",
+        "authorCategory": "coworker",
+        "reviewer": "ninabarbakadze",
+        "requestedAt": "2026-09-30T21:50:45Z"
       }
     ],
-    "rach-id": [],
+    "rach-id": [
+      {
+        "number": 3386,
+        "title": "fix(ci): run check-generated on all pull requests",
+        "url": "https://github.com/celestiaorg/celestia-core/pull/3386",
+        "repo": "celestia-core",
+        "author": "rootulp",
+        "authorCategory": "coworker",
+        "reviewer": "rach-id",
+        "requestedAt": "2026-09-30T21:50:27Z"
+      },
+      {
+        "number": 3388,
+        "title": "fix(ci): run post-merge checks on main",
+        "url": "https://github.com/celestiaorg/celestia-core/pull/3388",
+        "repo": "celestia-core",
+        "author": "rootulp",
+        "authorCategory": "coworker",
+        "reviewer": "rach-id",
+        "requestedAt": "2026-09-30T21:50:45Z"
+      }
+    ],
     "renaynay": [
       {
         "number": 418,
@@ -414,26 +455,6 @@
     ],
     "walldiss": [
       {
-        "number": 3388,
-        "title": "fix(ci): run post-merge checks on main",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3388",
-        "repo": "celestia-core",
-        "author": "rootulp",
-        "authorCategory": "coworker",
-        "reviewer": "walldiss",
-        "requestedAt": "2026-09-29T04:14:05Z"
-      },
-      {
-        "number": 3386,
-        "title": "fix(ci): run check-generated on all pull requests",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3386",
-        "repo": "celestia-core",
-        "author": "rootulp",
-        "authorCategory": "coworker",
-        "reviewer": "walldiss",
-        "requestedAt": "2026-09-29T04:24:31Z"
-      },
-      {
         "number": 8033,
         "title": "chore(scan-blockresults): bump celestia-core to v0.40.11",
         "url": "https://github.com/celestiaorg/celestia-app/pull/8033",
@@ -531,5 +552,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-09-30T21:44:09.538Z"
+  "fetchedAt": "2026-09-30T21:52:34.228Z"
 }
