@@ -64,60 +64,8 @@
         "requestedAt": "2026-09-30T13:04:26Z"
       }
     ],
-    "ninabarbakadze": [
-      {
-        "number": 300,
-        "title": "fix(share): address review follow-up from #299",
-        "url": "https://github.com/celestiaorg/go-square/pull/300",
-        "repo": "go-square",
-        "author": "rootulp",
-        "authorCategory": "coworker",
-        "reviewer": "ninabarbakadze",
-        "requestedAt": "2026-09-30T15:39:27Z"
-      },
-      {
-        "number": 3386,
-        "title": "fix(ci): run check-generated on all pull requests",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3386",
-        "repo": "celestia-core",
-        "author": "rootulp",
-        "authorCategory": "coworker",
-        "reviewer": "ninabarbakadze",
-        "requestedAt": "2026-09-30T21:50:27Z"
-      },
-      {
-        "number": 3388,
-        "title": "fix(ci): run post-merge checks on main",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3388",
-        "repo": "celestia-core",
-        "author": "rootulp",
-        "authorCategory": "coworker",
-        "reviewer": "ninabarbakadze",
-        "requestedAt": "2026-09-30T21:50:45Z"
-      }
-    ],
-    "rach-id": [
-      {
-        "number": 3386,
-        "title": "fix(ci): run check-generated on all pull requests",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3386",
-        "repo": "celestia-core",
-        "author": "rootulp",
-        "authorCategory": "coworker",
-        "reviewer": "rach-id",
-        "requestedAt": "2026-09-30T21:50:27Z"
-      },
-      {
-        "number": 3388,
-        "title": "fix(ci): run post-merge checks on main",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3388",
-        "repo": "celestia-core",
-        "author": "rootulp",
-        "authorCategory": "coworker",
-        "reviewer": "rach-id",
-        "requestedAt": "2026-09-30T21:50:45Z"
-      }
-    ],
+    "ninabarbakadze": [],
+    "rach-id": [],
     "renaynay": [
       {
         "number": 418,
@@ -552,5 +500,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-09-30T21:59:04.265Z"
+  "fetchedAt": "2026-09-30T22:20:43.920Z"
 }
