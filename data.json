@@ -64,18 +64,7 @@
         "requestedAt": "2026-09-30T13:04:26Z"
       }
     ],
-    "ninabarbakadze": [
-      {
-        "number": 3384,
-        "title": "fix(consensus): precheck propagation messages",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3384",
-        "repo": "celestia-core",
-        "author": "rootulp",
-        "authorCategory": "coworker",
-        "reviewer": "ninabarbakadze",
-        "requestedAt": "2026-09-28T22:11:13Z"
-      }
-    ],
+    "ninabarbakadze": [],
     "rach-id": [],
     "renaynay": [
       {
@@ -531,5 +520,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-09-30T14:50:15.445Z"
+  "fetchedAt": "2026-09-30T14:59:32.630Z"
 }
