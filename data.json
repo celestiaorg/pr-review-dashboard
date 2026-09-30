@@ -22,6 +22,16 @@
         "requestedAt": "2026-09-30T10:02:31Z"
       },
       {
+        "number": 854,
+        "title": "feat(billing): move the mainnet fleet to monthly (batch 3)",
+        "url": "https://github.com/celestiaorg/infrastructure/pull/854",
+        "repo": "infrastructure",
+        "author": "pippokr",
+        "authorCategory": "coworker",
+        "reviewer": "chatton",
+        "requestedAt": "2026-09-30T11:17:42Z"
+      },
+      {
         "number": 5262,
         "title": "fix(nodebuilder/blob): stop prefixing blob data with 0x in submit",
         "url": "https://github.com/celestiaorg/celestia-node/pull/5262",
@@ -88,16 +98,6 @@
     ],
     "rach-id": [],
     "renaynay": [
-      {
-        "number": 5289,
-        "title": "fix(ci): pin reusable Docker workflows to commit SHA",
-        "url": "https://github.com/celestiaorg/celestia-node/pull/5289",
-        "repo": "celestia-node",
-        "author": "rootulp",
-        "authorCategory": "coworker",
-        "reviewer": "renaynay",
-        "requestedAt": "2026-09-25T17:55:37Z"
-      },
       {
         "number": 418,
         "title": "fix(sync): don't punish duplicates of the current head",
@@ -551,5 +551,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-09-30T11:05:25.806Z"
+  "fetchedAt": "2026-09-30T11:21:30.277Z"
 }
