@@ -328,16 +328,6 @@
         "authorCategory": "external",
         "reviewer": "renaynay",
         "requestedAt": "2026-09-30T03:43:16Z"
-      },
-      {
-        "number": 5302,
-        "title": "docs: fix README Celestia docs RPC and install links",
-        "url": "https://github.com/celestiaorg/celestia-node/pull/5302",
-        "repo": "celestia-node",
-        "author": "imitater-dou",
-        "authorCategory": "external",
-        "reviewer": "renaynay",
-        "requestedAt": "2026-09-30T07:06:18Z"
       }
     ],
     "rootulp": [],
@@ -722,5 +712,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-09-30T07:06:46.073Z"
+  "fetchedAt": "2026-09-30T07:33:30.683Z"
 }
