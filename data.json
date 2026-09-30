@@ -312,16 +312,6 @@
         "requestedAt": "2026-09-13T09:08:08Z"
       },
       {
-        "number": 5256,
-        "title": "fix(shrex/peers): don't keep pools in managers without shrexsub",
-        "url": "https://github.com/celestiaorg/celestia-node/pull/5256",
-        "repo": "celestia-node",
-        "author": "kriss39",
-        "authorCategory": "external",
-        "reviewer": "vgonkivs",
-        "requestedAt": "2026-09-25T15:06:01Z"
-      },
-      {
         "number": 5260,
         "title": "fix(nodebuilder/p2p): pass rcmgr options to the resource manager",
         "url": "https://github.com/celestiaorg/celestia-node/pull/5260",
@@ -541,5 +531,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-09-30T14:35:20.643Z"
+  "fetchedAt": "2026-09-30T14:50:15.445Z"
 }
