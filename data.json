@@ -76,16 +76,6 @@
     ],
     "ninabarbakadze": [
       {
-        "number": 299,
-        "title": "refactor(share): reuse sequence assembly for blob parsing",
-        "url": "https://github.com/celestiaorg/go-square/pull/299",
-        "repo": "go-square",
-        "author": "rootulp",
-        "authorCategory": "coworker",
-        "reviewer": "ninabarbakadze",
-        "requestedAt": "2026-09-28T21:48:48Z"
-      },
-      {
         "number": 3384,
         "title": "fix(consensus): precheck propagation messages",
         "url": "https://github.com/celestiaorg/celestia-core/pull/3384",
@@ -591,5 +581,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-09-30T10:34:06.764Z"
+  "fetchedAt": "2026-09-30T10:46:28.877Z"
 }
