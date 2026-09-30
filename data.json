@@ -2,16 +2,6 @@
   "reviews": {
     "chatton": [
       {
-        "number": 858,
-        "title": "chore(mocha): delete dead mocha-4 archival version-config tree",
-        "url": "https://github.com/celestiaorg/infrastructure/pull/858",
-        "repo": "infrastructure",
-        "author": "pippokr",
-        "authorCategory": "coworker",
-        "reviewer": "chatton",
-        "requestedAt": "2026-09-30T15:39:37Z"
-      },
-      {
         "number": 5254,
         "title": "test(tastora/canary): add the canary result model",
         "url": "https://github.com/celestiaorg/celestia-node/pull/5254",
@@ -542,5 +532,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-09-30T15:49:08.089Z"
+  "fetchedAt": "2026-09-30T15:57:26.416Z"
 }
