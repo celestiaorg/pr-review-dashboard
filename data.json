@@ -2,14 +2,14 @@
   "reviews": {
     "chatton": [
       {
-        "number": 5262,
-        "title": "fix(nodebuilder/blob): stop prefixing blob data with 0x in submit",
-        "url": "https://github.com/celestiaorg/celestia-node/pull/5262",
-        "repo": "celestia-node",
-        "author": "0xShadowX",
-        "authorCategory": "external",
+        "number": 858,
+        "title": "chore(mocha): delete dead mocha-4 archival version-config tree",
+        "url": "https://github.com/celestiaorg/infrastructure/pull/858",
+        "repo": "infrastructure",
+        "author": "pippokr",
+        "authorCategory": "coworker",
         "reviewer": "chatton",
-        "requestedAt": "2026-09-25T15:34:58Z"
+        "requestedAt": "2026-09-30T15:39:37Z"
       },
       {
         "number": 5254,
@@ -64,7 +64,18 @@
         "requestedAt": "2026-09-30T13:04:26Z"
       }
     ],
-    "ninabarbakadze": [],
+    "ninabarbakadze": [
+      {
+        "number": 300,
+        "title": "fix(share): address review follow-up from #299",
+        "url": "https://github.com/celestiaorg/go-square/pull/300",
+        "repo": "go-square",
+        "author": "rootulp",
+        "authorCategory": "coworker",
+        "reviewer": "ninabarbakadze",
+        "requestedAt": "2026-09-30T15:39:27Z"
+      }
+    ],
     "rach-id": [],
     "renaynay": [
       {
@@ -158,7 +169,18 @@
         "requestedAt": "2026-09-30T03:43:16Z"
       }
     ],
-    "rootulp": [],
+    "rootulp": [
+      {
+        "number": 8035,
+        "title": "fix(fibre): reject unknown server config keys",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/8035",
+        "repo": "celestia-app",
+        "author": "pmensik",
+        "authorCategory": "external",
+        "reviewer": "rootulp",
+        "requestedAt": "2026-09-30T15:41:01Z"
+      }
+    ],
     "vgonkivs": [
       {
         "number": 5167,
@@ -520,5 +542,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-09-30T15:36:12.980Z"
+  "fetchedAt": "2026-09-30T15:49:08.089Z"
 }
