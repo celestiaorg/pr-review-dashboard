@@ -12,16 +12,6 @@
         "requestedAt": "2026-09-29T14:59:30Z"
       },
       {
-        "number": 852,
-        "title": "fix: fix bridge nodes inventory",
-        "url": "https://github.com/celestiaorg/infrastructure/pull/852",
-        "repo": "infrastructure",
-        "author": "vgonkivs",
-        "authorCategory": "coworker",
-        "reviewer": "chatton",
-        "requestedAt": "2026-09-30T10:02:31Z"
-      },
-      {
         "number": 5262,
         "title": "fix(nodebuilder/blob): stop prefixing blob data with 0x in submit",
         "url": "https://github.com/celestiaorg/celestia-node/pull/5262",
@@ -541,5 +531,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-09-30T11:52:38.094Z"
+  "fetchedAt": "2026-09-30T11:59:08.489Z"
 }
