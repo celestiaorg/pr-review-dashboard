@@ -2,16 +2,6 @@
   "reviews": {
     "chatton": [
       {
-        "number": 3387,
-        "title": "ci: replace Janitor with concurrency groups",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3387",
-        "repo": "celestia-core",
-        "author": "rootulp",
-        "authorCategory": "coworker",
-        "reviewer": "chatton",
-        "requestedAt": "2026-09-29T04:13:05Z"
-      },
-      {
         "number": 3394,
         "title": "ci: replace deprecated buf actions with bufbuild/buf-action",
         "url": "https://github.com/celestiaorg/celestia-core/pull/3394",
@@ -85,16 +75,6 @@
       }
     ],
     "ninabarbakadze": [
-      {
-        "number": 7991,
-        "title": "fix(multiplexer): don't forward unsupported start flags to embedded binaries",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7991",
-        "repo": "celestia-app",
-        "author": "rootulp",
-        "authorCategory": "coworker",
-        "reviewer": "ninabarbakadze",
-        "requestedAt": "2026-09-26T13:41:36Z"
-      },
       {
         "number": 7997,
         "title": "feat(multiplexer): automatically prune stale embedded binaries",
@@ -176,16 +156,6 @@
         "authorCategory": "coworker",
         "reviewer": "rach-id",
         "requestedAt": "2026-09-28T21:48:27Z"
-      },
-      {
-        "number": 3384,
-        "title": "fix(consensus): precheck propagation messages",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3384",
-        "repo": "celestia-core",
-        "author": "rootulp",
-        "authorCategory": "coworker",
-        "reviewer": "rach-id",
-        "requestedAt": "2026-09-28T22:11:13Z"
       }
     ],
     "renaynay": [
@@ -301,6 +271,16 @@
         "authorCategory": "coworker",
         "reviewer": "vgonkivs",
         "requestedAt": "2026-09-29T04:18:31Z"
+      },
+      {
+        "number": 3400,
+        "title": "build(deps): Bump actions/checkout from 7.0.0 to 7.0.1",
+        "url": "https://github.com/celestiaorg/celestia-core/pull/3400",
+        "repo": "celestia-core",
+        "author": "dependabot",
+        "authorCategory": "bot",
+        "reviewer": "vgonkivs",
+        "requestedAt": "2026-09-30T09:23:58Z"
       },
       {
         "number": 5167,
@@ -662,5 +642,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-09-30T09:22:40.590Z"
+  "fetchedAt": "2026-09-30T09:37:03.442Z"
 }
