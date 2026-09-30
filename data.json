@@ -124,16 +124,6 @@
         "authorCategory": "coworker",
         "reviewer": "ninabarbakadze",
         "requestedAt": "2026-09-28T22:11:13Z"
-      },
-      {
-        "number": 8027,
-        "title": "test(fibre): raise RPC timeout for all upload/download subtests",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/8027",
-        "repo": "celestia-app",
-        "author": "rootulp",
-        "authorCategory": "coworker",
-        "reviewer": "ninabarbakadze",
-        "requestedAt": "2026-09-30T03:34:06Z"
       }
     ],
     "rach-id": [
@@ -196,46 +186,6 @@
         "authorCategory": "coworker",
         "reviewer": "rach-id",
         "requestedAt": "2026-09-28T22:11:13Z"
-      },
-      {
-        "number": 7991,
-        "title": "fix(multiplexer): don't forward unsupported start flags to embedded binaries",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7991",
-        "repo": "celestia-app",
-        "author": "rootulp",
-        "authorCategory": "coworker",
-        "reviewer": "rach-id",
-        "requestedAt": "2026-09-29T04:09:05Z"
-      },
-      {
-        "number": 3391,
-        "title": "ci: move copilot-setup-steps into .github/workflows",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3391",
-        "repo": "celestia-core",
-        "author": "rootulp",
-        "authorCategory": "coworker",
-        "reviewer": "rach-id",
-        "requestedAt": "2026-09-29T04:16:25Z"
-      },
-      {
-        "number": 8027,
-        "title": "test(fibre): raise RPC timeout for all upload/download subtests",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/8027",
-        "repo": "celestia-app",
-        "author": "rootulp",
-        "authorCategory": "coworker",
-        "reviewer": "rach-id",
-        "requestedAt": "2026-09-30T03:34:00Z"
-      },
-      {
-        "number": 5297,
-        "title": "fix(fibre/stateclient): bound the host query in GetHost",
-        "url": "https://github.com/celestiaorg/celestia-node/pull/5297",
-        "repo": "celestia-node",
-        "author": "kriss39",
-        "authorCategory": "external",
-        "reviewer": "rach-id",
-        "requestedAt": "2026-09-28T15:17:16Z"
       }
     ],
     "renaynay": [
@@ -712,5 +662,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-09-30T08:58:37.242Z"
+  "fetchedAt": "2026-09-30T09:22:40.590Z"
 }
