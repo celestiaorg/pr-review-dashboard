@@ -12,6 +12,16 @@
         "requestedAt": "2026-09-30T15:57:37Z"
       },
       {
+        "number": 860,
+        "title": "feat(monitoring): add network-scoped Corto dashboards",
+        "url": "https://github.com/celestiaorg/infrastructure/pull/860",
+        "repo": "infrastructure",
+        "author": "rootulp",
+        "authorCategory": "coworker",
+        "reviewer": "chatton",
+        "requestedAt": "2026-10-01T00:04:24Z"
+      },
+      {
         "number": 5254,
         "title": "test(tastora/canary): add the canary result model",
         "url": "https://github.com/celestiaorg/celestia-node/pull/5254",
@@ -33,6 +43,16 @@
       }
     ],
     "pippokr": [
+      {
+        "number": 860,
+        "title": "feat(monitoring): add network-scoped Corto dashboards",
+        "url": "https://github.com/celestiaorg/infrastructure/pull/860",
+        "repo": "infrastructure",
+        "author": "rootulp",
+        "authorCategory": "coworker",
+        "reviewer": "pippokr",
+        "requestedAt": "2026-10-01T00:04:13Z"
+      },
       {
         "number": 5292,
         "title": "chore(deps): bump the go-deps group across 2 directories with 3 updates",
@@ -500,5 +520,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-09-30T23:54:26.938Z"
+  "fetchedAt": "2026-10-01T00:08:04.027Z"
 }
