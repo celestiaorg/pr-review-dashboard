@@ -88,16 +88,6 @@
         "requestedAt": "2026-09-30T10:10:32Z"
       },
       {
-        "number": 8060,
-        "title": "docs: explain Fibre S3 storage in v10 release notes",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/8060",
-        "repo": "celestia-app",
-        "author": "rach-id",
-        "authorCategory": "coworker",
-        "reviewer": "renaynay",
-        "requestedAt": "2026-10-01T20:13:49Z"
-      },
-      {
         "number": 5270,
         "title": "fix(share/shwap): bound proof node count in wire decoders",
         "url": "https://github.com/celestiaorg/celestia-node/pull/5270",
@@ -210,14 +200,14 @@
         "requestedAt": "2026-10-01T17:47:59Z"
       },
       {
-        "number": 8060,
-        "title": "docs: explain Fibre S3 storage in v10 release notes",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/8060",
+        "number": 8061,
+        "title": "docs: recommend a separate host for Fibre servers",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/8061",
         "repo": "celestia-app",
         "author": "rach-id",
         "authorCategory": "coworker",
         "reviewer": "rootulp",
-        "requestedAt": "2026-10-01T20:49:33Z"
+        "requestedAt": "2026-10-01T21:23:35Z"
       }
     ],
     "vgonkivs": [
@@ -571,5 +561,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-10-01T21:18:55.355Z"
+  "fetchedAt": "2026-10-01T21:30:59.972Z"
 }
