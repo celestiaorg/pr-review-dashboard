@@ -12,16 +12,6 @@
         "requestedAt": "2026-10-01T17:48:28Z"
       },
       {
-        "number": 888,
-        "title": "fix(app-prepare): pass prepared_network_type to the archival verify play",
-        "url": "https://github.com/celestiaorg/infrastructure/pull/888",
-        "repo": "infrastructure",
-        "author": "pippokr",
-        "authorCategory": "coworker",
-        "reviewer": "chatton",
-        "requestedAt": "2026-10-01T20:15:44Z"
-      },
-      {
         "number": 889,
         "title": "docs: refresh after the mocha-4 sweep, corto Slack migration and alloy playbook fix",
         "url": "https://github.com/celestiaorg/infrastructure/pull/889",
@@ -218,6 +208,16 @@
         "authorCategory": "coworker",
         "reviewer": "rootulp",
         "requestedAt": "2026-10-01T17:47:59Z"
+      },
+      {
+        "number": 8060,
+        "title": "docs: explain Fibre S3 storage in v10 release notes",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/8060",
+        "repo": "celestia-app",
+        "author": "rach-id",
+        "authorCategory": "coworker",
+        "reviewer": "rootulp",
+        "requestedAt": "2026-10-01T20:49:33Z"
       }
     ],
     "vgonkivs": [
@@ -571,5 +571,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-10-01T20:44:25.953Z"
+  "fetchedAt": "2026-10-01T20:52:23.483Z"
 }
