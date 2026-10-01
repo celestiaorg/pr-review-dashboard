@@ -189,38 +189,7 @@
         "requestedAt": "2026-10-01T11:20:47Z"
       }
     ],
-    "rootulp": [
-      {
-        "number": 870,
-        "title": "feat(corto): corto-10 dashboards and alert rules",
-        "url": "https://github.com/celestiaorg/infrastructure/pull/870",
-        "repo": "infrastructure",
-        "author": "walldiss",
-        "authorCategory": "coworker",
-        "reviewer": "rootulp",
-        "requestedAt": "2026-10-01T14:33:44Z"
-      },
-      {
-        "number": 868,
-        "title": "feat(corto): corto-10 observability stack on AWS",
-        "url": "https://github.com/celestiaorg/infrastructure/pull/868",
-        "repo": "infrastructure",
-        "author": "walldiss",
-        "authorCategory": "coworker",
-        "reviewer": "rootulp",
-        "requestedAt": "2026-10-01T17:47:56Z"
-      },
-      {
-        "number": 869,
-        "title": "feat(corto): corto-10 per-host telemetry agent and rollout tool",
-        "url": "https://github.com/celestiaorg/infrastructure/pull/869",
-        "repo": "infrastructure",
-        "author": "walldiss",
-        "authorCategory": "coworker",
-        "reviewer": "rootulp",
-        "requestedAt": "2026-10-01T17:47:59Z"
-      }
-    ],
+    "rootulp": [],
     "vgonkivs": [
       {
         "number": 5301,
@@ -572,5 +541,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-10-01T22:29:30.142Z"
+  "fetchedAt": "2026-10-01T22:41:11.642Z"
 }
