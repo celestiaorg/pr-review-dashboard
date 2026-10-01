@@ -34,16 +34,6 @@
         "requestedAt": "2026-09-28T11:07:06Z"
       },
       {
-        "number": 8044,
-        "title": "fix(local_devnet): allow plaintext signer gRPC between validators and fibre (backport #8041)",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/8044",
-        "repo": "celestia-app",
-        "author": "mergify",
-        "authorCategory": "bot",
-        "reviewer": "pippokr",
-        "requestedAt": "2026-10-01T12:24:58Z"
-      },
-      {
         "number": 5280,
         "title": "fix(state/cmd): return an error on the wrong address kind",
         "url": "https://github.com/celestiaorg/celestia-node/pull/5280",
@@ -531,5 +521,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-10-01T12:32:47.854Z"
+  "fetchedAt": "2026-10-01T12:55:01.599Z"
 }
