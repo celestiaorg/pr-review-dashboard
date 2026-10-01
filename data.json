@@ -2,16 +2,6 @@
   "reviews": {
     "chatton": [
       {
-        "number": 878,
-        "title": "refactor(advisory-sync): only support GH_TOKEN auth",
-        "url": "https://github.com/celestiaorg/infrastructure/pull/878",
-        "repo": "infrastructure",
-        "author": "ninabarbakadze",
-        "authorCategory": "coworker",
-        "reviewer": "chatton",
-        "requestedAt": "2026-10-01T13:20:28Z"
-      },
-      {
         "number": 879,
         "title": "fix(da-proxy): align standalone alloy playbook with component var files",
         "url": "https://github.com/celestiaorg/infrastructure/pull/879",
@@ -510,5 +500,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-10-01T13:54:41.044Z"
+  "fetchedAt": "2026-10-01T14:03:36.883Z"
 }
