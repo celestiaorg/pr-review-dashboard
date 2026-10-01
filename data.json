@@ -2,36 +2,6 @@
   "reviews": {
     "chatton": [
       {
-        "number": 862,
-        "title": "chore(sweep): remove dead mocha-4 branches from force-rebuild",
-        "url": "https://github.com/celestiaorg/infrastructure/pull/862",
-        "repo": "infrastructure",
-        "author": "pippokr",
-        "authorCategory": "coworker",
-        "reviewer": "chatton",
-        "requestedAt": "2026-10-01T08:27:21Z"
-      },
-      {
-        "number": 863,
-        "title": "chore(sweep): fix alloy deploy path, drop dead bridge alloy playbook",
-        "url": "https://github.com/celestiaorg/infrastructure/pull/863",
-        "repo": "infrastructure",
-        "author": "pippokr",
-        "authorCategory": "coworker",
-        "reviewer": "chatton",
-        "requestedAt": "2026-10-01T08:29:10Z"
-      },
-      {
-        "number": 864,
-        "title": "chore(sweep): retire the mocha-4 inventory and network identity",
-        "url": "https://github.com/celestiaorg/infrastructure/pull/864",
-        "repo": "infrastructure",
-        "author": "pippokr",
-        "authorCategory": "coworker",
-        "reviewer": "chatton",
-        "requestedAt": "2026-10-01T08:45:09Z"
-      },
-      {
         "number": 865,
         "title": "chore(mocha): unify the metric network label",
         "url": "https://github.com/celestiaorg/infrastructure/pull/865",
@@ -530,5 +500,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-10-01T09:59:27.593Z"
+  "fetchedAt": "2026-10-01T10:21:49.921Z"
 }
