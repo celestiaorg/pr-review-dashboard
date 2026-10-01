@@ -434,16 +434,6 @@
         "requestedAt": "2026-09-28T11:03:43Z"
       },
       {
-        "number": 8042,
-        "title": "feat(fibre)!: support mTLS for the fibre signer gRPC connection (backport #7842)",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/8042",
-        "repo": "celestia-app",
-        "author": "mergify",
-        "authorCategory": "bot",
-        "reviewer": "walldiss",
-        "requestedAt": "2026-10-01T12:12:51Z"
-      },
-      {
         "number": 5264,
         "title": "fix(fibre): detach Upload's shard fan-out from the caller ctx",
         "url": "https://github.com/celestiaorg/celestia-node/pull/5264",
@@ -521,5 +511,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-10-01T12:55:01.599Z"
+  "fetchedAt": "2026-10-01T13:07:59.949Z"
 }
