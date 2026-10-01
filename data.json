@@ -85,7 +85,18 @@
       }
     ],
     "ninabarbakadze": [],
-    "rach-id": [],
+    "rach-id": [
+      {
+        "number": 301,
+        "title": "test(share): strengthen prefix wire format compatibility checks",
+        "url": "https://github.com/celestiaorg/go-square/pull/301",
+        "repo": "go-square",
+        "author": "rootulp",
+        "authorCategory": "coworker",
+        "reviewer": "rach-id",
+        "requestedAt": "2026-10-01T21:59:45Z"
+      }
+    ],
     "renaynay": [
       {
         "number": 119,
@@ -571,5 +582,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-10-01T21:58:02.191Z"
+  "fetchedAt": "2026-10-01T22:17:51.287Z"
 }
