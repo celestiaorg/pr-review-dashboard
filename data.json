@@ -136,6 +136,16 @@
         "authorCategory": "external",
         "reviewer": "renaynay",
         "requestedAt": "2026-09-30T03:43:16Z"
+      },
+      {
+        "number": 5307,
+        "title": "feat(das): add das_sampling_head_lag metric",
+        "url": "https://github.com/celestiaorg/celestia-node/pull/5307",
+        "repo": "celestia-node",
+        "author": "operagxsasha",
+        "authorCategory": "external",
+        "reviewer": "renaynay",
+        "requestedAt": "2026-10-01T11:20:47Z"
       }
     ],
     "rootulp": [],
@@ -490,5 +500,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-10-01T11:03:00.134Z"
+  "fetchedAt": "2026-10-01T11:21:16.264Z"
 }
