@@ -32,6 +32,16 @@
         "requestedAt": "2026-10-01T08:45:09Z"
       },
       {
+        "number": 865,
+        "title": "chore(mocha): unify the metric network label",
+        "url": "https://github.com/celestiaorg/infrastructure/pull/865",
+        "repo": "infrastructure",
+        "author": "pippokr",
+        "authorCategory": "coworker",
+        "reviewer": "chatton",
+        "requestedAt": "2026-10-01T08:53:11Z"
+      },
+      {
         "number": 5254,
         "title": "test(tastora/canary): add the canary result model",
         "url": "https://github.com/celestiaorg/celestia-node/pull/5254",
@@ -520,5 +530,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-10-01T08:50:23.895Z"
+  "fetchedAt": "2026-10-01T09:00:29.272Z"
 }
