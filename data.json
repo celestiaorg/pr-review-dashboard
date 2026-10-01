@@ -2,6 +2,26 @@
   "reviews": {
     "chatton": [
       {
+        "number": 8050,
+        "title": "fix(fibre): apply on-chain promise validation before signing (backport #8021)",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/8050",
+        "repo": "celestia-app",
+        "author": "mergify",
+        "authorCategory": "bot",
+        "reviewer": "chatton",
+        "requestedAt": "2026-10-01T16:25:26Z"
+      },
+      {
+        "number": 3412,
+        "title": "fix(light/rpc): bind hash-selected responses to the requested hash (backport #3357)",
+        "url": "https://github.com/celestiaorg/celestia-core/pull/3412",
+        "repo": "celestia-core",
+        "author": "mergify",
+        "authorCategory": "bot",
+        "reviewer": "chatton",
+        "requestedAt": "2026-10-01T16:26:01Z"
+      },
+      {
         "number": 5254,
         "title": "test(tastora/canary): add the canary result model",
         "url": "https://github.com/celestiaorg/celestia-node/pull/5254",
@@ -34,6 +54,26 @@
         "requestedAt": "2026-09-28T11:07:06Z"
       },
       {
+        "number": 8051,
+        "title": "fix(deps): bump cosmos-sdk to v0.52.12 and store to v1.1.3-celestia.3 (backport #7995)",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/8051",
+        "repo": "celestia-app",
+        "author": "mergify",
+        "authorCategory": "bot",
+        "reviewer": "pippokr",
+        "requestedAt": "2026-10-01T16:25:33Z"
+      },
+      {
+        "number": 3413,
+        "title": "fix(rpc/core): gate genesis routes behind the heavy-request budget (backport #3399)",
+        "url": "https://github.com/celestiaorg/celestia-core/pull/3413",
+        "repo": "celestia-core",
+        "author": "mergify",
+        "authorCategory": "bot",
+        "reviewer": "pippokr",
+        "requestedAt": "2026-10-01T16:26:07Z"
+      },
+      {
         "number": 5280,
         "title": "fix(state/cmd): return an error on the wrong address kind",
         "url": "https://github.com/celestiaorg/celestia-node/pull/5280",
@@ -54,18 +94,48 @@
         "authorCategory": "coworker",
         "reviewer": "ninabarbakadze",
         "requestedAt": "2026-10-01T15:43:28Z"
+      },
+      {
+        "number": 3408,
+        "title": "fix(types): bind row proof Merkle indexes to the claimed rows (backport #3345)",
+        "url": "https://github.com/celestiaorg/celestia-core/pull/3408",
+        "repo": "celestia-core",
+        "author": "mergify",
+        "authorCategory": "bot",
+        "reviewer": "ninabarbakadze",
+        "requestedAt": "2026-10-01T16:25:41Z"
+      },
+      {
+        "number": 3414,
+        "title": "fix(rpc/core): enforce max query length in block_search (backport #3349)",
+        "url": "https://github.com/celestiaorg/celestia-core/pull/3414",
+        "repo": "celestia-core",
+        "author": "mergify",
+        "authorCategory": "bot",
+        "reviewer": "ninabarbakadze",
+        "requestedAt": "2026-10-01T16:26:12Z"
       }
     ],
     "rach-id": [
       {
-        "number": 8045,
-        "title": "fix(multiplexer): don't forward --privval-grpc-allow-insecure to embedded binaries",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/8045",
-        "repo": "celestia-app",
-        "author": "rootulp",
-        "authorCategory": "coworker",
+        "number": 3409,
+        "title": "fix(types): validate commit BlockID in Commit.ValidateBasic (backport #3350)",
+        "url": "https://github.com/celestiaorg/celestia-core/pull/3409",
+        "repo": "celestia-core",
+        "author": "mergify",
+        "authorCategory": "bot",
         "reviewer": "rach-id",
-        "requestedAt": "2026-10-01T15:43:28Z"
+        "requestedAt": "2026-10-01T16:25:46Z"
+      },
+      {
+        "number": 3415,
+        "title": "fix(mempool/cat): guard against zero total gas in txSet aggregation (backport #3355)",
+        "url": "https://github.com/celestiaorg/celestia-core/pull/3415",
+        "repo": "celestia-core",
+        "author": "mergify",
+        "authorCategory": "bot",
+        "reviewer": "rach-id",
+        "requestedAt": "2026-10-01T16:26:17Z"
       }
     ],
     "renaynay": [
@@ -78,6 +148,16 @@
         "authorCategory": "coworker",
         "reviewer": "renaynay",
         "requestedAt": "2026-09-30T10:10:32Z"
+      },
+      {
+        "number": 3410,
+        "title": "fix(types): reject duplicate validator addresses in ValidatorSetFromExistingValidators (backport #3351)",
+        "url": "https://github.com/celestiaorg/celestia-core/pull/3410",
+        "repo": "celestia-core",
+        "author": "mergify",
+        "authorCategory": "bot",
+        "reviewer": "renaynay",
+        "requestedAt": "2026-10-01T16:25:51Z"
       },
       {
         "number": 5270,
@@ -170,6 +250,26 @@
         "authorCategory": "coworker",
         "reviewer": "rootulp",
         "requestedAt": "2026-10-01T14:33:44Z"
+      },
+      {
+        "number": 8052,
+        "title": "fix(fibre): retain cached connections during active requests (backport #7938)",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/8052",
+        "repo": "celestia-app",
+        "author": "mergify",
+        "authorCategory": "bot",
+        "reviewer": "rootulp",
+        "requestedAt": "2026-10-01T16:25:40Z"
+      },
+      {
+        "number": 8055,
+        "title": "fix(fibre): cap gRPC connection age so stalled streams free slots (backport #8024)",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/8055",
+        "repo": "celestia-app",
+        "author": "mergify",
+        "authorCategory": "bot",
+        "reviewer": "rootulp",
+        "requestedAt": "2026-10-01T16:26:09Z"
       }
     ],
     "vgonkivs": [
@@ -182,6 +282,16 @@
         "authorCategory": "coworker",
         "reviewer": "vgonkivs",
         "requestedAt": "2026-10-01T09:31:05Z"
+      },
+      {
+        "number": 3411,
+        "title": "fix(types): validate share proof entries before using them (backport #3352)",
+        "url": "https://github.com/celestiaorg/celestia-core/pull/3411",
+        "repo": "celestia-core",
+        "author": "mergify",
+        "authorCategory": "bot",
+        "reviewer": "vgonkivs",
+        "requestedAt": "2026-10-01T16:25:59Z"
       },
       {
         "number": 5167,
@@ -446,6 +556,26 @@
         "requestedAt": "2026-09-28T11:03:43Z"
       },
       {
+        "number": 3407,
+        "title": "fix(consensus/propagation): reject WantParts bit arrays larger than the max part count (backport #3344)",
+        "url": "https://github.com/celestiaorg/celestia-core/pull/3407",
+        "repo": "celestia-core",
+        "author": "mergify",
+        "authorCategory": "bot",
+        "reviewer": "walldiss",
+        "requestedAt": "2026-10-01T16:25:30Z"
+      },
+      {
+        "number": 8054,
+        "title": "fix(multiplexer): don't forward unsupported start flags to embedded binaries (backport #7991)",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/8054",
+        "repo": "celestia-app",
+        "author": "mergify",
+        "authorCategory": "bot",
+        "reviewer": "walldiss",
+        "requestedAt": "2026-10-01T16:26:02Z"
+      },
+      {
         "number": 5264,
         "title": "fix(fibre): detach Upload's shard fan-out from the caller ctx",
         "url": "https://github.com/celestiaorg/celestia-node/pull/5264",
@@ -523,5 +653,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-10-01T16:22:55.738Z"
+  "fetchedAt": "2026-10-01T16:34:53.178Z"
 }
