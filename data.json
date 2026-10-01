@@ -13,7 +13,7 @@
       },
       {
         "number": 860,
-        "title": "feat(monitoring): add network-scoped Corto dashboards",
+        "title": "feat(monitoring): add Corto dashboards and staged muted alerts",
         "url": "https://github.com/celestiaorg/infrastructure/pull/860",
         "repo": "infrastructure",
         "author": "rootulp",
@@ -45,7 +45,7 @@
     "pippokr": [
       {
         "number": 860,
-        "title": "feat(monitoring): add network-scoped Corto dashboards",
+        "title": "feat(monitoring): add Corto dashboards and staged muted alerts",
         "url": "https://github.com/celestiaorg/infrastructure/pull/860",
         "repo": "infrastructure",
         "author": "rootulp",
@@ -520,5 +520,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-10-01T00:08:04.027Z"
+  "fetchedAt": "2026-10-01T01:10:49.440Z"
 }
