@@ -2,16 +2,6 @@
   "reviews": {
     "chatton": [
       {
-        "number": 865,
-        "title": "chore(mocha): unify the metric network label",
-        "url": "https://github.com/celestiaorg/infrastructure/pull/865",
-        "repo": "infrastructure",
-        "author": "pippokr",
-        "authorCategory": "coworker",
-        "reviewer": "chatton",
-        "requestedAt": "2026-10-01T08:53:11Z"
-      },
-      {
         "number": 5254,
         "title": "test(tastora/canary): add the canary result model",
         "url": "https://github.com/celestiaorg/celestia-node/pull/5254",
@@ -500,5 +490,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-10-01T10:21:49.921Z"
+  "fetchedAt": "2026-10-01T10:34:26.081Z"
 }
