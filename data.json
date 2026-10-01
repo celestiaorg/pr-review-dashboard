@@ -44,8 +44,30 @@
         "requestedAt": "2026-09-25T16:49:15Z"
       }
     ],
-    "ninabarbakadze": [],
-    "rach-id": [],
+    "ninabarbakadze": [
+      {
+        "number": 8045,
+        "title": "fix(multiplexer): don't forward --privval-grpc-allow-insecure to embedded binaries",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/8045",
+        "repo": "celestia-app",
+        "author": "rootulp",
+        "authorCategory": "coworker",
+        "reviewer": "ninabarbakadze",
+        "requestedAt": "2026-10-01T15:43:28Z"
+      }
+    ],
+    "rach-id": [
+      {
+        "number": 8045,
+        "title": "fix(multiplexer): don't forward --privval-grpc-allow-insecure to embedded binaries",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/8045",
+        "repo": "celestia-app",
+        "author": "rootulp",
+        "authorCategory": "coworker",
+        "reviewer": "rach-id",
+        "requestedAt": "2026-10-01T15:43:28Z"
+      }
+    ],
     "renaynay": [
       {
         "number": 119,
@@ -501,5 +523,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-10-01T15:45:12.962Z"
+  "fetchedAt": "2026-10-01T15:53:55.354Z"
 }
