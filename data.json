@@ -161,6 +161,16 @@
         "requestedAt": "2026-10-01T09:31:05Z"
       },
       {
+        "number": 8039,
+        "title": "chore: extend config sync to Fibre",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/8039",
+        "repo": "celestia-app",
+        "author": "ninabarbakadze",
+        "authorCategory": "coworker",
+        "reviewer": "vgonkivs",
+        "requestedAt": "2026-10-01T11:42:10Z"
+      },
+      {
         "number": 5167,
         "title": "cmd: Load configured RPC URL with explicit token",
         "url": "https://github.com/celestiaorg/celestia-node/pull/5167",
@@ -500,5 +510,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-10-01T11:32:55.638Z"
+  "fetchedAt": "2026-10-01T11:44:07.560Z"
 }
