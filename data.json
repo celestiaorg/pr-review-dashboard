@@ -64,6 +64,16 @@
     ],
     "pippokr": [
       {
+        "number": 866,
+        "title": "Disable Caddy APT source and add bypass if required",
+        "url": "https://github.com/celestiaorg/infrastructure/pull/866",
+        "repo": "infrastructure",
+        "author": "chatton",
+        "authorCategory": "coworker",
+        "reviewer": "pippokr",
+        "requestedAt": "2026-10-01T09:35:40Z"
+      },
+      {
         "number": 5292,
         "title": "chore(deps): bump the go-deps group across 2 directories with 3 updates",
         "url": "https://github.com/celestiaorg/celestia-node/pull/5292",
@@ -82,16 +92,6 @@
         "authorCategory": "external",
         "reviewer": "pippokr",
         "requestedAt": "2026-09-25T16:49:15Z"
-      },
-      {
-        "number": 8034,
-        "title": "feat(fibre): add WaitForAllUploads client option",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/8034",
-        "repo": "celestia-app",
-        "author": "alexeymoskalev-devops",
-        "authorCategory": "external",
-        "reviewer": "pippokr",
-        "requestedAt": "2026-09-30T13:04:26Z"
       }
     ],
     "ninabarbakadze": [],
@@ -190,6 +190,16 @@
     ],
     "rootulp": [],
     "vgonkivs": [
+      {
+        "number": 5301,
+        "title": "fix(shrex): stream namespace responses sequentially",
+        "url": "https://github.com/celestiaorg/celestia-node/pull/5301",
+        "repo": "celestia-node",
+        "author": "renaynay",
+        "authorCategory": "coworker",
+        "reviewer": "vgonkivs",
+        "requestedAt": "2026-10-01T09:31:05Z"
+      },
       {
         "number": 5167,
         "title": "cmd: Load configured RPC URL with explicit token",
@@ -530,5 +540,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-10-01T09:25:22.590Z"
+  "fetchedAt": "2026-10-01T09:40:13.839Z"
 }
