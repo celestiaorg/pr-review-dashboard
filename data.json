@@ -22,6 +22,16 @@
         "requestedAt": "2026-10-01T08:29:10Z"
       },
       {
+        "number": 864,
+        "title": "chore(sweep): retire the mocha-4 inventory and network identity",
+        "url": "https://github.com/celestiaorg/infrastructure/pull/864",
+        "repo": "infrastructure",
+        "author": "pippokr",
+        "authorCategory": "coworker",
+        "reviewer": "chatton",
+        "requestedAt": "2026-10-01T08:45:09Z"
+      },
+      {
         "number": 5254,
         "title": "test(tastora/canary): add the canary result model",
         "url": "https://github.com/celestiaorg/celestia-node/pull/5254",
@@ -510,5 +520,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-10-01T08:30:07.216Z"
+  "fetchedAt": "2026-10-01T08:50:23.895Z"
 }
