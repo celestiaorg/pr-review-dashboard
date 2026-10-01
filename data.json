@@ -47,26 +47,6 @@
     "ninabarbakadze": [],
     "rach-id": [
       {
-        "number": 3409,
-        "title": "fix(types): validate commit BlockID in Commit.ValidateBasic (backport #3350)",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3409",
-        "repo": "celestia-core",
-        "author": "mergify",
-        "authorCategory": "bot",
-        "reviewer": "rach-id",
-        "requestedAt": "2026-10-01T16:25:46Z"
-      },
-      {
-        "number": 3415,
-        "title": "fix(mempool/cat): guard against zero total gas in txSet aggregation (backport #3355)",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3415",
-        "repo": "celestia-core",
-        "author": "mergify",
-        "authorCategory": "bot",
-        "reviewer": "rach-id",
-        "requestedAt": "2026-10-01T16:26:17Z"
-      },
-      {
         "number": 8050,
         "title": "fix(fibre): apply on-chain promise validation before signing (backport #8021)",
         "url": "https://github.com/celestiaorg/celestia-app/pull/8050",
@@ -97,16 +77,6 @@
         "requestedAt": "2026-10-01T16:44:51Z"
       },
       {
-        "number": 8053,
-        "title": "fix(zkism): export all genesis messages per ISM (backport #7946)",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/8053",
-        "repo": "celestia-app",
-        "author": "mergify",
-        "authorCategory": "bot",
-        "reviewer": "rach-id",
-        "requestedAt": "2026-10-01T16:44:56Z"
-      },
-      {
         "number": 8054,
         "title": "fix(multiplexer): don't forward unsupported start flags to embedded binaries (backport #7991)",
         "url": "https://github.com/celestiaorg/celestia-app/pull/8054",
@@ -115,76 +85,6 @@
         "authorCategory": "bot",
         "reviewer": "rach-id",
         "requestedAt": "2026-10-01T16:45:00Z"
-      },
-      {
-        "number": 8055,
-        "title": "fix(fibre): cap gRPC connection age so stalled streams free slots (backport #8024)",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/8055",
-        "repo": "celestia-app",
-        "author": "mergify",
-        "authorCategory": "bot",
-        "reviewer": "rach-id",
-        "requestedAt": "2026-10-01T16:45:05Z"
-      },
-      {
-        "number": 3410,
-        "title": "fix(types): reject duplicate validator addresses in ValidatorSetFromExistingValidators (backport #3351)",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3410",
-        "repo": "celestia-core",
-        "author": "mergify",
-        "authorCategory": "bot",
-        "reviewer": "rach-id",
-        "requestedAt": "2026-10-01T16:45:19Z"
-      },
-      {
-        "number": 3411,
-        "title": "fix(types): validate share proof entries before using them (backport #3352)",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3411",
-        "repo": "celestia-core",
-        "author": "mergify",
-        "authorCategory": "bot",
-        "reviewer": "rach-id",
-        "requestedAt": "2026-10-01T16:45:23Z"
-      },
-      {
-        "number": 3412,
-        "title": "fix(light/rpc): bind hash-selected responses to the requested hash (backport #3357)",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3412",
-        "repo": "celestia-core",
-        "author": "mergify",
-        "authorCategory": "bot",
-        "reviewer": "rach-id",
-        "requestedAt": "2026-10-01T16:45:27Z"
-      },
-      {
-        "number": 3413,
-        "title": "fix(rpc/core): gate genesis routes behind the heavy-request budget (backport #3399)",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3413",
-        "repo": "celestia-core",
-        "author": "mergify",
-        "authorCategory": "bot",
-        "reviewer": "rach-id",
-        "requestedAt": "2026-10-01T16:45:31Z"
-      },
-      {
-        "number": 3414,
-        "title": "fix(rpc/core): enforce max query length in block_search (backport #3349)",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3414",
-        "repo": "celestia-core",
-        "author": "mergify",
-        "authorCategory": "bot",
-        "reviewer": "rach-id",
-        "requestedAt": "2026-10-01T16:45:36Z"
-      },
-      {
-        "number": 3416,
-        "title": "fix(rpc/jsonrpc): cap JSON-RPC client response body size (backport #3356)",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3416",
-        "repo": "celestia-core",
-        "author": "mergify",
-        "authorCategory": "bot",
-        "reviewer": "rach-id",
-        "requestedAt": "2026-10-01T16:45:44Z"
       }
     ],
     "renaynay": [
@@ -642,5 +542,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-10-01T16:45:47.680Z"
+  "fetchedAt": "2026-10-01T16:53:53.983Z"
 }
