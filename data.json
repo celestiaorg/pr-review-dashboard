@@ -219,16 +219,6 @@
         "authorCategory": "coworker",
         "reviewer": "rootulp",
         "requestedAt": "2026-10-01T17:47:59Z"
-      },
-      {
-        "number": 8061,
-        "title": "docs: recommend a separate host for Fibre servers",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/8061",
-        "repo": "celestia-app",
-        "author": "rach-id",
-        "authorCategory": "coworker",
-        "reviewer": "rootulp",
-        "requestedAt": "2026-10-01T21:23:35Z"
       }
     ],
     "vgonkivs": [
@@ -582,5 +572,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-10-01T22:17:51.287Z"
+  "fetchedAt": "2026-10-01T22:29:30.142Z"
 }
