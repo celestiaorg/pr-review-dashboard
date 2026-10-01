@@ -34,6 +34,16 @@
         "requestedAt": "2026-09-28T11:07:06Z"
       },
       {
+        "number": 8044,
+        "title": "fix(local_devnet): allow plaintext signer gRPC between validators and fibre (backport #8041)",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/8044",
+        "repo": "celestia-app",
+        "author": "mergify",
+        "authorCategory": "bot",
+        "reviewer": "pippokr",
+        "requestedAt": "2026-10-01T12:24:58Z"
+      },
+      {
         "number": 5280,
         "title": "fix(state/cmd): return an error on the wrong address kind",
         "url": "https://github.com/celestiaorg/celestia-node/pull/5280",
@@ -148,7 +158,28 @@
         "requestedAt": "2026-10-01T11:20:47Z"
       }
     ],
-    "rootulp": [],
+    "rootulp": [
+      {
+        "number": 873,
+        "title": "feat(monitoring): corto-10 encoder telemetry, gateway alerts and dashboard",
+        "url": "https://github.com/celestiaorg/infrastructure/pull/873",
+        "repo": "infrastructure",
+        "author": "walldiss",
+        "authorCategory": "coworker",
+        "reviewer": "rootulp",
+        "requestedAt": "2026-10-01T12:05:13Z"
+      },
+      {
+        "number": 209,
+        "title": "Fix Docker host port allocation races",
+        "url": "https://github.com/celestiaorg/tastora/pull/209",
+        "repo": "tastora",
+        "author": "chatton",
+        "authorCategory": "coworker",
+        "reviewer": "rootulp",
+        "requestedAt": "2026-10-01T12:32:21Z"
+      }
+    ],
     "vgonkivs": [
       {
         "number": 5301,
@@ -413,6 +444,16 @@
         "requestedAt": "2026-09-28T11:03:43Z"
       },
       {
+        "number": 8042,
+        "title": "feat(fibre)!: support mTLS for the fibre signer gRPC connection (backport #7842)",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/8042",
+        "repo": "celestia-app",
+        "author": "mergify",
+        "authorCategory": "bot",
+        "reviewer": "walldiss",
+        "requestedAt": "2026-10-01T12:12:51Z"
+      },
+      {
         "number": 5264,
         "title": "fix(fibre): detach Upload's shard fan-out from the caller ctx",
         "url": "https://github.com/celestiaorg/celestia-node/pull/5264",
@@ -490,5 +531,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-10-01T11:59:13.649Z"
+  "fetchedAt": "2026-10-01T12:32:47.854Z"
 }
