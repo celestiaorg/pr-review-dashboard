@@ -64,16 +64,6 @@
     ],
     "pippokr": [
       {
-        "number": 866,
-        "title": "Disable Caddy APT source and add bypass if required",
-        "url": "https://github.com/celestiaorg/infrastructure/pull/866",
-        "repo": "infrastructure",
-        "author": "chatton",
-        "authorCategory": "coworker",
-        "reviewer": "pippokr",
-        "requestedAt": "2026-10-01T09:35:40Z"
-      },
-      {
         "number": 5292,
         "title": "chore(deps): bump the go-deps group across 2 directories with 3 updates",
         "url": "https://github.com/celestiaorg/celestia-node/pull/5292",
@@ -540,5 +530,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-10-01T09:52:02.221Z"
+  "fetchedAt": "2026-10-01T09:59:27.593Z"
 }
