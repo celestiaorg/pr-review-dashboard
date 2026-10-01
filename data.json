@@ -2,16 +2,6 @@
   "reviews": {
     "chatton": [
       {
-        "number": 879,
-        "title": "fix(da-proxy): align standalone alloy playbook with component var files",
-        "url": "https://github.com/celestiaorg/infrastructure/pull/879",
-        "repo": "infrastructure",
-        "author": "pippokr",
-        "authorCategory": "coworker",
-        "reviewer": "chatton",
-        "requestedAt": "2026-10-01T13:46:21Z"
-      },
-      {
         "number": 5254,
         "title": "test(tastora/canary): add the canary result model",
         "url": "https://github.com/celestiaorg/celestia-node/pull/5254",
@@ -33,6 +23,16 @@
       }
     ],
     "pippokr": [
+      {
+        "number": 872,
+        "title": "chore(corto-10): add ops scripts, handoff reports and CloudFormation record",
+        "url": "https://github.com/celestiaorg/infrastructure/pull/872",
+        "repo": "infrastructure",
+        "author": "walldiss",
+        "authorCategory": "coworker",
+        "reviewer": "pippokr",
+        "requestedAt": "2026-10-01T14:20:02Z"
+      },
       {
         "number": 5292,
         "title": "chore(deps): bump the go-deps group across 2 directories with 3 updates",
@@ -500,5 +500,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-10-01T14:03:36.883Z"
+  "fetchedAt": "2026-10-01T14:26:00.918Z"
 }
