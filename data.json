@@ -2,14 +2,24 @@
   "reviews": {
     "chatton": [
       {
-        "number": 859,
-        "title": "chore(sweep): prune dead app defaults keys + deploy-agent read fix",
-        "url": "https://github.com/celestiaorg/infrastructure/pull/859",
+        "number": 862,
+        "title": "chore(sweep): remove dead mocha-4 branches from force-rebuild",
+        "url": "https://github.com/celestiaorg/infrastructure/pull/862",
         "repo": "infrastructure",
         "author": "pippokr",
         "authorCategory": "coworker",
         "reviewer": "chatton",
-        "requestedAt": "2026-09-30T15:57:37Z"
+        "requestedAt": "2026-10-01T08:27:21Z"
+      },
+      {
+        "number": 863,
+        "title": "chore(sweep): fix alloy deploy path, drop dead bridge alloy playbook",
+        "url": "https://github.com/celestiaorg/infrastructure/pull/863",
+        "repo": "infrastructure",
+        "author": "pippokr",
+        "authorCategory": "coworker",
+        "reviewer": "chatton",
+        "requestedAt": "2026-10-01T08:29:10Z"
       },
       {
         "number": 5254,
@@ -500,5 +510,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-10-01T07:58:04.670Z"
+  "fetchedAt": "2026-10-01T08:30:07.216Z"
 }
