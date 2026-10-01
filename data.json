@@ -54,19 +54,19 @@
         "requestedAt": "2026-09-25T16:49:15Z"
       }
     ],
-    "ninabarbakadze": [
+    "ninabarbakadze": [],
+    "rach-id": [
       {
-        "number": 3405,
-        "title": "fix(privval): reject SignRawBytes for other chain IDs (backport #3374)",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3405",
-        "repo": "celestia-core",
+        "number": 8046,
+        "title": "chore: extend config sync to Fibre (backport #8039)",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/8046",
+        "repo": "celestia-app",
         "author": "mergify",
         "authorCategory": "bot",
-        "reviewer": "ninabarbakadze",
-        "requestedAt": "2026-10-01T13:27:56Z"
+        "reviewer": "rach-id",
+        "requestedAt": "2026-10-01T13:30:57Z"
       }
     ],
-    "rach-id": [],
     "renaynay": [
       {
         "number": 418,
@@ -511,5 +511,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-10-01T13:29:11.055Z"
+  "fetchedAt": "2026-10-01T13:45:32.358Z"
 }
