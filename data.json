@@ -45,7 +45,18 @@
       }
     ],
     "ninabarbakadze": [],
-    "rach-id": [],
+    "rach-id": [
+      {
+        "number": 8039,
+        "title": "chore: extend config sync to Fibre",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/8039",
+        "repo": "celestia-app",
+        "author": "ninabarbakadze",
+        "authorCategory": "coworker",
+        "reviewer": "rach-id",
+        "requestedAt": "2026-10-01T11:46:09Z"
+      }
+    ],
     "renaynay": [
       {
         "number": 418,
@@ -159,16 +170,6 @@
         "authorCategory": "coworker",
         "reviewer": "vgonkivs",
         "requestedAt": "2026-10-01T09:31:05Z"
-      },
-      {
-        "number": 8039,
-        "title": "chore: extend config sync to Fibre",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/8039",
-        "repo": "celestia-app",
-        "author": "ninabarbakadze",
-        "authorCategory": "coworker",
-        "reviewer": "vgonkivs",
-        "requestedAt": "2026-10-01T11:42:10Z"
       },
       {
         "number": 5167,
@@ -510,5 +511,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-10-01T11:44:07.560Z"
+  "fetchedAt": "2026-10-01T11:52:53.233Z"
 }
