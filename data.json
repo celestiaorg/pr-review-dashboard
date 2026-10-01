@@ -24,16 +24,6 @@
     ],
     "pippokr": [
       {
-        "number": 872,
-        "title": "chore(corto-10): add ops scripts, handoff reports and CloudFormation record",
-        "url": "https://github.com/celestiaorg/infrastructure/pull/872",
-        "repo": "infrastructure",
-        "author": "walldiss",
-        "authorCategory": "coworker",
-        "reviewer": "pippokr",
-        "requestedAt": "2026-10-01T14:20:02Z"
-      },
-      {
         "number": 5292,
         "title": "chore(deps): bump the go-deps group across 2 directories with 3 updates",
         "url": "https://github.com/celestiaorg/celestia-node/pull/5292",
@@ -55,18 +45,7 @@
       }
     ],
     "ninabarbakadze": [],
-    "rach-id": [
-      {
-        "number": 3404,
-        "title": "fix(privval): reject partial gRPC TLS config at startup",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3404",
-        "repo": "celestia-core",
-        "author": "ninabarbakadze",
-        "authorCategory": "coworker",
-        "reviewer": "rach-id",
-        "requestedAt": "2026-10-01T13:03:16Z"
-      }
-    ],
+    "rach-id": [],
     "renaynay": [
       {
         "number": 119,
@@ -522,5 +501,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-10-01T14:40:20.773Z"
+  "fetchedAt": "2026-10-01T14:50:50.315Z"
 }
