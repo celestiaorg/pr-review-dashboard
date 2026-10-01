@@ -45,18 +45,7 @@
       }
     ],
     "ninabarbakadze": [],
-    "rach-id": [
-      {
-        "number": 8039,
-        "title": "chore: extend config sync to Fibre",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/8039",
-        "repo": "celestia-app",
-        "author": "ninabarbakadze",
-        "authorCategory": "coworker",
-        "reviewer": "rach-id",
-        "requestedAt": "2026-10-01T11:46:09Z"
-      }
-    ],
+    "rach-id": [],
     "renaynay": [
       {
         "number": 418,
@@ -414,16 +403,6 @@
     ],
     "walldiss": [
       {
-        "number": 8033,
-        "title": "chore(scan-blockresults): bump celestia-core to v0.40.11",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/8033",
-        "repo": "celestia-app",
-        "author": "ninabarbakadze",
-        "authorCategory": "coworker",
-        "reviewer": "walldiss",
-        "requestedAt": "2026-09-30T11:59:16Z"
-      },
-      {
         "number": 5291,
         "title": "chore(deps): bump alpine from 3.24.1 to 3.24.2 in the patch-updates group",
         "url": "https://github.com/celestiaorg/celestia-node/pull/5291",
@@ -511,5 +490,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-10-01T11:52:53.233Z"
+  "fetchedAt": "2026-10-01T11:59:13.649Z"
 }
