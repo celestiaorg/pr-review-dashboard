@@ -64,18 +64,7 @@
         "requestedAt": "2026-09-25T16:49:15Z"
       }
     ],
-    "ninabarbakadze": [
-      {
-        "number": 8060,
-        "title": "docs: explain Fibre S3 storage in v10 release notes",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/8060",
-        "repo": "celestia-app",
-        "author": "rach-id",
-        "authorCategory": "coworker",
-        "reviewer": "ninabarbakadze",
-        "requestedAt": "2026-10-01T19:41:55Z"
-      }
-    ],
+    "ninabarbakadze": [],
     "rach-id": [],
     "renaynay": [
       {
@@ -552,5 +541,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-10-01T19:42:48.200Z"
+  "fetchedAt": "2026-10-01T19:49:31.831Z"
 }
