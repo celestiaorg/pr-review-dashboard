@@ -55,18 +55,19 @@
       }
     ],
     "ninabarbakadze": [],
-    "rach-id": [],
-    "renaynay": [
+    "rach-id": [
       {
-        "number": 418,
-        "title": "fix(sync): don't punish duplicates of the current head",
-        "url": "https://github.com/celestiaorg/go-header/pull/418",
-        "repo": "go-header",
+        "number": 3404,
+        "title": "fix(privval): reject partial gRPC TLS config at startup",
+        "url": "https://github.com/celestiaorg/celestia-core/pull/3404",
+        "repo": "celestia-core",
         "author": "ninabarbakadze",
         "authorCategory": "coworker",
-        "reviewer": "renaynay",
-        "requestedAt": "2026-09-29T14:35:48Z"
-      },
+        "reviewer": "rach-id",
+        "requestedAt": "2026-10-01T13:03:16Z"
+      }
+    ],
+    "renaynay": [
       {
         "number": 119,
         "title": "feat: add consistency check in bridge nodes",
@@ -158,7 +159,18 @@
         "requestedAt": "2026-10-01T11:20:47Z"
       }
     ],
-    "rootulp": [],
+    "rootulp": [
+      {
+        "number": 870,
+        "title": "feat(corto): corto-10 dashboards and alert rules",
+        "url": "https://github.com/celestiaorg/infrastructure/pull/870",
+        "repo": "infrastructure",
+        "author": "walldiss",
+        "authorCategory": "coworker",
+        "reviewer": "rootulp",
+        "requestedAt": "2026-10-01T14:33:44Z"
+      }
+    ],
     "vgonkivs": [
       {
         "number": 5301,
@@ -413,6 +425,16 @@
     ],
     "walldiss": [
       {
+        "number": 882,
+        "title": "docs(corto-10): runbook follow-up — automated TLS renewal, third SSH ingress",
+        "url": "https://github.com/celestiaorg/infrastructure/pull/882",
+        "repo": "infrastructure",
+        "author": "pippokr",
+        "authorCategory": "coworker",
+        "reviewer": "walldiss",
+        "requestedAt": "2026-10-01T14:38:36Z"
+      },
+      {
         "number": 5291,
         "title": "chore(deps): bump alpine from 3.24.1 to 3.24.2 in the patch-updates group",
         "url": "https://github.com/celestiaorg/celestia-node/pull/5291",
@@ -500,5 +522,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-10-01T14:26:00.918Z"
+  "fetchedAt": "2026-10-01T14:40:20.773Z"
 }
