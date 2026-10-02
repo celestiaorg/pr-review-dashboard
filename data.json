@@ -106,18 +106,7 @@
         "requestedAt": "2026-10-02T13:39:54Z"
       }
     ],
-    "rach-id": [
-      {
-        "number": 8034,
-        "title": "feat(fibre): add WaitForAllUploads client option",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/8034",
-        "repo": "celestia-app",
-        "author": "alexeymoskalev-devops",
-        "authorCategory": "external",
-        "reviewer": "rach-id",
-        "requestedAt": "2026-10-02T03:30:32Z"
-      }
-    ],
+    "rach-id": [],
     "renaynay": [
       {
         "number": 119,
@@ -573,5 +562,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-10-02T14:07:10.407Z"
+  "fetchedAt": "2026-10-02T14:26:56.910Z"
 }
