@@ -87,16 +87,6 @@
     "ninabarbakadze": [],
     "rach-id": [
       {
-        "number": 301,
-        "title": "test(share): strengthen prefix wire format compatibility checks",
-        "url": "https://github.com/celestiaorg/go-square/pull/301",
-        "repo": "go-square",
-        "author": "rootulp",
-        "authorCategory": "coworker",
-        "reviewer": "rach-id",
-        "requestedAt": "2026-10-01T21:59:45Z"
-      },
-      {
         "number": 8034,
         "title": "feat(fibre): add WaitForAllUploads client option",
         "url": "https://github.com/celestiaorg/celestia-app/pull/8034",
@@ -562,5 +552,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-10-02T08:22:58.940Z"
+  "fetchedAt": "2026-10-02T08:40:06.660Z"
 }
