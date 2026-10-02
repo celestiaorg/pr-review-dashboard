@@ -84,7 +84,18 @@
         "requestedAt": "2026-09-25T16:49:15Z"
       }
     ],
-    "ninabarbakadze": [],
+    "ninabarbakadze": [
+      {
+        "number": 8009,
+        "title": "feat(fibre): add gRPC health and readiness diagnostics to the fibre server",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/8009",
+        "repo": "celestia-app",
+        "author": "rach-id",
+        "authorCategory": "coworker",
+        "reviewer": "ninabarbakadze",
+        "requestedAt": "2026-10-02T13:39:54Z"
+      }
+    ],
     "rach-id": [
       {
         "number": 8034,
@@ -201,6 +212,16 @@
         "authorCategory": "coworker",
         "reviewer": "vgonkivs",
         "requestedAt": "2026-10-01T09:31:05Z"
+      },
+      {
+        "number": 8009,
+        "title": "feat(fibre): add gRPC health and readiness diagnostics to the fibre server",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/8009",
+        "repo": "celestia-app",
+        "author": "rach-id",
+        "authorCategory": "coworker",
+        "reviewer": "vgonkivs",
+        "requestedAt": "2026-10-02T13:39:54Z"
       },
       {
         "number": 5167,
@@ -542,5 +563,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-10-02T13:35:00.433Z"
+  "fetchedAt": "2026-10-02T13:46:54.008Z"
 }
