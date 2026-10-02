@@ -54,16 +54,6 @@
         "requestedAt": "2026-10-01T17:48:28Z"
       },
       {
-        "number": 891,
-        "title": "fix(app): pin validator identity before deploying secrets",
-        "url": "https://github.com/celestiaorg/infrastructure/pull/891",
-        "repo": "infrastructure",
-        "author": "rach-id",
-        "authorCategory": "coworker",
-        "reviewer": "pippokr",
-        "requestedAt": "2026-10-01T21:36:50Z"
-      },
-      {
         "number": 5292,
         "title": "chore(deps): bump the go-deps group across 2 directories with 3 updates",
         "url": "https://github.com/celestiaorg/celestia-node/pull/5292",
@@ -551,5 +541,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-10-02T06:12:53.002Z"
+  "fetchedAt": "2026-10-02T06:45:08.179Z"
 }
