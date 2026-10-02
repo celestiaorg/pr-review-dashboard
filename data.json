@@ -2,16 +2,6 @@
   "reviews": {
     "chatton": [
       {
-        "number": 870,
-        "title": "feat(corto): corto-10 dashboards and alert rules",
-        "url": "https://github.com/celestiaorg/infrastructure/pull/870",
-        "repo": "infrastructure",
-        "author": "walldiss",
-        "authorCategory": "coworker",
-        "reviewer": "chatton",
-        "requestedAt": "2026-10-01T17:48:28Z"
-      },
-      {
         "number": 889,
         "title": "docs: refresh after the mocha-4 sweep, corto Slack migration and alloy playbook fix",
         "url": "https://github.com/celestiaorg/infrastructure/pull/889",
@@ -53,16 +43,6 @@
       }
     ],
     "pippokr": [
-      {
-        "number": 870,
-        "title": "feat(corto): corto-10 dashboards and alert rules",
-        "url": "https://github.com/celestiaorg/infrastructure/pull/870",
-        "repo": "infrastructure",
-        "author": "walldiss",
-        "authorCategory": "coworker",
-        "reviewer": "pippokr",
-        "requestedAt": "2026-10-01T17:48:28Z"
-      },
       {
         "number": 893,
         "title": "fix: double validator capacity for nightly blob load",
@@ -562,5 +542,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-10-02T21:30:43.138Z"
+  "fetchedAt": "2026-10-02T21:42:03.340Z"
 }
