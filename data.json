@@ -22,6 +22,16 @@
         "requestedAt": "2026-10-01T20:19:10Z"
       },
       {
+        "number": 892,
+        "title": "safety(scaleway): forbid destroying reserved bare metal servers",
+        "url": "https://github.com/celestiaorg/infrastructure/pull/892",
+        "repo": "infrastructure",
+        "author": "pippokr",
+        "authorCategory": "coworker",
+        "reviewer": "chatton",
+        "requestedAt": "2026-10-02T08:09:37Z"
+      },
+      {
         "number": 5254,
         "title": "test(tastora/canary): add the canary result model",
         "url": "https://github.com/celestiaorg/celestia-node/pull/5254",
@@ -189,7 +199,18 @@
         "requestedAt": "2026-10-01T11:20:47Z"
       }
     ],
-    "rootulp": [],
+    "rootulp": [
+      {
+        "number": 892,
+        "title": "safety(scaleway): forbid destroying reserved bare metal servers",
+        "url": "https://github.com/celestiaorg/infrastructure/pull/892",
+        "repo": "infrastructure",
+        "author": "pippokr",
+        "authorCategory": "coworker",
+        "reviewer": "rootulp",
+        "requestedAt": "2026-10-02T08:09:33Z"
+      }
+    ],
     "vgonkivs": [
       {
         "number": 5301,
@@ -541,5 +562,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-10-02T07:57:16.795Z"
+  "fetchedAt": "2026-10-02T08:22:58.940Z"
 }
