@@ -169,18 +169,7 @@
         "requestedAt": "2026-09-30T03:43:16Z"
       }
     ],
-    "rootulp": [
-      {
-        "number": 892,
-        "title": "safety(scaleway): forbid destroying reserved bare metal servers",
-        "url": "https://github.com/celestiaorg/infrastructure/pull/892",
-        "repo": "infrastructure",
-        "author": "pippokr",
-        "authorCategory": "coworker",
-        "reviewer": "rootulp",
-        "requestedAt": "2026-10-02T08:09:33Z"
-      }
-    ],
+    "rootulp": [],
     "vgonkivs": [
       {
         "number": 5301,
@@ -552,5 +541,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-10-03T14:47:28.354Z"
+  "fetchedAt": "2026-10-03T16:04:12.036Z"
 }
