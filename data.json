@@ -441,6 +441,16 @@
         "authorCategory": "external",
         "reviewer": "vgonkivs",
         "requestedAt": "2026-09-29T10:28:54Z"
+      },
+      {
+        "number": 3427,
+        "title": "fix(state): don't hang CreateProposalBlock on a single-CPU machine",
+        "url": "https://github.com/celestiaorg/celestia-core/pull/3427",
+        "repo": "celestia-core",
+        "author": "operagxsasha",
+        "authorCategory": "external",
+        "reviewer": "vgonkivs",
+        "requestedAt": "2026-10-03T06:58:50Z"
       }
     ],
     "walldiss": [
@@ -542,5 +552,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-10-03T06:54:29.263Z"
+  "fetchedAt": "2026-10-03T07:11:20.749Z"
 }
