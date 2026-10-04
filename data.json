@@ -454,6 +454,16 @@
         "requestedAt": "2026-10-01T14:38:36Z"
       },
       {
+        "number": 896,
+        "title": "docs(corto-10): point observability-0 at its Elastic IP",
+        "url": "https://github.com/celestiaorg/infrastructure/pull/896",
+        "repo": "infrastructure",
+        "author": "pippokr",
+        "authorCategory": "coworker",
+        "reviewer": "walldiss",
+        "requestedAt": "2026-10-04T16:17:28Z"
+      },
+      {
         "number": 5291,
         "title": "chore(deps): bump alpine from 3.24.1 to 3.24.2 in the patch-updates group",
         "url": "https://github.com/celestiaorg/celestia-node/pull/5291",
@@ -541,5 +551,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-10-04T14:59:14.036Z"
+  "fetchedAt": "2026-10-04T16:35:30.621Z"
 }
