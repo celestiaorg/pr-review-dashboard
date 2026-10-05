@@ -72,6 +72,16 @@
         "authorCategory": "external",
         "reviewer": "pippokr",
         "requestedAt": "2026-09-25T16:49:15Z"
+      },
+      {
+        "number": 5309,
+        "title": "das: Serialize DASer startup and shutdown lifecycle",
+        "url": "https://github.com/celestiaorg/celestia-node/pull/5309",
+        "repo": "celestia-node",
+        "author": "kleonyuan",
+        "authorCategory": "external",
+        "reviewer": "pippokr",
+        "requestedAt": "2026-10-05T15:15:27Z"
       }
     ],
     "ninabarbakadze": [
@@ -531,5 +541,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-10-05T15:05:09.115Z"
+  "fetchedAt": "2026-10-05T15:26:21.545Z"
 }
