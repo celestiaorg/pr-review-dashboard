@@ -169,7 +169,18 @@
         "requestedAt": "2026-09-30T03:43:16Z"
       }
     ],
-    "rootulp": [],
+    "rootulp": [
+      {
+        "number": 5311,
+        "title": "fix(shwap/shrex_getter): validate indices for empty blocks",
+        "url": "https://github.com/celestiaorg/celestia-node/pull/5311",
+        "repo": "celestia-node",
+        "author": "Shailu-s",
+        "authorCategory": "external",
+        "reviewer": "rootulp",
+        "requestedAt": "2026-10-05T20:21:55Z"
+      }
+    ],
     "vgonkivs": [
       {
         "number": 5301,
@@ -551,5 +562,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-10-05T19:47:20.379Z"
+  "fetchedAt": "2026-10-05T20:38:12.620Z"
 }
