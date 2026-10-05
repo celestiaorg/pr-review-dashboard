@@ -104,16 +104,6 @@
         "requestedAt": "2026-10-05T09:02:40Z"
       },
       {
-        "number": 5292,
-        "title": "chore(deps): bump the go-deps group across 2 directories with 3 updates",
-        "url": "https://github.com/celestiaorg/celestia-node/pull/5292",
-        "repo": "celestia-node",
-        "author": "dependabot",
-        "authorCategory": "bot",
-        "reviewer": "pippokr",
-        "requestedAt": "2026-09-28T11:07:06Z"
-      },
-      {
         "number": 5280,
         "title": "fix(state/cmd): return an error on the wrong address kind",
         "url": "https://github.com/celestiaorg/celestia-node/pull/5280",
@@ -536,7 +526,7 @@
       },
       {
         "number": 5291,
-        "title": "chore(deps): bump alpine from 3.24.1 to 3.24.2 in the patch-updates group",
+        "title": "chore(deps): bump alpine from 3.24.1 to 3.24.2 in the patch-updates group across 1 directory",
         "url": "https://github.com/celestiaorg/celestia-node/pull/5291",
         "repo": "celestia-node",
         "author": "dependabot",
@@ -622,5 +612,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-10-05T10:56:09.212Z"
+  "fetchedAt": "2026-10-05T11:10:41.473Z"
 }
