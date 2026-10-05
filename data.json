@@ -482,6 +482,16 @@
         "authorCategory": "external",
         "reviewer": "walldiss",
         "requestedAt": "2026-09-28T14:14:54Z"
+      },
+      {
+        "number": 8083,
+        "title": "fix: add timeout to download-genesis requests",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/8083",
+        "repo": "celestia-app",
+        "author": "kleonyuan",
+        "authorCategory": "external",
+        "reviewer": "walldiss",
+        "requestedAt": "2026-10-05T14:09:52Z"
       }
     ]
   },
@@ -531,5 +541,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-10-05T13:59:56.466Z"
+  "fetchedAt": "2026-10-05T14:26:18.378Z"
 }
