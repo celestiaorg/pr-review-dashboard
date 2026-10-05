@@ -32,26 +32,6 @@
         "requestedAt": "2026-10-05T07:33:36Z"
       },
       {
-        "number": 899,
-        "title": "cleanup(da-proxy): remove dead mocha-4 app config tree",
-        "url": "https://github.com/celestiaorg/infrastructure/pull/899",
-        "repo": "infrastructure",
-        "author": "pippokr",
-        "authorCategory": "coworker",
-        "reviewer": "chatton",
-        "requestedAt": "2026-10-05T07:34:27Z"
-      },
-      {
-        "number": 900,
-        "title": "docs(terraform): correct mocha DNS zone name",
-        "url": "https://github.com/celestiaorg/infrastructure/pull/900",
-        "repo": "infrastructure",
-        "author": "pippokr",
-        "authorCategory": "coworker",
-        "reviewer": "chatton",
-        "requestedAt": "2026-10-05T07:35:30Z"
-      },
-      {
         "number": 5254,
         "title": "test(tastora/canary): add the canary result model",
         "url": "https://github.com/celestiaorg/celestia-node/pull/5254",
@@ -551,5 +531,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-10-05T13:05:19.804Z"
+  "fetchedAt": "2026-10-05T13:32:33.199Z"
 }
