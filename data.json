@@ -72,6 +72,16 @@
         "requestedAt": "2026-10-05T08:35:12Z"
       },
       {
+        "number": 907,
+        "title": "fix(ci): daproxy prepare tolerates fleets without an archival map key",
+        "url": "https://github.com/celestiaorg/infrastructure/pull/907",
+        "repo": "infrastructure",
+        "author": "pippokr",
+        "authorCategory": "coworker",
+        "reviewer": "chatton",
+        "requestedAt": "2026-10-05T12:43:14Z"
+      },
+      {
         "number": 5254,
         "title": "test(tastora/canary): add the canary result model",
         "url": "https://github.com/celestiaorg/celestia-node/pull/5254",
@@ -93,16 +103,6 @@
       }
     ],
     "pippokr": [
-      {
-        "number": 903,
-        "title": "docs(corto-10): observability-0 Elastic IP and autoscaler Cloudflare token",
-        "url": "https://github.com/celestiaorg/infrastructure/pull/903",
-        "repo": "infrastructure",
-        "author": "walldiss",
-        "authorCategory": "coworker",
-        "reviewer": "pippokr",
-        "requestedAt": "2026-10-05T09:02:40Z"
-      },
       {
         "number": 5280,
         "title": "fix(state/cmd): return an error on the wrong address kind",
@@ -209,18 +209,7 @@
         "requestedAt": "2026-09-30T03:43:16Z"
       }
     ],
-    "rootulp": [
-      {
-        "number": 8075,
-        "title": "chore(deps): bump github.com/ethereum/go-ethereum from 1.17.5 to 1.17.6 in /test/docker-e2e in the go-deps-docker-e2e group",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/8075",
-        "repo": "celestia-app",
-        "author": "dependabot",
-        "authorCategory": "bot",
-        "reviewer": "rootulp",
-        "requestedAt": "2026-10-05T09:39:12Z"
-      }
-    ],
+    "rootulp": [],
     "vgonkivs": [
       {
         "number": 5301,
@@ -505,16 +494,6 @@
         "requestedAt": "2026-10-01T14:38:36Z"
       },
       {
-        "number": 896,
-        "title": "docs(corto-10): point observability-0 at its Elastic IP",
-        "url": "https://github.com/celestiaorg/infrastructure/pull/896",
-        "repo": "infrastructure",
-        "author": "pippokr",
-        "authorCategory": "coworker",
-        "reviewer": "walldiss",
-        "requestedAt": "2026-10-04T16:17:28Z"
-      },
-      {
         "number": 5291,
         "title": "chore(deps): bump alpine from 3.24.1 to 3.24.2 in the patch-updates group across 1 directory",
         "url": "https://github.com/celestiaorg/celestia-node/pull/5291",
@@ -602,5 +581,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-10-05T12:20:17.746Z"
+  "fetchedAt": "2026-10-05T12:48:18.513Z"
 }
