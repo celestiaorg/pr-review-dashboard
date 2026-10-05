@@ -62,6 +62,16 @@
         "requestedAt": "2026-10-05T07:45:40Z"
       },
       {
+        "number": 902,
+        "title": "fix(make): corto AWS creds moved to the Ansible-Corto vault",
+        "url": "https://github.com/celestiaorg/infrastructure/pull/902",
+        "repo": "infrastructure",
+        "author": "pippokr",
+        "authorCategory": "coworker",
+        "reviewer": "chatton",
+        "requestedAt": "2026-10-05T08:35:12Z"
+      },
+      {
         "number": 5254,
         "title": "test(tastora/canary): add the canary result model",
         "url": "https://github.com/celestiaorg/celestia-node/pull/5254",
@@ -581,5 +591,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-10-05T08:08:48.813Z"
+  "fetchedAt": "2026-10-05T08:43:50.844Z"
 }
