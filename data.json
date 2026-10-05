@@ -94,6 +94,16 @@
     ],
     "pippokr": [
       {
+        "number": 903,
+        "title": "docs(corto-10): observability-0 Elastic IP and autoscaler Cloudflare token",
+        "url": "https://github.com/celestiaorg/infrastructure/pull/903",
+        "repo": "infrastructure",
+        "author": "walldiss",
+        "authorCategory": "coworker",
+        "reviewer": "pippokr",
+        "requestedAt": "2026-10-05T09:02:40Z"
+      },
+      {
         "number": 5292,
         "title": "chore(deps): bump the go-deps group across 2 directories with 3 updates",
         "url": "https://github.com/celestiaorg/celestia-node/pull/5292",
@@ -591,5 +601,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-10-05T09:02:13.096Z"
+  "fetchedAt": "2026-10-05T09:36:36.908Z"
 }
