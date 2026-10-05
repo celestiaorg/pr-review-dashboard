@@ -134,6 +134,16 @@
         "authorCategory": "coworker",
         "reviewer": "ninabarbakadze",
         "requestedAt": "2026-10-02T13:39:54Z"
+      },
+      {
+        "number": 8076,
+        "title": "chore(deps): bump the github-actions group with 2 updates",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/8076",
+        "repo": "celestia-app",
+        "author": "dependabot",
+        "authorCategory": "bot",
+        "reviewer": "ninabarbakadze",
+        "requestedAt": "2026-10-05T09:41:29Z"
       }
     ],
     "rach-id": [],
@@ -219,7 +229,18 @@
         "requestedAt": "2026-09-30T03:43:16Z"
       }
     ],
-    "rootulp": [],
+    "rootulp": [
+      {
+        "number": 8075,
+        "title": "chore(deps): bump github.com/ethereum/go-ethereum from 1.17.5 to 1.17.6 in /test/docker-e2e in the go-deps-docker-e2e group",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/8075",
+        "repo": "celestia-app",
+        "author": "dependabot",
+        "authorCategory": "bot",
+        "reviewer": "rootulp",
+        "requestedAt": "2026-10-05T09:39:12Z"
+      }
+    ],
     "vgonkivs": [
       {
         "number": 5301,
@@ -601,5 +622,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-10-05T09:36:36.908Z"
+  "fetchedAt": "2026-10-05T09:55:40.061Z"
 }
