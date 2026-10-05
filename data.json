@@ -12,24 +12,54 @@
         "requestedAt": "2026-10-01T20:19:10Z"
       },
       {
-        "number": 892,
-        "title": "safety(scaleway): forbid destroying reserved bare metal servers",
-        "url": "https://github.com/celestiaorg/infrastructure/pull/892",
+        "number": 897,
+        "title": "fix(scripts): sync-secrets vault mapping routes current networks only",
+        "url": "https://github.com/celestiaorg/infrastructure/pull/897",
         "repo": "infrastructure",
         "author": "pippokr",
         "authorCategory": "coworker",
         "reviewer": "chatton",
-        "requestedAt": "2026-10-02T08:09:37Z"
+        "requestedAt": "2026-10-05T07:33:18Z"
       },
       {
-        "number": 578,
-        "title": "chore(peers): refresh mocha-5 peers",
-        "url": "https://github.com/celestiaorg/networks/pull/578",
-        "repo": "networks",
-        "author": "github-actions",
-        "authorCategory": "bot",
+        "number": 898,
+        "title": "cleanup(scripts): drop stale root duplicates of version-config tooling",
+        "url": "https://github.com/celestiaorg/infrastructure/pull/898",
+        "repo": "infrastructure",
+        "author": "pippokr",
+        "authorCategory": "coworker",
         "reviewer": "chatton",
-        "requestedAt": "2026-10-05T00:17:55Z"
+        "requestedAt": "2026-10-05T07:33:36Z"
+      },
+      {
+        "number": 899,
+        "title": "cleanup(da-proxy): remove dead mocha-4 app config tree",
+        "url": "https://github.com/celestiaorg/infrastructure/pull/899",
+        "repo": "infrastructure",
+        "author": "pippokr",
+        "authorCategory": "coworker",
+        "reviewer": "chatton",
+        "requestedAt": "2026-10-05T07:34:27Z"
+      },
+      {
+        "number": 900,
+        "title": "docs(terraform): correct mocha DNS zone name",
+        "url": "https://github.com/celestiaorg/infrastructure/pull/900",
+        "repo": "infrastructure",
+        "author": "pippokr",
+        "authorCategory": "coworker",
+        "reviewer": "chatton",
+        "requestedAt": "2026-10-05T07:35:30Z"
+      },
+      {
+        "number": 901,
+        "title": "cleanup(terraform): flip da-proxy chain tags to the current chain id",
+        "url": "https://github.com/celestiaorg/infrastructure/pull/901",
+        "repo": "infrastructure",
+        "author": "pippokr",
+        "authorCategory": "coworker",
+        "reviewer": "chatton",
+        "requestedAt": "2026-10-05T07:45:40Z"
       },
       {
         "number": 5254,
@@ -474,16 +504,6 @@
         "requestedAt": "2026-09-28T11:03:43Z"
       },
       {
-        "number": 579,
-        "title": "chore(peers): refresh mainnet peers + addrbook",
-        "url": "https://github.com/celestiaorg/networks/pull/579",
-        "repo": "networks",
-        "author": "github-actions",
-        "authorCategory": "bot",
-        "reviewer": "walldiss",
-        "requestedAt": "2026-10-05T00:17:56Z"
-      },
-      {
         "number": 5264,
         "title": "fix(fibre): detach Upload's shard fan-out from the caller ctx",
         "url": "https://github.com/celestiaorg/celestia-node/pull/5264",
@@ -561,5 +581,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-10-05T07:16:04.826Z"
+  "fetchedAt": "2026-10-05T07:54:02.849Z"
 }
