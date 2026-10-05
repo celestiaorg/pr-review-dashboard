@@ -2,9 +2,9 @@
   "latencies": {
     "chatton": {
       "week": {
-        "n": 11,
-        "medianHours": 0.7002777777777778,
-        "p90Hours": 1.6508333333333334
+        "n": 0,
+        "medianHours": null,
+        "p90Hours": null
       },
       "month": {
         "n": 11,
@@ -19,9 +19,9 @@
     },
     "pippokr": {
       "week": {
-        "n": 5,
-        "medianHours": 0.44305555555555554,
-        "p90Hours": 8.6375
+        "n": 0,
+        "medianHours": null,
+        "p90Hours": null
       },
       "month": {
         "n": 5,
@@ -36,9 +36,9 @@
     },
     "ninabarbakadze": {
       "week": {
-        "n": 3,
-        "medianHours": 0.10138888888888889,
-        "p90Hours": 1.436388888888889
+        "n": 0,
+        "medianHours": null,
+        "p90Hours": null
       },
       "month": {
         "n": 3,
@@ -53,9 +53,9 @@
     },
     "rach-id": {
       "week": {
-        "n": 28,
-        "medianHours": 0.1386111111111111,
-        "p90Hours": 1.7852777777777777
+        "n": 0,
+        "medianHours": null,
+        "p90Hours": null
       },
       "month": {
         "n": 28,
@@ -70,9 +70,9 @@
     },
     "renaynay": {
       "week": {
-        "n": 2,
-        "medianHours": 47.87694444444445,
-        "p90Hours": 47.87694444444445
+        "n": 0,
+        "medianHours": null,
+        "p90Hours": null
       },
       "month": {
         "n": 2,
@@ -87,9 +87,9 @@
     },
     "rootulp": {
       "week": {
-        "n": 12,
-        "medianHours": 0.8561111111111112,
-        "p90Hours": 8.005277777777778
+        "n": 0,
+        "medianHours": null,
+        "p90Hours": null
       },
       "month": {
         "n": 12,
@@ -121,9 +121,9 @@
     },
     "walldiss": {
       "week": {
-        "n": 1,
-        "medianHours": 0.03111111111111111,
-        "p90Hours": 0.03111111111111111
+        "n": 0,
+        "medianHours": null,
+        "p90Hours": null
       },
       "month": {
         "n": 1,
@@ -179,9 +179,9 @@
       "defaultHidden": false
     }
   ],
-  "computedAt": "2026-10-04T00:53:24.735Z",
+  "computedAt": "2026-10-05T00:09:36.891Z",
   "windows": {
-    "weekStart": "2026-09-28T00:00:00.000Z",
+    "weekStart": "2026-10-05T00:00:00.000Z",
     "monthStart": "2026-10-01T00:00:00.000Z",
     "yearStart": "2026-01-01T00:00:00.000Z"
   }
