@@ -22,6 +22,16 @@
         "requestedAt": "2026-10-02T08:09:37Z"
       },
       {
+        "number": 578,
+        "title": "chore(peers): refresh mocha-5 peers",
+        "url": "https://github.com/celestiaorg/networks/pull/578",
+        "repo": "networks",
+        "author": "github-actions",
+        "authorCategory": "bot",
+        "reviewer": "chatton",
+        "requestedAt": "2026-10-05T00:17:55Z"
+      },
+      {
         "number": 5254,
         "title": "test(tastora/canary): add the canary result model",
         "url": "https://github.com/celestiaorg/celestia-node/pull/5254",
@@ -474,6 +484,16 @@
         "requestedAt": "2026-09-28T11:03:43Z"
       },
       {
+        "number": 579,
+        "title": "chore(peers): refresh mainnet peers + addrbook",
+        "url": "https://github.com/celestiaorg/networks/pull/579",
+        "repo": "networks",
+        "author": "github-actions",
+        "authorCategory": "bot",
+        "reviewer": "walldiss",
+        "requestedAt": "2026-10-05T00:17:56Z"
+      },
+      {
         "number": 5264,
         "title": "fix(fibre): detach Upload's shard fan-out from the caller ctx",
         "url": "https://github.com/celestiaorg/celestia-node/pull/5264",
@@ -551,5 +571,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-10-04T23:56:00.499Z"
+  "fetchedAt": "2026-10-05T00:31:51.649Z"
 }
