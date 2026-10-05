@@ -32,6 +32,16 @@
         "requestedAt": "2026-10-05T07:33:36Z"
       },
       {
+        "number": 911,
+        "title": "fix(da-proxy): backend firewall allow-inserts skip check mode",
+        "url": "https://github.com/celestiaorg/infrastructure/pull/911",
+        "repo": "infrastructure",
+        "author": "pippokr",
+        "authorCategory": "coworker",
+        "reviewer": "chatton",
+        "requestedAt": "2026-10-05T14:44:34Z"
+      },
+      {
         "number": 5254,
         "title": "test(tastora/canary): add the canary result model",
         "url": "https://github.com/celestiaorg/celestia-node/pull/5254",
@@ -107,16 +117,6 @@
         "authorCategory": "external",
         "reviewer": "renaynay",
         "requestedAt": "2026-09-25T16:01:22Z"
-      },
-      {
-        "number": 5286,
-        "title": "fix(share/shwap): return an error for an unknown row side in JSON",
-        "url": "https://github.com/celestiaorg/celestia-node/pull/5286",
-        "repo": "celestia-node",
-        "author": "0xShadowX",
-        "authorCategory": "external",
-        "reviewer": "renaynay",
-        "requestedAt": "2026-09-25T16:56:22Z"
       },
       {
         "number": 5276,
@@ -531,5 +531,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-10-05T14:43:21.739Z"
+  "fetchedAt": "2026-10-05T14:54:50.125Z"
 }
