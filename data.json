@@ -119,16 +119,6 @@
         "requestedAt": "2026-09-25T16:56:22Z"
       },
       {
-        "number": 5284,
-        "title": "fix(blob): return errors instead of panicking on malformed proofs",
-        "url": "https://github.com/celestiaorg/celestia-node/pull/5284",
-        "repo": "celestia-node",
-        "author": "Bruce039",
-        "authorCategory": "external",
-        "reviewer": "renaynay",
-        "requestedAt": "2026-09-25T17:00:15Z"
-      },
-      {
         "number": 5276,
         "title": "fix(pruner): stop prune round when a full batch makes no progress",
         "url": "https://github.com/celestiaorg/celestia-node/pull/5276",
@@ -541,5 +531,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-10-05T14:26:18.378Z"
+  "fetchedAt": "2026-10-05T14:43:21.739Z"
 }
