@@ -52,36 +52,6 @@
         "requestedAt": "2026-10-05T07:35:30Z"
       },
       {
-        "number": 901,
-        "title": "cleanup(terraform): flip da-proxy chain tags to the current chain id",
-        "url": "https://github.com/celestiaorg/infrastructure/pull/901",
-        "repo": "infrastructure",
-        "author": "pippokr",
-        "authorCategory": "coworker",
-        "reviewer": "chatton",
-        "requestedAt": "2026-10-05T07:45:40Z"
-      },
-      {
-        "number": 902,
-        "title": "fix(make): corto AWS creds moved to the Ansible-Corto vault",
-        "url": "https://github.com/celestiaorg/infrastructure/pull/902",
-        "repo": "infrastructure",
-        "author": "pippokr",
-        "authorCategory": "coworker",
-        "reviewer": "chatton",
-        "requestedAt": "2026-10-05T08:35:12Z"
-      },
-      {
-        "number": 907,
-        "title": "fix(ci): daproxy prepare tolerates fleets without an archival map key",
-        "url": "https://github.com/celestiaorg/infrastructure/pull/907",
-        "repo": "infrastructure",
-        "author": "pippokr",
-        "authorCategory": "coworker",
-        "reviewer": "chatton",
-        "requestedAt": "2026-10-05T12:43:14Z"
-      },
-      {
         "number": 5254,
         "title": "test(tastora/canary): add the canary result model",
         "url": "https://github.com/celestiaorg/celestia-node/pull/5254",
@@ -581,5 +551,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-10-05T12:48:18.513Z"
+  "fetchedAt": "2026-10-05T13:05:19.804Z"
 }
