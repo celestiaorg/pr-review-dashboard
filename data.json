@@ -124,16 +124,6 @@
         "authorCategory": "coworker",
         "reviewer": "ninabarbakadze",
         "requestedAt": "2026-10-02T13:39:54Z"
-      },
-      {
-        "number": 8076,
-        "title": "chore(deps): bump the github-actions group with 2 updates",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/8076",
-        "repo": "celestia-app",
-        "author": "dependabot",
-        "authorCategory": "bot",
-        "reviewer": "ninabarbakadze",
-        "requestedAt": "2026-10-05T09:41:29Z"
       }
     ],
     "rach-id": [],
@@ -612,5 +602,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-10-05T11:48:55.540Z"
+  "fetchedAt": "2026-10-05T11:56:26.279Z"
 }
