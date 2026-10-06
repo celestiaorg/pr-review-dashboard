@@ -66,18 +66,7 @@
         "requestedAt": "2026-10-06T10:19:07Z"
       }
     ],
-    "rach-id": [
-      {
-        "number": 8088,
-        "title": "ci: [low] require PR review thoroughness tags",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/8088",
-        "repo": "celestia-app",
-        "author": "rootulp",
-        "authorCategory": "coworker",
-        "reviewer": "rach-id",
-        "requestedAt": "2026-10-06T15:59:38Z"
-      }
-    ],
+    "rach-id": [],
     "renaynay": [
       {
         "number": 119,
@@ -522,5 +511,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-10-06T18:14:12.753Z"
+  "fetchedAt": "2026-10-06T18:36:30.798Z"
 }
