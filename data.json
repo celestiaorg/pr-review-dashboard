@@ -2,6 +2,16 @@
   "reviews": {
     "chatton": [
       {
+        "number": 920,
+        "title": "terraform: split Eden projects, scaffold Relay mainnet/devnet",
+        "url": "https://github.com/celestiaorg/infrastructure/pull/920",
+        "repo": "infrastructure",
+        "author": "pippokr",
+        "authorCategory": "coworker",
+        "reviewer": "chatton",
+        "requestedAt": "2026-10-06T12:53:23Z"
+      },
+      {
         "number": 5304,
         "title": "fix(share/eds): make closeOnce safe to close while in use",
         "url": "https://github.com/celestiaorg/celestia-node/pull/5304",
@@ -542,5 +552,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-10-06T12:33:58.025Z"
+  "fetchedAt": "2026-10-06T12:53:45.901Z"
 }
