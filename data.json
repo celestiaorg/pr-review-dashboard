@@ -411,6 +411,16 @@
         "authorCategory": "external",
         "reviewer": "vgonkivs",
         "requestedAt": "2026-10-03T06:58:50Z"
+      },
+      {
+        "number": 5315,
+        "title": "fix(nodebuilder/state): reject addresses of the wrong kind instead of panicking",
+        "url": "https://github.com/celestiaorg/celestia-node/pull/5315",
+        "repo": "celestia-node",
+        "author": "shiaho777",
+        "authorCategory": "external",
+        "reviewer": "vgonkivs",
+        "requestedAt": "2026-10-06T07:58:08Z"
       }
     ],
     "walldiss": [
@@ -522,5 +532,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-10-06T07:51:00.352Z"
+  "fetchedAt": "2026-10-06T07:59:39.352Z"
 }
