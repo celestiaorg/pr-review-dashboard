@@ -394,6 +394,16 @@
         "requestedAt": "2026-10-01T14:38:36Z"
       },
       {
+        "number": 8093,
+        "title": "ci: [low] add review tags to Cargo security updates",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/8093",
+        "repo": "celestia-app",
+        "author": "rootulp",
+        "authorCategory": "coworker",
+        "reviewer": "walldiss",
+        "requestedAt": "2026-10-06T19:16:14Z"
+      },
+      {
         "number": 5291,
         "title": "chore(deps): bump alpine from 3.24.1 to 3.24.2 in the patch-updates group across 1 directory",
         "url": "https://github.com/celestiaorg/celestia-node/pull/5291",
@@ -501,5 +511,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-10-06T18:58:38.852Z"
+  "fetchedAt": "2026-10-06T19:16:49.617Z"
 }
