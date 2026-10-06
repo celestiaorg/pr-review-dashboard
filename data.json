@@ -2,14 +2,14 @@
   "reviews": {
     "chatton": [
       {
-        "number": 912,
-        "title": "inventory: mocha monitoring/fleet split — headers + rename to hosts.mocha-monitoring",
-        "url": "https://github.com/celestiaorg/infrastructure/pull/912",
+        "number": 913,
+        "title": "fix(ci): monitoring deploy resolves mocha to hosts.mocha-monitoring",
+        "url": "https://github.com/celestiaorg/infrastructure/pull/913",
         "repo": "infrastructure",
         "author": "pippokr",
         "authorCategory": "coworker",
         "reviewer": "chatton",
-        "requestedAt": "2026-10-06T08:43:39Z"
+        "requestedAt": "2026-10-06T09:16:42Z"
       },
       {
         "number": 5304,
@@ -77,16 +77,6 @@
         "authorCategory": "coworker",
         "reviewer": "renaynay",
         "requestedAt": "2026-09-30T10:10:32Z"
-      },
-      {
-        "number": 5316,
-        "title": "chore(deps): bump celestia-app to v10.4.0-mocha and celestia-core to v0.42.3",
-        "url": "https://github.com/celestiaorg/celestia-node/pull/5316",
-        "repo": "celestia-node",
-        "author": "rach-id",
-        "authorCategory": "coworker",
-        "reviewer": "renaynay",
-        "requestedAt": "2026-10-06T08:23:34Z"
       },
       {
         "number": 5270,
@@ -541,5 +531,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-10-06T08:58:31.637Z"
+  "fetchedAt": "2026-10-06T09:23:27.655Z"
 }
