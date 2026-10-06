@@ -434,16 +434,6 @@
         "requestedAt": "2026-10-01T14:38:36Z"
       },
       {
-        "number": 5317,
-        "title": "chore(deps): bump celestia-app to v10.4.0-corto and celestia-core to v0.42.3",
-        "url": "https://github.com/celestiaorg/celestia-node/pull/5317",
-        "repo": "celestia-node",
-        "author": "renaynay",
-        "authorCategory": "coworker",
-        "reviewer": "walldiss",
-        "requestedAt": "2026-10-06T08:39:13Z"
-      },
-      {
         "number": 5291,
         "title": "chore(deps): bump alpine from 3.24.1 to 3.24.2 in the patch-updates group across 1 directory",
         "url": "https://github.com/celestiaorg/celestia-node/pull/5291",
@@ -551,5 +541,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-10-06T08:48:52.737Z"
+  "fetchedAt": "2026-10-06T08:58:31.637Z"
 }
