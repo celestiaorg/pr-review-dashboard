@@ -54,6 +54,16 @@
         "authorCategory": "coworker",
         "reviewer": "ninabarbakadze",
         "requestedAt": "2026-10-02T13:39:54Z"
+      },
+      {
+        "number": 5318,
+        "title": "test(api): wait for consensus height before fetching blocks",
+        "url": "https://github.com/celestiaorg/celestia-node/pull/5318",
+        "repo": "celestia-node",
+        "author": "rootulp",
+        "authorCategory": "coworker",
+        "reviewer": "ninabarbakadze",
+        "requestedAt": "2026-10-06T10:19:07Z"
       }
     ],
     "rach-id": [],
@@ -521,5 +531,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-10-06T10:18:34.221Z"
+  "fetchedAt": "2026-10-06T10:33:48.531Z"
 }
