@@ -2,6 +2,16 @@
   "reviews": {
     "chatton": [
       {
+        "number": 923,
+        "title": "fix(corto-10): scripts honour AWS_PROFILE instead of hardcoding one",
+        "url": "https://github.com/celestiaorg/infrastructure/pull/923",
+        "repo": "infrastructure",
+        "author": "pippokr",
+        "authorCategory": "coworker",
+        "reviewer": "chatton",
+        "requestedAt": "2026-10-06T16:02:37Z"
+      },
+      {
         "number": 5304,
         "title": "fix(share/eds): make closeOnce safe to close while in use",
         "url": "https://github.com/celestiaorg/celestia-node/pull/5304",
@@ -57,7 +67,7 @@
       },
       {
         "number": 5318,
-        "title": "test(api): wait for consensus height before fetching blocks",
+        "title": "test(api): [low] wait for consensus height before fetching blocks",
         "url": "https://github.com/celestiaorg/celestia-node/pull/5318",
         "repo": "celestia-node",
         "author": "rootulp",
@@ -66,7 +76,18 @@
         "requestedAt": "2026-10-06T10:19:07Z"
       }
     ],
-    "rach-id": [],
+    "rach-id": [
+      {
+        "number": 8088,
+        "title": "ci: [low] require PR review thoroughness tags",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/8088",
+        "repo": "celestia-app",
+        "author": "rootulp",
+        "authorCategory": "coworker",
+        "reviewer": "rach-id",
+        "requestedAt": "2026-10-06T15:59:38Z"
+      }
+    ],
     "renaynay": [
       {
         "number": 119,
@@ -77,6 +98,16 @@
         "authorCategory": "coworker",
         "reviewer": "renaynay",
         "requestedAt": "2026-09-30T10:10:32Z"
+      },
+      {
+        "number": 8088,
+        "title": "ci: [low] require PR review thoroughness tags",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/8088",
+        "repo": "celestia-app",
+        "author": "rootulp",
+        "authorCategory": "coworker",
+        "reviewer": "renaynay",
+        "requestedAt": "2026-10-06T16:00:04Z"
       },
       {
         "number": 5276,
@@ -384,6 +415,16 @@
         "requestedAt": "2026-10-01T14:38:36Z"
       },
       {
+        "number": 8088,
+        "title": "ci: [low] require PR review thoroughness tags",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/8088",
+        "repo": "celestia-app",
+        "author": "rootulp",
+        "authorCategory": "coworker",
+        "reviewer": "walldiss",
+        "requestedAt": "2026-10-06T16:00:03Z"
+      },
+      {
         "number": 5291,
         "title": "chore(deps): bump alpine from 3.24.1 to 3.24.2 in the patch-updates group across 1 directory",
         "url": "https://github.com/celestiaorg/celestia-node/pull/5291",
@@ -491,5 +532,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-10-06T15:57:58.269Z"
+  "fetchedAt": "2026-10-06T16:23:17.063Z"
 }
