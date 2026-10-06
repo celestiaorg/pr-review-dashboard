@@ -64,6 +64,26 @@
         "authorCategory": "coworker",
         "reviewer": "ninabarbakadze",
         "requestedAt": "2026-10-06T10:19:07Z"
+      },
+      {
+        "number": 8095,
+        "title": "test: [low] wait for mock app readiness before cleanup",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/8095",
+        "repo": "celestia-app",
+        "author": "rootulp",
+        "authorCategory": "coworker",
+        "reviewer": "ninabarbakadze",
+        "requestedAt": "2026-10-06T19:17:17Z"
+      },
+      {
+        "number": 8094,
+        "title": "docs: [low] require review thoroughness tags in agent PR titles",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/8094",
+        "repo": "celestia-app",
+        "author": "rootulp",
+        "authorCategory": "coworker",
+        "reviewer": "ninabarbakadze",
+        "requestedAt": "2026-10-06T19:21:29Z"
       }
     ],
     "rach-id": [],
@@ -511,5 +531,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-10-06T19:16:49.617Z"
+  "fetchedAt": "2026-10-06T19:29:16.180Z"
 }
