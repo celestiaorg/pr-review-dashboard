@@ -44,16 +44,6 @@
         "authorCategory": "coworker",
         "reviewer": "ninabarbakadze",
         "requestedAt": "2026-10-02T13:39:54Z"
-      },
-      {
-        "number": 8081,
-        "title": "test: widen TestRunPreencodeUploads load window",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/8081",
-        "repo": "celestia-app",
-        "author": "rootulp",
-        "authorCategory": "coworker",
-        "reviewer": "ninabarbakadze",
-        "requestedAt": "2026-10-05T19:21:12Z"
       }
     ],
     "rach-id": [],
@@ -67,6 +57,16 @@
         "authorCategory": "coworker",
         "reviewer": "renaynay",
         "requestedAt": "2026-09-30T10:10:32Z"
+      },
+      {
+        "number": 5316,
+        "title": "chore(deps): bump celestia-app to v10.4.0-mocha and celestia-core to v0.42.3",
+        "url": "https://github.com/celestiaorg/celestia-node/pull/5316",
+        "repo": "celestia-node",
+        "author": "rach-id",
+        "authorCategory": "coworker",
+        "reviewer": "renaynay",
+        "requestedAt": "2026-10-06T08:23:34Z"
       },
       {
         "number": 5270,
@@ -142,16 +142,6 @@
       }
     ],
     "vgonkivs": [
-      {
-        "number": 5301,
-        "title": "fix(shrex): stream namespace responses sequentially",
-        "url": "https://github.com/celestiaorg/celestia-node/pull/5301",
-        "repo": "celestia-node",
-        "author": "renaynay",
-        "authorCategory": "coworker",
-        "reviewer": "vgonkivs",
-        "requestedAt": "2026-10-01T09:31:05Z"
-      },
       {
         "number": 8009,
         "title": "feat(fibre): add gRPC health and readiness diagnostics to the fibre server",
@@ -532,5 +522,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-10-06T07:59:39.352Z"
+  "fetchedAt": "2026-10-06T08:28:57.456Z"
 }
