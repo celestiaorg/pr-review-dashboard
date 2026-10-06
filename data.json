@@ -24,16 +24,6 @@
     ],
     "pippokr": [
       {
-        "number": 914,
-        "title": "feat: add silences during deployment",
-        "url": "https://github.com/celestiaorg/infrastructure/pull/914",
-        "repo": "infrastructure",
-        "author": "chatton",
-        "authorCategory": "coworker",
-        "reviewer": "pippokr",
-        "requestedAt": "2026-10-06T09:32:19Z"
-      },
-      {
         "number": 5280,
         "title": "fix(state/cmd): return an error on the wrong address kind",
         "url": "https://github.com/celestiaorg/celestia-node/pull/5280",
@@ -541,5 +531,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-10-06T09:37:32.719Z"
+  "fetchedAt": "2026-10-06T09:49:49.099Z"
 }
