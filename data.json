@@ -79,16 +79,6 @@
         "requestedAt": "2026-09-30T10:10:32Z"
       },
       {
-        "number": 5270,
-        "title": "fix(share/shwap): bound proof node count in wire decoders",
-        "url": "https://github.com/celestiaorg/celestia-node/pull/5270",
-        "repo": "celestia-node",
-        "author": "FlashWayne",
-        "authorCategory": "external",
-        "reviewer": "renaynay",
-        "requestedAt": "2026-09-25T15:58:25Z"
-      },
-      {
         "number": 5276,
         "title": "fix(pruner): stop prune round when a full batch makes no progress",
         "url": "https://github.com/celestiaorg/celestia-node/pull/5276",
@@ -501,5 +491,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-10-06T15:28:01.601Z"
+  "fetchedAt": "2026-10-06T15:42:04.807Z"
 }
