@@ -106,18 +106,7 @@
         "requestedAt": "2026-10-05T19:21:12Z"
       }
     ],
-    "rach-id": [
-      {
-        "number": 5313,
-        "title": "fix(nodebuilder/state): accept two arguments in delegate and undelegate",
-        "url": "https://github.com/celestiaorg/celestia-node/pull/5313",
-        "repo": "celestia-node",
-        "author": "shiaho777",
-        "authorCategory": "external",
-        "reviewer": "rach-id",
-        "requestedAt": "2026-10-06T06:43:40Z"
-      }
-    ],
+    "rach-id": [],
     "renaynay": [
       {
         "number": 119,
@@ -583,5 +572,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-10-06T06:52:51.008Z"
+  "fetchedAt": "2026-10-06T07:07:54.162Z"
 }
