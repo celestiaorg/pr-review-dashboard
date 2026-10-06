@@ -2,16 +2,6 @@
   "reviews": {
     "chatton": [
       {
-        "number": 913,
-        "title": "fix(ci): monitoring deploy resolves mocha to hosts.mocha-monitoring",
-        "url": "https://github.com/celestiaorg/infrastructure/pull/913",
-        "repo": "infrastructure",
-        "author": "pippokr",
-        "authorCategory": "coworker",
-        "reviewer": "chatton",
-        "requestedAt": "2026-10-06T09:16:42Z"
-      },
-      {
         "number": 5304,
         "title": "fix(share/eds): make closeOnce safe to close while in use",
         "url": "https://github.com/celestiaorg/celestia-node/pull/5304",
@@ -531,5 +521,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-10-06T09:57:37.445Z"
+  "fetchedAt": "2026-10-06T10:18:34.221Z"
 }
