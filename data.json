@@ -2,16 +2,6 @@
   "reviews": {
     "chatton": [
       {
-        "number": 923,
-        "title": "fix(corto-10): scripts honour AWS_PROFILE instead of hardcoding one",
-        "url": "https://github.com/celestiaorg/infrastructure/pull/923",
-        "repo": "infrastructure",
-        "author": "pippokr",
-        "authorCategory": "coworker",
-        "reviewer": "chatton",
-        "requestedAt": "2026-10-06T16:02:37Z"
-      },
-      {
         "number": 5304,
         "title": "fix(share/eds): make closeOnce safe to close while in use",
         "url": "https://github.com/celestiaorg/celestia-node/pull/5304",
@@ -532,5 +522,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-10-06T17:28:13.584Z"
+  "fetchedAt": "2026-10-06T17:41:15.688Z"
 }
