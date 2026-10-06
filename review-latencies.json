@@ -2,104 +2,104 @@
   "latencies": {
     "chatton": {
       "week": {
-        "n": 0,
-        "medianHours": null,
-        "p90Hours": null
+        "n": 5,
+        "medianHours": 5.576388888888889,
+        "p90Hours": 71.37583333333333
       },
       "month": {
-        "n": 11,
-        "medianHours": 0.7002777777777778,
-        "p90Hours": 1.6508333333333334
+        "n": 16,
+        "medianHours": 1.6,
+        "p90Hours": 16.316944444444445
       },
       "year": {
-        "n": 154,
-        "medianHours": 1.5352777777777777,
-        "p90Hours": 68.4425
+        "n": 159,
+        "medianHours": 1.5966666666666667,
+        "p90Hours": 68.4588888888889
       }
     },
     "pippokr": {
       "week": {
-        "n": 0,
-        "medianHours": null,
-        "p90Hours": null
+        "n": 2,
+        "medianHours": 65.29055555555556,
+        "p90Hours": 65.29055555555556
       },
       "month": {
-        "n": 5,
-        "medianHours": 0.44305555555555554,
-        "p90Hours": 8.6375
+        "n": 7,
+        "medianHours": 3.457777777777778,
+        "p90Hours": 65.29055555555556
       },
       "year": {
-        "n": 81,
-        "medianHours": 0.31166666666666665,
-        "p90Hours": 21.868333333333332
+        "n": 83,
+        "medianHours": 0.3372222222222222,
+        "p90Hours": 37.39194444444445
       }
     },
     "ninabarbakadze": {
       "week": {
-        "n": 0,
-        "medianHours": null,
-        "p90Hours": null
+        "n": 1,
+        "medianHours": 2.1991666666666667,
+        "p90Hours": 2.1991666666666667
       },
       "month": {
-        "n": 3,
-        "medianHours": 0.10138888888888889,
-        "p90Hours": 1.436388888888889
+        "n": 4,
+        "medianHours": 1.436388888888889,
+        "p90Hours": 2.1991666666666667
       },
       "year": {
-        "n": 401,
+        "n": 402,
         "medianHours": 8.930277777777778,
         "p90Hours": 57.17722222222222
       }
     },
     "rach-id": {
       "week": {
-        "n": 0,
-        "medianHours": null,
-        "p90Hours": null
+        "n": 1,
+        "medianHours": 0.06666666666666667,
+        "p90Hours": 0.06666666666666667
       },
       "month": {
-        "n": 28,
-        "medianHours": 0.1386111111111111,
+        "n": 29,
+        "medianHours": 0.13027777777777777,
         "p90Hours": 1.7852777777777777
       },
       "year": {
-        "n": 740,
-        "medianHours": 1.745,
-        "p90Hours": 20.547777777777778
+        "n": 741,
+        "medianHours": 1.7344444444444445,
+        "p90Hours": 20.234166666666667
       }
     },
     "renaynay": {
       "week": {
-        "n": 0,
-        "medianHours": null,
-        "p90Hours": null
+        "n": 4,
+        "medianHours": 237.71,
+        "p90Hours": 237.86583333333334
       },
       "month": {
-        "n": 2,
+        "n": 6,
         "medianHours": 47.87694444444445,
-        "p90Hours": 47.87694444444445
+        "p90Hours": 237.86583333333334
       },
       "year": {
-        "n": 73,
+        "n": 77,
         "medianHours": 13.232222222222223,
-        "p90Hours": 121.0275
+        "p90Hours": 126.0736111111111
       }
     },
     "rootulp": {
       "week": {
-        "n": 0,
-        "medianHours": null,
-        "p90Hours": null
+        "n": 2,
+        "medianHours": 739.5738888888889,
+        "p90Hours": 739.5738888888889
       },
       "month": {
-        "n": 12,
-        "medianHours": 0.8561111111111112,
-        "p90Hours": 8.005277777777778
+        "n": 14,
+        "medianHours": 1.0858333333333334,
+        "p90Hours": 31.781388888888888
       },
       "year": {
-        "n": 279,
-        "medianHours": 3.346111111111111,
-        "p90Hours": 22.831666666666667
+        "n": 280,
+        "medianHours": 3.484722222222222,
+        "p90Hours": 25.343611111111112
       }
     },
     "vgonkivs": {
@@ -179,7 +179,7 @@
       "defaultHidden": false
     }
   ],
-  "computedAt": "2026-10-05T00:09:36.891Z",
+  "computedAt": "2026-10-06T00:09:06.556Z",
   "windows": {
     "weekStart": "2026-10-05T00:00:00.000Z",
     "monthStart": "2026-10-01T00:00:00.000Z",
