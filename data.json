@@ -79,14 +79,14 @@
         "requestedAt": "2026-09-30T10:10:32Z"
       },
       {
-        "number": 8088,
-        "title": "ci: [low] require PR review thoroughness tags",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/8088",
+        "number": 8092,
+        "title": "chore(deps): bump rustls from 0.23.37 to 0.23.45 in /tools/rust-fibre-txsim",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/8092",
         "repo": "celestia-app",
-        "author": "rootulp",
-        "authorCategory": "coworker",
+        "author": "dependabot",
+        "authorCategory": "bot",
         "reviewer": "renaynay",
-        "requestedAt": "2026-10-06T16:00:04Z"
+        "requestedAt": "2026-10-06T18:47:51Z"
       },
       {
         "number": 5276,
@@ -394,16 +394,6 @@
         "requestedAt": "2026-10-01T14:38:36Z"
       },
       {
-        "number": 8088,
-        "title": "ci: [low] require PR review thoroughness tags",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/8088",
-        "repo": "celestia-app",
-        "author": "rootulp",
-        "authorCategory": "coworker",
-        "reviewer": "walldiss",
-        "requestedAt": "2026-10-06T16:00:03Z"
-      },
-      {
         "number": 5291,
         "title": "chore(deps): bump alpine from 3.24.1 to 3.24.2 in the patch-updates group across 1 directory",
         "url": "https://github.com/celestiaorg/celestia-node/pull/5291",
@@ -511,5 +501,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-10-06T18:36:30.798Z"
+  "fetchedAt": "2026-10-06T18:51:06.334Z"
 }
