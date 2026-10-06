@@ -66,18 +66,7 @@
         "requestedAt": "2026-10-06T10:19:07Z"
       }
     ],
-    "rach-id": [
-      {
-        "number": 8089,
-        "title": "fix(fibre): check that object backend bucket is usable on start-up, if configured `[low]` ",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/8089",
-        "repo": "celestia-app",
-        "author": "renaynay",
-        "authorCategory": "coworker",
-        "reviewer": "rach-id",
-        "requestedAt": "2026-10-06T13:24:20Z"
-      }
-    ],
+    "rach-id": [],
     "renaynay": [
       {
         "number": 119,
@@ -88,6 +77,16 @@
         "authorCategory": "coworker",
         "reviewer": "renaynay",
         "requestedAt": "2026-09-30T10:10:32Z"
+      },
+      {
+        "number": 8091,
+        "title": "fix(fibre): Record clear errors when a marker is present but the shard data is missing [medium]",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/8091",
+        "repo": "celestia-app",
+        "author": "theodorebugnet",
+        "authorCategory": "coworker",
+        "reviewer": "renaynay",
+        "requestedAt": "2026-10-06T13:30:25Z"
       },
       {
         "number": 5270,
@@ -523,5 +522,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-10-06T13:25:20.738Z"
+  "fetchedAt": "2026-10-06T13:38:25.322Z"
 }
