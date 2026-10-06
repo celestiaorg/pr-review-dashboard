@@ -2,6 +2,16 @@
   "reviews": {
     "chatton": [
       {
+        "number": 912,
+        "title": "inventory: mocha monitoring/fleet split — headers + rename to hosts.mocha-monitoring",
+        "url": "https://github.com/celestiaorg/infrastructure/pull/912",
+        "repo": "infrastructure",
+        "author": "pippokr",
+        "authorCategory": "coworker",
+        "reviewer": "chatton",
+        "requestedAt": "2026-10-06T08:43:39Z"
+      },
+      {
         "number": 5304,
         "title": "fix(share/eds): make closeOnce safe to close while in use",
         "url": "https://github.com/celestiaorg/celestia-node/pull/5304",
@@ -32,6 +42,16 @@
         "authorCategory": "external",
         "reviewer": "pippokr",
         "requestedAt": "2026-10-05T15:15:27Z"
+      },
+      {
+        "number": 8085,
+        "title": "fix(fibre): extend server duration buckets to 60s for object storage",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/8085",
+        "repo": "celestia-app",
+        "author": "alexeymoskalev-devops",
+        "authorCategory": "external",
+        "reviewer": "pippokr",
+        "requestedAt": "2026-10-06T08:43:18Z"
       }
     ],
     "ninabarbakadze": [
@@ -109,16 +129,6 @@
         "requestedAt": "2026-09-28T14:15:14Z"
       },
       {
-        "number": 5254,
-        "title": "test(tastora/canary): add the canary result model",
-        "url": "https://github.com/celestiaorg/celestia-node/pull/5254",
-        "repo": "celestia-node",
-        "author": "Denend",
-        "authorCategory": "external",
-        "reviewer": "renaynay",
-        "requestedAt": "2026-09-30T03:43:16Z"
-      },
-      {
         "number": 5314,
         "title": "fix(nodebuilder/node): register the --ttl flag on set-permissions",
         "url": "https://github.com/celestiaorg/celestia-node/pull/5314",
@@ -127,9 +137,7 @@
         "authorCategory": "external",
         "reviewer": "renaynay",
         "requestedAt": "2026-10-06T06:47:03Z"
-      }
-    ],
-    "rootulp": [
+      },
       {
         "number": 5311,
         "title": "fix(shwap/shrex_getter): validate indices for empty blocks",
@@ -137,10 +145,11 @@
         "repo": "celestia-node",
         "author": "Shailu-s",
         "authorCategory": "external",
-        "reviewer": "rootulp",
-        "requestedAt": "2026-10-05T20:21:55Z"
+        "reviewer": "renaynay",
+        "requestedAt": "2026-10-06T08:42:09Z"
       }
     ],
+    "rootulp": [],
     "vgonkivs": [
       {
         "number": 8009,
@@ -425,6 +434,16 @@
         "requestedAt": "2026-10-01T14:38:36Z"
       },
       {
+        "number": 5317,
+        "title": "chore(deps): bump celestia-app to v10.4.0-corto and celestia-core to v0.42.3",
+        "url": "https://github.com/celestiaorg/celestia-node/pull/5317",
+        "repo": "celestia-node",
+        "author": "renaynay",
+        "authorCategory": "coworker",
+        "reviewer": "walldiss",
+        "requestedAt": "2026-10-06T08:39:13Z"
+      },
+      {
         "number": 5291,
         "title": "chore(deps): bump alpine from 3.24.1 to 3.24.2 in the patch-updates group across 1 directory",
         "url": "https://github.com/celestiaorg/celestia-node/pull/5291",
@@ -473,6 +492,16 @@
         "authorCategory": "external",
         "reviewer": "walldiss",
         "requestedAt": "2026-10-05T14:09:52Z"
+      },
+      {
+        "number": 5311,
+        "title": "fix(shwap/shrex_getter): validate indices for empty blocks",
+        "url": "https://github.com/celestiaorg/celestia-node/pull/5311",
+        "repo": "celestia-node",
+        "author": "Shailu-s",
+        "authorCategory": "external",
+        "reviewer": "walldiss",
+        "requestedAt": "2026-10-06T08:42:09Z"
       }
     ]
   },
@@ -522,5 +551,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-10-06T08:28:57.456Z"
+  "fetchedAt": "2026-10-06T08:48:52.737Z"
 }
