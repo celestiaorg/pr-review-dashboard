@@ -2,56 +2,6 @@
   "reviews": {
     "chatton": [
       {
-        "number": 889,
-        "title": "docs: refresh after the mocha-4 sweep, corto Slack migration and alloy playbook fix",
-        "url": "https://github.com/celestiaorg/infrastructure/pull/889",
-        "repo": "infrastructure",
-        "author": "pippokr",
-        "authorCategory": "coworker",
-        "reviewer": "chatton",
-        "requestedAt": "2026-10-01T20:19:10Z"
-      },
-      {
-        "number": 897,
-        "title": "fix(scripts): sync-secrets vault mapping routes current networks only",
-        "url": "https://github.com/celestiaorg/infrastructure/pull/897",
-        "repo": "infrastructure",
-        "author": "pippokr",
-        "authorCategory": "coworker",
-        "reviewer": "chatton",
-        "requestedAt": "2026-10-05T07:33:18Z"
-      },
-      {
-        "number": 898,
-        "title": "cleanup(scripts): drop stale root duplicates of version-config tooling",
-        "url": "https://github.com/celestiaorg/infrastructure/pull/898",
-        "repo": "infrastructure",
-        "author": "pippokr",
-        "authorCategory": "coworker",
-        "reviewer": "chatton",
-        "requestedAt": "2026-10-05T07:33:36Z"
-      },
-      {
-        "number": 911,
-        "title": "fix(da-proxy): backend firewall allow-inserts skip check mode",
-        "url": "https://github.com/celestiaorg/infrastructure/pull/911",
-        "repo": "infrastructure",
-        "author": "pippokr",
-        "authorCategory": "coworker",
-        "reviewer": "chatton",
-        "requestedAt": "2026-10-05T14:44:34Z"
-      },
-      {
-        "number": 5254,
-        "title": "test(tastora/canary): add the canary result model",
-        "url": "https://github.com/celestiaorg/celestia-node/pull/5254",
-        "repo": "celestia-node",
-        "author": "Denend",
-        "authorCategory": "external",
-        "reviewer": "chatton",
-        "requestedAt": "2026-09-30T03:43:16Z"
-      },
-      {
         "number": 5304,
         "title": "fix(share/eds): make closeOnce safe to close while in use",
         "url": "https://github.com/celestiaorg/celestia-node/pull/5304",
@@ -572,5 +522,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-10-06T07:33:00.058Z"
+  "fetchedAt": "2026-10-06T07:51:00.352Z"
 }
