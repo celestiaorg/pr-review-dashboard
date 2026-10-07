@@ -1,17 +1,6 @@
 {
   "reviews": {
-    "chatton": [
-      {
-        "number": 5321,
-        "title": "chore(deps): bump celestia-app to v10.4.0 mainnet",
-        "url": "https://github.com/celestiaorg/celestia-node/pull/5321",
-        "repo": "celestia-node",
-        "author": "rach-id",
-        "authorCategory": "coworker",
-        "reviewer": "chatton",
-        "requestedAt": "2026-10-07T09:25:58Z"
-      }
-    ],
+    "chatton": [],
     "pippokr": [
       {
         "number": 926,
@@ -22,6 +11,16 @@
         "authorCategory": "coworker",
         "reviewer": "pippokr",
         "requestedAt": "2026-10-07T09:22:25Z"
+      },
+      {
+        "number": 3434,
+        "title": "build(deps): Bump github.com/aws/aws-sdk-go-v2/credentials from 1.20.5 to 1.20.6",
+        "url": "https://github.com/celestiaorg/celestia-core/pull/3434",
+        "repo": "celestia-core",
+        "author": "dependabot",
+        "authorCategory": "bot",
+        "reviewer": "pippokr",
+        "requestedAt": "2026-10-07T09:27:55Z"
       },
       {
         "number": 5280,
@@ -100,6 +99,16 @@
         "requestedAt": "2026-10-06T18:47:51Z"
       },
       {
+        "number": 3432,
+        "title": "build(deps): Bump github.com/aws/aws-sdk-go-v2/config from 1.33.5 to 1.33.6",
+        "url": "https://github.com/celestiaorg/celestia-core/pull/3432",
+        "repo": "celestia-core",
+        "author": "dependabot",
+        "authorCategory": "bot",
+        "reviewer": "renaynay",
+        "requestedAt": "2026-10-07T09:26:12Z"
+      },
+      {
         "number": 5276,
         "title": "fix(pruner): stop prune round when a full batch makes no progress",
         "url": "https://github.com/celestiaorg/celestia-node/pull/5276",
@@ -141,16 +150,6 @@
         "authorCategory": "coworker",
         "reviewer": "vgonkivs",
         "requestedAt": "2026-10-06T13:23:56Z"
-      },
-      {
-        "number": 3431,
-        "title": "build(deps): Bump github.com/aws/aws-sdk-go-v2 from 1.47.0 to 1.47.1",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3431",
-        "repo": "celestia-core",
-        "author": "dependabot",
-        "authorCategory": "bot",
-        "reviewer": "vgonkivs",
-        "requestedAt": "2026-10-07T09:24:38Z"
       },
       {
         "number": 5167,
@@ -425,6 +424,16 @@
         "requestedAt": "2026-09-28T11:03:43Z"
       },
       {
+        "number": 3433,
+        "title": "build(deps): Bump github.com/prometheus/common from 0.71.0 to 0.72.0",
+        "url": "https://github.com/celestiaorg/celestia-core/pull/3433",
+        "repo": "celestia-core",
+        "author": "dependabot",
+        "authorCategory": "bot",
+        "reviewer": "walldiss",
+        "requestedAt": "2026-10-07T09:27:55Z"
+      },
+      {
         "number": 5264,
         "title": "fix(fibre): detach Upload's shard fan-out from the caller ctx",
         "url": "https://github.com/celestiaorg/celestia-node/pull/5264",
@@ -512,5 +521,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-10-07T09:26:05.858Z"
+  "fetchedAt": "2026-10-07T09:42:13.789Z"
 }
