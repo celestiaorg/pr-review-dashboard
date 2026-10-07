@@ -2,6 +2,16 @@
   "reviews": {
     "chatton": [
       {
+        "number": 925,
+        "title": "feat(da-proxy): daily node version catch-up + 2d drift safety net",
+        "url": "https://github.com/celestiaorg/infrastructure/pull/925",
+        "repo": "infrastructure",
+        "author": "pippokr",
+        "authorCategory": "coworker",
+        "reviewer": "chatton",
+        "requestedAt": "2026-10-07T07:46:20Z"
+      },
+      {
         "number": 5304,
         "title": "fix(share/eds): make closeOnce safe to close while in use",
         "url": "https://github.com/celestiaorg/celestia-node/pull/5304",
@@ -521,5 +531,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-10-07T07:34:37.720Z"
+  "fetchedAt": "2026-10-07T07:52:53.222Z"
 }
