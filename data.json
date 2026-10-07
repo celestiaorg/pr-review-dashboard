@@ -1,7 +1,28 @@
 {
   "reviews": {
-    "chatton": [],
+    "chatton": [
+      {
+        "number": 5321,
+        "title": "chore(deps): bump celestia-app to v10.4.0 mainnet",
+        "url": "https://github.com/celestiaorg/celestia-node/pull/5321",
+        "repo": "celestia-node",
+        "author": "rach-id",
+        "authorCategory": "coworker",
+        "reviewer": "chatton",
+        "requestedAt": "2026-10-07T09:25:58Z"
+      }
+    ],
     "pippokr": [
+      {
+        "number": 926,
+        "title": "feat: provision disposable da-proxy environment",
+        "url": "https://github.com/celestiaorg/infrastructure/pull/926",
+        "repo": "infrastructure",
+        "author": "chatton",
+        "authorCategory": "coworker",
+        "reviewer": "pippokr",
+        "requestedAt": "2026-10-07T09:22:25Z"
+      },
       {
         "number": 5280,
         "title": "fix(state/cmd): return an error on the wrong address kind",
@@ -45,7 +66,18 @@
         "requestedAt": "2026-10-02T13:39:54Z"
       }
     ],
-    "rach-id": [],
+    "rach-id": [
+      {
+        "number": 3430,
+        "title": "perf(consensus): [high] skip fsync for unsigned block parts (backport)",
+        "url": "https://github.com/celestiaorg/celestia-core/pull/3430",
+        "repo": "celestia-core",
+        "author": "ninabarbakadze",
+        "authorCategory": "coworker",
+        "reviewer": "rach-id",
+        "requestedAt": "2026-10-07T09:21:47Z"
+      }
+    ],
     "renaynay": [
       {
         "number": 119,
@@ -86,30 +118,9 @@
         "authorCategory": "external",
         "reviewer": "renaynay",
         "requestedAt": "2026-10-06T06:47:03Z"
-      },
-      {
-        "number": 5311,
-        "title": "fix(shwap/shrex_getter): validate indices for empty blocks",
-        "url": "https://github.com/celestiaorg/celestia-node/pull/5311",
-        "repo": "celestia-node",
-        "author": "Shailu-s",
-        "authorCategory": "external",
-        "reviewer": "renaynay",
-        "requestedAt": "2026-10-06T08:42:09Z"
       }
     ],
-    "rootulp": [
-      {
-        "number": 8097,
-        "title": "fix: resolve #6075",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/8097",
-        "repo": "celestia-app",
-        "author": "SrvFernandes",
-        "authorCategory": "external",
-        "reviewer": "rootulp",
-        "requestedAt": "2026-10-07T08:32:19Z"
-      }
-    ],
+    "rootulp": [],
     "vgonkivs": [
       {
         "number": 8009,
@@ -130,6 +141,16 @@
         "authorCategory": "coworker",
         "reviewer": "vgonkivs",
         "requestedAt": "2026-10-06T13:23:56Z"
+      },
+      {
+        "number": 3431,
+        "title": "build(deps): Bump github.com/aws/aws-sdk-go-v2 from 1.47.0 to 1.47.1",
+        "url": "https://github.com/celestiaorg/celestia-core/pull/3431",
+        "repo": "celestia-core",
+        "author": "dependabot",
+        "authorCategory": "bot",
+        "reviewer": "vgonkivs",
+        "requestedAt": "2026-10-07T09:24:38Z"
       },
       {
         "number": 5167,
@@ -434,16 +455,6 @@
         "requestedAt": "2026-10-05T14:09:52Z"
       },
       {
-        "number": 5311,
-        "title": "fix(shwap/shrex_getter): validate indices for empty blocks",
-        "url": "https://github.com/celestiaorg/celestia-node/pull/5311",
-        "repo": "celestia-node",
-        "author": "Shailu-s",
-        "authorCategory": "external",
-        "reviewer": "walldiss",
-        "requestedAt": "2026-10-06T08:42:09Z"
-      },
-      {
         "number": 5268,
         "title": "fix(api/client): use the configured conn for the fibre state client",
         "url": "https://github.com/celestiaorg/celestia-node/pull/5268",
@@ -501,5 +512,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-10-07T09:01:20.865Z"
+  "fetchedAt": "2026-10-07T09:26:05.858Z"
 }
