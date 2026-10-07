@@ -1,6 +1,17 @@
 {
   "reviews": {
-    "chatton": [],
+    "chatton": [
+      {
+        "number": 882,
+        "title": "docs(corto-10): runbook follow-up — automated TLS renewal, third SSH ingress",
+        "url": "https://github.com/celestiaorg/infrastructure/pull/882",
+        "repo": "infrastructure",
+        "author": "pippokr",
+        "authorCategory": "coworker",
+        "reviewer": "chatton",
+        "requestedAt": "2026-10-07T12:55:02Z"
+      }
+    ],
     "pippokr": [
       {
         "number": 3434,
@@ -500,5 +511,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-10-07T12:33:21.671Z"
+  "fetchedAt": "2026-10-07T12:56:43.087Z"
 }
