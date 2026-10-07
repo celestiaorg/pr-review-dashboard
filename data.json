@@ -1,17 +1,6 @@
 {
   "reviews": {
-    "chatton": [
-      {
-        "number": 882,
-        "title": "docs(corto-10): runbook follow-up — automated TLS renewal, third SSH ingress",
-        "url": "https://github.com/celestiaorg/infrastructure/pull/882",
-        "repo": "infrastructure",
-        "author": "pippokr",
-        "authorCategory": "coworker",
-        "reviewer": "chatton",
-        "requestedAt": "2026-10-07T12:55:02Z"
-      }
-    ],
+    "chatton": [],
     "pippokr": [
       {
         "number": 3434,
@@ -384,16 +373,6 @@
     ],
     "walldiss": [
       {
-        "number": 882,
-        "title": "docs(corto-10): runbook follow-up — automated TLS renewal, third SSH ingress",
-        "url": "https://github.com/celestiaorg/infrastructure/pull/882",
-        "repo": "infrastructure",
-        "author": "pippokr",
-        "authorCategory": "coworker",
-        "reviewer": "walldiss",
-        "requestedAt": "2026-10-01T14:38:36Z"
-      },
-      {
         "number": 8093,
         "title": "ci: [low] add review tags to Cargo security updates",
         "url": "https://github.com/celestiaorg/celestia-app/pull/8093",
@@ -511,5 +490,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-10-07T12:56:43.087Z"
+  "fetchedAt": "2026-10-07T13:17:53.990Z"
 }
