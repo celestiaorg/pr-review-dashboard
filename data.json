@@ -65,18 +65,7 @@
         "requestedAt": "2026-10-02T13:39:54Z"
       }
     ],
-    "rach-id": [
-      {
-        "number": 3436,
-        "title": "perf(autofile): skip fsync in FlushAndSync when no new data was written (bp #5866)",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3436",
-        "repo": "celestia-core",
-        "author": "ninabarbakadze",
-        "authorCategory": "coworker",
-        "reviewer": "rach-id",
-        "requestedAt": "2026-10-07T09:49:02Z"
-      }
-    ],
+    "rach-id": [],
     "renaynay": [
       {
         "number": 119,
@@ -521,5 +510,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-10-07T11:17:56.836Z"
+  "fetchedAt": "2026-10-07T11:31:24.154Z"
 }
