@@ -1,17 +1,6 @@
 {
   "reviews": {
-    "chatton": [
-      {
-        "number": 5304,
-        "title": "fix(share/eds): make closeOnce safe to close while in use",
-        "url": "https://github.com/celestiaorg/celestia-node/pull/5304",
-        "repo": "celestia-node",
-        "author": "kriss39",
-        "authorCategory": "external",
-        "reviewer": "chatton",
-        "requestedAt": "2026-09-30T09:49:14Z"
-      }
-    ],
+    "chatton": [],
     "pippokr": [
       {
         "number": 5280,
@@ -54,26 +43,6 @@
         "authorCategory": "coworker",
         "reviewer": "ninabarbakadze",
         "requestedAt": "2026-10-02T13:39:54Z"
-      },
-      {
-        "number": 5318,
-        "title": "test(api): [low] wait for consensus height before fetching blocks",
-        "url": "https://github.com/celestiaorg/celestia-node/pull/5318",
-        "repo": "celestia-node",
-        "author": "rootulp",
-        "authorCategory": "coworker",
-        "reviewer": "ninabarbakadze",
-        "requestedAt": "2026-10-06T10:19:07Z"
-      },
-      {
-        "number": 8095,
-        "title": "test: [low] wait for mock app readiness before cleanup",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/8095",
-        "repo": "celestia-app",
-        "author": "rootulp",
-        "authorCategory": "coworker",
-        "reviewer": "ninabarbakadze",
-        "requestedAt": "2026-10-06T19:17:17Z"
       }
     ],
     "rach-id": [],
@@ -521,5 +490,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-10-07T08:00:49.464Z"
+  "fetchedAt": "2026-10-07T08:32:04.645Z"
 }
