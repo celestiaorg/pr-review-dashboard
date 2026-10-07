@@ -98,7 +98,18 @@
         "requestedAt": "2026-10-06T08:42:09Z"
       }
     ],
-    "rootulp": [],
+    "rootulp": [
+      {
+        "number": 8097,
+        "title": "fix: resolve #6075",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/8097",
+        "repo": "celestia-app",
+        "author": "SrvFernandes",
+        "authorCategory": "external",
+        "reviewer": "rootulp",
+        "requestedAt": "2026-10-07T08:32:19Z"
+      }
+    ],
     "vgonkivs": [
       {
         "number": 8009,
@@ -490,5 +501,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-10-07T08:32:04.645Z"
+  "fetchedAt": "2026-10-07T08:52:08.464Z"
 }
