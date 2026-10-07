@@ -3,16 +3,6 @@
     "chatton": [],
     "pippokr": [
       {
-        "number": 926,
-        "title": "feat: provision disposable da-proxy environment",
-        "url": "https://github.com/celestiaorg/infrastructure/pull/926",
-        "repo": "infrastructure",
-        "author": "chatton",
-        "authorCategory": "coworker",
-        "reviewer": "pippokr",
-        "requestedAt": "2026-10-07T09:22:25Z"
-      },
-      {
         "number": 3434,
         "title": "build(deps): Bump github.com/aws/aws-sdk-go-v2/credentials from 1.20.5 to 1.20.6",
         "url": "https://github.com/celestiaorg/celestia-core/pull/3434",
@@ -510,5 +500,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-10-07T11:59:29.959Z"
+  "fetchedAt": "2026-10-07T12:33:21.671Z"
 }
