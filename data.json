@@ -3,16 +3,6 @@
     "chatton": [],
     "pippokr": [
       {
-        "number": 934,
-        "title": "feat: bootstrap dev da-proxy environment",
-        "url": "https://github.com/celestiaorg/infrastructure/pull/934",
-        "repo": "infrastructure",
-        "author": "chatton",
-        "authorCategory": "coworker",
-        "reviewer": "pippokr",
-        "requestedAt": "2026-10-08T08:24:23Z"
-      },
-      {
         "number": 5280,
         "title": "fix(state/cmd): return an error on the wrong address kind",
         "url": "https://github.com/celestiaorg/celestia-node/pull/5280",
@@ -528,5 +518,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-10-08T11:32:17.925Z"
+  "fetchedAt": "2026-10-08T11:44:57.286Z"
 }
