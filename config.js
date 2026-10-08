@@ -28,6 +28,7 @@ module.exports = {
     { name: "Rene", github: "renaynay", defaultHidden: false },
     { name: "Rootul", github: "rootulp", defaultHidden: false },
     { name: "Slava", github: "vgonkivs", defaultHidden: false },
+    { name: "Theodore", github: "theodorebugnet", defaultHidden: false },
     { name: "Vlad", github: "walldiss", defaultHidden: false },
   ],
 
