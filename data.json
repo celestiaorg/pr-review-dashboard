@@ -3,6 +3,16 @@
     "chatton": [],
     "pippokr": [
       {
+        "number": 934,
+        "title": "feat: bootstrap dev da-proxy environment",
+        "url": "https://github.com/celestiaorg/infrastructure/pull/934",
+        "repo": "infrastructure",
+        "author": "chatton",
+        "authorCategory": "coworker",
+        "reviewer": "pippokr",
+        "requestedAt": "2026-10-08T08:24:23Z"
+      },
+      {
         "number": 5280,
         "title": "fix(state/cmd): return an error on the wrong address kind",
         "url": "https://github.com/celestiaorg/celestia-node/pull/5280",
@@ -373,16 +383,6 @@
         "requestedAt": "2026-09-28T11:03:43Z"
       },
       {
-        "number": 3433,
-        "title": "build(deps): Bump github.com/prometheus/common from 0.71.0 to 0.72.0",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3433",
-        "repo": "celestia-core",
-        "author": "dependabot",
-        "authorCategory": "bot",
-        "reviewer": "walldiss",
-        "requestedAt": "2026-10-07T09:27:55Z"
-      },
-      {
         "number": 5264,
         "title": "fix(fibre): detach Upload's shard fan-out from the caller ctx",
         "url": "https://github.com/celestiaorg/celestia-node/pull/5264",
@@ -470,5 +470,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-10-08T08:02:05.604Z"
+  "fetchedAt": "2026-10-08T08:33:29.120Z"
 }
