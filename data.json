@@ -55,7 +55,18 @@
         "requestedAt": "2026-10-02T13:39:54Z"
       }
     ],
-    "rach-id": [],
+    "rach-id": [
+      {
+        "number": 3442,
+        "title": "perf(consensus): reuse encode/decode buffers in WALEncoder and WALDecoder (backport)",
+        "url": "https://github.com/celestiaorg/celestia-core/pull/3442",
+        "repo": "celestia-core",
+        "author": "ninabarbakadze",
+        "authorCategory": "coworker",
+        "reviewer": "rach-id",
+        "requestedAt": "2026-10-08T09:29:17Z"
+      }
+    ],
     "renaynay": [
       {
         "number": 119,
@@ -363,16 +374,6 @@
     ],
     "theodorebugnet": [
       {
-        "number": 8049,
-        "title": "test: [low] deflake `TestClaimRewardsAfterFullUndelegation`",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/8049",
-        "repo": "celestia-app",
-        "author": "rootulp",
-        "authorCategory": "coworker",
-        "reviewer": "theodorebugnet",
-        "requestedAt": "2026-10-06T16:00:40Z"
-      },
-      {
         "number": 8077,
         "title": "chore(deps): bump the go-deps group with 12 updates",
         "url": "https://github.com/celestiaorg/celestia-app/pull/8077",
@@ -517,5 +518,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-10-08T09:28:13.535Z"
+  "fetchedAt": "2026-10-08T09:47:02.467Z"
 }
