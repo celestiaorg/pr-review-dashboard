@@ -1,6 +1,17 @@
 {
   "reviews": {
-    "chatton": [],
+    "chatton": [
+      {
+        "number": 936,
+        "title": "docs: corto-10 and Eden - Mainnet are High risk — external teams' live workloads",
+        "url": "https://github.com/celestiaorg/infrastructure/pull/936",
+        "repo": "infrastructure",
+        "author": "pippokr",
+        "authorCategory": "coworker",
+        "reviewer": "chatton",
+        "requestedAt": "2026-10-08T11:54:56Z"
+      }
+    ],
     "pippokr": [
       {
         "number": 5280,
@@ -518,5 +529,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-10-08T11:54:14.860Z"
+  "fetchedAt": "2026-10-08T12:01:24.528Z"
 }
