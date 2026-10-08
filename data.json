@@ -361,6 +361,48 @@
         "requestedAt": "2026-10-06T07:58:08Z"
       }
     ],
+    "theodorebugnet": [
+      {
+        "number": 8049,
+        "title": "test: [low] deflake `TestClaimRewardsAfterFullUndelegation`",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/8049",
+        "repo": "celestia-app",
+        "author": "rootulp",
+        "authorCategory": "coworker",
+        "reviewer": "theodorebugnet",
+        "requestedAt": "2026-10-06T16:00:40Z"
+      },
+      {
+        "number": 8077,
+        "title": "chore(deps): bump the go-deps group with 12 updates",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/8077",
+        "repo": "celestia-app",
+        "author": "dependabot",
+        "authorCategory": "bot",
+        "reviewer": "theodorebugnet",
+        "requestedAt": "2026-10-05T09:45:19Z"
+      },
+      {
+        "number": 5312,
+        "title": "fix(nodebuilder/blob): don't panic in submit with --input-file",
+        "url": "https://github.com/celestiaorg/celestia-node/pull/5312",
+        "repo": "celestia-node",
+        "author": "shiaho777",
+        "authorCategory": "external",
+        "reviewer": "theodorebugnet",
+        "requestedAt": "2026-10-06T06:41:10Z"
+      },
+      {
+        "number": 8096,
+        "title": "fix(fibre): [medium] reject oversized rows before Reconstructor.Add state mutation",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/8096",
+        "repo": "celestia-app",
+        "author": "fmtappendf",
+        "authorCategory": "external",
+        "reviewer": "theodorebugnet",
+        "requestedAt": "2026-10-07T06:07:22Z"
+      }
+    ],
     "walldiss": [
       {
         "number": 8093,
@@ -461,6 +503,11 @@
       "defaultHidden": false
     },
     {
+      "name": "Theodore",
+      "github": "theodorebugnet",
+      "defaultHidden": false
+    },
+    {
       "name": "Vlad",
       "github": "walldiss",
       "defaultHidden": false
@@ -470,5 +517,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-10-08T09:03:05.701Z"
+  "fetchedAt": "2026-10-08T09:12:30.986Z"
 }
