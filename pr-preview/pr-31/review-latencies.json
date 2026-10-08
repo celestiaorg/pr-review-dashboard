@@ -1,0 +1,188 @@
+{
+  "latencies": {
+    "chatton": {
+      "week": {
+        "n": 17,
+        "medianHours": 5.576388888888889,
+        "p90Hours": 148.08972222222224
+      },
+      "month": {
+        "n": 28,
+        "medianHours": 1.6,
+        "p90Hours": 107.3125
+      },
+      "year": {
+        "n": 171,
+        "medianHours": 1.5966666666666667,
+        "p90Hours": 70.97444444444444
+      }
+    },
+    "pippokr": {
+      "week": {
+        "n": 7,
+        "medianHours": 2.0838888888888887,
+        "p90Hours": 65.29055555555556
+      },
+      "month": {
+        "n": 12,
+        "medianHours": 2.0838888888888887,
+        "p90Hours": 8.6375
+      },
+      "year": {
+        "n": 88,
+        "medianHours": 0.38222222222222224,
+        "p90Hours": 37.39194444444445
+      }
+    },
+    "ninabarbakadze": {
+      "week": {
+        "n": 5,
+        "medianHours": 13.043055555555556,
+        "p90Hours": 22.106666666666666
+      },
+      "month": {
+        "n": 8,
+        "medianHours": 2.1991666666666667,
+        "p90Hours": 22.106666666666666
+      },
+      "year": {
+        "n": 406,
+        "medianHours": 9.269722222222223,
+        "p90Hours": 57.17722222222222
+      }
+    },
+    "rach-id": {
+      "week": {
+        "n": 7,
+        "medianHours": 0.2111111111111111,
+        "p90Hours": 1.9133333333333333
+      },
+      "month": {
+        "n": 35,
+        "medianHours": 0.1386111111111111,
+        "p90Hours": 1.7852777777777777
+      },
+      "year": {
+        "n": 747,
+        "medianHours": 1.6888888888888889,
+        "p90Hours": 20.234166666666667
+      }
+    },
+    "renaynay": {
+      "week": {
+        "n": 9,
+        "medianHours": 1.7172222222222222,
+        "p90Hours": 263.52805555555557
+      },
+      "month": {
+        "n": 11,
+        "medianHours": 21.435555555555556,
+        "p90Hours": 237.86583333333334
+      },
+      "year": {
+        "n": 82,
+        "medianHours": 13.232222222222223,
+        "p90Hours": 140.1811111111111
+      }
+    },
+    "rootulp": {
+      "week": {
+        "n": 3,
+        "medianHours": 12.334444444444445,
+        "p90Hours": 739.5738888888889
+      },
+      "month": {
+        "n": 15,
+        "medianHours": 1.0858333333333334,
+        "p90Hours": 31.781388888888888
+      },
+      "year": {
+        "n": 281,
+        "medianHours": 3.484722222222222,
+        "p90Hours": 22.831666666666667
+      }
+    },
+    "vgonkivs": {
+      "week": {
+        "n": 0,
+        "medianHours": null,
+        "p90Hours": null
+      },
+      "month": {
+        "n": 0,
+        "medianHours": null,
+        "p90Hours": null
+      },
+      "year": {
+        "n": 227,
+        "medianHours": 9.5025,
+        "p90Hours": 166.09166666666667
+      }
+    },
+    "walldiss": {
+      "week": {
+        "n": 0,
+        "medianHours": null,
+        "p90Hours": null
+      },
+      "month": {
+        "n": 1,
+        "medianHours": 0.03111111111111111,
+        "p90Hours": 0.03111111111111111
+      },
+      "year": {
+        "n": 62,
+        "medianHours": 29.1275,
+        "p90Hours": 383.1430555555556
+      }
+    }
+  },
+  "teamMembers": [
+    {
+      "name": "Cian",
+      "github": "chatton",
+      "defaultHidden": false
+    },
+    {
+      "name": "Cris",
+      "github": "pippokr",
+      "defaultHidden": false
+    },
+    {
+      "name": "Nina",
+      "github": "ninabarbakadze",
+      "defaultHidden": false
+    },
+    {
+      "name": "Rachid",
+      "github": "rach-id",
+      "defaultHidden": false
+    },
+    {
+      "name": "Rene",
+      "github": "renaynay",
+      "defaultHidden": false
+    },
+    {
+      "name": "Rootul",
+      "github": "rootulp",
+      "defaultHidden": false
+    },
+    {
+      "name": "Slava",
+      "github": "vgonkivs",
+      "defaultHidden": false
+    },
+    {
+      "name": "Vlad",
+      "github": "walldiss",
+      "defaultHidden": false
+    }
+  ],
+  "computedAt": "2026-10-08T00:08:52.851Z",
+  "windows": {
+    "weekStart": "2026-10-05T00:00:00.000Z",
+    "monthStart": "2026-10-01T00:00:00.000Z",
+    "yearStart": "2026-01-01T00:00:00.000Z"
+  }
+}
