@@ -3,6 +3,16 @@
     "chatton": [],
     "pippokr": [
       {
+        "number": 939,
+        "title": "feat: eden terraform infra",
+        "url": "https://github.com/celestiaorg/infrastructure/pull/939",
+        "repo": "infrastructure",
+        "author": "auricom",
+        "authorCategory": "coworker",
+        "reviewer": "pippokr",
+        "requestedAt": "2026-10-08T13:18:27Z"
+      },
+      {
         "number": 5280,
         "title": "fix(state/cmd): return an error on the wrong address kind",
         "url": "https://github.com/celestiaorg/celestia-node/pull/5280",
@@ -518,5 +528,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-10-08T12:57:21.815Z"
+  "fetchedAt": "2026-10-08T13:21:35.581Z"
 }
