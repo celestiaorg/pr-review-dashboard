@@ -132,7 +132,7 @@
     "vgonkivs": [
       {
         "number": 8009,
-        "title": "feat(fibre): add gRPC health and readiness diagnostics to the fibre server",
+        "title": "feat(fibre): add gRPC health and readiness diagnostics to the fibre server `medium`",
         "url": "https://github.com/celestiaorg/celestia-app/pull/8009",
         "repo": "celestia-app",
         "author": "rach-id",
@@ -436,7 +436,7 @@
       },
       {
         "number": 8111,
-        "title": "fix(fibre): reserve memory before reading fallback shard copies",
+        "title": "fix(fibre): correct upload and download memory reservations",
         "url": "https://github.com/celestiaorg/celestia-app/pull/8111",
         "repo": "celestia-app",
         "author": "renaynay",
@@ -547,5 +547,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-10-09T09:28:50.622Z"
+  "fetchedAt": "2026-10-09T09:47:23.825Z"
 }
