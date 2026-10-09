@@ -44,6 +44,16 @@
         "requestedAt": "2026-10-08T13:18:27Z"
       },
       {
+        "number": 454,
+        "title": "chore(deps): Bump golang.org/x/sync from 0.23.0 to 0.24.0",
+        "url": "https://github.com/celestiaorg/rsmt2d/pull/454",
+        "repo": "rsmt2d",
+        "author": "dependabot",
+        "authorCategory": "bot",
+        "reviewer": "pippokr",
+        "requestedAt": "2026-10-09T15:52:12Z"
+      },
+      {
         "number": 5280,
         "title": "fix(state/cmd): return an error on the wrong address kind",
         "url": "https://github.com/celestiaorg/celestia-node/pull/5280",
@@ -517,5 +527,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-10-09T15:46:20.362Z"
+  "fetchedAt": "2026-10-09T15:56:12.425Z"
 }
