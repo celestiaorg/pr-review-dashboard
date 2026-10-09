@@ -109,6 +109,16 @@
         "requestedAt": "2026-09-30T10:10:32Z"
       },
       {
+        "number": 8112,
+        "title": "chore(deps): [medium] bump Go to 1.26.9 and x/net to v0.60.0",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/8112",
+        "repo": "celestia-app",
+        "author": "rach-id",
+        "authorCategory": "coworker",
+        "reviewer": "renaynay",
+        "requestedAt": "2026-10-09T13:22:23Z"
+      },
+      {
         "number": 8092,
         "title": "chore(deps): bump rustls from 0.23.37 to 0.23.45 in /tools/rust-fibre-txsim",
         "url": "https://github.com/celestiaorg/celestia-app/pull/8092",
@@ -558,5 +568,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-10-09T13:04:09.137Z"
+  "fetchedAt": "2026-10-09T13:27:49.804Z"
 }
