@@ -1,6 +1,37 @@
 {
   "reviews": {
-    "chatton": [],
+    "chatton": [
+      {
+        "number": 941,
+        "title": "fix(monitoring): export installed binary version so da-proxy app drift is visible pre-activation",
+        "url": "https://github.com/celestiaorg/infrastructure/pull/941",
+        "repo": "infrastructure",
+        "author": "pippokr",
+        "authorCategory": "coworker",
+        "reviewer": "chatton",
+        "requestedAt": "2026-10-09T08:37:39Z"
+      },
+      {
+        "number": 8110,
+        "title": "fix(fibre): reclaim RPC reservations after connection close",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/8110",
+        "repo": "celestia-app",
+        "author": "renaynay",
+        "authorCategory": "coworker",
+        "reviewer": "chatton",
+        "requestedAt": "2026-10-09T08:49:17Z"
+      },
+      {
+        "number": 940,
+        "title": "Prepare da-proxy version v0.34.3 for mainnet",
+        "url": "https://github.com/celestiaorg/infrastructure/pull/940",
+        "repo": "infrastructure",
+        "author": "github-actions",
+        "authorCategory": "bot",
+        "reviewer": "chatton",
+        "requestedAt": "2026-10-09T08:38:48Z"
+      }
+    ],
     "pippokr": [
       {
         "number": 5280,
@@ -507,5 +538,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-10-09T08:33:24.220Z"
+  "fetchedAt": "2026-10-09T08:53:47.676Z"
 }
