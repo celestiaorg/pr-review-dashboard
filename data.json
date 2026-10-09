@@ -84,18 +84,7 @@
         "requestedAt": "2026-10-06T08:43:18Z"
       }
     ],
-    "ninabarbakadze": [
-      {
-        "number": 8120,
-        "title": "test: [low] make TestStateSync diagnosable and stop snapshot pruning race",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/8120",
-        "repo": "celestia-app",
-        "author": "rach-id",
-        "authorCategory": "coworker",
-        "reviewer": "ninabarbakadze",
-        "requestedAt": "2026-10-09T19:57:32Z"
-      }
-    ],
+    "ninabarbakadze": [],
     "rach-id": [],
     "renaynay": [
       {
@@ -149,7 +138,28 @@
         "requestedAt": "2026-10-06T06:47:03Z"
       }
     ],
-    "rootulp": [],
+    "rootulp": [
+      {
+        "number": 8120,
+        "title": "test: [low] stop snapshot pruning race in TestStateSync",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/8120",
+        "repo": "celestia-app",
+        "author": "rach-id",
+        "authorCategory": "coworker",
+        "reviewer": "rootulp",
+        "requestedAt": "2026-10-09T20:01:51Z"
+      },
+      {
+        "number": 8121,
+        "title": "ci: [low] report conventional-commit-pr-title in the merge queue",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/8121",
+        "repo": "celestia-app",
+        "author": "rach-id",
+        "authorCategory": "coworker",
+        "reviewer": "rootulp",
+        "requestedAt": "2026-10-09T20:17:31Z"
+      }
+    ],
     "vgonkivs": [
       {
         "number": 8009,
@@ -538,5 +548,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-10-09T19:58:35.555Z"
+  "fetchedAt": "2026-10-09T20:20:24.263Z"
 }
