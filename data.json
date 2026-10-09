@@ -143,7 +143,7 @@
     "vgonkivs": [
       {
         "number": 8009,
-        "title": "feat(fibre): add gRPC health and readiness diagnostics to the fibre server `medium`",
+        "title": "feat(fibre): [high] add gRPC health and readiness diagnostics to the fibre server",
         "url": "https://github.com/celestiaorg/celestia-app/pull/8009",
         "repo": "celestia-app",
         "author": "rach-id",
@@ -558,5 +558,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-10-09T12:53:37.245Z"
+  "fetchedAt": "2026-10-09T13:04:09.137Z"
 }
