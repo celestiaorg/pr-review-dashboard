@@ -22,6 +22,16 @@
         "requestedAt": "2026-10-09T08:49:17Z"
       },
       {
+        "number": 942,
+        "title": "docs: fix dead links in app, scripts and node READMEs",
+        "url": "https://github.com/celestiaorg/infrastructure/pull/942",
+        "repo": "infrastructure",
+        "author": "pippokr",
+        "authorCategory": "coworker",
+        "reviewer": "chatton",
+        "requestedAt": "2026-10-09T09:14:54Z"
+      },
+      {
         "number": 940,
         "title": "Prepare da-proxy version v0.34.3 for mainnet",
         "url": "https://github.com/celestiaorg/infrastructure/pull/940",
@@ -33,6 +43,16 @@
       }
     ],
     "pippokr": [
+      {
+        "number": 939,
+        "title": "feat(eden): terraform infra for mainnet and mocha",
+        "url": "https://github.com/celestiaorg/infrastructure/pull/939",
+        "repo": "infrastructure",
+        "author": "auricom",
+        "authorCategory": "coworker",
+        "reviewer": "pippokr",
+        "requestedAt": "2026-10-08T13:18:27Z"
+      },
       {
         "number": 5280,
         "title": "fix(state/cmd): return an error on the wrong address kind",
@@ -64,18 +84,7 @@
         "requestedAt": "2026-10-06T08:43:18Z"
       }
     ],
-    "ninabarbakadze": [
-      {
-        "number": 8009,
-        "title": "feat(fibre): add gRPC health and readiness diagnostics to the fibre server",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/8009",
-        "repo": "celestia-app",
-        "author": "rach-id",
-        "authorCategory": "coworker",
-        "reviewer": "ninabarbakadze",
-        "requestedAt": "2026-10-02T13:39:54Z"
-      }
-    ],
+    "ninabarbakadze": [],
     "rach-id": [],
     "renaynay": [
       {
@@ -412,16 +421,6 @@
         "authorCategory": "external",
         "reviewer": "theodorebugnet",
         "requestedAt": "2026-10-06T06:41:10Z"
-      },
-      {
-        "number": 8096,
-        "title": "fix(fibre): [medium] reject oversized rows before Reconstructor.Add state mutation",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/8096",
-        "repo": "celestia-app",
-        "author": "fmtappendf",
-        "authorCategory": "external",
-        "reviewer": "theodorebugnet",
-        "requestedAt": "2026-10-07T06:07:22Z"
       }
     ],
     "walldiss": [
@@ -434,6 +433,16 @@
         "authorCategory": "coworker",
         "reviewer": "walldiss",
         "requestedAt": "2026-10-06T19:16:14Z"
+      },
+      {
+        "number": 8111,
+        "title": "fix(fibre): reserve memory before reading fallback shard copies",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/8111",
+        "repo": "celestia-app",
+        "author": "renaynay",
+        "authorCategory": "coworker",
+        "reviewer": "walldiss",
+        "requestedAt": "2026-10-09T09:18:17Z"
       },
       {
         "number": 5291,
@@ -538,5 +547,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-10-09T09:02:45.354Z"
+  "fetchedAt": "2026-10-09T09:28:50.622Z"
 }
