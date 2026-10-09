@@ -45,18 +45,7 @@
         "requestedAt": "2026-10-02T13:39:54Z"
       }
     ],
-    "rach-id": [
-      {
-        "number": 3442,
-        "title": "perf(consensus): reuse encode/decode buffers in WALEncoder and WALDecoder (backport)",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3442",
-        "repo": "celestia-core",
-        "author": "ninabarbakadze",
-        "authorCategory": "coworker",
-        "reviewer": "rach-id",
-        "requestedAt": "2026-10-08T09:29:17Z"
-      }
-    ],
+    "rach-id": [],
     "renaynay": [
       {
         "number": 119,
@@ -518,5 +507,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-10-09T07:03:42.737Z"
+  "fetchedAt": "2026-10-09T07:32:06.991Z"
 }
