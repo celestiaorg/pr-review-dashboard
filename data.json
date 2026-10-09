@@ -425,16 +425,6 @@
     ],
     "walldiss": [
       {
-        "number": 5291,
-        "title": "chore(deps): bump alpine from 3.24.1 to 3.24.2 in the patch-updates group across 1 directory",
-        "url": "https://github.com/celestiaorg/celestia-node/pull/5291",
-        "repo": "celestia-node",
-        "author": "dependabot",
-        "authorCategory": "bot",
-        "reviewer": "walldiss",
-        "requestedAt": "2026-09-28T11:03:43Z"
-      },
-      {
         "number": 5264,
         "title": "fix(fibre): detach Upload's shard fan-out from the caller ctx",
         "url": "https://github.com/celestiaorg/celestia-node/pull/5264",
@@ -527,5 +517,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-10-09T13:55:59.255Z"
+  "fetchedAt": "2026-10-09T14:11:19.569Z"
 }
