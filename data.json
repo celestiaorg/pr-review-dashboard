@@ -85,7 +85,18 @@
       }
     ],
     "ninabarbakadze": [],
-    "rach-id": [],
+    "rach-id": [
+      {
+        "number": 8132,
+        "title": "feat(fibre): [high] add gRPC health and readiness diagnostics to the fibre server (backport #8009)",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/8132",
+        "repo": "celestia-app",
+        "author": "mergify",
+        "authorCategory": "bot",
+        "reviewer": "rach-id",
+        "requestedAt": "2026-10-09T20:41:55Z"
+      }
+    ],
     "renaynay": [
       {
         "number": 119,
@@ -151,16 +162,6 @@
       }
     ],
     "vgonkivs": [
-      {
-        "number": 8009,
-        "title": "feat(fibre): [high] add gRPC health and readiness diagnostics to the fibre server",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/8009",
-        "repo": "celestia-app",
-        "author": "rach-id",
-        "authorCategory": "coworker",
-        "reviewer": "vgonkivs",
-        "requestedAt": "2026-10-02T13:39:54Z"
-      },
       {
         "number": 8089,
         "title": "fix(fibre): check that object backend bucket is usable on start-up, if configured `[low]` ",
@@ -538,5 +539,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-10-09T20:34:16.098Z"
+  "fetchedAt": "2026-10-09T20:46:56.146Z"
 }
