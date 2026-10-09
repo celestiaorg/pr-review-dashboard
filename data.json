@@ -12,16 +12,6 @@
         "requestedAt": "2026-10-09T08:37:39Z"
       },
       {
-        "number": 8110,
-        "title": "fix(fibre): reclaim RPC reservations after connection close",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/8110",
-        "repo": "celestia-app",
-        "author": "renaynay",
-        "authorCategory": "coworker",
-        "reviewer": "chatton",
-        "requestedAt": "2026-10-09T08:49:17Z"
-      },
-      {
         "number": 942,
         "title": "docs: fix dead links in app, scripts and node READMEs",
         "url": "https://github.com/celestiaorg/infrastructure/pull/942",
@@ -85,18 +75,7 @@
       }
     ],
     "ninabarbakadze": [],
-    "rach-id": [
-      {
-        "number": 7931,
-        "title": "fix(fibre)!: [high] use default gas price for escrow payments",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7931",
-        "repo": "celestia-app",
-        "author": "rootulp",
-        "authorCategory": "coworker",
-        "reviewer": "rach-id",
-        "requestedAt": "2026-09-23T20:27:58Z"
-      }
-    ],
+    "rach-id": [],
     "renaynay": [
       {
         "number": 119,
@@ -456,16 +435,6 @@
         "requestedAt": "2026-10-06T19:16:14Z"
       },
       {
-        "number": 8111,
-        "title": "fix(fibre): correct upload and download memory reservations",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/8111",
-        "repo": "celestia-app",
-        "author": "renaynay",
-        "authorCategory": "coworker",
-        "reviewer": "walldiss",
-        "requestedAt": "2026-10-09T09:18:17Z"
-      },
-      {
         "number": 5291,
         "title": "chore(deps): bump alpine from 3.24.1 to 3.24.2 in the patch-updates group across 1 directory",
         "url": "https://github.com/celestiaorg/celestia-node/pull/5291",
@@ -568,5 +537,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-10-09T13:27:49.804Z"
+  "fetchedAt": "2026-10-09T13:45:31.957Z"
 }
