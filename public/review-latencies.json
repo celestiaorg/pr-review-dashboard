@@ -2,34 +2,34 @@
   "latencies": {
     "chatton": {
       "week": {
-        "n": 17,
-        "medianHours": 5.576388888888889,
+        "n": 19,
+        "medianHours": 5.255277777777778,
         "p90Hours": 148.08972222222224
       },
       "month": {
-        "n": 28,
-        "medianHours": 1.6,
+        "n": 30,
+        "medianHours": 1.5883333333333334,
         "p90Hours": 107.3125
       },
       "year": {
-        "n": 171,
-        "medianHours": 1.5966666666666667,
+        "n": 173,
+        "medianHours": 1.5883333333333334,
         "p90Hours": 70.97444444444444
       }
     },
     "pippokr": {
       "week": {
-        "n": 7,
+        "n": 9,
         "medianHours": 2.0838888888888887,
         "p90Hours": 65.29055555555556
       },
       "month": {
-        "n": 12,
+        "n": 14,
         "medianHours": 2.0838888888888887,
         "p90Hours": 8.6375
       },
       "year": {
-        "n": 88,
+        "n": 90,
         "medianHours": 0.38222222222222224,
         "p90Hours": 37.39194444444445
       }
@@ -87,17 +87,17 @@
     },
     "rootulp": {
       "week": {
-        "n": 3,
+        "n": 4,
         "medianHours": 12.334444444444445,
         "p90Hours": 739.5738888888889
       },
       "month": {
-        "n": 15,
+        "n": 16,
         "medianHours": 1.0858333333333334,
         "p90Hours": 31.781388888888888
       },
       "year": {
-        "n": 281,
+        "n": 282,
         "medianHours": 3.484722222222222,
         "p90Hours": 22.831666666666667
       }
@@ -114,9 +114,26 @@
         "p90Hours": null
       },
       "year": {
-        "n": 227,
-        "medianHours": 9.5025,
-        "p90Hours": 166.09166666666667
+        "n": 225,
+        "medianHours": 9.37,
+        "p90Hours": 159.98
+      }
+    },
+    "theodorebugnet": {
+      "week": {
+        "n": 1,
+        "medianHours": 3.9472222222222224,
+        "p90Hours": 3.9472222222222224
+      },
+      "month": {
+        "n": 1,
+        "medianHours": 3.9472222222222224,
+        "p90Hours": 3.9472222222222224
+      },
+      "year": {
+        "n": 2,
+        "medianHours": 10.970277777777778,
+        "p90Hours": 10.970277777777778
       }
     },
     "walldiss": {
@@ -174,12 +191,17 @@
       "defaultHidden": false
     },
     {
+      "name": "Theodore",
+      "github": "theodorebugnet",
+      "defaultHidden": false
+    },
+    {
       "name": "Vlad",
       "github": "walldiss",
       "defaultHidden": false
     }
   ],
-  "computedAt": "2026-10-08T00:08:52.851Z",
+  "computedAt": "2026-10-09T00:09:33.102Z",
   "windows": {
     "weekStart": "2026-10-05T00:00:00.000Z",
     "monthStart": "2026-10-01T00:00:00.000Z",
