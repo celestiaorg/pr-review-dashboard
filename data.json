@@ -85,18 +85,7 @@
       }
     ],
     "ninabarbakadze": [],
-    "rach-id": [
-      {
-        "number": 8132,
-        "title": "feat(fibre): [high] add gRPC health and readiness diagnostics to the fibre server (backport #8009)",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/8132",
-        "repo": "celestia-app",
-        "author": "mergify",
-        "authorCategory": "bot",
-        "reviewer": "rach-id",
-        "requestedAt": "2026-10-09T20:41:55Z"
-      }
-    ],
+    "rach-id": [],
     "renaynay": [
       {
         "number": 119,
@@ -539,5 +528,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-10-10T05:56:06.156Z"
+  "fetchedAt": "2026-10-10T06:17:39.133Z"
 }
