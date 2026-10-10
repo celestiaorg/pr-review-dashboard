@@ -22,6 +22,16 @@
         "requestedAt": "2026-10-09T09:14:54Z"
       },
       {
+        "number": 8134,
+        "title": "test(docker-e2e): [medium] refresh mocha archive peers for genesis sync",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/8134",
+        "repo": "celestia-app",
+        "author": "rach-id",
+        "authorCategory": "coworker",
+        "reviewer": "chatton",
+        "requestedAt": "2026-10-10T09:09:18Z"
+      },
+      {
         "number": 940,
         "title": "Prepare da-proxy version v0.34.3 for mainnet",
         "url": "https://github.com/celestiaorg/infrastructure/pull/940",
@@ -148,6 +158,16 @@
         "authorCategory": "coworker",
         "reviewer": "rootulp",
         "requestedAt": "2026-10-10T06:40:03Z"
+      },
+      {
+        "number": 8134,
+        "title": "test(docker-e2e): [medium] refresh mocha archive peers for genesis sync",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/8134",
+        "repo": "celestia-app",
+        "author": "rach-id",
+        "authorCategory": "coworker",
+        "reviewer": "rootulp",
+        "requestedAt": "2026-10-10T09:10:40Z"
       },
       {
         "number": 8127,
@@ -548,5 +568,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-10-10T09:00:08.879Z"
+  "fetchedAt": "2026-10-10T09:21:41.722Z"
 }
