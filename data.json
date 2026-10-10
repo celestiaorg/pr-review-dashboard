@@ -104,6 +104,16 @@
         "authorCategory": "coworker",
         "reviewer": "ninabarbakadze",
         "requestedAt": "2026-10-10T10:46:30Z"
+      },
+      {
+        "number": 3439,
+        "title": "perf: let the parity PartSet own the Reed-Solomon output buffer",
+        "url": "https://github.com/celestiaorg/celestia-core/pull/3439",
+        "repo": "celestia-core",
+        "author": "rach-id",
+        "authorCategory": "coworker",
+        "reviewer": "ninabarbakadze",
+        "requestedAt": "2026-10-10T13:34:16Z"
       }
     ],
     "rach-id": [],
@@ -599,5 +609,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-10-10T13:31:17.291Z"
+  "fetchedAt": "2026-10-10T13:42:09.097Z"
 }
