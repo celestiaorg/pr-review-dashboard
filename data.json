@@ -151,7 +151,7 @@
       },
       {
         "number": 8127,
-        "title": "chore(deps): bump rustls from 0.23.35 to 0.23.45 in /tools/lumina-latency-monitor",
+        "title": "chore(deps): [low] bump rustls from 0.23.35 to 0.23.45 in /tools/lumina-latency-monitor",
         "url": "https://github.com/celestiaorg/celestia-app/pull/8127",
         "repo": "celestia-app",
         "author": "dependabot",
@@ -548,5 +548,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-10-10T07:27:20.751Z"
+  "fetchedAt": "2026-10-10T07:43:18.655Z"
 }
