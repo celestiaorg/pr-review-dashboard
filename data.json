@@ -140,6 +140,16 @@
         "requestedAt": "2026-10-09T20:01:51Z"
       },
       {
+        "number": 780,
+        "title": "chore(deps): bump Go to 1.26.9, x/net to v0.60.0 and otel to v1.45.0",
+        "url": "https://github.com/celestiaorg/cosmos-sdk/pull/780",
+        "repo": "cosmos-sdk",
+        "author": "rach-id",
+        "authorCategory": "coworker",
+        "reviewer": "rootulp",
+        "requestedAt": "2026-10-10T06:40:03Z"
+      },
+      {
         "number": 8127,
         "title": "chore(deps): bump rustls from 0.23.35 to 0.23.45 in /tools/lumina-latency-monitor",
         "url": "https://github.com/celestiaorg/celestia-app/pull/8127",
@@ -160,6 +170,16 @@
         "authorCategory": "coworker",
         "reviewer": "vgonkivs",
         "requestedAt": "2026-10-06T13:23:56Z"
+      },
+      {
+        "number": 780,
+        "title": "chore(deps): bump Go to 1.26.9, x/net to v0.60.0 and otel to v1.45.0",
+        "url": "https://github.com/celestiaorg/cosmos-sdk/pull/780",
+        "repo": "cosmos-sdk",
+        "author": "rach-id",
+        "authorCategory": "coworker",
+        "reviewer": "vgonkivs",
+        "requestedAt": "2026-10-10T06:39:29Z"
       },
       {
         "number": 5167,
@@ -528,5 +548,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-10-10T06:17:39.133Z"
+  "fetchedAt": "2026-10-10T06:47:09.870Z"
 }
