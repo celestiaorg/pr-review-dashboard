@@ -108,6 +108,16 @@
         "requestedAt": "2026-09-30T10:10:32Z"
       },
       {
+        "number": 779,
+        "title": "fix(staking)!: [high] reject weak Ed25519 validator consensus keys",
+        "url": "https://github.com/celestiaorg/cosmos-sdk/pull/779",
+        "repo": "cosmos-sdk",
+        "author": "rach-id",
+        "authorCategory": "coworker",
+        "reviewer": "renaynay",
+        "requestedAt": "2026-10-10T10:38:46Z"
+      },
+      {
         "number": 8092,
         "title": "chore(deps): bump rustls from 0.23.37 to 0.23.45 in /tools/rust-fibre-txsim",
         "url": "https://github.com/celestiaorg/celestia-app/pull/8092",
@@ -578,5 +588,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-10-10T10:32:40.842Z"
+  "fetchedAt": "2026-10-10T10:43:37.602Z"
 }
