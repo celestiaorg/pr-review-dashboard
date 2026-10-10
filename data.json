@@ -170,6 +170,16 @@
         "requestedAt": "2026-10-10T09:10:40Z"
       },
       {
+        "number": 8135,
+        "title": "fix(fibre): [low] wait for the in-flight store health probe instead of failing fast",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/8135",
+        "repo": "celestia-app",
+        "author": "rach-id",
+        "authorCategory": "coworker",
+        "reviewer": "rootulp",
+        "requestedAt": "2026-10-10T10:32:25Z"
+      },
+      {
         "number": 8127,
         "title": "chore(deps): [low] bump rustls from 0.23.35 to 0.23.45 in /tools/lumina-latency-monitor",
         "url": "https://github.com/celestiaorg/celestia-app/pull/8127",
@@ -568,5 +578,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-10-10T10:20:36.353Z"
+  "fetchedAt": "2026-10-10T10:32:40.842Z"
 }
