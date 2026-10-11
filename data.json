@@ -116,18 +116,7 @@
         "requestedAt": "2026-10-11T09:36:57Z"
       }
     ],
-    "rach-id": [
-      {
-        "number": 8136,
-        "title": "test(docker-e2e): [medium] refresh mocha archive peers for genesis sync (backport #8134)",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/8136",
-        "repo": "celestia-app",
-        "author": "mergify",
-        "authorCategory": "bot",
-        "reviewer": "rach-id",
-        "requestedAt": "2026-10-11T12:15:35Z"
-      }
-    ],
+    "rach-id": [],
     "renaynay": [
       {
         "number": 119,
@@ -600,5 +589,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-10-11T19:39:02.415Z"
+  "fetchedAt": "2026-10-11T19:46:17.205Z"
 }
