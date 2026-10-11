@@ -22,16 +22,6 @@
         "requestedAt": "2026-10-09T09:14:54Z"
       },
       {
-        "number": 8134,
-        "title": "test(docker-e2e): [medium] refresh mocha archive peers for genesis sync",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/8134",
-        "repo": "celestia-app",
-        "author": "rach-id",
-        "authorCategory": "coworker",
-        "reviewer": "chatton",
-        "requestedAt": "2026-10-10T09:09:18Z"
-      },
-      {
         "number": 940,
         "title": "Prepare da-proxy version v0.34.3 for mainnet",
         "url": "https://github.com/celestiaorg/infrastructure/pull/940",
@@ -52,16 +42,6 @@
         "authorCategory": "coworker",
         "reviewer": "pippokr",
         "requestedAt": "2026-10-08T13:18:27Z"
-      },
-      {
-        "number": 454,
-        "title": "chore(deps): Bump golang.org/x/sync from 0.23.0 to 0.24.0",
-        "url": "https://github.com/celestiaorg/rsmt2d/pull/454",
-        "repo": "rsmt2d",
-        "author": "dependabot",
-        "authorCategory": "bot",
-        "reviewer": "pippokr",
-        "requestedAt": "2026-10-09T15:52:12Z"
       },
       {
         "number": 5280,
@@ -126,7 +106,18 @@
         "requestedAt": "2026-10-11T09:36:57Z"
       }
     ],
-    "rach-id": [],
+    "rach-id": [
+      {
+        "number": 8136,
+        "title": "test(docker-e2e): [medium] refresh mocha archive peers for genesis sync (backport #8134)",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/8136",
+        "repo": "celestia-app",
+        "author": "mergify",
+        "authorCategory": "bot",
+        "reviewer": "rach-id",
+        "requestedAt": "2026-10-11T12:15:35Z"
+      }
+    ],
     "renaynay": [
       {
         "number": 119,
@@ -180,46 +171,6 @@
       }
     ],
     "rootulp": [
-      {
-        "number": 8120,
-        "title": "test: [low] stop snapshot pruning race in TestStateSync",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/8120",
-        "repo": "celestia-app",
-        "author": "rach-id",
-        "authorCategory": "coworker",
-        "reviewer": "rootulp",
-        "requestedAt": "2026-10-09T20:01:51Z"
-      },
-      {
-        "number": 780,
-        "title": "chore(deps): bump Go to 1.26.9, x/net to v0.60.0 and otel to v1.45.0",
-        "url": "https://github.com/celestiaorg/cosmos-sdk/pull/780",
-        "repo": "cosmos-sdk",
-        "author": "rach-id",
-        "authorCategory": "coworker",
-        "reviewer": "rootulp",
-        "requestedAt": "2026-10-10T06:40:03Z"
-      },
-      {
-        "number": 8134,
-        "title": "test(docker-e2e): [medium] refresh mocha archive peers for genesis sync",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/8134",
-        "repo": "celestia-app",
-        "author": "rach-id",
-        "authorCategory": "coworker",
-        "reviewer": "rootulp",
-        "requestedAt": "2026-10-10T09:10:40Z"
-      },
-      {
-        "number": 8135,
-        "title": "fix(fibre): [low] wait for the in-flight store health probe instead of failing fast",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/8135",
-        "repo": "celestia-app",
-        "author": "rach-id",
-        "authorCategory": "coworker",
-        "reviewer": "rootulp",
-        "requestedAt": "2026-10-10T10:32:25Z"
-      },
       {
         "number": 3440,
         "title": "perf: parallelize Reed-Solomon encoding",
@@ -639,5 +590,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-10-11T11:56:19.968Z"
+  "fetchedAt": "2026-10-11T12:17:27.044Z"
 }
