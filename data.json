@@ -214,14 +214,14 @@
         "requestedAt": "2026-10-06T13:23:56Z"
       },
       {
-        "number": 780,
-        "title": "chore(deps): bump Go to 1.26.9, x/net to v0.60.0 and otel to v1.45.0",
-        "url": "https://github.com/celestiaorg/cosmos-sdk/pull/780",
-        "repo": "cosmos-sdk",
-        "author": "rach-id",
-        "authorCategory": "coworker",
+        "number": 8137,
+        "title": "fix(fibre): [low] wait for the in-flight store health probe instead of failing fast (backport #8135)",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/8137",
+        "repo": "celestia-app",
+        "author": "mergify",
+        "authorCategory": "bot",
         "reviewer": "vgonkivs",
-        "requestedAt": "2026-10-10T06:39:29Z"
+        "requestedAt": "2026-10-11T12:51:55Z"
       },
       {
         "number": 5167,
@@ -590,5 +590,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-10-11T12:43:00.860Z"
+  "fetchedAt": "2026-10-11T12:58:50.136Z"
 }
