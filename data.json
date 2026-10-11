@@ -114,6 +114,16 @@
         "authorCategory": "coworker",
         "reviewer": "ninabarbakadze",
         "requestedAt": "2026-10-10T13:34:16Z"
+      },
+      {
+        "number": 3440,
+        "title": "perf: parallelize Reed-Solomon encoding",
+        "url": "https://github.com/celestiaorg/celestia-core/pull/3440",
+        "repo": "celestia-core",
+        "author": "rach-id",
+        "authorCategory": "coworker",
+        "reviewer": "ninabarbakadze",
+        "requestedAt": "2026-10-11T09:36:57Z"
       }
     ],
     "rach-id": [],
@@ -209,6 +219,16 @@
         "authorCategory": "coworker",
         "reviewer": "rootulp",
         "requestedAt": "2026-10-10T10:32:25Z"
+      },
+      {
+        "number": 3440,
+        "title": "perf: parallelize Reed-Solomon encoding",
+        "url": "https://github.com/celestiaorg/celestia-core/pull/3440",
+        "repo": "celestia-core",
+        "author": "rach-id",
+        "authorCategory": "coworker",
+        "reviewer": "rootulp",
+        "requestedAt": "2026-10-11T09:36:56Z"
       },
       {
         "number": 8127,
@@ -609,5 +629,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-10-11T09:34:16.417Z"
+  "fetchedAt": "2026-10-11T09:46:18.335Z"
 }
