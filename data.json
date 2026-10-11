@@ -22,6 +22,16 @@
         "requestedAt": "2026-10-09T09:14:54Z"
       },
       {
+        "number": 943,
+        "title": "fix(alert-monitor): silences on fleet-level alerts matched nothing",
+        "url": "https://github.com/celestiaorg/infrastructure/pull/943",
+        "repo": "infrastructure",
+        "author": "pippokr",
+        "authorCategory": "coworker",
+        "reviewer": "chatton",
+        "requestedAt": "2026-10-11T19:14:26Z"
+      },
+      {
         "number": 940,
         "title": "Prepare da-proxy version v0.34.3 for mainnet",
         "url": "https://github.com/celestiaorg/infrastructure/pull/940",
@@ -590,5 +600,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-10-11T18:58:35.078Z"
+  "fetchedAt": "2026-10-11T19:15:55.326Z"
 }
