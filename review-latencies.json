@@ -53,18 +53,18 @@
     },
     "rach-id": {
       "week": {
-        "n": 9,
-        "medianHours": 0.25527777777777777,
+        "n": 10,
+        "medianHours": 1.5525,
         "p90Hours": 377.2236111111111
       },
       "month": {
-        "n": 37,
-        "medianHours": 0.1622222222222222,
+        "n": 38,
+        "medianHours": 0.16944444444444445,
         "p90Hours": 10.403055555555556
       },
       "year": {
-        "n": 749,
-        "medianHours": 1.7161111111111111,
+        "n": 750,
+        "medianHours": 1.7344444444444445,
         "p90Hours": 21.213333333333335
       }
     },
@@ -201,7 +201,7 @@
       "defaultHidden": false
     }
   ],
-  "computedAt": "2026-10-10T00:09:07.239Z",
+  "computedAt": "2026-10-11T00:10:01.689Z",
   "windows": {
     "weekStart": "2026-10-05T00:00:00.000Z",
     "monthStart": "2026-10-01T00:00:00.000Z",
