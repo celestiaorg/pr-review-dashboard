@@ -64,16 +64,6 @@
         "requestedAt": "2026-10-12T12:14:41Z"
       },
       {
-        "number": 420,
-        "title": "ci: disable Mergify merge queue comments",
-        "url": "https://github.com/celestiaorg/go-header/pull/420",
-        "repo": "go-header",
-        "author": "rootulp",
-        "authorCategory": "coworker",
-        "reviewer": "pippokr",
-        "requestedAt": "2026-10-12T18:55:30Z"
-      },
-      {
         "number": 5280,
         "title": "fix(state/cmd): return an error on the wrong address kind",
         "url": "https://github.com/celestiaorg/celestia-node/pull/5280",
@@ -115,16 +105,6 @@
       }
     ],
     "ninabarbakadze": [
-      {
-        "number": 3437,
-        "title": "test: [low] benchmark 32 MB proposal construction",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3437",
-        "repo": "celestia-core",
-        "author": "rach-id",
-        "authorCategory": "coworker",
-        "reviewer": "ninabarbakadze",
-        "requestedAt": "2026-10-10T10:46:30Z"
-      },
       {
         "number": 3439,
         "title": "perf: let the parity PartSet own the Reed-Solomon output buffer",
@@ -688,5 +668,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-10-12T19:46:52.421Z"
+  "fetchedAt": "2026-10-12T19:55:16.660Z"
 }
