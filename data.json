@@ -12,16 +12,6 @@
         "requestedAt": "2026-10-11T19:14:26Z"
       },
       {
-        "number": 3449,
-        "title": "ci: disable Mergify merge queue comments",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3449",
-        "repo": "celestia-core",
-        "author": "rootulp",
-        "authorCategory": "coworker",
-        "reviewer": "chatton",
-        "requestedAt": "2026-10-12T18:55:14Z"
-      },
-      {
         "number": 210,
         "title": "ci: disable Mergify merge queue comments",
         "url": "https://github.com/celestiaorg/tastora/pull/210",
@@ -648,5 +638,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-10-12T20:07:12.429Z"
+  "fetchedAt": "2026-10-12T20:26:48.063Z"
 }
