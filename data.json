@@ -176,18 +176,7 @@
         "requestedAt": "2026-10-12T18:55:37Z"
       }
     ],
-    "rach-id": [
-      {
-        "number": 8143,
-        "title": "fix(fibre)!: [medium] require bond denom for escrow deposits and withdrawals",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/8143",
-        "repo": "celestia-app",
-        "author": "durenodes",
-        "authorCategory": "external",
-        "reviewer": "rach-id",
-        "requestedAt": "2026-10-12T18:49:50Z"
-      }
-    ],
+    "rach-id": [],
     "renaynay": [
       {
         "number": 119,
@@ -699,5 +688,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-10-12T19:24:28.972Z"
+  "fetchedAt": "2026-10-12T19:35:31.557Z"
 }
