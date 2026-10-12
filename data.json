@@ -259,6 +259,16 @@
         "authorCategory": "bot",
         "reviewer": "rootulp",
         "requestedAt": "2026-10-09T20:27:17Z"
+      },
+      {
+        "number": 8143,
+        "title": "fix(fibre)!: [medium] require bond denom for escrow deposits and withdrawals",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/8143",
+        "repo": "celestia-app",
+        "author": "durenodes",
+        "authorCategory": "external",
+        "reviewer": "rootulp",
+        "requestedAt": "2026-10-12T17:11:47Z"
       }
     ],
     "vgonkivs": [
@@ -679,5 +689,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-10-12T17:08:54.199Z"
+  "fetchedAt": "2026-10-12T17:25:16.822Z"
 }
