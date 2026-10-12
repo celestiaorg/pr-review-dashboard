@@ -12,6 +12,26 @@
         "requestedAt": "2026-10-11T19:14:26Z"
       },
       {
+        "number": 3449,
+        "title": "ci: disable Mergify merge queue comments",
+        "url": "https://github.com/celestiaorg/celestia-core/pull/3449",
+        "repo": "celestia-core",
+        "author": "rootulp",
+        "authorCategory": "coworker",
+        "reviewer": "chatton",
+        "requestedAt": "2026-10-12T18:55:14Z"
+      },
+      {
+        "number": 210,
+        "title": "ci: disable Mergify merge queue comments",
+        "url": "https://github.com/celestiaorg/tastora/pull/210",
+        "repo": "tastora",
+        "author": "rootulp",
+        "authorCategory": "coworker",
+        "reviewer": "chatton",
+        "requestedAt": "2026-10-12T18:56:03Z"
+      },
+      {
         "number": 580,
         "title": "chore(peers): refresh mocha-5 peers",
         "url": "https://github.com/celestiaorg/networks/pull/580",
@@ -42,6 +62,16 @@
         "authorCategory": "coworker",
         "reviewer": "pippokr",
         "requestedAt": "2026-10-12T12:14:41Z"
+      },
+      {
+        "number": 420,
+        "title": "ci: disable Mergify merge queue comments",
+        "url": "https://github.com/celestiaorg/go-header/pull/420",
+        "repo": "go-header",
+        "author": "rootulp",
+        "authorCategory": "coworker",
+        "reviewer": "pippokr",
+        "requestedAt": "2026-10-12T18:55:30Z"
       },
       {
         "number": 5280,
@@ -134,9 +164,50 @@
         "authorCategory": "coworker",
         "reviewer": "ninabarbakadze",
         "requestedAt": "2026-10-12T13:40:57Z"
+      },
+      {
+        "number": 302,
+        "title": "ci: disable Mergify merge queue comments",
+        "url": "https://github.com/celestiaorg/go-square/pull/302",
+        "repo": "go-square",
+        "author": "rootulp",
+        "authorCategory": "coworker",
+        "reviewer": "ninabarbakadze",
+        "requestedAt": "2026-10-12T18:55:37Z"
       }
     ],
-    "rach-id": [],
+    "rach-id": [
+      {
+        "number": 3443,
+        "title": "build(deps): bump golang.org/x/net to v0.60.0 and Go to 1.26.9 to fix govulncheck",
+        "url": "https://github.com/celestiaorg/celestia-core/pull/3443",
+        "repo": "celestia-core",
+        "author": "rootulp",
+        "authorCategory": "coworker",
+        "reviewer": "rach-id",
+        "requestedAt": "2026-10-12T18:54:16Z"
+      },
+      {
+        "number": 582,
+        "title": "ci: disable Mergify merge queue comments",
+        "url": "https://github.com/celestiaorg/networks/pull/582",
+        "repo": "networks",
+        "author": "rootulp",
+        "authorCategory": "coworker",
+        "reviewer": "rach-id",
+        "requestedAt": "2026-10-12T18:55:50Z"
+      },
+      {
+        "number": 8143,
+        "title": "fix(fibre)!: [medium] require bond denom for escrow deposits and withdrawals",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/8143",
+        "repo": "celestia-app",
+        "author": "durenodes",
+        "authorCategory": "external",
+        "reviewer": "rach-id",
+        "requestedAt": "2026-10-12T18:49:50Z"
+      }
+    ],
     "renaynay": [
       {
         "number": 119,
@@ -159,16 +230,6 @@
         "requestedAt": "2026-10-10T10:38:46Z"
       },
       {
-        "number": 781,
-        "title": "feat(x/auth): [medium] pluggable signature verifier on SigVerificationDecorator",
-        "url": "https://github.com/celestiaorg/cosmos-sdk/pull/781",
-        "repo": "cosmos-sdk",
-        "author": "rach-id",
-        "authorCategory": "coworker",
-        "reviewer": "renaynay",
-        "requestedAt": "2026-10-12T08:42:22Z"
-      },
-      {
         "number": 419,
         "title": "fix(sync): prevent stale pending headers from regressing local head",
         "url": "https://github.com/celestiaorg/go-header/pull/419",
@@ -187,6 +248,16 @@
         "authorCategory": "coworker",
         "reviewer": "renaynay",
         "requestedAt": "2026-10-12T13:24:34Z"
+      },
+      {
+        "number": 120,
+        "title": "ci: disable Mergify merge queue comments",
+        "url": "https://github.com/celestiaorg/da-proxy/pull/120",
+        "repo": "da-proxy",
+        "author": "rootulp",
+        "authorCategory": "coworker",
+        "reviewer": "renaynay",
+        "requestedAt": "2026-10-12T18:55:23Z"
       },
       {
         "number": 8092,
@@ -219,38 +290,7 @@
         "requestedAt": "2026-10-06T06:47:03Z"
       }
     ],
-    "rootulp": [
-      {
-        "number": 3440,
-        "title": "perf: parallelize Reed-Solomon encoding",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3440",
-        "repo": "celestia-core",
-        "author": "rach-id",
-        "authorCategory": "coworker",
-        "reviewer": "rootulp",
-        "requestedAt": "2026-10-11T09:36:56Z"
-      },
-      {
-        "number": 8127,
-        "title": "chore(deps): [low] bump rustls from 0.23.35 to 0.23.45 in /tools/lumina-latency-monitor",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/8127",
-        "repo": "celestia-app",
-        "author": "dependabot",
-        "authorCategory": "bot",
-        "reviewer": "rootulp",
-        "requestedAt": "2026-10-09T20:27:17Z"
-      },
-      {
-        "number": 8143,
-        "title": "fix(fibre)!: [medium] require bond denom for escrow deposits and withdrawals",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/8143",
-        "repo": "celestia-app",
-        "author": "durenodes",
-        "authorCategory": "external",
-        "reviewer": "rootulp",
-        "requestedAt": "2026-10-12T17:11:47Z"
-      }
-    ],
+    "rootulp": [],
     "vgonkivs": [
       {
         "number": 8089,
@@ -271,6 +311,16 @@
         "authorCategory": "coworker",
         "reviewer": "vgonkivs",
         "requestedAt": "2026-10-12T13:40:57Z"
+      },
+      {
+        "number": 347,
+        "title": "ci: disable Mergify merge queue comments",
+        "url": "https://github.com/celestiaorg/nmt/pull/347",
+        "repo": "nmt",
+        "author": "rootulp",
+        "authorCategory": "coworker",
+        "reviewer": "vgonkivs",
+        "requestedAt": "2026-10-12T18:55:53Z"
       },
       {
         "number": 5167,
@@ -525,6 +575,16 @@
     ],
     "theodorebugnet": [
       {
+        "number": 1130,
+        "title": "ci: disable Mergify merge queue comments",
+        "url": "https://github.com/celestiaorg/lumina/pull/1130",
+        "repo": "lumina",
+        "author": "rootulp",
+        "authorCategory": "coworker",
+        "reviewer": "theodorebugnet",
+        "requestedAt": "2026-10-12T18:55:45Z"
+      },
+      {
         "number": 8077,
         "title": "chore(deps): bump the go-deps group with 12 updates",
         "url": "https://github.com/celestiaorg/celestia-app/pull/8077",
@@ -565,6 +625,26 @@
         "authorCategory": "coworker",
         "reviewer": "walldiss",
         "requestedAt": "2026-10-12T13:24:34Z"
+      },
+      {
+        "number": 782,
+        "title": "ci: disable Mergify merge queue comments",
+        "url": "https://github.com/celestiaorg/cosmos-sdk/pull/782",
+        "repo": "cosmos-sdk",
+        "author": "rootulp",
+        "authorCategory": "coworker",
+        "reviewer": "walldiss",
+        "requestedAt": "2026-10-12T18:55:19Z"
+      },
+      {
+        "number": 1128,
+        "title": "docs: organize README crate badges and remove broken website",
+        "url": "https://github.com/celestiaorg/lumina/pull/1128",
+        "repo": "lumina",
+        "author": "rootulp",
+        "authorCategory": "coworker",
+        "reviewer": "walldiss",
+        "requestedAt": "2026-10-12T18:56:41Z"
       },
       {
         "number": 581,
@@ -669,5 +749,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-10-12T18:40:46.543Z"
+  "fetchedAt": "2026-10-12T18:56:49.817Z"
 }
