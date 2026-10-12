@@ -199,7 +199,28 @@
         "requestedAt": "2026-10-06T06:47:03Z"
       }
     ],
-    "rootulp": [],
+    "rootulp": [
+      {
+        "number": 8139,
+        "title": "perf(fibre)!: [high] cache PayForFibre signature verification in one place",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/8139",
+        "repo": "celestia-app",
+        "author": "rach-id",
+        "authorCategory": "coworker",
+        "reviewer": "rootulp",
+        "requestedAt": "2026-10-12T21:16:27Z"
+      },
+      {
+        "number": 8140,
+        "title": "perf: [high] cache SDK transaction signature verification",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/8140",
+        "repo": "celestia-app",
+        "author": "rach-id",
+        "authorCategory": "coworker",
+        "reviewer": "rootulp",
+        "requestedAt": "2026-10-12T21:16:30Z"
+      }
+    ],
     "vgonkivs": [
       {
         "number": 8089,
@@ -638,5 +659,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-10-12T21:03:43.362Z"
+  "fetchedAt": "2026-10-12T21:20:15.550Z"
 }
