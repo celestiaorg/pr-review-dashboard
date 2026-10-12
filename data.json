@@ -64,6 +64,16 @@
         "requestedAt": "2026-10-05T15:15:27Z"
       },
       {
+        "number": 8085,
+        "title": "fix(fibre): extend server duration buckets to 60s for object storage",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/8085",
+        "repo": "celestia-app",
+        "author": "alexeymoskalev-devops",
+        "authorCategory": "external",
+        "reviewer": "pippokr",
+        "requestedAt": "2026-10-06T08:43:18Z"
+      },
+      {
         "number": 5325,
         "title": "fix(shrex_getter): return real row for empty block in GetRow",
         "url": "https://github.com/celestiaorg/celestia-node/pull/5325",
@@ -104,6 +114,26 @@
         "authorCategory": "coworker",
         "reviewer": "ninabarbakadze",
         "requestedAt": "2026-10-11T09:36:57Z"
+      },
+      {
+        "number": 8139,
+        "title": "perf(fibre)!: [high] cache PayForFibre signature verification in one place",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/8139",
+        "repo": "celestia-app",
+        "author": "rach-id",
+        "authorCategory": "coworker",
+        "reviewer": "ninabarbakadze",
+        "requestedAt": "2026-10-12T13:28:28Z"
+      },
+      {
+        "number": 8140,
+        "title": "perf: [high] cache SDK transaction signature verification",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/8140",
+        "repo": "celestia-app",
+        "author": "rach-id",
+        "authorCategory": "coworker",
+        "reviewer": "ninabarbakadze",
+        "requestedAt": "2026-10-12T13:40:57Z"
       }
     ],
     "rach-id": [],
@@ -149,6 +179,26 @@
         "requestedAt": "2026-10-12T12:59:07Z"
       },
       {
+        "number": 5326,
+        "title": "fix(header): serve stored headers when syncer head lags",
+        "url": "https://github.com/celestiaorg/celestia-node/pull/5326",
+        "repo": "celestia-node",
+        "author": "vgonkivs",
+        "authorCategory": "coworker",
+        "reviewer": "renaynay",
+        "requestedAt": "2026-10-12T13:24:34Z"
+      },
+      {
+        "number": 8092,
+        "title": "chore(deps): bump rustls from 0.23.37 to 0.23.45 in /tools/rust-fibre-txsim",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/8092",
+        "repo": "celestia-app",
+        "author": "dependabot",
+        "authorCategory": "bot",
+        "reviewer": "renaynay",
+        "requestedAt": "2026-10-06T18:47:51Z"
+      },
+      {
         "number": 5276,
         "title": "fix(pruner): stop prune round when a full batch makes no progress",
         "url": "https://github.com/celestiaorg/celestia-node/pull/5276",
@@ -181,6 +231,16 @@
         "requestedAt": "2026-10-11T09:36:56Z"
       },
       {
+        "number": 8122,
+        "title": "feat(fibre)!: [high] verify validator certificate signatures under ZIP-215",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/8122",
+        "repo": "celestia-app",
+        "author": "rach-id",
+        "authorCategory": "coworker",
+        "reviewer": "rootulp",
+        "requestedAt": "2026-10-11T09:48:46Z"
+      },
+      {
         "number": 779,
         "title": "fix(staking)!: [high] reject weak Ed25519 validator consensus keys",
         "url": "https://github.com/celestiaorg/cosmos-sdk/pull/779",
@@ -189,9 +249,39 @@
         "authorCategory": "coworker",
         "reviewer": "rootulp",
         "requestedAt": "2026-10-12T08:44:39Z"
+      },
+      {
+        "number": 8127,
+        "title": "chore(deps): [low] bump rustls from 0.23.35 to 0.23.45 in /tools/lumina-latency-monitor",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/8127",
+        "repo": "celestia-app",
+        "author": "dependabot",
+        "authorCategory": "bot",
+        "reviewer": "rootulp",
+        "requestedAt": "2026-10-09T20:27:17Z"
       }
     ],
     "vgonkivs": [
+      {
+        "number": 8089,
+        "title": "fix(fibre): check that object backend bucket is usable on start-up, if configured `[low]` ",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/8089",
+        "repo": "celestia-app",
+        "author": "renaynay",
+        "authorCategory": "coworker",
+        "reviewer": "vgonkivs",
+        "requestedAt": "2026-10-06T13:23:56Z"
+      },
+      {
+        "number": 8140,
+        "title": "perf: [high] cache SDK transaction signature verification",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/8140",
+        "repo": "celestia-app",
+        "author": "rach-id",
+        "authorCategory": "coworker",
+        "reviewer": "vgonkivs",
+        "requestedAt": "2026-10-12T13:40:57Z"
+      },
       {
         "number": 5167,
         "title": "cmd: Load configured RPC URL with explicit token",
@@ -445,6 +535,16 @@
     ],
     "theodorebugnet": [
       {
+        "number": 8077,
+        "title": "chore(deps): bump the go-deps group with 12 updates",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/8077",
+        "repo": "celestia-app",
+        "author": "dependabot",
+        "authorCategory": "bot",
+        "reviewer": "theodorebugnet",
+        "requestedAt": "2026-10-05T09:45:19Z"
+      },
+      {
         "number": 5312,
         "title": "fix(nodebuilder/blob): don't panic in submit with --input-file",
         "url": "https://github.com/celestiaorg/celestia-node/pull/5312",
@@ -465,6 +565,16 @@
         "authorCategory": "coworker",
         "reviewer": "walldiss",
         "requestedAt": "2026-10-12T12:59:07Z"
+      },
+      {
+        "number": 5326,
+        "title": "fix(header): serve stored headers when syncer head lags",
+        "url": "https://github.com/celestiaorg/celestia-node/pull/5326",
+        "repo": "celestia-node",
+        "author": "vgonkivs",
+        "authorCategory": "coworker",
+        "reviewer": "walldiss",
+        "requestedAt": "2026-10-12T13:24:34Z"
       },
       {
         "number": 581,
@@ -495,6 +605,16 @@
         "authorCategory": "external",
         "reviewer": "walldiss",
         "requestedAt": "2026-09-25T16:48:54Z"
+      },
+      {
+        "number": 8083,
+        "title": "fix: add timeout to download-genesis requests",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/8083",
+        "repo": "celestia-app",
+        "author": "kleonyuan",
+        "authorCategory": "external",
+        "reviewer": "walldiss",
+        "requestedAt": "2026-10-05T14:09:52Z"
       },
       {
         "number": 5268,
@@ -559,5 +679,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-10-12T13:17:37.691Z"
+  "fetchedAt": "2026-10-12T13:52:55.086Z"
 }
