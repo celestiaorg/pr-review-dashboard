@@ -106,26 +106,6 @@
     ],
     "ninabarbakadze": [
       {
-        "number": 3439,
-        "title": "perf: let the parity PartSet own the Reed-Solomon output buffer",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3439",
-        "repo": "celestia-core",
-        "author": "rach-id",
-        "authorCategory": "coworker",
-        "reviewer": "ninabarbakadze",
-        "requestedAt": "2026-10-10T13:34:16Z"
-      },
-      {
-        "number": 3440,
-        "title": "perf: parallelize Reed-Solomon encoding",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3440",
-        "repo": "celestia-core",
-        "author": "rach-id",
-        "authorCategory": "coworker",
-        "reviewer": "ninabarbakadze",
-        "requestedAt": "2026-10-11T09:36:57Z"
-      },
-      {
         "number": 8139,
         "title": "perf(fibre)!: [high] cache PayForFibre signature verification in one place",
         "url": "https://github.com/celestiaorg/celestia-app/pull/8139",
@@ -668,5 +648,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-10-12T19:55:16.660Z"
+  "fetchedAt": "2026-10-12T20:07:12.429Z"
 }
