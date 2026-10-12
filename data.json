@@ -219,6 +219,16 @@
         "authorCategory": "coworker",
         "reviewer": "rootulp",
         "requestedAt": "2026-10-12T21:16:30Z"
+      },
+      {
+        "number": 8145,
+        "title": "perf(consensus): [low] cut peer_gossip_sleep_duration to 10ms",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/8145",
+        "repo": "celestia-app",
+        "author": "rach-id",
+        "authorCategory": "coworker",
+        "reviewer": "rootulp",
+        "requestedAt": "2026-10-12T21:49:28Z"
       }
     ],
     "vgonkivs": [
@@ -659,5 +669,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-10-12T21:43:59.664Z"
+  "fetchedAt": "2026-10-12T21:52:06.125Z"
 }
