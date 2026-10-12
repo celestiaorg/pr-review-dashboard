@@ -223,16 +223,6 @@
         "requestedAt": "2026-10-06T13:23:56Z"
       },
       {
-        "number": 8137,
-        "title": "fix(fibre): [low] wait for the in-flight store health probe instead of failing fast (backport #8135)",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/8137",
-        "repo": "celestia-app",
-        "author": "mergify",
-        "authorCategory": "bot",
-        "reviewer": "vgonkivs",
-        "requestedAt": "2026-10-11T12:51:55Z"
-      },
-      {
         "number": 5167,
         "title": "cmd: Load configured RPC URL with explicit token",
         "url": "https://github.com/celestiaorg/celestia-node/pull/5167",
@@ -609,5 +599,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-10-12T06:55:23.917Z"
+  "fetchedAt": "2026-10-12T07:32:10.391Z"
 }
