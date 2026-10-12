@@ -32,16 +32,6 @@
         "requestedAt": "2026-10-11T19:14:26Z"
       },
       {
-        "number": 940,
-        "title": "Prepare da-proxy version v0.34.3 for mainnet",
-        "url": "https://github.com/celestiaorg/infrastructure/pull/940",
-        "repo": "infrastructure",
-        "author": "github-actions",
-        "authorCategory": "bot",
-        "reviewer": "chatton",
-        "requestedAt": "2026-10-09T08:38:48Z"
-      },
-      {
         "number": 580,
         "title": "chore(peers): refresh mocha-5 peers",
         "url": "https://github.com/celestiaorg/networks/pull/580",
@@ -92,6 +82,16 @@
         "authorCategory": "external",
         "reviewer": "pippokr",
         "requestedAt": "2026-10-06T08:43:18Z"
+      },
+      {
+        "number": 5325,
+        "title": "fix(shrex_getter): return real row for empty block in GetRow",
+        "url": "https://github.com/celestiaorg/celestia-node/pull/5325",
+        "repo": "celestia-node",
+        "author": "operagxsasha",
+        "authorCategory": "external",
+        "reviewer": "pippokr",
+        "requestedAt": "2026-10-12T11:40:42Z"
       }
     ],
     "ninabarbakadze": [
@@ -619,5 +619,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-10-12T11:36:05.862Z"
+  "fetchedAt": "2026-10-12T11:49:16.531Z"
 }
