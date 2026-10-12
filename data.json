@@ -150,7 +150,7 @@
       },
       {
         "number": 781,
-        "title": "feat(x/auth): pluggable signature verifier on SigVerificationDecorator",
+        "title": "feat(x/auth): [medium] pluggable signature verifier on SigVerificationDecorator",
         "url": "https://github.com/celestiaorg/cosmos-sdk/pull/781",
         "repo": "cosmos-sdk",
         "author": "rach-id",
@@ -619,5 +619,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-10-12T09:09:00.321Z"
+  "fetchedAt": "2026-10-12T09:43:15.051Z"
 }
