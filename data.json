@@ -2,26 +2,6 @@
   "reviews": {
     "chatton": [
       {
-        "number": 941,
-        "title": "fix(monitoring): export installed binary version so da-proxy app drift is visible pre-activation",
-        "url": "https://github.com/celestiaorg/infrastructure/pull/941",
-        "repo": "infrastructure",
-        "author": "pippokr",
-        "authorCategory": "coworker",
-        "reviewer": "chatton",
-        "requestedAt": "2026-10-09T08:37:39Z"
-      },
-      {
-        "number": 942,
-        "title": "docs: fix dead links in app, scripts and node READMEs",
-        "url": "https://github.com/celestiaorg/infrastructure/pull/942",
-        "repo": "infrastructure",
-        "author": "pippokr",
-        "authorCategory": "coworker",
-        "reviewer": "chatton",
-        "requestedAt": "2026-10-09T09:14:54Z"
-      },
-      {
         "number": 943,
         "title": "fix(alert-monitor): silences on fleet-level alerts matched nothing",
         "url": "https://github.com/celestiaorg/infrastructure/pull/943",
@@ -52,6 +32,16 @@
         "authorCategory": "coworker",
         "reviewer": "pippokr",
         "requestedAt": "2026-10-08T13:18:27Z"
+      },
+      {
+        "number": 947,
+        "title": "feat: consolidate evaluator deploying into opt in option for da-proxy",
+        "url": "https://github.com/celestiaorg/infrastructure/pull/947",
+        "repo": "infrastructure",
+        "author": "chatton",
+        "authorCategory": "coworker",
+        "reviewer": "pippokr",
+        "requestedAt": "2026-10-12T12:14:41Z"
       }
     ],
     "ninabarbakadze": [],
@@ -177,5 +167,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-10-12T11:59:11.869Z"
+  "fetchedAt": "2026-10-12T12:45:01.626Z"
 }
