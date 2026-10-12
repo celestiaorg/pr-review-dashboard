@@ -178,26 +178,6 @@
     ],
     "rach-id": [
       {
-        "number": 3443,
-        "title": "build(deps): bump golang.org/x/net to v0.60.0 and Go to 1.26.9 to fix govulncheck",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3443",
-        "repo": "celestia-core",
-        "author": "rootulp",
-        "authorCategory": "coworker",
-        "reviewer": "rach-id",
-        "requestedAt": "2026-10-12T18:54:16Z"
-      },
-      {
-        "number": 582,
-        "title": "ci: disable Mergify merge queue comments",
-        "url": "https://github.com/celestiaorg/networks/pull/582",
-        "repo": "networks",
-        "author": "rootulp",
-        "authorCategory": "coworker",
-        "reviewer": "rach-id",
-        "requestedAt": "2026-10-12T18:55:50Z"
-      },
-      {
         "number": 8143,
         "title": "fix(fibre)!: [medium] require bond denom for escrow deposits and withdrawals",
         "url": "https://github.com/celestiaorg/celestia-app/pull/8143",
@@ -218,16 +198,6 @@
         "authorCategory": "coworker",
         "reviewer": "renaynay",
         "requestedAt": "2026-09-30T10:10:32Z"
-      },
-      {
-        "number": 779,
-        "title": "fix(staking)!: [high] reject weak Ed25519 validator consensus keys",
-        "url": "https://github.com/celestiaorg/cosmos-sdk/pull/779",
-        "repo": "cosmos-sdk",
-        "author": "rach-id",
-        "authorCategory": "coworker",
-        "reviewer": "renaynay",
-        "requestedAt": "2026-10-10T10:38:46Z"
       },
       {
         "number": 419,
@@ -627,16 +597,6 @@
         "requestedAt": "2026-10-12T13:24:34Z"
       },
       {
-        "number": 782,
-        "title": "ci: disable Mergify merge queue comments",
-        "url": "https://github.com/celestiaorg/cosmos-sdk/pull/782",
-        "repo": "cosmos-sdk",
-        "author": "rootulp",
-        "authorCategory": "coworker",
-        "reviewer": "walldiss",
-        "requestedAt": "2026-10-12T18:55:19Z"
-      },
-      {
         "number": 581,
         "title": "chore(peers): refresh mainnet peers + addrbook",
         "url": "https://github.com/celestiaorg/networks/pull/581",
@@ -739,5 +699,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-10-12T19:11:26.535Z"
+  "fetchedAt": "2026-10-12T19:24:28.972Z"
 }
