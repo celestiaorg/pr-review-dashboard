@@ -231,26 +231,6 @@
         "requestedAt": "2026-10-11T09:36:56Z"
       },
       {
-        "number": 8122,
-        "title": "feat(fibre)!: [high] verify validator certificate signatures under ZIP-215",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/8122",
-        "repo": "celestia-app",
-        "author": "rach-id",
-        "authorCategory": "coworker",
-        "reviewer": "rootulp",
-        "requestedAt": "2026-10-11T09:48:46Z"
-      },
-      {
-        "number": 779,
-        "title": "fix(staking)!: [high] reject weak Ed25519 validator consensus keys",
-        "url": "https://github.com/celestiaorg/cosmos-sdk/pull/779",
-        "repo": "cosmos-sdk",
-        "author": "rach-id",
-        "authorCategory": "coworker",
-        "reviewer": "rootulp",
-        "requestedAt": "2026-10-12T08:44:39Z"
-      },
-      {
         "number": 8127,
         "title": "chore(deps): [low] bump rustls from 0.23.35 to 0.23.45 in /tools/lumina-latency-monitor",
         "url": "https://github.com/celestiaorg/celestia-app/pull/8127",
@@ -689,5 +669,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-10-12T18:18:05.025Z"
+  "fetchedAt": "2026-10-12T18:40:46.543Z"
 }
