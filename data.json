@@ -637,16 +637,6 @@
         "requestedAt": "2026-10-12T18:55:19Z"
       },
       {
-        "number": 1128,
-        "title": "docs: organize README crate badges and remove broken website",
-        "url": "https://github.com/celestiaorg/lumina/pull/1128",
-        "repo": "lumina",
-        "author": "rootulp",
-        "authorCategory": "coworker",
-        "reviewer": "walldiss",
-        "requestedAt": "2026-10-12T18:56:41Z"
-      },
-      {
         "number": 581,
         "title": "chore(peers): refresh mainnet peers + addrbook",
         "url": "https://github.com/celestiaorg/networks/pull/581",
@@ -749,5 +739,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-10-12T18:56:49.817Z"
+  "fetchedAt": "2026-10-12T19:11:26.535Z"
 }
