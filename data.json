@@ -239,6 +239,16 @@
         "requestedAt": "2026-10-13T10:45:47Z"
       },
       {
+        "number": 303,
+        "title": "perf: accept pre-decoded blob txs in ClassifiedTx",
+        "url": "https://github.com/celestiaorg/go-square/pull/303",
+        "repo": "go-square",
+        "author": "rach-id",
+        "authorCategory": "coworker",
+        "reviewer": "renaynay",
+        "requestedAt": "2026-10-13T15:54:21Z"
+      },
+      {
         "number": 8092,
         "title": "chore(deps): bump rustls from 0.23.37 to 0.23.45 in /tools/rust-fibre-txsim",
         "url": "https://github.com/celestiaorg/celestia-app/pull/8092",
@@ -769,5 +779,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-10-13T15:49:55.328Z"
+  "fetchedAt": "2026-10-13T15:58:42.907Z"
 }
