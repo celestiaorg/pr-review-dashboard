@@ -186,7 +186,18 @@
         "requestedAt": "2026-10-13T04:08:08Z"
       }
     ],
-    "rach-id": [],
+    "rach-id": [
+      {
+        "number": 8153,
+        "title": "test(fibre): [low] raise e2e RPC timeout for 100MiB upload under race",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/8153",
+        "repo": "celestia-app",
+        "author": "rootulp",
+        "authorCategory": "coworker",
+        "reviewer": "rach-id",
+        "requestedAt": "2026-10-13T22:12:49Z"
+      }
+    ],
     "renaynay": [
       {
         "number": 119,
@@ -237,16 +248,6 @@
         "authorCategory": "coworker",
         "reviewer": "renaynay",
         "requestedAt": "2026-10-13T15:54:21Z"
-      },
-      {
-        "number": 8153,
-        "title": "test(fibre): [low] raise e2e RPC timeout for 100MiB upload under race",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/8153",
-        "repo": "celestia-app",
-        "author": "rootulp",
-        "authorCategory": "coworker",
-        "reviewer": "renaynay",
-        "requestedAt": "2026-10-13T21:44:48Z"
       },
       {
         "number": 8092,
@@ -749,5 +750,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-10-13T21:57:28.721Z"
+  "fetchedAt": "2026-10-13T22:13:53.197Z"
 }
