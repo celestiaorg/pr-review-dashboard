@@ -186,18 +186,7 @@
         "requestedAt": "2026-10-13T04:08:08Z"
       }
     ],
-    "rach-id": [
-      {
-        "number": 8154,
-        "title": "feat(fibre): [low] add read-only Fibre store inspection ",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/8154",
-        "repo": "celestia-app",
-        "author": "pmensik",
-        "authorCategory": "external",
-        "reviewer": "rach-id",
-        "requestedAt": "2026-10-13T14:25:10Z"
-      }
-    ],
+    "rach-id": [],
     "renaynay": [
       {
         "number": 119,
@@ -780,5 +769,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-10-13T14:58:15.104Z"
+  "fetchedAt": "2026-10-13T15:21:30.452Z"
 }
