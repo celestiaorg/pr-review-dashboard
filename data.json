@@ -170,7 +170,7 @@
       },
       {
         "number": 419,
-        "title": "fix(sync): prevent stale pending headers from regressing local head",
+        "title": "fix(sync): [high] prevent stale pending headers from regressing local head",
         "url": "https://github.com/celestiaorg/go-header/pull/419",
         "repo": "go-header",
         "author": "vgonkivs",
@@ -567,7 +567,7 @@
     "walldiss": [
       {
         "number": 419,
-        "title": "fix(sync): prevent stale pending headers from regressing local head",
+        "title": "fix(sync): [high] prevent stale pending headers from regressing local head",
         "url": "https://github.com/celestiaorg/go-header/pull/419",
         "repo": "go-header",
         "author": "vgonkivs",
@@ -698,5 +698,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-10-13T09:04:42.762Z"
+  "fetchedAt": "2026-10-13T09:30:55.264Z"
 }
