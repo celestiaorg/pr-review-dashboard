@@ -64,6 +64,16 @@
         "requestedAt": "2026-10-12T12:14:41Z"
       },
       {
+        "number": 8141,
+        "title": "perf(fibre): [high] verify a block's PayForFibre signatures across every CPU",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/8141",
+        "repo": "celestia-app",
+        "author": "rach-id",
+        "authorCategory": "coworker",
+        "reviewer": "pippokr",
+        "requestedAt": "2026-10-13T13:14:50Z"
+      },
+      {
         "number": 8148,
         "title": "chore(deps): [high] bump the go-deps group across 1 directory with 27 updates",
         "url": "https://github.com/celestiaorg/celestia-app/pull/8148",
@@ -259,6 +269,16 @@
         "authorCategory": "coworker",
         "reviewer": "rootulp",
         "requestedAt": "2026-10-13T10:45:58Z"
+      },
+      {
+        "number": 8141,
+        "title": "perf(fibre): [high] verify a block's PayForFibre signatures across every CPU",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/8141",
+        "repo": "celestia-app",
+        "author": "rach-id",
+        "authorCategory": "coworker",
+        "reviewer": "rootulp",
+        "requestedAt": "2026-10-13T13:15:02Z"
       }
     ],
     "vgonkivs": [
@@ -719,5 +739,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-10-13T12:58:40.290Z"
+  "fetchedAt": "2026-10-13T13:27:58.461Z"
 }
