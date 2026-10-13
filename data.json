@@ -146,7 +146,18 @@
         "requestedAt": "2026-10-13T04:08:08Z"
       }
     ],
-    "rach-id": [],
+    "rach-id": [
+      {
+        "number": 5327,
+        "title": "chore(deps): bump linear/linear-release-action from 0.18.0 to 0.18.1 in the patch-updates group",
+        "url": "https://github.com/celestiaorg/celestia-node/pull/5327",
+        "repo": "celestia-node",
+        "author": "dependabot",
+        "authorCategory": "bot",
+        "reviewer": "rach-id",
+        "requestedAt": "2026-10-13T07:09:22Z"
+      }
+    ],
     "renaynay": [
       {
         "number": 119,
@@ -260,6 +271,16 @@
         "authorCategory": "coworker",
         "reviewer": "vgonkivs",
         "requestedAt": "2026-10-12T18:55:53Z"
+      },
+      {
+        "number": 5328,
+        "title": "chore(deps): bump actions/upload-artifact from 4 to 6",
+        "url": "https://github.com/celestiaorg/celestia-node/pull/5328",
+        "repo": "celestia-node",
+        "author": "dependabot",
+        "authorCategory": "bot",
+        "reviewer": "vgonkivs",
+        "requestedAt": "2026-10-13T07:09:47Z"
       },
       {
         "number": 5167,
@@ -576,6 +597,16 @@
         "requestedAt": "2026-10-12T00:19:19Z"
       },
       {
+        "number": 5330,
+        "title": "chore(deps): bump the go-deps group across 2 directories with 16 updates",
+        "url": "https://github.com/celestiaorg/celestia-node/pull/5330",
+        "repo": "celestia-node",
+        "author": "dependabot",
+        "authorCategory": "bot",
+        "reviewer": "walldiss",
+        "requestedAt": "2026-10-13T07:20:14Z"
+      },
+      {
         "number": 5264,
         "title": "fix(fibre): detach Upload's shard fan-out from the caller ctx",
         "url": "https://github.com/celestiaorg/celestia-node/pull/5264",
@@ -668,5 +699,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-10-13T07:06:40.972Z"
+  "fetchedAt": "2026-10-13T07:36:25.322Z"
 }
