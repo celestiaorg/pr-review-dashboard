@@ -176,7 +176,18 @@
         "requestedAt": "2026-10-13T04:08:08Z"
       }
     ],
-    "rach-id": [],
+    "rach-id": [
+      {
+        "number": 8154,
+        "title": "feat(fibre): [low] add read-only Fibre store inspection ",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/8154",
+        "repo": "celestia-app",
+        "author": "pmensik",
+        "authorCategory": "external",
+        "reviewer": "rach-id",
+        "requestedAt": "2026-10-13T14:25:10Z"
+      }
+    ],
     "renaynay": [
       {
         "number": 119,
@@ -595,6 +606,16 @@
         "requestedAt": "2026-10-12T18:55:45Z"
       },
       {
+        "number": 303,
+        "title": "perf: accept pre-decoded blob txs in ClassifiedTx",
+        "url": "https://github.com/celestiaorg/go-square/pull/303",
+        "repo": "go-square",
+        "author": "rach-id",
+        "authorCategory": "coworker",
+        "reviewer": "theodorebugnet",
+        "requestedAt": "2026-10-13T14:23:44Z"
+      },
+      {
         "number": 8150,
         "title": "chore(deps): [medium] bump the go-deps-docker-e2e group in /test/docker-e2e with 4 updates",
         "url": "https://github.com/celestiaorg/celestia-app/pull/8150",
@@ -749,5 +770,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-10-13T14:01:33.952Z"
+  "fetchedAt": "2026-10-13T14:26:31.882Z"
 }
