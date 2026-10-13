@@ -197,6 +197,16 @@
         "authorCategory": "external",
         "reviewer": "renaynay",
         "requestedAt": "2026-10-06T06:47:03Z"
+      },
+      {
+        "number": 8147,
+        "title": "fix(fibre)!: [low] bound the payment promise height window",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/8147",
+        "repo": "celestia-app",
+        "author": "durenodes",
+        "authorCategory": "external",
+        "reviewer": "renaynay",
+        "requestedAt": "2026-10-13T01:01:41Z"
       }
     ],
     "rootulp": [
@@ -669,5 +679,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-10-13T00:05:47.946Z"
+  "fetchedAt": "2026-10-13T01:05:44.290Z"
 }
