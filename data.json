@@ -50,6 +50,16 @@
         "authorCategory": "bot",
         "reviewer": "chatton",
         "requestedAt": "2026-10-12T00:19:02Z"
+      },
+      {
+        "number": 8155,
+        "title": "fix(fibre): [low] shorten idle connection timeouts (backport #8151)",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/8155",
+        "repo": "celestia-app",
+        "author": "mergify",
+        "authorCategory": "bot",
+        "reviewer": "chatton",
+        "requestedAt": "2026-10-13T15:48:00Z"
       }
     ],
     "pippokr": [
@@ -270,16 +280,6 @@
       }
     ],
     "rootulp": [
-      {
-        "number": 8151,
-        "title": "fix(fibre): [low] shorten idle connection timeouts",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/8151",
-        "repo": "celestia-app",
-        "author": "renaynay",
-        "authorCategory": "coworker",
-        "reviewer": "rootulp",
-        "requestedAt": "2026-10-13T09:41:20Z"
-      },
       {
         "number": 8146,
         "title": "perf(app): [high] reuse what CheckTx admitted on a PayForFibre recheck",
@@ -769,5 +769,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-10-13T15:36:21.867Z"
+  "fetchedAt": "2026-10-13T15:49:55.328Z"
 }
