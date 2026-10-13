@@ -156,6 +156,16 @@
         "requestedAt": "2026-10-12T18:55:37Z"
       },
       {
+        "number": 8124,
+        "title": "perf(app): [high] reuse the proposer's own PrepareProposal artifacts",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/8124",
+        "repo": "celestia-app",
+        "author": "rach-id",
+        "authorCategory": "coworker",
+        "reviewer": "ninabarbakadze",
+        "requestedAt": "2026-10-13T13:52:18Z"
+      },
+      {
         "number": 8149,
         "title": "chore(deps): [medium] bump linear/linear-release-action from 0.18.0 to 0.18.1 in the github-actions group",
         "url": "https://github.com/celestiaorg/celestia-app/pull/8149",
@@ -739,5 +749,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-10-13T13:49:35.223Z"
+  "fetchedAt": "2026-10-13T14:01:33.952Z"
 }
