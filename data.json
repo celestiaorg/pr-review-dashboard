@@ -229,38 +229,7 @@
         "requestedAt": "2026-10-13T01:01:41Z"
       }
     ],
-    "rootulp": [
-      {
-        "number": 8139,
-        "title": "perf(fibre)!: [high] cache PayForFibre signature verification in one place",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/8139",
-        "repo": "celestia-app",
-        "author": "rach-id",
-        "authorCategory": "coworker",
-        "reviewer": "rootulp",
-        "requestedAt": "2026-10-12T21:16:27Z"
-      },
-      {
-        "number": 8140,
-        "title": "perf: [high] cache SDK transaction signature verification",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/8140",
-        "repo": "celestia-app",
-        "author": "rach-id",
-        "authorCategory": "coworker",
-        "reviewer": "rootulp",
-        "requestedAt": "2026-10-12T21:16:30Z"
-      },
-      {
-        "number": 8145,
-        "title": "perf(consensus): [low] cut peer_gossip_sleep_duration to 10ms",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/8145",
-        "repo": "celestia-app",
-        "author": "rach-id",
-        "authorCategory": "coworker",
-        "reviewer": "rootulp",
-        "requestedAt": "2026-10-12T21:49:28Z"
-      }
-    ],
+    "rootulp": [],
     "vgonkivs": [
       {
         "number": 8089,
@@ -699,5 +668,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-10-13T05:57:50.270Z"
+  "fetchedAt": "2026-10-13T06:37:05.014Z"
 }
