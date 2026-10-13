@@ -180,7 +180,7 @@
       },
       {
         "number": 5326,
-        "title": "fix(header): serve stored headers when syncer head lags",
+        "title": "fix(header): [medium] serve stored headers when syncer head lags",
         "url": "https://github.com/celestiaorg/celestia-node/pull/5326",
         "repo": "celestia-node",
         "author": "vgonkivs",
@@ -239,7 +239,18 @@
         "requestedAt": "2026-10-13T01:01:41Z"
       }
     ],
-    "rootulp": [],
+    "rootulp": [
+      {
+        "number": 8151,
+        "title": "fix(fibre): [low] shorten idle connection timeouts",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/8151",
+        "repo": "celestia-app",
+        "author": "renaynay",
+        "authorCategory": "coworker",
+        "reviewer": "rootulp",
+        "requestedAt": "2026-10-13T09:41:20Z"
+      }
+    ],
     "vgonkivs": [
       {
         "number": 8089,
@@ -577,7 +588,7 @@
       },
       {
         "number": 5326,
-        "title": "fix(header): serve stored headers when syncer head lags",
+        "title": "fix(header): [medium] serve stored headers when syncer head lags",
         "url": "https://github.com/celestiaorg/celestia-node/pull/5326",
         "repo": "celestia-node",
         "author": "vgonkivs",
@@ -698,5 +709,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-10-13T09:30:55.264Z"
+  "fetchedAt": "2026-10-13T09:49:28.172Z"
 }
