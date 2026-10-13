@@ -32,6 +32,16 @@
         "requestedAt": "2026-10-13T08:58:53Z"
       },
       {
+        "number": 952,
+        "title": "fix(celestia-app): [medium] git safe.directory seeding works in dry-run (PR #951)",
+        "url": "https://github.com/celestiaorg/infrastructure/pull/952",
+        "repo": "infrastructure",
+        "author": "pippokr",
+        "authorCategory": "coworker",
+        "reviewer": "chatton",
+        "requestedAt": "2026-10-13T14:29:55Z"
+      },
+      {
         "number": 580,
         "title": "chore(peers): refresh mocha-5 peers",
         "url": "https://github.com/celestiaorg/networks/pull/580",
@@ -300,6 +310,16 @@
         "authorCategory": "coworker",
         "reviewer": "rootulp",
         "requestedAt": "2026-10-13T13:15:02Z"
+      },
+      {
+        "number": 303,
+        "title": "perf: accept pre-decoded blob txs in ClassifiedTx",
+        "url": "https://github.com/celestiaorg/go-square/pull/303",
+        "repo": "go-square",
+        "author": "rach-id",
+        "authorCategory": "coworker",
+        "reviewer": "rootulp",
+        "requestedAt": "2026-10-13T14:36:44Z"
       }
     ],
     "vgonkivs": [
@@ -332,6 +352,16 @@
         "authorCategory": "coworker",
         "reviewer": "vgonkivs",
         "requestedAt": "2026-10-12T18:55:53Z"
+      },
+      {
+        "number": 5331,
+        "title": "fix(p2p): remove Binary Builders bootstrapper",
+        "url": "https://github.com/celestiaorg/celestia-node/pull/5331",
+        "repo": "celestia-node",
+        "author": "rootulp",
+        "authorCategory": "coworker",
+        "reviewer": "vgonkivs",
+        "requestedAt": "2026-10-13T14:29:19Z"
       },
       {
         "number": 5328,
@@ -606,16 +636,6 @@
         "requestedAt": "2026-10-12T18:55:45Z"
       },
       {
-        "number": 303,
-        "title": "perf: accept pre-decoded blob txs in ClassifiedTx",
-        "url": "https://github.com/celestiaorg/go-square/pull/303",
-        "repo": "go-square",
-        "author": "rach-id",
-        "authorCategory": "coworker",
-        "reviewer": "theodorebugnet",
-        "requestedAt": "2026-10-13T14:23:44Z"
-      },
-      {
         "number": 8150,
         "title": "chore(deps): [medium] bump the go-deps-docker-e2e group in /test/docker-e2e with 4 updates",
         "url": "https://github.com/celestiaorg/celestia-app/pull/8150",
@@ -770,5 +790,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-10-13T14:26:31.882Z"
+  "fetchedAt": "2026-10-13T14:44:36.698Z"
 }
