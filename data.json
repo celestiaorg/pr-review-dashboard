@@ -573,16 +573,6 @@
         "requestedAt": "2026-09-28T14:06:25Z"
       },
       {
-        "number": 5266,
-        "title": "fix(das): resume an interrupted recent job after restart",
-        "url": "https://github.com/celestiaorg/celestia-node/pull/5266",
-        "repo": "celestia-node",
-        "author": "0xShadowX",
-        "authorCategory": "external",
-        "reviewer": "vgonkivs",
-        "requestedAt": "2026-09-29T10:28:54Z"
-      },
-      {
         "number": 3427,
         "title": "fix(state): don't hang CreateProposalBlock on a single-CPU machine",
         "url": "https://github.com/celestiaorg/celestia-core/pull/3427",
@@ -759,5 +749,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-10-13T17:00:09.706Z"
+  "fetchedAt": "2026-10-13T17:20:02.236Z"
 }
