@@ -239,6 +239,16 @@
         "requestedAt": "2026-10-13T15:54:21Z"
       },
       {
+        "number": 8153,
+        "title": "test(fibre): [low] raise e2e RPC timeout for 100MiB upload under race",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/8153",
+        "repo": "celestia-app",
+        "author": "rootulp",
+        "authorCategory": "coworker",
+        "reviewer": "renaynay",
+        "requestedAt": "2026-10-13T21:44:48Z"
+      },
+      {
         "number": 8092,
         "title": "chore(deps): bump rustls from 0.23.37 to 0.23.45 in /tools/rust-fibre-txsim",
         "url": "https://github.com/celestiaorg/celestia-app/pull/8092",
@@ -739,5 +749,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-10-13T21:44:02.477Z"
+  "fetchedAt": "2026-10-13T21:51:00.552Z"
 }
