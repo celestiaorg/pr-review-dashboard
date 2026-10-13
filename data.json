@@ -94,16 +94,6 @@
         "requestedAt": "2026-10-13T13:14:50Z"
       },
       {
-        "number": 953,
-        "title": "feat(corto-10): per-client capacity reservations, fast scale-in, load history",
-        "url": "https://github.com/celestiaorg/infrastructure/pull/953",
-        "repo": "infrastructure",
-        "author": "walldiss",
-        "authorCategory": "coworker",
-        "reviewer": "pippokr",
-        "requestedAt": "2026-10-13T16:52:41Z"
-      },
-      {
         "number": 8148,
         "title": "chore(deps): [high] bump the go-deps group across 1 directory with 27 updates",
         "url": "https://github.com/celestiaorg/celestia-app/pull/8148",
@@ -749,5 +739,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-10-13T19:59:18.571Z"
+  "fetchedAt": "2026-10-13T20:20:44.100Z"
 }
