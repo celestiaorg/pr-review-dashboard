@@ -146,18 +146,7 @@
         "requestedAt": "2026-10-13T04:08:08Z"
       }
     ],
-    "rach-id": [
-      {
-        "number": 5327,
-        "title": "chore(deps): bump linear/linear-release-action from 0.18.0 to 0.18.1 in the patch-updates group",
-        "url": "https://github.com/celestiaorg/celestia-node/pull/5327",
-        "repo": "celestia-node",
-        "author": "dependabot",
-        "authorCategory": "bot",
-        "reviewer": "rach-id",
-        "requestedAt": "2026-10-13T07:09:22Z"
-      }
-    ],
+    "rach-id": [],
     "renaynay": [
       {
         "number": 119,
@@ -699,5 +688,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-10-13T07:36:25.322Z"
+  "fetchedAt": "2026-10-13T07:56:41.222Z"
 }
