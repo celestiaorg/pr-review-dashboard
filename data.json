@@ -354,16 +354,6 @@
         "requestedAt": "2026-10-12T18:55:53Z"
       },
       {
-        "number": 5331,
-        "title": "fix(p2p): remove Binary Builders bootstrapper",
-        "url": "https://github.com/celestiaorg/celestia-node/pull/5331",
-        "repo": "celestia-node",
-        "author": "rootulp",
-        "authorCategory": "coworker",
-        "reviewer": "vgonkivs",
-        "requestedAt": "2026-10-13T14:29:19Z"
-      },
-      {
         "number": 5328,
         "title": "chore(deps): bump actions/upload-artifact from 4 to 6",
         "url": "https://github.com/celestiaorg/celestia-node/pull/5328",
@@ -790,5 +780,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-10-13T14:44:36.698Z"
+  "fetchedAt": "2026-10-13T14:58:15.104Z"
 }
