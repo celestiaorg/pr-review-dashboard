@@ -54,6 +54,16 @@
         "requestedAt": "2026-10-12T12:14:41Z"
       },
       {
+        "number": 8148,
+        "title": "chore(deps): [high] bump the go-deps group across 1 directory with 27 updates",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/8148",
+        "repo": "celestia-app",
+        "author": "dependabot",
+        "authorCategory": "bot",
+        "reviewer": "pippokr",
+        "requestedAt": "2026-10-13T04:06:00Z"
+      },
+      {
         "number": 5280,
         "title": "fix(state/cmd): return an error on the wrong address kind",
         "url": "https://github.com/celestiaorg/celestia-node/pull/5280",
@@ -124,6 +134,16 @@
         "authorCategory": "coworker",
         "reviewer": "ninabarbakadze",
         "requestedAt": "2026-10-12T18:55:37Z"
+      },
+      {
+        "number": 8149,
+        "title": "chore(deps): [medium] bump linear/linear-release-action from 0.18.0 to 0.18.1 in the github-actions group",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/8149",
+        "repo": "celestia-app",
+        "author": "dependabot",
+        "authorCategory": "bot",
+        "reviewer": "ninabarbakadze",
+        "requestedAt": "2026-10-13T04:08:08Z"
       }
     ],
     "rach-id": [],
@@ -535,14 +555,14 @@
         "requestedAt": "2026-10-12T18:55:45Z"
       },
       {
-        "number": 8077,
-        "title": "chore(deps): bump the go-deps group with 12 updates",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/8077",
+        "number": 8150,
+        "title": "chore(deps): [medium] bump the go-deps-docker-e2e group in /test/docker-e2e with 4 updates",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/8150",
         "repo": "celestia-app",
         "author": "dependabot",
         "authorCategory": "bot",
         "reviewer": "theodorebugnet",
-        "requestedAt": "2026-10-05T09:45:19Z"
+        "requestedAt": "2026-10-13T04:09:40Z"
       },
       {
         "number": 5312,
@@ -679,5 +699,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-10-13T03:57:37.526Z"
+  "fetchedAt": "2026-10-13T04:26:43.048Z"
 }
