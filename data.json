@@ -169,16 +169,6 @@
         "requestedAt": "2026-09-30T10:10:32Z"
       },
       {
-        "number": 419,
-        "title": "fix(sync): [high] prevent stale pending headers from regressing local head",
-        "url": "https://github.com/celestiaorg/go-header/pull/419",
-        "repo": "go-header",
-        "author": "vgonkivs",
-        "authorCategory": "coworker",
-        "reviewer": "renaynay",
-        "requestedAt": "2026-10-12T12:59:07Z"
-      },
-      {
         "number": 5326,
         "title": "fix(header): [medium] serve stored headers when syncer head lags",
         "url": "https://github.com/celestiaorg/celestia-node/pull/5326",
@@ -729,5 +719,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-10-13T11:58:41.876Z"
+  "fetchedAt": "2026-10-13T12:33:10.723Z"
 }
