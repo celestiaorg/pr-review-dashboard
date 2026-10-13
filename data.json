@@ -94,6 +94,16 @@
         "requestedAt": "2026-10-13T13:14:50Z"
       },
       {
+        "number": 953,
+        "title": "feat(corto-10): per-client capacity reservations, fast scale-in, load history",
+        "url": "https://github.com/celestiaorg/infrastructure/pull/953",
+        "repo": "infrastructure",
+        "author": "walldiss",
+        "authorCategory": "coworker",
+        "reviewer": "pippokr",
+        "requestedAt": "2026-10-13T16:52:41Z"
+      },
+      {
         "number": 8148,
         "title": "chore(deps): [high] bump the go-deps group across 1 directory with 27 updates",
         "url": "https://github.com/celestiaorg/celestia-app/pull/8148",
@@ -667,26 +677,6 @@
         "requestedAt": "2026-10-13T16:01:47Z"
       },
       {
-        "number": 581,
-        "title": "chore(peers): refresh mainnet peers + addrbook",
-        "url": "https://github.com/celestiaorg/networks/pull/581",
-        "repo": "networks",
-        "author": "github-actions",
-        "authorCategory": "bot",
-        "reviewer": "walldiss",
-        "requestedAt": "2026-10-12T00:19:19Z"
-      },
-      {
-        "number": 5330,
-        "title": "chore(deps): bump the go-deps group across 2 directories with 16 updates",
-        "url": "https://github.com/celestiaorg/celestia-node/pull/5330",
-        "repo": "celestia-node",
-        "author": "dependabot",
-        "authorCategory": "bot",
-        "reviewer": "walldiss",
-        "requestedAt": "2026-10-13T07:20:14Z"
-      },
-      {
         "number": 5264,
         "title": "fix(fibre): detach Upload's shard fan-out from the caller ctx",
         "url": "https://github.com/celestiaorg/celestia-node/pull/5264",
@@ -705,16 +695,6 @@
         "authorCategory": "external",
         "reviewer": "walldiss",
         "requestedAt": "2026-09-25T16:48:54Z"
-      },
-      {
-        "number": 8083,
-        "title": "fix: add timeout to download-genesis requests",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/8083",
-        "repo": "celestia-app",
-        "author": "kleonyuan",
-        "authorCategory": "external",
-        "reviewer": "walldiss",
-        "requestedAt": "2026-10-05T14:09:52Z"
       },
       {
         "number": 5268,
@@ -779,5 +759,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-10-13T16:52:09.502Z"
+  "fetchedAt": "2026-10-13T17:00:09.706Z"
 }
