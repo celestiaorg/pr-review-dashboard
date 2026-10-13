@@ -186,18 +186,7 @@
         "requestedAt": "2026-10-13T04:08:08Z"
       }
     ],
-    "rach-id": [
-      {
-        "number": 8153,
-        "title": "test(fibre): [low] raise e2e RPC timeout for 100MiB upload under race",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/8153",
-        "repo": "celestia-app",
-        "author": "rootulp",
-        "authorCategory": "coworker",
-        "reviewer": "rach-id",
-        "requestedAt": "2026-10-13T22:12:49Z"
-      }
-    ],
+    "rach-id": [],
     "renaynay": [
       {
         "number": 119,
@@ -310,16 +299,6 @@
         "authorCategory": "coworker",
         "reviewer": "rootulp",
         "requestedAt": "2026-10-13T13:15:02Z"
-      },
-      {
-        "number": 303,
-        "title": "perf: accept pre-decoded blob txs in ClassifiedTx",
-        "url": "https://github.com/celestiaorg/go-square/pull/303",
-        "repo": "go-square",
-        "author": "rach-id",
-        "authorCategory": "coworker",
-        "reviewer": "rootulp",
-        "requestedAt": "2026-10-13T14:36:44Z"
       }
     ],
     "vgonkivs": [
@@ -750,5 +729,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-10-13T22:13:53.197Z"
+  "fetchedAt": "2026-10-13T22:26:06.267Z"
 }
