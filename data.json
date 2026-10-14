@@ -22,6 +22,16 @@
         "requestedAt": "2026-10-14T07:44:21Z"
       },
       {
+        "number": 8173,
+        "title": "ci: [low] supersede obsolete PR runs and run CodeQL on stacked PRs",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/8173",
+        "repo": "celestia-app",
+        "author": "rach-id",
+        "authorCategory": "coworker",
+        "reviewer": "chatton",
+        "requestedAt": "2026-10-14T11:03:05Z"
+      },
+      {
         "number": 580,
         "title": "chore(peers): refresh mocha-5 peers",
         "url": "https://github.com/celestiaorg/networks/pull/580",
@@ -62,6 +72,16 @@
         "authorCategory": "coworker",
         "reviewer": "pippokr",
         "requestedAt": "2026-10-14T06:24:24Z"
+      },
+      {
+        "number": 956,
+        "title": "feat(corto-10): private.cf DNS name mirrored by the autoscaler",
+        "url": "https://github.com/celestiaorg/infrastructure/pull/956",
+        "repo": "infrastructure",
+        "author": "walldiss",
+        "authorCategory": "coworker",
+        "reviewer": "pippokr",
+        "requestedAt": "2026-10-14T11:15:16Z"
       },
       {
         "number": 5309,
@@ -114,6 +134,16 @@
         "authorCategory": "coworker",
         "reviewer": "ninabarbakadze",
         "requestedAt": "2026-10-14T06:27:20Z"
+      },
+      {
+        "number": 8152,
+        "title": "perf(app): [high] decode each transaction once per ABCI phase",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/8152",
+        "repo": "celestia-app",
+        "author": "rach-id",
+        "authorCategory": "coworker",
+        "reviewer": "ninabarbakadze",
+        "requestedAt": "2026-10-14T11:08:04Z"
       }
     ],
     "rach-id": [],
@@ -167,16 +197,6 @@
         "authorCategory": "coworker",
         "reviewer": "renaynay",
         "requestedAt": "2026-10-14T07:44:35Z"
-      },
-      {
-        "number": 421,
-        "title": "fix(sync): don't skip heights when syncStore.Append fails or races [high]",
-        "url": "https://github.com/celestiaorg/go-header/pull/421",
-        "repo": "go-header",
-        "author": "vgonkivs",
-        "authorCategory": "coworker",
-        "reviewer": "renaynay",
-        "requestedAt": "2026-10-14T08:26:38Z"
       },
       {
         "number": 5314,
@@ -629,5 +649,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-10-14T11:00:02.885Z"
+  "fetchedAt": "2026-10-14T11:19:22.421Z"
 }
