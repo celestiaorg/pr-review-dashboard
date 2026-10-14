@@ -22,6 +22,26 @@
         "requestedAt": "2026-10-14T13:15:15Z"
       },
       {
+        "number": 962,
+        "title": "security(mainnet): [high] guard published node_key identities against stale 1Password copies (PR #891)",
+        "url": "https://github.com/celestiaorg/infrastructure/pull/962",
+        "repo": "infrastructure",
+        "author": "pippokr",
+        "authorCategory": "coworker",
+        "reviewer": "chatton",
+        "requestedAt": "2026-10-14T13:25:55Z"
+      },
+      {
+        "number": 961,
+        "title": "security(corto): [low] pin bonded validator identities before any key write (PR #891)",
+        "url": "https://github.com/celestiaorg/infrastructure/pull/961",
+        "repo": "infrastructure",
+        "author": "pippokr",
+        "authorCategory": "coworker",
+        "reviewer": "chatton",
+        "requestedAt": "2026-10-14T13:27:09Z"
+      },
+      {
         "number": 8155,
         "title": "fix(fibre): [low] shorten idle connection timeouts (backport #8151)",
         "url": "https://github.com/celestiaorg/celestia-app/pull/8155",
@@ -90,7 +110,7 @@
       },
       {
         "number": 422,
-        "title": "fix(sync): don't stall network head validation behind a blocked append",
+        "title": "fix(sync): don't stall network head validation behind a blocked append[high]",
         "url": "https://github.com/celestiaorg/go-header/pull/422",
         "repo": "go-header",
         "author": "vgonkivs",
@@ -223,16 +243,6 @@
         "requestedAt": "2026-08-28T19:04:55Z"
       },
       {
-        "number": 5284,
-        "title": "fix(blob): return errors instead of panicking on malformed proofs",
-        "url": "https://github.com/celestiaorg/celestia-node/pull/5284",
-        "repo": "celestia-node",
-        "author": "Bruce039",
-        "authorCategory": "external",
-        "reviewer": "vgonkivs",
-        "requestedAt": "2026-09-25T17:00:15Z"
-      },
-      {
         "number": 417,
         "title": "ci: run tests with race detector",
         "url": "https://github.com/celestiaorg/go-header/pull/417",
@@ -338,7 +348,7 @@
       },
       {
         "number": 422,
-        "title": "fix(sync): don't stall network head validation behind a blocked append",
+        "title": "fix(sync): don't stall network head validation behind a blocked append[high]",
         "url": "https://github.com/celestiaorg/go-header/pull/422",
         "repo": "go-header",
         "author": "vgonkivs",
@@ -409,5 +419,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-10-14T13:24:16.430Z"
+  "fetchedAt": "2026-10-14T13:34:50.875Z"
 }
