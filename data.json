@@ -447,6 +447,16 @@
         "requestedAt": "2026-10-14T20:09:40Z"
       },
       {
+        "number": 3470,
+        "title": "build(deps): Bump golang.org/x/sync from 0.23.0 to 0.24.0",
+        "url": "https://github.com/celestiaorg/celestia-core/pull/3470",
+        "repo": "celestia-core",
+        "author": "dependabot",
+        "authorCategory": "bot",
+        "reviewer": "walldiss",
+        "requestedAt": "2026-10-14T21:04:22Z"
+      },
+      {
         "number": 5268,
         "title": "fix(api/client): use the configured conn for the fibre state client",
         "url": "https://github.com/celestiaorg/celestia-node/pull/5268",
@@ -509,5 +519,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-10-14T20:56:29.313Z"
+  "fetchedAt": "2026-10-14T21:10:35.151Z"
 }
