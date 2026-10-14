@@ -219,6 +219,16 @@
         "authorCategory": "coworker",
         "reviewer": "rootulp",
         "requestedAt": "2026-10-14T08:05:06Z"
+      },
+      {
+        "number": 8146,
+        "title": "perf(app): [high] reuse what CheckTx admitted on a PayForFibre recheck",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/8146",
+        "repo": "celestia-app",
+        "author": "rach-id",
+        "authorCategory": "coworker",
+        "reviewer": "rootulp",
+        "requestedAt": "2026-10-14T10:09:04Z"
       }
     ],
     "vgonkivs": [
@@ -557,16 +567,6 @@
         "requestedAt": "2026-10-14T07:44:29Z"
       },
       {
-        "number": 421,
-        "title": "fix(sync): don't skip heights when syncStore.Append fails or races [high]",
-        "url": "https://github.com/celestiaorg/go-header/pull/421",
-        "repo": "go-header",
-        "author": "vgonkivs",
-        "authorCategory": "coworker",
-        "reviewer": "walldiss",
-        "requestedAt": "2026-10-14T08:26:38Z"
-      },
-      {
         "number": 5264,
         "title": "fix(fibre): detach Upload's shard fan-out from the caller ctx",
         "url": "https://github.com/celestiaorg/celestia-node/pull/5264",
@@ -639,5 +639,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-10-14T10:04:50.713Z"
+  "fetchedAt": "2026-10-14T10:23:49.066Z"
 }
