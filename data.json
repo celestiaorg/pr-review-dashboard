@@ -76,6 +76,16 @@
         "requestedAt": "2026-10-14T11:08:04Z"
       },
       {
+        "number": 8193,
+        "title": "fix(app): [high] align prepare proposal tx filtering with process proposal",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/8193",
+        "repo": "celestia-app",
+        "author": "rootulp",
+        "authorCategory": "coworker",
+        "reviewer": "ninabarbakadze",
+        "requestedAt": "2026-10-14T16:46:57Z"
+      },
+      {
         "number": 8187,
         "title": "fix(fibre)!: [low] key escrow state by the canonical signer address",
         "url": "https://github.com/celestiaorg/celestia-app/pull/8187",
@@ -399,5 +409,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-10-14T16:45:13.156Z"
+  "fetchedAt": "2026-10-14T16:54:12.228Z"
 }
