@@ -54,16 +54,6 @@
         "requestedAt": "2026-10-08T13:18:27Z"
       },
       {
-        "number": 8141,
-        "title": "perf(fibre): [high] verify a block's PayForFibre signatures across every CPU",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/8141",
-        "repo": "celestia-app",
-        "author": "rach-id",
-        "authorCategory": "coworker",
-        "reviewer": "pippokr",
-        "requestedAt": "2026-10-13T13:14:50Z"
-      },
-      {
         "number": 8162,
         "title": "test(multiplexer): [low] cover app version activation after commit",
         "url": "https://github.com/celestiaorg/celestia-app/pull/8162",
@@ -669,5 +659,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-10-14T09:19:17.154Z"
+  "fetchedAt": "2026-10-14T09:34:15.980Z"
 }
