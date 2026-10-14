@@ -76,6 +76,16 @@
         "requestedAt": "2026-10-14T11:08:04Z"
       },
       {
+        "number": 8183,
+        "title": "perf(fibre): [high] pre-verify pay-for-fibre signatures in CheckTx, after admission",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/8183",
+        "repo": "celestia-app",
+        "author": "rach-id",
+        "authorCategory": "coworker",
+        "reviewer": "ninabarbakadze",
+        "requestedAt": "2026-10-14T12:20:46Z"
+      },
+      {
         "number": 8193,
         "title": "fix(app): [high] align prepare proposal tx filtering with process proposal",
         "url": "https://github.com/celestiaorg/celestia-app/pull/8193",
@@ -98,6 +108,16 @@
     ],
     "rach-id": [],
     "renaynay": [
+      {
+        "number": 8125,
+        "title": "fix(app): [high] bound pay-for-fibre pre-verification at its inputs",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/8125",
+        "repo": "celestia-app",
+        "author": "rach-id",
+        "authorCategory": "coworker",
+        "reviewer": "renaynay",
+        "requestedAt": "2026-10-14T13:03:48Z"
+      },
       {
         "number": 5326,
         "title": "fix(header): [medium] serve stored headers when syncer head lags",
@@ -129,7 +149,38 @@
         "requestedAt": "2026-10-13T01:01:41Z"
       }
     ],
-    "rootulp": [],
+    "rootulp": [
+      {
+        "number": 8183,
+        "title": "perf(fibre): [high] pre-verify pay-for-fibre signatures in CheckTx, after admission",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/8183",
+        "repo": "celestia-app",
+        "author": "rach-id",
+        "authorCategory": "coworker",
+        "reviewer": "rootulp",
+        "requestedAt": "2026-10-14T18:30:37Z"
+      },
+      {
+        "number": 8125,
+        "title": "fix(app): [high] bound pay-for-fibre pre-verification at its inputs",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/8125",
+        "repo": "celestia-app",
+        "author": "rach-id",
+        "authorCategory": "coworker",
+        "reviewer": "rootulp",
+        "requestedAt": "2026-10-14T18:34:13Z"
+      },
+      {
+        "number": 8184,
+        "title": "perf(fibre): [low] deduplicate repeated certificates in the pre-verification pass",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/8184",
+        "repo": "celestia-app",
+        "author": "rach-id",
+        "authorCategory": "coworker",
+        "reviewer": "rootulp",
+        "requestedAt": "2026-10-14T18:39:13Z"
+      }
+    ],
     "vgonkivs": [
       {
         "number": 5328,
@@ -336,6 +387,16 @@
         "requestedAt": "2026-10-14T07:44:29Z"
       },
       {
+        "number": 8183,
+        "title": "perf(fibre): [high] pre-verify pay-for-fibre signatures in CheckTx, after admission",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/8183",
+        "repo": "celestia-app",
+        "author": "rach-id",
+        "authorCategory": "coworker",
+        "reviewer": "walldiss",
+        "requestedAt": "2026-10-14T12:20:35Z"
+      },
+      {
         "number": 5268,
         "title": "fix(api/client): use the configured conn for the fibre state client",
         "url": "https://github.com/celestiaorg/celestia-node/pull/5268",
@@ -398,5 +459,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-10-14T18:23:46.387Z"
+  "fetchedAt": "2026-10-14T18:40:31.666Z"
 }
