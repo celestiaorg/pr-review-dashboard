@@ -209,6 +209,16 @@
         "authorCategory": "coworker",
         "reviewer": "rootulp",
         "requestedAt": "2026-10-14T08:05:06Z"
+      },
+      {
+        "number": 8124,
+        "title": "perf(app): [high] reuse the proposer's own PrepareProposal artifacts",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/8124",
+        "repo": "celestia-app",
+        "author": "rach-id",
+        "authorCategory": "coworker",
+        "reviewer": "rootulp",
+        "requestedAt": "2026-10-14T10:57:28Z"
       }
     ],
     "vgonkivs": [
@@ -619,5 +629,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-10-14T10:53:29.478Z"
+  "fetchedAt": "2026-10-14T11:00:02.885Z"
 }
