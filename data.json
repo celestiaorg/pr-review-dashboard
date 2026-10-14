@@ -12,6 +12,16 @@
         "requestedAt": "2026-10-14T11:26:54Z"
       },
       {
+        "number": 959,
+        "title": "docs(terraform): [low] scaleway-vpc README example uses chain=mocha-5 (PR #901)",
+        "url": "https://github.com/celestiaorg/infrastructure/pull/959",
+        "repo": "infrastructure",
+        "author": "pippokr",
+        "authorCategory": "coworker",
+        "reviewer": "chatton",
+        "requestedAt": "2026-10-14T13:15:15Z"
+      },
+      {
         "number": 8155,
         "title": "fix(fibre): [low] shorten idle connection timeouts (backport #8151)",
         "url": "https://github.com/celestiaorg/celestia-app/pull/8155",
@@ -55,16 +65,6 @@
       }
     ],
     "ninabarbakadze": [
-      {
-        "number": 8163,
-        "title": "test(app): [low] cover proposal context isolation and module hook order",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/8163",
-        "repo": "celestia-app",
-        "author": "rootulp",
-        "authorCategory": "coworker",
-        "reviewer": "ninabarbakadze",
-        "requestedAt": "2026-10-14T06:27:20Z"
-      },
       {
         "number": 8152,
         "title": "perf(app): [high] decode each transaction once per ABCI phase",
@@ -409,5 +409,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-10-14T13:10:43.139Z"
+  "fetchedAt": "2026-10-14T13:24:16.430Z"
 }
