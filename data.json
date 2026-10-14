@@ -106,16 +106,6 @@
         "requestedAt": "2026-10-13T13:52:18Z"
       },
       {
-        "number": 347,
-        "title": "ci: disable Mergify merge queue comments",
-        "url": "https://github.com/celestiaorg/nmt/pull/347",
-        "repo": "nmt",
-        "author": "rootulp",
-        "authorCategory": "coworker",
-        "reviewer": "ninabarbakadze",
-        "requestedAt": "2026-10-14T05:17:41Z"
-      },
-      {
         "number": 8163,
         "title": "test(app): [low] cover proposal context isolation and module hook order",
         "url": "https://github.com/celestiaorg/celestia-app/pull/8163",
@@ -241,16 +231,6 @@
         "authorCategory": "coworker",
         "reviewer": "vgonkivs",
         "requestedAt": "2026-10-06T13:23:56Z"
-      },
-      {
-        "number": 347,
-        "title": "ci: disable Mergify merge queue comments",
-        "url": "https://github.com/celestiaorg/nmt/pull/347",
-        "repo": "nmt",
-        "author": "rootulp",
-        "authorCategory": "coworker",
-        "reviewer": "vgonkivs",
-        "requestedAt": "2026-10-12T18:55:53Z"
       },
       {
         "number": 5328,
@@ -659,5 +639,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-10-14T09:46:43.392Z"
+  "fetchedAt": "2026-10-14T09:54:56.653Z"
 }
