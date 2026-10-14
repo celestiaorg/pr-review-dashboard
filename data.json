@@ -149,16 +149,6 @@
         "requestedAt": "2026-10-12T18:55:23Z"
       },
       {
-        "number": 8146,
-        "title": "perf(app): [high] reuse what CheckTx admitted on a PayForFibre recheck",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/8146",
-        "repo": "celestia-app",
-        "author": "rach-id",
-        "authorCategory": "coworker",
-        "reviewer": "renaynay",
-        "requestedAt": "2026-10-13T10:45:47Z"
-      },
-      {
         "number": 8161,
         "title": "test(ante): [low] cover tx size gas edge cases",
         "url": "https://github.com/celestiaorg/celestia-app/pull/8161",
@@ -219,16 +209,6 @@
         "authorCategory": "coworker",
         "reviewer": "rootulp",
         "requestedAt": "2026-10-14T08:05:06Z"
-      },
-      {
-        "number": 8146,
-        "title": "perf(app): [high] reuse what CheckTx admitted on a PayForFibre recheck",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/8146",
-        "repo": "celestia-app",
-        "author": "rach-id",
-        "authorCategory": "coworker",
-        "reviewer": "rootulp",
-        "requestedAt": "2026-10-14T10:09:04Z"
       }
     ],
     "vgonkivs": [
@@ -639,5 +619,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-10-14T10:23:49.066Z"
+  "fetchedAt": "2026-10-14T10:34:45.254Z"
 }
