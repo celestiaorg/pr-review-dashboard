@@ -2,46 +2,6 @@
   "reviews": {
     "chatton": [
       {
-        "number": 943,
-        "title": "fix(alert-monitor): [low] silences on fleet-level alerts matched nothing",
-        "url": "https://github.com/celestiaorg/infrastructure/pull/943",
-        "repo": "infrastructure",
-        "author": "pippokr",
-        "authorCategory": "coworker",
-        "reviewer": "chatton",
-        "requestedAt": "2026-10-11T19:14:26Z"
-      },
-      {
-        "number": 210,
-        "title": "ci: disable Mergify merge queue comments",
-        "url": "https://github.com/celestiaorg/tastora/pull/210",
-        "repo": "tastora",
-        "author": "rootulp",
-        "authorCategory": "coworker",
-        "reviewer": "chatton",
-        "requestedAt": "2026-10-12T18:56:03Z"
-      },
-      {
-        "number": 950,
-        "title": "fix(corto)!: [low] unpin bridge sync_from_height back to 0 (PR #822)",
-        "url": "https://github.com/celestiaorg/infrastructure/pull/950",
-        "repo": "infrastructure",
-        "author": "pippokr",
-        "authorCategory": "coworker",
-        "reviewer": "chatton",
-        "requestedAt": "2026-10-13T08:58:53Z"
-      },
-      {
-        "number": 952,
-        "title": "fix(celestia-app): [medium] git safe.directory seeding works in dry-run (PR #951)",
-        "url": "https://github.com/celestiaorg/infrastructure/pull/952",
-        "repo": "infrastructure",
-        "author": "pippokr",
-        "authorCategory": "coworker",
-        "reviewer": "chatton",
-        "requestedAt": "2026-10-13T14:29:55Z"
-      },
-      {
         "number": 8159,
         "title": "test(zkism): [low] cover proof rejection without state mutation",
         "url": "https://github.com/celestiaorg/celestia-app/pull/8159",
@@ -50,6 +10,16 @@
         "authorCategory": "coworker",
         "reviewer": "chatton",
         "requestedAt": "2026-10-14T06:12:09Z"
+      },
+      {
+        "number": 8167,
+        "title": "test(app): [low] cover blob validation cache across abci phases",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/8167",
+        "repo": "celestia-app",
+        "author": "rootulp",
+        "authorCategory": "coworker",
+        "reviewer": "chatton",
+        "requestedAt": "2026-10-14T07:44:21Z"
       },
       {
         "number": 580,
@@ -310,6 +280,16 @@
         "requestedAt": "2026-10-14T06:14:34Z"
       },
       {
+        "number": 8169,
+        "title": "test(app): [low] cover prepareproposal roots and handler errors",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/8169",
+        "repo": "celestia-app",
+        "author": "rootulp",
+        "authorCategory": "coworker",
+        "reviewer": "renaynay",
+        "requestedAt": "2026-10-14T07:44:35Z"
+      },
+      {
         "number": 5314,
         "title": "fix(nodebuilder/node): register the --ttl flag on set-permissions",
         "url": "https://github.com/celestiaorg/celestia-node/pull/5314",
@@ -361,16 +341,6 @@
         "authorCategory": "coworker",
         "reviewer": "vgonkivs",
         "requestedAt": "2026-10-12T18:55:53Z"
-      },
-      {
-        "number": 8166,
-        "title": "test(app): [low] cover filtered square builder settlement rollback",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/8166",
-        "repo": "celestia-app",
-        "author": "rootulp",
-        "authorCategory": "coworker",
-        "reviewer": "vgonkivs",
-        "requestedAt": "2026-10-14T06:48:18Z"
       },
       {
         "number": 5328,
@@ -707,6 +677,16 @@
         "requestedAt": "2026-10-14T06:14:17Z"
       },
       {
+        "number": 8168,
+        "title": "test(app): [low] cover pff signature cache mutation and replay parity",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/8168",
+        "repo": "celestia-app",
+        "author": "rootulp",
+        "authorCategory": "coworker",
+        "reviewer": "walldiss",
+        "requestedAt": "2026-10-14T07:44:29Z"
+      },
+      {
         "number": 5264,
         "title": "fix(fibre): detach Upload's shard fan-out from the caller ctx",
         "url": "https://github.com/celestiaorg/celestia-node/pull/5264",
@@ -779,5 +759,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-10-14T07:31:03.290Z"
+  "fetchedAt": "2026-10-14T07:46:42.380Z"
 }
