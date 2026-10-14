@@ -2,16 +2,6 @@
   "reviews": {
     "chatton": [
       {
-        "number": 8159,
-        "title": "test(zkism): [low] cover proof rejection without state mutation",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/8159",
-        "repo": "celestia-app",
-        "author": "rootulp",
-        "authorCategory": "coworker",
-        "reviewer": "chatton",
-        "requestedAt": "2026-10-14T06:12:09Z"
-      },
-      {
         "number": 8167,
         "title": "test(app): [low] cover blob validation cache across abci phases",
         "url": "https://github.com/celestiaorg/celestia-app/pull/8167",
@@ -84,14 +74,14 @@
         "requestedAt": "2026-10-14T06:24:24Z"
       },
       {
-        "number": 5309,
-        "title": "das: Serialize DASer startup and shutdown lifecycle",
-        "url": "https://github.com/celestiaorg/celestia-node/pull/5309",
-        "repo": "celestia-node",
-        "author": "kleonyuan",
-        "authorCategory": "external",
+        "number": 958,
+        "title": "docs: [low] document live mainnet query failures and dev network label fixes",
+        "url": "https://github.com/celestiaorg/infrastructure/pull/958",
+        "repo": "infrastructure",
+        "author": "chatton",
+        "authorCategory": "coworker",
         "reviewer": "pippokr",
-        "requestedAt": "2026-10-05T15:15:27Z"
+        "requestedAt": "2026-10-14T12:33:55Z"
       },
       {
         "number": 8085,
@@ -134,6 +124,16 @@
         "authorCategory": "coworker",
         "reviewer": "ninabarbakadze",
         "requestedAt": "2026-10-14T12:20:46Z"
+      },
+      {
+        "number": 8124,
+        "title": "perf(app): [high] reuse the proposer's own PrepareProposal artifacts",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/8124",
+        "repo": "celestia-app",
+        "author": "rach-id",
+        "authorCategory": "coworker",
+        "reviewer": "ninabarbakadze",
+        "requestedAt": "2026-10-14T12:33:28Z"
       }
     ],
     "rach-id": [],
@@ -147,16 +147,6 @@
         "authorCategory": "coworker",
         "reviewer": "renaynay",
         "requestedAt": "2026-09-30T10:10:32Z"
-      },
-      {
-        "number": 5314,
-        "title": "fix(nodebuilder/node): register the --ttl flag on set-permissions",
-        "url": "https://github.com/celestiaorg/celestia-node/pull/5314",
-        "repo": "celestia-node",
-        "author": "shiaho777",
-        "authorCategory": "external",
-        "reviewer": "renaynay",
-        "requestedAt": "2026-10-06T06:47:03Z"
       },
       {
         "number": 8147,
@@ -211,26 +201,6 @@
         "authorCategory": "bot",
         "reviewer": "vgonkivs",
         "requestedAt": "2026-10-14T05:51:19Z"
-      },
-      {
-        "number": 5167,
-        "title": "cmd: Load configured RPC URL with explicit token",
-        "url": "https://github.com/celestiaorg/celestia-node/pull/5167",
-        "repo": "celestia-node",
-        "author": "neyy91",
-        "authorCategory": "external",
-        "reviewer": "vgonkivs",
-        "requestedAt": "2026-08-14T12:43:11Z"
-      },
-      {
-        "number": 5169,
-        "title": "das: Group adjacent retry heights",
-        "url": "https://github.com/celestiaorg/celestia-node/pull/5169",
-        "repo": "celestia-node",
-        "author": "neyy91",
-        "authorCategory": "external",
-        "reviewer": "vgonkivs",
-        "requestedAt": "2026-08-15T20:28:16Z"
       },
       {
         "number": 5170,
@@ -333,46 +303,6 @@
         "requestedAt": "2026-08-28T19:04:55Z"
       },
       {
-        "number": 5222,
-        "title": "cmd: Comply with POSIX utility syntax",
-        "url": "https://github.com/celestiaorg/celestia-node/pull/5222",
-        "repo": "celestia-node",
-        "author": "loglapa",
-        "authorCategory": "external",
-        "reviewer": "vgonkivs",
-        "requestedAt": "2026-09-03T18:19:37Z"
-      },
-      {
-        "number": 5233,
-        "title": "fix(api/rpc/client): store multiCloser on client and close initialized connections on error (#5188)",
-        "url": "https://github.com/celestiaorg/celestia-node/pull/5233",
-        "repo": "celestia-node",
-        "author": "Tyagiquamar",
-        "authorCategory": "external",
-        "reviewer": "vgonkivs",
-        "requestedAt": "2026-09-13T09:08:08Z"
-      },
-      {
-        "number": 5260,
-        "title": "fix(nodebuilder/p2p): pass rcmgr options to the resource manager",
-        "url": "https://github.com/celestiaorg/celestia-node/pull/5260",
-        "repo": "celestia-node",
-        "author": "Bruce039",
-        "authorCategory": "external",
-        "reviewer": "vgonkivs",
-        "requestedAt": "2026-09-25T15:33:39Z"
-      },
-      {
-        "number": 5288,
-        "title": "fix(state): validate GrantFee amount",
-        "url": "https://github.com/celestiaorg/celestia-node/pull/5288",
-        "repo": "celestia-node",
-        "author": "0xShadowX",
-        "authorCategory": "external",
-        "reviewer": "vgonkivs",
-        "requestedAt": "2026-09-25T16:57:31Z"
-      },
-      {
         "number": 5284,
         "title": "fix(blob): return errors instead of panicking on malformed proofs",
         "url": "https://github.com/celestiaorg/celestia-node/pull/5284",
@@ -393,16 +323,6 @@
         "requestedAt": "2026-09-27T22:02:10Z"
       },
       {
-        "number": 5282,
-        "title": "fix(nodebuilder/pruner): respect --archival=false",
-        "url": "https://github.com/celestiaorg/celestia-node/pull/5282",
-        "repo": "celestia-node",
-        "author": "Bruce039",
-        "authorCategory": "external",
-        "reviewer": "vgonkivs",
-        "requestedAt": "2026-09-28T14:06:25Z"
-      },
-      {
         "number": 3427,
         "title": "fix(state): don't hang CreateProposalBlock on a single-CPU machine",
         "url": "https://github.com/celestiaorg/celestia-core/pull/3427",
@@ -411,16 +331,6 @@
         "authorCategory": "external",
         "reviewer": "vgonkivs",
         "requestedAt": "2026-10-03T06:58:50Z"
-      },
-      {
-        "number": 5315,
-        "title": "fix(nodebuilder/state): reject addresses of the wrong kind instead of panicking",
-        "url": "https://github.com/celestiaorg/celestia-node/pull/5315",
-        "repo": "celestia-node",
-        "author": "shiaho777",
-        "authorCategory": "external",
-        "reviewer": "vgonkivs",
-        "requestedAt": "2026-10-06T07:58:08Z"
       },
       {
         "number": 5323,
@@ -463,16 +373,6 @@
         "authorCategory": "bot",
         "reviewer": "theodorebugnet",
         "requestedAt": "2026-10-14T04:35:42Z"
-      },
-      {
-        "number": 5312,
-        "title": "fix(nodebuilder/blob): don't panic in submit with --input-file",
-        "url": "https://github.com/celestiaorg/celestia-node/pull/5312",
-        "repo": "celestia-node",
-        "author": "shiaho777",
-        "authorCategory": "external",
-        "reviewer": "theodorebugnet",
-        "requestedAt": "2026-10-06T06:41:10Z"
       }
     ],
     "walldiss": [
@@ -525,16 +425,6 @@
         "authorCategory": "coworker",
         "reviewer": "walldiss",
         "requestedAt": "2026-10-14T12:20:35Z"
-      },
-      {
-        "number": 5264,
-        "title": "fix(fibre): detach Upload's shard fan-out from the caller ctx",
-        "url": "https://github.com/celestiaorg/celestia-node/pull/5264",
-        "repo": "celestia-node",
-        "author": "Bruce039",
-        "authorCategory": "external",
-        "reviewer": "walldiss",
-        "requestedAt": "2026-09-25T15:53:12Z"
       },
       {
         "number": 5268,
@@ -599,5 +489,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-10-14T12:23:27.146Z"
+  "fetchedAt": "2026-10-14T12:43:17.677Z"
 }
