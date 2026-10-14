@@ -259,18 +259,7 @@
         "requestedAt": "2026-10-13T01:01:41Z"
       }
     ],
-    "rootulp": [
-      {
-        "number": 8141,
-        "title": "perf(fibre): [high] verify a block's PayForFibre signatures across every CPU",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/8141",
-        "repo": "celestia-app",
-        "author": "rach-id",
-        "authorCategory": "coworker",
-        "reviewer": "rootulp",
-        "requestedAt": "2026-10-13T13:15:02Z"
-      }
-    ],
+    "rootulp": [],
     "vgonkivs": [
       {
         "number": 8089,
@@ -679,5 +668,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-10-14T04:56:38.149Z"
+  "fetchedAt": "2026-10-14T05:12:52.346Z"
 }
