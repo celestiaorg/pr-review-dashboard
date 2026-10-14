@@ -2,46 +2,6 @@
   "reviews": {
     "chatton": [
       {
-        "number": 957,
-        "title": "fix(corto): [low] cap bridge Go heap so the window backfill stops OOM-looping (PR #950)",
-        "url": "https://github.com/celestiaorg/infrastructure/pull/957",
-        "repo": "infrastructure",
-        "author": "pippokr",
-        "authorCategory": "coworker",
-        "reviewer": "chatton",
-        "requestedAt": "2026-10-14T11:26:54Z"
-      },
-      {
-        "number": 959,
-        "title": "docs(terraform): [low] scaleway-vpc README example uses chain=mocha-5 (PR #901)",
-        "url": "https://github.com/celestiaorg/infrastructure/pull/959",
-        "repo": "infrastructure",
-        "author": "pippokr",
-        "authorCategory": "coworker",
-        "reviewer": "chatton",
-        "requestedAt": "2026-10-14T13:15:15Z"
-      },
-      {
-        "number": 962,
-        "title": "security(mainnet): [high] guard published node_key identities against stale 1Password copies (PR #891)",
-        "url": "https://github.com/celestiaorg/infrastructure/pull/962",
-        "repo": "infrastructure",
-        "author": "pippokr",
-        "authorCategory": "coworker",
-        "reviewer": "chatton",
-        "requestedAt": "2026-10-14T13:25:55Z"
-      },
-      {
-        "number": 961,
-        "title": "security(corto): [low] pin bonded validator identities before any key write (PR #891)",
-        "url": "https://github.com/celestiaorg/infrastructure/pull/961",
-        "repo": "infrastructure",
-        "author": "pippokr",
-        "authorCategory": "coworker",
-        "reviewer": "chatton",
-        "requestedAt": "2026-10-14T13:27:09Z"
-      },
-      {
         "number": 8155,
         "title": "fix(fibre): [low] shorten idle connection timeouts (backport #8151)",
         "url": "https://github.com/celestiaorg/celestia-app/pull/8155",
@@ -98,26 +58,6 @@
     ],
     "rach-id": [],
     "renaynay": [
-      {
-        "number": 119,
-        "title": "feat: add consistency check in bridge nodes",
-        "url": "https://github.com/celestiaorg/da-proxy/pull/119",
-        "repo": "da-proxy",
-        "author": "vgonkivs",
-        "authorCategory": "coworker",
-        "reviewer": "renaynay",
-        "requestedAt": "2026-09-30T10:10:32Z"
-      },
-      {
-        "number": 422,
-        "title": "fix(sync): don't stall network head validation behind a blocked append[high]",
-        "url": "https://github.com/celestiaorg/go-header/pull/422",
-        "repo": "go-header",
-        "author": "vgonkivs",
-        "authorCategory": "coworker",
-        "reviewer": "renaynay",
-        "requestedAt": "2026-10-14T13:07:49Z"
-      },
       {
         "number": 8147,
         "title": "fix(fibre)!: [low] bound the payment promise height window",
@@ -347,16 +287,6 @@
         "requestedAt": "2026-10-14T07:44:29Z"
       },
       {
-        "number": 422,
-        "title": "fix(sync): don't stall network head validation behind a blocked append[high]",
-        "url": "https://github.com/celestiaorg/go-header/pull/422",
-        "repo": "go-header",
-        "author": "vgonkivs",
-        "authorCategory": "coworker",
-        "reviewer": "walldiss",
-        "requestedAt": "2026-10-14T13:07:49Z"
-      },
-      {
         "number": 5268,
         "title": "fix(api/client): use the configured conn for the fibre state client",
         "url": "https://github.com/celestiaorg/celestia-node/pull/5268",
@@ -419,5 +349,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-10-14T13:34:50.875Z"
+  "fetchedAt": "2026-10-14T13:45:16.153Z"
 }
