@@ -156,16 +156,6 @@
         "requestedAt": "2026-10-14T05:17:41Z"
       },
       {
-        "number": 1130,
-        "title": "ci: disable Mergify merge queue comments",
-        "url": "https://github.com/celestiaorg/lumina/pull/1130",
-        "repo": "lumina",
-        "author": "rootulp",
-        "authorCategory": "coworker",
-        "reviewer": "ninabarbakadze",
-        "requestedAt": "2026-10-14T05:17:52Z"
-      },
-      {
         "number": 8163,
         "title": "test(app): [low] cover proposal context isolation and module hook order",
         "url": "https://github.com/celestiaorg/celestia-app/pull/8163",
@@ -176,38 +166,7 @@
         "requestedAt": "2026-10-14T06:27:20Z"
       }
     ],
-    "rach-id": [
-      {
-        "number": 455,
-        "title": "ci: disable Mergify merge queue comments",
-        "url": "https://github.com/celestiaorg/rsmt2d/pull/455",
-        "repo": "rsmt2d",
-        "author": "rootulp",
-        "authorCategory": "coworker",
-        "reviewer": "rach-id",
-        "requestedAt": "2026-10-14T05:17:30Z"
-      },
-      {
-        "number": 1130,
-        "title": "ci: disable Mergify merge queue comments",
-        "url": "https://github.com/celestiaorg/lumina/pull/1130",
-        "repo": "lumina",
-        "author": "rootulp",
-        "authorCategory": "coworker",
-        "reviewer": "rach-id",
-        "requestedAt": "2026-10-14T05:18:04Z"
-      },
-      {
-        "number": 8165,
-        "title": "test(app): [low] cover endblocker upgrade and migration failure paths",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/8165",
-        "repo": "celestia-app",
-        "author": "rootulp",
-        "authorCategory": "coworker",
-        "reviewer": "rach-id",
-        "requestedAt": "2026-10-14T06:46:18Z"
-      }
-    ],
+    "rach-id": [],
     "renaynay": [
       {
         "number": 119,
@@ -250,16 +209,6 @@
         "requestedAt": "2026-10-13T10:45:47Z"
       },
       {
-        "number": 303,
-        "title": "perf: accept pre-decoded blob txs in ClassifiedTx",
-        "url": "https://github.com/celestiaorg/go-square/pull/303",
-        "repo": "go-square",
-        "author": "rach-id",
-        "authorCategory": "coworker",
-        "reviewer": "renaynay",
-        "requestedAt": "2026-10-13T15:54:21Z"
-      },
-      {
         "number": 8161,
         "title": "test(ante): [low] cover tx size gas edge cases",
         "url": "https://github.com/celestiaorg/celestia-app/pull/8161",
@@ -300,7 +249,18 @@
         "requestedAt": "2026-10-13T01:01:41Z"
       }
     ],
-    "rootulp": [],
+    "rootulp": [
+      {
+        "number": 8152,
+        "title": "perf(app): [high] decode each transaction once per ABCI phase",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/8152",
+        "repo": "celestia-app",
+        "author": "rach-id",
+        "authorCategory": "coworker",
+        "reviewer": "rootulp",
+        "requestedAt": "2026-10-14T08:05:06Z"
+      }
+    ],
     "vgonkivs": [
       {
         "number": 8089,
@@ -575,16 +535,6 @@
     ],
     "theodorebugnet": [
       {
-        "number": 1130,
-        "title": "ci: disable Mergify merge queue comments",
-        "url": "https://github.com/celestiaorg/lumina/pull/1130",
-        "repo": "lumina",
-        "author": "rootulp",
-        "authorCategory": "coworker",
-        "reviewer": "theodorebugnet",
-        "requestedAt": "2026-10-12T18:55:45Z"
-      },
-      {
         "number": 8164,
         "title": "test(da): [low] pin data root vectors and cover pooled tree boundaries",
         "url": "https://github.com/celestiaorg/celestia-app/pull/8164",
@@ -749,5 +699,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-10-14T07:55:07.073Z"
+  "fetchedAt": "2026-10-14T08:07:36.775Z"
 }
