@@ -169,16 +169,6 @@
         "authorCategory": "coworker",
         "reviewer": "rootulp",
         "requestedAt": "2026-10-14T18:39:13Z"
-      },
-      {
-        "number": 8186,
-        "title": "fix(fibre): [low] skip pre-verification a transaction cannot pay for",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/8186",
-        "repo": "celestia-app",
-        "author": "rach-id",
-        "authorCategory": "coworker",
-        "reviewer": "rootulp",
-        "requestedAt": "2026-10-14T18:41:40Z"
       }
     ],
     "vgonkivs": [
@@ -325,16 +315,6 @@
         "requestedAt": "2026-10-14T15:39:40Z"
       },
       {
-        "number": 8186,
-        "title": "fix(fibre): [low] skip pre-verification a transaction cannot pay for",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/8186",
-        "repo": "celestia-app",
-        "author": "rach-id",
-        "authorCategory": "coworker",
-        "reviewer": "theodorebugnet",
-        "requestedAt": "2026-10-14T18:41:19Z"
-      },
-      {
         "number": 348,
         "title": "chore(deps): bump github.com/tidwall/gjson from 1.19.0 to 1.20.0",
         "url": "https://github.com/celestiaorg/nmt/pull/348",
@@ -449,5 +429,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-10-14T18:59:02.448Z"
+  "fetchedAt": "2026-10-14T19:16:55.959Z"
 }
