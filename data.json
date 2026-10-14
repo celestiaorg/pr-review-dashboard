@@ -2,6 +2,16 @@
   "reviews": {
     "chatton": [
       {
+        "number": 306,
+        "title": "ci: tolerate small project coverage fluctuations",
+        "url": "https://github.com/celestiaorg/go-square/pull/306",
+        "repo": "go-square",
+        "author": "rootulp",
+        "authorCategory": "coworker",
+        "reviewer": "chatton",
+        "requestedAt": "2026-10-14T16:13:36Z"
+      },
+      {
         "number": 8155,
         "title": "fix(fibre): [low] shorten idle connection timeouts (backport #8151)",
         "url": "https://github.com/celestiaorg/celestia-app/pull/8155",
@@ -369,5 +379,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-10-14T16:12:56.450Z"
+  "fetchedAt": "2026-10-14T16:30:31.466Z"
 }
