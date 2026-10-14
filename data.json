@@ -44,6 +44,16 @@
         "requestedAt": "2026-10-14T06:24:24Z"
       },
       {
+        "number": 8192,
+        "title": "fix(app): [high] branch ante state per tx in prepare proposal",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/8192",
+        "repo": "celestia-app",
+        "author": "rootulp",
+        "authorCategory": "coworker",
+        "reviewer": "pippokr",
+        "requestedAt": "2026-10-14T16:37:43Z"
+      },
+      {
         "number": 8085,
         "title": "fix(fibre): extend server duration buckets to 60s for object storage",
         "url": "https://github.com/celestiaorg/celestia-app/pull/8085",
@@ -98,6 +108,16 @@
         "authorCategory": "coworker",
         "reviewer": "renaynay",
         "requestedAt": "2026-10-14T14:19:40Z"
+      },
+      {
+        "number": 8191,
+        "title": "fix(fibre): [high] check validator set on pff sig cache hit",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/8191",
+        "repo": "celestia-app",
+        "author": "rootulp",
+        "authorCategory": "coworker",
+        "reviewer": "renaynay",
+        "requestedAt": "2026-10-14T16:37:05Z"
       },
       {
         "number": 8147,
@@ -379,5 +399,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-10-14T16:30:31.466Z"
+  "fetchedAt": "2026-10-14T16:45:13.156Z"
 }
