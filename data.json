@@ -74,26 +74,6 @@
         "authorCategory": "coworker",
         "reviewer": "ninabarbakadze",
         "requestedAt": "2026-10-14T11:08:04Z"
-      },
-      {
-        "number": 8183,
-        "title": "perf(fibre): [high] pre-verify pay-for-fibre signatures in CheckTx, after admission",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/8183",
-        "repo": "celestia-app",
-        "author": "rach-id",
-        "authorCategory": "coworker",
-        "reviewer": "ninabarbakadze",
-        "requestedAt": "2026-10-14T12:20:46Z"
-      },
-      {
-        "number": 8124,
-        "title": "perf(app): [high] reuse the proposer's own PrepareProposal artifacts",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/8124",
-        "repo": "celestia-app",
-        "author": "rach-id",
-        "authorCategory": "coworker",
-        "reviewer": "ninabarbakadze",
-        "requestedAt": "2026-10-14T12:33:28Z"
       }
     ],
     "rach-id": [],
@@ -107,6 +87,16 @@
         "authorCategory": "coworker",
         "reviewer": "renaynay",
         "requestedAt": "2026-09-30T10:10:32Z"
+      },
+      {
+        "number": 422,
+        "title": "fix(sync): don't stall network head validation behind a blocked append",
+        "url": "https://github.com/celestiaorg/go-header/pull/422",
+        "repo": "go-header",
+        "author": "vgonkivs",
+        "authorCategory": "coworker",
+        "reviewer": "renaynay",
+        "requestedAt": "2026-10-14T13:07:49Z"
       },
       {
         "number": 8147,
@@ -347,14 +337,14 @@
         "requestedAt": "2026-10-14T07:44:29Z"
       },
       {
-        "number": 8183,
-        "title": "perf(fibre): [high] pre-verify pay-for-fibre signatures in CheckTx, after admission",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/8183",
-        "repo": "celestia-app",
-        "author": "rach-id",
+        "number": 422,
+        "title": "fix(sync): don't stall network head validation behind a blocked append",
+        "url": "https://github.com/celestiaorg/go-header/pull/422",
+        "repo": "go-header",
+        "author": "vgonkivs",
         "authorCategory": "coworker",
         "reviewer": "walldiss",
-        "requestedAt": "2026-10-14T12:20:35Z"
+        "requestedAt": "2026-10-14T13:07:49Z"
       },
       {
         "number": 5268,
@@ -419,5 +409,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-10-14T12:56:34.517Z"
+  "fetchedAt": "2026-10-14T13:10:43.139Z"
 }
