@@ -342,16 +342,6 @@
         "authorCategory": "external",
         "reviewer": "vgonkivs",
         "requestedAt": "2026-10-03T06:58:50Z"
-      },
-      {
-        "number": 5323,
-        "title": "test(tastora/canary): add node log telemetry",
-        "url": "https://github.com/celestiaorg/celestia-node/pull/5323",
-        "repo": "celestia-node",
-        "author": "Denend",
-        "authorCategory": "external",
-        "reviewer": "vgonkivs",
-        "requestedAt": "2026-10-08T10:05:49Z"
       }
     ],
     "theodorebugnet": [
@@ -520,5 +510,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-10-14T22:53:44.482Z"
+  "fetchedAt": "2026-10-14T23:00:25.311Z"
 }
