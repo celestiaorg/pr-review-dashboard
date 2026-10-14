@@ -281,16 +281,6 @@
     ],
     "rootulp": [
       {
-        "number": 8146,
-        "title": "perf(app): [high] reuse what CheckTx admitted on a PayForFibre recheck",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/8146",
-        "repo": "celestia-app",
-        "author": "rach-id",
-        "authorCategory": "coworker",
-        "reviewer": "rootulp",
-        "requestedAt": "2026-10-13T10:45:58Z"
-      },
-      {
         "number": 8141,
         "title": "perf(fibre): [high] verify a block's PayForFibre signatures across every CPU",
         "url": "https://github.com/celestiaorg/celestia-app/pull/8141",
@@ -729,5 +719,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-10-13T23:59:59.027Z"
+  "fetchedAt": "2026-10-14T00:49:04.521Z"
 }
