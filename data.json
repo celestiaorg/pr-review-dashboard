@@ -94,16 +94,6 @@
         "requestedAt": "2026-10-13T13:14:50Z"
       },
       {
-        "number": 8148,
-        "title": "chore(deps): [high] bump the go-deps group across 1 directory with 27 updates",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/8148",
-        "repo": "celestia-app",
-        "author": "dependabot",
-        "authorCategory": "bot",
-        "reviewer": "pippokr",
-        "requestedAt": "2026-10-13T04:06:00Z"
-      },
-      {
         "number": 5309,
         "title": "das: Serialize DASer startup and shutdown lifecycle",
         "url": "https://github.com/celestiaorg/celestia-node/pull/5309",
@@ -566,7 +556,7 @@
       },
       {
         "number": 8150,
-        "title": "chore(deps): [medium] bump the go-deps-docker-e2e group in /test/docker-e2e with 4 updates",
+        "title": "chore(deps): [medium] bump the go-deps-docker-e2e group across 1 directory with 4 updates",
         "url": "https://github.com/celestiaorg/celestia-app/pull/8150",
         "repo": "celestia-app",
         "author": "dependabot",
@@ -699,5 +689,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-10-14T05:27:35.192Z"
+  "fetchedAt": "2026-10-14T05:41:53.334Z"
 }
