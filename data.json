@@ -126,7 +126,18 @@
         "requestedAt": "2026-10-14T14:00:42Z"
       }
     ],
-    "rach-id": [],
+    "rach-id": [
+      {
+        "number": 8191,
+        "title": "fix(fibre): [high] check validator set on pff sig cache hit",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/8191",
+        "repo": "celestia-app",
+        "author": "rootulp",
+        "authorCategory": "coworker",
+        "reviewer": "rach-id",
+        "requestedAt": "2026-10-14T22:52:49Z"
+      }
+    ],
     "renaynay": [
       {
         "number": 8125,
@@ -147,16 +158,6 @@
         "authorCategory": "coworker",
         "reviewer": "renaynay",
         "requestedAt": "2026-10-14T14:19:40Z"
-      },
-      {
-        "number": 8191,
-        "title": "fix(fibre): [high] check validator set on pff sig cache hit",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/8191",
-        "repo": "celestia-app",
-        "author": "rootulp",
-        "authorCategory": "coworker",
-        "reviewer": "renaynay",
-        "requestedAt": "2026-10-14T16:37:05Z"
       },
       {
         "number": 3462,
@@ -519,5 +520,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-10-14T22:47:06.332Z"
+  "fetchedAt": "2026-10-14T22:53:44.482Z"
 }
