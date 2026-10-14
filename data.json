@@ -323,6 +323,16 @@
         "requestedAt": "2026-10-13T07:09:47Z"
       },
       {
+        "number": 8158,
+        "title": "chore(deps): [high] bump the go-deps group across 1 directory with 30 updates",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/8158",
+        "repo": "celestia-app",
+        "author": "dependabot",
+        "authorCategory": "bot",
+        "reviewer": "vgonkivs",
+        "requestedAt": "2026-10-14T05:51:19Z"
+      },
+      {
         "number": 5167,
         "title": "cmd: Load configured RPC URL with explicit token",
         "url": "https://github.com/celestiaorg/celestia-node/pull/5167",
@@ -689,5 +699,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-10-14T05:50:45.222Z"
+  "fetchedAt": "2026-10-14T05:57:25.797Z"
 }
