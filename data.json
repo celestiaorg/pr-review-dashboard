@@ -101,16 +101,6 @@
         "requestedAt": "2026-10-14T08:05:06Z"
       },
       {
-        "number": 8124,
-        "title": "perf(app): [high] reuse the proposer's own PrepareProposal artifacts",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/8124",
-        "repo": "celestia-app",
-        "author": "rach-id",
-        "authorCategory": "coworker",
-        "reviewer": "rootulp",
-        "requestedAt": "2026-10-14T10:57:28Z"
-      },
-      {
         "number": 5333,
         "title": "fix(e2e/test): fix flakky tastora tests [low]",
         "url": "https://github.com/celestiaorg/celestia-node/pull/5333",
@@ -119,16 +109,6 @@
         "authorCategory": "coworker",
         "reviewer": "rootulp",
         "requestedAt": "2026-10-14T14:04:29Z"
-      },
-      {
-        "number": 5334,
-        "title": "bump(dependency): bump go-header to the latest version [low]",
-        "url": "https://github.com/celestiaorg/celestia-node/pull/5334",
-        "repo": "celestia-node",
-        "author": "vgonkivs",
-        "authorCategory": "coworker",
-        "reviewer": "rootulp",
-        "requestedAt": "2026-10-14T14:08:32Z"
       }
     ],
     "vgonkivs": [
@@ -265,6 +245,16 @@
         "requestedAt": "2026-10-14T06:45:43Z"
       },
       {
+        "number": 305,
+        "title": "ci: create public Buf module on release push",
+        "url": "https://github.com/celestiaorg/go-square/pull/305",
+        "repo": "go-square",
+        "author": "rootulp",
+        "authorCategory": "coworker",
+        "reviewer": "theodorebugnet",
+        "requestedAt": "2026-10-14T15:39:40Z"
+      },
+      {
         "number": 8150,
         "title": "chore(deps): [medium] bump the go-deps-docker-e2e group across 1 directory with 4 updates",
         "url": "https://github.com/celestiaorg/celestia-app/pull/8150",
@@ -389,5 +379,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-10-14T15:35:15.182Z"
+  "fetchedAt": "2026-10-14T15:48:02.751Z"
 }
