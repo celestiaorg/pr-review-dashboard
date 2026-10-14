@@ -34,16 +34,6 @@
         "requestedAt": "2026-10-08T13:18:27Z"
       },
       {
-        "number": 8162,
-        "title": "test(multiplexer): [low] cover app version activation after commit",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/8162",
-        "repo": "celestia-app",
-        "author": "rootulp",
-        "authorCategory": "coworker",
-        "reviewer": "pippokr",
-        "requestedAt": "2026-10-14T06:24:24Z"
-      },
-      {
         "number": 8192,
         "title": "fix(app): [high] branch ante state per tx in prepare proposal",
         "url": "https://github.com/celestiaorg/celestia-app/pull/8192",
@@ -429,5 +419,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-10-14T19:47:59.518Z"
+  "fetchedAt": "2026-10-14T19:54:34.899Z"
 }
