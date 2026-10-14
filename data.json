@@ -228,6 +228,16 @@
         "requestedAt": "2026-10-14T05:18:04Z"
       },
       {
+        "number": 8165,
+        "title": "test(app): [low] cover endblocker upgrade and migration failure paths",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/8165",
+        "repo": "celestia-app",
+        "author": "rootulp",
+        "authorCategory": "coworker",
+        "reviewer": "rach-id",
+        "requestedAt": "2026-10-14T06:46:18Z"
+      },
+      {
         "number": 8157,
         "title": "chore(deps): [medium] bump the github-actions group across 1 directory with 4 updates",
         "url": "https://github.com/celestiaorg/celestia-app/pull/8157",
@@ -351,6 +361,16 @@
         "authorCategory": "coworker",
         "reviewer": "vgonkivs",
         "requestedAt": "2026-10-12T18:55:53Z"
+      },
+      {
+        "number": 8166,
+        "title": "test(app): [low] cover filtered square builder settlement rollback",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/8166",
+        "repo": "celestia-app",
+        "author": "rootulp",
+        "authorCategory": "coworker",
+        "reviewer": "vgonkivs",
+        "requestedAt": "2026-10-14T06:48:18Z"
       },
       {
         "number": 5328,
@@ -605,6 +625,16 @@
         "requestedAt": "2026-10-12T18:55:45Z"
       },
       {
+        "number": 8164,
+        "title": "test(da): [low] pin data root vectors and cover pooled tree boundaries",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/8164",
+        "repo": "celestia-app",
+        "author": "rootulp",
+        "authorCategory": "coworker",
+        "reviewer": "theodorebugnet",
+        "requestedAt": "2026-10-14T06:45:43Z"
+      },
+      {
         "number": 8150,
         "title": "chore(deps): [medium] bump the go-deps-docker-e2e group across 1 directory with 4 updates",
         "url": "https://github.com/celestiaorg/celestia-app/pull/8150",
@@ -749,5 +779,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-10-14T06:28:17.568Z"
+  "fetchedAt": "2026-10-14T06:55:08.923Z"
 }
