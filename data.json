@@ -206,16 +206,6 @@
         "authorCategory": "coworker",
         "reviewer": "rach-id",
         "requestedAt": "2026-10-14T06:46:18Z"
-      },
-      {
-        "number": 8157,
-        "title": "chore(deps): [medium] bump the github-actions group across 1 directory with 4 updates",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/8157",
-        "repo": "celestia-app",
-        "author": "dependabot",
-        "authorCategory": "bot",
-        "reviewer": "rach-id",
-        "requestedAt": "2026-10-14T05:43:43Z"
       }
     ],
     "renaynay": [
@@ -759,5 +749,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-10-14T07:46:42.380Z"
+  "fetchedAt": "2026-10-14T07:55:07.073Z"
 }
