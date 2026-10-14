@@ -96,18 +96,7 @@
         "requestedAt": "2026-10-14T14:00:42Z"
       }
     ],
-    "rach-id": [
-      {
-        "number": 8197,
-        "title": "chore(deps): [medium] bump the go-deps-docker-e2e group across 1 directory with 3 updates",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/8197",
-        "repo": "celestia-app",
-        "author": "dependabot",
-        "authorCategory": "bot",
-        "reviewer": "rach-id",
-        "requestedAt": "2026-10-14T19:20:43Z"
-      }
-    ],
+    "rach-id": [],
     "renaynay": [
       {
         "number": 8125,
@@ -440,5 +429,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-10-14T19:28:50.521Z"
+  "fetchedAt": "2026-10-14T19:40:18.566Z"
 }
