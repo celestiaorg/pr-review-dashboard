@@ -22,16 +22,6 @@
         "requestedAt": "2026-10-14T07:44:21Z"
       },
       {
-        "number": 955,
-        "title": "chore(adapter-evaluator): bump image to f59e4c7923e0 (lumina 1.2.0)",
-        "url": "https://github.com/celestiaorg/infrastructure/pull/955",
-        "repo": "infrastructure",
-        "author": "vgonkivs",
-        "authorCategory": "coworker",
-        "reviewer": "chatton",
-        "requestedAt": "2026-10-14T10:44:26Z"
-      },
-      {
         "number": 580,
         "title": "chore(peers): refresh mocha-5 peers",
         "url": "https://github.com/celestiaorg/networks/pull/580",
@@ -629,5 +619,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-10-14T10:45:14.370Z"
+  "fetchedAt": "2026-10-14T10:53:29.478Z"
 }
