@@ -102,29 +102,9 @@
         "authorCategory": "external",
         "reviewer": "pippokr",
         "requestedAt": "2026-10-06T08:43:18Z"
-      },
-      {
-        "number": 5325,
-        "title": "fix(shrex_getter): return real row for empty block in GetRow",
-        "url": "https://github.com/celestiaorg/celestia-node/pull/5325",
-        "repo": "celestia-node",
-        "author": "operagxsasha",
-        "authorCategory": "external",
-        "reviewer": "pippokr",
-        "requestedAt": "2026-10-12T11:40:42Z"
       }
     ],
     "ninabarbakadze": [
-      {
-        "number": 8124,
-        "title": "perf(app): [high] reuse the proposer's own PrepareProposal artifacts",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/8124",
-        "repo": "celestia-app",
-        "author": "rach-id",
-        "authorCategory": "coworker",
-        "reviewer": "ninabarbakadze",
-        "requestedAt": "2026-10-13T13:52:18Z"
-      },
       {
         "number": 8163,
         "title": "test(app): [low] cover proposal context isolation and module hook order",
@@ -144,6 +124,16 @@
         "authorCategory": "coworker",
         "reviewer": "ninabarbakadze",
         "requestedAt": "2026-10-14T11:08:04Z"
+      },
+      {
+        "number": 8183,
+        "title": "perf(fibre): [high] pre-verify pay-for-fibre signatures in CheckTx, after admission",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/8183",
+        "repo": "celestia-app",
+        "author": "rach-id",
+        "authorCategory": "coworker",
+        "reviewer": "ninabarbakadze",
+        "requestedAt": "2026-10-14T12:20:46Z"
       }
     ],
     "rach-id": [],
@@ -157,26 +147,6 @@
         "authorCategory": "coworker",
         "reviewer": "renaynay",
         "requestedAt": "2026-09-30T10:10:32Z"
-      },
-      {
-        "number": 5326,
-        "title": "fix(header): [medium] serve stored headers when syncer head lags",
-        "url": "https://github.com/celestiaorg/celestia-node/pull/5326",
-        "repo": "celestia-node",
-        "author": "vgonkivs",
-        "authorCategory": "coworker",
-        "reviewer": "renaynay",
-        "requestedAt": "2026-10-12T13:24:34Z"
-      },
-      {
-        "number": 120,
-        "title": "ci: disable Mergify merge queue comments",
-        "url": "https://github.com/celestiaorg/da-proxy/pull/120",
-        "repo": "da-proxy",
-        "author": "rootulp",
-        "authorCategory": "coworker",
-        "reviewer": "renaynay",
-        "requestedAt": "2026-10-12T18:55:23Z"
       },
       {
         "number": 5314,
@@ -222,16 +192,6 @@
       }
     ],
     "vgonkivs": [
-      {
-        "number": 8089,
-        "title": "fix(fibre): [low] check that object backend bucket is usable on start-up, if configured",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/8089",
-        "repo": "celestia-app",
-        "author": "renaynay",
-        "authorCategory": "coworker",
-        "reviewer": "vgonkivs",
-        "requestedAt": "2026-10-06T13:23:56Z"
-      },
       {
         "number": 5328,
         "title": "chore(deps): bump actions/upload-artifact from 4 to 6",
@@ -557,6 +517,16 @@
         "requestedAt": "2026-10-14T07:44:29Z"
       },
       {
+        "number": 8183,
+        "title": "perf(fibre): [high] pre-verify pay-for-fibre signatures in CheckTx, after admission",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/8183",
+        "repo": "celestia-app",
+        "author": "rach-id",
+        "authorCategory": "coworker",
+        "reviewer": "walldiss",
+        "requestedAt": "2026-10-14T12:20:35Z"
+      },
+      {
         "number": 5264,
         "title": "fix(fibre): detach Upload's shard fan-out from the caller ctx",
         "url": "https://github.com/celestiaorg/celestia-node/pull/5264",
@@ -629,5 +599,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-10-14T11:57:07.342Z"
+  "fetchedAt": "2026-10-14T12:23:27.146Z"
 }
