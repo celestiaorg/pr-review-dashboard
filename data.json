@@ -555,6 +555,16 @@
         "requestedAt": "2026-10-13T04:09:40Z"
       },
       {
+        "number": 348,
+        "title": "chore(deps): bump github.com/tidwall/gjson from 1.19.0 to 1.20.0",
+        "url": "https://github.com/celestiaorg/nmt/pull/348",
+        "repo": "nmt",
+        "author": "dependabot",
+        "authorCategory": "bot",
+        "reviewer": "theodorebugnet",
+        "requestedAt": "2026-10-14T04:35:42Z"
+      },
+      {
         "number": 5312,
         "title": "fix(nodebuilder/blob): don't panic in submit with --input-file",
         "url": "https://github.com/celestiaorg/celestia-node/pull/5312",
@@ -669,5 +679,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-10-14T04:18:16.013Z"
+  "fetchedAt": "2026-10-14T04:36:33.593Z"
 }
