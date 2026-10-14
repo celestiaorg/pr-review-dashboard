@@ -179,16 +179,6 @@
         "requestedAt": "2026-10-12T18:55:23Z"
       },
       {
-        "number": 8161,
-        "title": "test(ante): [low] cover tx size gas edge cases",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/8161",
-        "repo": "celestia-app",
-        "author": "rootulp",
-        "authorCategory": "coworker",
-        "reviewer": "renaynay",
-        "requestedAt": "2026-10-14T06:14:34Z"
-      },
-      {
         "number": 5314,
         "title": "fix(nodebuilder/node): register the --ttl flag on set-permissions",
         "url": "https://github.com/celestiaorg/celestia-node/pull/5314",
@@ -234,7 +224,7 @@
     "vgonkivs": [
       {
         "number": 8089,
-        "title": "fix(fibre): check that object backend bucket is usable on start-up, if configured `[low]` ",
+        "title": "fix(fibre): [low] check that object backend bucket is usable on start-up, if configured",
         "url": "https://github.com/celestiaorg/celestia-app/pull/8089",
         "repo": "celestia-app",
         "author": "renaynay",
@@ -639,5 +629,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-10-14T11:42:54.155Z"
+  "fetchedAt": "2026-10-14T11:50:45.725Z"
 }
