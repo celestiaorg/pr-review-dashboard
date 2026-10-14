@@ -54,16 +54,6 @@
         "requestedAt": "2026-10-08T13:18:27Z"
       },
       {
-        "number": 8192,
-        "title": "fix(app): [high] branch ante state per tx in prepare proposal",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/8192",
-        "repo": "celestia-app",
-        "author": "rootulp",
-        "authorCategory": "coworker",
-        "reviewer": "pippokr",
-        "requestedAt": "2026-10-14T16:37:43Z"
-      },
-      {
         "number": 3463,
         "title": "build(deps): Bump github.com/grafana/otel-profiling-go from 0.6.0 to 0.7.0",
         "url": "https://github.com/celestiaorg/celestia-core/pull/3463",
@@ -136,6 +126,16 @@
         "authorCategory": "coworker",
         "reviewer": "rach-id",
         "requestedAt": "2026-10-14T22:52:49Z"
+      },
+      {
+        "number": 8192,
+        "title": "fix(app): [high] branch ante state per tx in prepare proposal",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/8192",
+        "repo": "celestia-app",
+        "author": "rootulp",
+        "authorCategory": "coworker",
+        "reviewer": "rach-id",
+        "requestedAt": "2026-10-14T23:02:51Z"
       }
     ],
     "renaynay": [
@@ -182,16 +182,6 @@
     ],
     "rootulp": [
       {
-        "number": 8183,
-        "title": "perf(fibre): [high] pre-verify pay-for-fibre signatures in CheckTx, after admission",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/8183",
-        "repo": "celestia-app",
-        "author": "rach-id",
-        "authorCategory": "coworker",
-        "reviewer": "rootulp",
-        "requestedAt": "2026-10-14T18:30:37Z"
-      },
-      {
         "number": 8125,
         "title": "fix(app): [high] bound pay-for-fibre pre-verification at its inputs",
         "url": "https://github.com/celestiaorg/celestia-app/pull/8125",
@@ -200,16 +190,6 @@
         "authorCategory": "coworker",
         "reviewer": "rootulp",
         "requestedAt": "2026-10-14T18:34:13Z"
-      },
-      {
-        "number": 8184,
-        "title": "perf(fibre): [low] deduplicate repeated certificates in the pre-verification pass",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/8184",
-        "repo": "celestia-app",
-        "author": "rach-id",
-        "authorCategory": "coworker",
-        "reviewer": "rootulp",
-        "requestedAt": "2026-10-14T18:39:13Z"
       }
     ],
     "vgonkivs": [
@@ -510,5 +490,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-10-14T23:00:25.311Z"
+  "fetchedAt": "2026-10-14T23:17:29.293Z"
 }
