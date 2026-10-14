@@ -174,16 +174,6 @@
         "authorCategory": "coworker",
         "reviewer": "ninabarbakadze",
         "requestedAt": "2026-10-14T05:17:52Z"
-      },
-      {
-        "number": 8149,
-        "title": "chore(deps): [medium] bump linear/linear-release-action from 0.18.0 to 0.18.1 in the github-actions group",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/8149",
-        "repo": "celestia-app",
-        "author": "dependabot",
-        "authorCategory": "bot",
-        "reviewer": "ninabarbakadze",
-        "requestedAt": "2026-10-13T04:08:08Z"
       }
     ],
     "rach-id": [
@@ -206,6 +196,16 @@
         "authorCategory": "coworker",
         "reviewer": "rach-id",
         "requestedAt": "2026-10-14T05:18:04Z"
+      },
+      {
+        "number": 8157,
+        "title": "chore(deps): [medium] bump the github-actions group across 1 directory with 4 updates",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/8157",
+        "repo": "celestia-app",
+        "author": "dependabot",
+        "authorCategory": "bot",
+        "reviewer": "rach-id",
+        "requestedAt": "2026-10-14T05:43:43Z"
       }
     ],
     "renaynay": [
@@ -689,5 +689,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-10-14T05:41:53.334Z"
+  "fetchedAt": "2026-10-14T05:50:45.222Z"
 }
