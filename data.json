@@ -54,16 +54,6 @@
         "requestedAt": "2026-10-08T13:18:27Z"
       },
       {
-        "number": 947,
-        "title": "feat: consolidate evaluator deploying into opt in option for da-proxy",
-        "url": "https://github.com/celestiaorg/infrastructure/pull/947",
-        "repo": "infrastructure",
-        "author": "chatton",
-        "authorCategory": "coworker",
-        "reviewer": "pippokr",
-        "requestedAt": "2026-10-12T12:14:41Z"
-      },
-      {
         "number": 8141,
         "title": "perf(fibre): [high] verify a block's PayForFibre signatures across every CPU",
         "url": "https://github.com/celestiaorg/celestia-app/pull/8141",
@@ -82,16 +72,6 @@
         "authorCategory": "coworker",
         "reviewer": "pippokr",
         "requestedAt": "2026-10-14T06:24:24Z"
-      },
-      {
-        "number": 8170,
-        "title": "ci: [medium] define eligible coverage scope",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/8170",
-        "repo": "celestia-app",
-        "author": "rootulp",
-        "authorCategory": "coworker",
-        "reviewer": "pippokr",
-        "requestedAt": "2026-10-14T08:18:09Z"
       },
       {
         "number": 5309,
@@ -689,5 +669,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-10-14T08:57:40.409Z"
+  "fetchedAt": "2026-10-14T09:19:17.154Z"
 }
