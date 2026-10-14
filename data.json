@@ -2,16 +2,6 @@
   "reviews": {
     "chatton": [
       {
-        "number": 964,
-        "title": "cleanup(mocha): [medium] remove dead block-explorer role and registry leftovers (PR #880)",
-        "url": "https://github.com/celestiaorg/infrastructure/pull/964",
-        "repo": "infrastructure",
-        "author": "pippokr",
-        "authorCategory": "coworker",
-        "reviewer": "chatton",
-        "requestedAt": "2026-10-14T13:54:26Z"
-      },
-      {
         "number": 8155,
         "title": "fix(fibre): [low] shorten idle connection timeouts (backport #8151)",
         "url": "https://github.com/celestiaorg/celestia-app/pull/8155",
@@ -44,16 +34,6 @@
         "requestedAt": "2026-10-14T06:24:24Z"
       },
       {
-        "number": 5333,
-        "title": "fix(e2e/test): fix flakky tastora tests [low]",
-        "url": "https://github.com/celestiaorg/celestia-node/pull/5333",
-        "repo": "celestia-node",
-        "author": "vgonkivs",
-        "authorCategory": "coworker",
-        "reviewer": "pippokr",
-        "requestedAt": "2026-10-14T13:56:24Z"
-      },
-      {
         "number": 8085,
         "title": "fix(fibre): extend server duration buckets to 60s for object storage",
         "url": "https://github.com/celestiaorg/celestia-app/pull/8085",
@@ -74,10 +54,30 @@
         "authorCategory": "coworker",
         "reviewer": "ninabarbakadze",
         "requestedAt": "2026-10-14T11:08:04Z"
+      },
+      {
+        "number": 8187,
+        "title": "fix(fibre)!: [low] key escrow state by the canonical signer address",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/8187",
+        "repo": "celestia-app",
+        "author": "durenodes",
+        "authorCategory": "external",
+        "reviewer": "ninabarbakadze",
+        "requestedAt": "2026-10-14T14:00:42Z"
       }
     ],
     "rach-id": [],
     "renaynay": [
+      {
+        "number": 5326,
+        "title": "fix(header): [medium] serve stored headers when syncer head lags",
+        "url": "https://github.com/celestiaorg/celestia-node/pull/5326",
+        "repo": "celestia-node",
+        "author": "vgonkivs",
+        "authorCategory": "coworker",
+        "reviewer": "renaynay",
+        "requestedAt": "2026-10-14T14:19:40Z"
+      },
       {
         "number": 8147,
         "title": "fix(fibre)!: [low] bound the payment promise height window",
@@ -109,6 +109,26 @@
         "authorCategory": "coworker",
         "reviewer": "rootulp",
         "requestedAt": "2026-10-14T10:57:28Z"
+      },
+      {
+        "number": 5333,
+        "title": "fix(e2e/test): fix flakky tastora tests [low]",
+        "url": "https://github.com/celestiaorg/celestia-node/pull/5333",
+        "repo": "celestia-node",
+        "author": "vgonkivs",
+        "authorCategory": "coworker",
+        "reviewer": "rootulp",
+        "requestedAt": "2026-10-14T14:04:29Z"
+      },
+      {
+        "number": 5334,
+        "title": "bump(dependency): bump go-header to the latest version [low]",
+        "url": "https://github.com/celestiaorg/celestia-node/pull/5334",
+        "repo": "celestia-node",
+        "author": "vgonkivs",
+        "authorCategory": "coworker",
+        "reviewer": "rootulp",
+        "requestedAt": "2026-10-14T14:08:32Z"
       }
     ],
     "vgonkivs": [
@@ -369,5 +389,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-10-14T13:59:19.713Z"
+  "fetchedAt": "2026-10-14T14:19:55.800Z"
 }
