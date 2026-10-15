@@ -123,16 +123,6 @@
     "rootulp": [],
     "vgonkivs": [
       {
-        "number": 5301,
-        "title": "fix(shrex): stream namespace responses sequentially `[high]`",
-        "url": "https://github.com/celestiaorg/celestia-node/pull/5301",
-        "repo": "celestia-node",
-        "author": "renaynay",
-        "authorCategory": "coworker",
-        "reviewer": "vgonkivs",
-        "requestedAt": "2026-10-01T09:31:05Z"
-      },
-      {
         "number": 5338,
         "title": "fix(blob): `[low]` reject invalid subscription namespaces",
         "url": "https://github.com/celestiaorg/celestia-node/pull/5338",
@@ -389,5 +379,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-10-15T15:35:32.800Z"
+  "fetchedAt": "2026-10-15T15:46:35.539Z"
 }
