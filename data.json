@@ -223,16 +223,6 @@
         "requestedAt": "2026-10-14T05:51:19Z"
       },
       {
-        "number": 3459,
-        "title": "build(deps): Bump go.opentelemetry.io/otel from 1.46.0 to 1.47.0",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3459",
-        "repo": "celestia-core",
-        "author": "dependabot",
-        "authorCategory": "bot",
-        "reviewer": "vgonkivs",
-        "requestedAt": "2026-10-14T20:07:05Z"
-      },
-      {
         "number": 3468,
         "title": "build(deps): Bump github.com/aws/aws-sdk-go-v2/config from 1.33.6 to 1.33.7",
         "url": "https://github.com/celestiaorg/celestia-core/pull/3468",
@@ -363,16 +353,6 @@
         "authorCategory": "bot",
         "reviewer": "theodorebugnet",
         "requestedAt": "2026-10-14T04:35:42Z"
-      },
-      {
-        "number": 3466,
-        "title": "build(deps): Bump go.opentelemetry.io/otel/sdk from 1.46.0 to 1.47.0",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3466",
-        "repo": "celestia-core",
-        "author": "dependabot",
-        "authorCategory": "bot",
-        "reviewer": "theodorebugnet",
-        "requestedAt": "2026-10-14T20:11:30Z"
       }
     ],
     "walldiss": [
@@ -489,5 +469,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-10-15T09:22:33.423Z"
+  "fetchedAt": "2026-10-15T09:35:51.653Z"
 }
