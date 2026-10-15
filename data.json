@@ -74,16 +74,6 @@
         "requestedAt": "2026-10-15T08:50:30Z"
       },
       {
-        "number": 969,
-        "title": "feat(corto-10): downscale to c8gn.4xlarge validators and 1-10 c8gn.4xlarge encoders",
-        "url": "https://github.com/celestiaorg/infrastructure/pull/969",
-        "repo": "infrastructure",
-        "author": "walldiss",
-        "authorCategory": "coworker",
-        "reviewer": "pippokr",
-        "requestedAt": "2026-10-15T08:50:32Z"
-      },
-      {
         "number": 8085,
         "title": "fix(fibre): extend server duration buckets to 60s for object storage",
         "url": "https://github.com/celestiaorg/celestia-app/pull/8085",
@@ -479,5 +469,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-10-15T09:47:20.672Z"
+  "fetchedAt": "2026-10-15T09:55:12.714Z"
 }
