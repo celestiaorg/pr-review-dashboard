@@ -44,6 +44,16 @@
         "requestedAt": "2026-10-08T13:18:27Z"
       },
       {
+        "number": 977,
+        "title": "docs(corto-10): encoders at MAX_CONNECTIONS 24 and 0.4 GiB/s per instance",
+        "url": "https://github.com/celestiaorg/infrastructure/pull/977",
+        "repo": "infrastructure",
+        "author": "walldiss",
+        "authorCategory": "coworker",
+        "reviewer": "pippokr",
+        "requestedAt": "2026-10-15T13:01:13Z"
+      },
+      {
         "number": 8085,
         "title": "fix(fibre): extend server duration buckets to 60s for object storage",
         "url": "https://github.com/celestiaorg/celestia-app/pull/8085",
@@ -131,6 +141,16 @@
         "authorCategory": "coworker",
         "reviewer": "vgonkivs",
         "requestedAt": "2026-10-01T09:31:05Z"
+      },
+      {
+        "number": 977,
+        "title": "docs(corto-10): encoders at MAX_CONNECTIONS 24 and 0.4 GiB/s per instance",
+        "url": "https://github.com/celestiaorg/infrastructure/pull/977",
+        "repo": "infrastructure",
+        "author": "walldiss",
+        "authorCategory": "coworker",
+        "reviewer": "vgonkivs",
+        "requestedAt": "2026-10-15T13:01:13Z"
       },
       {
         "number": 5328,
@@ -359,5 +379,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-10-15T12:59:33.870Z"
+  "fetchedAt": "2026-10-15T13:20:43.541Z"
 }
