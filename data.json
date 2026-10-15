@@ -180,18 +180,7 @@
         "requestedAt": "2026-10-13T01:01:41Z"
       }
     ],
-    "rootulp": [
-      {
-        "number": 8125,
-        "title": "fix(app): [high] bound pay-for-fibre pre-verification at its inputs",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/8125",
-        "repo": "celestia-app",
-        "author": "rach-id",
-        "authorCategory": "coworker",
-        "reviewer": "rootulp",
-        "requestedAt": "2026-10-14T18:34:13Z"
-      }
-    ],
+    "rootulp": [],
     "vgonkivs": [
       {
         "number": 5328,
@@ -490,5 +479,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-10-15T04:47:09.374Z"
+  "fetchedAt": "2026-10-15T04:55:23.162Z"
 }
