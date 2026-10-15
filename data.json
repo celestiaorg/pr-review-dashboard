@@ -130,16 +130,6 @@
     ],
     "renaynay": [
       {
-        "number": 5326,
-        "title": "fix(header): [medium] serve stored headers when syncer head lags",
-        "url": "https://github.com/celestiaorg/celestia-node/pull/5326",
-        "repo": "celestia-node",
-        "author": "vgonkivs",
-        "authorCategory": "coworker",
-        "reviewer": "renaynay",
-        "requestedAt": "2026-10-14T14:19:40Z"
-      },
-      {
         "number": 8147,
         "title": "fix(fibre)!: [low] bound the payment promise height window",
         "url": "https://github.com/celestiaorg/celestia-app/pull/8147",
@@ -181,16 +171,6 @@
         "authorCategory": "bot",
         "reviewer": "vgonkivs",
         "requestedAt": "2026-10-14T20:14:33Z"
-      },
-      {
-        "number": 5170,
-        "title": "core: Reject incomplete gRPC responses",
-        "url": "https://github.com/celestiaorg/celestia-node/pull/5170",
-        "repo": "celestia-node",
-        "author": "neyy91",
-        "authorCategory": "external",
-        "reviewer": "vgonkivs",
-        "requestedAt": "2026-08-15T20:28:52Z"
       },
       {
         "number": 5174,
@@ -307,16 +287,6 @@
     ],
     "walldiss": [
       {
-        "number": 5326,
-        "title": "fix(header): [medium] serve stored headers when syncer head lags",
-        "url": "https://github.com/celestiaorg/celestia-node/pull/5326",
-        "repo": "celestia-node",
-        "author": "vgonkivs",
-        "authorCategory": "coworker",
-        "reviewer": "walldiss",
-        "requestedAt": "2026-10-12T13:24:34Z"
-      },
-      {
         "number": 8160,
         "title": "test(app): [low] cover index wrapper decoding and max effective square size",
         "url": "https://github.com/celestiaorg/celestia-app/pull/8160",
@@ -345,16 +315,6 @@
         "authorCategory": "bot",
         "reviewer": "walldiss",
         "requestedAt": "2026-10-14T20:09:40Z"
-      },
-      {
-        "number": 3470,
-        "title": "build(deps): Bump golang.org/x/sync from 0.23.0 to 0.24.0",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3470",
-        "repo": "celestia-core",
-        "author": "dependabot",
-        "authorCategory": "bot",
-        "reviewer": "walldiss",
-        "requestedAt": "2026-10-14T21:04:22Z"
       },
       {
         "number": 5268,
@@ -419,5 +379,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-10-15T10:23:04.899Z"
+  "fetchedAt": "2026-10-15T10:35:12.856Z"
 }
