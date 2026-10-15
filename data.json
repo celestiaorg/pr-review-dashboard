@@ -2,6 +2,16 @@
   "reviews": {
     "chatton": [
       {
+        "number": 8199,
+        "title": "test: [low] bump tastora to v0.21.2 to fix docker host port races",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/8199",
+        "repo": "celestia-app",
+        "author": "rootulp",
+        "authorCategory": "coworker",
+        "reviewer": "chatton",
+        "requestedAt": "2026-10-15T13:30:31Z"
+      },
+      {
         "number": 8155,
         "title": "fix(fibre): [low] shorten idle connection timeouts (backport #8151)",
         "url": "https://github.com/celestiaorg/celestia-app/pull/8155",
@@ -44,16 +54,6 @@
         "requestedAt": "2026-10-08T13:18:27Z"
       },
       {
-        "number": 977,
-        "title": "docs(corto-10): encoders at MAX_CONNECTIONS 24 and 0.4 GiB/s per instance",
-        "url": "https://github.com/celestiaorg/infrastructure/pull/977",
-        "repo": "infrastructure",
-        "author": "walldiss",
-        "authorCategory": "coworker",
-        "reviewer": "pippokr",
-        "requestedAt": "2026-10-15T13:01:13Z"
-      },
-      {
         "number": 8085,
         "title": "fix(fibre): extend server duration buckets to 60s for object storage",
         "url": "https://github.com/celestiaorg/celestia-app/pull/8085",
@@ -94,16 +94,6 @@
         "authorCategory": "external",
         "reviewer": "ninabarbakadze",
         "requestedAt": "2026-10-14T14:00:42Z"
-      },
-      {
-        "number": 456,
-        "title": "docs: clarify Roots and Repair behavior",
-        "url": "https://github.com/celestiaorg/rsmt2d/pull/456",
-        "repo": "rsmt2d",
-        "author": "luangucun",
-        "authorCategory": "external",
-        "reviewer": "ninabarbakadze",
-        "requestedAt": "2026-10-15T09:37:22Z"
       }
     ],
     "rach-id": [],
@@ -117,9 +107,7 @@
         "authorCategory": "external",
         "reviewer": "renaynay",
         "requestedAt": "2026-10-13T01:01:41Z"
-      }
-    ],
-    "rootulp": [
+      },
       {
         "number": 5337,
         "title": "test(tastora/canary): add Docker session for a fresh light node",
@@ -127,10 +115,11 @@
         "repo": "celestia-node",
         "author": "Denend",
         "authorCategory": "external",
-        "reviewer": "rootulp",
-        "requestedAt": "2026-10-15T10:50:49Z"
+        "reviewer": "renaynay",
+        "requestedAt": "2026-10-15T13:33:25Z"
       }
     ],
+    "rootulp": [],
     "vgonkivs": [
       {
         "number": 5301,
@@ -143,14 +132,14 @@
         "requestedAt": "2026-10-01T09:31:05Z"
       },
       {
-        "number": 977,
-        "title": "docs(corto-10): encoders at MAX_CONNECTIONS 24 and 0.4 GiB/s per instance",
-        "url": "https://github.com/celestiaorg/infrastructure/pull/977",
-        "repo": "infrastructure",
-        "author": "walldiss",
+        "number": 3473,
+        "title": "fix(abci/client): clear in-flight requests in flushQueue",
+        "url": "https://github.com/celestiaorg/celestia-core/pull/3473",
+        "repo": "celestia-core",
+        "author": "rootulp",
         "authorCategory": "coworker",
         "reviewer": "vgonkivs",
-        "requestedAt": "2026-10-15T13:01:13Z"
+        "requestedAt": "2026-10-15T13:28:35Z"
       },
       {
         "number": 5328,
@@ -261,6 +250,16 @@
         "authorCategory": "external",
         "reviewer": "vgonkivs",
         "requestedAt": "2026-10-03T06:58:50Z"
+      },
+      {
+        "number": 5337,
+        "title": "test(tastora/canary): add Docker session for a fresh light node",
+        "url": "https://github.com/celestiaorg/celestia-node/pull/5337",
+        "repo": "celestia-node",
+        "author": "Denend",
+        "authorCategory": "external",
+        "reviewer": "vgonkivs",
+        "requestedAt": "2026-10-15T13:33:25Z"
       }
     ],
     "theodorebugnet": [
@@ -325,6 +324,16 @@
         "authorCategory": "external",
         "reviewer": "walldiss",
         "requestedAt": "2026-10-06T13:17:02Z"
+      },
+      {
+        "number": 5337,
+        "title": "test(tastora/canary): add Docker session for a fresh light node",
+        "url": "https://github.com/celestiaorg/celestia-node/pull/5337",
+        "repo": "celestia-node",
+        "author": "Denend",
+        "authorCategory": "external",
+        "reviewer": "walldiss",
+        "requestedAt": "2026-10-15T13:33:25Z"
       }
     ]
   },
@@ -379,5 +388,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-10-15T13:20:43.541Z"
+  "fetchedAt": "2026-10-15T13:34:13.535Z"
 }
