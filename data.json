@@ -56,16 +56,6 @@
     ],
     "ninabarbakadze": [
       {
-        "number": 8193,
-        "title": "fix(app): [high] align prepare proposal tx filtering with process proposal",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/8193",
-        "repo": "celestia-app",
-        "author": "rootulp",
-        "authorCategory": "coworker",
-        "reviewer": "ninabarbakadze",
-        "requestedAt": "2026-10-14T16:46:57Z"
-      },
-      {
         "number": 3473,
         "title": "fix(abci/client): clear in-flight requests in flushQueue",
         "url": "https://github.com/celestiaorg/celestia-core/pull/3473",
@@ -84,26 +74,6 @@
         "authorCategory": "coworker",
         "reviewer": "ninabarbakadze",
         "requestedAt": "2026-10-15T19:04:02Z"
-      },
-      {
-        "number": 8164,
-        "title": "test(da): [low] pin data root vectors and cover pooled tree boundaries",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/8164",
-        "repo": "celestia-app",
-        "author": "rootulp",
-        "authorCategory": "coworker",
-        "reviewer": "ninabarbakadze",
-        "requestedAt": "2026-10-15T19:04:06Z"
-      },
-      {
-        "number": 8190,
-        "title": "fix(multiplexer): [medium] initialize nextAppVersion",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/8190",
-        "repo": "celestia-app",
-        "author": "rootulp",
-        "authorCategory": "coworker",
-        "reviewer": "ninabarbakadze",
-        "requestedAt": "2026-10-15T19:04:09Z"
       },
       {
         "number": 8187,
@@ -284,16 +254,6 @@
     ],
     "theodorebugnet": [
       {
-        "number": 8164,
-        "title": "test(da): [low] pin data root vectors and cover pooled tree boundaries",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/8164",
-        "repo": "celestia-app",
-        "author": "rootulp",
-        "authorCategory": "coworker",
-        "reviewer": "theodorebugnet",
-        "requestedAt": "2026-10-14T06:45:43Z"
-      },
-      {
         "number": 305,
         "title": "ci: create public Buf module on release push",
         "url": "https://github.com/celestiaorg/go-square/pull/305",
@@ -408,5 +368,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-10-15T20:07:32.401Z"
+  "fetchedAt": "2026-10-15T20:21:48.273Z"
 }
