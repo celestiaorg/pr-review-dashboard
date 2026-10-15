@@ -124,6 +124,16 @@
         "authorCategory": "external",
         "reviewer": "ninabarbakadze",
         "requestedAt": "2026-10-14T14:00:42Z"
+      },
+      {
+        "number": 456,
+        "title": "docs: clarify Roots and Repair behavior",
+        "url": "https://github.com/celestiaorg/rsmt2d/pull/456",
+        "repo": "rsmt2d",
+        "author": "luangucun",
+        "authorCategory": "external",
+        "reviewer": "ninabarbakadze",
+        "requestedAt": "2026-10-15T09:37:22Z"
       }
     ],
     "rach-id": [
@@ -469,5 +479,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-10-15T09:35:51.653Z"
+  "fetchedAt": "2026-10-15T09:47:20.672Z"
 }
