@@ -76,16 +76,6 @@
     ],
     "ninabarbakadze": [
       {
-        "number": 8183,
-        "title": "perf(fibre): [high] pre-verify pay-for-fibre signatures in CheckTx, after admission",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/8183",
-        "repo": "celestia-app",
-        "author": "rach-id",
-        "authorCategory": "coworker",
-        "reviewer": "ninabarbakadze",
-        "requestedAt": "2026-10-14T12:20:46Z"
-      },
-      {
         "number": 8193,
         "title": "fix(app): [high] align prepare proposal tx filtering with process proposal",
         "url": "https://github.com/celestiaorg/celestia-app/pull/8193",
@@ -489,5 +479,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-10-15T06:57:23.377Z"
+  "fetchedAt": "2026-10-15T07:20:53.796Z"
 }
