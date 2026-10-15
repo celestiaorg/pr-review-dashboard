@@ -109,7 +109,18 @@
         "requestedAt": "2026-10-15T13:33:25Z"
       }
     ],
-    "rootulp": [],
+    "rootulp": [
+      {
+        "number": 142,
+        "title": "docs: describe the repository as standalone, not a fork",
+        "url": "https://github.com/celestiaorg/cosmos-sdk/pull/142",
+        "repo": "cosmos-sdk",
+        "author": "rach-id",
+        "authorCategory": "coworker",
+        "reviewer": "rootulp",
+        "requestedAt": "2026-10-15T22:08:41Z"
+      }
+    ],
     "vgonkivs": [
       {
         "number": 5338,
@@ -348,5 +359,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-10-15T22:00:53.321Z"
+  "fetchedAt": "2026-10-15T22:19:17.643Z"
 }
