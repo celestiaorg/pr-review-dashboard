@@ -2,16 +2,6 @@
   "reviews": {
     "chatton": [
       {
-        "number": 974,
-        "title": "fix(ci): [low] document and enforce which 1Password vaults CI can read",
-        "url": "https://github.com/celestiaorg/infrastructure/pull/974",
-        "repo": "infrastructure",
-        "author": "pippokr",
-        "authorCategory": "coworker",
-        "reviewer": "chatton",
-        "requestedAt": "2026-10-15T11:31:56Z"
-      },
-      {
         "number": 8155,
         "title": "fix(fibre): [low] shorten idle connection timeouts (backport #8151)",
         "url": "https://github.com/celestiaorg/celestia-app/pull/8155",
@@ -141,6 +131,16 @@
         "authorCategory": "coworker",
         "reviewer": "vgonkivs",
         "requestedAt": "2026-10-01T09:31:05Z"
+      },
+      {
+        "number": 975,
+        "title": "chore(corto-10): template instance types match the resized fleet",
+        "url": "https://github.com/celestiaorg/infrastructure/pull/975",
+        "repo": "infrastructure",
+        "author": "walldiss",
+        "authorCategory": "coworker",
+        "reviewer": "vgonkivs",
+        "requestedAt": "2026-10-15T12:31:49Z"
       },
       {
         "number": 5328,
@@ -369,5 +369,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-10-15T12:19:22.645Z"
+  "fetchedAt": "2026-10-15T12:43:27.269Z"
 }
