@@ -132,6 +132,16 @@
         "requestedAt": "2026-10-01T09:31:05Z"
       },
       {
+        "number": 5338,
+        "title": "fix(blob): `[low]` reject invalid subscription namespaces",
+        "url": "https://github.com/celestiaorg/celestia-node/pull/5338",
+        "repo": "celestia-node",
+        "author": "renaynay",
+        "authorCategory": "coworker",
+        "reviewer": "vgonkivs",
+        "requestedAt": "2026-10-15T14:27:22Z"
+      },
+      {
         "number": 5328,
         "title": "chore(deps): bump actions/upload-artifact from 4 to 6",
         "url": "https://github.com/celestiaorg/celestia-node/pull/5328",
@@ -378,5 +388,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-10-15T14:24:11.181Z"
+  "fetchedAt": "2026-10-15T14:35:50.388Z"
 }
