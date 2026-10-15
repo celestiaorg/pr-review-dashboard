@@ -76,6 +76,36 @@
         "requestedAt": "2026-10-15T13:35:03Z"
       },
       {
+        "number": 8160,
+        "title": "test(app): [low] cover index wrapper decoding and max effective square size",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/8160",
+        "repo": "celestia-app",
+        "author": "rootulp",
+        "authorCategory": "coworker",
+        "reviewer": "ninabarbakadze",
+        "requestedAt": "2026-10-15T19:04:02Z"
+      },
+      {
+        "number": 8164,
+        "title": "test(da): [low] pin data root vectors and cover pooled tree boundaries",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/8164",
+        "repo": "celestia-app",
+        "author": "rootulp",
+        "authorCategory": "coworker",
+        "reviewer": "ninabarbakadze",
+        "requestedAt": "2026-10-15T19:04:06Z"
+      },
+      {
+        "number": 8190,
+        "title": "fix(multiplexer): [medium] initialize nextAppVersion",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/8190",
+        "repo": "celestia-app",
+        "author": "rootulp",
+        "authorCategory": "coworker",
+        "reviewer": "ninabarbakadze",
+        "requestedAt": "2026-10-15T19:04:09Z"
+      },
+      {
         "number": 8187,
         "title": "fix(fibre)!: [low] key escrow state by the canonical signer address",
         "url": "https://github.com/celestiaorg/celestia-app/pull/8187",
@@ -96,7 +126,48 @@
         "requestedAt": "2026-10-15T17:53:40Z"
       }
     ],
-    "rach-id": [],
+    "rach-id": [
+      {
+        "number": 8160,
+        "title": "test(app): [low] cover index wrapper decoding and max effective square size",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/8160",
+        "repo": "celestia-app",
+        "author": "rootulp",
+        "authorCategory": "coworker",
+        "reviewer": "rach-id",
+        "requestedAt": "2026-10-15T19:04:02Z"
+      },
+      {
+        "number": 8164,
+        "title": "test(da): [low] pin data root vectors and cover pooled tree boundaries",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/8164",
+        "repo": "celestia-app",
+        "author": "rootulp",
+        "authorCategory": "coworker",
+        "reviewer": "rach-id",
+        "requestedAt": "2026-10-15T19:04:06Z"
+      },
+      {
+        "number": 8190,
+        "title": "fix(multiplexer): [medium] initialize nextAppVersion",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/8190",
+        "repo": "celestia-app",
+        "author": "rootulp",
+        "authorCategory": "coworker",
+        "reviewer": "rach-id",
+        "requestedAt": "2026-10-15T19:04:10Z"
+      },
+      {
+        "number": 8193,
+        "title": "fix(app): [high] align prepare proposal tx filtering with process proposal",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/8193",
+        "repo": "celestia-app",
+        "author": "rootulp",
+        "authorCategory": "coworker",
+        "reviewer": "rach-id",
+        "requestedAt": "2026-10-15T19:04:12Z"
+      }
+    ],
     "renaynay": [
       {
         "number": 8147,
@@ -378,5 +449,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-10-15T18:58:18.360Z"
+  "fetchedAt": "2026-10-15T19:14:52.300Z"
 }
