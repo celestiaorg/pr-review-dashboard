@@ -76,16 +76,6 @@
         "requestedAt": "2026-10-15T13:35:03Z"
       },
       {
-        "number": 3464,
-        "title": "build(deps): Bump github.com/aws/aws-sdk-go-v2/service/s3 from 1.113.4 to 1.114.1",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3464",
-        "repo": "celestia-core",
-        "author": "dependabot",
-        "authorCategory": "bot",
-        "reviewer": "ninabarbakadze",
-        "requestedAt": "2026-10-14T20:11:07Z"
-      },
-      {
         "number": 8187,
         "title": "fix(fibre)!: [low] key escrow state by the canonical signer address",
         "url": "https://github.com/celestiaorg/celestia-app/pull/8187",
@@ -399,5 +389,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-10-15T15:04:15.892Z"
+  "fetchedAt": "2026-10-15T15:23:37.458Z"
 }
