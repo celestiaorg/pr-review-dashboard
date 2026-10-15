@@ -136,6 +136,16 @@
         "authorCategory": "coworker",
         "reviewer": "rach-id",
         "requestedAt": "2026-10-14T23:02:51Z"
+      },
+      {
+        "number": 8198,
+        "title": "fix(fibre): [medium] stop ValidatePaymentPromise query from writing the sig cache",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/8198",
+        "repo": "celestia-app",
+        "author": "rootulp",
+        "authorCategory": "coworker",
+        "reviewer": "rach-id",
+        "requestedAt": "2026-10-14T23:45:58Z"
       }
     ],
     "renaynay": [
@@ -479,5 +489,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-10-15T04:55:23.162Z"
+  "fetchedAt": "2026-10-15T05:06:40.330Z"
 }
