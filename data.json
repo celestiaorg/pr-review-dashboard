@@ -2,16 +2,6 @@
   "reviews": {
     "chatton": [
       {
-        "number": 306,
-        "title": "ci: tolerate small project coverage fluctuations",
-        "url": "https://github.com/celestiaorg/go-square/pull/306",
-        "repo": "go-square",
-        "author": "rootulp",
-        "authorCategory": "coworker",
-        "reviewer": "chatton",
-        "requestedAt": "2026-10-14T16:13:36Z"
-      },
-      {
         "number": 8155,
         "title": "fix(fibre): [low] shorten idle connection timeouts (backport #8151)",
         "url": "https://github.com/celestiaorg/celestia-app/pull/8155",
@@ -106,18 +96,7 @@
         "requestedAt": "2026-10-15T09:37:22Z"
       }
     ],
-    "rach-id": [
-      {
-        "number": 8192,
-        "title": "fix(app): [high] branch ante state per tx in prepare proposal",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/8192",
-        "repo": "celestia-app",
-        "author": "rootulp",
-        "authorCategory": "coworker",
-        "reviewer": "rach-id",
-        "requestedAt": "2026-10-14T23:02:51Z"
-      }
-    ],
+    "rach-id": [],
     "renaynay": [
       {
         "number": 8147,
@@ -130,7 +109,18 @@
         "requestedAt": "2026-10-13T01:01:41Z"
       }
     ],
-    "rootulp": [],
+    "rootulp": [
+      {
+        "number": 5337,
+        "title": "test(tastora/canary): add Docker session for a fresh light node",
+        "url": "https://github.com/celestiaorg/celestia-node/pull/5337",
+        "repo": "celestia-node",
+        "author": "Denend",
+        "authorCategory": "external",
+        "reviewer": "rootulp",
+        "requestedAt": "2026-10-15T10:50:49Z"
+      }
+    ],
     "vgonkivs": [
       {
         "number": 5328,
@@ -287,16 +277,6 @@
         "requestedAt": "2026-10-14T06:14:17Z"
       },
       {
-        "number": 8168,
-        "title": "test(app): [low] cover pff signature cache mutation and replay parity",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/8168",
-        "repo": "celestia-app",
-        "author": "rootulp",
-        "authorCategory": "coworker",
-        "reviewer": "walldiss",
-        "requestedAt": "2026-10-14T07:44:29Z"
-      },
-      {
         "number": 3461,
         "title": "build(deps): Bump actions/upload-artifact from 7.0.1 to 7.0.2",
         "url": "https://github.com/celestiaorg/celestia-core/pull/3461",
@@ -369,5 +349,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-10-15T10:45:49.125Z"
+  "fetchedAt": "2026-10-15T10:53:44.315Z"
 }
