@@ -2,6 +2,16 @@
   "reviews": {
     "chatton": [
       {
+        "number": 143,
+        "title": "ci: disable routine Dependabot Go module updates",
+        "url": "https://github.com/celestiaorg/cosmos-sdk/pull/143",
+        "repo": "cosmos-sdk",
+        "author": "rach-id",
+        "authorCategory": "coworker",
+        "reviewer": "chatton",
+        "requestedAt": "2026-10-15T22:19:37Z"
+      },
+      {
         "number": 8155,
         "title": "fix(fibre): [low] shorten idle connection timeouts (backport #8151)",
         "url": "https://github.com/celestiaorg/celestia-app/pull/8155",
@@ -86,7 +96,18 @@
         "requestedAt": "2026-10-15T17:53:40Z"
       }
     ],
-    "rach-id": [],
+    "rach-id": [
+      {
+        "number": 8203,
+        "title": "fix(multiplexer): [high] start on the app's committed app version",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/8203",
+        "repo": "celestia-app",
+        "author": "rootulp",
+        "authorCategory": "coworker",
+        "reviewer": "rach-id",
+        "requestedAt": "2026-10-15T22:28:51Z"
+      }
+    ],
     "renaynay": [
       {
         "number": 8147,
@@ -119,6 +140,26 @@
         "authorCategory": "coworker",
         "reviewer": "rootulp",
         "requestedAt": "2026-10-15T22:08:41Z"
+      },
+      {
+        "number": 8202,
+        "title": "docs: [low] repoint cosmos-sdk references after the unfork",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/8202",
+        "repo": "celestia-app",
+        "author": "rach-id",
+        "authorCategory": "coworker",
+        "reviewer": "rootulp",
+        "requestedAt": "2026-10-15T22:21:55Z"
+      },
+      {
+        "number": 143,
+        "title": "ci: disable routine Dependabot Go module updates",
+        "url": "https://github.com/celestiaorg/cosmos-sdk/pull/143",
+        "repo": "cosmos-sdk",
+        "author": "rach-id",
+        "authorCategory": "coworker",
+        "reviewer": "rootulp",
+        "requestedAt": "2026-10-15T22:22:44Z"
       }
     ],
     "vgonkivs": [
@@ -131,6 +172,16 @@
         "authorCategory": "coworker",
         "reviewer": "vgonkivs",
         "requestedAt": "2026-10-15T14:27:22Z"
+      },
+      {
+        "number": 5339,
+        "title": "docs: repoint cosmos-sdk references after the unfork",
+        "url": "https://github.com/celestiaorg/celestia-node/pull/5339",
+        "repo": "celestia-node",
+        "author": "rach-id",
+        "authorCategory": "coworker",
+        "reviewer": "vgonkivs",
+        "requestedAt": "2026-10-15T22:19:34Z"
       },
       {
         "number": 5328,
@@ -359,5 +410,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-10-15T22:19:17.643Z"
+  "fetchedAt": "2026-10-15T22:30:35.272Z"
 }
