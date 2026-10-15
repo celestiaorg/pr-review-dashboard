@@ -2,6 +2,16 @@
   "reviews": {
     "chatton": [
       {
+        "number": 974,
+        "title": "fix(ci): [low] document and enforce which 1Password vaults CI can read",
+        "url": "https://github.com/celestiaorg/infrastructure/pull/974",
+        "repo": "infrastructure",
+        "author": "pippokr",
+        "authorCategory": "coworker",
+        "reviewer": "chatton",
+        "requestedAt": "2026-10-15T11:31:56Z"
+      },
+      {
         "number": 8155,
         "title": "fix(fibre): [low] shorten idle connection timeouts (backport #8151)",
         "url": "https://github.com/celestiaorg/celestia-app/pull/8155",
@@ -349,5 +359,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-10-15T11:30:20.226Z"
+  "fetchedAt": "2026-10-15T11:42:10.365Z"
 }
