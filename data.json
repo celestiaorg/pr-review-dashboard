@@ -160,16 +160,6 @@
         "requestedAt": "2026-10-14T14:19:40Z"
       },
       {
-        "number": 3462,
-        "title": "build(deps): Bump go.opentelemetry.io/otel/exporters/stdout/stdouttrace from 1.46.0 to 1.47.0",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3462",
-        "repo": "celestia-core",
-        "author": "dependabot",
-        "authorCategory": "bot",
-        "reviewer": "renaynay",
-        "requestedAt": "2026-10-14T20:09:53Z"
-      },
-      {
         "number": 8147,
         "title": "fix(fibre)!: [low] bound the payment promise height window",
         "url": "https://github.com/celestiaorg/celestia-app/pull/8147",
@@ -182,6 +172,36 @@
     ],
     "rootulp": [],
     "vgonkivs": [
+      {
+        "number": 970,
+        "title": "feat(corto-10): re-land private.cf DNS name mirrored by the autoscaler",
+        "url": "https://github.com/celestiaorg/infrastructure/pull/970",
+        "repo": "infrastructure",
+        "author": "walldiss",
+        "authorCategory": "coworker",
+        "reviewer": "vgonkivs",
+        "requestedAt": "2026-10-15T09:00:29Z"
+      },
+      {
+        "number": 971,
+        "title": "fix(corto-10): count a scale-out join in the tick that made it",
+        "url": "https://github.com/celestiaorg/infrastructure/pull/971",
+        "repo": "infrastructure",
+        "author": "walldiss",
+        "authorCategory": "coworker",
+        "reviewer": "vgonkivs",
+        "requestedAt": "2026-10-15T09:00:32Z"
+      },
+      {
+        "number": 969,
+        "title": "feat(corto-10): downscale to c8gn.4xlarge validators and 1-10 c8gn.4xlarge encoders",
+        "url": "https://github.com/celestiaorg/infrastructure/pull/969",
+        "repo": "infrastructure",
+        "author": "walldiss",
+        "authorCategory": "coworker",
+        "reviewer": "vgonkivs",
+        "requestedAt": "2026-10-15T09:00:36Z"
+      },
       {
         "number": 5328,
         "title": "chore(deps): bump actions/upload-artifact from 4 to 6",
@@ -469,5 +489,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-10-15T08:59:41.945Z"
+  "fetchedAt": "2026-10-15T09:22:33.423Z"
 }
