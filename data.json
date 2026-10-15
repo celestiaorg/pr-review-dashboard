@@ -2,16 +2,6 @@
   "reviews": {
     "chatton": [
       {
-        "number": 143,
-        "title": "ci: disable routine Dependabot Go module updates",
-        "url": "https://github.com/celestiaorg/cosmos-sdk/pull/143",
-        "repo": "cosmos-sdk",
-        "author": "rach-id",
-        "authorCategory": "coworker",
-        "reviewer": "chatton",
-        "requestedAt": "2026-10-15T22:19:37Z"
-      },
-      {
         "number": 8155,
         "title": "fix(fibre): [low] shorten idle connection timeouts (backport #8151)",
         "url": "https://github.com/celestiaorg/celestia-app/pull/8155",
@@ -52,6 +42,16 @@
         "authorCategory": "coworker",
         "reviewer": "pippokr",
         "requestedAt": "2026-10-08T13:18:27Z"
+      },
+      {
+        "number": 146,
+        "title": "chore(deps): bump codecov/codecov-action from 7.1.0 to 7.1.1",
+        "url": "https://github.com/celestiaorg/cosmos-sdk/pull/146",
+        "repo": "cosmos-sdk",
+        "author": "dependabot",
+        "authorCategory": "bot",
+        "reviewer": "pippokr",
+        "requestedAt": "2026-10-15T23:24:00Z"
       },
       {
         "number": 8085,
@@ -110,6 +110,16 @@
     ],
     "renaynay": [
       {
+        "number": 145,
+        "title": "chore(deps): bump actions/upload-artifact from 4 to 7",
+        "url": "https://github.com/celestiaorg/cosmos-sdk/pull/145",
+        "repo": "cosmos-sdk",
+        "author": "dependabot",
+        "authorCategory": "bot",
+        "reviewer": "renaynay",
+        "requestedAt": "2026-10-15T23:23:49Z"
+      },
+      {
         "number": 8147,
         "title": "fix(fibre)!: [low] bound the payment promise height window",
         "url": "https://github.com/celestiaorg/celestia-app/pull/8147",
@@ -130,38 +140,7 @@
         "requestedAt": "2026-10-15T13:33:25Z"
       }
     ],
-    "rootulp": [
-      {
-        "number": 142,
-        "title": "docs: describe the repository as standalone, not a fork",
-        "url": "https://github.com/celestiaorg/cosmos-sdk/pull/142",
-        "repo": "cosmos-sdk",
-        "author": "rach-id",
-        "authorCategory": "coworker",
-        "reviewer": "rootulp",
-        "requestedAt": "2026-10-15T22:08:41Z"
-      },
-      {
-        "number": 8202,
-        "title": "docs: [low] repoint cosmos-sdk references after the unfork",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/8202",
-        "repo": "celestia-app",
-        "author": "rach-id",
-        "authorCategory": "coworker",
-        "reviewer": "rootulp",
-        "requestedAt": "2026-10-15T22:21:55Z"
-      },
-      {
-        "number": 143,
-        "title": "ci: disable routine Dependabot Go module updates",
-        "url": "https://github.com/celestiaorg/cosmos-sdk/pull/143",
-        "repo": "cosmos-sdk",
-        "author": "rach-id",
-        "authorCategory": "coworker",
-        "reviewer": "rootulp",
-        "requestedAt": "2026-10-15T22:22:44Z"
-      }
-    ],
+    "rootulp": [],
     "vgonkivs": [
       {
         "number": 5338,
@@ -338,6 +317,16 @@
         "requestedAt": "2026-10-14T20:09:40Z"
       },
       {
+        "number": 144,
+        "title": "chore(deps): bump actions/setup-go from 4 to 7",
+        "url": "https://github.com/celestiaorg/cosmos-sdk/pull/144",
+        "repo": "cosmos-sdk",
+        "author": "dependabot",
+        "authorCategory": "bot",
+        "reviewer": "walldiss",
+        "requestedAt": "2026-10-15T23:23:46Z"
+      },
+      {
         "number": 5268,
         "title": "fix(api/client): use the configured conn for the fibre state client",
         "url": "https://github.com/celestiaorg/celestia-node/pull/5268",
@@ -410,5 +399,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-10-15T23:14:33.135Z"
+  "fetchedAt": "2026-10-15T23:24:38.233Z"
 }
