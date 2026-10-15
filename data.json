@@ -133,16 +133,6 @@
         "requestedAt": "2026-10-01T09:31:05Z"
       },
       {
-        "number": 975,
-        "title": "chore(corto-10): template instance types match the resized fleet",
-        "url": "https://github.com/celestiaorg/infrastructure/pull/975",
-        "repo": "infrastructure",
-        "author": "walldiss",
-        "authorCategory": "coworker",
-        "reviewer": "vgonkivs",
-        "requestedAt": "2026-10-15T12:31:49Z"
-      },
-      {
         "number": 5328,
         "title": "chore(deps): bump actions/upload-artifact from 4 to 6",
         "url": "https://github.com/celestiaorg/celestia-node/pull/5328",
@@ -369,5 +359,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-10-15T12:43:27.269Z"
+  "fetchedAt": "2026-10-15T12:59:33.870Z"
 }
