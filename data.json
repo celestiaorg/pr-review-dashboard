@@ -120,16 +120,6 @@
     ],
     "renaynay": [
       {
-        "number": 8125,
-        "title": "fix(app): [high] bound pay-for-fibre pre-verification at its inputs",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/8125",
-        "repo": "celestia-app",
-        "author": "rach-id",
-        "authorCategory": "coworker",
-        "reviewer": "renaynay",
-        "requestedAt": "2026-10-14T13:03:48Z"
-      },
-      {
         "number": 5326,
         "title": "fix(header): [medium] serve stored headers when syncer head lags",
         "url": "https://github.com/celestiaorg/celestia-node/pull/5326",
@@ -367,16 +357,6 @@
         "requestedAt": "2026-10-14T07:44:29Z"
       },
       {
-        "number": 8183,
-        "title": "perf(fibre): [high] pre-verify pay-for-fibre signatures in CheckTx, after admission",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/8183",
-        "repo": "celestia-app",
-        "author": "rach-id",
-        "authorCategory": "coworker",
-        "reviewer": "walldiss",
-        "requestedAt": "2026-10-14T12:20:35Z"
-      },
-      {
         "number": 3461,
         "title": "build(deps): Bump actions/upload-artifact from 7.0.1 to 7.0.2",
         "url": "https://github.com/celestiaorg/celestia-core/pull/3461",
@@ -459,5 +439,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-10-15T07:56:48.570Z"
+  "fetchedAt": "2026-10-15T08:18:13.888Z"
 }
