@@ -76,6 +76,16 @@
         "requestedAt": "2026-10-14T16:46:57Z"
       },
       {
+        "number": 3473,
+        "title": "fix(abci/client): clear in-flight requests in flushQueue",
+        "url": "https://github.com/celestiaorg/celestia-core/pull/3473",
+        "repo": "celestia-core",
+        "author": "rootulp",
+        "authorCategory": "coworker",
+        "reviewer": "ninabarbakadze",
+        "requestedAt": "2026-10-15T13:35:03Z"
+      },
+      {
         "number": 3464,
         "title": "build(deps): Bump github.com/aws/aws-sdk-go-v2/service/s3 from 1.113.4 to 1.114.1",
         "url": "https://github.com/celestiaorg/celestia-core/pull/3464",
@@ -130,16 +140,6 @@
         "authorCategory": "coworker",
         "reviewer": "vgonkivs",
         "requestedAt": "2026-10-01T09:31:05Z"
-      },
-      {
-        "number": 3473,
-        "title": "fix(abci/client): clear in-flight requests in flushQueue",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3473",
-        "repo": "celestia-core",
-        "author": "rootulp",
-        "authorCategory": "coworker",
-        "reviewer": "vgonkivs",
-        "requestedAt": "2026-10-15T13:28:35Z"
       },
       {
         "number": 5328,
@@ -388,5 +388,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-10-15T13:34:13.535Z"
+  "fetchedAt": "2026-10-15T13:45:59.253Z"
 }
