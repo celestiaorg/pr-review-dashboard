@@ -66,16 +66,6 @@
         "requestedAt": "2026-10-15T13:35:03Z"
       },
       {
-        "number": 8160,
-        "title": "test(app): [low] cover index wrapper decoding and max effective square size",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/8160",
-        "repo": "celestia-app",
-        "author": "rootulp",
-        "authorCategory": "coworker",
-        "reviewer": "ninabarbakadze",
-        "requestedAt": "2026-10-15T19:04:02Z"
-      },
-      {
         "number": 8187,
         "title": "fix(fibre)!: [low] key escrow state by the canonical signer address",
         "url": "https://github.com/celestiaorg/celestia-app/pull/8187",
@@ -276,16 +266,6 @@
     ],
     "walldiss": [
       {
-        "number": 8160,
-        "title": "test(app): [low] cover index wrapper decoding and max effective square size",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/8160",
-        "repo": "celestia-app",
-        "author": "rootulp",
-        "authorCategory": "coworker",
-        "reviewer": "walldiss",
-        "requestedAt": "2026-10-14T06:14:17Z"
-      },
-      {
         "number": 3461,
         "title": "build(deps): Bump actions/upload-artifact from 7.0.1 to 7.0.2",
         "url": "https://github.com/celestiaorg/celestia-core/pull/3461",
@@ -368,5 +348,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-10-15T20:21:48.273Z"
+  "fetchedAt": "2026-10-15T20:32:34.137Z"
 }
