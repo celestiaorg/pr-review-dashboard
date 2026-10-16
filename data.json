@@ -96,6 +96,16 @@
         "requestedAt": "2026-10-16T14:57:52Z"
       },
       {
+        "number": 8201,
+        "title": "fix(gov)!: [high] set and lock the cancellation penalty at v11",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/8201",
+        "repo": "celestia-app",
+        "author": "rootulp",
+        "authorCategory": "coworker",
+        "reviewer": "ninabarbakadze",
+        "requestedAt": "2026-10-16T15:27:04Z"
+      },
+      {
         "number": 8187,
         "title": "fix(fibre)!: [low] key escrow state by the canonical signer address",
         "url": "https://github.com/celestiaorg/celestia-app/pull/8187",
@@ -126,6 +136,16 @@
         "authorCategory": "coworker",
         "reviewer": "rach-id",
         "requestedAt": "2026-10-16T14:57:52Z"
+      },
+      {
+        "number": 8201,
+        "title": "fix(gov)!: [high] set and lock the cancellation penalty at v11",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/8201",
+        "repo": "celestia-app",
+        "author": "rootulp",
+        "authorCategory": "coworker",
+        "reviewer": "rach-id",
+        "requestedAt": "2026-10-16T15:27:04Z"
       }
     ],
     "renaynay": [
@@ -359,5 +379,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-10-16T15:18:30.500Z"
+  "fetchedAt": "2026-10-16T15:29:47.436Z"
 }
