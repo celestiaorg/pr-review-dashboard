@@ -148,56 +148,6 @@
     ],
     "rach-id": [
       {
-        "number": 8210,
-        "title": "docs: [low] trim redundant agent guidance",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/8210",
-        "repo": "celestia-app",
-        "author": "rootulp",
-        "authorCategory": "coworker",
-        "reviewer": "rach-id",
-        "requestedAt": "2026-10-16T21:04:32Z"
-      },
-      {
-        "number": 3476,
-        "title": "docs: trim redundant agent guidance",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3476",
-        "repo": "celestia-core",
-        "author": "rootulp",
-        "authorCategory": "coworker",
-        "reviewer": "rach-id",
-        "requestedAt": "2026-10-16T21:05:31Z"
-      },
-      {
-        "number": 8211,
-        "title": "ci: [low] replace deprecated lint actions",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/8211",
-        "repo": "celestia-app",
-        "author": "rootulp",
-        "authorCategory": "coworker",
-        "reviewer": "rach-id",
-        "requestedAt": "2026-10-16T21:05:50Z"
-      },
-      {
-        "number": 8214,
-        "title": "ci: [low] update markdownlint for Node.js 24",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/8214",
-        "repo": "celestia-app",
-        "author": "rootulp",
-        "authorCategory": "coworker",
-        "reviewer": "rach-id",
-        "requestedAt": "2026-10-16T21:09:25Z"
-      },
-      {
-        "number": 8217,
-        "title": "ci: [medium] add component coverage reports and staged gates",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/8217",
-        "repo": "celestia-app",
-        "author": "rootulp",
-        "authorCategory": "coworker",
-        "reviewer": "rach-id",
-        "requestedAt": "2026-10-16T21:34:25Z"
-      },
-      {
         "number": 8223,
         "title": "fix(app): [high] align prepare proposal tx filtering with process proposal (backport #8193)",
         "url": "https://github.com/celestiaorg/celestia-app/pull/8223",
@@ -550,5 +500,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-10-16T21:53:33.099Z"
+  "fetchedAt": "2026-10-16T21:59:54.160Z"
 }
