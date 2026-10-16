@@ -2,6 +2,16 @@
   "reviews": {
     "chatton": [
       {
+        "number": 8204,
+        "title": "ci: [low] isolate race jobs and retry module downloads",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/8204",
+        "repo": "celestia-app",
+        "author": "rootulp",
+        "authorCategory": "coworker",
+        "reviewer": "chatton",
+        "requestedAt": "2026-10-16T05:19:21Z"
+      },
+      {
         "number": 8155,
         "title": "fix(fibre): [low] shorten idle connection timeouts (backport #8151)",
         "url": "https://github.com/celestiaorg/celestia-app/pull/8155",
@@ -429,5 +439,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-10-16T05:04:09.016Z"
+  "fetchedAt": "2026-10-16T05:21:59.220Z"
 }
