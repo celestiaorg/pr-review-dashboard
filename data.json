@@ -22,6 +22,16 @@
         "requestedAt": "2026-10-16T13:29:37Z"
       },
       {
+        "number": 8213,
+        "title": "ci: [low] give stale maintenance permissions and headroom",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/8213",
+        "repo": "celestia-app",
+        "author": "rootulp",
+        "authorCategory": "coworker",
+        "reviewer": "chatton",
+        "requestedAt": "2026-10-16T21:07:47Z"
+      },
+      {
         "number": 8155,
         "title": "fix(fibre): [low] shorten idle connection timeouts (backport #8151)",
         "url": "https://github.com/celestiaorg/celestia-app/pull/8155",
@@ -86,14 +96,14 @@
         "requestedAt": "2026-10-16T13:24:20Z"
       },
       {
-        "number": 8201,
-        "title": "fix(gov)!: [high] set and lock the cancellation penalty at v11",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/8201",
-        "repo": "celestia-app",
+        "number": 3476,
+        "title": "docs: trim redundant agent guidance",
+        "url": "https://github.com/celestiaorg/celestia-core/pull/3476",
+        "repo": "celestia-core",
         "author": "rootulp",
         "authorCategory": "coworker",
         "reviewer": "ninabarbakadze",
-        "requestedAt": "2026-10-16T15:27:04Z"
+        "requestedAt": "2026-10-16T21:03:01Z"
       },
       {
         "number": 8187,
@@ -118,6 +128,46 @@
     ],
     "rach-id": [
       {
+        "number": 8210,
+        "title": "docs: [low] trim redundant agent guidance",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/8210",
+        "repo": "celestia-app",
+        "author": "rootulp",
+        "authorCategory": "coworker",
+        "reviewer": "rach-id",
+        "requestedAt": "2026-10-16T21:04:32Z"
+      },
+      {
+        "number": 3476,
+        "title": "docs: trim redundant agent guidance",
+        "url": "https://github.com/celestiaorg/celestia-core/pull/3476",
+        "repo": "celestia-core",
+        "author": "rootulp",
+        "authorCategory": "coworker",
+        "reviewer": "rach-id",
+        "requestedAt": "2026-10-16T21:05:31Z"
+      },
+      {
+        "number": 8211,
+        "title": "ci: [low] replace deprecated lint change detection",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/8211",
+        "repo": "celestia-app",
+        "author": "rootulp",
+        "authorCategory": "coworker",
+        "reviewer": "rach-id",
+        "requestedAt": "2026-10-16T21:05:50Z"
+      },
+      {
+        "number": 8214,
+        "title": "ci: [low] update markdownlint for Node.js 24",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/8214",
+        "repo": "celestia-app",
+        "author": "rootulp",
+        "authorCategory": "coworker",
+        "reviewer": "rach-id",
+        "requestedAt": "2026-10-16T21:09:25Z"
+      },
+      {
         "number": 5341,
         "title": "fix(state): default a nil TxConfig instead of panicking",
         "url": "https://github.com/celestiaorg/celestia-node/pull/5341",
@@ -129,6 +179,16 @@
       }
     ],
     "renaynay": [
+      {
+        "number": 8216,
+        "title": "ci: [low] remove deprecated QEMU wrapper from app publishing",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/8216",
+        "repo": "celestia-app",
+        "author": "rootulp",
+        "authorCategory": "coworker",
+        "reviewer": "renaynay",
+        "requestedAt": "2026-10-16T21:11:51Z"
+      },
       {
         "number": 8147,
         "title": "fix(fibre)!: [low] bound the payment promise height window",
@@ -152,6 +212,26 @@
     ],
     "rootulp": [],
     "vgonkivs": [
+      {
+        "number": 5344,
+        "title": "docs: Trim redundant agent context",
+        "url": "https://github.com/celestiaorg/celestia-node/pull/5344",
+        "repo": "celestia-node",
+        "author": "rootulp",
+        "authorCategory": "coworker",
+        "reviewer": "vgonkivs",
+        "requestedAt": "2026-10-16T21:04:49Z"
+      },
+      {
+        "number": 8212,
+        "title": "ci: [low] install mdBook without deprecated Node action",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/8212",
+        "repo": "celestia-app",
+        "author": "rootulp",
+        "authorCategory": "coworker",
+        "reviewer": "vgonkivs",
+        "requestedAt": "2026-10-16T21:06:23Z"
+      },
       {
         "number": 5328,
         "title": "chore(deps): bump actions/upload-artifact from 4 to 6",
@@ -277,6 +357,26 @@
         "requestedAt": "2026-10-16T05:38:51Z"
       },
       {
+        "number": 5344,
+        "title": "docs: Trim redundant agent context",
+        "url": "https://github.com/celestiaorg/celestia-node/pull/5344",
+        "repo": "celestia-node",
+        "author": "rootulp",
+        "authorCategory": "coworker",
+        "reviewer": "walldiss",
+        "requestedAt": "2026-10-16T21:04:49Z"
+      },
+      {
+        "number": 8215,
+        "title": "test: [low] select the suite package for Docker E2E tests",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/8215",
+        "repo": "celestia-app",
+        "author": "rootulp",
+        "authorCategory": "coworker",
+        "reviewer": "walldiss",
+        "requestedAt": "2026-10-16T21:10:06Z"
+      },
+      {
         "number": 3461,
         "title": "build(deps): Bump actions/upload-artifact from 7.0.1 to 7.0.2",
         "url": "https://github.com/celestiaorg/celestia-core/pull/3461",
@@ -359,5 +459,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-10-16T20:57:22.549Z"
+  "fetchedAt": "2026-10-16T21:12:52.070Z"
 }
