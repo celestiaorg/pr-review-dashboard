@@ -173,16 +173,6 @@
     "rootulp": [],
     "vgonkivs": [
       {
-        "number": 981,
-        "title": "fix(da-proxy): [medium] read admin public keys from the concealed 1Password field",
-        "url": "https://github.com/celestiaorg/infrastructure/pull/981",
-        "repo": "infrastructure",
-        "author": "pippokr",
-        "authorCategory": "coworker",
-        "reviewer": "vgonkivs",
-        "requestedAt": "2026-10-16T12:40:00Z"
-      },
-      {
         "number": 5328,
         "title": "chore(deps): bump actions/upload-artifact from 4 to 6",
         "url": "https://github.com/celestiaorg/celestia-node/pull/5328",
@@ -379,5 +369,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-10-16T17:17:48.696Z"
+  "fetchedAt": "2026-10-16T17:27:53.332Z"
 }
