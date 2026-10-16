@@ -76,26 +76,6 @@
     ],
     "ninabarbakadze": [
       {
-        "number": 3473,
-        "title": "fix(abci/client): clear in-flight requests in flushQueue",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3473",
-        "repo": "celestia-core",
-        "author": "rootulp",
-        "authorCategory": "coworker",
-        "reviewer": "ninabarbakadze",
-        "requestedAt": "2026-10-15T13:35:03Z"
-      },
-      {
-        "number": 151,
-        "title": "docs: repoint baseapp test issue references after the unfork",
-        "url": "https://github.com/celestiaorg/cosmos-sdk/pull/151",
-        "repo": "cosmos-sdk",
-        "author": "rach-id",
-        "authorCategory": "coworker",
-        "reviewer": "ninabarbakadze",
-        "requestedAt": "2026-10-16T07:28:19Z"
-      },
-      {
         "number": 8187,
         "title": "fix(fibre)!: [low] key escrow state by the canonical signer address",
         "url": "https://github.com/celestiaorg/celestia-app/pull/8187",
@@ -338,5 +318,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-10-16T12:07:30.809Z"
+  "fetchedAt": "2026-10-16T12:33:38.012Z"
 }
