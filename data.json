@@ -140,6 +140,16 @@
     ],
     "renaynay": [
       {
+        "number": 8207,
+        "title": "test: [low] synchronize log assertions and load test setup",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/8207",
+        "repo": "celestia-app",
+        "author": "rootulp",
+        "authorCategory": "coworker",
+        "reviewer": "renaynay",
+        "requestedAt": "2026-10-16T05:38:56Z"
+      },
+      {
         "number": 145,
         "title": "chore(deps): bump actions/upload-artifact from 4 to 7",
         "url": "https://github.com/celestiaorg/cosmos-sdk/pull/145",
@@ -357,6 +367,16 @@
     ],
     "walldiss": [
       {
+        "number": 8206,
+        "title": "fix(fibre): [medium] reject cancelled uploads before dispatch",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/8206",
+        "repo": "celestia-app",
+        "author": "rootulp",
+        "authorCategory": "coworker",
+        "reviewer": "walldiss",
+        "requestedAt": "2026-10-16T05:38:51Z"
+      },
+      {
         "number": 3461,
         "title": "build(deps): Bump actions/upload-artifact from 7.0.1 to 7.0.2",
         "url": "https://github.com/celestiaorg/celestia-core/pull/3461",
@@ -449,5 +469,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-10-16T05:33:53.599Z"
+  "fetchedAt": "2026-10-16T05:45:13.192Z"
 }
