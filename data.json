@@ -172,36 +172,6 @@
         "requestedAt": "2026-10-14T20:14:33Z"
       },
       {
-        "number": 5174,
-        "title": "core: Back off failed block subscriptions",
-        "url": "https://github.com/celestiaorg/celestia-node/pull/5174",
-        "repo": "celestia-node",
-        "author": "neyy91",
-        "authorCategory": "external",
-        "reviewer": "vgonkivs",
-        "requestedAt": "2026-08-16T22:42:36Z"
-      },
-      {
-        "number": 5183,
-        "title": "das: Reset running state after failed start",
-        "url": "https://github.com/celestiaorg/celestia-node/pull/5183",
-        "repo": "celestia-node",
-        "author": "neyy91",
-        "authorCategory": "external",
-        "reviewer": "vgonkivs",
-        "requestedAt": "2026-08-20T14:32:19Z"
-      },
-      {
-        "number": 5184,
-        "title": "das: Wake coordinator at retry deadlines",
-        "url": "https://github.com/celestiaorg/celestia-node/pull/5184",
-        "repo": "celestia-node",
-        "author": "neyy91",
-        "authorCategory": "external",
-        "reviewer": "vgonkivs",
-        "requestedAt": "2026-08-20T23:47:15Z"
-      },
-      {
         "number": 5190,
         "title": "fix(rpc/client): close namespace connections",
         "url": "https://github.com/celestiaorg/celestia-node/pull/5190",
@@ -368,5 +338,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-10-16T11:48:30.950Z"
+  "fetchedAt": "2026-10-16T11:55:00.859Z"
 }
