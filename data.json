@@ -149,7 +149,7 @@
       },
       {
         "number": 8211,
-        "title": "ci: [low] replace deprecated lint change detection",
+        "title": "ci: [low] replace deprecated lint actions",
         "url": "https://github.com/celestiaorg/celestia-app/pull/8211",
         "repo": "celestia-app",
         "author": "rootulp",
@@ -459,5 +459,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-10-16T21:12:52.070Z"
+  "fetchedAt": "2026-10-16T21:23:46.321Z"
 }
