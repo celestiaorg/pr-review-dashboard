@@ -32,6 +32,16 @@
         "requestedAt": "2026-10-16T21:07:47Z"
       },
       {
+        "number": 8230,
+        "title": "fix(fibre): [medium] validate malformed prune index keys",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/8230",
+        "repo": "celestia-app",
+        "author": "rootulp",
+        "authorCategory": "coworker",
+        "reviewer": "chatton",
+        "requestedAt": "2026-10-16T22:39:24Z"
+      },
+      {
         "number": 8155,
         "title": "fix(fibre): [low] shorten idle connection timeouts (backport #8151)",
         "url": "https://github.com/celestiaorg/celestia-app/pull/8155",
@@ -104,16 +114,6 @@
         "authorCategory": "coworker",
         "reviewer": "ninabarbakadze",
         "requestedAt": "2026-10-16T13:24:20Z"
-      },
-      {
-        "number": 3476,
-        "title": "docs: trim redundant agent guidance",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3476",
-        "repo": "celestia-core",
-        "author": "rootulp",
-        "authorCategory": "coworker",
-        "reviewer": "ninabarbakadze",
-        "requestedAt": "2026-10-16T21:03:01Z"
       },
       {
         "number": 8227,
@@ -199,18 +199,7 @@
         "requestedAt": "2026-10-15T13:33:25Z"
       }
     ],
-    "rootulp": [
-      {
-        "number": 8218,
-        "title": "fix(multiplexer): [high] start on the app's committed app version (backport #8203)",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/8218",
-        "repo": "celestia-app",
-        "author": "mergify",
-        "authorCategory": "bot",
-        "reviewer": "rootulp",
-        "requestedAt": "2026-10-16T21:34:46Z"
-      }
-    ],
+    "rootulp": [],
     "vgonkivs": [
       {
         "number": 5344,
@@ -509,5 +498,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-10-16T22:28:51.284Z"
+  "fetchedAt": "2026-10-16T22:39:31.037Z"
 }
