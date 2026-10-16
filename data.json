@@ -96,6 +96,16 @@
         "requestedAt": "2026-10-15T13:35:03Z"
       },
       {
+        "number": 151,
+        "title": "docs: repoint baseapp test issue references after the unfork",
+        "url": "https://github.com/celestiaorg/cosmos-sdk/pull/151",
+        "repo": "cosmos-sdk",
+        "author": "rach-id",
+        "authorCategory": "coworker",
+        "reviewer": "ninabarbakadze",
+        "requestedAt": "2026-10-16T07:28:19Z"
+      },
+      {
         "number": 147,
         "title": "chore(deps): bump marocchino/sticky-pull-request-comment from 2 to 3",
         "url": "https://github.com/celestiaorg/cosmos-sdk/pull/147",
@@ -479,5 +489,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-10-16T07:17:56.345Z"
+  "fetchedAt": "2026-10-16T07:34:05.366Z"
 }
