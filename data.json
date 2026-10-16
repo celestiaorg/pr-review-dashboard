@@ -116,7 +116,18 @@
         "requestedAt": "2026-10-15T17:53:40Z"
       }
     ],
-    "rach-id": [],
+    "rach-id": [
+      {
+        "number": 5341,
+        "title": "fix(state): default a nil TxConfig instead of panicking",
+        "url": "https://github.com/celestiaorg/celestia-node/pull/5341",
+        "repo": "celestia-node",
+        "author": "Bruce039",
+        "authorCategory": "external",
+        "reviewer": "rach-id",
+        "requestedAt": "2026-10-16T20:39:03Z"
+      }
+    ],
     "renaynay": [
       {
         "number": 8147,
@@ -284,6 +295,16 @@
         "authorCategory": "external",
         "reviewer": "walldiss",
         "requestedAt": "2026-10-15T13:33:25Z"
+      },
+      {
+        "number": 5343,
+        "title": "fix(fibre/stateclient): reject an empty proof op list in GetHost",
+        "url": "https://github.com/celestiaorg/celestia-node/pull/5343",
+        "repo": "celestia-node",
+        "author": "Bruce039",
+        "authorCategory": "external",
+        "reviewer": "walldiss",
+        "requestedAt": "2026-10-16T20:40:56Z"
       }
     ]
   },
@@ -338,5 +359,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-10-16T20:31:01.326Z"
+  "fetchedAt": "2026-10-16T20:42:35.175Z"
 }
