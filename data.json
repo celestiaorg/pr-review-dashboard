@@ -60,6 +60,16 @@
         "authorCategory": "bot",
         "reviewer": "chatton",
         "requestedAt": "2026-10-14T20:17:41Z"
+      },
+      {
+        "number": 8222,
+        "title": "fix(app): [high] align prepare proposal tx filtering with process proposal (backport #8193)",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/8222",
+        "repo": "celestia-app",
+        "author": "mergify",
+        "authorCategory": "bot",
+        "reviewer": "chatton",
+        "requestedAt": "2026-10-16T21:35:20Z"
       }
     ],
     "pippokr": [
@@ -104,6 +114,16 @@
         "authorCategory": "coworker",
         "reviewer": "ninabarbakadze",
         "requestedAt": "2026-10-16T21:03:01Z"
+      },
+      {
+        "number": 8219,
+        "title": "fix(multiplexer): [high] start on the app's committed app version (backport #8203)",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/8219",
+        "repo": "celestia-app",
+        "author": "mergify",
+        "authorCategory": "bot",
+        "reviewer": "ninabarbakadze",
+        "requestedAt": "2026-10-16T21:35:00Z"
       },
       {
         "number": 8187,
@@ -168,6 +188,26 @@
         "requestedAt": "2026-10-16T21:09:25Z"
       },
       {
+        "number": 8217,
+        "title": "ci: [medium] add component coverage reports and staged gates",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/8217",
+        "repo": "celestia-app",
+        "author": "rootulp",
+        "authorCategory": "coworker",
+        "reviewer": "rach-id",
+        "requestedAt": "2026-10-16T21:34:25Z"
+      },
+      {
+        "number": 8223,
+        "title": "fix(app): [high] align prepare proposal tx filtering with process proposal (backport #8193)",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/8223",
+        "repo": "celestia-app",
+        "author": "mergify",
+        "authorCategory": "bot",
+        "reviewer": "rach-id",
+        "requestedAt": "2026-10-16T21:35:28Z"
+      },
+      {
         "number": 5341,
         "title": "fix(state): default a nil TxConfig instead of panicking",
         "url": "https://github.com/celestiaorg/celestia-node/pull/5341",
@@ -190,6 +230,16 @@
         "requestedAt": "2026-10-16T21:11:51Z"
       },
       {
+        "number": 8225,
+        "title": "fix(app): [high] branch ante state per tx in prepare proposal (backport #8192)",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/8225",
+        "repo": "celestia-app",
+        "author": "mergify",
+        "authorCategory": "bot",
+        "reviewer": "renaynay",
+        "requestedAt": "2026-10-16T21:35:43Z"
+      },
+      {
         "number": 8147,
         "title": "fix(fibre)!: [low] bound the payment promise height window",
         "url": "https://github.com/celestiaorg/celestia-app/pull/8147",
@@ -210,7 +260,18 @@
         "requestedAt": "2026-10-15T13:33:25Z"
       }
     ],
-    "rootulp": [],
+    "rootulp": [
+      {
+        "number": 8218,
+        "title": "fix(multiplexer): [high] start on the app's committed app version (backport #8203)",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/8218",
+        "repo": "celestia-app",
+        "author": "mergify",
+        "authorCategory": "bot",
+        "reviewer": "rootulp",
+        "requestedAt": "2026-10-16T21:34:46Z"
+      }
+    ],
     "vgonkivs": [
       {
         "number": 5344,
@@ -261,6 +322,16 @@
         "authorCategory": "bot",
         "reviewer": "vgonkivs",
         "requestedAt": "2026-10-14T20:14:33Z"
+      },
+      {
+        "number": 8221,
+        "title": "fix(multiplexer): [medium] initialize nextAppVersion (backport #8190)",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/8221",
+        "repo": "celestia-app",
+        "author": "mergify",
+        "authorCategory": "bot",
+        "reviewer": "vgonkivs",
+        "requestedAt": "2026-10-16T21:35:15Z"
       },
       {
         "number": 5190,
@@ -343,6 +414,16 @@
         "authorCategory": "bot",
         "reviewer": "theodorebugnet",
         "requestedAt": "2026-10-14T04:35:42Z"
+      },
+      {
+        "number": 8220,
+        "title": "fix(multiplexer): [medium] initialize nextAppVersion (backport #8190)",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/8220",
+        "repo": "celestia-app",
+        "author": "mergify",
+        "authorCategory": "bot",
+        "reviewer": "theodorebugnet",
+        "requestedAt": "2026-10-16T21:35:08Z"
       }
     ],
     "walldiss": [
@@ -385,6 +466,16 @@
         "authorCategory": "bot",
         "reviewer": "walldiss",
         "requestedAt": "2026-10-14T20:09:40Z"
+      },
+      {
+        "number": 8224,
+        "title": "fix(app): [high] branch ante state per tx in prepare proposal (backport #8192)",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/8224",
+        "repo": "celestia-app",
+        "author": "mergify",
+        "authorCategory": "bot",
+        "reviewer": "walldiss",
+        "requestedAt": "2026-10-16T21:35:36Z"
       },
       {
         "number": 5337,
@@ -459,5 +550,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-10-16T21:30:41.127Z"
+  "fetchedAt": "2026-10-16T21:40:14.745Z"
 }
