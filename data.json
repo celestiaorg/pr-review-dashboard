@@ -232,16 +232,6 @@
         "requestedAt": "2026-08-28T19:04:55Z"
       },
       {
-        "number": 5288,
-        "title": "fix(state): validate GrantFee amount",
-        "url": "https://github.com/celestiaorg/celestia-node/pull/5288",
-        "repo": "celestia-node",
-        "author": "0xShadowX",
-        "authorCategory": "external",
-        "reviewer": "vgonkivs",
-        "requestedAt": "2026-09-25T16:57:31Z"
-      },
-      {
         "number": 417,
         "title": "ci: run tests with race detector",
         "url": "https://github.com/celestiaorg/go-header/pull/417",
@@ -316,16 +306,6 @@
         "requestedAt": "2026-10-14T20:09:40Z"
       },
       {
-        "number": 5268,
-        "title": "fix(api/client): use the configured conn for the fibre state client",
-        "url": "https://github.com/celestiaorg/celestia-node/pull/5268",
-        "repo": "celestia-node",
-        "author": "0xShadowX",
-        "authorCategory": "external",
-        "reviewer": "walldiss",
-        "requestedAt": "2026-10-06T13:17:02Z"
-      },
-      {
         "number": 5337,
         "title": "test(tastora/canary): add Docker session for a fresh light node",
         "url": "https://github.com/celestiaorg/celestia-node/pull/5337",
@@ -388,5 +368,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-10-16T11:17:38.545Z"
+  "fetchedAt": "2026-10-16T11:29:52.229Z"
 }
