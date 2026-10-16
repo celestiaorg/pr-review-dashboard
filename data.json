@@ -156,18 +156,7 @@
         "requestedAt": "2026-10-15T17:53:40Z"
       }
     ],
-    "rach-id": [
-      {
-        "number": 8232,
-        "title": "fix(fibre): [medium] reject incomplete startup occupancy",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/8232",
-        "repo": "celestia-app",
-        "author": "rootulp",
-        "authorCategory": "coworker",
-        "reviewer": "rach-id",
-        "requestedAt": "2026-10-16T22:46:53Z"
-      }
-    ],
+    "rach-id": [],
     "renaynay": [
       {
         "number": 8216,
@@ -178,6 +167,16 @@
         "authorCategory": "coworker",
         "reviewer": "renaynay",
         "requestedAt": "2026-10-16T21:11:51Z"
+      },
+      {
+        "number": 8235,
+        "title": "fix(fibre): [medium] bound shard marker sizes by codec limits",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/8235",
+        "repo": "celestia-app",
+        "author": "rootulp",
+        "authorCategory": "coworker",
+        "reviewer": "renaynay",
+        "requestedAt": "2026-10-16T22:53:29Z"
       },
       {
         "number": 8225,
@@ -519,5 +518,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-10-16T22:52:44.606Z"
+  "fetchedAt": "2026-10-16T22:59:11.311Z"
 }
