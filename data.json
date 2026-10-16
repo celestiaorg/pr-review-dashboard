@@ -54,6 +54,16 @@
         "requestedAt": "2026-10-08T13:18:27Z"
       },
       {
+        "number": 8208,
+        "title": "test: [low] fall back across RPCs when fetching sync trust blocks",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/8208",
+        "repo": "celestia-app",
+        "author": "rootulp",
+        "authorCategory": "coworker",
+        "reviewer": "pippokr",
+        "requestedAt": "2026-10-16T05:56:46Z"
+      },
+      {
         "number": 146,
         "title": "chore(deps): bump codecov/codecov-action from 7.1.0 to 7.1.1",
         "url": "https://github.com/celestiaorg/cosmos-sdk/pull/146",
@@ -469,5 +479,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-10-16T05:53:13.122Z"
+  "fetchedAt": "2026-10-16T05:59:52.990Z"
 }
