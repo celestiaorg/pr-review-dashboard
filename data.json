@@ -64,16 +64,6 @@
         "requestedAt": "2026-10-16T05:56:46Z"
       },
       {
-        "number": 146,
-        "title": "chore(deps): bump codecov/codecov-action from 7.1.0 to 7.1.1",
-        "url": "https://github.com/celestiaorg/cosmos-sdk/pull/146",
-        "repo": "cosmos-sdk",
-        "author": "dependabot",
-        "authorCategory": "bot",
-        "reviewer": "pippokr",
-        "requestedAt": "2026-10-15T23:24:00Z"
-      },
-      {
         "number": 8085,
         "title": "fix(fibre): extend server duration buckets to 60s for object storage",
         "url": "https://github.com/celestiaorg/celestia-app/pull/8085",
@@ -106,16 +96,6 @@
         "requestedAt": "2026-10-16T07:28:19Z"
       },
       {
-        "number": 147,
-        "title": "chore(deps): bump marocchino/sticky-pull-request-comment from 2 to 3",
-        "url": "https://github.com/celestiaorg/cosmos-sdk/pull/147",
-        "repo": "cosmos-sdk",
-        "author": "dependabot",
-        "authorCategory": "bot",
-        "reviewer": "ninabarbakadze",
-        "requestedAt": "2026-10-15T23:25:08Z"
-      },
-      {
         "number": 8187,
         "title": "fix(fibre)!: [low] key escrow state by the canonical signer address",
         "url": "https://github.com/celestiaorg/celestia-app/pull/8187",
@@ -146,16 +126,6 @@
         "authorCategory": "coworker",
         "reviewer": "rach-id",
         "requestedAt": "2026-10-15T22:28:51Z"
-      },
-      {
-        "number": 8205,
-        "title": "test: [low] generate forwarding relayer keys without Docker jobs",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/8205",
-        "repo": "celestia-app",
-        "author": "rootulp",
-        "authorCategory": "coworker",
-        "reviewer": "rach-id",
-        "requestedAt": "2026-10-16T05:31:28Z"
       }
     ],
     "renaynay": [
@@ -168,16 +138,6 @@
         "authorCategory": "coworker",
         "reviewer": "renaynay",
         "requestedAt": "2026-10-16T05:38:56Z"
-      },
-      {
-        "number": 145,
-        "title": "chore(deps): bump actions/upload-artifact from 4 to 7",
-        "url": "https://github.com/celestiaorg/cosmos-sdk/pull/145",
-        "repo": "cosmos-sdk",
-        "author": "dependabot",
-        "authorCategory": "bot",
-        "reviewer": "renaynay",
-        "requestedAt": "2026-10-15T23:23:49Z"
       },
       {
         "number": 8147,
@@ -251,16 +211,6 @@
         "authorCategory": "bot",
         "reviewer": "vgonkivs",
         "requestedAt": "2026-10-14T20:14:33Z"
-      },
-      {
-        "number": 150,
-        "title": "chore(deps): bump actions/checkout from 3 to 7",
-        "url": "https://github.com/celestiaorg/cosmos-sdk/pull/150",
-        "repo": "cosmos-sdk",
-        "author": "dependabot",
-        "authorCategory": "bot",
-        "reviewer": "vgonkivs",
-        "requestedAt": "2026-10-15T23:26:31Z"
       },
       {
         "number": 5174,
@@ -373,16 +323,6 @@
         "authorCategory": "bot",
         "reviewer": "theodorebugnet",
         "requestedAt": "2026-10-14T04:35:42Z"
-      },
-      {
-        "number": 149,
-        "title": "chore(deps): bump actions/stale from 8 to 11",
-        "url": "https://github.com/celestiaorg/cosmos-sdk/pull/149",
-        "repo": "cosmos-sdk",
-        "author": "dependabot",
-        "authorCategory": "bot",
-        "reviewer": "theodorebugnet",
-        "requestedAt": "2026-10-15T23:25:26Z"
       }
     ],
     "walldiss": [
@@ -405,16 +345,6 @@
         "authorCategory": "bot",
         "reviewer": "walldiss",
         "requestedAt": "2026-10-14T20:09:40Z"
-      },
-      {
-        "number": 144,
-        "title": "chore(deps): bump actions/setup-go from 4 to 7",
-        "url": "https://github.com/celestiaorg/cosmos-sdk/pull/144",
-        "repo": "cosmos-sdk",
-        "author": "dependabot",
-        "authorCategory": "bot",
-        "reviewer": "walldiss",
-        "requestedAt": "2026-10-15T23:23:46Z"
       },
       {
         "number": 5268,
@@ -489,5 +419,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-10-16T07:34:05.366Z"
+  "fetchedAt": "2026-10-16T07:46:17.523Z"
 }
