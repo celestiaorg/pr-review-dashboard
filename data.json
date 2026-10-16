@@ -86,16 +86,6 @@
         "requestedAt": "2026-10-16T13:24:20Z"
       },
       {
-        "number": 8208,
-        "title": "test: [low] fall back across RPCs when fetching sync trust blocks",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/8208",
-        "repo": "celestia-app",
-        "author": "rootulp",
-        "authorCategory": "coworker",
-        "reviewer": "ninabarbakadze",
-        "requestedAt": "2026-10-16T14:57:52Z"
-      },
-      {
         "number": 8201,
         "title": "fix(gov)!: [high] set and lock the cancellation penalty at v11",
         "url": "https://github.com/celestiaorg/celestia-app/pull/8201",
@@ -348,5 +338,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-10-16T17:52:32.120Z"
+  "fetchedAt": "2026-10-16T17:59:02.213Z"
 }
