@@ -328,26 +328,6 @@
     ],
     "rach-id": [
       {
-        "number": 8235,
-        "title": "fix(fibre): [medium] bound shard marker sizes by codec limits",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/8235",
-        "repo": "celestia-app",
-        "author": "rootulp",
-        "authorCategory": "coworker",
-        "reviewer": "rach-id",
-        "requestedAt": "2026-10-17T17:21:27Z"
-      },
-      {
-        "number": 8234,
-        "title": "fix(fibre): [medium] sanitize storage errors in RPC responses",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/8234",
-        "repo": "celestia-app",
-        "author": "rootulp",
-        "authorCategory": "coworker",
-        "reviewer": "rach-id",
-        "requestedAt": "2026-10-17T17:21:32Z"
-      },
-      {
         "number": 8230,
         "title": "fix(fibre): [medium] validate malformed prune index keys",
         "url": "https://github.com/celestiaorg/celestia-app/pull/8230",
@@ -366,16 +346,6 @@
         "authorCategory": "coworker",
         "reviewer": "rach-id",
         "requestedAt": "2026-10-17T17:21:46Z"
-      },
-      {
-        "number": 8228,
-        "title": "docs: [low] plan production coverage follow-ups",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/8228",
-        "repo": "celestia-app",
-        "author": "rootulp",
-        "authorCategory": "coworker",
-        "reviewer": "rach-id",
-        "requestedAt": "2026-10-17T17:21:50Z"
       },
       {
         "number": 8227,
@@ -819,5 +789,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-10-17T19:58:19.128Z"
+  "fetchedAt": "2026-10-17T20:17:02.338Z"
 }
