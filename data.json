@@ -216,16 +216,6 @@
         "authorCategory": "external",
         "reviewer": "rach-id",
         "requestedAt": "2026-10-17T17:22:50Z"
-      },
-      {
-        "number": 8187,
-        "title": "fix(fibre)!: [low] key escrow state by the canonical signer address",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/8187",
-        "repo": "celestia-app",
-        "author": "durenodes",
-        "authorCategory": "external",
-        "reviewer": "rach-id",
-        "requestedAt": "2026-10-17T17:22:57Z"
       }
     ],
     "renaynay": [
@@ -449,5 +439,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-10-17T21:47:28.790Z"
+  "fetchedAt": "2026-10-17T21:53:58.261Z"
 }
