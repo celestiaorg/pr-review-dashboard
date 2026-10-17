@@ -42,16 +42,6 @@
         "authorCategory": "coworker",
         "reviewer": "pippokr",
         "requestedAt": "2026-10-08T13:18:27Z"
-      },
-      {
-        "number": 8237,
-        "title": "fix(fibre): [low] refuse an upload whose context is already done",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/8237",
-        "repo": "celestia-app",
-        "author": "rach-id",
-        "authorCategory": "coworker",
-        "reviewer": "pippokr",
-        "requestedAt": "2026-10-17T17:30:55Z"
       }
     ],
     "ninabarbakadze": [
@@ -829,5 +819,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-10-17T17:31:14.943Z"
+  "fetchedAt": "2026-10-17T17:39:28.141Z"
 }
