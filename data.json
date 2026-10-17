@@ -126,36 +126,6 @@
         "requestedAt": "2026-10-17T17:22:28Z"
       },
       {
-        "number": 8215,
-        "title": "test: [low] select the suite package for Docker E2E tests",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/8215",
-        "repo": "celestia-app",
-        "author": "rootulp",
-        "authorCategory": "coworker",
-        "reviewer": "ninabarbakadze",
-        "requestedAt": "2026-10-17T17:22:32Z"
-      },
-      {
-        "number": 8213,
-        "title": "ci: [low] give stale maintenance permissions and headroom",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/8213",
-        "repo": "celestia-app",
-        "author": "rootulp",
-        "authorCategory": "coworker",
-        "reviewer": "ninabarbakadze",
-        "requestedAt": "2026-10-17T17:22:35Z"
-      },
-      {
-        "number": 8206,
-        "title": "fix(fibre): [medium] reject cancelled uploads before dispatch",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/8206",
-        "repo": "celestia-app",
-        "author": "rootulp",
-        "authorCategory": "coworker",
-        "reviewer": "ninabarbakadze",
-        "requestedAt": "2026-10-17T17:22:42Z"
-      },
-      {
         "number": 8204,
         "title": "ci: [low] isolate race jobs and retry module downloads",
         "url": "https://github.com/celestiaorg/celestia-app/pull/8204",
@@ -287,7 +257,7 @@
       },
       {
         "number": 8085,
-        "title": "fix(fibre): extend server duration buckets to 60s for object storage",
+        "title": "fix(fibre): [low] extend server duration buckets to 60s for object storage",
         "url": "https://github.com/celestiaorg/celestia-app/pull/8085",
         "repo": "celestia-app",
         "author": "alexeymoskalev-devops",
@@ -297,7 +267,7 @@
       },
       {
         "number": 8083,
-        "title": "fix: add timeout to download-genesis requests",
+        "title": "fix: [low] add timeout to download-genesis requests",
         "url": "https://github.com/celestiaorg/celestia-app/pull/8083",
         "repo": "celestia-app",
         "author": "kleonyuan",
@@ -356,16 +326,6 @@
         "authorCategory": "bot",
         "reviewer": "rach-id",
         "requestedAt": "2026-10-17T17:22:05Z"
-      },
-      {
-        "number": 8221,
-        "title": "fix(multiplexer): [medium] initialize nextAppVersion (backport #8190)",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/8221",
-        "repo": "celestia-app",
-        "author": "mergify",
-        "authorCategory": "bot",
-        "reviewer": "rach-id",
-        "requestedAt": "2026-10-17T17:22:09Z"
       },
       {
         "number": 8220,
@@ -436,26 +396,6 @@
         "authorCategory": "external",
         "reviewer": "rach-id",
         "requestedAt": "2026-10-17T17:23:31Z"
-      },
-      {
-        "number": 8085,
-        "title": "fix(fibre): extend server duration buckets to 60s for object storage",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/8085",
-        "repo": "celestia-app",
-        "author": "alexeymoskalev-devops",
-        "authorCategory": "external",
-        "reviewer": "rach-id",
-        "requestedAt": "2026-10-17T17:23:48Z"
-      },
-      {
-        "number": 8083,
-        "title": "fix: add timeout to download-genesis requests",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/8083",
-        "repo": "celestia-app",
-        "author": "kleonyuan",
-        "authorCategory": "external",
-        "reviewer": "rach-id",
-        "requestedAt": "2026-10-17T17:23:53Z"
       },
       {
         "number": 8032,
@@ -689,5 +629,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-10-17T20:39:12.103Z"
+  "fetchedAt": "2026-10-17T20:45:44.631Z"
 }
