@@ -216,16 +216,6 @@
         "requestedAt": "2026-10-17T17:23:23Z"
       },
       {
-        "number": 8155,
-        "title": "fix(fibre): [low] shorten idle connection timeouts (backport #8151)",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/8155",
-        "repo": "celestia-app",
-        "author": "mergify",
-        "authorCategory": "bot",
-        "reviewer": "ninabarbakadze",
-        "requestedAt": "2026-10-17T17:23:27Z"
-      },
-      {
         "number": 8187,
         "title": "fix(fibre)!: [low] key escrow state by the canonical signer address",
         "url": "https://github.com/celestiaorg/celestia-app/pull/8187",
@@ -358,16 +348,6 @@
         "requestedAt": "2026-10-17T17:23:23Z"
       },
       {
-        "number": 8155,
-        "title": "fix(fibre): [low] shorten idle connection timeouts (backport #8151)",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/8155",
-        "repo": "celestia-app",
-        "author": "mergify",
-        "authorCategory": "bot",
-        "reviewer": "rach-id",
-        "requestedAt": "2026-10-17T17:23:27Z"
-      },
-      {
         "number": 8200,
         "title": "feat(fibre): [medium] add startup storage observability",
         "url": "https://github.com/celestiaorg/celestia-app/pull/8200",
@@ -396,16 +376,6 @@
         "authorCategory": "external",
         "reviewer": "rach-id",
         "requestedAt": "2026-10-17T17:23:31Z"
-      },
-      {
-        "number": 8032,
-        "title": "fix(user): honor WithParallelQueueSize when starting tx queue",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/8032",
-        "repo": "celestia-app",
-        "author": "myetcd",
-        "authorCategory": "external",
-        "reviewer": "rach-id",
-        "requestedAt": "2026-10-17T17:24:01Z"
       }
     ],
     "renaynay": [
@@ -629,5 +599,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-10-17T20:45:44.631Z"
+  "fetchedAt": "2026-10-17T20:52:24.514Z"
 }
