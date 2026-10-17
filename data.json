@@ -267,7 +267,7 @@
       },
       {
         "number": 8032,
-        "title": "fix(user): honor WithParallelQueueSize when starting tx queue",
+        "title": "fix(user): [medium] honor WithParallelQueueSize when starting tx queue",
         "url": "https://github.com/celestiaorg/celestia-app/pull/8032",
         "repo": "celestia-app",
         "author": "myetcd",
@@ -599,5 +599,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-10-17T20:59:00.755Z"
+  "fetchedAt": "2026-10-17T21:14:55.755Z"
 }
