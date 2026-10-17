@@ -338,26 +338,6 @@
         "requestedAt": "2026-10-17T17:21:42Z"
       },
       {
-        "number": 8229,
-        "title": "test(app): [low] pin transaction selection at proposal capacity",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/8229",
-        "repo": "celestia-app",
-        "author": "rootulp",
-        "authorCategory": "coworker",
-        "reviewer": "rach-id",
-        "requestedAt": "2026-10-17T17:21:46Z"
-      },
-      {
-        "number": 8227,
-        "title": "test(fibre): [low] cover 128 MiB scatter codec messages",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/8227",
-        "repo": "celestia-app",
-        "author": "rootulp",
-        "authorCategory": "coworker",
-        "reviewer": "rach-id",
-        "requestedAt": "2026-10-17T17:21:54Z"
-      },
-      {
         "number": 8216,
         "title": "ci: [low] remove deprecated QEMU wrapper from app publishing",
         "url": "https://github.com/celestiaorg/celestia-app/pull/8216",
@@ -789,5 +769,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-10-17T20:17:02.338Z"
+  "fetchedAt": "2026-10-17T20:28:49.171Z"
 }
