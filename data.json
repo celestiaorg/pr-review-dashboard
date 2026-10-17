@@ -209,7 +209,18 @@
         "requestedAt": "2026-10-15T13:33:25Z"
       }
     ],
-    "rootulp": [],
+    "rootulp": [
+      {
+        "number": 8236,
+        "title": "test(docker-e2e): [medium] read mocha archive peers off the live RPCs",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/8236",
+        "repo": "celestia-app",
+        "author": "rach-id",
+        "authorCategory": "coworker",
+        "reviewer": "rootulp",
+        "requestedAt": "2026-10-17T15:00:48Z"
+      }
+    ],
     "vgonkivs": [
       {
         "number": 5344,
@@ -518,5 +529,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-10-17T14:55:25.261Z"
+  "fetchedAt": "2026-10-17T15:05:42.682Z"
 }
