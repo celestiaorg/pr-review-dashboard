@@ -42,6 +42,16 @@
         "authorCategory": "coworker",
         "reviewer": "pippokr",
         "requestedAt": "2026-10-08T13:18:27Z"
+      },
+      {
+        "number": 8237,
+        "title": "fix(fibre): [low] refuse an upload whose context is already done",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/8237",
+        "repo": "celestia-app",
+        "author": "rach-id",
+        "authorCategory": "coworker",
+        "reviewer": "pippokr",
+        "requestedAt": "2026-10-17T17:30:55Z"
       }
     ],
     "ninabarbakadze": [
@@ -64,16 +74,6 @@
         "authorCategory": "coworker",
         "reviewer": "ninabarbakadze",
         "requestedAt": "2026-10-16T22:19:09Z"
-      },
-      {
-        "number": 8236,
-        "title": "test(docker-e2e): [medium] read mocha archive peers off the live RPCs",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/8236",
-        "repo": "celestia-app",
-        "author": "rach-id",
-        "authorCategory": "coworker",
-        "reviewer": "ninabarbakadze",
-        "requestedAt": "2026-10-17T17:21:25Z"
       },
       {
         "number": 8235,
@@ -117,7 +117,7 @@
       },
       {
         "number": 8228,
-        "title": "docs: [low] inventory remaining production coverage gaps",
+        "title": "docs: [low] plan production coverage follow-ups",
         "url": "https://github.com/celestiaorg/celestia-app/pull/8228",
         "repo": "celestia-app",
         "author": "rootulp",
@@ -154,16 +154,6 @@
         "authorCategory": "coworker",
         "reviewer": "ninabarbakadze",
         "requestedAt": "2026-10-17T17:22:35Z"
-      },
-      {
-        "number": 8212,
-        "title": "ci: [low] install mdBook without deprecated Node action",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/8212",
-        "repo": "celestia-app",
-        "author": "rootulp",
-        "authorCategory": "coworker",
-        "reviewer": "ninabarbakadze",
-        "requestedAt": "2026-10-17T17:22:39Z"
       },
       {
         "number": 8206,
@@ -389,7 +379,7 @@
       },
       {
         "number": 8228,
-        "title": "docs: [low] inventory remaining production coverage gaps",
+        "title": "docs: [low] plan production coverage follow-ups",
         "url": "https://github.com/celestiaorg/celestia-app/pull/8228",
         "repo": "celestia-app",
         "author": "rootulp",
@@ -436,16 +426,6 @@
         "authorCategory": "coworker",
         "reviewer": "rach-id",
         "requestedAt": "2026-10-17T17:22:35Z"
-      },
-      {
-        "number": 8212,
-        "title": "ci: [low] install mdBook without deprecated Node action",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/8212",
-        "repo": "celestia-app",
-        "author": "rootulp",
-        "authorCategory": "coworker",
-        "reviewer": "rach-id",
-        "requestedAt": "2026-10-17T17:22:39Z"
       },
       {
         "number": 8206,
@@ -849,5 +829,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-10-17T17:24:22.536Z"
+  "fetchedAt": "2026-10-17T17:31:14.943Z"
 }
