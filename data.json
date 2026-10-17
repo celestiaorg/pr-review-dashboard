@@ -146,16 +146,6 @@
         "requestedAt": "2026-10-17T17:24:18Z"
       },
       {
-        "number": 8221,
-        "title": "fix(multiplexer): [medium] initialize nextAppVersion (backport #8190)",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/8221",
-        "repo": "celestia-app",
-        "author": "mergify",
-        "authorCategory": "bot",
-        "reviewer": "ninabarbakadze",
-        "requestedAt": "2026-10-17T17:22:09Z"
-      },
-      {
         "number": 8158,
         "title": "chore(deps): [high] bump the go-deps group across 1 directory with 30 updates",
         "url": "https://github.com/celestiaorg/celestia-app/pull/8158",
@@ -184,16 +174,6 @@
         "authorCategory": "external",
         "reviewer": "ninabarbakadze",
         "requestedAt": "2026-10-15T17:53:40Z"
-      },
-      {
-        "number": 8147,
-        "title": "fix(fibre)!: [low] bound the payment promise height window",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/8147",
-        "repo": "celestia-app",
-        "author": "durenodes",
-        "authorCategory": "external",
-        "reviewer": "ninabarbakadze",
-        "requestedAt": "2026-10-17T17:23:31Z"
       },
       {
         "number": 8085,
@@ -256,16 +236,6 @@
         "authorCategory": "external",
         "reviewer": "rach-id",
         "requestedAt": "2026-10-17T17:22:57Z"
-      },
-      {
-        "number": 8147,
-        "title": "fix(fibre)!: [low] bound the payment promise height window",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/8147",
-        "repo": "celestia-app",
-        "author": "durenodes",
-        "authorCategory": "external",
-        "reviewer": "rach-id",
-        "requestedAt": "2026-10-17T17:23:31Z"
       }
     ],
     "renaynay": [
@@ -489,5 +459,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-10-17T21:25:21.401Z"
+  "fetchedAt": "2026-10-17T21:32:49.074Z"
 }
