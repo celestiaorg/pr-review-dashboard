@@ -146,6 +146,16 @@
         "requestedAt": "2026-10-17T17:24:18Z"
       },
       {
+        "number": 8187,
+        "title": "fix(fibre)!: [low] key escrow state by the canonical signer address",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/8187",
+        "repo": "celestia-app",
+        "author": "durenodes",
+        "authorCategory": "external",
+        "reviewer": "ninabarbakadze",
+        "requestedAt": "2026-10-14T14:00:42Z"
+      },
+      {
         "number": 8200,
         "title": "feat(fibre): [medium] add startup storage observability",
         "url": "https://github.com/celestiaorg/celestia-app/pull/8200",
@@ -187,16 +197,6 @@
       }
     ],
     "rach-id": [
-      {
-        "number": 8230,
-        "title": "fix(fibre): [medium] validate malformed prune index keys",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/8230",
-        "repo": "celestia-app",
-        "author": "rootulp",
-        "authorCategory": "coworker",
-        "reviewer": "rach-id",
-        "requestedAt": "2026-10-17T17:21:42Z"
-      },
       {
         "number": 8200,
         "title": "feat(fibre): [medium] add startup storage observability",
@@ -429,5 +429,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-10-18T07:19:27.651Z"
+  "fetchedAt": "2026-10-18T07:31:12.949Z"
 }
