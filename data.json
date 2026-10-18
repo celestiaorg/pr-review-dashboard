@@ -156,16 +156,6 @@
         "requestedAt": "2026-10-15T17:53:40Z"
       },
       {
-        "number": 8085,
-        "title": "fix(fibre): [low] extend server duration buckets to 60s for object storage",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/8085",
-        "repo": "celestia-app",
-        "author": "alexeymoskalev-devops",
-        "authorCategory": "external",
-        "reviewer": "ninabarbakadze",
-        "requestedAt": "2026-10-17T17:23:48Z"
-      },
-      {
         "number": 8083,
         "title": "fix: [low] add timeout to download-genesis requests",
         "url": "https://github.com/celestiaorg/celestia-app/pull/8083",
@@ -408,5 +398,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-10-18T11:53:59.266Z"
+  "fetchedAt": "2026-10-18T12:00:42.285Z"
 }
