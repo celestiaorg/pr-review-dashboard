@@ -106,6 +106,16 @@
         "requestedAt": "2026-10-18T23:25:57Z"
       },
       {
+        "number": 8240,
+        "title": "chore: [low] keep agent commits signed under the configured identity",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/8240",
+        "repo": "celestia-app",
+        "author": "rootulp",
+        "authorCategory": "coworker",
+        "reviewer": "ninabarbakadze",
+        "requestedAt": "2026-10-18T23:39:24Z"
+      },
+      {
         "number": 8200,
         "title": "feat(fibre): [medium] add startup storage observability",
         "url": "https://github.com/celestiaorg/celestia-app/pull/8200",
@@ -166,6 +176,16 @@
         "authorCategory": "coworker",
         "reviewer": "rach-id",
         "requestedAt": "2026-10-18T23:25:57Z"
+      },
+      {
+        "number": 8240,
+        "title": "chore: [low] keep agent commits signed under the configured identity",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/8240",
+        "repo": "celestia-app",
+        "author": "rootulp",
+        "authorCategory": "coworker",
+        "reviewer": "rach-id",
+        "requestedAt": "2026-10-18T23:39:24Z"
       }
     ],
     "renaynay": [
@@ -399,5 +419,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-10-18T23:39:21.575Z"
+  "fetchedAt": "2026-10-18T23:46:14.991Z"
 }
