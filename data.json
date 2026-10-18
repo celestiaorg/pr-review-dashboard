@@ -76,16 +76,6 @@
         "requestedAt": "2026-10-16T13:24:20Z"
       },
       {
-        "number": 8204,
-        "title": "ci: [low] isolate race jobs and retry module downloads",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/8204",
-        "repo": "celestia-app",
-        "author": "rootulp",
-        "authorCategory": "coworker",
-        "reviewer": "ninabarbakadze",
-        "requestedAt": "2026-10-17T17:22:46Z"
-      },
-      {
         "number": 8023,
         "title": "docs(fibre): [low] align protocol references and add introductory guide",
         "url": "https://github.com/celestiaorg/celestia-app/pull/8023",
@@ -419,5 +409,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-10-18T23:52:43.676Z"
+  "fetchedAt": "2026-10-18T23:59:08.488Z"
 }
