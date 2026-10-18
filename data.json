@@ -66,16 +66,6 @@
         "requestedAt": "2026-10-16T22:19:09Z"
       },
       {
-        "number": 8235,
-        "title": "fix(fibre): [medium] bound shard marker sizes by codec limits",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/8235",
-        "repo": "celestia-app",
-        "author": "rootulp",
-        "authorCategory": "coworker",
-        "reviewer": "ninabarbakadze",
-        "requestedAt": "2026-10-17T17:21:27Z"
-      },
-      {
         "number": 8234,
         "title": "fix(fibre): [medium] sanitize storage errors in RPC responses",
         "url": "https://github.com/celestiaorg/celestia-app/pull/8234",
@@ -104,26 +94,6 @@
         "authorCategory": "coworker",
         "reviewer": "ninabarbakadze",
         "requestedAt": "2026-10-17T17:21:46Z"
-      },
-      {
-        "number": 8228,
-        "title": "docs: [low] plan production coverage follow-ups",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/8228",
-        "repo": "celestia-app",
-        "author": "rootulp",
-        "authorCategory": "coworker",
-        "reviewer": "ninabarbakadze",
-        "requestedAt": "2026-10-17T17:21:50Z"
-      },
-      {
-        "number": 8216,
-        "title": "ci: [low] remove deprecated QEMU wrapper from app publishing",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/8216",
-        "repo": "celestia-app",
-        "author": "rootulp",
-        "authorCategory": "coworker",
-        "reviewer": "ninabarbakadze",
-        "requestedAt": "2026-10-17T17:22:28Z"
       },
       {
         "number": 8204,
@@ -418,5 +388,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-10-18T23:14:57.132Z"
+  "fetchedAt": "2026-10-18T23:24:50.544Z"
 }
