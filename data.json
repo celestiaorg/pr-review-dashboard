@@ -22,6 +22,16 @@
         "requestedAt": "2026-10-18T23:25:31Z"
       },
       {
+        "number": 985,
+        "title": "fix(monitoring): scope gateway secondary-blocked alert to encoder instances",
+        "url": "https://github.com/celestiaorg/infrastructure/pull/985",
+        "repo": "infrastructure",
+        "author": "rootulp",
+        "authorCategory": "coworker",
+        "reviewer": "chatton",
+        "requestedAt": "2026-10-18T23:37:30Z"
+      },
+      {
         "number": 3460,
         "title": "build(deps): Bump linear/linear-release-action from 0.18.0 to 0.18.1",
         "url": "https://github.com/celestiaorg/celestia-core/pull/3460",
@@ -76,6 +86,16 @@
         "requestedAt": "2026-10-17T17:22:46Z"
       },
       {
+        "number": 8023,
+        "title": "docs(fibre): [low] align protocol references and add introductory guide",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/8023",
+        "repo": "celestia-app",
+        "author": "rootulp",
+        "authorCategory": "coworker",
+        "reviewer": "ninabarbakadze",
+        "requestedAt": "2026-10-17T17:24:04Z"
+      },
+      {
         "number": 305,
         "title": "ci: create public Buf module on release push",
         "url": "https://github.com/celestiaorg/go-square/pull/305",
@@ -127,6 +147,16 @@
       }
     ],
     "rach-id": [
+      {
+        "number": 8023,
+        "title": "docs(fibre): [low] align protocol references and add introductory guide",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/8023",
+        "repo": "celestia-app",
+        "author": "rootulp",
+        "authorCategory": "coworker",
+        "reviewer": "rach-id",
+        "requestedAt": "2026-10-17T17:24:05Z"
+      },
       {
         "number": 305,
         "title": "ci: create public Buf module on release push",
@@ -369,5 +399,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-10-18T23:31:45.349Z"
+  "fetchedAt": "2026-10-18T23:39:21.575Z"
 }
