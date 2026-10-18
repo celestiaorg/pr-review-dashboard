@@ -146,16 +146,6 @@
         "requestedAt": "2026-10-17T17:24:18Z"
       },
       {
-        "number": 8187,
-        "title": "fix(fibre)!: [low] key escrow state by the canonical signer address",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/8187",
-        "repo": "celestia-app",
-        "author": "durenodes",
-        "authorCategory": "external",
-        "reviewer": "ninabarbakadze",
-        "requestedAt": "2026-10-14T14:00:42Z"
-      },
-      {
         "number": 8200,
         "title": "feat(fibre): [medium] add startup storage observability",
         "url": "https://github.com/celestiaorg/celestia-app/pull/8200",
@@ -429,5 +419,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-10-18T07:41:21.098Z"
+  "fetchedAt": "2026-10-18T07:48:30.264Z"
 }
