@@ -186,18 +186,7 @@
         "requestedAt": "2026-10-17T17:24:00Z"
       }
     ],
-    "rach-id": [
-      {
-        "number": 8200,
-        "title": "feat(fibre): [medium] add startup storage observability",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/8200",
-        "repo": "celestia-app",
-        "author": "pmensik",
-        "authorCategory": "external",
-        "reviewer": "rach-id",
-        "requestedAt": "2026-10-17T17:22:50Z"
-      }
-    ],
+    "rach-id": [],
     "renaynay": [
       {
         "number": 5337,
@@ -419,5 +408,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-10-18T08:06:40.013Z"
+  "fetchedAt": "2026-10-18T08:26:35.004Z"
 }
