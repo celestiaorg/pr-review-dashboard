@@ -258,16 +258,6 @@
         "requestedAt": "2026-10-17T17:23:03Z"
       },
       {
-        "number": 8174,
-        "title": "perf(rlc): [high] compute RLC with PMULL on arm64, NEON transpose fallback",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/8174",
-        "repo": "celestia-app",
-        "author": "walldiss",
-        "authorCategory": "coworker",
-        "reviewer": "rach-id",
-        "requestedAt": "2026-10-17T17:23:20Z"
-      },
-      {
         "number": 7922,
         "title": "fix: [medium] honor explicit zero node minimum gas price",
         "url": "https://github.com/celestiaorg/celestia-app/pull/7922",
@@ -316,16 +306,6 @@
         "authorCategory": "coworker",
         "reviewer": "rach-id",
         "requestedAt": "2026-10-17T17:24:27Z"
-      },
-      {
-        "number": 5351,
-        "title": "fix(state): verify the absence proof for an empty balance",
-        "url": "https://github.com/celestiaorg/celestia-node/pull/5351",
-        "repo": "celestia-node",
-        "author": "Bruce039",
-        "authorCategory": "external",
-        "reviewer": "rach-id",
-        "requestedAt": "2026-10-19T10:45:47Z"
       }
     ],
     "renaynay": [],
@@ -569,5 +549,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-10-19T15:31:28.535Z"
+  "fetchedAt": "2026-10-19T15:42:47.831Z"
 }
