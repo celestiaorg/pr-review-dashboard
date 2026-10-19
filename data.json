@@ -157,7 +157,7 @@
       },
       {
         "number": 7892,
-        "title": "feat(fibre): [medium] bound concurrent Put storage and expose memory stats",
+        "title": "feat(fibre): [medium] let callers bound concurrent Put memory",
         "url": "https://github.com/celestiaorg/celestia-app/pull/7892",
         "repo": "celestia-app",
         "author": "walldiss",
@@ -349,7 +349,7 @@
       },
       {
         "number": 7892,
-        "title": "feat(fibre): [medium] bound concurrent Put storage and expose memory stats",
+        "title": "feat(fibre): [medium] let callers bound concurrent Put memory",
         "url": "https://github.com/celestiaorg/celestia-app/pull/7892",
         "repo": "celestia-app",
         "author": "walldiss",
@@ -619,5 +619,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-10-19T11:59:13.297Z"
+  "fetchedAt": "2026-10-19T12:31:02.368Z"
 }
