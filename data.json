@@ -258,16 +258,6 @@
         "requestedAt": "2026-10-17T17:23:03Z"
       },
       {
-        "number": 7922,
-        "title": "fix: [medium] honor explicit zero node minimum gas price",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7922",
-        "repo": "celestia-app",
-        "author": "walldiss",
-        "authorCategory": "coworker",
-        "reviewer": "rach-id",
-        "requestedAt": "2026-10-17T17:24:13Z"
-      },
-      {
         "number": 7892,
         "title": "feat(fibre): [medium] let callers bound concurrent Put memory",
         "url": "https://github.com/celestiaorg/celestia-app/pull/7892",
@@ -549,5 +539,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-10-19T15:42:47.831Z"
+  "fetchedAt": "2026-10-19T15:50:36.382Z"
 }
