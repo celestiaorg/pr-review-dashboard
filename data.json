@@ -96,16 +96,6 @@
         "requestedAt": "2026-10-17T17:24:04Z"
       },
       {
-        "number": 305,
-        "title": "ci: create public Buf module on release push",
-        "url": "https://github.com/celestiaorg/go-square/pull/305",
-        "repo": "go-square",
-        "author": "rootulp",
-        "authorCategory": "coworker",
-        "reviewer": "ninabarbakadze",
-        "requestedAt": "2026-10-18T23:25:57Z"
-      },
-      {
         "number": 8240,
         "title": "chore: [low] keep agent commits signed under the configured identity",
         "url": "https://github.com/celestiaorg/celestia-app/pull/8240",
@@ -166,58 +156,7 @@
         "requestedAt": "2026-10-18T17:15:55Z"
       }
     ],
-    "rach-id": [
-      {
-        "number": 8217,
-        "title": "ci: [medium] add global coverage policy and proposal checks",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/8217",
-        "repo": "celestia-app",
-        "author": "rootulp",
-        "authorCategory": "coworker",
-        "reviewer": "rach-id",
-        "requestedAt": "2026-10-17T17:22:25Z"
-      },
-      {
-        "number": 8023,
-        "title": "docs(fibre): [low] align protocol references and add introductory guide",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/8023",
-        "repo": "celestia-app",
-        "author": "rootulp",
-        "authorCategory": "coworker",
-        "reviewer": "rach-id",
-        "requestedAt": "2026-10-17T17:24:05Z"
-      },
-      {
-        "number": 305,
-        "title": "ci: create public Buf module on release push",
-        "url": "https://github.com/celestiaorg/go-square/pull/305",
-        "repo": "go-square",
-        "author": "rootulp",
-        "authorCategory": "coworker",
-        "reviewer": "rach-id",
-        "requestedAt": "2026-10-18T23:25:57Z"
-      },
-      {
-        "number": 8240,
-        "title": "chore: [low] keep agent commits signed under the configured identity",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/8240",
-        "repo": "celestia-app",
-        "author": "rootulp",
-        "authorCategory": "coworker",
-        "reviewer": "rach-id",
-        "requestedAt": "2026-10-18T23:39:24Z"
-      },
-      {
-        "number": 8241,
-        "title": "docs: [low] never commit agent working notes",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/8241",
-        "repo": "celestia-app",
-        "author": "rootulp",
-        "authorCategory": "coworker",
-        "reviewer": "rach-id",
-        "requestedAt": "2026-10-19T01:50:37Z"
-      }
-    ],
+    "rach-id": [],
     "renaynay": [
       {
         "number": 5337,
@@ -335,16 +274,6 @@
     ],
     "theodorebugnet": [
       {
-        "number": 305,
-        "title": "ci: create public Buf module on release push",
-        "url": "https://github.com/celestiaorg/go-square/pull/305",
-        "repo": "go-square",
-        "author": "rootulp",
-        "authorCategory": "coworker",
-        "reviewer": "theodorebugnet",
-        "requestedAt": "2026-10-14T15:39:40Z"
-      },
-      {
         "number": 348,
         "title": "chore(deps): bump github.com/tidwall/gjson from 1.19.0 to 1.20.0",
         "url": "https://github.com/celestiaorg/nmt/pull/348",
@@ -459,5 +388,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-10-19T08:07:57.782Z"
+  "fetchedAt": "2026-10-19T08:38:07.978Z"
 }
