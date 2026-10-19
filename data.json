@@ -50,6 +50,16 @@
         "authorCategory": "bot",
         "reviewer": "chatton",
         "requestedAt": "2026-10-14T20:17:41Z"
+      },
+      {
+        "number": 584,
+        "title": "chore(peers): refresh mainnet peers + addrbook",
+        "url": "https://github.com/celestiaorg/networks/pull/584",
+        "repo": "networks",
+        "author": "github-actions",
+        "authorCategory": "bot",
+        "reviewer": "chatton",
+        "requestedAt": "2026-10-19T00:16:08Z"
       }
     ],
     "pippokr": [
@@ -221,6 +231,16 @@
         "authorCategory": "bot",
         "reviewer": "vgonkivs",
         "requestedAt": "2026-10-14T20:14:33Z"
+      },
+      {
+        "number": 583,
+        "title": "chore(peers): refresh mocha-5 peers",
+        "url": "https://github.com/celestiaorg/networks/pull/583",
+        "repo": "networks",
+        "author": "github-actions",
+        "authorCategory": "bot",
+        "reviewer": "vgonkivs",
+        "requestedAt": "2026-10-19T00:16:06Z"
       },
       {
         "number": 5190,
@@ -409,5 +429,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-10-18T23:59:08.488Z"
+  "fetchedAt": "2026-10-19T00:53:48.132Z"
 }
