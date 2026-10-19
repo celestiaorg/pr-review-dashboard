@@ -12,6 +12,16 @@
         "requestedAt": "2026-10-18T23:25:31Z"
       },
       {
+        "number": 993,
+        "title": "fix(corto): [low] complete the corto bridge play vars (PROTOCO-2198)",
+        "url": "https://github.com/celestiaorg/infrastructure/pull/993",
+        "repo": "infrastructure",
+        "author": "pippokr",
+        "authorCategory": "coworker",
+        "reviewer": "chatton",
+        "requestedAt": "2026-10-19T12:51:15Z"
+      },
+      {
         "number": 8245,
         "title": "chore(deps): [high] bump the go-deps group with 16 updates",
         "url": "https://github.com/celestiaorg/celestia-app/pull/8245",
@@ -619,5 +629,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-10-19T12:31:02.368Z"
+  "fetchedAt": "2026-10-19T12:53:36.067Z"
 }
