@@ -258,36 +258,6 @@
         "requestedAt": "2026-10-17T17:23:03Z"
       },
       {
-        "number": 8178,
-        "title": "perf(rsema1d): [high] split Reed-Solomon across idle workers",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/8178",
-        "repo": "celestia-app",
-        "author": "walldiss",
-        "authorCategory": "coworker",
-        "reviewer": "rach-id",
-        "requestedAt": "2026-10-17T17:23:10Z"
-      },
-      {
-        "number": 8177,
-        "title": "perf(row): [medium] pad codec work rows off the power-of-two stride",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/8177",
-        "repo": "celestia-app",
-        "author": "walldiss",
-        "authorCategory": "coworker",
-        "reviewer": "rach-id",
-        "requestedAt": "2026-10-17T17:23:13Z"
-      },
-      {
-        "number": 8176,
-        "title": "perf(row): [high] stop zeroing parity rows in Assemble",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/8176",
-        "repo": "celestia-app",
-        "author": "walldiss",
-        "authorCategory": "coworker",
-        "reviewer": "rach-id",
-        "requestedAt": "2026-10-17T17:23:15Z"
-      },
-      {
         "number": 8175,
         "title": "perf(row): [medium] advise transparent huge pages for mmap'd slabs",
         "url": "https://github.com/celestiaorg/celestia-app/pull/8175",
@@ -609,5 +579,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-10-19T14:50:33.341Z"
+  "fetchedAt": "2026-10-19T14:59:11.919Z"
 }
