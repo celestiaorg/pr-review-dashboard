@@ -206,16 +206,6 @@
         "requestedAt": "2026-10-18T23:39:24Z"
       },
       {
-        "number": 8241,
-        "title": "docs: [low] never commit agent working notes",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/8241",
-        "repo": "celestia-app",
-        "author": "rootulp",
-        "authorCategory": "coworker",
-        "reviewer": "ninabarbakadze",
-        "requestedAt": "2026-10-19T01:50:37Z"
-      },
-      {
         "number": 8083,
         "title": "fix: [low] add timeout to download-genesis requests",
         "url": "https://github.com/celestiaorg/celestia-app/pull/8083",
@@ -529,5 +519,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-10-19T19:15:12.277Z"
+  "fetchedAt": "2026-10-19T19:26:00.252Z"
 }
