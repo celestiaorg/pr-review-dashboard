@@ -12,16 +12,6 @@
         "requestedAt": "2026-10-18T23:25:31Z"
       },
       {
-        "number": 989,
-        "title": "fix(corto): [medium] pin system_hostname in the shared corto play (PROTOCO-2198)",
-        "url": "https://github.com/celestiaorg/infrastructure/pull/989",
-        "repo": "infrastructure",
-        "author": "pippokr",
-        "authorCategory": "coworker",
-        "reviewer": "chatton",
-        "requestedAt": "2026-10-19T09:54:18Z"
-      },
-      {
         "number": 8245,
         "title": "chore(deps): [high] bump the go-deps group with 16 updates",
         "url": "https://github.com/celestiaorg/celestia-app/pull/8245",
@@ -660,5 +650,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-10-19T09:54:44.901Z"
+  "fetchedAt": "2026-10-19T10:03:43.750Z"
 }
