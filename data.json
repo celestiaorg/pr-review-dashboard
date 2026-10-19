@@ -258,16 +258,6 @@
         "requestedAt": "2026-10-17T17:23:03Z"
       },
       {
-        "number": 8175,
-        "title": "perf(row): [medium] advise transparent huge pages for mmap'd slabs",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/8175",
-        "repo": "celestia-app",
-        "author": "walldiss",
-        "authorCategory": "coworker",
-        "reviewer": "rach-id",
-        "requestedAt": "2026-10-17T17:23:18Z"
-      },
-      {
         "number": 8174,
         "title": "perf(rlc): [high] compute RLC with PMULL on arm64, NEON transpose fallback",
         "url": "https://github.com/celestiaorg/celestia-app/pull/8174",
@@ -579,5 +569,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-10-19T14:59:11.919Z"
+  "fetchedAt": "2026-10-19T15:18:55.411Z"
 }
