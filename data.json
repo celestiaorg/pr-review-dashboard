@@ -46,6 +46,146 @@
         "requestedAt": "2026-10-17T17:22:25Z"
       },
       {
+        "number": 8182,
+        "title": "chore(talis): [low] tune TCP buffers for Fibre uploads",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/8182",
+        "repo": "celestia-app",
+        "author": "walldiss",
+        "authorCategory": "coworker",
+        "reviewer": "ninabarbakadze",
+        "requestedAt": "2026-10-17T17:23:00Z"
+      },
+      {
+        "number": 8181,
+        "title": "perf(fibre): [medium] skip object HEAD checks during uploads",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/8181",
+        "repo": "celestia-app",
+        "author": "walldiss",
+        "authorCategory": "coworker",
+        "reviewer": "ninabarbakadze",
+        "requestedAt": "2026-10-17T17:23:03Z"
+      },
+      {
+        "number": 8180,
+        "title": "perf(fibre): [medium] send TLS records of one write in one syscall",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/8180",
+        "repo": "celestia-app",
+        "author": "walldiss",
+        "authorCategory": "coworker",
+        "reviewer": "ninabarbakadze",
+        "requestedAt": "2026-10-17T17:23:05Z"
+      },
+      {
+        "number": 8179,
+        "title": "perf(fibre): [medium] copy proof segments into upload framing",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/8179",
+        "repo": "celestia-app",
+        "author": "walldiss",
+        "authorCategory": "coworker",
+        "reviewer": "ninabarbakadze",
+        "requestedAt": "2026-10-17T17:23:08Z"
+      },
+      {
+        "number": 8178,
+        "title": "perf(rsema1d): [high] split Reed-Solomon across idle workers",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/8178",
+        "repo": "celestia-app",
+        "author": "walldiss",
+        "authorCategory": "coworker",
+        "reviewer": "ninabarbakadze",
+        "requestedAt": "2026-10-17T17:23:10Z"
+      },
+      {
+        "number": 8177,
+        "title": "perf(row): [medium] pad codec work rows off the power-of-two stride",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/8177",
+        "repo": "celestia-app",
+        "author": "walldiss",
+        "authorCategory": "coworker",
+        "reviewer": "ninabarbakadze",
+        "requestedAt": "2026-10-17T17:23:13Z"
+      },
+      {
+        "number": 8176,
+        "title": "perf(row): [high] stop zeroing parity rows in Assemble",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/8176",
+        "repo": "celestia-app",
+        "author": "walldiss",
+        "authorCategory": "coworker",
+        "reviewer": "ninabarbakadze",
+        "requestedAt": "2026-10-17T17:23:15Z"
+      },
+      {
+        "number": 8175,
+        "title": "perf(row): [medium] advise transparent huge pages for mmap'd slabs",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/8175",
+        "repo": "celestia-app",
+        "author": "walldiss",
+        "authorCategory": "coworker",
+        "reviewer": "ninabarbakadze",
+        "requestedAt": "2026-10-17T17:23:18Z"
+      },
+      {
+        "number": 8174,
+        "title": "perf(rlc): [high] compute RLC with PMULL on arm64, NEON transpose fallback",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/8174",
+        "repo": "celestia-app",
+        "author": "walldiss",
+        "authorCategory": "coworker",
+        "reviewer": "ninabarbakadze",
+        "requestedAt": "2026-10-17T17:23:20Z"
+      },
+      {
+        "number": 7922,
+        "title": "fix: honor explicit zero node minimum gas price",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/7922",
+        "repo": "celestia-app",
+        "author": "walldiss",
+        "authorCategory": "coworker",
+        "reviewer": "ninabarbakadze",
+        "requestedAt": "2026-10-17T17:24:13Z"
+      },
+      {
+        "number": 7892,
+        "title": "feat(fibre): bound concurrent Put storage and expose memory stats",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/7892",
+        "repo": "celestia-app",
+        "author": "walldiss",
+        "authorCategory": "coworker",
+        "reviewer": "ninabarbakadze",
+        "requestedAt": "2026-10-17T17:24:16Z"
+      },
+      {
+        "number": 7889,
+        "title": "feat: confirm fibre uploads through subscriptions",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/7889",
+        "repo": "celestia-app",
+        "author": "walldiss",
+        "authorCategory": "coworker",
+        "reviewer": "ninabarbakadze",
+        "requestedAt": "2026-10-17T17:24:21Z"
+      },
+      {
+        "number": 7888,
+        "title": "feat: add subscription transaction confirmation",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/7888",
+        "repo": "celestia-app",
+        "author": "walldiss",
+        "authorCategory": "coworker",
+        "reviewer": "ninabarbakadze",
+        "requestedAt": "2026-10-17T17:24:24Z"
+      },
+      {
+        "number": 7876,
+        "title": "feat: support repeated reads across fibre readers",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/7876",
+        "repo": "celestia-app",
+        "author": "walldiss",
+        "authorCategory": "coworker",
+        "reviewer": "ninabarbakadze",
+        "requestedAt": "2026-10-17T17:24:27Z"
+      },
+      {
         "number": 8240,
         "title": "chore: [low] keep agent commits signed under the configured identity",
         "url": "https://github.com/celestiaorg/celestia-app/pull/8240",
@@ -106,7 +246,148 @@
         "requestedAt": "2026-10-18T17:15:55Z"
       }
     ],
-    "rach-id": [],
+    "rach-id": [
+      {
+        "number": 8182,
+        "title": "chore(talis): [low] tune TCP buffers for Fibre uploads",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/8182",
+        "repo": "celestia-app",
+        "author": "walldiss",
+        "authorCategory": "coworker",
+        "reviewer": "rach-id",
+        "requestedAt": "2026-10-17T17:23:00Z"
+      },
+      {
+        "number": 8181,
+        "title": "perf(fibre): [medium] skip object HEAD checks during uploads",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/8181",
+        "repo": "celestia-app",
+        "author": "walldiss",
+        "authorCategory": "coworker",
+        "reviewer": "rach-id",
+        "requestedAt": "2026-10-17T17:23:03Z"
+      },
+      {
+        "number": 8180,
+        "title": "perf(fibre): [medium] send TLS records of one write in one syscall",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/8180",
+        "repo": "celestia-app",
+        "author": "walldiss",
+        "authorCategory": "coworker",
+        "reviewer": "rach-id",
+        "requestedAt": "2026-10-17T17:23:05Z"
+      },
+      {
+        "number": 8179,
+        "title": "perf(fibre): [medium] copy proof segments into upload framing",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/8179",
+        "repo": "celestia-app",
+        "author": "walldiss",
+        "authorCategory": "coworker",
+        "reviewer": "rach-id",
+        "requestedAt": "2026-10-17T17:23:08Z"
+      },
+      {
+        "number": 8178,
+        "title": "perf(rsema1d): [high] split Reed-Solomon across idle workers",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/8178",
+        "repo": "celestia-app",
+        "author": "walldiss",
+        "authorCategory": "coworker",
+        "reviewer": "rach-id",
+        "requestedAt": "2026-10-17T17:23:10Z"
+      },
+      {
+        "number": 8177,
+        "title": "perf(row): [medium] pad codec work rows off the power-of-two stride",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/8177",
+        "repo": "celestia-app",
+        "author": "walldiss",
+        "authorCategory": "coworker",
+        "reviewer": "rach-id",
+        "requestedAt": "2026-10-17T17:23:13Z"
+      },
+      {
+        "number": 8176,
+        "title": "perf(row): [high] stop zeroing parity rows in Assemble",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/8176",
+        "repo": "celestia-app",
+        "author": "walldiss",
+        "authorCategory": "coworker",
+        "reviewer": "rach-id",
+        "requestedAt": "2026-10-17T17:23:15Z"
+      },
+      {
+        "number": 8175,
+        "title": "perf(row): [medium] advise transparent huge pages for mmap'd slabs",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/8175",
+        "repo": "celestia-app",
+        "author": "walldiss",
+        "authorCategory": "coworker",
+        "reviewer": "rach-id",
+        "requestedAt": "2026-10-17T17:23:18Z"
+      },
+      {
+        "number": 8174,
+        "title": "perf(rlc): [high] compute RLC with PMULL on arm64, NEON transpose fallback",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/8174",
+        "repo": "celestia-app",
+        "author": "walldiss",
+        "authorCategory": "coworker",
+        "reviewer": "rach-id",
+        "requestedAt": "2026-10-17T17:23:20Z"
+      },
+      {
+        "number": 7922,
+        "title": "fix: honor explicit zero node minimum gas price",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/7922",
+        "repo": "celestia-app",
+        "author": "walldiss",
+        "authorCategory": "coworker",
+        "reviewer": "rach-id",
+        "requestedAt": "2026-10-17T17:24:13Z"
+      },
+      {
+        "number": 7892,
+        "title": "feat(fibre): bound concurrent Put storage and expose memory stats",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/7892",
+        "repo": "celestia-app",
+        "author": "walldiss",
+        "authorCategory": "coworker",
+        "reviewer": "rach-id",
+        "requestedAt": "2026-10-17T17:24:16Z"
+      },
+      {
+        "number": 7889,
+        "title": "feat: confirm fibre uploads through subscriptions",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/7889",
+        "repo": "celestia-app",
+        "author": "walldiss",
+        "authorCategory": "coworker",
+        "reviewer": "rach-id",
+        "requestedAt": "2026-10-17T17:24:21Z"
+      },
+      {
+        "number": 7888,
+        "title": "feat: add subscription transaction confirmation",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/7888",
+        "repo": "celestia-app",
+        "author": "walldiss",
+        "authorCategory": "coworker",
+        "reviewer": "rach-id",
+        "requestedAt": "2026-10-17T17:24:24Z"
+      },
+      {
+        "number": 7876,
+        "title": "feat: support repeated reads across fibre readers",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/7876",
+        "repo": "celestia-app",
+        "author": "walldiss",
+        "authorCategory": "coworker",
+        "reviewer": "rach-id",
+        "requestedAt": "2026-10-17T17:24:27Z"
+      }
+    ],
     "renaynay": [
       {
         "number": 5337,
@@ -245,6 +526,16 @@
         "requestedAt": "2026-10-14T04:35:42Z"
       },
       {
+        "number": 8242,
+        "title": "chore(deps): [medium] bump the go-deps-docker-e2e group in /test/docker-e2e with 3 updates",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/8242",
+        "repo": "celestia-app",
+        "author": "dependabot",
+        "authorCategory": "bot",
+        "reviewer": "theodorebugnet",
+        "requestedAt": "2026-10-19T09:40:05Z"
+      },
+      {
         "number": 5348,
         "title": "state/cmd: reject the wrong address kind instead of panicking",
         "url": "https://github.com/celestiaorg/celestia-node/pull/5348",
@@ -349,5 +640,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-10-19T09:17:13.296Z"
+  "fetchedAt": "2026-10-19T09:41:11.882Z"
 }
