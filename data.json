@@ -258,16 +258,6 @@
         "requestedAt": "2026-10-17T17:23:03Z"
       },
       {
-        "number": 7892,
-        "title": "feat(fibre): [medium] let callers bound concurrent Put memory",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7892",
-        "repo": "celestia-app",
-        "author": "walldiss",
-        "authorCategory": "coworker",
-        "reviewer": "rach-id",
-        "requestedAt": "2026-10-17T17:24:16Z"
-      },
-      {
         "number": 7889,
         "title": "feat: confirm fibre uploads through subscriptions",
         "url": "https://github.com/celestiaorg/celestia-app/pull/7889",
@@ -539,5 +529,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-10-19T15:50:36.382Z"
+  "fetchedAt": "2026-10-19T15:57:09.882Z"
 }
