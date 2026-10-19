@@ -20,6 +20,16 @@
         "authorCategory": "bot",
         "reviewer": "chatton",
         "requestedAt": "2026-10-19T09:46:20Z"
+      },
+      {
+        "number": 5356,
+        "title": "test(tastora/canary): add fresh light node canary engine",
+        "url": "https://github.com/celestiaorg/celestia-node/pull/5356",
+        "repo": "celestia-node",
+        "author": "Denend",
+        "authorCategory": "external",
+        "reviewer": "chatton",
+        "requestedAt": "2026-10-19T14:39:59Z"
       }
     ],
     "pippokr": [
@@ -66,16 +76,6 @@
         "requestedAt": "2026-10-17T17:22:25Z"
       },
       {
-        "number": 8182,
-        "title": "chore(talis): [low] tune TCP buffers for Fibre uploads",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/8182",
-        "repo": "celestia-app",
-        "author": "walldiss",
-        "authorCategory": "coworker",
-        "reviewer": "ninabarbakadze",
-        "requestedAt": "2026-10-17T17:23:00Z"
-      },
-      {
         "number": 8181,
         "title": "perf(fibre): [medium] skip object HEAD checks during uploads",
         "url": "https://github.com/celestiaorg/celestia-app/pull/8181",
@@ -84,16 +84,6 @@
         "authorCategory": "coworker",
         "reviewer": "ninabarbakadze",
         "requestedAt": "2026-10-17T17:23:03Z"
-      },
-      {
-        "number": 8179,
-        "title": "perf(fibre): [medium] copy proof segments into upload framing",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/8179",
-        "repo": "celestia-app",
-        "author": "walldiss",
-        "authorCategory": "coworker",
-        "reviewer": "ninabarbakadze",
-        "requestedAt": "2026-10-17T17:23:08Z"
       },
       {
         "number": 8178,
@@ -619,5 +609,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-10-19T14:39:09.401Z"
+  "fetchedAt": "2026-10-19T14:50:33.341Z"
 }
