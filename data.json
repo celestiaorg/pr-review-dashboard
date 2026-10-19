@@ -2,16 +2,6 @@
   "reviews": {
     "chatton": [
       {
-        "number": 8247,
-        "title": "test(docker-e2e): [low] drop mainnet seed from genesis sync archive peers",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/8247",
-        "repo": "celestia-app",
-        "author": "rootulp",
-        "authorCategory": "coworker",
-        "reviewer": "chatton",
-        "requestedAt": "2026-10-19T17:56:13Z"
-      },
-      {
         "number": 8245,
         "title": "chore(deps): [high] bump the go-deps group with 16 updates",
         "url": "https://github.com/celestiaorg/celestia-app/pull/8245",
@@ -42,6 +32,16 @@
         "authorCategory": "coworker",
         "reviewer": "pippokr",
         "requestedAt": "2026-10-08T13:18:27Z"
+      },
+      {
+        "number": 585,
+        "title": "ci(peers): sign auto-update commits",
+        "url": "https://github.com/celestiaorg/networks/pull/585",
+        "repo": "networks",
+        "author": "rootulp",
+        "authorCategory": "coworker",
+        "reviewer": "pippokr",
+        "requestedAt": "2026-10-19T18:23:16Z"
       },
       {
         "number": 5355,
@@ -519,5 +519,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-10-19T18:14:11.303Z"
+  "fetchedAt": "2026-10-19T18:35:58.009Z"
 }
