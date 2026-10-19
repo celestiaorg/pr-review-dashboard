@@ -12,16 +12,6 @@
         "requestedAt": "2026-10-18T23:25:31Z"
       },
       {
-        "number": 995,
-        "title": "cleanup(corto)!: [medium] delete the interim deploy stack (PROTOCO-2198 final)",
-        "url": "https://github.com/celestiaorg/infrastructure/pull/995",
-        "repo": "infrastructure",
-        "author": "pippokr",
-        "authorCategory": "coworker",
-        "reviewer": "chatton",
-        "requestedAt": "2026-10-19T13:21:33Z"
-      },
-      {
         "number": 8245,
         "title": "chore(deps): [high] bump the go-deps group with 16 updates",
         "url": "https://github.com/celestiaorg/celestia-app/pull/8245",
@@ -276,16 +266,6 @@
         "authorCategory": "coworker",
         "reviewer": "rach-id",
         "requestedAt": "2026-10-17T17:23:03Z"
-      },
-      {
-        "number": 8179,
-        "title": "perf(fibre): [medium] copy proof segments into upload framing",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/8179",
-        "repo": "celestia-app",
-        "author": "walldiss",
-        "authorCategory": "coworker",
-        "reviewer": "rach-id",
-        "requestedAt": "2026-10-17T17:23:08Z"
       },
       {
         "number": 8178,
@@ -629,5 +609,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-10-19T13:44:23.345Z"
+  "fetchedAt": "2026-10-19T13:56:00.456Z"
 }
