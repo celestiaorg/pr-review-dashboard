@@ -2,16 +2,6 @@
   "reviews": {
     "chatton": [
       {
-        "number": 981,
-        "title": "fix(da-proxy): [medium] read admin public keys from the concealed 1Password field",
-        "url": "https://github.com/celestiaorg/infrastructure/pull/981",
-        "repo": "infrastructure",
-        "author": "pippokr",
-        "authorCategory": "coworker",
-        "reviewer": "chatton",
-        "requestedAt": "2026-10-16T13:29:37Z"
-      },
-      {
         "number": 984,
         "title": "fix(ci): validate implicit Corto-10 instance preservation",
         "url": "https://github.com/celestiaorg/infrastructure/pull/984",
@@ -469,5 +459,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-10-19T07:54:28.157Z"
+  "fetchedAt": "2026-10-19T08:07:57.782Z"
 }
