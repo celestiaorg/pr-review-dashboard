@@ -316,26 +316,6 @@
         "authorCategory": "coworker",
         "reviewer": "rach-id",
         "requestedAt": "2026-10-17T17:24:27Z"
-      },
-      {
-        "number": 8249,
-        "title": "perf(fibre): [medium] stop boxing each upload buffer view",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/8249",
-        "repo": "celestia-app",
-        "author": "walldiss",
-        "authorCategory": "coworker",
-        "reviewer": "rach-id",
-        "requestedAt": "2026-10-19T16:10:14Z"
-      },
-      {
-        "number": 121,
-        "title": "ci: [low] require review level tag in PR titles",
-        "url": "https://github.com/celestiaorg/da-proxy/pull/121",
-        "repo": "da-proxy",
-        "author": "rootulp",
-        "authorCategory": "coworker",
-        "reviewer": "rach-id",
-        "requestedAt": "2026-10-19T21:25:59Z"
       }
     ],
     "renaynay": [
@@ -630,5 +610,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-10-19T21:39:39.043Z"
+  "fetchedAt": "2026-10-19T21:46:10.609Z"
 }
