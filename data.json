@@ -76,16 +76,6 @@
         "requestedAt": "2026-10-17T17:23:03Z"
       },
       {
-        "number": 8180,
-        "title": "perf(fibre): [medium] send TLS records of one write in one syscall",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/8180",
-        "repo": "celestia-app",
-        "author": "walldiss",
-        "authorCategory": "coworker",
-        "reviewer": "ninabarbakadze",
-        "requestedAt": "2026-10-17T17:23:05Z"
-      },
-      {
         "number": 8179,
         "title": "perf(fibre): [medium] copy proof segments into upload framing",
         "url": "https://github.com/celestiaorg/celestia-app/pull/8179",
@@ -386,6 +376,16 @@
         "authorCategory": "coworker",
         "reviewer": "rach-id",
         "requestedAt": "2026-10-17T17:24:27Z"
+      },
+      {
+        "number": 5351,
+        "title": "fix(state): verify the absence proof for an empty balance",
+        "url": "https://github.com/celestiaorg/celestia-node/pull/5351",
+        "repo": "celestia-node",
+        "author": "Bruce039",
+        "authorCategory": "external",
+        "reviewer": "rach-id",
+        "requestedAt": "2026-10-19T10:45:47Z"
       }
     ],
     "renaynay": [],
@@ -599,5 +599,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-10-19T10:35:34.977Z"
+  "fetchedAt": "2026-10-19T10:46:33.418Z"
 }
