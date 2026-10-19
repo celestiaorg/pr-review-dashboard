@@ -12,14 +12,14 @@
         "requestedAt": "2026-10-18T23:25:31Z"
       },
       {
-        "number": 985,
-        "title": "fix(monitoring): scope gateway secondary-blocked alert to encoder instances",
-        "url": "https://github.com/celestiaorg/infrastructure/pull/985",
+        "number": 986,
+        "title": "feat(ansible)!: [high] shared-template extensibility for the corto migration (PROTOCO-2198)",
+        "url": "https://github.com/celestiaorg/infrastructure/pull/986",
         "repo": "infrastructure",
-        "author": "rootulp",
+        "author": "pippokr",
         "authorCategory": "coworker",
         "reviewer": "chatton",
-        "requestedAt": "2026-10-18T23:37:30Z"
+        "requestedAt": "2026-10-19T08:55:19Z"
       },
       {
         "number": 3460,
@@ -84,16 +84,6 @@
         "authorCategory": "coworker",
         "reviewer": "ninabarbakadze",
         "requestedAt": "2026-10-17T17:22:25Z"
-      },
-      {
-        "number": 8023,
-        "title": "docs(fibre): [low] align protocol references and add introductory guide",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/8023",
-        "repo": "celestia-app",
-        "author": "rootulp",
-        "authorCategory": "coworker",
-        "reviewer": "ninabarbakadze",
-        "requestedAt": "2026-10-17T17:24:04Z"
       },
       {
         "number": 8240,
@@ -388,5 +378,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-10-19T08:38:07.978Z"
+  "fetchedAt": "2026-10-19T08:56:12.068Z"
 }
