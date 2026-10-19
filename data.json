@@ -286,6 +286,16 @@
         "authorCategory": "coworker",
         "reviewer": "rach-id",
         "requestedAt": "2026-10-17T17:24:27Z"
+      },
+      {
+        "number": 8249,
+        "title": "perf(fibre): [medium] stop boxing each upload buffer view",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/8249",
+        "repo": "celestia-app",
+        "author": "walldiss",
+        "authorCategory": "coworker",
+        "reviewer": "rach-id",
+        "requestedAt": "2026-10-19T16:10:14Z"
       }
     ],
     "renaynay": [],
@@ -321,6 +331,16 @@
         "authorCategory": "coworker",
         "reviewer": "vgonkivs",
         "requestedAt": "2026-10-16T21:04:49Z"
+      },
+      {
+        "number": 998,
+        "title": "docs: [medium] define DA-proxy workflow SLOs",
+        "url": "https://github.com/celestiaorg/infrastructure/pull/998",
+        "repo": "infrastructure",
+        "author": "chatton",
+        "authorCategory": "coworker",
+        "reviewer": "vgonkivs",
+        "requestedAt": "2026-10-19T15:57:46Z"
       },
       {
         "number": 5328,
@@ -529,5 +549,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-10-19T15:57:09.882Z"
+  "fetchedAt": "2026-10-19T16:17:16.092Z"
 }
