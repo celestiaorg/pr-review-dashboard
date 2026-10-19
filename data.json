@@ -535,18 +535,7 @@
         "requestedAt": "2026-10-18T17:17:41Z"
       }
     ],
-    "walldiss": [
-      {
-        "number": 5344,
-        "title": "docs: Trim redundant agent context",
-        "url": "https://github.com/celestiaorg/celestia-node/pull/5344",
-        "repo": "celestia-node",
-        "author": "rootulp",
-        "authorCategory": "coworker",
-        "reviewer": "walldiss",
-        "requestedAt": "2026-10-16T21:04:49Z"
-      }
-    ]
+    "walldiss": []
   },
   "teamMembers": [
     {
@@ -599,5 +588,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-10-19T10:54:26.413Z"
+  "fetchedAt": "2026-10-19T11:02:31.098Z"
 }
