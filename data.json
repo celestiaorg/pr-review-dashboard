@@ -2,14 +2,14 @@
   "reviews": {
     "chatton": [
       {
-        "number": 984,
-        "title": "fix(ci): validate implicit Corto-10 instance preservation",
-        "url": "https://github.com/celestiaorg/infrastructure/pull/984",
-        "repo": "infrastructure",
+        "number": 8247,
+        "title": "test(docker-e2e): [low] drop mainnet seed from genesis sync archive peers",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/8247",
+        "repo": "celestia-app",
         "author": "rootulp",
         "authorCategory": "coworker",
         "reviewer": "chatton",
-        "requestedAt": "2026-10-18T23:25:31Z"
+        "requestedAt": "2026-10-19T17:56:13Z"
       },
       {
         "number": 8245,
@@ -291,16 +291,6 @@
     "renaynay": [],
     "rootulp": [
       {
-        "number": 5354,
-        "title": "chore(deps): bump github.com/libp2p/go-libp2p-pubsub from 0.17.0 to 0.18.0 in the libp2p group across 1 directory",
-        "url": "https://github.com/celestiaorg/celestia-node/pull/5354",
-        "repo": "celestia-node",
-        "author": "dependabot",
-        "authorCategory": "bot",
-        "reviewer": "rootulp",
-        "requestedAt": "2026-10-19T11:05:32Z"
-      },
-      {
         "number": 5349,
         "title": "state: normalize nil TxConfig to defaults instead of panicking",
         "url": "https://github.com/celestiaorg/celestia-node/pull/5349",
@@ -435,16 +425,6 @@
     ],
     "theodorebugnet": [
       {
-        "number": 8247,
-        "title": "test(docker-e2e): [low] drop mainnet seed from genesis sync archive peers",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/8247",
-        "repo": "celestia-app",
-        "author": "rootulp",
-        "authorCategory": "coworker",
-        "reviewer": "theodorebugnet",
-        "requestedAt": "2026-10-19T13:17:35Z"
-      },
-      {
         "number": 348,
         "title": "chore(deps): bump github.com/tidwall/gjson from 1.19.0 to 1.20.0",
         "url": "https://github.com/celestiaorg/nmt/pull/348",
@@ -539,5 +519,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-10-19T17:56:11.881Z"
+  "fetchedAt": "2026-10-19T18:14:11.303Z"
 }
