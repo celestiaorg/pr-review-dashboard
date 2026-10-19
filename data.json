@@ -501,6 +501,16 @@
         "authorCategory": "external",
         "reviewer": "vgonkivs",
         "requestedAt": "2026-10-03T06:58:50Z"
+      },
+      {
+        "number": 8248,
+        "title": "fix(fibre): [medium] sanitize app and signer errors in UploadShard responses",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/8248",
+        "repo": "celestia-app",
+        "author": "durenodes",
+        "authorCategory": "external",
+        "reviewer": "vgonkivs",
+        "requestedAt": "2026-10-19T14:28:49Z"
       }
     ],
     "theodorebugnet": [
@@ -609,5 +619,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-10-19T14:26:04.655Z"
+  "fetchedAt": "2026-10-19T14:39:09.401Z"
 }
