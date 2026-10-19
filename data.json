@@ -350,18 +350,7 @@
         "requestedAt": "2026-10-19T21:26:03Z"
       }
     ],
-    "rootulp": [
-      {
-        "number": 5349,
-        "title": "state: normalize nil TxConfig to defaults instead of panicking",
-        "url": "https://github.com/celestiaorg/celestia-node/pull/5349",
-        "repo": "celestia-node",
-        "author": "HusseinAdeiza",
-        "authorCategory": "external",
-        "reviewer": "rootulp",
-        "requestedAt": "2026-10-19T09:11:35Z"
-      }
-    ],
+    "rootulp": [],
     "vgonkivs": [
       {
         "number": 5344,
@@ -630,5 +619,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-10-19T22:29:20.826Z"
+  "fetchedAt": "2026-10-19T22:39:09.342Z"
 }
