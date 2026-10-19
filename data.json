@@ -10,46 +10,6 @@
         "authorCategory": "coworker",
         "reviewer": "chatton",
         "requestedAt": "2026-10-18T23:25:31Z"
-      },
-      {
-        "number": 986,
-        "title": "feat(ansible)!: [high] shared-template extensibility for the corto migration (PROTOCO-2198)",
-        "url": "https://github.com/celestiaorg/infrastructure/pull/986",
-        "repo": "infrastructure",
-        "author": "pippokr",
-        "authorCategory": "coworker",
-        "reviewer": "chatton",
-        "requestedAt": "2026-10-19T08:55:19Z"
-      },
-      {
-        "number": 3460,
-        "title": "build(deps): Bump linear/linear-release-action from 0.18.0 to 0.18.1",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3460",
-        "repo": "celestia-core",
-        "author": "dependabot",
-        "authorCategory": "bot",
-        "reviewer": "chatton",
-        "requestedAt": "2026-10-14T20:07:17Z"
-      },
-      {
-        "number": 3469,
-        "title": "build(deps): Bump github.com/aws/aws-sdk-go-v2/credentials from 1.20.6 to 1.20.7",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3469",
-        "repo": "celestia-core",
-        "author": "dependabot",
-        "authorCategory": "bot",
-        "reviewer": "chatton",
-        "requestedAt": "2026-10-14T20:17:41Z"
-      },
-      {
-        "number": 584,
-        "title": "chore(peers): refresh mainnet peers + addrbook",
-        "url": "https://github.com/celestiaorg/networks/pull/584",
-        "repo": "networks",
-        "author": "github-actions",
-        "authorCategory": "bot",
-        "reviewer": "chatton",
-        "requestedAt": "2026-10-19T00:16:08Z"
       }
     ],
     "pippokr": [
@@ -159,7 +119,18 @@
         "requestedAt": "2026-10-15T13:33:25Z"
       }
     ],
-    "rootulp": [],
+    "rootulp": [
+      {
+        "number": 5349,
+        "title": "state: normalize nil TxConfig to defaults instead of panicking",
+        "url": "https://github.com/celestiaorg/celestia-node/pull/5349",
+        "repo": "celestia-node",
+        "author": "HusseinAdeiza",
+        "authorCategory": "external",
+        "reviewer": "rootulp",
+        "requestedAt": "2026-10-19T09:11:35Z"
+      }
+    ],
     "vgonkivs": [
       {
         "number": 5344,
@@ -183,7 +154,7 @@
       },
       {
         "number": 3468,
-        "title": "build(deps): Bump github.com/aws/aws-sdk-go-v2/config from 1.33.6 to 1.33.7",
+        "title": "build(deps): Bump github.com/aws/aws-sdk-go-v2/config from 1.33.6 to 1.33.9",
         "url": "https://github.com/celestiaorg/celestia-core/pull/3468",
         "repo": "celestia-core",
         "author": "dependabot",
@@ -378,5 +349,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-10-19T08:56:12.068Z"
+  "fetchedAt": "2026-10-19T09:17:13.296Z"
 }
