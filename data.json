@@ -32,6 +32,16 @@
         "authorCategory": "coworker",
         "reviewer": "pippokr",
         "requestedAt": "2026-10-08T13:18:27Z"
+      },
+      {
+        "number": 5355,
+        "title": "chore(deps): bump the go-deps group across 2 directories with 22 updates",
+        "url": "https://github.com/celestiaorg/celestia-node/pull/5355",
+        "repo": "celestia-node",
+        "author": "dependabot",
+        "authorCategory": "bot",
+        "reviewer": "pippokr",
+        "requestedAt": "2026-10-19T11:07:26Z"
       }
     ],
     "ninabarbakadze": [
@@ -391,6 +401,16 @@
     "renaynay": [],
     "rootulp": [
       {
+        "number": 5354,
+        "title": "chore(deps): bump github.com/libp2p/go-libp2p-pubsub from 0.17.0 to 0.18.0 in the libp2p group across 1 directory",
+        "url": "https://github.com/celestiaorg/celestia-node/pull/5354",
+        "repo": "celestia-node",
+        "author": "dependabot",
+        "authorCategory": "bot",
+        "reviewer": "rootulp",
+        "requestedAt": "2026-10-19T11:05:32Z"
+      },
+      {
         "number": 5349,
         "title": "state: normalize nil TxConfig to defaults instead of panicking",
         "url": "https://github.com/celestiaorg/celestia-node/pull/5349",
@@ -535,7 +555,18 @@
         "requestedAt": "2026-10-18T17:17:41Z"
       }
     ],
-    "walldiss": []
+    "walldiss": [
+      {
+        "number": 5352,
+        "title": "chore(deps): bump golang from 1.26.8-alpine3.23 to 1.27.2-alpine3.23",
+        "url": "https://github.com/celestiaorg/celestia-node/pull/5352",
+        "repo": "celestia-node",
+        "author": "dependabot",
+        "authorCategory": "bot",
+        "reviewer": "walldiss",
+        "requestedAt": "2026-10-19T11:03:33Z"
+      }
+    ]
   },
   "teamMembers": [
     {
@@ -588,5 +619,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-10-19T11:02:31.098Z"
+  "fetchedAt": "2026-10-19T11:20:38.639Z"
 }
