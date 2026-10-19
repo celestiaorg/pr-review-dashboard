@@ -12,6 +12,16 @@
         "requestedAt": "2026-10-18T23:25:31Z"
       },
       {
+        "number": 995,
+        "title": "cleanup(corto)!: [medium] delete the interim deploy stack (PROTOCO-2198 final)",
+        "url": "https://github.com/celestiaorg/infrastructure/pull/995",
+        "repo": "infrastructure",
+        "author": "pippokr",
+        "authorCategory": "coworker",
+        "reviewer": "chatton",
+        "requestedAt": "2026-10-19T13:21:33Z"
+      },
+      {
         "number": 8245,
         "title": "chore(deps): [high] bump the go-deps group with 16 updates",
         "url": "https://github.com/celestiaorg/celestia-app/pull/8245",
@@ -257,16 +267,6 @@
       }
     ],
     "rach-id": [
-      {
-        "number": 8182,
-        "title": "chore(talis): [low] tune TCP buffers for Fibre uploads",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/8182",
-        "repo": "celestia-app",
-        "author": "walldiss",
-        "authorCategory": "coworker",
-        "reviewer": "rach-id",
-        "requestedAt": "2026-10-17T17:23:00Z"
-      },
       {
         "number": 8181,
         "title": "perf(fibre): [medium] skip object HEAD checks during uploads",
@@ -525,6 +525,16 @@
     ],
     "theodorebugnet": [
       {
+        "number": 8247,
+        "title": "test(docker-e2e): [low] drop mainnet seed from genesis sync archive peers",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/8247",
+        "repo": "celestia-app",
+        "author": "rootulp",
+        "authorCategory": "coworker",
+        "reviewer": "theodorebugnet",
+        "requestedAt": "2026-10-19T13:17:35Z"
+      },
+      {
         "number": 348,
         "title": "chore(deps): bump github.com/tidwall/gjson from 1.19.0 to 1.20.0",
         "url": "https://github.com/celestiaorg/nmt/pull/348",
@@ -619,5 +629,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-10-19T13:03:28.353Z"
+  "fetchedAt": "2026-10-19T13:26:23.148Z"
 }
