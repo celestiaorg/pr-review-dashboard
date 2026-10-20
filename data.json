@@ -166,16 +166,6 @@
         "requestedAt": "2026-10-18T23:39:24Z"
       },
       {
-        "number": 5357,
-        "title": "ci: [low] require review level tag in PR titles",
-        "url": "https://github.com/celestiaorg/celestia-node/pull/5357",
-        "repo": "celestia-node",
-        "author": "rootulp",
-        "authorCategory": "coworker",
-        "reviewer": "ninabarbakadze",
-        "requestedAt": "2026-10-19T21:26:18Z"
-      },
-      {
         "number": 5346,
         "title": "pruner: stop the round when a full batch fails",
         "url": "https://github.com/celestiaorg/celestia-node/pull/5346",
@@ -196,21 +186,50 @@
         "authorCategory": "coworker",
         "reviewer": "rach-id",
         "requestedAt": "2026-10-20T16:54:55Z"
+      },
+      {
+        "number": 5357,
+        "title": "ci: [low] require review level tag in PR titles",
+        "url": "https://github.com/celestiaorg/celestia-node/pull/5357",
+        "repo": "celestia-node",
+        "author": "rootulp",
+        "authorCategory": "coworker",
+        "reviewer": "rach-id",
+        "requestedAt": "2026-10-20T18:31:57Z"
+      },
+      {
+        "number": 3478,
+        "title": "ci: [low] require review level tag in PR titles",
+        "url": "https://github.com/celestiaorg/celestia-core/pull/3478",
+        "repo": "celestia-core",
+        "author": "rootulp",
+        "authorCategory": "coworker",
+        "reviewer": "rach-id",
+        "requestedAt": "2026-10-20T18:32:10Z"
+      },
+      {
+        "number": 457,
+        "title": "ci: [low] require review level tag in PR titles",
+        "url": "https://github.com/celestiaorg/rsmt2d/pull/457",
+        "repo": "rsmt2d",
+        "author": "rootulp",
+        "authorCategory": "coworker",
+        "reviewer": "rach-id",
+        "requestedAt": "2026-10-20T18:32:19Z"
+      },
+      {
+        "number": 349,
+        "title": "ci: [low] require review level tag in PR titles",
+        "url": "https://github.com/celestiaorg/nmt/pull/349",
+        "repo": "nmt",
+        "author": "rootulp",
+        "authorCategory": "coworker",
+        "reviewer": "rach-id",
+        "requestedAt": "2026-10-20T18:32:31Z"
       }
     ],
     "renaynay": [],
-    "rootulp": [
-      {
-        "number": 1007,
-        "title": "docs(ci): [low] record that the PR title check does not report on bot PRs",
-        "url": "https://github.com/celestiaorg/infrastructure/pull/1007",
-        "repo": "infrastructure",
-        "author": "pippokr",
-        "authorCategory": "coworker",
-        "reviewer": "rootulp",
-        "requestedAt": "2026-10-20T14:52:11Z"
-      }
-    ],
+    "rootulp": [],
     "vgonkivs": [
       {
         "number": 5328,
@@ -335,16 +354,6 @@
         "requestedAt": "2026-10-19T21:25:47Z"
       },
       {
-        "number": 3478,
-        "title": "ci: [low] require review level tag in PR titles",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3478",
-        "repo": "celestia-core",
-        "author": "rootulp",
-        "authorCategory": "coworker",
-        "reviewer": "theodorebugnet",
-        "requestedAt": "2026-10-19T21:26:20Z"
-      },
-      {
         "number": 348,
         "title": "chore(deps): bump github.com/tidwall/gjson from 1.19.0 to 1.20.0",
         "url": "https://github.com/celestiaorg/nmt/pull/348",
@@ -459,5 +468,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-10-20T18:22:30.543Z"
+  "fetchedAt": "2026-10-20T18:38:28.793Z"
 }
