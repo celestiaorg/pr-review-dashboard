@@ -503,16 +503,6 @@
         "requestedAt": "2026-10-03T06:58:50Z"
       },
       {
-        "number": 8248,
-        "title": "fix(fibre): [medium] sanitize app and signer errors in UploadShard responses",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/8248",
-        "repo": "celestia-app",
-        "author": "durenodes",
-        "authorCategory": "external",
-        "reviewer": "vgonkivs",
-        "requestedAt": "2026-10-19T14:28:49Z"
-      },
-      {
         "number": 5349,
         "title": "state: normalize nil TxConfig to defaults instead of panicking",
         "url": "https://github.com/celestiaorg/celestia-node/pull/5349",
@@ -669,5 +659,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-10-20T03:56:55.626Z"
+  "fetchedAt": "2026-10-20T04:16:14.240Z"
 }
