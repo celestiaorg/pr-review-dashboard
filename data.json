@@ -54,6 +54,16 @@
         "requestedAt": "2026-10-19T22:02:12Z"
       },
       {
+        "number": 1008,
+        "title": "ci: [medium] run the PR title check on bot-opened PRs",
+        "url": "https://github.com/celestiaorg/infrastructure/pull/1008",
+        "repo": "infrastructure",
+        "author": "rootulp",
+        "authorCategory": "coworker",
+        "reviewer": "pippokr",
+        "requestedAt": "2026-10-20T15:46:50Z"
+      },
+      {
         "number": 5355,
         "title": "chore(deps): bump the go-deps group across 2 directories with 22 updates",
         "url": "https://github.com/celestiaorg/celestia-node/pull/5355",
@@ -428,5 +438,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-10-20T15:44:42.628Z"
+  "fetchedAt": "2026-10-20T15:54:02.531Z"
 }
