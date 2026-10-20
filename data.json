@@ -104,16 +104,6 @@
         "requestedAt": "2026-10-19T22:02:12Z"
       },
       {
-        "number": 8259,
-        "title": "test(docker-e2e): [low] add da-proxy-rpc-1 as mainnet archive peer",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/8259",
-        "repo": "celestia-app",
-        "author": "rootulp",
-        "authorCategory": "coworker",
-        "reviewer": "pippokr",
-        "requestedAt": "2026-10-20T00:19:15Z"
-      },
-      {
         "number": 5355,
         "title": "chore(deps): bump the go-deps group across 2 directories with 22 updates",
         "url": "https://github.com/celestiaorg/celestia-node/pull/5355",
@@ -659,5 +649,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-10-20T07:54:18.319Z"
+  "fetchedAt": "2026-10-20T08:02:21.907Z"
 }
