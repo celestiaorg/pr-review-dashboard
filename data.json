@@ -222,16 +222,6 @@
         "requestedAt": "2026-10-20T08:22:11Z"
       },
       {
-        "number": 998,
-        "title": "docs: [medium] define DA-proxy workflow SLOs",
-        "url": "https://github.com/celestiaorg/infrastructure/pull/998",
-        "repo": "infrastructure",
-        "author": "chatton",
-        "authorCategory": "coworker",
-        "reviewer": "rootulp",
-        "requestedAt": "2026-10-20T09:29:19Z"
-      },
-      {
         "number": 8262,
         "title": "ci: [low] run rsema1d and row tests on an arm64 runner",
         "url": "https://github.com/celestiaorg/celestia-app/pull/8262",
@@ -520,5 +510,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-10-20T13:20:42.709Z"
+  "fetchedAt": "2026-10-20T13:33:36.079Z"
 }
