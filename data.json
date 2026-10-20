@@ -22,16 +22,6 @@
         "requestedAt": "2026-10-20T04:30:23Z"
       },
       {
-        "number": 1001,
-        "title": "monitoring(mainnet): [low] fibre registry exporter, alerts and dashboard (PROTOCO-3131)",
-        "url": "https://github.com/celestiaorg/infrastructure/pull/1001",
-        "repo": "infrastructure",
-        "author": "pippokr",
-        "authorCategory": "coworker",
-        "reviewer": "chatton",
-        "requestedAt": "2026-10-20T09:33:37Z"
-      },
-      {
         "number": 5356,
         "title": "test(tastora/canary): add fresh light node canary engine",
         "url": "https://github.com/celestiaorg/celestia-node/pull/5356",
@@ -549,5 +539,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-10-20T09:46:40.802Z"
+  "fetchedAt": "2026-10-20T09:55:06.970Z"
 }
