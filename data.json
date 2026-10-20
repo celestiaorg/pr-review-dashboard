@@ -178,36 +178,6 @@
     ],
     "rach-id": [
       {
-        "number": 307,
-        "title": "ci: [low] require review level tag in PR titles",
-        "url": "https://github.com/celestiaorg/go-square/pull/307",
-        "repo": "go-square",
-        "author": "rootulp",
-        "authorCategory": "coworker",
-        "reviewer": "rach-id",
-        "requestedAt": "2026-10-20T13:52:29Z"
-      },
-      {
-        "number": 8255,
-        "title": "test(e2e): [low] add Celestia-operated mocha RPC for sync-to-tip",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/8255",
-        "repo": "celestia-app",
-        "author": "rootulp",
-        "authorCategory": "coworker",
-        "reviewer": "rach-id",
-        "requestedAt": "2026-10-20T14:23:12Z"
-      },
-      {
-        "number": 3481,
-        "title": "feat(state): roll back to a target height [medium] (backport #3479)",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3481",
-        "repo": "celestia-core",
-        "author": "mergify",
-        "authorCategory": "bot",
-        "reviewer": "rach-id",
-        "requestedAt": "2026-10-20T14:18:03Z"
-      },
-      {
         "number": 3482,
         "title": "feat(cmd): rollback --height with depth guard [medium] (backport #3480)",
         "url": "https://github.com/celestiaorg/celestia-core/pull/3482",
@@ -219,7 +189,18 @@
       }
     ],
     "renaynay": [],
-    "rootulp": [],
+    "rootulp": [
+      {
+        "number": 1007,
+        "title": "docs(ci): [low] record that the PR title check does not report on bot PRs",
+        "url": "https://github.com/celestiaorg/infrastructure/pull/1007",
+        "repo": "infrastructure",
+        "author": "pippokr",
+        "authorCategory": "coworker",
+        "reviewer": "rootulp",
+        "requestedAt": "2026-10-20T14:52:11Z"
+      }
+    ],
     "vgonkivs": [
       {
         "number": 5344,
@@ -488,5 +469,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-10-20T14:47:17.647Z"
+  "fetchedAt": "2026-10-20T14:55:23.782Z"
 }
