@@ -186,7 +186,18 @@
         "requestedAt": "2026-10-18T17:15:55Z"
       }
     ],
-    "rach-id": [],
+    "rach-id": [
+      {
+        "number": 155,
+        "title": "feat(server): [high] roll back to a target height",
+        "url": "https://github.com/celestiaorg/cosmos-sdk/pull/155",
+        "repo": "cosmos-sdk",
+        "author": "vgonkivs",
+        "authorCategory": "coworker",
+        "reviewer": "rach-id",
+        "requestedAt": "2026-10-20T16:54:55Z"
+      }
+    ],
     "renaynay": [],
     "rootulp": [
       {
@@ -240,6 +251,16 @@
         "authorCategory": "bot",
         "reviewer": "vgonkivs",
         "requestedAt": "2026-10-19T09:43:04Z"
+      },
+      {
+        "number": 8266,
+        "title": "chore(deps): bump github.com/klauspost/compress from 1.16.0 to 1.18.7 in /tools/pebble-rebuild",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/8266",
+        "repo": "celestia-app",
+        "author": "dependabot",
+        "authorCategory": "bot",
+        "reviewer": "vgonkivs",
+        "requestedAt": "2026-10-20T16:51:53Z"
       },
       {
         "number": 5190,
@@ -438,5 +459,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-10-20T16:46:47.900Z"
+  "fetchedAt": "2026-10-20T16:55:32.069Z"
 }
