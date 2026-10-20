@@ -54,16 +54,6 @@
         "requestedAt": "2026-10-19T22:02:12Z"
       },
       {
-        "number": 1003,
-        "title": "chore: [low] add missing da-proxy service drift alerts",
-        "url": "https://github.com/celestiaorg/infrastructure/pull/1003",
-        "repo": "infrastructure",
-        "author": "chatton",
-        "authorCategory": "coworker",
-        "reviewer": "pippokr",
-        "requestedAt": "2026-10-20T12:32:44Z"
-      },
-      {
         "number": 5355,
         "title": "chore(deps): bump the go-deps group across 2 directories with 22 updates",
         "url": "https://github.com/celestiaorg/celestia-node/pull/5355",
@@ -198,14 +188,14 @@
     ],
     "rach-id": [
       {
-        "number": 3480,
-        "title": "feat(cmd): rollback --height with depth guard [medium]",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3480",
-        "repo": "celestia-core",
+        "number": 154,
+        "title": "feat(store): [medium] make RollbackToVersion safe to interrupt",
+        "url": "https://github.com/celestiaorg/cosmos-sdk/pull/154",
+        "repo": "cosmos-sdk",
         "author": "vgonkivs",
         "authorCategory": "coworker",
         "reviewer": "rach-id",
-        "requestedAt": "2026-10-20T11:15:41Z"
+        "requestedAt": "2026-10-20T13:14:42Z"
       }
     ],
     "renaynay": [
@@ -530,5 +520,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-10-20T12:58:54.136Z"
+  "fetchedAt": "2026-10-20T13:20:42.709Z"
 }
