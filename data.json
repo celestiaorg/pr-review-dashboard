@@ -136,16 +136,6 @@
         "requestedAt": "2026-10-16T13:24:20Z"
       },
       {
-        "number": 8217,
-        "title": "ci: [medium] add global coverage policy and proposal checks",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/8217",
-        "repo": "celestia-app",
-        "author": "rootulp",
-        "authorCategory": "coworker",
-        "reviewer": "ninabarbakadze",
-        "requestedAt": "2026-10-17T17:22:25Z"
-      },
-      {
         "number": 8181,
         "title": "perf(fibre): [medium] skip object HEAD checks during uploads",
         "url": "https://github.com/celestiaorg/celestia-app/pull/8181",
@@ -689,5 +679,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-10-20T00:50:32.095Z"
+  "fetchedAt": "2026-10-20T01:12:29.140Z"
 }
