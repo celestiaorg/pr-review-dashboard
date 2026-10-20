@@ -97,7 +97,7 @@
       },
       {
         "number": 8174,
-        "title": "perf(rlc): [high] compute RLC with PMULL on arm64, NEON transpose fallback",
+        "title": "perf(rlc): [high] compute RLC with PMULL on arm64",
         "url": "https://github.com/celestiaorg/celestia-app/pull/8174",
         "repo": "celestia-app",
         "author": "walldiss",
@@ -530,5 +530,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-10-20T11:42:05.725Z"
+  "fetchedAt": "2026-10-20T11:49:59.708Z"
 }
