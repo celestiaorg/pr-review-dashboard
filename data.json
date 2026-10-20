@@ -220,16 +220,6 @@
         "authorCategory": "coworker",
         "reviewer": "rootulp",
         "requestedAt": "2026-10-20T08:22:11Z"
-      },
-      {
-        "number": 8262,
-        "title": "ci: [low] run rsema1d and row tests on an arm64 runner",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/8262",
-        "repo": "celestia-app",
-        "author": "walldiss",
-        "authorCategory": "coworker",
-        "reviewer": "rootulp",
-        "requestedAt": "2026-10-20T11:27:47Z"
       }
     ],
     "vgonkivs": [
@@ -510,5 +500,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-10-20T13:33:36.079Z"
+  "fetchedAt": "2026-10-20T13:45:58.961Z"
 }
