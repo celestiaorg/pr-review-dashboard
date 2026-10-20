@@ -2,26 +2,6 @@
   "reviews": {
     "chatton": [
       {
-        "number": 585,
-        "title": "ci(peers): sign auto-update commits",
-        "url": "https://github.com/celestiaorg/networks/pull/585",
-        "repo": "networks",
-        "author": "rootulp",
-        "authorCategory": "coworker",
-        "reviewer": "chatton",
-        "requestedAt": "2026-10-19T18:44:09Z"
-      },
-      {
-        "number": 153,
-        "title": "ci: [low] require review level tag in PR titles",
-        "url": "https://github.com/celestiaorg/cosmos-sdk/pull/153",
-        "repo": "cosmos-sdk",
-        "author": "rootulp",
-        "authorCategory": "coworker",
-        "reviewer": "chatton",
-        "requestedAt": "2026-10-19T21:25:56Z"
-      },
-      {
         "number": 211,
         "title": "ci: [low] require review level tag in PR titles",
         "url": "https://github.com/celestiaorg/tastora/pull/211",
@@ -316,36 +296,6 @@
         "authorCategory": "coworker",
         "reviewer": "rach-id",
         "requestedAt": "2026-10-17T17:24:27Z"
-      },
-      {
-        "number": 8257,
-        "title": "test(fibre): [low] synchronize log buffers in new server start tests",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/8257",
-        "repo": "celestia-app",
-        "author": "rootulp",
-        "authorCategory": "coworker",
-        "reviewer": "rach-id",
-        "requestedAt": "2026-10-20T00:16:57Z"
-      },
-      {
-        "number": 8256,
-        "title": "test(docker-e2e): [low] add a second mocha archive peer for genesis sync",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/8256",
-        "repo": "celestia-app",
-        "author": "rootulp",
-        "authorCategory": "coworker",
-        "reviewer": "rach-id",
-        "requestedAt": "2026-10-20T00:25:01Z"
-      },
-      {
-        "number": 8260,
-        "title": "chore(deps): [high] bump go-deps group, hold cosmos/iavl at v1.2.8",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/8260",
-        "repo": "celestia-app",
-        "author": "rootulp",
-        "authorCategory": "coworker",
-        "reviewer": "rach-id",
-        "requestedAt": "2026-10-20T04:18:11Z"
       }
     ],
     "renaynay": [
@@ -360,7 +310,18 @@
         "requestedAt": "2026-10-19T21:26:03Z"
       }
     ],
-    "rootulp": [],
+    "rootulp": [
+      {
+        "number": 1000,
+        "title": "ci: [low] skip bot-authored PRs in the review-level check (follow-up to #999)",
+        "url": "https://github.com/celestiaorg/infrastructure/pull/1000",
+        "repo": "infrastructure",
+        "author": "pippokr",
+        "authorCategory": "coworker",
+        "reviewer": "rootulp",
+        "requestedAt": "2026-10-20T08:22:11Z"
+      }
+    ],
     "vgonkivs": [
       {
         "number": 5344,
@@ -649,5 +610,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-10-20T08:02:21.907Z"
+  "fetchedAt": "2026-10-20T08:28:29.194Z"
 }
