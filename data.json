@@ -54,6 +54,16 @@
         "requestedAt": "2026-10-19T22:02:12Z"
       },
       {
+        "number": 1002,
+        "title": "chore: [low] add da-proxy service per network pins",
+        "url": "https://github.com/celestiaorg/infrastructure/pull/1002",
+        "repo": "infrastructure",
+        "author": "chatton",
+        "authorCategory": "coworker",
+        "reviewer": "pippokr",
+        "requestedAt": "2026-10-20T10:13:49Z"
+      },
+      {
         "number": 5355,
         "title": "chore(deps): bump the go-deps group across 2 directories with 22 updates",
         "url": "https://github.com/celestiaorg/celestia-node/pull/5355",
@@ -86,16 +96,6 @@
         "requestedAt": "2026-10-17T17:23:03Z"
       },
       {
-        "number": 8178,
-        "title": "perf(rsema1d): [high] split Reed-Solomon across idle workers",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/8178",
-        "repo": "celestia-app",
-        "author": "walldiss",
-        "authorCategory": "coworker",
-        "reviewer": "ninabarbakadze",
-        "requestedAt": "2026-10-17T17:23:10Z"
-      },
-      {
         "number": 8177,
         "title": "perf(row): [medium] pad codec work rows off the power-of-two stride",
         "url": "https://github.com/celestiaorg/celestia-app/pull/8177",
@@ -104,26 +104,6 @@
         "authorCategory": "coworker",
         "reviewer": "ninabarbakadze",
         "requestedAt": "2026-10-17T17:23:13Z"
-      },
-      {
-        "number": 8176,
-        "title": "perf(row): [high] stop zeroing parity rows in Assemble",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/8176",
-        "repo": "celestia-app",
-        "author": "walldiss",
-        "authorCategory": "coworker",
-        "reviewer": "ninabarbakadze",
-        "requestedAt": "2026-10-17T17:23:15Z"
-      },
-      {
-        "number": 8175,
-        "title": "perf(row): [medium] advise transparent huge pages for mmap'd slabs",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/8175",
-        "repo": "celestia-app",
-        "author": "walldiss",
-        "authorCategory": "coworker",
-        "reviewer": "ninabarbakadze",
-        "requestedAt": "2026-10-17T17:23:18Z"
       },
       {
         "number": 8174,
@@ -144,16 +124,6 @@
         "authorCategory": "coworker",
         "reviewer": "ninabarbakadze",
         "requestedAt": "2026-10-17T17:24:13Z"
-      },
-      {
-        "number": 7892,
-        "title": "feat(fibre): [medium] let callers bound concurrent Put memory",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7892",
-        "repo": "celestia-app",
-        "author": "walldiss",
-        "authorCategory": "coworker",
-        "reviewer": "ninabarbakadze",
-        "requestedAt": "2026-10-17T17:24:16Z"
       },
       {
         "number": 7889,
@@ -539,5 +509,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-10-20T10:05:06.454Z"
+  "fetchedAt": "2026-10-20T10:21:33.557Z"
 }
