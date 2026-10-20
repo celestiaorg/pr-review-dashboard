@@ -246,6 +246,16 @@
         "authorCategory": "coworker",
         "reviewer": "rach-id",
         "requestedAt": "2026-10-20T18:32:31Z"
+      },
+      {
+        "number": 8267,
+        "title": "fix(fibre): [medium] backport object storage fixes to v10.x (#8012, #8086, #8090, #8089)",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/8267",
+        "repo": "celestia-app",
+        "author": "rootulp",
+        "authorCategory": "coworker",
+        "reviewer": "rach-id",
+        "requestedAt": "2026-10-20T18:53:44Z"
       }
     ],
     "renaynay": [],
@@ -416,6 +426,16 @@
         "requestedAt": "2026-10-19T21:26:01Z"
       },
       {
+        "number": 8267,
+        "title": "fix(fibre): [medium] backport object storage fixes to v10.x (#8012, #8086, #8090, #8089)",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/8267",
+        "repo": "celestia-app",
+        "author": "rootulp",
+        "authorCategory": "coworker",
+        "reviewer": "walldiss",
+        "requestedAt": "2026-10-20T18:53:44Z"
+      },
+      {
         "number": 5352,
         "title": "chore(deps): bump golang from 1.26.8-alpine3.23 to 1.27.2-alpine3.23",
         "url": "https://github.com/celestiaorg/celestia-node/pull/5352",
@@ -488,5 +508,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-10-20T18:51:20.002Z"
+  "fetchedAt": "2026-10-20T18:58:50.734Z"
 }
