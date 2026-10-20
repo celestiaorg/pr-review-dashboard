@@ -196,6 +196,16 @@
         "authorCategory": "coworker",
         "reviewer": "rach-id",
         "requestedAt": "2026-10-20T10:32:02Z"
+      },
+      {
+        "number": 154,
+        "title": "feat(store): [medium] make RollbackToVersion safe to interrupt",
+        "url": "https://github.com/celestiaorg/cosmos-sdk/pull/154",
+        "repo": "cosmos-sdk",
+        "author": "vgonkivs",
+        "authorCategory": "coworker",
+        "reviewer": "rach-id",
+        "requestedAt": "2026-10-20T11:21:41Z"
       }
     ],
     "renaynay": [
@@ -230,6 +240,16 @@
         "authorCategory": "coworker",
         "reviewer": "rootulp",
         "requestedAt": "2026-10-20T09:29:19Z"
+      },
+      {
+        "number": 8262,
+        "title": "ci: [low] run rsema1d and row tests on an arm64 runner",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/8262",
+        "repo": "celestia-app",
+        "author": "walldiss",
+        "authorCategory": "coworker",
+        "reviewer": "rootulp",
+        "requestedAt": "2026-10-20T11:27:47Z"
       }
     ],
     "vgonkivs": [
@@ -510,5 +530,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-10-20T11:18:28.058Z"
+  "fetchedAt": "2026-10-20T11:30:56.991Z"
 }
