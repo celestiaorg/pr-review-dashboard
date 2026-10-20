@@ -32,6 +32,16 @@
         "requestedAt": "2026-10-20T18:48:39Z"
       },
       {
+        "number": 1010,
+        "title": "fix(ansible): [high] make the celestia service user own its login home",
+        "url": "https://github.com/celestiaorg/infrastructure/pull/1010",
+        "repo": "infrastructure",
+        "author": "rootulp",
+        "authorCategory": "coworker",
+        "reviewer": "chatton",
+        "requestedAt": "2026-10-20T19:12:52Z"
+      },
+      {
         "number": 5356,
         "title": "test(tastora/canary): add fresh light node canary engine",
         "url": "https://github.com/celestiaorg/celestia-node/pull/5356",
@@ -508,5 +518,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-10-20T18:58:50.734Z"
+  "fetchedAt": "2026-10-20T19:16:22.214Z"
 }
