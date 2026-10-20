@@ -176,6 +176,16 @@
         "requestedAt": "2026-10-17T17:23:20Z"
       },
       {
+        "number": 8114,
+        "title": "perf(app): [high] preverify PFF proposals and settle directly",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/8114",
+        "repo": "celestia-app",
+        "author": "rach-id",
+        "authorCategory": "coworker",
+        "reviewer": "ninabarbakadze",
+        "requestedAt": "2026-10-17T17:23:45Z"
+      },
+      {
         "number": 7922,
         "title": "fix: [medium] honor explicit zero node minimum gas price",
         "url": "https://github.com/celestiaorg/celestia-app/pull/7922",
@@ -249,7 +259,28 @@
       }
     ],
     "renaynay": [],
-    "rootulp": [],
+    "rootulp": [
+      {
+        "number": 8246,
+        "title": "perf(fibre): [medium] simplify the pay-for-fibre ABCI fast paths",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/8246",
+        "repo": "celestia-app",
+        "author": "rach-id",
+        "authorCategory": "coworker",
+        "reviewer": "rootulp",
+        "requestedAt": "2026-10-20T22:40:35Z"
+      },
+      {
+        "number": 8114,
+        "title": "perf(app): [high] preverify PFF proposals and settle directly",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/8114",
+        "repo": "celestia-app",
+        "author": "rach-id",
+        "authorCategory": "coworker",
+        "reviewer": "rootulp",
+        "requestedAt": "2026-10-20T22:40:44Z"
+      }
+    ],
     "vgonkivs": [
       {
         "number": 5328,
@@ -416,6 +447,16 @@
         "requestedAt": "2026-10-20T22:06:48Z"
       },
       {
+        "number": 8246,
+        "title": "perf(fibre): [medium] simplify the pay-for-fibre ABCI fast paths",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/8246",
+        "repo": "celestia-app",
+        "author": "rach-id",
+        "authorCategory": "coworker",
+        "reviewer": "walldiss",
+        "requestedAt": "2026-10-20T22:40:18Z"
+      },
+      {
         "number": 5352,
         "title": "chore(deps): bump golang from 1.26.8-alpine3.23 to 1.27.2-alpine3.23",
         "url": "https://github.com/celestiaorg/celestia-node/pull/5352",
@@ -488,5 +529,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-10-20T22:39:58.511Z"
+  "fetchedAt": "2026-10-20T22:46:38.345Z"
 }
