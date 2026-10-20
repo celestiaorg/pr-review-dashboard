@@ -42,6 +42,16 @@
         "requestedAt": "2026-10-19T22:02:14Z"
       },
       {
+        "number": 8258,
+        "title": "refactor: [medium] remove unused code in appconsts and blob ante",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/8258",
+        "repo": "celestia-app",
+        "author": "rootulp",
+        "authorCategory": "coworker",
+        "reviewer": "chatton",
+        "requestedAt": "2026-10-20T00:16:40Z"
+      },
+      {
         "number": 8245,
         "title": "chore(deps): [high] bump the go-deps group with 16 updates",
         "url": "https://github.com/celestiaorg/celestia-app/pull/8245",
@@ -92,6 +102,16 @@
         "authorCategory": "coworker",
         "reviewer": "pippokr",
         "requestedAt": "2026-10-19T22:02:12Z"
+      },
+      {
+        "number": 8259,
+        "title": "test(docker-e2e): [low] add da-proxy-rpc-1 as mainnet archive peer",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/8259",
+        "repo": "celestia-app",
+        "author": "rootulp",
+        "authorCategory": "coworker",
+        "reviewer": "pippokr",
+        "requestedAt": "2026-10-20T00:19:15Z"
       },
       {
         "number": 5355,
@@ -336,6 +356,26 @@
         "authorCategory": "coworker",
         "reviewer": "rach-id",
         "requestedAt": "2026-10-17T17:24:27Z"
+      },
+      {
+        "number": 8257,
+        "title": "test(fibre): [low] synchronize log buffers in new server start tests",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/8257",
+        "repo": "celestia-app",
+        "author": "rootulp",
+        "authorCategory": "coworker",
+        "reviewer": "rach-id",
+        "requestedAt": "2026-10-20T00:16:57Z"
+      },
+      {
+        "number": 8256,
+        "title": "test(docker-e2e): [low] add a second mocha archive peer for genesis sync",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/8256",
+        "repo": "celestia-app",
+        "author": "rootulp",
+        "authorCategory": "coworker",
+        "reviewer": "rach-id",
+        "requestedAt": "2026-10-20T00:25:01Z"
       }
     ],
     "renaynay": [
@@ -491,6 +531,16 @@
         "authorCategory": "external",
         "reviewer": "vgonkivs",
         "requestedAt": "2026-10-19T14:28:49Z"
+      },
+      {
+        "number": 5349,
+        "title": "state: normalize nil TxConfig to defaults instead of panicking",
+        "url": "https://github.com/celestiaorg/celestia-node/pull/5349",
+        "repo": "celestia-node",
+        "author": "HusseinAdeiza",
+        "authorCategory": "external",
+        "reviewer": "vgonkivs",
+        "requestedAt": "2026-10-20T00:20:37Z"
       }
     ],
     "theodorebugnet": [
@@ -557,6 +607,16 @@
         "requestedAt": "2026-10-19T21:26:01Z"
       },
       {
+        "number": 8255,
+        "title": "test(e2e): [low] add Celestia-operated mocha RPC for sync-to-tip",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/8255",
+        "repo": "celestia-app",
+        "author": "rootulp",
+        "authorCategory": "coworker",
+        "reviewer": "walldiss",
+        "requestedAt": "2026-10-20T00:17:53Z"
+      },
+      {
         "number": 5352,
         "title": "chore(deps): bump golang from 1.26.8-alpine3.23 to 1.27.2-alpine3.23",
         "url": "https://github.com/celestiaorg/celestia-node/pull/5352",
@@ -565,6 +625,16 @@
         "authorCategory": "bot",
         "reviewer": "walldiss",
         "requestedAt": "2026-10-19T11:03:33Z"
+      },
+      {
+        "number": 5349,
+        "title": "state: normalize nil TxConfig to defaults instead of panicking",
+        "url": "https://github.com/celestiaorg/celestia-node/pull/5349",
+        "repo": "celestia-node",
+        "author": "HusseinAdeiza",
+        "authorCategory": "external",
+        "reviewer": "walldiss",
+        "requestedAt": "2026-10-20T00:20:37Z"
       }
     ]
   },
@@ -619,5 +689,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-10-20T00:00:21.827Z"
+  "fetchedAt": "2026-10-20T00:50:32.095Z"
 }
