@@ -196,7 +196,18 @@
         "requestedAt": "2026-10-18T17:15:55Z"
       }
     ],
-    "rach-id": [],
+    "rach-id": [
+      {
+        "number": 3480,
+        "title": "feat(cmd): rollback --height with depth guard [medium]",
+        "url": "https://github.com/celestiaorg/celestia-core/pull/3480",
+        "repo": "celestia-core",
+        "author": "vgonkivs",
+        "authorCategory": "coworker",
+        "reviewer": "rach-id",
+        "requestedAt": "2026-10-20T11:15:41Z"
+      }
+    ],
     "renaynay": [
       {
         "number": 307,
@@ -519,5 +530,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-10-20T12:43:02.478Z"
+  "fetchedAt": "2026-10-20T12:58:54.136Z"
 }
