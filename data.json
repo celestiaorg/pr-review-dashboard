@@ -42,6 +42,26 @@
         "requestedAt": "2026-10-20T19:12:52Z"
       },
       {
+        "number": 3485,
+        "title": "build(deps): [high] Bump github.com/aws/aws-sdk-go-v2/config from 1.33.6 to 1.33.9",
+        "url": "https://github.com/celestiaorg/celestia-core/pull/3485",
+        "repo": "celestia-core",
+        "author": "dependabot",
+        "authorCategory": "bot",
+        "reviewer": "chatton",
+        "requestedAt": "2026-10-20T22:06:16Z"
+      },
+      {
+        "number": 3491,
+        "title": "build(deps): [high] Bump github.com/prometheus/common from 0.72.0 to 0.72.1",
+        "url": "https://github.com/celestiaorg/celestia-core/pull/3491",
+        "repo": "celestia-core",
+        "author": "dependabot",
+        "authorCategory": "bot",
+        "reviewer": "chatton",
+        "requestedAt": "2026-10-20T22:09:49Z"
+      },
+      {
         "number": 5356,
         "title": "test(tastora/canary): add fresh light node canary engine",
         "url": "https://github.com/celestiaorg/celestia-node/pull/5356",
@@ -95,7 +115,7 @@
       },
       {
         "number": 5355,
-        "title": "chore(deps): bump the go-deps group across 2 directories with 22 updates",
+        "title": "chore(deps): [medium] bump the go-deps group across 2 directories with 22 updates",
         "url": "https://github.com/celestiaorg/celestia-node/pull/5355",
         "repo": "celestia-node",
         "author": "dependabot",
@@ -112,6 +132,16 @@
         "authorCategory": "bot",
         "reviewer": "pippokr",
         "requestedAt": "2026-10-20T14:28:28Z"
+      },
+      {
+        "number": 3488,
+        "title": "build(deps): [high] Bump golang.org/x/crypto from 0.57.0 to 0.58.0",
+        "url": "https://github.com/celestiaorg/celestia-core/pull/3488",
+        "repo": "celestia-core",
+        "author": "dependabot",
+        "authorCategory": "bot",
+        "reviewer": "pippokr",
+        "requestedAt": "2026-10-20T22:07:42Z"
       }
     ],
     "ninabarbakadze": [
@@ -218,58 +248,49 @@
         "requestedAt": "2026-10-20T16:54:55Z"
       },
       {
-        "number": 5357,
-        "title": "ci: [low] require review level tag in PR titles",
-        "url": "https://github.com/celestiaorg/celestia-node/pull/5357",
-        "repo": "celestia-node",
-        "author": "rootulp",
-        "authorCategory": "coworker",
-        "reviewer": "rach-id",
-        "requestedAt": "2026-10-20T18:31:57Z"
-      },
-      {
-        "number": 3478,
-        "title": "ci: [low] require review level tag in PR titles",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3478",
+        "number": 3487,
+        "title": "build(deps): [high] Bump github.com/aws/aws-sdk-go-v2 from 1.47.1 to 1.47.3",
+        "url": "https://github.com/celestiaorg/celestia-core/pull/3487",
         "repo": "celestia-core",
-        "author": "rootulp",
-        "authorCategory": "coworker",
+        "author": "dependabot",
+        "authorCategory": "bot",
         "reviewer": "rach-id",
-        "requestedAt": "2026-10-20T18:32:10Z"
-      },
-      {
-        "number": 457,
-        "title": "ci: [low] require review level tag in PR titles",
-        "url": "https://github.com/celestiaorg/rsmt2d/pull/457",
-        "repo": "rsmt2d",
-        "author": "rootulp",
-        "authorCategory": "coworker",
-        "reviewer": "rach-id",
-        "requestedAt": "2026-10-20T18:32:19Z"
-      },
-      {
-        "number": 349,
-        "title": "ci: [low] require review level tag in PR titles",
-        "url": "https://github.com/celestiaorg/nmt/pull/349",
-        "repo": "nmt",
-        "author": "rootulp",
-        "authorCategory": "coworker",
-        "reviewer": "rach-id",
-        "requestedAt": "2026-10-20T18:32:31Z"
-      },
-      {
-        "number": 8267,
-        "title": "fix(fibre): [medium] backport object storage fixes to v10.x (#8012, #8086, #8090, #8089)",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/8267",
-        "repo": "celestia-app",
-        "author": "rootulp",
-        "authorCategory": "coworker",
-        "reviewer": "rach-id",
-        "requestedAt": "2026-10-20T18:53:44Z"
+        "requestedAt": "2026-10-20T22:07:38Z"
       }
     ],
     "renaynay": [],
-    "rootulp": [],
+    "rootulp": [
+      {
+        "number": 8268,
+        "title": "test(e2e): [low] list the Celestia mocha RPC once",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/8268",
+        "repo": "celestia-app",
+        "author": "rach-id",
+        "authorCategory": "coworker",
+        "reviewer": "rootulp",
+        "requestedAt": "2026-10-20T22:08:37Z"
+      },
+      {
+        "number": 3486,
+        "title": "build(deps): [high] Bump github.com/prometheus/client_golang from 1.24.1 to 1.25.0",
+        "url": "https://github.com/celestiaorg/celestia-core/pull/3486",
+        "repo": "celestia-core",
+        "author": "dependabot",
+        "authorCategory": "bot",
+        "reviewer": "rootulp",
+        "requestedAt": "2026-10-20T22:06:20Z"
+      },
+      {
+        "number": 3492,
+        "title": "build(deps): [high] Bump github.com/aws/aws-sdk-go-v2/service/s3 from 1.113.4 to 1.114.3",
+        "url": "https://github.com/celestiaorg/celestia-core/pull/3492",
+        "repo": "celestia-core",
+        "author": "dependabot",
+        "authorCategory": "bot",
+        "reviewer": "rootulp",
+        "requestedAt": "2026-10-20T22:11:02Z"
+      }
+    ],
     "vgonkivs": [
       {
         "number": 5328,
@@ -280,16 +301,6 @@
         "authorCategory": "bot",
         "reviewer": "vgonkivs",
         "requestedAt": "2026-10-13T07:09:47Z"
-      },
-      {
-        "number": 3468,
-        "title": "build(deps): Bump github.com/aws/aws-sdk-go-v2/config from 1.33.6 to 1.33.9",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3468",
-        "repo": "celestia-core",
-        "author": "dependabot",
-        "authorCategory": "bot",
-        "reviewer": "vgonkivs",
-        "requestedAt": "2026-10-14T20:14:33Z"
       },
       {
         "number": 583,
@@ -320,6 +331,16 @@
         "authorCategory": "bot",
         "reviewer": "vgonkivs",
         "requestedAt": "2026-10-20T16:51:53Z"
+      },
+      {
+        "number": 3490,
+        "title": "build(deps): [high] Bump golang.org/x/net from 0.60.0 to 0.61.0",
+        "url": "https://github.com/celestiaorg/celestia-core/pull/3490",
+        "repo": "celestia-core",
+        "author": "dependabot",
+        "authorCategory": "bot",
+        "reviewer": "vgonkivs",
+        "requestedAt": "2026-10-20T22:09:27Z"
       },
       {
         "number": 5190,
@@ -384,16 +405,6 @@
     ],
     "theodorebugnet": [
       {
-        "number": 457,
-        "title": "ci: [low] require review level tag in PR titles",
-        "url": "https://github.com/celestiaorg/rsmt2d/pull/457",
-        "repo": "rsmt2d",
-        "author": "rootulp",
-        "authorCategory": "coworker",
-        "reviewer": "theodorebugnet",
-        "requestedAt": "2026-10-19T21:25:47Z"
-      },
-      {
         "number": 348,
         "title": "chore(deps): bump github.com/tidwall/gjson from 1.19.0 to 1.20.0",
         "url": "https://github.com/celestiaorg/nmt/pull/348",
@@ -414,6 +425,16 @@
         "requestedAt": "2026-10-20T14:28:38Z"
       },
       {
+        "number": 3489,
+        "title": "build(deps): [high] Bump github.com/aws/aws-sdk-go-v2/credentials from 1.20.7 to 1.20.9",
+        "url": "https://github.com/celestiaorg/celestia-core/pull/3489",
+        "repo": "celestia-core",
+        "author": "dependabot",
+        "authorCategory": "bot",
+        "reviewer": "theodorebugnet",
+        "requestedAt": "2026-10-20T22:09:12Z"
+      },
+      {
         "number": 5348,
         "title": "state/cmd: reject the wrong address kind instead of panicking",
         "url": "https://github.com/celestiaorg/celestia-node/pull/5348",
@@ -426,24 +447,14 @@
     ],
     "walldiss": [
       {
-        "number": 349,
-        "title": "ci: [low] require review level tag in PR titles",
-        "url": "https://github.com/celestiaorg/nmt/pull/349",
-        "repo": "nmt",
-        "author": "rootulp",
-        "authorCategory": "coworker",
-        "reviewer": "walldiss",
-        "requestedAt": "2026-10-19T21:26:01Z"
-      },
-      {
-        "number": 8267,
-        "title": "fix(fibre): [medium] backport object storage fixes to v10.x (#8012, #8086, #8090, #8089)",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/8267",
+        "number": 8268,
+        "title": "test(e2e): [low] list the Celestia mocha RPC once",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/8268",
         "repo": "celestia-app",
-        "author": "rootulp",
+        "author": "rach-id",
         "authorCategory": "coworker",
         "reviewer": "walldiss",
-        "requestedAt": "2026-10-20T18:53:44Z"
+        "requestedAt": "2026-10-20T22:06:48Z"
       },
       {
         "number": 5352,
@@ -518,5 +529,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-10-20T22:02:17.126Z"
+  "fetchedAt": "2026-10-20T22:19:30.650Z"
 }
