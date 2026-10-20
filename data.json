@@ -52,16 +52,6 @@
         "requestedAt": "2026-10-20T00:16:40Z"
       },
       {
-        "number": 8245,
-        "title": "chore(deps): [high] bump the go-deps group with 16 updates",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/8245",
-        "repo": "celestia-app",
-        "author": "dependabot",
-        "authorCategory": "bot",
-        "reviewer": "chatton",
-        "requestedAt": "2026-10-19T09:46:20Z"
-      },
-      {
         "number": 5356,
         "title": "test(tastora/canary): add fresh light node canary engine",
         "url": "https://github.com/celestiaorg/celestia-node/pull/5356",
@@ -679,5 +669,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-10-20T03:48:54.962Z"
+  "fetchedAt": "2026-10-20T03:56:55.626Z"
 }
