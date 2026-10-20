@@ -176,18 +176,7 @@
         "requestedAt": "2026-10-18T17:15:55Z"
       }
     ],
-    "rach-id": [
-      {
-        "number": 3482,
-        "title": "feat(cmd): rollback --height with depth guard [medium] (backport #3480)",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3482",
-        "repo": "celestia-core",
-        "author": "mergify",
-        "authorCategory": "bot",
-        "reviewer": "rach-id",
-        "requestedAt": "2026-10-20T14:20:02Z"
-      }
-    ],
+    "rach-id": [],
     "renaynay": [],
     "rootulp": [
       {
@@ -202,36 +191,6 @@
       }
     ],
     "vgonkivs": [
-      {
-        "number": 5344,
-        "title": "docs: Trim redundant agent context",
-        "url": "https://github.com/celestiaorg/celestia-node/pull/5344",
-        "repo": "celestia-node",
-        "author": "rootulp",
-        "authorCategory": "coworker",
-        "reviewer": "vgonkivs",
-        "requestedAt": "2026-10-16T21:04:49Z"
-      },
-      {
-        "number": 423,
-        "title": "ci: [low] require review level tag in PR titles",
-        "url": "https://github.com/celestiaorg/go-header/pull/423",
-        "repo": "go-header",
-        "author": "rootulp",
-        "authorCategory": "coworker",
-        "reviewer": "vgonkivs",
-        "requestedAt": "2026-10-19T21:25:48Z"
-      },
-      {
-        "number": 1131,
-        "title": "ci: [medium] require review level tag in PR titles",
-        "url": "https://github.com/celestiaorg/lumina/pull/1131",
-        "repo": "lumina",
-        "author": "rootulp",
-        "authorCategory": "coworker",
-        "reviewer": "vgonkivs",
-        "requestedAt": "2026-10-19T21:28:15Z"
-      },
       {
         "number": 5328,
         "title": "chore(deps): bump actions/upload-artifact from 4 to 6",
@@ -469,5 +428,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-10-20T14:55:23.782Z"
+  "fetchedAt": "2026-10-20T15:06:51.508Z"
 }
