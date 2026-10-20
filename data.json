@@ -12,16 +12,6 @@
         "requestedAt": "2026-10-19T22:02:14Z"
       },
       {
-        "number": 8258,
-        "title": "refactor: [medium] remove unused code in appconsts and blob ante",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/8258",
-        "repo": "celestia-app",
-        "author": "rootulp",
-        "authorCategory": "coworker",
-        "reviewer": "chatton",
-        "requestedAt": "2026-10-20T00:16:40Z"
-      },
-      {
         "number": 8261,
         "title": "ci: [medium] shard coverage suite and drop redundant test-short job",
         "url": "https://github.com/celestiaorg/celestia-app/pull/8261",
@@ -238,16 +228,6 @@
     ],
     "rach-id": [
       {
-        "number": 8181,
-        "title": "perf(fibre): [medium] skip object HEAD checks during uploads",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/8181",
-        "repo": "celestia-app",
-        "author": "walldiss",
-        "authorCategory": "coworker",
-        "reviewer": "rach-id",
-        "requestedAt": "2026-10-17T17:23:03Z"
-      },
-      {
         "number": 7889,
         "title": "feat: confirm fibre uploads through subscriptions",
         "url": "https://github.com/celestiaorg/celestia-app/pull/7889",
@@ -256,26 +236,6 @@
         "authorCategory": "coworker",
         "reviewer": "rach-id",
         "requestedAt": "2026-10-17T17:24:21Z"
-      },
-      {
-        "number": 7888,
-        "title": "feat: add subscription transaction confirmation",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7888",
-        "repo": "celestia-app",
-        "author": "walldiss",
-        "authorCategory": "coworker",
-        "reviewer": "rach-id",
-        "requestedAt": "2026-10-17T17:24:24Z"
-      },
-      {
-        "number": 7876,
-        "title": "feat: support repeated reads across fibre readers",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7876",
-        "repo": "celestia-app",
-        "author": "walldiss",
-        "authorCategory": "coworker",
-        "reviewer": "rach-id",
-        "requestedAt": "2026-10-17T17:24:27Z"
       },
       {
         "number": 8260,
@@ -600,5 +560,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-10-20T08:57:46.213Z"
+  "fetchedAt": "2026-10-20T09:19:00.602Z"
 }
