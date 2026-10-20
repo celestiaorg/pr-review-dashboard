@@ -246,18 +246,7 @@
         "requestedAt": "2026-10-18T17:15:55Z"
       }
     ],
-    "rach-id": [
-      {
-        "number": 155,
-        "title": "feat(server): [high] roll back to a target height",
-        "url": "https://github.com/celestiaorg/cosmos-sdk/pull/155",
-        "repo": "cosmos-sdk",
-        "author": "vgonkivs",
-        "authorCategory": "coworker",
-        "reviewer": "rach-id",
-        "requestedAt": "2026-10-20T16:54:55Z"
-      }
-    ],
+    "rach-id": [],
     "renaynay": [],
     "rootulp": [
       {
@@ -437,16 +426,6 @@
     ],
     "walldiss": [
       {
-        "number": 8268,
-        "title": "test(e2e): [low] list the Celestia mocha RPC once",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/8268",
-        "repo": "celestia-app",
-        "author": "rach-id",
-        "authorCategory": "coworker",
-        "reviewer": "walldiss",
-        "requestedAt": "2026-10-20T22:06:48Z"
-      },
-      {
         "number": 8246,
         "title": "perf(fibre): [medium] simplify the pay-for-fibre ABCI fast paths",
         "url": "https://github.com/celestiaorg/celestia-app/pull/8246",
@@ -529,5 +508,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-10-20T22:46:38.345Z"
+  "fetchedAt": "2026-10-20T22:53:13.755Z"
 }
