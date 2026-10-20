@@ -2,16 +2,6 @@
   "reviews": {
     "chatton": [
       {
-        "number": 211,
-        "title": "ci: [low] require review level tag in PR titles",
-        "url": "https://github.com/celestiaorg/tastora/pull/211",
-        "repo": "tastora",
-        "author": "rootulp",
-        "authorCategory": "coworker",
-        "reviewer": "chatton",
-        "requestedAt": "2026-10-19T21:26:10Z"
-      },
-      {
         "number": 982,
         "title": "feat(monitoring): add optional protocol alerts mirror",
         "url": "https://github.com/celestiaorg/infrastructure/pull/982",
@@ -62,16 +52,6 @@
         "authorCategory": "coworker",
         "reviewer": "pippokr",
         "requestedAt": "2026-10-08T13:18:27Z"
-      },
-      {
-        "number": 585,
-        "title": "ci(peers): sign auto-update commits",
-        "url": "https://github.com/celestiaorg/networks/pull/585",
-        "repo": "networks",
-        "author": "rootulp",
-        "authorCategory": "coworker",
-        "reviewer": "pippokr",
-        "requestedAt": "2026-10-19T18:23:16Z"
       },
       {
         "number": 982,
@@ -296,6 +276,16 @@
         "authorCategory": "coworker",
         "reviewer": "rach-id",
         "requestedAt": "2026-10-17T17:24:27Z"
+      },
+      {
+        "number": 8260,
+        "title": "chore(deps): [high] bump go-deps group, hold cosmos/iavl at v1.2.8",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/8260",
+        "repo": "celestia-app",
+        "author": "rootulp",
+        "authorCategory": "coworker",
+        "reviewer": "rach-id",
+        "requestedAt": "2026-10-20T08:45:34Z"
       }
     ],
     "renaynay": [
@@ -313,7 +303,7 @@
     "rootulp": [
       {
         "number": 1000,
-        "title": "ci: [low] skip bot-authored PRs in the review-level check (follow-up to #999)",
+        "title": "ci: [low] skip bot-authored PRs in review level title check (follow-up to #999)",
         "url": "https://github.com/celestiaorg/infrastructure/pull/1000",
         "repo": "infrastructure",
         "author": "pippokr",
@@ -610,5 +600,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-10-20T08:28:29.194Z"
+  "fetchedAt": "2026-10-20T08:48:09.148Z"
 }
