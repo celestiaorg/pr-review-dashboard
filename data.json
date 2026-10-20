@@ -22,6 +22,16 @@
         "requestedAt": "2026-10-20T04:30:23Z"
       },
       {
+        "number": 1001,
+        "title": "monitoring(mainnet): [low] fibre registry exporter, alerts and dashboard (PROTOCO-3131)",
+        "url": "https://github.com/celestiaorg/infrastructure/pull/1001",
+        "repo": "infrastructure",
+        "author": "pippokr",
+        "authorCategory": "coworker",
+        "reviewer": "chatton",
+        "requestedAt": "2026-10-20T09:33:37Z"
+      },
+      {
         "number": 5356,
         "title": "test(tastora/canary): add fresh light node canary engine",
         "url": "https://github.com/celestiaorg/celestia-node/pull/5356",
@@ -226,28 +236,7 @@
         "requestedAt": "2026-10-18T17:15:55Z"
       }
     ],
-    "rach-id": [
-      {
-        "number": 7889,
-        "title": "feat: confirm fibre uploads through subscriptions",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7889",
-        "repo": "celestia-app",
-        "author": "walldiss",
-        "authorCategory": "coworker",
-        "reviewer": "rach-id",
-        "requestedAt": "2026-10-17T17:24:21Z"
-      },
-      {
-        "number": 8260,
-        "title": "chore(deps): [high] bump go-deps group, hold cosmos/iavl at v1.2.8",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/8260",
-        "repo": "celestia-app",
-        "author": "rootulp",
-        "authorCategory": "coworker",
-        "reviewer": "rach-id",
-        "requestedAt": "2026-10-20T08:45:34Z"
-      }
-    ],
+    "rach-id": [],
     "renaynay": [
       {
         "number": 307,
@@ -270,6 +259,16 @@
         "authorCategory": "coworker",
         "reviewer": "rootulp",
         "requestedAt": "2026-10-20T08:22:11Z"
+      },
+      {
+        "number": 998,
+        "title": "docs: [medium] define DA-proxy workflow SLOs",
+        "url": "https://github.com/celestiaorg/infrastructure/pull/998",
+        "repo": "infrastructure",
+        "author": "chatton",
+        "authorCategory": "coworker",
+        "reviewer": "rootulp",
+        "requestedAt": "2026-10-20T09:29:19Z"
       }
     ],
     "vgonkivs": [
@@ -282,16 +281,6 @@
         "authorCategory": "coworker",
         "reviewer": "vgonkivs",
         "requestedAt": "2026-10-16T21:04:49Z"
-      },
-      {
-        "number": 998,
-        "title": "docs: [medium] define DA-proxy workflow SLOs",
-        "url": "https://github.com/celestiaorg/infrastructure/pull/998",
-        "repo": "infrastructure",
-        "author": "chatton",
-        "authorCategory": "coworker",
-        "reviewer": "vgonkivs",
-        "requestedAt": "2026-10-19T15:57:46Z"
       },
       {
         "number": 423,
@@ -560,5 +549,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-10-20T09:19:00.602Z"
+  "fetchedAt": "2026-10-20T09:34:10.121Z"
 }
