@@ -43,7 +43,7 @@
       },
       {
         "number": 3485,
-        "title": "build(deps): [high] Bump github.com/aws/aws-sdk-go-v2/config from 1.33.6 to 1.33.9",
+        "title": "build(deps): [high] bump github.com/aws/aws-sdk-go-v2/config from 1.33.6 to 1.33.9",
         "url": "https://github.com/celestiaorg/celestia-core/pull/3485",
         "repo": "celestia-core",
         "author": "dependabot",
@@ -246,51 +246,10 @@
         "authorCategory": "coworker",
         "reviewer": "rach-id",
         "requestedAt": "2026-10-20T16:54:55Z"
-      },
-      {
-        "number": 3487,
-        "title": "build(deps): [high] Bump github.com/aws/aws-sdk-go-v2 from 1.47.1 to 1.47.3",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3487",
-        "repo": "celestia-core",
-        "author": "dependabot",
-        "authorCategory": "bot",
-        "reviewer": "rach-id",
-        "requestedAt": "2026-10-20T22:07:38Z"
       }
     ],
     "renaynay": [],
-    "rootulp": [
-      {
-        "number": 8268,
-        "title": "test(e2e): [low] list the Celestia mocha RPC once",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/8268",
-        "repo": "celestia-app",
-        "author": "rach-id",
-        "authorCategory": "coworker",
-        "reviewer": "rootulp",
-        "requestedAt": "2026-10-20T22:08:37Z"
-      },
-      {
-        "number": 3486,
-        "title": "build(deps): [high] Bump github.com/prometheus/client_golang from 1.24.1 to 1.25.0",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3486",
-        "repo": "celestia-core",
-        "author": "dependabot",
-        "authorCategory": "bot",
-        "reviewer": "rootulp",
-        "requestedAt": "2026-10-20T22:06:20Z"
-      },
-      {
-        "number": 3492,
-        "title": "build(deps): [high] Bump github.com/aws/aws-sdk-go-v2/service/s3 from 1.113.4 to 1.114.3",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3492",
-        "repo": "celestia-core",
-        "author": "dependabot",
-        "authorCategory": "bot",
-        "reviewer": "rootulp",
-        "requestedAt": "2026-10-20T22:11:02Z"
-      }
-    ],
+    "rootulp": [],
     "vgonkivs": [
       {
         "number": 5328,
@@ -426,7 +385,7 @@
       },
       {
         "number": 3489,
-        "title": "build(deps): [high] Bump github.com/aws/aws-sdk-go-v2/credentials from 1.20.7 to 1.20.9",
+        "title": "build(deps): [high] bump github.com/aws/aws-sdk-go-v2/credentials from 1.20.7 to 1.20.9",
         "url": "https://github.com/celestiaorg/celestia-core/pull/3489",
         "repo": "celestia-core",
         "author": "dependabot",
@@ -529,5 +488,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-10-20T22:30:34.210Z"
+  "fetchedAt": "2026-10-20T22:39:58.511Z"
 }
