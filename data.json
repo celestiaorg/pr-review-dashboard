@@ -22,16 +22,6 @@
         "requestedAt": "2026-10-20T04:30:23Z"
       },
       {
-        "number": 586,
-        "title": "ci: [low] require review level tag in PR titles",
-        "url": "https://github.com/celestiaorg/networks/pull/586",
-        "repo": "networks",
-        "author": "rootulp",
-        "authorCategory": "coworker",
-        "reviewer": "chatton",
-        "requestedAt": "2026-10-20T13:58:24Z"
-      },
-      {
         "number": 5356,
         "title": "test(tastora/canary): add fresh light node canary engine",
         "url": "https://github.com/celestiaorg/celestia-node/pull/5356",
@@ -186,6 +176,26 @@
         "authorCategory": "coworker",
         "reviewer": "rach-id",
         "requestedAt": "2026-10-20T13:52:29Z"
+      },
+      {
+        "number": 3481,
+        "title": "feat(state): roll back to a target height [medium] (backport #3479)",
+        "url": "https://github.com/celestiaorg/celestia-core/pull/3481",
+        "repo": "celestia-core",
+        "author": "mergify",
+        "authorCategory": "bot",
+        "reviewer": "rach-id",
+        "requestedAt": "2026-10-20T14:18:03Z"
+      },
+      {
+        "number": 3482,
+        "title": "feat(cmd): rollback --height with depth guard [medium] (backport #3480)",
+        "url": "https://github.com/celestiaorg/celestia-core/pull/3482",
+        "repo": "celestia-core",
+        "author": "mergify",
+        "authorCategory": "bot",
+        "reviewer": "rach-id",
+        "requestedAt": "2026-10-20T14:20:02Z"
       }
     ],
     "renaynay": [],
@@ -468,5 +478,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-10-20T14:04:10.991Z"
+  "fetchedAt": "2026-10-20T14:22:32.225Z"
 }
