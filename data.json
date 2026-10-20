@@ -54,6 +54,16 @@
         "requestedAt": "2026-10-19T22:02:12Z"
       },
       {
+        "number": 1005,
+        "title": "ci: [low] tag Dependabot PR titles with a review level",
+        "url": "https://github.com/celestiaorg/infrastructure/pull/1005",
+        "repo": "infrastructure",
+        "author": "rootulp",
+        "authorCategory": "coworker",
+        "reviewer": "pippokr",
+        "requestedAt": "2026-10-20T13:48:23Z"
+      },
+      {
         "number": 5355,
         "title": "chore(deps): bump the go-deps group across 2 directories with 22 updates",
         "url": "https://github.com/celestiaorg/celestia-node/pull/5355",
@@ -65,16 +75,6 @@
       }
     ],
     "ninabarbakadze": [
-      {
-        "number": 152,
-        "title": "ci: remove Dependabot configuration",
-        "url": "https://github.com/celestiaorg/cosmos-sdk/pull/152",
-        "repo": "cosmos-sdk",
-        "author": "rach-id",
-        "authorCategory": "coworker",
-        "reviewer": "ninabarbakadze",
-        "requestedAt": "2026-10-16T13:24:20Z"
-      },
       {
         "number": 8181,
         "title": "perf(fibre): [medium] skip object HEAD checks during uploads",
@@ -188,28 +188,17 @@
     ],
     "rach-id": [
       {
-        "number": 154,
-        "title": "feat(store): [medium] make RollbackToVersion safe to interrupt",
-        "url": "https://github.com/celestiaorg/cosmos-sdk/pull/154",
-        "repo": "cosmos-sdk",
-        "author": "vgonkivs",
-        "authorCategory": "coworker",
-        "reviewer": "rach-id",
-        "requestedAt": "2026-10-20T13:14:42Z"
-      }
-    ],
-    "renaynay": [
-      {
         "number": 307,
         "title": "ci: [low] require review level tag in PR titles",
         "url": "https://github.com/celestiaorg/go-square/pull/307",
         "repo": "go-square",
         "author": "rootulp",
         "authorCategory": "coworker",
-        "reviewer": "renaynay",
-        "requestedAt": "2026-10-19T21:26:03Z"
+        "reviewer": "rach-id",
+        "requestedAt": "2026-10-20T13:52:29Z"
       }
     ],
+    "renaynay": [],
     "rootulp": [
       {
         "number": 1000,
@@ -500,5 +489,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-10-20T13:45:58.961Z"
+  "fetchedAt": "2026-10-20T13:54:44.266Z"
 }
