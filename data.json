@@ -188,16 +188,6 @@
     ],
     "rach-id": [
       {
-        "number": 3479,
-        "title": "feat(state): roll back to a target height [medium]",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3479",
-        "repo": "celestia-core",
-        "author": "vgonkivs",
-        "authorCategory": "coworker",
-        "reviewer": "rach-id",
-        "requestedAt": "2026-10-20T10:32:02Z"
-      },
-      {
         "number": 154,
         "title": "feat(store): [medium] make RollbackToVersion safe to interrupt",
         "url": "https://github.com/celestiaorg/cosmos-sdk/pull/154",
@@ -530,5 +520,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-10-20T11:56:29.536Z"
+  "fetchedAt": "2026-10-20T12:18:06.184Z"
 }
