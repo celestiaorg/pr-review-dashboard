@@ -273,16 +273,6 @@
         "requestedAt": "2026-09-27T22:02:10Z"
       },
       {
-        "number": 5349,
-        "title": "fix(state): [medium] normalize nil TxConfig to defaults instead of panicking",
-        "url": "https://github.com/celestiaorg/celestia-node/pull/5349",
-        "repo": "celestia-node",
-        "author": "HusseinAdeiza",
-        "authorCategory": "external",
-        "reviewer": "vgonkivs",
-        "requestedAt": "2026-10-20T00:20:37Z"
-      },
-      {
         "number": 8273,
         "title": "fix(fibre): [medium] drop Expect: 100-continue on object PutObject",
         "url": "https://github.com/celestiaorg/celestia-app/pull/8273",
@@ -327,16 +317,6 @@
     ],
     "walldiss": [
       {
-        "number": 8246,
-        "title": "perf(fibre): [medium] simplify the pay-for-fibre ABCI fast paths",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/8246",
-        "repo": "celestia-app",
-        "author": "rach-id",
-        "authorCategory": "coworker",
-        "reviewer": "walldiss",
-        "requestedAt": "2026-10-20T22:40:18Z"
-      },
-      {
         "number": 5352,
         "title": "chore(deps): bump golang from 1.26.8-alpine3.23 to 1.27.2-alpine3.23",
         "url": "https://github.com/celestiaorg/celestia-node/pull/5352",
@@ -345,16 +325,6 @@
         "authorCategory": "bot",
         "reviewer": "walldiss",
         "requestedAt": "2026-10-19T11:03:33Z"
-      },
-      {
-        "number": 5349,
-        "title": "fix(state): [medium] normalize nil TxConfig to defaults instead of panicking",
-        "url": "https://github.com/celestiaorg/celestia-node/pull/5349",
-        "repo": "celestia-node",
-        "author": "HusseinAdeiza",
-        "authorCategory": "external",
-        "reviewer": "walldiss",
-        "requestedAt": "2026-10-20T00:20:37Z"
       }
     ]
   },
@@ -409,5 +379,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-10-21T15:35:49.908Z"
+  "fetchedAt": "2026-10-21T15:47:43.852Z"
 }
