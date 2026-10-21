@@ -42,16 +42,6 @@
         "requestedAt": "2026-10-20T19:12:52Z"
       },
       {
-        "number": 3485,
-        "title": "build(deps): [high] bump github.com/aws/aws-sdk-go-v2/config from 1.33.6 to 1.33.9",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3485",
-        "repo": "celestia-core",
-        "author": "dependabot",
-        "authorCategory": "bot",
-        "reviewer": "chatton",
-        "requestedAt": "2026-10-20T22:06:16Z"
-      },
-      {
         "number": 3491,
         "title": "build(deps): [high] Bump github.com/prometheus/common from 0.72.0 to 0.72.1",
         "url": "https://github.com/celestiaorg/celestia-core/pull/3491",
@@ -216,6 +206,26 @@
         "requestedAt": "2026-10-17T17:23:20Z"
       },
       {
+        "number": 8117,
+        "title": "perf(fibre): [high] overlap certificate checks with the proposal walk",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/8117",
+        "repo": "celestia-app",
+        "author": "rach-id",
+        "authorCategory": "coworker",
+        "reviewer": "ninabarbakadze",
+        "requestedAt": "2026-10-17T17:23:38Z"
+      },
+      {
+        "number": 8115,
+        "title": "perf(app): [high] overlap proposal square construction with proposal execution",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/8115",
+        "repo": "celestia-app",
+        "author": "rach-id",
+        "authorCategory": "coworker",
+        "reviewer": "ninabarbakadze",
+        "requestedAt": "2026-10-17T17:23:43Z"
+      },
+      {
         "number": 8114,
         "title": "perf(app): [high] preverify PFF proposals and settle directly",
         "url": "https://github.com/celestiaorg/celestia-app/pull/8114",
@@ -308,6 +318,26 @@
         "authorCategory": "coworker",
         "reviewer": "rootulp",
         "requestedAt": "2026-10-21T07:30:59Z"
+      },
+      {
+        "number": 8115,
+        "title": "perf(app): [high] overlap proposal square construction with proposal execution",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/8115",
+        "repo": "celestia-app",
+        "author": "rach-id",
+        "authorCategory": "coworker",
+        "reviewer": "rootulp",
+        "requestedAt": "2026-10-21T08:11:25Z"
+      },
+      {
+        "number": 8117,
+        "title": "perf(fibre): [high] overlap certificate checks with the proposal walk",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/8117",
+        "repo": "celestia-app",
+        "author": "rach-id",
+        "authorCategory": "coworker",
+        "reviewer": "rootulp",
+        "requestedAt": "2026-10-21T08:13:25Z"
       }
     ],
     "vgonkivs": [
@@ -464,16 +494,6 @@
         "requestedAt": "2026-10-20T14:28:38Z"
       },
       {
-        "number": 3489,
-        "title": "build(deps): [high] bump github.com/aws/aws-sdk-go-v2/credentials from 1.20.7 to 1.20.9",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3489",
-        "repo": "celestia-core",
-        "author": "dependabot",
-        "authorCategory": "bot",
-        "reviewer": "theodorebugnet",
-        "requestedAt": "2026-10-20T22:09:12Z"
-      },
-      {
         "number": 5348,
         "title": "state/cmd: reject the wrong address kind instead of panicking",
         "url": "https://github.com/celestiaorg/celestia-node/pull/5348",
@@ -578,5 +598,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-10-21T08:01:46.691Z"
+  "fetchedAt": "2026-10-21T08:28:27.841Z"
 }
