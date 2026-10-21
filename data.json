@@ -12,16 +12,6 @@
         "requestedAt": "2026-10-20T22:09:49Z"
       },
       {
-        "number": 5356,
-        "title": "test(tastora/canary): add fresh light node canary engine",
-        "url": "https://github.com/celestiaorg/celestia-node/pull/5356",
-        "repo": "celestia-node",
-        "author": "Denend",
-        "authorCategory": "external",
-        "reviewer": "chatton",
-        "requestedAt": "2026-10-19T14:39:59Z"
-      },
-      {
         "number": 8274,
         "title": "perf(app): [medium] hash skipped txs in Fill log lines only when they are written",
         "url": "https://github.com/celestiaorg/celestia-app/pull/8274",
@@ -176,16 +166,6 @@
         "requestedAt": "2026-10-17T17:24:27Z"
       },
       {
-        "number": 8240,
-        "title": "chore: [low] keep agent commits signed under the configured identity",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/8240",
-        "repo": "celestia-app",
-        "author": "rootulp",
-        "authorCategory": "coworker",
-        "reviewer": "ninabarbakadze",
-        "requestedAt": "2026-10-18T23:39:24Z"
-      },
-      {
         "number": 5346,
         "title": "pruner: stop the round when a full batch fails",
         "url": "https://github.com/celestiaorg/celestia-node/pull/5346",
@@ -219,7 +199,18 @@
       }
     ],
     "renaynay": [],
-    "rootulp": [],
+    "rootulp": [
+      {
+        "number": 5356,
+        "title": "test(tastora/canary): add fresh light node canary engine",
+        "url": "https://github.com/celestiaorg/celestia-node/pull/5356",
+        "repo": "celestia-node",
+        "author": "Denend",
+        "authorCategory": "external",
+        "reviewer": "rootulp",
+        "requestedAt": "2026-10-21T15:02:12Z"
+      }
+    ],
     "vgonkivs": [
       {
         "number": 583,
@@ -438,5 +429,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-10-21T14:54:45.053Z"
+  "fetchedAt": "2026-10-21T15:04:04.936Z"
 }
