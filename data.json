@@ -278,7 +278,18 @@
     ],
     "rach-id": [],
     "renaynay": [],
-    "rootulp": [],
+    "rootulp": [
+      {
+        "number": 1132,
+        "title": "chore: [medium] add standalone OSS Scanner devnet",
+        "url": "https://github.com/celestiaorg/lumina/pull/1132",
+        "repo": "lumina",
+        "author": "mcrakhman",
+        "authorCategory": "coworker",
+        "reviewer": "rootulp",
+        "requestedAt": "2026-10-21T07:24:59Z"
+      }
+    ],
     "vgonkivs": [
       {
         "number": 5328,
@@ -527,5 +538,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-10-21T06:58:42.986Z"
+  "fetchedAt": "2026-10-21T07:25:15.787Z"
 }
