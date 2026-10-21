@@ -219,48 +219,7 @@
       }
     ],
     "renaynay": [],
-    "rootulp": [
-      {
-        "number": 3493,
-        "title": "test(crypto): [low] pin ZIP-215 semantics of ed25519 verification",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3493",
-        "repo": "celestia-core",
-        "author": "rach-id",
-        "authorCategory": "coworker",
-        "reviewer": "rootulp",
-        "requestedAt": "2026-10-21T07:30:59Z"
-      },
-      {
-        "number": 8115,
-        "title": "perf(app): [high] overlap proposal square construction with proposal execution",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/8115",
-        "repo": "celestia-app",
-        "author": "rach-id",
-        "authorCategory": "coworker",
-        "reviewer": "rootulp",
-        "requestedAt": "2026-10-21T08:11:25Z"
-      },
-      {
-        "number": 8117,
-        "title": "perf(fibre): [high] overlap certificate checks with the proposal walk",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/8117",
-        "repo": "celestia-app",
-        "author": "rach-id",
-        "authorCategory": "coworker",
-        "reviewer": "rootulp",
-        "requestedAt": "2026-10-21T08:13:25Z"
-      },
-      {
-        "number": 3496,
-        "title": "perf: [medium] hash block txs once at assembly and reuse them in SaveTxInfo and mempool.Update",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3496",
-        "repo": "celestia-core",
-        "author": "rach-id",
-        "authorCategory": "coworker",
-        "reviewer": "rootulp",
-        "requestedAt": "2026-10-21T09:14:28Z"
-      }
-    ],
+    "rootulp": [],
     "vgonkivs": [
       {
         "number": 583,
@@ -407,16 +366,6 @@
         "requestedAt": "2026-10-20T22:40:18Z"
       },
       {
-        "number": 3493,
-        "title": "test(crypto): [low] pin ZIP-215 semantics of ed25519 verification",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3493",
-        "repo": "celestia-core",
-        "author": "rach-id",
-        "authorCategory": "coworker",
-        "reviewer": "walldiss",
-        "requestedAt": "2026-10-21T07:26:47Z"
-      },
-      {
         "number": 5352,
         "title": "chore(deps): bump golang from 1.26.8-alpine3.23 to 1.27.2-alpine3.23",
         "url": "https://github.com/celestiaorg/celestia-node/pull/5352",
@@ -489,5 +438,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-10-21T14:22:26.040Z"
+  "fetchedAt": "2026-10-21T14:34:57.831Z"
 }
