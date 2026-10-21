@@ -171,16 +171,6 @@
     "renaynay": [],
     "rootulp": [
       {
-        "number": 3495,
-        "title": "fix(mempool): [high] keep the CAT reap within its byte and gas budget",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3495",
-        "repo": "celestia-core",
-        "author": "rach-id",
-        "authorCategory": "coworker",
-        "reviewer": "rootulp",
-        "requestedAt": "2026-10-21T17:04:05Z"
-      },
-      {
         "number": 5356,
         "title": "test(tastora/canary): add fresh light node canary engine",
         "url": "https://github.com/celestiaorg/celestia-node/pull/5356",
@@ -399,5 +389,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-10-21T18:14:06.942Z"
+  "fetchedAt": "2026-10-21T18:34:05.822Z"
 }
