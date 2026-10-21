@@ -134,6 +134,16 @@
         "requestedAt": "2026-10-20T18:48:37Z"
       },
       {
+        "number": 8275,
+        "title": "chore(deps): [medium] bump Go to 1.26.10",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/8275",
+        "repo": "celestia-app",
+        "author": "rach-id",
+        "authorCategory": "coworker",
+        "reviewer": "pippokr",
+        "requestedAt": "2026-10-21T07:30:33Z"
+      },
+      {
         "number": 5355,
         "title": "chore(deps): [medium] bump the go-deps group across 2 directories with 22 updates",
         "url": "https://github.com/celestiaorg/celestia-node/pull/5355",
@@ -288,9 +298,29 @@
         "authorCategory": "coworker",
         "reviewer": "rootulp",
         "requestedAt": "2026-10-21T07:24:59Z"
+      },
+      {
+        "number": 3493,
+        "title": "test(crypto): [low] pin ZIP-215 semantics of ed25519 verification",
+        "url": "https://github.com/celestiaorg/celestia-core/pull/3493",
+        "repo": "celestia-core",
+        "author": "rach-id",
+        "authorCategory": "coworker",
+        "reviewer": "rootulp",
+        "requestedAt": "2026-10-21T07:30:59Z"
       }
     ],
     "vgonkivs": [
+      {
+        "number": 8275,
+        "title": "chore(deps): [medium] bump Go to 1.26.10",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/8275",
+        "repo": "celestia-app",
+        "author": "rach-id",
+        "authorCategory": "coworker",
+        "reviewer": "vgonkivs",
+        "requestedAt": "2026-10-21T07:31:51Z"
+      },
       {
         "number": 5328,
         "title": "chore(deps): bump actions/upload-artifact from 4 to 6",
@@ -466,6 +496,16 @@
         "requestedAt": "2026-10-20T22:40:18Z"
       },
       {
+        "number": 3493,
+        "title": "test(crypto): [low] pin ZIP-215 semantics of ed25519 verification",
+        "url": "https://github.com/celestiaorg/celestia-core/pull/3493",
+        "repo": "celestia-core",
+        "author": "rach-id",
+        "authorCategory": "coworker",
+        "reviewer": "walldiss",
+        "requestedAt": "2026-10-21T07:26:47Z"
+      },
+      {
         "number": 5352,
         "title": "chore(deps): bump golang from 1.26.8-alpine3.23 to 1.27.2-alpine3.23",
         "url": "https://github.com/celestiaorg/celestia-node/pull/5352",
@@ -538,5 +578,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-10-21T07:25:15.787Z"
+  "fetchedAt": "2026-10-21T07:41:49.050Z"
 }
