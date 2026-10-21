@@ -80,6 +80,16 @@
         "authorCategory": "external",
         "reviewer": "chatton",
         "requestedAt": "2026-10-19T14:39:59Z"
+      },
+      {
+        "number": 8274,
+        "title": "perf(app): [medium] hash skipped txs in Fill log lines only when they are written",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/8274",
+        "repo": "celestia-app",
+        "author": "alexeymoskalev-devops",
+        "authorCategory": "external",
+        "reviewer": "chatton",
+        "requestedAt": "2026-10-21T06:27:56Z"
       }
     ],
     "pippokr": [
@@ -528,5 +538,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-10-21T05:59:38.497Z"
+  "fetchedAt": "2026-10-21T06:34:01.694Z"
 }
