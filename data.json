@@ -12,6 +12,16 @@
         "requestedAt": "2026-10-21T16:11:09Z"
       },
       {
+        "number": 1134,
+        "title": "ci: [medium] pin Node.js 24.22.1 in jobs that run npm",
+        "url": "https://github.com/celestiaorg/lumina/pull/1134",
+        "repo": "lumina",
+        "author": "rootulp",
+        "authorCategory": "coworker",
+        "reviewer": "chatton",
+        "requestedAt": "2026-10-21T18:40:08Z"
+      },
+      {
         "number": 3491,
         "title": "build(deps): [high] Bump github.com/prometheus/common from 0.72.0 to 0.72.1",
         "url": "https://github.com/celestiaorg/celestia-core/pull/3491",
@@ -193,6 +203,16 @@
         "requestedAt": "2026-10-21T17:48:46Z"
       },
       {
+        "number": 1134,
+        "title": "ci: [medium] pin Node.js 24.22.1 in jobs that run npm",
+        "url": "https://github.com/celestiaorg/lumina/pull/1134",
+        "repo": "lumina",
+        "author": "rootulp",
+        "authorCategory": "coworker",
+        "reviewer": "vgonkivs",
+        "requestedAt": "2026-10-21T18:40:08Z"
+      },
+      {
         "number": 583,
         "title": "chore(peers): refresh mocha-5 peers",
         "url": "https://github.com/celestiaorg/networks/pull/583",
@@ -317,16 +337,6 @@
         "requestedAt": "2026-10-21T15:50:06Z"
       },
       {
-        "number": 1134,
-        "title": "ci: [medium] pin Node.js 24.22.1 in jobs that run npm",
-        "url": "https://github.com/celestiaorg/lumina/pull/1134",
-        "repo": "lumina",
-        "author": "rootulp",
-        "authorCategory": "coworker",
-        "reviewer": "walldiss",
-        "requestedAt": "2026-10-21T16:11:14Z"
-      },
-      {
         "number": 5352,
         "title": "chore(deps): bump golang from 1.26.8-alpine3.23 to 1.27.2-alpine3.23",
         "url": "https://github.com/celestiaorg/celestia-node/pull/5352",
@@ -389,5 +399,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-10-21T18:39:53.101Z"
+  "fetchedAt": "2026-10-21T18:49:51.529Z"
 }
