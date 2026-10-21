@@ -327,16 +327,6 @@
     ],
     "walldiss": [
       {
-        "number": 5358,
-        "title": "fix(ci): [low] pin patched Node.js runtime",
-        "url": "https://github.com/celestiaorg/celestia-node/pull/5358",
-        "repo": "celestia-node",
-        "author": "rootulp",
-        "authorCategory": "coworker",
-        "reviewer": "walldiss",
-        "requestedAt": "2026-10-21T15:50:06Z"
-      },
-      {
         "number": 5352,
         "title": "chore(deps): bump golang from 1.26.8-alpine3.23 to 1.27.2-alpine3.23",
         "url": "https://github.com/celestiaorg/celestia-node/pull/5352",
@@ -399,5 +389,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-10-21T18:58:13.230Z"
+  "fetchedAt": "2026-10-21T19:14:58.650Z"
 }
