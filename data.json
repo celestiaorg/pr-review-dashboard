@@ -52,16 +52,6 @@
         "requestedAt": "2026-10-20T22:09:49Z"
       },
       {
-        "number": 212,
-        "title": "chore(deps): [medium] bump the go_modules group across 1 directory with 2 updates",
-        "url": "https://github.com/celestiaorg/tastora/pull/212",
-        "repo": "tastora",
-        "author": "dependabot",
-        "authorCategory": "bot",
-        "reviewer": "chatton",
-        "requestedAt": "2026-10-21T02:30:13Z"
-      },
-      {
         "number": 5356,
         "title": "test(tastora/canary): add fresh light node canary engine",
         "url": "https://github.com/celestiaorg/celestia-node/pull/5356",
@@ -122,16 +112,6 @@
         "authorCategory": "coworker",
         "reviewer": "pippokr",
         "requestedAt": "2026-10-20T18:48:37Z"
-      },
-      {
-        "number": 8275,
-        "title": "chore(deps): [medium] bump Go to 1.26.10",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/8275",
-        "repo": "celestia-app",
-        "author": "rach-id",
-        "authorCategory": "coworker",
-        "reviewer": "pippokr",
-        "requestedAt": "2026-10-21T07:30:33Z"
       },
       {
         "number": 5355,
@@ -338,19 +318,19 @@
         "authorCategory": "coworker",
         "reviewer": "rootulp",
         "requestedAt": "2026-10-21T08:13:25Z"
+      },
+      {
+        "number": 3496,
+        "title": "perf: [medium] hash block txs once at assembly and reuse them in SaveTxInfo and mempool.Update",
+        "url": "https://github.com/celestiaorg/celestia-core/pull/3496",
+        "repo": "celestia-core",
+        "author": "rach-id",
+        "authorCategory": "coworker",
+        "reviewer": "rootulp",
+        "requestedAt": "2026-10-21T09:14:28Z"
       }
     ],
     "vgonkivs": [
-      {
-        "number": 8275,
-        "title": "chore(deps): [medium] bump Go to 1.26.10",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/8275",
-        "repo": "celestia-app",
-        "author": "rach-id",
-        "authorCategory": "coworker",
-        "reviewer": "vgonkivs",
-        "requestedAt": "2026-10-21T07:31:51Z"
-      },
       {
         "number": 5328,
         "title": "chore(deps): bump actions/upload-artifact from 4 to 6",
@@ -474,6 +454,16 @@
     ],
     "theodorebugnet": [
       {
+        "number": 3496,
+        "title": "perf: [medium] hash block txs once at assembly and reuse them in SaveTxInfo and mempool.Update",
+        "url": "https://github.com/celestiaorg/celestia-core/pull/3496",
+        "repo": "celestia-core",
+        "author": "rach-id",
+        "authorCategory": "coworker",
+        "reviewer": "theodorebugnet",
+        "requestedAt": "2026-10-21T09:09:47Z"
+      },
+      {
         "number": 8264,
         "title": "chore(deps): [high] bump the go-deps group across 1 directory with 3 updates",
         "url": "https://github.com/celestiaorg/celestia-app/pull/8264",
@@ -588,5 +578,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-10-21T08:58:22.085Z"
+  "fetchedAt": "2026-10-21T09:20:46.005Z"
 }
