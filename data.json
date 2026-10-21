@@ -325,16 +325,6 @@
         "requestedAt": "2026-10-21T09:09:47Z"
       },
       {
-        "number": 5359,
-        "title": "ci: [low] bump markdown-lint Node.js from EOL 18 to 22.23.4",
-        "url": "https://github.com/celestiaorg/celestia-node/pull/5359",
-        "repo": "celestia-node",
-        "author": "rootulp",
-        "authorCategory": "coworker",
-        "reviewer": "theodorebugnet",
-        "requestedAt": "2026-10-21T16:11:03Z"
-      },
-      {
         "number": 8264,
         "title": "chore(deps): [high] bump the go-deps group across 1 directory with 3 updates",
         "url": "https://github.com/celestiaorg/celestia-app/pull/8264",
@@ -439,5 +429,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-10-21T16:11:59.239Z"
+  "fetchedAt": "2026-10-21T16:28:13.685Z"
 }
