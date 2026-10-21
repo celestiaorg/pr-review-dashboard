@@ -176,50 +176,9 @@
         "requestedAt": "2026-10-18T17:15:55Z"
       }
     ],
-    "rach-id": [
-      {
-        "number": 155,
-        "title": "feat(server): [high] roll back to a target height",
-        "url": "https://github.com/celestiaorg/cosmos-sdk/pull/155",
-        "repo": "cosmos-sdk",
-        "author": "vgonkivs",
-        "authorCategory": "coworker",
-        "reviewer": "rach-id",
-        "requestedAt": "2026-10-21T15:54:11Z"
-      }
-    ],
+    "rach-id": [],
     "renaynay": [],
     "rootulp": [
-      {
-        "number": 8188,
-        "title": "fix(fibre): [high] bound what the pay-for-fibre pre-pass spends on failing input",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/8188",
-        "repo": "celestia-app",
-        "author": "rach-id",
-        "authorCategory": "coworker",
-        "reviewer": "rootulp",
-        "requestedAt": "2026-10-21T19:38:35Z"
-      },
-      {
-        "number": 8276,
-        "title": "perf(app): [high] decode SDK txs lazily and stop once the SDK cap is full",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/8276",
-        "repo": "celestia-app",
-        "author": "rach-id",
-        "authorCategory": "coworker",
-        "reviewer": "rootulp",
-        "requestedAt": "2026-10-21T19:42:48Z"
-      },
-      {
-        "number": 8286,
-        "title": "perf(app): [medium] stop the blob loop once the PFB cap is full",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/8286",
-        "repo": "celestia-app",
-        "author": "rach-id",
-        "authorCategory": "coworker",
-        "reviewer": "rootulp",
-        "requestedAt": "2026-10-21T20:23:04Z"
-      },
       {
         "number": 5356,
         "title": "test(tastora/canary): add fresh light node canary engine",
@@ -439,5 +398,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-10-21T20:32:18.327Z"
+  "fetchedAt": "2026-10-21T20:44:33.540Z"
 }
