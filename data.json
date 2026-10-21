@@ -156,7 +156,18 @@
         "requestedAt": "2026-10-18T17:15:55Z"
       }
     ],
-    "rach-id": [],
+    "rach-id": [
+      {
+        "number": 158,
+        "title": "feat(store): [low] make RollbackToVersion safe to interrupt (#154)",
+        "url": "https://github.com/celestiaorg/cosmos-sdk/pull/158",
+        "repo": "cosmos-sdk",
+        "author": "vgonkivs",
+        "authorCategory": "coworker",
+        "reviewer": "rach-id",
+        "requestedAt": "2026-10-21T21:29:59Z"
+      }
+    ],
     "renaynay": [],
     "rootulp": [
       {
@@ -378,5 +389,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-10-21T21:17:04.271Z"
+  "fetchedAt": "2026-10-21T21:30:09.255Z"
 }
