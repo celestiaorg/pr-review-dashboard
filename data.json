@@ -2,16 +2,6 @@
   "reviews": {
     "chatton": [
       {
-        "number": 982,
-        "title": "feat(monitoring): add optional protocol alerts mirror",
-        "url": "https://github.com/celestiaorg/infrastructure/pull/982",
-        "repo": "infrastructure",
-        "author": "rootulp",
-        "authorCategory": "coworker",
-        "reviewer": "chatton",
-        "requestedAt": "2026-10-19T22:02:14Z"
-      },
-      {
         "number": 8261,
         "title": "ci: [medium] shard coverage suite and drop redundant test-short job",
         "url": "https://github.com/celestiaorg/celestia-app/pull/8261",
@@ -266,7 +256,18 @@
         "requestedAt": "2026-10-18T17:15:55Z"
       }
     ],
-    "rach-id": [],
+    "rach-id": [
+      {
+        "number": 8277,
+        "title": "feat(fibre): [low] add object store connectivity check",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/8277",
+        "repo": "celestia-app",
+        "author": "pmensik",
+        "authorCategory": "external",
+        "reviewer": "rach-id",
+        "requestedAt": "2026-10-21T09:59:31Z"
+      }
+    ],
     "renaynay": [],
     "rootulp": [
       {
@@ -568,5 +569,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-10-21T09:56:34.503Z"
+  "fetchedAt": "2026-10-21T10:12:05.763Z"
 }
