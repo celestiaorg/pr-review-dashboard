@@ -434,16 +434,6 @@
         "requestedAt": "2026-10-20T22:09:12Z"
       },
       {
-        "number": 587,
-        "title": "chore(deps): [medium] bump github.com/klauspost/compress from 1.18.0 to 1.18.7 in /scripts/peers/verifypeer",
-        "url": "https://github.com/celestiaorg/networks/pull/587",
-        "repo": "networks",
-        "author": "dependabot",
-        "authorCategory": "bot",
-        "reviewer": "theodorebugnet",
-        "requestedAt": "2026-10-21T01:13:14Z"
-      },
-      {
         "number": 5348,
         "title": "state/cmd: reject the wrong address kind instead of panicking",
         "url": "https://github.com/celestiaorg/celestia-node/pull/5348",
@@ -538,5 +528,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-10-21T03:37:48.676Z"
+  "fetchedAt": "2026-10-21T03:50:51.660Z"
 }
