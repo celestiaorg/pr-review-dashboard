@@ -390,6 +390,16 @@
         "authorCategory": "external",
         "reviewer": "vgonkivs",
         "requestedAt": "2026-10-20T00:20:37Z"
+      },
+      {
+        "number": 8273,
+        "title": "fix(fibre): [medium] drop Expect: 100-continue on object PutObject",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/8273",
+        "repo": "celestia-app",
+        "author": "alexeymoskalev-devops",
+        "authorCategory": "external",
+        "reviewer": "vgonkivs",
+        "requestedAt": "2026-10-21T02:52:40Z"
       }
     ],
     "theodorebugnet": [
@@ -528,5 +538,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-10-21T02:49:00.425Z"
+  "fetchedAt": "2026-10-21T02:57:25.909Z"
 }
