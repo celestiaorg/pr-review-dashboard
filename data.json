@@ -44,16 +44,6 @@
         "requestedAt": "2026-10-08T13:18:27Z"
       },
       {
-        "number": 157,
-        "title": "build(devtools): [low] take Node.js 22.23.4 from the official image",
-        "url": "https://github.com/celestiaorg/cosmos-sdk/pull/157",
-        "repo": "cosmos-sdk",
-        "author": "rootulp",
-        "authorCategory": "coworker",
-        "reviewer": "pippokr",
-        "requestedAt": "2026-10-21T16:11:22Z"
-      },
-      {
         "number": 5355,
         "title": "chore(deps): [medium] bump the go-deps group across 2 directories with 22 updates",
         "url": "https://github.com/celestiaorg/celestia-node/pull/5355",
@@ -114,16 +104,6 @@
         "authorCategory": "coworker",
         "reviewer": "ninabarbakadze",
         "requestedAt": "2026-10-17T17:23:20Z"
-      },
-      {
-        "number": 8115,
-        "title": "perf(app): [high] overlap proposal square construction with proposal execution",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/8115",
-        "repo": "celestia-app",
-        "author": "rach-id",
-        "authorCategory": "coworker",
-        "reviewer": "ninabarbakadze",
-        "requestedAt": "2026-10-17T17:23:43Z"
       },
       {
         "number": 7922,
@@ -429,5 +409,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-10-21T16:28:13.685Z"
+  "fetchedAt": "2026-10-21T16:44:35.517Z"
 }
