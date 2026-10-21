@@ -62,6 +62,16 @@
         "requestedAt": "2026-10-20T22:09:49Z"
       },
       {
+        "number": 212,
+        "title": "chore(deps): [medium] bump the go_modules group across 1 directory with 2 updates",
+        "url": "https://github.com/celestiaorg/tastora/pull/212",
+        "repo": "tastora",
+        "author": "dependabot",
+        "authorCategory": "bot",
+        "reviewer": "chatton",
+        "requestedAt": "2026-10-21T02:30:13Z"
+      },
+      {
         "number": 5356,
         "title": "test(tastora/canary): add fresh light node canary engine",
         "url": "https://github.com/celestiaorg/celestia-node/pull/5356",
@@ -518,5 +528,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-10-21T02:02:31.365Z"
+  "fetchedAt": "2026-10-21T02:30:45.601Z"
 }
