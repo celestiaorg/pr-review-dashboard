@@ -142,6 +142,16 @@
         "authorCategory": "bot",
         "reviewer": "pippokr",
         "requestedAt": "2026-10-20T22:07:42Z"
+      },
+      {
+        "number": 8272,
+        "title": "chore(deps): bump github.com/klauspost/compress from 1.18.0 to 1.18.7 in /tools/scan-blockresults",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/8272",
+        "repo": "celestia-app",
+        "author": "dependabot",
+        "authorCategory": "bot",
+        "reviewer": "pippokr",
+        "requestedAt": "2026-10-21T01:09:45Z"
       }
     ],
     "ninabarbakadze": [
@@ -404,6 +414,16 @@
         "requestedAt": "2026-10-20T22:09:12Z"
       },
       {
+        "number": 587,
+        "title": "chore(deps): [medium] bump github.com/klauspost/compress from 1.18.0 to 1.18.7 in /scripts/peers/verifypeer",
+        "url": "https://github.com/celestiaorg/networks/pull/587",
+        "repo": "networks",
+        "author": "dependabot",
+        "authorCategory": "bot",
+        "reviewer": "theodorebugnet",
+        "requestedAt": "2026-10-21T01:13:14Z"
+      },
+      {
         "number": 5348,
         "title": "state/cmd: reject the wrong address kind instead of panicking",
         "url": "https://github.com/celestiaorg/celestia-node/pull/5348",
@@ -498,5 +518,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-10-21T01:00:35.536Z"
+  "fetchedAt": "2026-10-21T01:29:38.040Z"
 }
