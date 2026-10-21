@@ -34,6 +34,16 @@
         "requestedAt": "2026-10-08T13:18:27Z"
       },
       {
+        "number": 8282,
+        "title": "fix(ci): [low] pin Node.js security releases",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/8282",
+        "repo": "celestia-app",
+        "author": "rootulp",
+        "authorCategory": "coworker",
+        "reviewer": "pippokr",
+        "requestedAt": "2026-10-21T15:52:00Z"
+      },
+      {
         "number": 5355,
         "title": "chore(deps): [medium] bump the go-deps group across 2 directories with 22 updates",
         "url": "https://github.com/celestiaorg/celestia-node/pull/5355",
@@ -167,6 +177,16 @@
       }
     ],
     "rach-id": [
+      {
+        "number": 155,
+        "title": "feat(server): [high] roll back to a target height",
+        "url": "https://github.com/celestiaorg/cosmos-sdk/pull/155",
+        "repo": "cosmos-sdk",
+        "author": "vgonkivs",
+        "authorCategory": "coworker",
+        "reviewer": "rach-id",
+        "requestedAt": "2026-10-21T15:54:11Z"
+      },
       {
         "number": 8277,
         "title": "feat(fibre): [low] add object store connectivity check",
@@ -317,6 +337,16 @@
     ],
     "walldiss": [
       {
+        "number": 5358,
+        "title": "fix(ci): [low] pin patched Node.js runtime",
+        "url": "https://github.com/celestiaorg/celestia-node/pull/5358",
+        "repo": "celestia-node",
+        "author": "rootulp",
+        "authorCategory": "coworker",
+        "reviewer": "walldiss",
+        "requestedAt": "2026-10-21T15:50:06Z"
+      },
+      {
         "number": 5352,
         "title": "chore(deps): bump golang from 1.26.8-alpine3.23 to 1.27.2-alpine3.23",
         "url": "https://github.com/celestiaorg/celestia-node/pull/5352",
@@ -379,5 +409,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-10-21T15:47:43.852Z"
+  "fetchedAt": "2026-10-21T15:56:26.740Z"
 }
