@@ -166,16 +166,6 @@
         "authorCategory": "coworker",
         "reviewer": "rach-id",
         "requestedAt": "2026-10-21T15:54:11Z"
-      },
-      {
-        "number": 8277,
-        "title": "feat(fibre): [low] add object store connectivity check",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/8277",
-        "repo": "celestia-app",
-        "author": "pmensik",
-        "authorCategory": "external",
-        "reviewer": "rach-id",
-        "requestedAt": "2026-10-21T09:59:31Z"
       }
     ],
     "renaynay": [],
@@ -399,5 +389,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-10-21T17:17:16.599Z"
+  "fetchedAt": "2026-10-21T17:29:36.819Z"
 }
