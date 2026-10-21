@@ -193,6 +193,16 @@
     ],
     "vgonkivs": [
       {
+        "number": 8284,
+        "title": "test(app): [low] cover ProcessProposal certificate pass panics",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/8284",
+        "repo": "celestia-app",
+        "author": "rach-id",
+        "authorCategory": "coworker",
+        "reviewer": "vgonkivs",
+        "requestedAt": "2026-10-21T17:48:46Z"
+      },
+      {
         "number": 583,
         "title": "chore(peers): refresh mocha-5 peers",
         "url": "https://github.com/celestiaorg/networks/pull/583",
@@ -389,5 +399,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-10-21T17:41:31.013Z"
+  "fetchedAt": "2026-10-21T17:49:40.813Z"
 }
