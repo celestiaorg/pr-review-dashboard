@@ -2,16 +2,6 @@
   "reviews": {
     "chatton": [
       {
-        "number": 1133,
-        "title": "test(node): [low] anchor prune_two_equal_batches timing to Pruner start",
-        "url": "https://github.com/celestiaorg/lumina/pull/1133",
-        "repo": "lumina",
-        "author": "rootulp",
-        "authorCategory": "coworker",
-        "reviewer": "chatton",
-        "requestedAt": "2026-10-21T13:24:53Z"
-      },
-      {
         "number": 3491,
         "title": "build(deps): [high] Bump github.com/prometheus/common from 0.72.0 to 0.72.1",
         "url": "https://github.com/celestiaorg/celestia-core/pull/3491",
@@ -283,16 +273,6 @@
         "requestedAt": "2026-10-21T13:12:39Z"
       },
       {
-        "number": 3497,
-        "title": "build(deps): [medium] bump Go to 1.26.10 to fix govulncheck",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3497",
-        "repo": "celestia-core",
-        "author": "rootulp",
-        "authorCategory": "coworker",
-        "reviewer": "vgonkivs",
-        "requestedAt": "2026-10-21T13:20:07Z"
-      },
-      {
         "number": 5328,
         "title": "chore(deps): bump actions/upload-artifact from 4 to 6",
         "url": "https://github.com/celestiaorg/celestia-node/pull/5328",
@@ -529,5 +509,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-10-21T13:54:06.073Z"
+  "fetchedAt": "2026-10-21T14:01:16.573Z"
 }
