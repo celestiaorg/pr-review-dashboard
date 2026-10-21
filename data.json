@@ -158,18 +158,7 @@
     ],
     "rach-id": [],
     "renaynay": [],
-    "rootulp": [
-      {
-        "number": 5356,
-        "title": "test(tastora/canary): add fresh light node canary engine",
-        "url": "https://github.com/celestiaorg/celestia-node/pull/5356",
-        "repo": "celestia-node",
-        "author": "Denend",
-        "authorCategory": "external",
-        "reviewer": "rootulp",
-        "requestedAt": "2026-10-21T15:02:12Z"
-      }
-    ],
+    "rootulp": [],
     "vgonkivs": [
       {
         "number": 8284,
@@ -368,5 +357,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-10-21T22:25:06.095Z"
+  "fetchedAt": "2026-10-21T22:36:07.193Z"
 }
