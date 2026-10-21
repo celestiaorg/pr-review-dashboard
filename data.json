@@ -301,7 +301,7 @@
     "rootulp": [
       {
         "number": 1132,
-        "title": "chore: [medium] add standalone OSS Scanner devnet",
+        "title": "chore: [medium] add OSS Scanner audit environment",
         "url": "https://github.com/celestiaorg/lumina/pull/1132",
         "repo": "lumina",
         "author": "mcrakhman",
@@ -474,16 +474,6 @@
     ],
     "theodorebugnet": [
       {
-        "number": 348,
-        "title": "chore(deps): bump github.com/tidwall/gjson from 1.19.0 to 1.20.0",
-        "url": "https://github.com/celestiaorg/nmt/pull/348",
-        "repo": "nmt",
-        "author": "dependabot",
-        "authorCategory": "bot",
-        "reviewer": "theodorebugnet",
-        "requestedAt": "2026-10-14T04:35:42Z"
-      },
-      {
         "number": 8264,
         "title": "chore(deps): [high] bump the go-deps group across 1 directory with 3 updates",
         "url": "https://github.com/celestiaorg/celestia-app/pull/8264",
@@ -598,5 +588,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-10-21T08:28:27.841Z"
+  "fetchedAt": "2026-10-21T08:48:19.056Z"
 }
