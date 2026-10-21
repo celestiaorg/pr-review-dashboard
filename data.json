@@ -178,14 +178,14 @@
         "requestedAt": "2026-10-21T22:49:24Z"
       },
       {
-        "number": 8270,
-        "title": "fix(zkism)!: [high] tighten protocol validation",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/8270",
+        "number": 8269,
+        "title": "fix!: [high] bound per-block proof work",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/8269",
         "repo": "celestia-app",
         "author": "rootulp",
         "authorCategory": "coworker",
         "reviewer": "rach-id",
-        "requestedAt": "2026-10-21T22:55:40Z"
+        "requestedAt": "2026-10-21T23:03:57Z"
       }
     ],
     "renaynay": [],
@@ -388,5 +388,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-10-21T22:58:23.311Z"
+  "fetchedAt": "2026-10-21T23:16:11.001Z"
 }
