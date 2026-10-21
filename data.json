@@ -211,6 +211,16 @@
         "requestedAt": "2026-10-21T19:42:48Z"
       },
       {
+        "number": 8286,
+        "title": "perf(app): [medium] stop the blob loop once the PFB cap is full",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/8286",
+        "repo": "celestia-app",
+        "author": "rach-id",
+        "authorCategory": "coworker",
+        "reviewer": "rootulp",
+        "requestedAt": "2026-10-21T20:23:04Z"
+      },
+      {
         "number": 5356,
         "title": "test(tastora/canary): add fresh light node canary engine",
         "url": "https://github.com/celestiaorg/celestia-node/pull/5356",
@@ -357,6 +367,16 @@
     ],
     "walldiss": [
       {
+        "number": 8286,
+        "title": "perf(app): [medium] stop the blob loop once the PFB cap is full",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/8286",
+        "repo": "celestia-app",
+        "author": "rach-id",
+        "authorCategory": "coworker",
+        "reviewer": "walldiss",
+        "requestedAt": "2026-10-21T20:22:22Z"
+      },
+      {
         "number": 5352,
         "title": "chore(deps): bump golang from 1.26.8-alpine3.23 to 1.27.2-alpine3.23",
         "url": "https://github.com/celestiaorg/celestia-node/pull/5352",
@@ -419,5 +439,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-10-21T20:18:29.350Z"
+  "fetchedAt": "2026-10-21T20:32:18.327Z"
 }
