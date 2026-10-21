@@ -2,6 +2,16 @@
   "reviews": {
     "chatton": [
       {
+        "number": 3498,
+        "title": "ci: [low] pin Node.js 24.22.1 for the OpenAPI lint job",
+        "url": "https://github.com/celestiaorg/celestia-core/pull/3498",
+        "repo": "celestia-core",
+        "author": "rootulp",
+        "authorCategory": "coworker",
+        "reviewer": "chatton",
+        "requestedAt": "2026-10-21T16:11:09Z"
+      },
+      {
         "number": 3491,
         "title": "build(deps): [high] Bump github.com/prometheus/common from 0.72.0 to 0.72.1",
         "url": "https://github.com/celestiaorg/celestia-core/pull/3491",
@@ -34,14 +44,14 @@
         "requestedAt": "2026-10-08T13:18:27Z"
       },
       {
-        "number": 8282,
-        "title": "fix(ci): [low] pin Node.js security releases",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/8282",
-        "repo": "celestia-app",
+        "number": 157,
+        "title": "build(devtools): [low] take Node.js 22.23.4 from the official image",
+        "url": "https://github.com/celestiaorg/cosmos-sdk/pull/157",
+        "repo": "cosmos-sdk",
         "author": "rootulp",
         "authorCategory": "coworker",
         "reviewer": "pippokr",
-        "requestedAt": "2026-10-21T15:52:00Z"
+        "requestedAt": "2026-10-21T16:11:22Z"
       },
       {
         "number": 5355,
@@ -116,16 +126,6 @@
         "requestedAt": "2026-10-17T17:23:43Z"
       },
       {
-        "number": 8114,
-        "title": "perf(app): [high] preverify PFF proposals and settle directly",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/8114",
-        "repo": "celestia-app",
-        "author": "rach-id",
-        "authorCategory": "coworker",
-        "reviewer": "ninabarbakadze",
-        "requestedAt": "2026-10-17T17:23:45Z"
-      },
-      {
         "number": 7922,
         "title": "fix: [medium] honor explicit zero node minimum gas price",
         "url": "https://github.com/celestiaorg/celestia-app/pull/7922",
@@ -186,6 +186,16 @@
         "authorCategory": "coworker",
         "reviewer": "rach-id",
         "requestedAt": "2026-10-21T15:54:11Z"
+      },
+      {
+        "number": 308,
+        "title": "ci: [low] bump markdown-lint Node.js from EOL 18 to 22.23.4",
+        "url": "https://github.com/celestiaorg/go-square/pull/308",
+        "repo": "go-square",
+        "author": "rootulp",
+        "authorCategory": "coworker",
+        "reviewer": "rach-id",
+        "requestedAt": "2026-10-21T16:11:03Z"
       },
       {
         "number": 8277,
@@ -315,6 +325,16 @@
         "requestedAt": "2026-10-21T09:09:47Z"
       },
       {
+        "number": 5359,
+        "title": "ci: [low] bump markdown-lint Node.js from EOL 18 to 22.23.4",
+        "url": "https://github.com/celestiaorg/celestia-node/pull/5359",
+        "repo": "celestia-node",
+        "author": "rootulp",
+        "authorCategory": "coworker",
+        "reviewer": "theodorebugnet",
+        "requestedAt": "2026-10-21T16:11:03Z"
+      },
+      {
         "number": 8264,
         "title": "chore(deps): [high] bump the go-deps group across 1 directory with 3 updates",
         "url": "https://github.com/celestiaorg/celestia-app/pull/8264",
@@ -345,6 +365,16 @@
         "authorCategory": "coworker",
         "reviewer": "walldiss",
         "requestedAt": "2026-10-21T15:50:06Z"
+      },
+      {
+        "number": 1134,
+        "title": "ci: [medium] pin Node.js 24.22.1 in jobs that run npm",
+        "url": "https://github.com/celestiaorg/lumina/pull/1134",
+        "repo": "lumina",
+        "author": "rootulp",
+        "authorCategory": "coworker",
+        "reviewer": "walldiss",
+        "requestedAt": "2026-10-21T16:11:14Z"
       },
       {
         "number": 5352,
@@ -409,5 +439,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-10-21T15:56:26.740Z"
+  "fetchedAt": "2026-10-21T16:11:59.239Z"
 }
