@@ -96,16 +96,6 @@
         "requestedAt": "2026-10-17T17:23:20Z"
       },
       {
-        "number": 8117,
-        "title": "perf(fibre): [high] overlap certificate checks with the proposal walk",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/8117",
-        "repo": "celestia-app",
-        "author": "rach-id",
-        "authorCategory": "coworker",
-        "reviewer": "ninabarbakadze",
-        "requestedAt": "2026-10-17T17:23:38Z"
-      },
-      {
         "number": 8115,
         "title": "perf(app): [high] overlap proposal square construction with proposal execution",
         "url": "https://github.com/celestiaorg/celestia-app/pull/8115",
@@ -177,16 +167,6 @@
       }
     ],
     "rach-id": [
-      {
-        "number": 156,
-        "title": "build(deps): [low] bump celestia-core to v0.42.4",
-        "url": "https://github.com/celestiaorg/cosmos-sdk/pull/156",
-        "repo": "cosmos-sdk",
-        "author": "vgonkivs",
-        "authorCategory": "coworker",
-        "reviewer": "rach-id",
-        "requestedAt": "2026-10-21T12:04:51Z"
-      },
       {
         "number": 8277,
         "title": "feat(fibre): [low] add object store connectivity check",
@@ -429,5 +409,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-10-21T15:04:04.936Z"
+  "fetchedAt": "2026-10-21T15:22:27.095Z"
 }
