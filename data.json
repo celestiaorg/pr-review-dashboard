@@ -86,16 +86,6 @@
     ],
     "ninabarbakadze": [
       {
-        "number": 8188,
-        "title": "fix(fibre): [high] bound what the pay-for-fibre pre-pass spends on failing input",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/8188",
-        "repo": "celestia-app",
-        "author": "rach-id",
-        "authorCategory": "coworker",
-        "reviewer": "ninabarbakadze",
-        "requestedAt": "2026-10-17T17:22:54Z"
-      },
-      {
         "number": 8181,
         "title": "perf(fibre): [medium] skip object HEAD checks during uploads",
         "url": "https://github.com/celestiaorg/celestia-app/pull/8181",
@@ -398,5 +388,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-10-21T20:52:30.017Z"
+  "fetchedAt": "2026-10-21T20:58:58.114Z"
 }
