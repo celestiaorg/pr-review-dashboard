@@ -22,6 +22,16 @@
         "requestedAt": "2026-10-20T19:12:52Z"
       },
       {
+        "number": 1013,
+        "title": "feat: [high] extend alerts for da nodes",
+        "url": "https://github.com/celestiaorg/infrastructure/pull/1013",
+        "repo": "infrastructure",
+        "author": "vgonkivs",
+        "authorCategory": "coworker",
+        "reviewer": "chatton",
+        "requestedAt": "2026-10-21T12:22:37Z"
+      },
+      {
         "number": 3491,
         "title": "build(deps): [high] Bump github.com/prometheus/common from 0.72.0 to 0.72.1",
         "url": "https://github.com/celestiaorg/celestia-core/pull/3491",
@@ -62,6 +72,16 @@
         "authorCategory": "coworker",
         "reviewer": "pippokr",
         "requestedAt": "2026-10-08T13:18:27Z"
+      },
+      {
+        "number": 1013,
+        "title": "feat: [high] extend alerts for da nodes",
+        "url": "https://github.com/celestiaorg/infrastructure/pull/1013",
+        "repo": "infrastructure",
+        "author": "vgonkivs",
+        "authorCategory": "coworker",
+        "reviewer": "pippokr",
+        "requestedAt": "2026-10-21T12:22:37Z"
       },
       {
         "number": 5355,
@@ -228,6 +248,16 @@
     ],
     "rach-id": [
       {
+        "number": 156,
+        "title": "build(deps): [low] bump celestia-core to v0.42.4",
+        "url": "https://github.com/celestiaorg/cosmos-sdk/pull/156",
+        "repo": "cosmos-sdk",
+        "author": "vgonkivs",
+        "authorCategory": "coworker",
+        "reviewer": "rach-id",
+        "requestedAt": "2026-10-21T12:04:51Z"
+      },
+      {
         "number": 8277,
         "title": "feat(fibre): [low] add object store connectivity check",
         "url": "https://github.com/celestiaorg/celestia-app/pull/8277",
@@ -240,16 +270,6 @@
     ],
     "renaynay": [],
     "rootulp": [
-      {
-        "number": 1132,
-        "title": "chore: [medium] add OSS Scanner audit environment",
-        "url": "https://github.com/celestiaorg/lumina/pull/1132",
-        "repo": "lumina",
-        "author": "mcrakhman",
-        "authorCategory": "coworker",
-        "reviewer": "rootulp",
-        "requestedAt": "2026-10-21T07:24:59Z"
-      },
       {
         "number": 3493,
         "title": "test(crypto): [low] pin ZIP-215 semantics of ed25519 verification",
@@ -529,5 +549,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-10-21T11:58:33.854Z"
+  "fetchedAt": "2026-10-21T12:28:41.447Z"
 }
