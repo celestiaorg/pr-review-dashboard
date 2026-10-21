@@ -42,6 +42,16 @@
         "requestedAt": "2026-10-20T19:12:52Z"
       },
       {
+        "number": 1011,
+        "title": "monitoring(kuma): [low] capture mainnet-archival-1 monitor + fix secret-ref mappings",
+        "url": "https://github.com/celestiaorg/infrastructure/pull/1011",
+        "repo": "infrastructure",
+        "author": "pippokr",
+        "authorCategory": "coworker",
+        "reviewer": "chatton",
+        "requestedAt": "2026-10-21T09:24:00Z"
+      },
+      {
         "number": 3491,
         "title": "build(deps): [high] Bump github.com/prometheus/common from 0.72.0 to 0.72.1",
         "url": "https://github.com/celestiaorg/celestia-core/pull/3491",
@@ -578,5 +588,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-10-21T09:20:46.005Z"
+  "fetchedAt": "2026-10-21T09:35:25.157Z"
 }
