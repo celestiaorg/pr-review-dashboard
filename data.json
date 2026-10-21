@@ -168,16 +168,6 @@
         "requestedAt": "2026-10-21T15:54:11Z"
       },
       {
-        "number": 308,
-        "title": "ci: [low] bump markdown-lint Node.js from EOL 18 to 22.23.4",
-        "url": "https://github.com/celestiaorg/go-square/pull/308",
-        "repo": "go-square",
-        "author": "rootulp",
-        "authorCategory": "coworker",
-        "reviewer": "rach-id",
-        "requestedAt": "2026-10-21T16:11:03Z"
-      },
-      {
         "number": 8277,
         "title": "feat(fibre): [low] add object store connectivity check",
         "url": "https://github.com/celestiaorg/celestia-app/pull/8277",
@@ -409,5 +399,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-10-21T16:44:35.517Z"
+  "fetchedAt": "2026-10-21T16:54:00.975Z"
 }
