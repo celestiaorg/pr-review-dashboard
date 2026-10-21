@@ -383,16 +383,6 @@
         "requestedAt": "2026-09-27T22:02:10Z"
       },
       {
-        "number": 3427,
-        "title": "fix(state): don't hang CreateProposalBlock on a single-CPU machine",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3427",
-        "repo": "celestia-core",
-        "author": "operagxsasha",
-        "authorCategory": "external",
-        "reviewer": "vgonkivs",
-        "requestedAt": "2026-10-03T06:58:50Z"
-      },
-      {
         "number": 5349,
         "title": "fix(state): [medium] normalize nil TxConfig to defaults instead of panicking",
         "url": "https://github.com/celestiaorg/celestia-node/pull/5349",
@@ -539,5 +529,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-10-21T11:43:43.631Z"
+  "fetchedAt": "2026-10-21T11:52:03.751Z"
 }
