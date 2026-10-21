@@ -22,16 +22,6 @@
         "requestedAt": "2026-10-20T19:12:52Z"
       },
       {
-        "number": 1013,
-        "title": "feat: [high] extend alerts for da nodes",
-        "url": "https://github.com/celestiaorg/infrastructure/pull/1013",
-        "repo": "infrastructure",
-        "author": "vgonkivs",
-        "authorCategory": "coworker",
-        "reviewer": "chatton",
-        "requestedAt": "2026-10-21T12:22:37Z"
-      },
-      {
         "number": 3491,
         "title": "build(deps): [high] Bump github.com/prometheus/common from 0.72.0 to 0.72.1",
         "url": "https://github.com/celestiaorg/celestia-core/pull/3491",
@@ -74,16 +64,6 @@
         "requestedAt": "2026-10-08T13:18:27Z"
       },
       {
-        "number": 1013,
-        "title": "feat: [high] extend alerts for da nodes",
-        "url": "https://github.com/celestiaorg/infrastructure/pull/1013",
-        "repo": "infrastructure",
-        "author": "vgonkivs",
-        "authorCategory": "coworker",
-        "reviewer": "pippokr",
-        "requestedAt": "2026-10-21T12:22:37Z"
-      },
-      {
         "number": 5355,
         "title": "chore(deps): [medium] bump the go-deps group across 2 directories with 22 updates",
         "url": "https://github.com/celestiaorg/celestia-node/pull/5355",
@@ -112,16 +92,6 @@
         "authorCategory": "bot",
         "reviewer": "pippokr",
         "requestedAt": "2026-10-20T22:07:42Z"
-      },
-      {
-        "number": 8272,
-        "title": "chore(deps): bump github.com/klauspost/compress from 1.18.0 to 1.18.7 in /tools/scan-blockresults",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/8272",
-        "repo": "celestia-app",
-        "author": "dependabot",
-        "authorCategory": "bot",
-        "reviewer": "pippokr",
-        "requestedAt": "2026-10-21T01:09:45Z"
       }
     ],
     "ninabarbakadze": [
@@ -549,5 +519,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-10-21T12:51:24.445Z"
+  "fetchedAt": "2026-10-21T13:02:27.466Z"
 }
