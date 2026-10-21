@@ -276,18 +276,7 @@
         "requestedAt": "2026-10-18T17:15:55Z"
       }
     ],
-    "rach-id": [
-      {
-        "number": 3484,
-        "title": "test(types): [medium] document BlobTx decoder differences from go-square",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3484",
-        "repo": "celestia-core",
-        "author": "rootulp",
-        "authorCategory": "coworker",
-        "reviewer": "rach-id",
-        "requestedAt": "2026-10-20T23:09:26Z"
-      }
-    ],
+    "rach-id": [],
     "renaynay": [],
     "rootulp": [],
     "vgonkivs": [
@@ -538,5 +527,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-10-21T06:34:01.694Z"
+  "fetchedAt": "2026-10-21T06:58:42.986Z"
 }
