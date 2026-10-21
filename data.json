@@ -285,16 +285,6 @@
     ],
     "theodorebugnet": [
       {
-        "number": 3496,
-        "title": "perf: [medium] hash block txs once at assembly and reuse them in SaveTxInfo and mempool.Update",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3496",
-        "repo": "celestia-core",
-        "author": "rach-id",
-        "authorCategory": "coworker",
-        "reviewer": "theodorebugnet",
-        "requestedAt": "2026-10-21T09:09:47Z"
-      },
-      {
         "number": 8264,
         "title": "chore(deps): [high] bump the go-deps group across 1 directory with 3 updates",
         "url": "https://github.com/celestiaorg/celestia-app/pull/8264",
@@ -399,5 +389,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-10-21T16:54:00.975Z"
+  "fetchedAt": "2026-10-21T17:00:57.172Z"
 }
