@@ -156,18 +156,7 @@
         "requestedAt": "2026-10-18T17:15:55Z"
       }
     ],
-    "rach-id": [
-      {
-        "number": 158,
-        "title": "feat(store): [low] make RollbackToVersion safe to interrupt (#154)",
-        "url": "https://github.com/celestiaorg/cosmos-sdk/pull/158",
-        "repo": "cosmos-sdk",
-        "author": "vgonkivs",
-        "authorCategory": "coworker",
-        "reviewer": "rach-id",
-        "requestedAt": "2026-10-21T21:29:59Z"
-      }
-    ],
+    "rach-id": [],
     "renaynay": [],
     "rootulp": [
       {
@@ -317,16 +306,6 @@
     ],
     "walldiss": [
       {
-        "number": 8286,
-        "title": "perf(app): [medium] stop the blob loop once the PFB cap is full",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/8286",
-        "repo": "celestia-app",
-        "author": "rach-id",
-        "authorCategory": "coworker",
-        "reviewer": "walldiss",
-        "requestedAt": "2026-10-21T20:22:22Z"
-      },
-      {
         "number": 5352,
         "title": "chore(deps): bump golang from 1.26.8-alpine3.23 to 1.27.2-alpine3.23",
         "url": "https://github.com/celestiaorg/celestia-node/pull/5352",
@@ -389,5 +368,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-10-21T21:30:09.255Z"
+  "fetchedAt": "2026-10-21T21:41:47.476Z"
 }
