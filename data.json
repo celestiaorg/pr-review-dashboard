@@ -142,16 +142,6 @@
         "requestedAt": "2026-10-22T14:59:28Z"
       },
       {
-        "number": 8310,
-        "title": "build(deps): [medium] bump cosmos-sdk to v0.53.0 and update dependency branches table",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/8310",
-        "repo": "celestia-app",
-        "author": "rootulp",
-        "authorCategory": "coworker",
-        "reviewer": "vgonkivs",
-        "requestedAt": "2026-10-22T15:43:23Z"
-      },
-      {
         "number": 5360,
         "title": "fix(share/eds): [high] bound proofs cache axis entries",
         "url": "https://github.com/celestiaorg/celestia-node/pull/5360",
@@ -308,5 +298,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-10-22T17:42:30.817Z"
+  "fetchedAt": "2026-10-22T17:49:39.183Z"
 }
