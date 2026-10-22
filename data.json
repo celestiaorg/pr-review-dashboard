@@ -176,40 +176,21 @@
         "authorCategory": "coworker",
         "reviewer": "rach-id",
         "requestedAt": "2026-10-21T22:48:03Z"
-      },
-      {
-        "number": 8295,
-        "title": "feat!: [high] bump app version to 11",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/8295",
-        "repo": "celestia-app",
-        "author": "rootulp",
-        "authorCategory": "coworker",
-        "reviewer": "rach-id",
-        "requestedAt": "2026-10-22T05:17:43Z"
-      },
-      {
-        "number": 8296,
-        "title": "docs(specs): [low] add app version 11 specs",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/8296",
-        "repo": "celestia-app",
-        "author": "rootulp",
-        "authorCategory": "coworker",
-        "reviewer": "rach-id",
-        "requestedAt": "2026-10-22T05:18:04Z"
-      },
-      {
-        "number": 8297,
-        "title": "refactor!: [medium] move Go module path to /v11",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/8297",
-        "repo": "celestia-app",
-        "author": "rootulp",
-        "authorCategory": "coworker",
-        "reviewer": "rach-id",
-        "requestedAt": "2026-10-22T05:19:24Z"
       }
     ],
     "renaynay": [],
-    "rootulp": [],
+    "rootulp": [
+      {
+        "number": 8299,
+        "title": "fix(deps): [high] bump hyperlane-cosmos to v1.3.1 on main",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/8299",
+        "repo": "celestia-app",
+        "author": "rach-id",
+        "authorCategory": "coworker",
+        "reviewer": "rootulp",
+        "requestedAt": "2026-10-22T08:35:47Z"
+      }
+    ],
     "vgonkivs": [
       {
         "number": 8284,
@@ -408,5 +389,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-10-22T08:28:47.708Z"
+  "fetchedAt": "2026-10-22T08:48:36.472Z"
 }
