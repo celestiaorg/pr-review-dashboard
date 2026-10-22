@@ -2,16 +2,6 @@
   "reviews": {
     "chatton": [
       {
-        "number": 8293,
-        "title": "perf(fibre): [high] skip the historical info decode when the validator set is already converted",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/8293",
-        "repo": "celestia-app",
-        "author": "rach-id",
-        "authorCategory": "coworker",
-        "reviewer": "chatton",
-        "requestedAt": "2026-10-22T09:40:33Z"
-      },
-      {
         "number": 3491,
         "title": "build(deps): [high] Bump github.com/prometheus/common from 0.72.0 to 0.72.1",
         "url": "https://github.com/celestiaorg/celestia-core/pull/3491",
@@ -209,6 +199,16 @@
         "authorCategory": "coworker",
         "reviewer": "rootulp",
         "requestedAt": "2026-10-22T09:54:46Z"
+      },
+      {
+        "number": 310,
+        "title": "perf(tx): [high] check the BlobTx type id without copying the tx",
+        "url": "https://github.com/celestiaorg/go-square/pull/310",
+        "repo": "go-square",
+        "author": "rach-id",
+        "authorCategory": "coworker",
+        "reviewer": "rootulp",
+        "requestedAt": "2026-10-22T10:44:31Z"
       }
     ],
     "vgonkivs": [
@@ -419,5 +419,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-10-22T10:43:29.607Z"
+  "fetchedAt": "2026-10-22T10:52:24.987Z"
 }
