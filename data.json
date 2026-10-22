@@ -34,16 +34,6 @@
         "requestedAt": "2026-10-08T13:18:27Z"
       },
       {
-        "number": 5355,
-        "title": "chore(deps): [medium] bump the go-deps group across 2 directories with 22 updates",
-        "url": "https://github.com/celestiaorg/celestia-node/pull/5355",
-        "repo": "celestia-node",
-        "author": "dependabot",
-        "authorCategory": "bot",
-        "reviewer": "pippokr",
-        "requestedAt": "2026-10-19T11:07:26Z"
-      },
-      {
         "number": 8263,
         "title": "chore(deps): [medium] bump the go-deps-docker-e2e group across 1 directory with 2 updates",
         "url": "https://github.com/celestiaorg/celestia-app/pull/8263",
@@ -273,16 +263,6 @@
         "authorCategory": "bot",
         "reviewer": "theodorebugnet",
         "requestedAt": "2026-10-20T14:28:38Z"
-      },
-      {
-        "number": 5348,
-        "title": "state/cmd: reject the wrong address kind instead of panicking",
-        "url": "https://github.com/celestiaorg/celestia-node/pull/5348",
-        "repo": "celestia-node",
-        "author": "Ravan002",
-        "authorCategory": "external",
-        "reviewer": "theodorebugnet",
-        "requestedAt": "2026-10-18T17:17:41Z"
       }
     ],
     "walldiss": [
@@ -349,5 +329,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-10-22T15:51:03.331Z"
+  "fetchedAt": "2026-10-22T15:57:38.249Z"
 }
