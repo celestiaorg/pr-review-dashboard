@@ -22,6 +22,16 @@
         "requestedAt": "2026-10-21T18:40:08Z"
       },
       {
+        "number": 1017,
+        "title": "fix(ci): [medium] point corto deploy legs at the shared stacks",
+        "url": "https://github.com/celestiaorg/infrastructure/pull/1017",
+        "repo": "infrastructure",
+        "author": "pippokr",
+        "authorCategory": "coworker",
+        "reviewer": "chatton",
+        "requestedAt": "2026-10-22T07:58:01Z"
+      },
+      {
         "number": 3491,
         "title": "build(deps): [high] Bump github.com/prometheus/common from 0.72.0 to 0.72.1",
         "url": "https://github.com/celestiaorg/celestia-core/pull/3491",
@@ -418,5 +428,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-10-22T07:53:39.685Z"
+  "fetchedAt": "2026-10-22T08:00:16.937Z"
 }
