@@ -86,16 +86,6 @@
         "requestedAt": "2026-10-17T17:23:13Z"
       },
       {
-        "number": 8174,
-        "title": "perf(rlc): [high] compute RLC with PMULL on arm64",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/8174",
-        "repo": "celestia-app",
-        "author": "walldiss",
-        "authorCategory": "coworker",
-        "reviewer": "ninabarbakadze",
-        "requestedAt": "2026-10-17T17:23:20Z"
-      },
-      {
         "number": 7922,
         "title": "fix: [medium] honor explicit zero node minimum gas price",
         "url": "https://github.com/celestiaorg/celestia-app/pull/7922",
@@ -126,16 +116,6 @@
         "requestedAt": "2026-10-17T17:24:24Z"
       },
       {
-        "number": 7876,
-        "title": "feat: support repeated reads across fibre readers",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7876",
-        "repo": "celestia-app",
-        "author": "walldiss",
-        "authorCategory": "coworker",
-        "reviewer": "ninabarbakadze",
-        "requestedAt": "2026-10-17T17:24:27Z"
-      },
-      {
         "number": 5346,
         "title": "pruner: stop the round when a full batch fails",
         "url": "https://github.com/celestiaorg/celestia-node/pull/5346",
@@ -149,16 +129,6 @@
     "rach-id": [],
     "renaynay": [],
     "rootulp": [
-      {
-        "number": 8293,
-        "title": "perf(fibre): [high] skip the historical info decode when the validator set is already converted",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/8293",
-        "repo": "celestia-app",
-        "author": "rach-id",
-        "authorCategory": "coworker",
-        "reviewer": "rootulp",
-        "requestedAt": "2026-10-22T09:40:42Z"
-      },
       {
         "number": 8285,
         "title": "fix(app): [high] stop the PayForFibre candidate bound from starving valid txs",
@@ -210,16 +180,6 @@
         "authorCategory": "coworker",
         "reviewer": "vgonkivs",
         "requestedAt": "2026-10-21T17:48:46Z"
-      },
-      {
-        "number": 8292,
-        "title": "perf(fibre): [high] check historical info existence without decoding on the PFF sig-cache hit path",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/8292",
-        "repo": "celestia-app",
-        "author": "rach-id",
-        "authorCategory": "coworker",
-        "reviewer": "vgonkivs",
-        "requestedAt": "2026-10-22T09:39:38Z"
       },
       {
         "number": 1139,
@@ -290,16 +250,6 @@
         "authorCategory": "external",
         "reviewer": "vgonkivs",
         "requestedAt": "2026-08-28T19:04:55Z"
-      },
-      {
-        "number": 417,
-        "title": "ci: run tests with race detector",
-        "url": "https://github.com/celestiaorg/go-header/pull/417",
-        "repo": "go-header",
-        "author": "loglapa",
-        "authorCategory": "external",
-        "reviewer": "vgonkivs",
-        "requestedAt": "2026-09-27T22:02:10Z"
       }
     ],
     "theodorebugnet": [
@@ -354,26 +304,6 @@
         "authorCategory": "coworker",
         "reviewer": "walldiss",
         "requestedAt": "2026-10-22T09:54:40Z"
-      },
-      {
-        "number": 5352,
-        "title": "chore(deps): bump golang from 1.26.8-alpine3.23 to 1.27.2-alpine3.23",
-        "url": "https://github.com/celestiaorg/celestia-node/pull/5352",
-        "repo": "celestia-node",
-        "author": "dependabot",
-        "authorCategory": "bot",
-        "reviewer": "walldiss",
-        "requestedAt": "2026-10-19T11:03:33Z"
-      },
-      {
-        "number": 904,
-        "title": "chore(deps): bump keccak from 0.1.5 to 0.1.6 in the cargo group across 1 directory",
-        "url": "https://github.com/celestiaorg/lumina/pull/904",
-        "repo": "lumina",
-        "author": "dependabot",
-        "authorCategory": "bot",
-        "reviewer": "walldiss",
-        "requestedAt": "2026-10-22T14:52:29Z"
       }
     ]
   },
@@ -428,5 +358,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-10-22T15:11:53.168Z"
+  "fetchedAt": "2026-10-22T15:28:32.535Z"
 }
