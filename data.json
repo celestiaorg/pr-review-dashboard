@@ -96,18 +96,7 @@
         "requestedAt": "2026-10-18T17:15:55Z"
       }
     ],
-    "rach-id": [
-      {
-        "number": 8310,
-        "title": "build(deps): [medium] bump cosmos-sdk to v0.53.0 and update dependency branches table",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/8310",
-        "repo": "celestia-app",
-        "author": "rootulp",
-        "authorCategory": "coworker",
-        "reviewer": "rach-id",
-        "requestedAt": "2026-10-22T15:43:23Z"
-      }
-    ],
+    "rach-id": [],
     "renaynay": [],
     "rootulp": [
       {
@@ -319,5 +308,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-10-22T17:20:52.898Z"
+  "fetchedAt": "2026-10-22T17:32:35.672Z"
 }
