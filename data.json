@@ -178,26 +178,6 @@
         "requestedAt": "2026-10-21T22:48:03Z"
       },
       {
-        "number": 8271,
-        "title": "fix(valaddr)!: [high] require bonded provider registration",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/8271",
-        "repo": "celestia-app",
-        "author": "rootulp",
-        "authorCategory": "coworker",
-        "reviewer": "rach-id",
-        "requestedAt": "2026-10-21T22:49:24Z"
-      },
-      {
-        "number": 8269,
-        "title": "fix!: [high] bound per-block proof work",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/8269",
-        "repo": "celestia-app",
-        "author": "rootulp",
-        "authorCategory": "coworker",
-        "reviewer": "rach-id",
-        "requestedAt": "2026-10-21T23:03:57Z"
-      },
-      {
         "number": 8295,
         "title": "feat!: [high] bump app version to 11",
         "url": "https://github.com/celestiaorg/celestia-app/pull/8295",
@@ -428,5 +408,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-10-22T08:00:16.937Z"
+  "fetchedAt": "2026-10-22T08:28:47.708Z"
 }
