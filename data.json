@@ -32,16 +32,6 @@
         "requestedAt": "2026-10-22T09:40:33Z"
       },
       {
-        "number": 1021,
-        "title": "feat(agents): [medium] report merge-dispatched deploys in Slack",
-        "url": "https://github.com/celestiaorg/infrastructure/pull/1021",
-        "repo": "infrastructure",
-        "author": "pippokr",
-        "authorCategory": "coworker",
-        "reviewer": "chatton",
-        "requestedAt": "2026-10-22T09:44:34Z"
-      },
-      {
         "number": 3491,
         "title": "build(deps): [high] Bump github.com/prometheus/common from 0.72.0 to 0.72.1",
         "url": "https://github.com/celestiaorg/celestia-core/pull/3491",
@@ -176,7 +166,18 @@
         "requestedAt": "2026-10-18T17:15:55Z"
       }
     ],
-    "rach-id": [],
+    "rach-id": [
+      {
+        "number": 8302,
+        "title": "feat(cmd): [low] roll back celestia app to a target height",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/8302",
+        "repo": "celestia-app",
+        "author": "vgonkivs",
+        "authorCategory": "coworker",
+        "reviewer": "rach-id",
+        "requestedAt": "2026-10-22T09:54:58Z"
+      }
+    ],
     "renaynay": [],
     "rootulp": [
       {
@@ -208,6 +209,16 @@
         "authorCategory": "coworker",
         "reviewer": "rootulp",
         "requestedAt": "2026-10-22T09:40:42Z"
+      },
+      {
+        "number": 8285,
+        "title": "fix(app): [high] stop the PayForFibre candidate bound from starving valid txs",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/8285",
+        "repo": "celestia-app",
+        "author": "rach-id",
+        "authorCategory": "coworker",
+        "reviewer": "rootulp",
+        "requestedAt": "2026-10-22T09:54:46Z"
       }
     ],
     "vgonkivs": [
@@ -356,6 +367,16 @@
     ],
     "walldiss": [
       {
+        "number": 8285,
+        "title": "fix(app): [high] stop the PayForFibre candidate bound from starving valid txs",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/8285",
+        "repo": "celestia-app",
+        "author": "rach-id",
+        "authorCategory": "coworker",
+        "reviewer": "walldiss",
+        "requestedAt": "2026-10-22T09:54:40Z"
+      },
+      {
         "number": 5352,
         "title": "chore(deps): bump golang from 1.26.8-alpine3.23 to 1.27.2-alpine3.23",
         "url": "https://github.com/celestiaorg/celestia-node/pull/5352",
@@ -418,5 +439,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-10-22T09:48:38.846Z"
+  "fetchedAt": "2026-10-22T09:57:35.433Z"
 }
