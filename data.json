@@ -86,18 +86,7 @@
         "requestedAt": "2026-10-18T17:15:55Z"
       }
     ],
-    "rach-id": [
-      {
-        "number": 3500,
-        "title": "fix(types)!: [high] bound block transaction cardinality",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3500",
-        "repo": "celestia-core",
-        "author": "rootulp",
-        "authorCategory": "coworker",
-        "reviewer": "rach-id",
-        "requestedAt": "2026-10-22T22:37:07Z"
-      }
-    ],
+    "rach-id": [],
     "renaynay": [],
     "rootulp": [],
     "vgonkivs": [
@@ -120,16 +109,6 @@
         "authorCategory": "coworker",
         "reviewer": "vgonkivs",
         "requestedAt": "2026-10-22T16:19:35Z"
-      },
-      {
-        "number": 3501,
-        "title": "fix(p2p): [high] reject weak Ed25519 peer identity keys",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3501",
-        "repo": "celestia-core",
-        "author": "rootulp",
-        "authorCategory": "coworker",
-        "reviewer": "vgonkivs",
-        "requestedAt": "2026-10-22T22:39:55Z"
       },
       {
         "number": 583,
@@ -257,5 +236,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-10-22T22:41:05.929Z"
+  "fetchedAt": "2026-10-22T22:48:00.772Z"
 }
