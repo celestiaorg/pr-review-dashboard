@@ -116,7 +116,18 @@
         "requestedAt": "2026-10-18T17:15:55Z"
       }
     ],
-    "rach-id": [],
+    "rach-id": [
+      {
+        "number": 8310,
+        "title": "docs: [low] update dependency branches table for v10.x and main",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/8310",
+        "repo": "celestia-app",
+        "author": "rootulp",
+        "authorCategory": "coworker",
+        "reviewer": "rach-id",
+        "requestedAt": "2026-10-22T15:43:23Z"
+      }
+    ],
     "renaynay": [],
     "rootulp": [
       {
@@ -160,6 +171,16 @@
         "authorCategory": "coworker",
         "reviewer": "vgonkivs",
         "requestedAt": "2026-10-22T14:59:28Z"
+      },
+      {
+        "number": 8310,
+        "title": "docs: [low] update dependency branches table for v10.x and main",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/8310",
+        "repo": "celestia-app",
+        "author": "rootulp",
+        "authorCategory": "coworker",
+        "reviewer": "vgonkivs",
+        "requestedAt": "2026-10-22T15:43:23Z"
       },
       {
         "number": 583,
@@ -328,5 +349,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-10-22T15:42:36.910Z"
+  "fetchedAt": "2026-10-22T15:51:03.331Z"
 }
