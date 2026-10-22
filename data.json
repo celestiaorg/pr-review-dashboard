@@ -172,6 +172,16 @@
     ],
     "vgonkivs": [
       {
+        "number": 122,
+        "title": "feat(slo): [high] add BroadcastTx outcome and latency metrics",
+        "url": "https://github.com/celestiaorg/da-proxy/pull/122",
+        "repo": "da-proxy",
+        "author": "chatton",
+        "authorCategory": "coworker",
+        "reviewer": "vgonkivs",
+        "requestedAt": "2026-10-21T13:12:39Z"
+      },
+      {
         "number": 8284,
         "title": "test(app): [low] cover ProcessProposal certificate pass panics",
         "url": "https://github.com/celestiaorg/celestia-app/pull/8284",
@@ -368,5 +378,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-10-22T08:58:11.373Z"
+  "fetchedAt": "2026-10-22T09:20:51.990Z"
 }
