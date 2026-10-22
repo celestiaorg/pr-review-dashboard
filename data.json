@@ -186,6 +186,36 @@
         "authorCategory": "coworker",
         "reviewer": "rach-id",
         "requestedAt": "2026-10-21T23:03:57Z"
+      },
+      {
+        "number": 8295,
+        "title": "feat!: [high] bump app version to 11",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/8295",
+        "repo": "celestia-app",
+        "author": "rootulp",
+        "authorCategory": "coworker",
+        "reviewer": "rach-id",
+        "requestedAt": "2026-10-22T05:17:43Z"
+      },
+      {
+        "number": 8296,
+        "title": "docs(specs): [low] add app version 11 specs",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/8296",
+        "repo": "celestia-app",
+        "author": "rootulp",
+        "authorCategory": "coworker",
+        "reviewer": "rach-id",
+        "requestedAt": "2026-10-22T05:18:04Z"
+      },
+      {
+        "number": 8297,
+        "title": "refactor!: [medium] move Go module path to /v11",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/8297",
+        "repo": "celestia-app",
+        "author": "rootulp",
+        "authorCategory": "coworker",
+        "reviewer": "rach-id",
+        "requestedAt": "2026-10-22T05:19:24Z"
       }
     ],
     "renaynay": [],
@@ -388,5 +418,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-10-22T05:16:11.005Z"
+  "fetchedAt": "2026-10-22T05:31:30.932Z"
 }
