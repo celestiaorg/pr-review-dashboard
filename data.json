@@ -1,6 +1,17 @@
 {
   "reviews": {
-    "chatton": [],
+    "chatton": [
+      {
+        "number": 1090,
+        "title": "fix(grpc): wait for tx commited height to be visible via query",
+        "url": "https://github.com/celestiaorg/lumina/pull/1090",
+        "repo": "lumina",
+        "author": "citizen-stig",
+        "authorCategory": "coworker",
+        "reviewer": "chatton",
+        "requestedAt": "2026-10-22T14:52:29Z"
+      }
+    ],
     "pippokr": [
       {
         "number": 939,
@@ -41,6 +52,16 @@
         "authorCategory": "bot",
         "reviewer": "pippokr",
         "requestedAt": "2026-10-20T14:28:28Z"
+      },
+      {
+        "number": 700,
+        "title": "feat: implement intoHeight trait",
+        "url": "https://github.com/celestiaorg/lumina/pull/700",
+        "repo": "lumina",
+        "author": "varun-doshi",
+        "authorCategory": "external",
+        "reviewer": "pippokr",
+        "requestedAt": "2026-10-22T14:52:30Z"
       }
     ],
     "ninabarbakadze": [
@@ -167,6 +188,16 @@
         "authorCategory": "coworker",
         "reviewer": "rootulp",
         "requestedAt": "2026-10-22T10:55:02Z"
+      },
+      {
+        "number": 939,
+        "title": "Export RawGetRowResponse",
+        "url": "https://github.com/celestiaorg/lumina/pull/939",
+        "repo": "lumina",
+        "author": "Ferret-san",
+        "authorCategory": "coworker",
+        "reviewer": "rootulp",
+        "requestedAt": "2026-10-22T14:52:29Z"
       }
     ],
     "vgonkivs": [
@@ -313,6 +344,16 @@
         "authorCategory": "bot",
         "reviewer": "walldiss",
         "requestedAt": "2026-10-19T11:03:33Z"
+      },
+      {
+        "number": 904,
+        "title": "chore(deps): bump keccak from 0.1.5 to 0.1.6 in the cargo group across 1 directory",
+        "url": "https://github.com/celestiaorg/lumina/pull/904",
+        "repo": "lumina",
+        "author": "dependabot",
+        "authorCategory": "bot",
+        "reviewer": "walldiss",
+        "requestedAt": "2026-10-22T14:52:29Z"
       }
     ]
   },
@@ -367,5 +408,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-10-22T14:48:18.040Z"
+  "fetchedAt": "2026-10-22T14:56:21.650Z"
 }
