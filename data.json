@@ -2,16 +2,6 @@
   "reviews": {
     "chatton": [
       {
-        "number": 1025,
-        "title": "feat(websites): [high] two-container Discourse + DEV1-L resize for near-zero-downtime rebuilds",
-        "url": "https://github.com/celestiaorg/infrastructure/pull/1025",
-        "repo": "infrastructure",
-        "author": "pippokr",
-        "authorCategory": "coworker",
-        "reviewer": "chatton",
-        "requestedAt": "2026-10-22T10:59:32Z"
-      },
-      {
         "number": 1024,
         "title": "feat(ci): [low] weekly discourse/base image check with tracking PR",
         "url": "https://github.com/celestiaorg/infrastructure/pull/1024",
@@ -20,16 +10,6 @@
         "authorCategory": "coworker",
         "reviewer": "chatton",
         "requestedAt": "2026-10-22T13:42:32Z"
-      },
-      {
-        "number": 1028,
-        "title": "fix(ci): [medium] mocha app deploys also roll the fibre binary",
-        "url": "https://github.com/celestiaorg/infrastructure/pull/1028",
-        "repo": "infrastructure",
-        "author": "pippokr",
-        "authorCategory": "coworker",
-        "reviewer": "chatton",
-        "requestedAt": "2026-10-22T13:51:07Z"
       },
       {
         "number": 3491,
@@ -231,7 +211,7 @@
       },
       {
         "number": 1035,
-        "title": "chore(ci): scope Dependabot npm updates and refresh the root lockfile",
+        "title": "chore(ci): [low] scope Dependabot npm updates and refresh the root lockfile",
         "url": "https://github.com/celestiaorg/lumina/pull/1035",
         "repo": "lumina",
         "author": "citizen-stig",
@@ -468,5 +448,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-10-22T13:55:10.314Z"
+  "fetchedAt": "2026-10-22T14:06:00.561Z"
 }
