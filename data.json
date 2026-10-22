@@ -2,6 +2,16 @@
   "reviews": {
     "chatton": [
       {
+        "number": 1025,
+        "title": "feat(websites): [high] two-container Discourse + DEV1-L resize for near-zero-downtime rebuilds",
+        "url": "https://github.com/celestiaorg/infrastructure/pull/1025",
+        "repo": "infrastructure",
+        "author": "pippokr",
+        "authorCategory": "coworker",
+        "reviewer": "chatton",
+        "requestedAt": "2026-10-22T10:59:32Z"
+      },
+      {
         "number": 3491,
         "title": "build(deps): [high] Bump github.com/prometheus/common from 0.72.0 to 0.72.1",
         "url": "https://github.com/celestiaorg/celestia-core/pull/3491",
@@ -222,16 +232,6 @@
     ],
     "vgonkivs": [
       {
-        "number": 122,
-        "title": "feat(slo): [high] add BroadcastTx outcome and latency metrics",
-        "url": "https://github.com/celestiaorg/da-proxy/pull/122",
-        "repo": "da-proxy",
-        "author": "chatton",
-        "authorCategory": "coworker",
-        "reviewer": "vgonkivs",
-        "requestedAt": "2026-10-21T13:12:39Z"
-      },
-      {
         "number": 8284,
         "title": "test(app): [low] cover ProcessProposal certificate pass panics",
         "url": "https://github.com/celestiaorg/celestia-app/pull/8284",
@@ -438,5 +438,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-10-22T10:58:57.074Z"
+  "fetchedAt": "2026-10-22T11:18:14.821Z"
 }
