@@ -88,7 +88,18 @@
     ],
     "rach-id": [],
     "renaynay": [],
-    "rootulp": [],
+    "rootulp": [
+      {
+        "number": 8287,
+        "title": "refactor(fibre): [low] simplify the merged pay-for-fibre perf stack",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/8287",
+        "repo": "celestia-app",
+        "author": "rach-id",
+        "authorCategory": "coworker",
+        "reviewer": "rootulp",
+        "requestedAt": "2026-10-22T22:04:04Z"
+      }
+    ],
     "vgonkivs": [
       {
         "number": 8284,
@@ -163,6 +174,16 @@
     ],
     "theodorebugnet": [
       {
+        "number": 8287,
+        "title": "refactor(fibre): [low] simplify the merged pay-for-fibre perf stack",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/8287",
+        "repo": "celestia-app",
+        "author": "rach-id",
+        "authorCategory": "coworker",
+        "reviewer": "theodorebugnet",
+        "requestedAt": "2026-10-22T22:03:57Z"
+      },
+      {
         "number": 8264,
         "title": "chore(deps): [high] bump the go-deps group across 1 directory with 3 updates",
         "url": "https://github.com/celestiaorg/celestia-app/pull/8264",
@@ -226,5 +247,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-10-22T21:55:56.694Z"
+  "fetchedAt": "2026-10-22T22:08:51.688Z"
 }
