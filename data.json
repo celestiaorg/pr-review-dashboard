@@ -146,18 +146,7 @@
         "requestedAt": "2026-10-18T17:15:55Z"
       }
     ],
-    "rach-id": [
-      {
-        "number": 8302,
-        "title": "feat(cmd): [low] roll back celestia app to a target height",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/8302",
-        "repo": "celestia-app",
-        "author": "vgonkivs",
-        "authorCategory": "coworker",
-        "reviewer": "rach-id",
-        "requestedAt": "2026-10-22T09:54:58Z"
-      }
-    ],
+    "rach-id": [],
     "renaynay": [],
     "rootulp": [
       {
@@ -209,6 +198,26 @@
         "authorCategory": "coworker",
         "reviewer": "rootulp",
         "requestedAt": "2026-10-22T10:44:31Z"
+      },
+      {
+        "number": 1035,
+        "title": "chore(ci): scope Dependabot npm updates and refresh the root lockfile",
+        "url": "https://github.com/celestiaorg/lumina/pull/1035",
+        "repo": "lumina",
+        "author": "citizen-stig",
+        "authorCategory": "coworker",
+        "reviewer": "rootulp",
+        "requestedAt": "2026-10-22T10:54:38Z"
+      },
+      {
+        "number": 8301,
+        "title": "perf(app): [medium] classify reaped txs without decoding and decode blob txs lazily in Fill",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/8301",
+        "repo": "celestia-app",
+        "author": "rach-id",
+        "authorCategory": "coworker",
+        "reviewer": "rootulp",
+        "requestedAt": "2026-10-22T10:55:02Z"
       }
     ],
     "vgonkivs": [
@@ -325,6 +334,16 @@
     ],
     "theodorebugnet": [
       {
+        "number": 8301,
+        "title": "perf(app): [medium] classify reaped txs without decoding and decode blob txs lazily in Fill",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/8301",
+        "repo": "celestia-app",
+        "author": "rach-id",
+        "authorCategory": "coworker",
+        "reviewer": "theodorebugnet",
+        "requestedAt": "2026-10-22T10:54:54Z"
+      },
+      {
         "number": 8264,
         "title": "chore(deps): [high] bump the go-deps group across 1 directory with 3 updates",
         "url": "https://github.com/celestiaorg/celestia-app/pull/8264",
@@ -419,5 +438,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-10-22T10:52:24.987Z"
+  "fetchedAt": "2026-10-22T10:58:57.074Z"
 }
