@@ -173,16 +173,6 @@
         "requestedAt": "2026-10-22T10:54:54Z"
       },
       {
-        "number": 1138,
-        "title": "chore(deps): [low] bump rand to 0.8.8 and 0.9.5",
-        "url": "https://github.com/celestiaorg/lumina/pull/1138",
-        "repo": "lumina",
-        "author": "citizen-stig",
-        "authorCategory": "coworker",
-        "reviewer": "theodorebugnet",
-        "requestedAt": "2026-10-22T14:59:23Z"
-      },
-      {
         "number": 8264,
         "title": "chore(deps): [high] bump the go-deps group across 1 directory with 3 updates",
         "url": "https://github.com/celestiaorg/celestia-app/pull/8264",
@@ -246,5 +236,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-10-22T19:57:03.106Z"
+  "fetchedAt": "2026-10-22T20:14:11.857Z"
 }
