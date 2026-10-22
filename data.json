@@ -86,20 +86,20 @@
         "requestedAt": "2026-10-18T17:15:55Z"
       }
     ],
-    "rach-id": [],
-    "renaynay": [],
-    "rootulp": [
+    "rach-id": [
       {
-        "number": 8287,
-        "title": "refactor(fibre): [low] simplify the merged pay-for-fibre perf stack",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/8287",
-        "repo": "celestia-app",
-        "author": "rach-id",
+        "number": 3500,
+        "title": "fix(types)!: [high] bound block transaction cardinality",
+        "url": "https://github.com/celestiaorg/celestia-core/pull/3500",
+        "repo": "celestia-core",
+        "author": "rootulp",
         "authorCategory": "coworker",
-        "reviewer": "rootulp",
-        "requestedAt": "2026-10-22T22:04:04Z"
+        "reviewer": "rach-id",
+        "requestedAt": "2026-10-22T22:37:07Z"
       }
     ],
+    "renaynay": [],
+    "rootulp": [],
     "vgonkivs": [
       {
         "number": 8284,
@@ -120,6 +120,16 @@
         "authorCategory": "coworker",
         "reviewer": "vgonkivs",
         "requestedAt": "2026-10-22T16:19:35Z"
+      },
+      {
+        "number": 3501,
+        "title": "fix(p2p): [high] reject weak Ed25519 peer identity keys",
+        "url": "https://github.com/celestiaorg/celestia-core/pull/3501",
+        "repo": "celestia-core",
+        "author": "rootulp",
+        "authorCategory": "coworker",
+        "reviewer": "vgonkivs",
+        "requestedAt": "2026-10-22T22:39:55Z"
       },
       {
         "number": 583,
@@ -247,5 +257,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-10-22T22:31:06.881Z"
+  "fetchedAt": "2026-10-22T22:41:05.929Z"
 }
