@@ -34,16 +34,6 @@
         "requestedAt": "2026-10-08T13:18:27Z"
       },
       {
-        "number": 8263,
-        "title": "chore(deps): [medium] bump the go-deps-docker-e2e group across 1 directory with 2 updates",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/8263",
-        "repo": "celestia-app",
-        "author": "dependabot",
-        "authorCategory": "bot",
-        "reviewer": "pippokr",
-        "requestedAt": "2026-10-20T14:28:28Z"
-      },
-      {
         "number": 700,
         "title": "feat: implement intoHeight trait",
         "url": "https://github.com/celestiaorg/lumina/pull/700",
@@ -173,6 +163,16 @@
         "requestedAt": "2026-10-22T15:43:23Z"
       },
       {
+        "number": 5360,
+        "title": "fix(share/eds): [high] bound proofs cache axis entries",
+        "url": "https://github.com/celestiaorg/celestia-node/pull/5360",
+        "repo": "celestia-node",
+        "author": "rootulp",
+        "authorCategory": "coworker",
+        "reviewer": "vgonkivs",
+        "requestedAt": "2026-10-22T16:19:35Z"
+      },
+      {
         "number": 583,
         "title": "chore(peers): refresh mocha-5 peers",
         "url": "https://github.com/celestiaorg/networks/pull/583",
@@ -181,16 +181,6 @@
         "authorCategory": "bot",
         "reviewer": "vgonkivs",
         "requestedAt": "2026-10-19T00:16:06Z"
-      },
-      {
-        "number": 8243,
-        "title": "chore(deps): [medium] bump the github-actions group across 1 directory with 3 updates",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/8243",
-        "repo": "celestia-app",
-        "author": "dependabot",
-        "authorCategory": "bot",
-        "reviewer": "vgonkivs",
-        "requestedAt": "2026-10-19T09:43:04Z"
       },
       {
         "number": 8266,
@@ -329,5 +319,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-10-22T15:57:38.249Z"
+  "fetchedAt": "2026-10-22T16:20:14.892Z"
 }
