@@ -99,7 +99,7 @@
     "rach-id": [
       {
         "number": 8310,
-        "title": "docs: [low] update dependency branches table for v10.x and main",
+        "title": "build(deps): [medium] bump cosmos-sdk to v0.53.0 and update dependency branches table",
         "url": "https://github.com/celestiaorg/celestia-app/pull/8310",
         "repo": "celestia-app",
         "author": "rootulp",
@@ -154,7 +154,7 @@
       },
       {
         "number": 8310,
-        "title": "docs: [low] update dependency branches table for v10.x and main",
+        "title": "build(deps): [medium] bump cosmos-sdk to v0.53.0 and update dependency branches table",
         "url": "https://github.com/celestiaorg/celestia-app/pull/8310",
         "repo": "celestia-app",
         "author": "rootulp",
@@ -319,5 +319,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-10-22T16:36:02.707Z"
+  "fetchedAt": "2026-10-22T16:47:35.070Z"
 }
