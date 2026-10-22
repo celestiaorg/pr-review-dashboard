@@ -10,16 +10,6 @@
         "authorCategory": "coworker",
         "reviewer": "chatton",
         "requestedAt": "2026-10-22T14:52:29Z"
-      },
-      {
-        "number": 1137,
-        "title": "chore(deps): [high] bump quinn-proto to 0.11.19",
-        "url": "https://github.com/celestiaorg/lumina/pull/1137",
-        "repo": "lumina",
-        "author": "citizen-stig",
-        "authorCategory": "coworker",
-        "reviewer": "chatton",
-        "requestedAt": "2026-10-22T14:59:57Z"
       }
     ],
     "pippokr": [
@@ -98,28 +88,7 @@
     ],
     "rach-id": [],
     "renaynay": [],
-    "rootulp": [
-      {
-        "number": 8285,
-        "title": "fix(app): [high] stop the PayForFibre candidate bound from starving valid txs",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/8285",
-        "repo": "celestia-app",
-        "author": "rach-id",
-        "authorCategory": "coworker",
-        "reviewer": "rootulp",
-        "requestedAt": "2026-10-22T09:54:46Z"
-      },
-      {
-        "number": 8301,
-        "title": "perf(app): [medium] classify reaped txs without decoding and decode blob txs lazily in Fill",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/8301",
-        "repo": "celestia-app",
-        "author": "rach-id",
-        "authorCategory": "coworker",
-        "reviewer": "rootulp",
-        "requestedAt": "2026-10-22T10:55:02Z"
-      }
-    ],
+    "rootulp": [],
     "vgonkivs": [
       {
         "number": 8284,
@@ -130,16 +99,6 @@
         "authorCategory": "coworker",
         "reviewer": "vgonkivs",
         "requestedAt": "2026-10-21T17:48:46Z"
-      },
-      {
-        "number": 1139,
-        "title": "chore(deps): [high] bump aws-lc-sys to 0.46.0",
-        "url": "https://github.com/celestiaorg/lumina/pull/1139",
-        "repo": "lumina",
-        "author": "citizen-stig",
-        "authorCategory": "coworker",
-        "reviewer": "vgonkivs",
-        "requestedAt": "2026-10-22T14:59:28Z"
       },
       {
         "number": 5360,
@@ -298,5 +257,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-10-22T18:12:36.950Z"
+  "fetchedAt": "2026-10-22T18:31:24.765Z"
 }
