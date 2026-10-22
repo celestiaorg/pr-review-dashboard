@@ -12,6 +12,16 @@
         "requestedAt": "2026-10-22T10:59:32Z"
       },
       {
+        "number": 1024,
+        "title": "feat(ci): [low] weekly discourse/base image check with tracking PR",
+        "url": "https://github.com/celestiaorg/infrastructure/pull/1024",
+        "repo": "infrastructure",
+        "author": "pippokr",
+        "authorCategory": "coworker",
+        "reviewer": "chatton",
+        "requestedAt": "2026-10-22T13:42:32Z"
+      },
+      {
         "number": 3491,
         "title": "build(deps): [high] Bump github.com/prometheus/common from 0.72.0 to 0.72.1",
         "url": "https://github.com/celestiaorg/celestia-core/pull/3491",
@@ -156,18 +166,7 @@
         "requestedAt": "2026-10-18T17:15:55Z"
       }
     ],
-    "rach-id": [
-      {
-        "number": 8305,
-        "title": "feat(scripts): [low] add validator recovery script with rollback mode",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/8305",
-        "repo": "celestia-app",
-        "author": "vgonkivs",
-        "authorCategory": "coworker",
-        "reviewer": "rach-id",
-        "requestedAt": "2026-10-22T12:46:52Z"
-      }
-    ],
+    "rach-id": [],
     "renaynay": [],
     "rootulp": [
       {
@@ -459,5 +458,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-10-22T13:36:53.154Z"
+  "fetchedAt": "2026-10-22T13:47:24.963Z"
 }
