@@ -10,6 +10,16 @@
         "authorCategory": "coworker",
         "reviewer": "chatton",
         "requestedAt": "2026-10-22T14:52:29Z"
+      },
+      {
+        "number": 1137,
+        "title": "chore(deps): [high] bump quinn-proto to 0.11.19",
+        "url": "https://github.com/celestiaorg/lumina/pull/1137",
+        "repo": "lumina",
+        "author": "citizen-stig",
+        "authorCategory": "coworker",
+        "reviewer": "chatton",
+        "requestedAt": "2026-10-22T14:59:57Z"
       }
     ],
     "pippokr": [
@@ -22,16 +32,6 @@
         "authorCategory": "coworker",
         "reviewer": "pippokr",
         "requestedAt": "2026-10-08T13:18:27Z"
-      },
-      {
-        "number": 310,
-        "title": "perf(tx): [high] check the BlobTx type id without copying the tx",
-        "url": "https://github.com/celestiaorg/go-square/pull/310",
-        "repo": "go-square",
-        "author": "rach-id",
-        "authorCategory": "coworker",
-        "reviewer": "pippokr",
-        "requestedAt": "2026-10-22T10:41:19Z"
       },
       {
         "number": 5355,
@@ -170,16 +170,6 @@
         "requestedAt": "2026-10-22T09:54:46Z"
       },
       {
-        "number": 310,
-        "title": "perf(tx): [high] check the BlobTx type id without copying the tx",
-        "url": "https://github.com/celestiaorg/go-square/pull/310",
-        "repo": "go-square",
-        "author": "rach-id",
-        "authorCategory": "coworker",
-        "reviewer": "rootulp",
-        "requestedAt": "2026-10-22T10:44:31Z"
-      },
-      {
         "number": 8301,
         "title": "perf(app): [medium] classify reaped txs without decoding and decode blob txs lazily in Fill",
         "url": "https://github.com/celestiaorg/celestia-app/pull/8301",
@@ -198,6 +188,16 @@
         "authorCategory": "coworker",
         "reviewer": "rootulp",
         "requestedAt": "2026-10-22T14:52:29Z"
+      },
+      {
+        "number": 1140,
+        "title": "chore(deps): [high] bump rustls-webpki to 0.103.16",
+        "url": "https://github.com/celestiaorg/lumina/pull/1140",
+        "repo": "lumina",
+        "author": "citizen-stig",
+        "authorCategory": "coworker",
+        "reviewer": "rootulp",
+        "requestedAt": "2026-10-22T14:59:51Z"
       }
     ],
     "vgonkivs": [
@@ -220,6 +220,16 @@
         "authorCategory": "coworker",
         "reviewer": "vgonkivs",
         "requestedAt": "2026-10-22T09:39:38Z"
+      },
+      {
+        "number": 1139,
+        "title": "chore(deps): [high] bump aws-lc-sys to 0.46.0",
+        "url": "https://github.com/celestiaorg/lumina/pull/1139",
+        "repo": "lumina",
+        "author": "citizen-stig",
+        "authorCategory": "coworker",
+        "reviewer": "vgonkivs",
+        "requestedAt": "2026-10-22T14:59:28Z"
       },
       {
         "number": 583,
@@ -302,6 +312,16 @@
         "authorCategory": "coworker",
         "reviewer": "theodorebugnet",
         "requestedAt": "2026-10-22T10:54:54Z"
+      },
+      {
+        "number": 1138,
+        "title": "chore(deps): [low] bump rand to 0.8.8 and 0.9.5",
+        "url": "https://github.com/celestiaorg/lumina/pull/1138",
+        "repo": "lumina",
+        "author": "citizen-stig",
+        "authorCategory": "coworker",
+        "reviewer": "theodorebugnet",
+        "requestedAt": "2026-10-22T14:59:23Z"
       },
       {
         "number": 8264,
@@ -408,5 +428,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-10-22T14:56:21.650Z"
+  "fetchedAt": "2026-10-22T15:11:53.168Z"
 }
