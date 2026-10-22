@@ -22,6 +22,26 @@
         "requestedAt": "2026-10-21T18:40:08Z"
       },
       {
+        "number": 8293,
+        "title": "perf(fibre): [high] skip the historical info decode when the validator set is already converted",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/8293",
+        "repo": "celestia-app",
+        "author": "rach-id",
+        "authorCategory": "coworker",
+        "reviewer": "chatton",
+        "requestedAt": "2026-10-22T09:40:33Z"
+      },
+      {
+        "number": 1021,
+        "title": "feat(agents): [medium] report merge-dispatched deploys in Slack",
+        "url": "https://github.com/celestiaorg/infrastructure/pull/1021",
+        "repo": "infrastructure",
+        "author": "pippokr",
+        "authorCategory": "coworker",
+        "reviewer": "chatton",
+        "requestedAt": "2026-10-22T09:44:34Z"
+      },
+      {
         "number": 3491,
         "title": "build(deps): [high] Bump github.com/prometheus/common from 0.72.0 to 0.72.1",
         "url": "https://github.com/celestiaorg/celestia-core/pull/3491",
@@ -168,6 +188,26 @@
         "authorCategory": "coworker",
         "reviewer": "rootulp",
         "requestedAt": "2026-10-22T08:35:47Z"
+      },
+      {
+        "number": 8292,
+        "title": "perf(fibre): [high] check historical info existence without decoding on the PFF sig-cache hit path",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/8292",
+        "repo": "celestia-app",
+        "author": "rach-id",
+        "authorCategory": "coworker",
+        "reviewer": "rootulp",
+        "requestedAt": "2026-10-22T09:39:44Z"
+      },
+      {
+        "number": 8293,
+        "title": "perf(fibre): [high] skip the historical info decode when the validator set is already converted",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/8293",
+        "repo": "celestia-app",
+        "author": "rach-id",
+        "authorCategory": "coworker",
+        "reviewer": "rootulp",
+        "requestedAt": "2026-10-22T09:40:42Z"
       }
     ],
     "vgonkivs": [
@@ -200,6 +240,16 @@
         "authorCategory": "coworker",
         "reviewer": "vgonkivs",
         "requestedAt": "2026-10-21T18:40:08Z"
+      },
+      {
+        "number": 8292,
+        "title": "perf(fibre): [high] check historical info existence without decoding on the PFF sig-cache hit path",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/8292",
+        "repo": "celestia-app",
+        "author": "rach-id",
+        "authorCategory": "coworker",
+        "reviewer": "vgonkivs",
+        "requestedAt": "2026-10-22T09:39:38Z"
       },
       {
         "number": 583,
@@ -280,16 +330,6 @@
         "authorCategory": "external",
         "reviewer": "vgonkivs",
         "requestedAt": "2026-09-27T22:02:10Z"
-      },
-      {
-        "number": 8273,
-        "title": "fix(fibre): [medium] drop Expect: 100-continue on object PutObject",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/8273",
-        "repo": "celestia-app",
-        "author": "alexeymoskalev-devops",
-        "authorCategory": "external",
-        "reviewer": "vgonkivs",
-        "requestedAt": "2026-10-21T02:52:40Z"
       }
     ],
     "theodorebugnet": [
@@ -378,5 +418,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-10-22T09:35:57.733Z"
+  "fetchedAt": "2026-10-22T09:48:38.846Z"
 }
