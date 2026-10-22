@@ -22,16 +22,6 @@
         "requestedAt": "2026-10-21T18:40:08Z"
       },
       {
-        "number": 1017,
-        "title": "fix(ci): [medium] point corto deploy legs at the shared stacks",
-        "url": "https://github.com/celestiaorg/infrastructure/pull/1017",
-        "repo": "infrastructure",
-        "author": "pippokr",
-        "authorCategory": "coworker",
-        "reviewer": "chatton",
-        "requestedAt": "2026-10-22T07:58:01Z"
-      },
-      {
         "number": 3491,
         "title": "build(deps): [high] Bump github.com/prometheus/common from 0.72.0 to 0.72.1",
         "url": "https://github.com/celestiaorg/celestia-core/pull/3491",
@@ -166,18 +156,7 @@
         "requestedAt": "2026-10-18T17:15:55Z"
       }
     ],
-    "rach-id": [
-      {
-        "number": 3483,
-        "title": "feat(types)!: [high] gate go-square's BlobTx decoder on app version 11",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3483",
-        "repo": "celestia-core",
-        "author": "rootulp",
-        "authorCategory": "coworker",
-        "reviewer": "rach-id",
-        "requestedAt": "2026-10-21T22:48:03Z"
-      }
-    ],
+    "rach-id": [],
     "renaynay": [],
     "rootulp": [
       {
@@ -389,5 +368,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-10-22T08:48:36.472Z"
+  "fetchedAt": "2026-10-22T08:58:11.373Z"
 }
