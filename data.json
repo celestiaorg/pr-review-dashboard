@@ -86,16 +86,6 @@
         "requestedAt": "2026-10-17T17:23:13Z"
       },
       {
-        "number": 7922,
-        "title": "fix: [medium] honor explicit zero node minimum gas price",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7922",
-        "repo": "celestia-app",
-        "author": "walldiss",
-        "authorCategory": "coworker",
-        "reviewer": "ninabarbakadze",
-        "requestedAt": "2026-10-17T17:24:13Z"
-      },
-      {
         "number": 7889,
         "title": "feat: confirm fibre uploads through subscriptions",
         "url": "https://github.com/celestiaorg/celestia-app/pull/7889",
@@ -148,26 +138,6 @@
         "authorCategory": "coworker",
         "reviewer": "rootulp",
         "requestedAt": "2026-10-22T10:55:02Z"
-      },
-      {
-        "number": 939,
-        "title": "Export RawGetRowResponse",
-        "url": "https://github.com/celestiaorg/lumina/pull/939",
-        "repo": "lumina",
-        "author": "Ferret-san",
-        "authorCategory": "coworker",
-        "reviewer": "rootulp",
-        "requestedAt": "2026-10-22T14:52:29Z"
-      },
-      {
-        "number": 1140,
-        "title": "chore(deps): [high] bump rustls-webpki to 0.103.16",
-        "url": "https://github.com/celestiaorg/lumina/pull/1140",
-        "repo": "lumina",
-        "author": "citizen-stig",
-        "authorCategory": "coworker",
-        "reviewer": "rootulp",
-        "requestedAt": "2026-10-22T14:59:51Z"
       }
     ],
     "vgonkivs": [
@@ -358,5 +328,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-10-22T15:28:32.535Z"
+  "fetchedAt": "2026-10-22T15:42:36.910Z"
 }
