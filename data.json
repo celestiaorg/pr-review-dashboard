@@ -12,16 +12,6 @@
         "requestedAt": "2026-10-22T10:59:32Z"
       },
       {
-        "number": 1026,
-        "title": "feat(websites): [medium] ingress rate-limit rejections return 429 + Retry-After",
-        "url": "https://github.com/celestiaorg/infrastructure/pull/1026",
-        "repo": "infrastructure",
-        "author": "pippokr",
-        "authorCategory": "coworker",
-        "reviewer": "chatton",
-        "requestedAt": "2026-10-22T11:42:08Z"
-      },
-      {
         "number": 3491,
         "title": "build(deps): [high] Bump github.com/prometheus/common from 0.72.0 to 0.72.1",
         "url": "https://github.com/celestiaorg/celestia-core/pull/3491",
@@ -166,7 +156,18 @@
         "requestedAt": "2026-10-18T17:15:55Z"
       }
     ],
-    "rach-id": [],
+    "rach-id": [
+      {
+        "number": 8303,
+        "title": "fix(cmd): [low] refuse a passthrough rollback of state on another app version ",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/8303",
+        "repo": "celestia-app",
+        "author": "vgonkivs",
+        "authorCategory": "coworker",
+        "reviewer": "rach-id",
+        "requestedAt": "2026-10-22T11:15:54Z"
+      }
+    ],
     "renaynay": [],
     "rootulp": [
       {
@@ -448,5 +449,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-10-22T11:58:03.282Z"
+  "fetchedAt": "2026-10-22T12:28:55.268Z"
 }
