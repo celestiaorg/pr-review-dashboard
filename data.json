@@ -34,6 +34,16 @@
         "requestedAt": "2026-10-08T13:18:27Z"
       },
       {
+        "number": 310,
+        "title": "perf(tx): [high] check the BlobTx type id without copying the tx",
+        "url": "https://github.com/celestiaorg/go-square/pull/310",
+        "repo": "go-square",
+        "author": "rach-id",
+        "authorCategory": "coworker",
+        "reviewer": "pippokr",
+        "requestedAt": "2026-10-22T10:41:19Z"
+      },
+      {
         "number": 5355,
         "title": "chore(deps): [medium] bump the go-deps group across 2 directories with 22 updates",
         "url": "https://github.com/celestiaorg/celestia-node/pull/5355",
@@ -409,5 +419,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-10-22T10:31:11.409Z"
+  "fetchedAt": "2026-10-22T10:43:29.607Z"
 }
