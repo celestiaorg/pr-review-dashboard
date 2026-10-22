@@ -1,17 +1,6 @@
 {
   "reviews": {
-    "chatton": [
-      {
-        "number": 1024,
-        "title": "feat(ci): [low] weekly discourse/base image check with tracking PR",
-        "url": "https://github.com/celestiaorg/infrastructure/pull/1024",
-        "repo": "infrastructure",
-        "author": "pippokr",
-        "authorCategory": "coworker",
-        "reviewer": "chatton",
-        "requestedAt": "2026-10-22T13:42:32Z"
-      }
-    ],
+    "chatton": [],
     "pippokr": [
       {
         "number": 939,
@@ -140,16 +129,6 @@
     "renaynay": [],
     "rootulp": [
       {
-        "number": 8292,
-        "title": "perf(fibre): [high] check historical info existence without decoding on the PFF sig-cache hit path",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/8292",
-        "repo": "celestia-app",
-        "author": "rach-id",
-        "authorCategory": "coworker",
-        "reviewer": "rootulp",
-        "requestedAt": "2026-10-22T09:39:44Z"
-      },
-      {
         "number": 8293,
         "title": "perf(fibre): [high] skip the historical info decode when the validator set is already converted",
         "url": "https://github.com/celestiaorg/celestia-app/pull/8293",
@@ -210,16 +189,6 @@
         "authorCategory": "coworker",
         "reviewer": "vgonkivs",
         "requestedAt": "2026-10-22T09:39:38Z"
-      },
-      {
-        "number": 8306,
-        "title": "test(app): [low] pin the block time in the PayForFibre gas boundary test",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/8306",
-        "repo": "celestia-app",
-        "author": "rootulp",
-        "authorCategory": "coworker",
-        "reviewer": "vgonkivs",
-        "requestedAt": "2026-10-22T13:31:32Z"
       },
       {
         "number": 583,
@@ -398,5 +367,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-10-22T14:37:18.208Z"
+  "fetchedAt": "2026-10-22T14:48:18.040Z"
 }
