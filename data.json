@@ -114,6 +114,16 @@
         "requestedAt": "2026-10-23T11:15:46Z"
       },
       {
+        "number": 3508,
+        "title": "ci: [low] apply dependabot title prefix to security updates",
+        "url": "https://github.com/celestiaorg/celestia-core/pull/3508",
+        "repo": "celestia-core",
+        "author": "rootulp",
+        "authorCategory": "coworker",
+        "reviewer": "pippokr",
+        "requestedAt": "2026-10-23T23:06:10Z"
+      },
+      {
         "number": 700,
         "title": "feat: implement intoHeight trait",
         "url": "https://github.com/celestiaorg/lumina/pull/700",
@@ -167,6 +177,16 @@
       }
     ],
     "rach-id": [
+      {
+        "number": 3429,
+        "title": "fix(rpc): hold heavy-request slots until JSON-RPC responses are written",
+        "url": "https://github.com/celestiaorg/celestia-core/pull/3429",
+        "repo": "celestia-core",
+        "author": "rootulp",
+        "authorCategory": "coworker",
+        "reviewer": "rach-id",
+        "requestedAt": "2026-10-05T12:33:17Z"
+      },
       {
         "number": 8341,
         "title": "perf(fibre): [medium] pre-dial validators and rotate connections before max age",
@@ -329,16 +349,6 @@
         "authorCategory": "coworker",
         "reviewer": "rootulp",
         "requestedAt": "2026-10-23T21:00:19Z"
-      },
-      {
-        "number": 3507,
-        "title": "build(deps): Bump github.com/moby/sys/user from 0.4.0 to 0.4.1",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3507",
-        "repo": "celestia-core",
-        "author": "dependabot",
-        "authorCategory": "bot",
-        "reviewer": "rootulp",
-        "requestedAt": "2026-10-23T22:56:36Z"
       },
       {
         "number": 8328,
@@ -519,5 +529,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-10-23T22:58:44.361Z"
+  "fetchedAt": "2026-10-23T23:16:31.117Z"
 }
