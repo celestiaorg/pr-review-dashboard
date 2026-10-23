@@ -84,6 +84,16 @@
         "requestedAt": "2026-10-23T10:20:11Z"
       },
       {
+        "number": 1029,
+        "title": "feat(fibre-gateway): [high] encoder pool and autoscaler in the corto deployment",
+        "url": "https://github.com/celestiaorg/infrastructure/pull/1029",
+        "repo": "infrastructure",
+        "author": "walldiss",
+        "authorCategory": "coworker",
+        "reviewer": "pippokr",
+        "requestedAt": "2026-10-23T10:37:34Z"
+      },
+      {
         "number": 700,
         "title": "feat: implement intoHeight trait",
         "url": "https://github.com/celestiaorg/lumina/pull/700",
@@ -221,6 +231,16 @@
         "authorCategory": "coworker",
         "reviewer": "vgonkivs",
         "requestedAt": "2026-10-23T08:43:13Z"
+      },
+      {
+        "number": 1148,
+        "title": "test(types): [low] improving fuzz penetration by adding arbitrary",
+        "url": "https://github.com/celestiaorg/lumina/pull/1148",
+        "repo": "lumina",
+        "author": "citizen-stig",
+        "authorCategory": "coworker",
+        "reviewer": "vgonkivs",
+        "requestedAt": "2026-10-23T10:38:53Z"
       },
       {
         "number": 583,
@@ -369,5 +389,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-10-23T10:31:15.632Z"
+  "fetchedAt": "2026-10-23T10:42:17.009Z"
 }
