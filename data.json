@@ -351,6 +351,26 @@
         "requestedAt": "2026-10-23T11:28:18Z"
       },
       {
+        "number": 1031,
+        "title": "fix(ci): [medium] kuma version-check empty-guard + bump Uptime Kuma 2.5.7",
+        "url": "https://github.com/celestiaorg/infrastructure/pull/1031",
+        "repo": "infrastructure",
+        "author": "pippokr",
+        "authorCategory": "coworker",
+        "reviewer": "rootulp",
+        "requestedAt": "2026-10-23T13:14:15Z"
+      },
+      {
+        "number": 1151,
+        "title": "fix(types)!: [high] reject out-of-range coordinates in Sample::verify",
+        "url": "https://github.com/celestiaorg/lumina/pull/1151",
+        "repo": "lumina",
+        "author": "citizen-stig",
+        "authorCategory": "coworker",
+        "reviewer": "rootulp",
+        "requestedAt": "2026-10-23T13:19:09Z"
+      },
+      {
         "number": 8328,
         "title": "feat(cmd): [medium] add app.toml to config sync",
         "url": "https://github.com/celestiaorg/celestia-app/pull/8328",
@@ -455,7 +475,18 @@
         "requestedAt": "2026-10-20T14:28:38Z"
       }
     ],
-    "walldiss": []
+    "walldiss": [
+      {
+        "number": 1150,
+        "title": "test(types): [low] add missing CI structured fuzz targets and lint",
+        "url": "https://github.com/celestiaorg/lumina/pull/1150",
+        "repo": "lumina",
+        "author": "citizen-stig",
+        "authorCategory": "coworker",
+        "reviewer": "walldiss",
+        "requestedAt": "2026-10-23T13:18:40Z"
+      }
+    ]
   },
   "teamMembers": [
     {
@@ -508,5 +539,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-10-23T13:12:13.236Z"
+  "fetchedAt": "2026-10-23T13:27:34.804Z"
 }
