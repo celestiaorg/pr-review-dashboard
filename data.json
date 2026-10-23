@@ -156,18 +156,7 @@
         "requestedAt": "2026-10-18T17:15:55Z"
       }
     ],
-    "rach-id": [
-      {
-        "number": 1145,
-        "title": "test(types): [low] more tests for namespace to increase coverage",
-        "url": "https://github.com/celestiaorg/lumina/pull/1145",
-        "repo": "lumina",
-        "author": "citizen-stig",
-        "authorCategory": "coworker",
-        "reviewer": "rach-id",
-        "requestedAt": "2026-10-23T10:19:59Z"
-      }
-    ],
+    "rach-id": [],
     "renaynay": [],
     "rootulp": [
       {
@@ -203,16 +192,6 @@
     ],
     "vgonkivs": [
       {
-        "number": 8284,
-        "title": "test(app): [low] cover ProcessProposal certificate pass panics",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/8284",
-        "repo": "celestia-app",
-        "author": "rach-id",
-        "authorCategory": "coworker",
-        "reviewer": "vgonkivs",
-        "requestedAt": "2026-10-21T17:48:46Z"
-      },
-      {
         "number": 5360,
         "title": "fix(share/eds): [high] bound proofs cache axis entries",
         "url": "https://github.com/celestiaorg/celestia-node/pull/5360",
@@ -221,16 +200,6 @@
         "authorCategory": "coworker",
         "reviewer": "vgonkivs",
         "requestedAt": "2026-10-22T16:19:35Z"
-      },
-      {
-        "number": 8325,
-        "title": "test(random): [low] reuse a synchronized source for byte fixtures",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/8325",
-        "repo": "celestia-app",
-        "author": "rach-id",
-        "authorCategory": "coworker",
-        "reviewer": "vgonkivs",
-        "requestedAt": "2026-10-23T08:43:13Z"
       },
       {
         "number": 1148,
@@ -325,18 +294,7 @@
         "requestedAt": "2026-10-20T14:28:38Z"
       }
     ],
-    "walldiss": [
-      {
-        "number": 1143,
-        "title": "fix(types)!: [high] reject empty rows in Row::from_raw",
-        "url": "https://github.com/celestiaorg/lumina/pull/1143",
-        "repo": "lumina",
-        "author": "citizen-stig",
-        "authorCategory": "coworker",
-        "reviewer": "walldiss",
-        "requestedAt": "2026-10-23T10:20:18Z"
-      }
-    ]
+    "walldiss": []
   },
   "teamMembers": [
     {
@@ -389,5 +347,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-10-23T10:42:17.009Z"
+  "fetchedAt": "2026-10-23T10:50:35.977Z"
 }
