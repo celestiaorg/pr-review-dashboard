@@ -52,16 +52,6 @@
         "requestedAt": "2026-10-23T11:03:47Z"
       },
       {
-        "number": 8336,
-        "title": "perf(rsema1d): [high] check original rows' RLCs once per download",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/8336",
-        "repo": "celestia-app",
-        "author": "walldiss",
-        "authorCategory": "coworker",
-        "reviewer": "chatton",
-        "requestedAt": "2026-10-23T11:28:14Z"
-      },
-      {
         "number": 5364,
         "title": "feat(node)!: [high] support JWT auth token revocation",
         "url": "https://github.com/celestiaorg/celestia-node/pull/5364",
@@ -158,6 +148,26 @@
     ],
     "rach-id": [
       {
+        "number": 8341,
+        "title": "perf(fibre): [medium] pre-dial validators and rotate connections before max age",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/8341",
+        "repo": "celestia-app",
+        "author": "walldiss",
+        "authorCategory": "coworker",
+        "reviewer": "rach-id",
+        "requestedAt": "2026-10-23T20:59:15Z"
+      },
+      {
+        "number": 8342,
+        "title": "fix(fibre)!: [high] record historical info before slashing so certificates match CometBFT's signing set",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/8342",
+        "repo": "celestia-app",
+        "author": "walldiss",
+        "authorCategory": "coworker",
+        "reviewer": "rach-id",
+        "requestedAt": "2026-10-23T21:00:17Z"
+      },
+      {
         "number": 8328,
         "title": "feat(cmd): [medium] add app.toml to config sync",
         "url": "https://github.com/celestiaorg/celestia-app/pull/8328",
@@ -179,16 +189,6 @@
         "authorCategory": "coworker",
         "reviewer": "rootulp",
         "requestedAt": "2026-10-23T11:03:54Z"
-      },
-      {
-        "number": 8330,
-        "title": "fix(fibre)!: [high] verify PayForFibre certificates against the set that signed the promise height",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/8330",
-        "repo": "celestia-app",
-        "author": "walldiss",
-        "authorCategory": "coworker",
-        "reviewer": "rootulp",
-        "requestedAt": "2026-10-23T11:14:58Z"
       },
       {
         "number": 8331,
@@ -231,16 +231,6 @@
         "requestedAt": "2026-10-23T11:19:22Z"
       },
       {
-        "number": 8336,
-        "title": "perf(rsema1d): [high] check original rows' RLCs once per download",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/8336",
-        "repo": "celestia-app",
-        "author": "walldiss",
-        "authorCategory": "coworker",
-        "reviewer": "rootulp",
-        "requestedAt": "2026-10-23T11:28:18Z"
-      },
-      {
         "number": 8322,
         "title": "ci: [low] build e2e binaries once and reuse them across jobs",
         "url": "https://github.com/celestiaorg/celestia-app/pull/8322",
@@ -271,6 +261,26 @@
         "requestedAt": "2026-10-23T20:16:47Z"
       },
       {
+        "number": 8341,
+        "title": "perf(fibre): [medium] pre-dial validators and rotate connections before max age",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/8341",
+        "repo": "celestia-app",
+        "author": "walldiss",
+        "authorCategory": "coworker",
+        "reviewer": "rootulp",
+        "requestedAt": "2026-10-23T20:59:14Z"
+      },
+      {
+        "number": 8342,
+        "title": "fix(fibre)!: [high] record historical info before slashing so certificates match CometBFT's signing set",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/8342",
+        "repo": "celestia-app",
+        "author": "walldiss",
+        "authorCategory": "coworker",
+        "reviewer": "rootulp",
+        "requestedAt": "2026-10-23T21:00:19Z"
+      },
+      {
         "number": 8328,
         "title": "feat(cmd): [medium] add app.toml to config sync",
         "url": "https://github.com/celestiaorg/celestia-app/pull/8328",
@@ -284,7 +294,7 @@
     "vgonkivs": [
       {
         "number": 5363,
-        "title": "fix(api/docgen): [low] add authenticated curl examples",
+        "title": "fix(api/docgen): [low] add authenticated RPC request guidance",
         "url": "https://github.com/celestiaorg/celestia-node/pull/5363",
         "repo": "celestia-node",
         "author": "jcstein",
@@ -418,5 +428,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-10-23T20:57:51.821Z"
+  "fetchedAt": "2026-10-23T21:16:34.146Z"
 }
