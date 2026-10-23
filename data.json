@@ -363,16 +363,6 @@
     ],
     "vgonkivs": [
       {
-        "number": 8334,
-        "title": "perf(fibre): [high] recycle download shard buffers",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/8334",
-        "repo": "celestia-app",
-        "author": "walldiss",
-        "authorCategory": "coworker",
-        "reviewer": "vgonkivs",
-        "requestedAt": "2026-10-23T11:15:51Z"
-      },
-      {
         "number": 583,
         "title": "chore(peers): refresh mocha-5 peers",
         "url": "https://github.com/celestiaorg/networks/pull/583",
@@ -518,5 +508,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-10-23T12:19:19.652Z"
+  "fetchedAt": "2026-10-23T12:42:18.230Z"
 }
