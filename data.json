@@ -40,6 +40,36 @@
         "authorCategory": "coworker",
         "reviewer": "chatton",
         "requestedAt": "2026-10-23T08:40:56Z"
+      },
+      {
+        "number": 8326,
+        "title": "test(e2e): [medium] replace fixed waits and shorten relayer teardown",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/8326",
+        "repo": "celestia-app",
+        "author": "rach-id",
+        "authorCategory": "coworker",
+        "reviewer": "chatton",
+        "requestedAt": "2026-10-23T08:46:09Z"
+      },
+      {
+        "number": 213,
+        "title": "perf(docker): [medium] poll node readiness and stop containers concurrently",
+        "url": "https://github.com/celestiaorg/tastora/pull/213",
+        "repo": "tastora",
+        "author": "rach-id",
+        "authorCategory": "coworker",
+        "reviewer": "chatton",
+        "requestedAt": "2026-10-23T08:49:06Z"
+      },
+      {
+        "number": 1031,
+        "title": "fix(ci): [medium] kuma version-check empty-guard + bump Uptime Kuma 2.5.7",
+        "url": "https://github.com/celestiaorg/infrastructure/pull/1031",
+        "repo": "infrastructure",
+        "author": "pippokr",
+        "authorCategory": "coworker",
+        "reviewer": "chatton",
+        "requestedAt": "2026-10-23T08:54:36Z"
       }
     ],
     "pippokr": [
@@ -130,6 +160,16 @@
         "requestedAt": "2026-10-23T08:40:56Z"
       },
       {
+        "number": 8324,
+        "title": "test(e2e): [medium] run docker chains with fast block times",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/8324",
+        "repo": "celestia-app",
+        "author": "rach-id",
+        "authorCategory": "coworker",
+        "reviewer": "rootulp",
+        "requestedAt": "2026-10-23T08:47:29Z"
+      },
+      {
         "number": 8328,
         "title": "feat(cmd): [medium] add app.toml to config sync",
         "url": "https://github.com/celestiaorg/celestia-app/pull/8328",
@@ -160,6 +200,16 @@
         "authorCategory": "coworker",
         "reviewer": "vgonkivs",
         "requestedAt": "2026-10-22T16:19:35Z"
+      },
+      {
+        "number": 8325,
+        "title": "test(random): [low] reuse a synchronized source for byte fixtures",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/8325",
+        "repo": "celestia-app",
+        "author": "rach-id",
+        "authorCategory": "coworker",
+        "reviewer": "vgonkivs",
+        "requestedAt": "2026-10-23T08:43:13Z"
       },
       {
         "number": 583,
@@ -287,5 +337,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-10-23T08:43:04.900Z"
+  "fetchedAt": "2026-10-23T08:55:26.140Z"
 }
