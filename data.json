@@ -208,16 +208,6 @@
         "requestedAt": "2026-10-23T11:19:22Z"
       },
       {
-        "number": 3503,
-        "title": "fix(txindex): [medium] let a re-executed tx replace its old result",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3503",
-        "repo": "celestia-core",
-        "author": "vgonkivs",
-        "authorCategory": "coworker",
-        "reviewer": "rach-id",
-        "requestedAt": "2026-10-23T11:22:11Z"
-      },
-      {
         "number": 8336,
         "title": "perf(rsema1d): [high] check original rows' RLCs once per download",
         "url": "https://github.com/celestiaorg/celestia-app/pull/8336",
@@ -236,30 +226,20 @@
         "authorCategory": "coworker",
         "reviewer": "rach-id",
         "requestedAt": "2026-10-23T12:07:55Z"
+      },
+      {
+        "number": 8328,
+        "title": "feat(cmd): [medium] add app.toml to config sync",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/8328",
+        "repo": "celestia-app",
+        "author": "alexeymoskalev-devops",
+        "authorCategory": "external",
+        "reviewer": "rach-id",
+        "requestedAt": "2026-10-23T14:46:42Z"
       }
     ],
     "renaynay": [],
     "rootulp": [
-      {
-        "number": 8327,
-        "title": "test: [medium] reduce Go test waits and fixture overhead",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/8327",
-        "repo": "celestia-app",
-        "author": "rach-id",
-        "authorCategory": "coworker",
-        "reviewer": "rootulp",
-        "requestedAt": "2026-10-23T08:40:56Z"
-      },
-      {
-        "number": 8324,
-        "title": "test(e2e): [medium] run docker chains with fast block times",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/8324",
-        "repo": "celestia-app",
-        "author": "rach-id",
-        "authorCategory": "coworker",
-        "reviewer": "rootulp",
-        "requestedAt": "2026-10-23T08:47:29Z"
-      },
       {
         "number": 8329,
         "title": "perf(merkle): [high] hash Merkle leaves two at a time with interleaved SHA-256 on arm64",
@@ -519,5 +499,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-10-23T14:37:13.846Z"
+  "fetchedAt": "2026-10-23T14:50:23.551Z"
 }
