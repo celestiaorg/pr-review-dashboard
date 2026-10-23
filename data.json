@@ -60,6 +60,16 @@
         "authorCategory": "coworker",
         "reviewer": "chatton",
         "requestedAt": "2026-10-23T11:28:14Z"
+      },
+      {
+        "number": 5364,
+        "title": "feat(node)!: [high] support JWT auth token revocation",
+        "url": "https://github.com/celestiaorg/celestia-node/pull/5364",
+        "repo": "celestia-node",
+        "author": "jcstein",
+        "authorCategory": "coworker",
+        "reviewer": "chatton",
+        "requestedAt": "2026-10-23T18:40:03Z"
       }
     ],
     "pippokr": [
@@ -253,6 +263,16 @@
         "requestedAt": "2026-10-23T17:42:45Z"
       },
       {
+        "number": 5363,
+        "title": "fix(api/docgen): [low] add authenticated curl examples",
+        "url": "https://github.com/celestiaorg/celestia-node/pull/5363",
+        "repo": "celestia-node",
+        "author": "jcstein",
+        "authorCategory": "coworker",
+        "reviewer": "vgonkivs",
+        "requestedAt": "2026-10-23T18:35:21Z"
+      },
+      {
         "number": 583,
         "title": "chore(peers): refresh mocha-5 peers",
         "url": "https://github.com/celestiaorg/networks/pull/583",
@@ -388,5 +408,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-10-23T18:26:58.376Z"
+  "fetchedAt": "2026-10-23T18:44:01.563Z"
 }
