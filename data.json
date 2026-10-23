@@ -178,26 +178,6 @@
     ],
     "rach-id": [
       {
-        "number": 8329,
-        "title": "perf(merkle): [high] hash Merkle leaves two at a time with interleaved SHA-256 on arm64",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/8329",
-        "repo": "celestia-app",
-        "author": "walldiss",
-        "authorCategory": "coworker",
-        "reviewer": "rach-id",
-        "requestedAt": "2026-10-23T11:03:54Z"
-      },
-      {
-        "number": 8330,
-        "title": "fix(fibre)!: [high] verify PayForFibre certificates against the set that signed the promise height",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/8330",
-        "repo": "celestia-app",
-        "author": "walldiss",
-        "authorCategory": "coworker",
-        "reviewer": "rach-id",
-        "requestedAt": "2026-10-23T11:15:00Z"
-      },
-      {
         "number": 8331,
         "title": "perf(fibre): [high] decode upload shard views without copies",
         "url": "https://github.com/celestiaorg/celestia-app/pull/8331",
@@ -549,5 +529,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-10-23T13:59:33.326Z"
+  "fetchedAt": "2026-10-23T14:22:36.266Z"
 }
