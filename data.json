@@ -42,16 +42,6 @@
         "requestedAt": "2026-10-23T08:49:06Z"
       },
       {
-        "number": 1031,
-        "title": "fix(ci): [medium] kuma version-check empty-guard + bump Uptime Kuma 2.5.7",
-        "url": "https://github.com/celestiaorg/infrastructure/pull/1031",
-        "repo": "infrastructure",
-        "author": "pippokr",
-        "authorCategory": "coworker",
-        "reviewer": "chatton",
-        "requestedAt": "2026-10-23T08:54:36Z"
-      },
-      {
         "number": 8329,
         "title": "perf(merkle): [high] hash Merkle leaves two at a time with interleaved SHA-256 on arm64",
         "url": "https://github.com/celestiaorg/celestia-app/pull/8329",
@@ -388,5 +378,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-10-23T15:55:09.399Z"
+  "fetchedAt": "2026-10-23T16:06:26.398Z"
 }
