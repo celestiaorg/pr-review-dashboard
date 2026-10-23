@@ -231,26 +231,6 @@
         "requestedAt": "2026-10-23T11:19:22Z"
       },
       {
-        "number": 8322,
-        "title": "ci: [low] build e2e binaries once and reuse them across jobs",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/8322",
-        "repo": "celestia-app",
-        "author": "rach-id",
-        "authorCategory": "coworker",
-        "reviewer": "rootulp",
-        "requestedAt": "2026-10-23T20:16:15Z"
-      },
-      {
-        "number": 213,
-        "title": "perf(docker): [medium] poll node readiness and stop containers concurrently",
-        "url": "https://github.com/celestiaorg/tastora/pull/213",
-        "repo": "tastora",
-        "author": "rach-id",
-        "authorCategory": "coworker",
-        "reviewer": "rootulp",
-        "requestedAt": "2026-10-23T20:16:38Z"
-      },
-      {
         "number": 8326,
         "title": "test(e2e): [medium] replace fixed waits and shorten relayer teardown",
         "url": "https://github.com/celestiaorg/celestia-app/pull/8326",
@@ -428,5 +408,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-10-23T21:16:34.146Z"
+  "fetchedAt": "2026-10-23T21:28:24.808Z"
 }
