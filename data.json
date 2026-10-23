@@ -52,6 +52,16 @@
         "requestedAt": "2026-10-23T11:03:47Z"
       },
       {
+        "number": 8336,
+        "title": "perf(rsema1d): [high] check original rows' RLCs once per download",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/8336",
+        "repo": "celestia-app",
+        "author": "walldiss",
+        "authorCategory": "coworker",
+        "reviewer": "chatton",
+        "requestedAt": "2026-10-23T11:28:14Z"
+      },
+      {
         "number": 5364,
         "title": "feat(node)!: [high] support JWT auth token revocation",
         "url": "https://github.com/celestiaorg/celestia-node/pull/5364",
@@ -92,16 +102,6 @@
         "authorCategory": "coworker",
         "reviewer": "pippokr",
         "requestedAt": "2026-10-23T11:15:46Z"
-      },
-      {
-        "number": 5365,
-        "title": "ci(deps): [medium] sign Dependabot tidy commits through GitHub",
-        "url": "https://github.com/celestiaorg/celestia-node/pull/5365",
-        "repo": "celestia-node",
-        "author": "rootulp",
-        "authorCategory": "coworker",
-        "reviewer": "pippokr",
-        "requestedAt": "2026-10-23T21:31:41Z"
       },
       {
         "number": 700,
@@ -178,6 +178,26 @@
         "requestedAt": "2026-10-23T21:00:17Z"
       },
       {
+        "number": 8343,
+        "title": "ci(deps): [medium] create verified auto-tidy commits",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/8343",
+        "repo": "celestia-app",
+        "author": "rootulp",
+        "authorCategory": "coworker",
+        "reviewer": "rach-id",
+        "requestedAt": "2026-10-23T21:41:26Z"
+      },
+      {
+        "number": 8336,
+        "title": "perf(rsema1d): [high] check original rows' RLCs once per download",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/8336",
+        "repo": "celestia-app",
+        "author": "walldiss",
+        "authorCategory": "coworker",
+        "reviewer": "rach-id",
+        "requestedAt": "2026-10-23T21:43:33Z"
+      },
+      {
         "number": 8328,
         "title": "feat(cmd): [medium] add app.toml to config sync",
         "url": "https://github.com/celestiaorg/celestia-app/pull/8328",
@@ -241,6 +261,16 @@
         "requestedAt": "2026-10-23T11:19:22Z"
       },
       {
+        "number": 8336,
+        "title": "perf(rsema1d): [high] check original rows' RLCs once per download",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/8336",
+        "repo": "celestia-app",
+        "author": "walldiss",
+        "authorCategory": "coworker",
+        "reviewer": "rootulp",
+        "requestedAt": "2026-10-23T11:28:18Z"
+      },
+      {
         "number": 8341,
         "title": "perf(fibre): [medium] pre-dial validators and rotate connections before max age",
         "url": "https://github.com/celestiaorg/celestia-app/pull/8341",
@@ -281,6 +311,16 @@
         "authorCategory": "coworker",
         "reviewer": "vgonkivs",
         "requestedAt": "2026-10-23T18:35:21Z"
+      },
+      {
+        "number": 5365,
+        "title": "ci(deps): [medium] sign Dependabot tidy commits through GitHub",
+        "url": "https://github.com/celestiaorg/celestia-node/pull/5365",
+        "repo": "celestia-node",
+        "author": "rootulp",
+        "authorCategory": "coworker",
+        "reviewer": "vgonkivs",
+        "requestedAt": "2026-10-23T21:43:14Z"
       },
       {
         "number": 8266,
@@ -345,6 +385,16 @@
         "requestedAt": "2026-10-23T11:15:48Z"
       },
       {
+        "number": 5366,
+        "title": "fix(cmd): [high] refine blob submit inputs and RPC authentication",
+        "url": "https://github.com/celestiaorg/celestia-node/pull/5366",
+        "repo": "celestia-node",
+        "author": "jcstein",
+        "authorCategory": "coworker",
+        "reviewer": "theodorebugnet",
+        "requestedAt": "2026-10-23T21:44:40Z"
+      },
+      {
         "number": 8264,
         "title": "chore(deps): [high] bump the go-deps group across 1 directory with 3 updates",
         "url": "https://github.com/celestiaorg/celestia-app/pull/8264",
@@ -355,18 +405,7 @@
         "requestedAt": "2026-10-20T14:28:38Z"
       }
     ],
-    "walldiss": [
-      {
-        "number": 8343,
-        "title": "ci(deps): [medium] create verified auto-tidy commits",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/8343",
-        "repo": "celestia-app",
-        "author": "rootulp",
-        "authorCategory": "coworker",
-        "reviewer": "walldiss",
-        "requestedAt": "2026-10-23T21:31:37Z"
-      }
-    ]
+    "walldiss": []
   },
   "teamMembers": [
     {
@@ -419,5 +458,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-10-23T21:38:59.209Z"
+  "fetchedAt": "2026-10-23T21:46:03.231Z"
 }
