@@ -70,6 +70,16 @@
         "authorCategory": "coworker",
         "reviewer": "chatton",
         "requestedAt": "2026-10-23T11:03:47Z"
+      },
+      {
+        "number": 8336,
+        "title": "perf(rsema1d): [high] check original rows' RLCs once per download",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/8336",
+        "repo": "celestia-app",
+        "author": "walldiss",
+        "authorCategory": "coworker",
+        "reviewer": "chatton",
+        "requestedAt": "2026-10-23T11:28:14Z"
       }
     ],
     "pippokr": [
@@ -102,6 +112,16 @@
         "authorCategory": "coworker",
         "reviewer": "pippokr",
         "requestedAt": "2026-10-23T10:37:34Z"
+      },
+      {
+        "number": 8332,
+        "title": "perf(fibre): [high] reuse pooled upload buffers",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/8332",
+        "repo": "celestia-app",
+        "author": "walldiss",
+        "authorCategory": "coworker",
+        "reviewer": "pippokr",
+        "requestedAt": "2026-10-23T11:15:46Z"
       },
       {
         "number": 700,
@@ -166,6 +186,76 @@
         "authorCategory": "coworker",
         "reviewer": "rach-id",
         "requestedAt": "2026-10-23T11:03:54Z"
+      },
+      {
+        "number": 8330,
+        "title": "fix(fibre)!: [high] verify PayForFibre certificates against the set that signed the promise height",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/8330",
+        "repo": "celestia-app",
+        "author": "walldiss",
+        "authorCategory": "coworker",
+        "reviewer": "rach-id",
+        "requestedAt": "2026-10-23T11:15:00Z"
+      },
+      {
+        "number": 8331,
+        "title": "perf(fibre): [high] decode upload shard views without copies",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/8331",
+        "repo": "celestia-app",
+        "author": "walldiss",
+        "authorCategory": "coworker",
+        "reviewer": "rach-id",
+        "requestedAt": "2026-10-23T11:15:45Z"
+      },
+      {
+        "number": 8332,
+        "title": "perf(fibre): [high] reuse pooled upload buffers",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/8332",
+        "repo": "celestia-app",
+        "author": "walldiss",
+        "authorCategory": "coworker",
+        "reviewer": "rach-id",
+        "requestedAt": "2026-10-23T11:19:17Z"
+      },
+      {
+        "number": 8333,
+        "title": "perf(grpc): [high] alias download rows into the materialized buffer",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/8333",
+        "repo": "celestia-app",
+        "author": "walldiss",
+        "authorCategory": "coworker",
+        "reviewer": "rach-id",
+        "requestedAt": "2026-10-23T11:19:20Z"
+      },
+      {
+        "number": 8334,
+        "title": "perf(fibre): [high] recycle download shard buffers",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/8334",
+        "repo": "celestia-app",
+        "author": "walldiss",
+        "authorCategory": "coworker",
+        "reviewer": "rach-id",
+        "requestedAt": "2026-10-23T11:19:22Z"
+      },
+      {
+        "number": 3503,
+        "title": "fix(txindex): [medium] let a re-executed tx replace its old result",
+        "url": "https://github.com/celestiaorg/celestia-core/pull/3503",
+        "repo": "celestia-core",
+        "author": "vgonkivs",
+        "authorCategory": "coworker",
+        "reviewer": "rach-id",
+        "requestedAt": "2026-10-23T11:22:11Z"
+      },
+      {
+        "number": 8336,
+        "title": "perf(rsema1d): [high] check original rows' RLCs once per download",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/8336",
+        "repo": "celestia-app",
+        "author": "walldiss",
+        "authorCategory": "coworker",
+        "reviewer": "rach-id",
+        "requestedAt": "2026-10-23T11:28:18Z"
       }
     ],
     "renaynay": [],
@@ -201,6 +291,66 @@
         "requestedAt": "2026-10-23T11:03:54Z"
       },
       {
+        "number": 8330,
+        "title": "fix(fibre)!: [high] verify PayForFibre certificates against the set that signed the promise height",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/8330",
+        "repo": "celestia-app",
+        "author": "walldiss",
+        "authorCategory": "coworker",
+        "reviewer": "rootulp",
+        "requestedAt": "2026-10-23T11:14:58Z"
+      },
+      {
+        "number": 8331,
+        "title": "perf(fibre): [high] decode upload shard views without copies",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/8331",
+        "repo": "celestia-app",
+        "author": "walldiss",
+        "authorCategory": "coworker",
+        "reviewer": "rootulp",
+        "requestedAt": "2026-10-23T11:19:15Z"
+      },
+      {
+        "number": 8332,
+        "title": "perf(fibre): [high] reuse pooled upload buffers",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/8332",
+        "repo": "celestia-app",
+        "author": "walldiss",
+        "authorCategory": "coworker",
+        "reviewer": "rootulp",
+        "requestedAt": "2026-10-23T11:19:17Z"
+      },
+      {
+        "number": 8333,
+        "title": "perf(grpc): [high] alias download rows into the materialized buffer",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/8333",
+        "repo": "celestia-app",
+        "author": "walldiss",
+        "authorCategory": "coworker",
+        "reviewer": "rootulp",
+        "requestedAt": "2026-10-23T11:19:20Z"
+      },
+      {
+        "number": 8334,
+        "title": "perf(fibre): [high] recycle download shard buffers",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/8334",
+        "repo": "celestia-app",
+        "author": "walldiss",
+        "authorCategory": "coworker",
+        "reviewer": "rootulp",
+        "requestedAt": "2026-10-23T11:19:22Z"
+      },
+      {
+        "number": 8336,
+        "title": "perf(rsema1d): [high] check original rows' RLCs once per download",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/8336",
+        "repo": "celestia-app",
+        "author": "walldiss",
+        "authorCategory": "coworker",
+        "reviewer": "rootulp",
+        "requestedAt": "2026-10-23T11:28:18Z"
+      },
+      {
         "number": 8328,
         "title": "feat(cmd): [medium] add app.toml to config sync",
         "url": "https://github.com/celestiaorg/celestia-app/pull/8328",
@@ -213,16 +363,6 @@
     ],
     "vgonkivs": [
       {
-        "number": 5360,
-        "title": "fix(share/eds): [high] bound proofs cache axis entries",
-        "url": "https://github.com/celestiaorg/celestia-node/pull/5360",
-        "repo": "celestia-node",
-        "author": "rootulp",
-        "authorCategory": "coworker",
-        "reviewer": "vgonkivs",
-        "requestedAt": "2026-10-22T16:19:35Z"
-      },
-      {
         "number": 1148,
         "title": "test(types): [low] improving fuzz penetration by adding arbitrary",
         "url": "https://github.com/celestiaorg/lumina/pull/1148",
@@ -231,6 +371,26 @@
         "authorCategory": "coworker",
         "reviewer": "vgonkivs",
         "requestedAt": "2026-10-23T10:38:53Z"
+      },
+      {
+        "number": 8334,
+        "title": "perf(fibre): [high] recycle download shard buffers",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/8334",
+        "repo": "celestia-app",
+        "author": "walldiss",
+        "authorCategory": "coworker",
+        "reviewer": "vgonkivs",
+        "requestedAt": "2026-10-23T11:15:51Z"
+      },
+      {
+        "number": 5360,
+        "title": "fix(share/eds): [high] bound proofs cache axis entries",
+        "url": "https://github.com/celestiaorg/celestia-node/pull/5360",
+        "repo": "celestia-node",
+        "author": "rootulp",
+        "authorCategory": "coworker",
+        "reviewer": "vgonkivs",
+        "requestedAt": "2026-10-23T11:25:34Z"
       },
       {
         "number": 583,
@@ -305,6 +465,16 @@
         "requestedAt": "2026-10-23T10:25:45Z"
       },
       {
+        "number": 8333,
+        "title": "perf(grpc): [high] alias download rows into the materialized buffer",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/8333",
+        "repo": "celestia-app",
+        "author": "walldiss",
+        "authorCategory": "coworker",
+        "reviewer": "theodorebugnet",
+        "requestedAt": "2026-10-23T11:15:48Z"
+      },
+      {
         "number": 8264,
         "title": "chore(deps): [high] bump the go-deps group across 1 directory with 3 updates",
         "url": "https://github.com/celestiaorg/celestia-app/pull/8264",
@@ -368,5 +538,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-10-23T11:14:11.420Z"
+  "fetchedAt": "2026-10-23T11:29:05.140Z"
 }
