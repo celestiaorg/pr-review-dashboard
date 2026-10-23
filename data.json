@@ -114,6 +114,16 @@
         "requestedAt": "2026-10-23T11:15:46Z"
       },
       {
+        "number": 3504,
+        "title": "test(consensus): [low] stop leaked WALs in TestWALCrash",
+        "url": "https://github.com/celestiaorg/celestia-core/pull/3504",
+        "repo": "celestia-core",
+        "author": "rootulp",
+        "authorCategory": "coworker",
+        "reviewer": "pippokr",
+        "requestedAt": "2026-10-23T13:40:41Z"
+      },
+      {
         "number": 700,
         "title": "feat: implement intoHeight trait",
         "url": "https://github.com/celestiaorg/lumina/pull/700",
@@ -539,5 +549,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-10-23T13:27:34.804Z"
+  "fetchedAt": "2026-10-23T13:42:44.005Z"
 }
