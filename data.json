@@ -168,46 +168,6 @@
     ],
     "rach-id": [
       {
-        "number": 8332,
-        "title": "perf(fibre): [high] reuse pooled upload buffers",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/8332",
-        "repo": "celestia-app",
-        "author": "walldiss",
-        "authorCategory": "coworker",
-        "reviewer": "rach-id",
-        "requestedAt": "2026-10-23T11:19:17Z"
-      },
-      {
-        "number": 8336,
-        "title": "perf(rsema1d): [high] check original rows' RLCs once per download",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/8336",
-        "repo": "celestia-app",
-        "author": "walldiss",
-        "authorCategory": "coworker",
-        "reviewer": "rach-id",
-        "requestedAt": "2026-10-23T11:28:18Z"
-      },
-      {
-        "number": 8337,
-        "title": "test(e2e): [low] roll back a multi-validator network with the recovery script",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/8337",
-        "repo": "celestia-app",
-        "author": "vgonkivs",
-        "authorCategory": "coworker",
-        "reviewer": "rach-id",
-        "requestedAt": "2026-10-23T12:07:55Z"
-      },
-      {
-        "number": 3504,
-        "title": "test(consensus): [low] stop leaked WALs in TestWALCrash",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3504",
-        "repo": "celestia-core",
-        "author": "rootulp",
-        "authorCategory": "coworker",
-        "reviewer": "rach-id",
-        "requestedAt": "2026-10-23T14:57:22Z"
-      },
-      {
         "number": 8328,
         "title": "feat(cmd): [medium] add app.toml to config sync",
         "url": "https://github.com/celestiaorg/celestia-app/pull/8328",
@@ -459,5 +419,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-10-23T14:57:51.562Z"
+  "fetchedAt": "2026-10-23T15:17:37.521Z"
 }
