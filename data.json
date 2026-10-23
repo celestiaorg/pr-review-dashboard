@@ -94,6 +94,16 @@
         "requestedAt": "2026-10-23T11:15:46Z"
       },
       {
+        "number": 5365,
+        "title": "ci(deps): [medium] sign Dependabot tidy commits through GitHub",
+        "url": "https://github.com/celestiaorg/celestia-node/pull/5365",
+        "repo": "celestia-node",
+        "author": "rootulp",
+        "authorCategory": "coworker",
+        "reviewer": "pippokr",
+        "requestedAt": "2026-10-23T21:31:41Z"
+      },
+      {
         "number": 700,
         "title": "feat: implement intoHeight trait",
         "url": "https://github.com/celestiaorg/lumina/pull/700",
@@ -231,16 +241,6 @@
         "requestedAt": "2026-10-23T11:19:22Z"
       },
       {
-        "number": 8326,
-        "title": "test(e2e): [medium] replace fixed waits and shorten relayer teardown",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/8326",
-        "repo": "celestia-app",
-        "author": "rach-id",
-        "authorCategory": "coworker",
-        "reviewer": "rootulp",
-        "requestedAt": "2026-10-23T20:16:47Z"
-      },
-      {
         "number": 8341,
         "title": "perf(fibre): [medium] pre-dial validators and rotate connections before max age",
         "url": "https://github.com/celestiaorg/celestia-app/pull/8341",
@@ -355,7 +355,18 @@
         "requestedAt": "2026-10-20T14:28:38Z"
       }
     ],
-    "walldiss": []
+    "walldiss": [
+      {
+        "number": 8343,
+        "title": "ci(deps): [medium] create verified auto-tidy commits",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/8343",
+        "repo": "celestia-app",
+        "author": "rootulp",
+        "authorCategory": "coworker",
+        "reviewer": "walldiss",
+        "requestedAt": "2026-10-23T21:31:37Z"
+      }
+    ]
   },
   "teamMembers": [
     {
@@ -408,5 +419,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-10-23T21:28:24.808Z"
+  "fetchedAt": "2026-10-23T21:38:59.209Z"
 }
