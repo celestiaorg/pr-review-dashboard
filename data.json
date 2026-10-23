@@ -86,18 +86,7 @@
         "requestedAt": "2026-10-18T17:15:55Z"
       }
     ],
-    "rach-id": [
-      {
-        "number": 8316,
-        "title": "fix(valaddr)!: [high] sweep fibre provider entries of all unbonded validators",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/8316",
-        "repo": "celestia-app",
-        "author": "rootulp",
-        "authorCategory": "coworker",
-        "reviewer": "rach-id",
-        "requestedAt": "2026-10-22T23:03:24Z"
-      }
-    ],
+    "rach-id": [],
     "renaynay": [],
     "rootulp": [
       {
@@ -248,5 +237,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-10-23T07:58:03.625Z"
+  "fetchedAt": "2026-10-23T08:25:55.662Z"
 }
