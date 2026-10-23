@@ -22,16 +22,6 @@
         "requestedAt": "2026-10-23T08:39:11Z"
       },
       {
-        "number": 8327,
-        "title": "test: [medium] reduce Go test waits and fixture overhead",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/8327",
-        "repo": "celestia-app",
-        "author": "rach-id",
-        "authorCategory": "coworker",
-        "reviewer": "chatton",
-        "requestedAt": "2026-10-23T08:40:56Z"
-      },
-      {
         "number": 8326,
         "title": "test(e2e): [medium] replace fixed waits and shorten relayer teardown",
         "url": "https://github.com/celestiaorg/celestia-app/pull/8326",
@@ -315,16 +305,6 @@
     ],
     "theodorebugnet": [
       {
-        "number": 8327,
-        "title": "test: [medium] reduce Go test waits and fixture overhead",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/8327",
-        "repo": "celestia-app",
-        "author": "rach-id",
-        "authorCategory": "coworker",
-        "reviewer": "theodorebugnet",
-        "requestedAt": "2026-10-23T08:40:47Z"
-      },
-      {
         "number": 1147,
         "title": "fix(types)!: [high] add missing celestia-app tx error codes",
         "url": "https://github.com/celestiaorg/lumina/pull/1147",
@@ -355,18 +335,7 @@
         "requestedAt": "2026-10-20T14:28:38Z"
       }
     ],
-    "walldiss": [
-      {
-        "number": 1150,
-        "title": "test(types): [low] add missing CI structured fuzz targets and lint",
-        "url": "https://github.com/celestiaorg/lumina/pull/1150",
-        "repo": "lumina",
-        "author": "citizen-stig",
-        "authorCategory": "coworker",
-        "reviewer": "walldiss",
-        "requestedAt": "2026-10-23T13:18:40Z"
-      }
-    ]
+    "walldiss": []
   },
   "teamMembers": [
     {
@@ -419,5 +388,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-10-23T15:17:37.521Z"
+  "fetchedAt": "2026-10-23T15:33:46.438Z"
 }
