@@ -241,6 +241,36 @@
         "requestedAt": "2026-10-23T11:28:18Z"
       },
       {
+        "number": 8322,
+        "title": "ci: [low] build e2e binaries once and reuse them across jobs",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/8322",
+        "repo": "celestia-app",
+        "author": "rach-id",
+        "authorCategory": "coworker",
+        "reviewer": "rootulp",
+        "requestedAt": "2026-10-23T20:16:15Z"
+      },
+      {
+        "number": 213,
+        "title": "perf(docker): [medium] poll node readiness and stop containers concurrently",
+        "url": "https://github.com/celestiaorg/tastora/pull/213",
+        "repo": "tastora",
+        "author": "rach-id",
+        "authorCategory": "coworker",
+        "reviewer": "rootulp",
+        "requestedAt": "2026-10-23T20:16:38Z"
+      },
+      {
+        "number": 8326,
+        "title": "test(e2e): [medium] replace fixed waits and shorten relayer teardown",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/8326",
+        "repo": "celestia-app",
+        "author": "rach-id",
+        "authorCategory": "coworker",
+        "reviewer": "rootulp",
+        "requestedAt": "2026-10-23T20:16:47Z"
+      },
+      {
         "number": 8328,
         "title": "feat(cmd): [medium] add app.toml to config sync",
         "url": "https://github.com/celestiaorg/celestia-app/pull/8328",
@@ -252,16 +282,6 @@
       }
     ],
     "vgonkivs": [
-      {
-        "number": 1152,
-        "title": "fix(types): [high] classify BEFP shares by both coordinates",
-        "url": "https://github.com/celestiaorg/lumina/pull/1152",
-        "repo": "lumina",
-        "author": "rootulp",
-        "authorCategory": "coworker",
-        "reviewer": "vgonkivs",
-        "requestedAt": "2026-10-23T17:42:45Z"
-      },
       {
         "number": 5363,
         "title": "fix(api/docgen): [low] add authenticated curl examples",
@@ -408,5 +428,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-10-23T19:59:18.957Z"
+  "fetchedAt": "2026-10-23T20:19:25.812Z"
 }
