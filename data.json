@@ -313,6 +313,16 @@
         "requestedAt": "2026-10-23T21:43:14Z"
       },
       {
+        "number": 8311,
+        "title": "docs(valaddr): [low] clarify that only bonded status gates host registration",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/8311",
+        "repo": "celestia-app",
+        "author": "rootulp",
+        "authorCategory": "coworker",
+        "reviewer": "vgonkivs",
+        "requestedAt": "2026-10-23T22:18:14Z"
+      },
+      {
         "number": 8266,
         "title": "chore(deps): bump github.com/klauspost/compress from 1.16.0 to 1.18.7 in /tools/pebble-rebuild",
         "url": "https://github.com/celestiaorg/celestia-app/pull/8266",
@@ -438,5 +448,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-10-23T22:17:27.289Z"
+  "fetchedAt": "2026-10-23T22:28:55.396Z"
 }
