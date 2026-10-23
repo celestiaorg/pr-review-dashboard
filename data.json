@@ -12,16 +12,6 @@
         "requestedAt": "2026-10-22T14:52:29Z"
       },
       {
-        "number": 8321,
-        "title": "ci: [low] warm Go build caches on main and restore them in CI",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/8321",
-        "repo": "celestia-app",
-        "author": "rach-id",
-        "authorCategory": "coworker",
-        "reviewer": "chatton",
-        "requestedAt": "2026-10-23T08:37:55Z"
-      },
-      {
         "number": 8322,
         "title": "ci: [low] build e2e binaries once and reuse them across jobs",
         "url": "https://github.com/celestiaorg/celestia-app/pull/8322",
@@ -337,5 +327,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-10-23T09:26:29.642Z"
+  "fetchedAt": "2026-10-23T09:40:35.533Z"
 }
