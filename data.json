@@ -144,16 +144,6 @@
         "authorCategory": "coworker",
         "reviewer": "ninabarbakadze",
         "requestedAt": "2026-10-17T17:24:24Z"
-      },
-      {
-        "number": 5346,
-        "title": "pruner: stop the round when a full batch fails",
-        "url": "https://github.com/celestiaorg/celestia-node/pull/5346",
-        "repo": "celestia-node",
-        "author": "Ravan002",
-        "authorCategory": "external",
-        "reviewer": "ninabarbakadze",
-        "requestedAt": "2026-10-18T17:15:55Z"
       }
     ],
     "rach-id": [],
@@ -347,5 +337,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-10-23T10:50:35.977Z"
+  "fetchedAt": "2026-10-23T10:57:11.359Z"
 }
