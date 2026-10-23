@@ -94,16 +94,6 @@
         "requestedAt": "2026-10-08T13:18:27Z"
       },
       {
-        "number": 1142,
-        "title": "test(types): [medium] add fuzz testing to types crate",
-        "url": "https://github.com/celestiaorg/lumina/pull/1142",
-        "repo": "lumina",
-        "author": "citizen-stig",
-        "authorCategory": "coworker",
-        "reviewer": "pippokr",
-        "requestedAt": "2026-10-23T10:20:11Z"
-      },
-      {
         "number": 1029,
         "title": "feat(fibre-gateway): [high] encoder pool and autoscaler in the corto deployment",
         "url": "https://github.com/celestiaorg/infrastructure/pull/1029",
@@ -256,6 +246,16 @@
         "authorCategory": "coworker",
         "reviewer": "rach-id",
         "requestedAt": "2026-10-23T11:28:18Z"
+      },
+      {
+        "number": 8337,
+        "title": "test(e2e): [low] roll back a multi-validator network with the recovery script",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/8337",
+        "repo": "celestia-app",
+        "author": "vgonkivs",
+        "authorCategory": "coworker",
+        "reviewer": "rach-id",
+        "requestedAt": "2026-10-23T12:07:55Z"
       }
     ],
     "renaynay": [],
@@ -363,16 +363,6 @@
     ],
     "vgonkivs": [
       {
-        "number": 1148,
-        "title": "test(types): [low] improving fuzz penetration by adding arbitrary",
-        "url": "https://github.com/celestiaorg/lumina/pull/1148",
-        "repo": "lumina",
-        "author": "citizen-stig",
-        "authorCategory": "coworker",
-        "reviewer": "vgonkivs",
-        "requestedAt": "2026-10-23T10:38:53Z"
-      },
-      {
         "number": 8334,
         "title": "perf(fibre): [high] recycle download shard buffers",
         "url": "https://github.com/celestiaorg/celestia-app/pull/8334",
@@ -381,16 +371,6 @@
         "authorCategory": "coworker",
         "reviewer": "vgonkivs",
         "requestedAt": "2026-10-23T11:15:51Z"
-      },
-      {
-        "number": 5360,
-        "title": "fix(share/eds): [high] bound proofs cache axis entries",
-        "url": "https://github.com/celestiaorg/celestia-node/pull/5360",
-        "repo": "celestia-node",
-        "author": "rootulp",
-        "authorCategory": "coworker",
-        "reviewer": "vgonkivs",
-        "requestedAt": "2026-10-23T11:25:34Z"
       },
       {
         "number": 583,
@@ -538,5 +518,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-10-23T11:56:54.939Z"
+  "fetchedAt": "2026-10-23T12:19:19.652Z"
 }
