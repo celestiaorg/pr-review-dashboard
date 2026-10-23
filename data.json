@@ -74,6 +74,16 @@
         "requestedAt": "2026-10-08T13:18:27Z"
       },
       {
+        "number": 1142,
+        "title": "test(types): [medium] add fuzz testing to types crate",
+        "url": "https://github.com/celestiaorg/lumina/pull/1142",
+        "repo": "lumina",
+        "author": "citizen-stig",
+        "authorCategory": "coworker",
+        "reviewer": "pippokr",
+        "requestedAt": "2026-10-23T10:20:11Z"
+      },
+      {
         "number": 700,
         "title": "feat: implement intoHeight trait",
         "url": "https://github.com/celestiaorg/lumina/pull/700",
@@ -136,7 +146,18 @@
         "requestedAt": "2026-10-18T17:15:55Z"
       }
     ],
-    "rach-id": [],
+    "rach-id": [
+      {
+        "number": 1145,
+        "title": "test(types): [low] more tests for namespace to increase coverage",
+        "url": "https://github.com/celestiaorg/lumina/pull/1145",
+        "repo": "lumina",
+        "author": "citizen-stig",
+        "authorCategory": "coworker",
+        "reviewer": "rach-id",
+        "requestedAt": "2026-10-23T10:19:59Z"
+      }
+    ],
     "renaynay": [],
     "rootulp": [
       {
@@ -264,6 +285,16 @@
         "requestedAt": "2026-10-23T08:40:47Z"
       },
       {
+        "number": 1147,
+        "title": "fix(types)!: [high] add missing celestia-app tx error codes",
+        "url": "https://github.com/celestiaorg/lumina/pull/1147",
+        "repo": "lumina",
+        "author": "citizen-stig",
+        "authorCategory": "coworker",
+        "reviewer": "theodorebugnet",
+        "requestedAt": "2026-10-23T10:25:45Z"
+      },
+      {
         "number": 8264,
         "title": "chore(deps): [high] bump the go-deps group across 1 directory with 3 updates",
         "url": "https://github.com/celestiaorg/celestia-app/pull/8264",
@@ -274,7 +305,18 @@
         "requestedAt": "2026-10-20T14:28:38Z"
       }
     ],
-    "walldiss": []
+    "walldiss": [
+      {
+        "number": 1143,
+        "title": "fix(types)!: [high] reject empty rows in Row::from_raw",
+        "url": "https://github.com/celestiaorg/lumina/pull/1143",
+        "repo": "lumina",
+        "author": "citizen-stig",
+        "authorCategory": "coworker",
+        "reviewer": "walldiss",
+        "requestedAt": "2026-10-23T10:20:18Z"
+      }
+    ]
   },
   "teamMembers": [
     {
@@ -327,5 +369,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-10-23T10:18:07.294Z"
+  "fetchedAt": "2026-10-23T10:31:15.632Z"
 }
