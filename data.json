@@ -10,6 +10,36 @@
         "authorCategory": "coworker",
         "reviewer": "chatton",
         "requestedAt": "2026-10-22T14:52:29Z"
+      },
+      {
+        "number": 8321,
+        "title": "ci: [low] warm Go build caches on main and restore them in CI",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/8321",
+        "repo": "celestia-app",
+        "author": "rach-id",
+        "authorCategory": "coworker",
+        "reviewer": "chatton",
+        "requestedAt": "2026-10-23T08:37:55Z"
+      },
+      {
+        "number": 8322,
+        "title": "ci: [low] build e2e binaries once and reuse them across jobs",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/8322",
+        "repo": "celestia-app",
+        "author": "rach-id",
+        "authorCategory": "coworker",
+        "reviewer": "chatton",
+        "requestedAt": "2026-10-23T08:39:11Z"
+      },
+      {
+        "number": 8327,
+        "title": "test: [medium] reduce Go test waits and fixture overhead",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/8327",
+        "repo": "celestia-app",
+        "author": "rach-id",
+        "authorCategory": "coworker",
+        "reviewer": "chatton",
+        "requestedAt": "2026-10-23T08:40:56Z"
       }
     ],
     "pippokr": [
@@ -89,6 +119,16 @@
     "rach-id": [],
     "renaynay": [],
     "rootulp": [
+      {
+        "number": 8327,
+        "title": "test: [medium] reduce Go test waits and fixture overhead",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/8327",
+        "repo": "celestia-app",
+        "author": "rach-id",
+        "authorCategory": "coworker",
+        "reviewer": "rootulp",
+        "requestedAt": "2026-10-23T08:40:56Z"
+      },
       {
         "number": 8328,
         "title": "feat(cmd): [medium] add app.toml to config sync",
@@ -174,6 +214,16 @@
     ],
     "theodorebugnet": [
       {
+        "number": 8327,
+        "title": "test: [medium] reduce Go test waits and fixture overhead",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/8327",
+        "repo": "celestia-app",
+        "author": "rach-id",
+        "authorCategory": "coworker",
+        "reviewer": "theodorebugnet",
+        "requestedAt": "2026-10-23T08:40:47Z"
+      },
+      {
         "number": 8264,
         "title": "chore(deps): [high] bump the go-deps group across 1 directory with 3 updates",
         "url": "https://github.com/celestiaorg/celestia-app/pull/8264",
@@ -237,5 +287,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-10-23T08:25:55.662Z"
+  "fetchedAt": "2026-10-23T08:43:04.900Z"
 }
