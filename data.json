@@ -218,6 +218,26 @@
         "requestedAt": "2026-10-23T22:48:25Z"
       },
       {
+        "number": 3501,
+        "title": "fix(p2p): [high] reject weak Ed25519 peer identity keys",
+        "url": "https://github.com/celestiaorg/celestia-core/pull/3501",
+        "repo": "celestia-core",
+        "author": "rootulp",
+        "authorCategory": "coworker",
+        "reviewer": "rach-id",
+        "requestedAt": "2026-10-23T22:55:20Z"
+      },
+      {
+        "number": 8345,
+        "title": "docs: [low] stop repeating the review level in PR descriptions",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/8345",
+        "repo": "celestia-app",
+        "author": "rootulp",
+        "authorCategory": "coworker",
+        "reviewer": "rach-id",
+        "requestedAt": "2026-10-23T22:56:19Z"
+      },
+      {
         "number": 8328,
         "title": "feat(cmd): [medium] add app.toml to config sync",
         "url": "https://github.com/celestiaorg/celestia-app/pull/8328",
@@ -309,6 +329,16 @@
         "authorCategory": "coworker",
         "reviewer": "rootulp",
         "requestedAt": "2026-10-23T21:00:19Z"
+      },
+      {
+        "number": 3507,
+        "title": "build(deps): Bump github.com/moby/sys/user from 0.4.0 to 0.4.1",
+        "url": "https://github.com/celestiaorg/celestia-core/pull/3507",
+        "repo": "celestia-core",
+        "author": "dependabot",
+        "authorCategory": "bot",
+        "reviewer": "rootulp",
+        "requestedAt": "2026-10-23T22:56:36Z"
       },
       {
         "number": 8328,
@@ -425,7 +455,18 @@
         "requestedAt": "2026-10-23T21:44:40Z"
       }
     ],
-    "walldiss": []
+    "walldiss": [
+      {
+        "number": 5367,
+        "title": "docs: [low] stop repeating the review level in PR descriptions",
+        "url": "https://github.com/celestiaorg/celestia-node/pull/5367",
+        "repo": "celestia-node",
+        "author": "rootulp",
+        "authorCategory": "coworker",
+        "reviewer": "walldiss",
+        "requestedAt": "2026-10-23T22:56:42Z"
+      }
+    ]
   },
   "teamMembers": [
     {
@@ -478,5 +519,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-10-23T22:52:12.699Z"
+  "fetchedAt": "2026-10-23T22:58:44.361Z"
 }
