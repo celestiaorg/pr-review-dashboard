@@ -178,16 +178,6 @@
     ],
     "rach-id": [
       {
-        "number": 8331,
-        "title": "perf(fibre): [high] decode upload shard views without copies",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/8331",
-        "repo": "celestia-app",
-        "author": "walldiss",
-        "authorCategory": "coworker",
-        "reviewer": "rach-id",
-        "requestedAt": "2026-10-23T11:15:45Z"
-      },
-      {
         "number": 8332,
         "title": "perf(fibre): [high] reuse pooled upload buffers",
         "url": "https://github.com/celestiaorg/celestia-app/pull/8332",
@@ -529,5 +519,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-10-23T14:22:36.266Z"
+  "fetchedAt": "2026-10-23T14:37:13.846Z"
 }
