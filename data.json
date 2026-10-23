@@ -238,6 +238,16 @@
         "requestedAt": "2026-10-23T22:48:25Z"
       },
       {
+        "number": 8312,
+        "title": "refactor: [high] migrate rsmt2d into an independent app module",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/8312",
+        "repo": "celestia-app",
+        "author": "rootulp",
+        "authorCategory": "coworker",
+        "reviewer": "rach-id",
+        "requestedAt": "2026-10-23T22:53:53Z"
+      },
+      {
         "number": 3501,
         "title": "fix(p2p): [high] reject weak Ed25519 peer identity keys",
         "url": "https://github.com/celestiaorg/celestia-core/pull/3501",
@@ -256,6 +266,26 @@
         "authorCategory": "coworker",
         "reviewer": "rach-id",
         "requestedAt": "2026-10-23T22:56:19Z"
+      },
+      {
+        "number": 8235,
+        "title": "fix(fibre): [medium] bound shard marker sizes by codec limits",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/8235",
+        "repo": "celestia-app",
+        "author": "rootulp",
+        "authorCategory": "coworker",
+        "reviewer": "rach-id",
+        "requestedAt": "2026-10-23T23:22:35Z"
+      },
+      {
+        "number": 8269,
+        "title": "fix!: [high] bound per-block proof work",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/8269",
+        "repo": "celestia-app",
+        "author": "rootulp",
+        "authorCategory": "coworker",
+        "reviewer": "rach-id",
+        "requestedAt": "2026-10-23T23:26:52Z"
       },
       {
         "number": 8328,
@@ -529,5 +559,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-10-23T23:16:31.117Z"
+  "fetchedAt": "2026-10-23T23:27:51.452Z"
 }
