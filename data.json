@@ -188,6 +188,16 @@
         "requestedAt": "2026-10-23T21:43:33Z"
       },
       {
+        "number": 8294,
+        "title": "ci: [high] enforce risk-based independent PR reviews in Go",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/8294",
+        "repo": "celestia-app",
+        "author": "rootulp",
+        "authorCategory": "coworker",
+        "reviewer": "rach-id",
+        "requestedAt": "2026-10-23T22:23:14Z"
+      },
+      {
         "number": 8328,
         "title": "feat(cmd): [medium] add app.toml to config sync",
         "url": "https://github.com/celestiaorg/celestia-app/pull/8328",
@@ -448,5 +458,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-10-23T22:28:55.396Z"
+  "fetchedAt": "2026-10-23T22:38:53.592Z"
 }
