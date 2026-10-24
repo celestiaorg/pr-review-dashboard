@@ -12,26 +12,6 @@
         "requestedAt": "2026-10-22T14:52:29Z"
       },
       {
-        "number": 8322,
-        "title": "ci: [low] build e2e binaries once and reuse them across jobs",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/8322",
-        "repo": "celestia-app",
-        "author": "rach-id",
-        "authorCategory": "coworker",
-        "reviewer": "chatton",
-        "requestedAt": "2026-10-23T08:39:11Z"
-      },
-      {
-        "number": 8326,
-        "title": "test(e2e): [medium] replace fixed waits and shorten relayer teardown",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/8326",
-        "repo": "celestia-app",
-        "author": "rach-id",
-        "authorCategory": "coworker",
-        "reviewer": "chatton",
-        "requestedAt": "2026-10-23T08:46:09Z"
-      },
-      {
         "number": 8329,
         "title": "perf(merkle): [high] hash Merkle leaves two at a time with interleaved SHA-256 on arm64",
         "url": "https://github.com/celestiaorg/celestia-app/pull/8329",
@@ -70,6 +50,16 @@
         "authorCategory": "coworker",
         "reviewer": "chatton",
         "requestedAt": "2026-10-23T22:45:54Z"
+      },
+      {
+        "number": 1035,
+        "title": "fix(ci): [medium] prepare workflows stop racing on shared /tmp",
+        "url": "https://github.com/celestiaorg/infrastructure/pull/1035",
+        "repo": "infrastructure",
+        "author": "pippokr",
+        "authorCategory": "coworker",
+        "reviewer": "chatton",
+        "requestedAt": "2026-10-24T08:26:00Z"
       },
       {
         "number": 3510,
@@ -281,6 +271,16 @@
         "requestedAt": "2026-10-23T21:00:19Z"
       },
       {
+        "number": 8323,
+        "title": "test(e2e): [low] bump tastora to v0.21.3",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/8323",
+        "repo": "celestia-app",
+        "author": "rach-id",
+        "authorCategory": "coworker",
+        "reviewer": "rootulp",
+        "requestedAt": "2026-10-24T08:25:27Z"
+      },
+      {
         "number": 8328,
         "title": "feat(cmd): [medium] add app.toml to config sync",
         "url": "https://github.com/celestiaorg/celestia-app/pull/8328",
@@ -469,5 +469,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-10-24T08:16:51.171Z"
+  "fetchedAt": "2026-10-24T08:34:34.935Z"
 }
