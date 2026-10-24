@@ -168,6 +168,16 @@
         "requestedAt": "2026-10-23T22:53:53Z"
       },
       {
+        "number": 8348,
+        "title": "test(e2e): [low] stop validators before arming the rollback halt height",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/8348",
+        "repo": "celestia-app",
+        "author": "rootulp",
+        "authorCategory": "coworker",
+        "reviewer": "rach-id",
+        "requestedAt": "2026-10-24T13:17:10Z"
+      },
+      {
         "number": 8328,
         "title": "feat(cmd): [medium] add app.toml to config sync",
         "url": "https://github.com/celestiaorg/celestia-app/pull/8328",
@@ -459,5 +469,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-10-24T13:16:32.930Z"
+  "fetchedAt": "2026-10-24T13:27:27.936Z"
 }
