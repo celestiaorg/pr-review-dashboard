@@ -32,16 +32,6 @@
         "requestedAt": "2026-10-23T08:46:09Z"
       },
       {
-        "number": 213,
-        "title": "perf(docker): [medium] poll node readiness and stop containers concurrently",
-        "url": "https://github.com/celestiaorg/tastora/pull/213",
-        "repo": "tastora",
-        "author": "rach-id",
-        "authorCategory": "coworker",
-        "reviewer": "chatton",
-        "requestedAt": "2026-10-23T08:49:06Z"
-      },
-      {
         "number": 8329,
         "title": "perf(merkle): [high] hash Merkle leaves two at a time with interleaved SHA-256 on arm64",
         "url": "https://github.com/celestiaorg/celestia-app/pull/8329",
@@ -196,16 +186,6 @@
         "authorCategory": "coworker",
         "reviewer": "rach-id",
         "requestedAt": "2026-10-23T22:53:53Z"
-      },
-      {
-        "number": 8269,
-        "title": "fix!: [high] bound per-block proof work",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/8269",
-        "repo": "celestia-app",
-        "author": "rootulp",
-        "authorCategory": "coworker",
-        "reviewer": "rach-id",
-        "requestedAt": "2026-10-23T23:26:52Z"
       },
       {
         "number": 8328,
@@ -489,5 +469,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-10-24T07:56:59.515Z"
+  "fetchedAt": "2026-10-24T08:16:51.171Z"
 }
