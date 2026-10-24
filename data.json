@@ -228,16 +228,6 @@
         "requestedAt": "2026-10-23T22:23:14Z"
       },
       {
-        "number": 3506,
-        "title": "docs: [low] clarify that main becomes v0.43.x for celestia-app v11",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3506",
-        "repo": "celestia-core",
-        "author": "rootulp",
-        "authorCategory": "coworker",
-        "reviewer": "rach-id",
-        "requestedAt": "2026-10-23T22:48:25Z"
-      },
-      {
         "number": 8312,
         "title": "refactor: [high] migrate rsmt2d into an independent app module",
         "url": "https://github.com/celestiaorg/celestia-app/pull/8312",
@@ -256,16 +246,6 @@
         "authorCategory": "coworker",
         "reviewer": "rach-id",
         "requestedAt": "2026-10-23T22:55:20Z"
-      },
-      {
-        "number": 8345,
-        "title": "docs: [low] stop repeating the review level in PR descriptions",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/8345",
-        "repo": "celestia-app",
-        "author": "rootulp",
-        "authorCategory": "coworker",
-        "reviewer": "rach-id",
-        "requestedAt": "2026-10-23T22:56:19Z"
       },
       {
         "number": 8235,
@@ -559,5 +539,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-10-24T07:00:19.069Z"
+  "fetchedAt": "2026-10-24T07:19:27.292Z"
 }
