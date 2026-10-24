@@ -80,6 +80,16 @@
         "authorCategory": "coworker",
         "reviewer": "chatton",
         "requestedAt": "2026-10-23T22:45:54Z"
+      },
+      {
+        "number": 3510,
+        "title": "fix(rpc): hold heavy-request slots until JSON-RPC responses are written (backport #3429)",
+        "url": "https://github.com/celestiaorg/celestia-core/pull/3510",
+        "repo": "celestia-core",
+        "author": "mergify",
+        "authorCategory": "bot",
+        "reviewer": "chatton",
+        "requestedAt": "2026-10-24T07:34:02Z"
       }
     ],
     "pippokr": [
@@ -177,26 +187,6 @@
       }
     ],
     "rach-id": [
-      {
-        "number": 3429,
-        "title": "fix(rpc): hold heavy-request slots until JSON-RPC responses are written",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3429",
-        "repo": "celestia-core",
-        "author": "rootulp",
-        "authorCategory": "coworker",
-        "reviewer": "rach-id",
-        "requestedAt": "2026-10-05T12:33:17Z"
-      },
-      {
-        "number": 8341,
-        "title": "perf(fibre): [medium] pre-dial validators and rotate connections before max age",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/8341",
-        "repo": "celestia-app",
-        "author": "walldiss",
-        "authorCategory": "coworker",
-        "reviewer": "rach-id",
-        "requestedAt": "2026-10-23T20:59:15Z"
-      },
       {
         "number": 8342,
         "title": "fix(fibre)!: [high] record historical info before slashing so certificates match CometBFT's signing set",
@@ -413,6 +403,16 @@
         "requestedAt": "2026-10-20T16:51:53Z"
       },
       {
+        "number": 3509,
+        "title": "fix(rpc): hold heavy-request slots until JSON-RPC responses are written (backport #3429)",
+        "url": "https://github.com/celestiaorg/celestia-core/pull/3509",
+        "repo": "celestia-core",
+        "author": "mergify",
+        "authorCategory": "bot",
+        "reviewer": "vgonkivs",
+        "requestedAt": "2026-10-24T07:33:53Z"
+      },
+      {
         "number": 5190,
         "title": "fix(rpc/client): close namespace connections",
         "url": "https://github.com/celestiaorg/celestia-node/pull/5190",
@@ -539,5 +539,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-10-24T07:31:56.807Z"
+  "fetchedAt": "2026-10-24T07:42:38.244Z"
 }
