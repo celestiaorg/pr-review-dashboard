@@ -188,16 +188,6 @@
     ],
     "rach-id": [
       {
-        "number": 8294,
-        "title": "ci: [high] enforce risk-based independent PR reviews in Go",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/8294",
-        "repo": "celestia-app",
-        "author": "rootulp",
-        "authorCategory": "coworker",
-        "reviewer": "rach-id",
-        "requestedAt": "2026-10-23T22:23:14Z"
-      },
-      {
         "number": 8312,
         "title": "refactor: [high] migrate rsmt2d into an independent app module",
         "url": "https://github.com/celestiaorg/celestia-app/pull/8312",
@@ -206,16 +196,6 @@
         "authorCategory": "coworker",
         "reviewer": "rach-id",
         "requestedAt": "2026-10-23T22:53:53Z"
-      },
-      {
-        "number": 8235,
-        "title": "fix(fibre): [medium] bound shard marker sizes by codec limits",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/8235",
-        "repo": "celestia-app",
-        "author": "rootulp",
-        "authorCategory": "coworker",
-        "reviewer": "rach-id",
-        "requestedAt": "2026-10-23T23:22:35Z"
       },
       {
         "number": 8269,
@@ -509,5 +489,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-10-24T07:50:32.111Z"
+  "fetchedAt": "2026-10-24T07:56:59.515Z"
 }
