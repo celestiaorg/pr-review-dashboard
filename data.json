@@ -60,16 +60,6 @@
         "authorCategory": "coworker",
         "reviewer": "chatton",
         "requestedAt": "2026-10-24T08:26:00Z"
-      },
-      {
-        "number": 3510,
-        "title": "fix(rpc): hold heavy-request slots until JSON-RPC responses are written (backport #3429)",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3510",
-        "repo": "celestia-core",
-        "author": "mergify",
-        "authorCategory": "bot",
-        "reviewer": "chatton",
-        "requestedAt": "2026-10-24T07:34:02Z"
       }
     ],
     "pippokr": [
@@ -469,5 +459,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-10-25T05:24:47.893Z"
+  "fetchedAt": "2026-10-25T05:36:07.015Z"
 }
