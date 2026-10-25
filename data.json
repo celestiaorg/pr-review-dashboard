@@ -355,6 +355,16 @@
         "authorCategory": "coworker",
         "reviewer": "walldiss",
         "requestedAt": "2026-10-23T22:56:42Z"
+      },
+      {
+        "number": 5368,
+        "title": "fix: resolve issue #1 - Data availability sampling peer monitor and latency logger",
+        "url": "https://github.com/celestiaorg/celestia-node/pull/5368",
+        "repo": "celestia-node",
+        "author": "hieuk48",
+        "authorCategory": "external",
+        "reviewer": "walldiss",
+        "requestedAt": "2026-10-25T13:24:06Z"
       }
     ]
   },
@@ -409,5 +419,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-10-25T13:14:27.959Z"
+  "fetchedAt": "2026-10-25T13:25:29.759Z"
 }
