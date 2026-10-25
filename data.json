@@ -22,16 +22,6 @@
         "requestedAt": "2026-10-23T11:03:47Z"
       },
       {
-        "number": 8336,
-        "title": "perf(rsema1d): [high] check original rows' RLCs once per download",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/8336",
-        "repo": "celestia-app",
-        "author": "walldiss",
-        "authorCategory": "coworker",
-        "reviewer": "chatton",
-        "requestedAt": "2026-10-23T11:28:14Z"
-      },
-      {
         "number": 5364,
         "title": "feat(node)!: [high] support JWT auth token revocation",
         "url": "https://github.com/celestiaorg/celestia-node/pull/5364",
@@ -231,26 +221,6 @@
         "requestedAt": "2026-10-23T11:19:22Z"
       },
       {
-        "number": 8336,
-        "title": "perf(rsema1d): [high] check original rows' RLCs once per download",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/8336",
-        "repo": "celestia-app",
-        "author": "walldiss",
-        "authorCategory": "coworker",
-        "reviewer": "rootulp",
-        "requestedAt": "2026-10-23T11:28:18Z"
-      },
-      {
-        "number": 8341,
-        "title": "perf(fibre): [medium] pre-dial validators and rotate connections before max age",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/8341",
-        "repo": "celestia-app",
-        "author": "walldiss",
-        "authorCategory": "coworker",
-        "reviewer": "rootulp",
-        "requestedAt": "2026-10-23T20:59:14Z"
-      },
-      {
         "number": 8342,
         "title": "fix(fibre)!: [high] record historical info before slashing so certificates match CometBFT's signing set",
         "url": "https://github.com/celestiaorg/celestia-app/pull/8342",
@@ -259,16 +229,6 @@
         "authorCategory": "coworker",
         "reviewer": "rootulp",
         "requestedAt": "2026-10-23T21:00:19Z"
-      },
-      {
-        "number": 8323,
-        "title": "test(e2e): [low] bump tastora to v0.21.3",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/8323",
-        "repo": "celestia-app",
-        "author": "rach-id",
-        "authorCategory": "coworker",
-        "reviewer": "rootulp",
-        "requestedAt": "2026-10-24T08:25:27Z"
       },
       {
         "number": 8328,
@@ -459,5 +419,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-10-25T05:36:07.015Z"
+  "fetchedAt": "2026-10-25T05:46:11.710Z"
 }
