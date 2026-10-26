@@ -228,6 +228,16 @@
         "authorCategory": "bot",
         "reviewer": "rootulp",
         "requestedAt": "2026-10-26T00:15:52Z"
+      },
+      {
+        "number": 5370,
+        "title": "chore(deps): [medium] bump the go-deps group across 2 directories with 2 updates",
+        "url": "https://github.com/celestiaorg/celestia-node/pull/5370",
+        "repo": "celestia-node",
+        "author": "dependabot",
+        "authorCategory": "bot",
+        "reviewer": "rootulp",
+        "requestedAt": "2026-10-26T11:07:02Z"
       }
     ],
     "vgonkivs": [
@@ -260,16 +270,6 @@
         "authorCategory": "coworker",
         "reviewer": "vgonkivs",
         "requestedAt": "2026-10-23T22:18:14Z"
-      },
-      {
-        "number": 311,
-        "title": "fix: [high] preserve builder state across rejected appends and reverts",
-        "url": "https://github.com/celestiaorg/go-square/pull/311",
-        "repo": "go-square",
-        "author": "rootulp",
-        "authorCategory": "coworker",
-        "reviewer": "vgonkivs",
-        "requestedAt": "2026-10-26T00:13:21Z"
       },
       {
         "number": 8266,
@@ -384,18 +384,7 @@
         "requestedAt": "2026-10-26T06:59:13Z"
       }
     ],
-    "walldiss": [
-      {
-        "number": 311,
-        "title": "fix: [high] preserve builder state across rejected appends and reverts",
-        "url": "https://github.com/celestiaorg/go-square/pull/311",
-        "repo": "go-square",
-        "author": "rootulp",
-        "authorCategory": "coworker",
-        "reviewer": "walldiss",
-        "requestedAt": "2026-10-26T00:13:21Z"
-      }
-    ]
+    "walldiss": []
   },
   "teamMembers": [
     {
@@ -448,5 +437,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-10-26T10:59:09.352Z"
+  "fetchedAt": "2026-10-26T11:21:47.498Z"
 }
