@@ -60,6 +60,16 @@
         "authorCategory": "coworker",
         "reviewer": "chatton",
         "requestedAt": "2026-10-26T09:19:13Z"
+      },
+      {
+        "number": 8354,
+        "title": "chore(deps): [medium] bump the github-actions group with 2 updates",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/8354",
+        "repo": "celestia-app",
+        "author": "dependabot",
+        "authorCategory": "bot",
+        "reviewer": "chatton",
+        "requestedAt": "2026-10-26T09:52:54Z"
       }
     ],
     "pippokr": [
@@ -210,16 +220,6 @@
         "requestedAt": "2026-10-23T21:00:19Z"
       },
       {
-        "number": 8352,
-        "title": "feat(cmd): [low] print the recovery script from the binary",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/8352",
-        "repo": "celestia-app",
-        "author": "vgonkivs",
-        "authorCategory": "coworker",
-        "reviewer": "rootulp",
-        "requestedAt": "2026-10-26T08:34:23Z"
-      },
-      {
         "number": 588,
         "title": "chore(peers): [medium] refresh mainnet peers + addrbook",
         "url": "https://github.com/celestiaorg/networks/pull/588",
@@ -290,6 +290,16 @@
         "authorCategory": "bot",
         "reviewer": "vgonkivs",
         "requestedAt": "2026-10-24T07:33:53Z"
+      },
+      {
+        "number": 8353,
+        "title": "chore(deps): [high] bump the go-deps group with 4 updates",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/8353",
+        "repo": "celestia-app",
+        "author": "dependabot",
+        "authorCategory": "bot",
+        "reviewer": "vgonkivs",
+        "requestedAt": "2026-10-26T09:50:09Z"
       },
       {
         "number": 5190,
@@ -448,5 +458,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-10-26T09:47:27.609Z"
+  "fetchedAt": "2026-10-26T10:02:39.446Z"
 }
