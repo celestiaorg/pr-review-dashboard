@@ -82,6 +82,16 @@
         "requestedAt": "2026-10-26T14:40:15Z"
       },
       {
+        "number": 1041,
+        "title": "fix(monitoring): [high] stop an empty telemetry metric name from 500ing the whole /metrics endpoint",
+        "url": "https://github.com/celestiaorg/infrastructure/pull/1041",
+        "repo": "infrastructure",
+        "author": "pippokr",
+        "authorCategory": "coworker",
+        "reviewer": "chatton",
+        "requestedAt": "2026-10-26T15:12:06Z"
+      },
+      {
         "number": 8354,
         "title": "chore(deps): [medium] bump the github-actions group with 2 updates",
         "url": "https://github.com/celestiaorg/celestia-app/pull/8354",
@@ -428,5 +438,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-10-26T15:04:21.851Z"
+  "fetchedAt": "2026-10-26T15:36:38.354Z"
 }
