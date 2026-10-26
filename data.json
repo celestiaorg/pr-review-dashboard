@@ -50,6 +50,16 @@
         "authorCategory": "coworker",
         "reviewer": "chatton",
         "requestedAt": "2026-10-24T08:26:00Z"
+      },
+      {
+        "number": 1036,
+        "title": "fix(ci): [high] bot workflows must create signed commits",
+        "url": "https://github.com/celestiaorg/infrastructure/pull/1036",
+        "repo": "infrastructure",
+        "author": "pippokr",
+        "authorCategory": "coworker",
+        "reviewer": "chatton",
+        "requestedAt": "2026-10-26T09:19:13Z"
       }
     ],
     "pippokr": [
@@ -449,5 +459,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-10-26T08:57:01.772Z"
+  "fetchedAt": "2026-10-26T09:24:04.874Z"
 }
