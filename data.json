@@ -386,16 +386,6 @@
     ],
     "walldiss": [
       {
-        "number": 5367,
-        "title": "docs: [low] stop repeating the review level in PR descriptions",
-        "url": "https://github.com/celestiaorg/celestia-node/pull/5367",
-        "repo": "celestia-node",
-        "author": "rootulp",
-        "authorCategory": "coworker",
-        "reviewer": "walldiss",
-        "requestedAt": "2026-10-23T22:56:42Z"
-      },
-      {
         "number": 311,
         "title": "fix: [high] preserve builder state across rejected appends and reverts",
         "url": "https://github.com/celestiaorg/go-square/pull/311",
@@ -458,5 +448,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-10-26T10:51:32.914Z"
+  "fetchedAt": "2026-10-26T10:59:09.352Z"
 }
