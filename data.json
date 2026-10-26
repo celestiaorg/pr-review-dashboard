@@ -136,38 +136,7 @@
         "requestedAt": "2026-10-17T17:24:24Z"
       }
     ],
-    "rach-id": [
-      {
-        "number": 8350,
-        "title": "test(app): [low] wait for the app to commit before querying fibre provider info",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/8350",
-        "repo": "celestia-app",
-        "author": "rootulp",
-        "authorCategory": "coworker",
-        "reviewer": "rach-id",
-        "requestedAt": "2026-10-25T23:53:27Z"
-      },
-      {
-        "number": 589,
-        "title": "chore(peers): [medium] refresh mocha-5 peers",
-        "url": "https://github.com/celestiaorg/networks/pull/589",
-        "repo": "networks",
-        "author": "github-actions",
-        "authorCategory": "bot",
-        "reviewer": "rach-id",
-        "requestedAt": "2026-10-26T00:15:52Z"
-      },
-      {
-        "number": 8328,
-        "title": "feat(cmd): [medium] add app.toml to config sync",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/8328",
-        "repo": "celestia-app",
-        "author": "alexeymoskalev-devops",
-        "authorCategory": "external",
-        "reviewer": "rach-id",
-        "requestedAt": "2026-10-23T14:46:42Z"
-      }
-    ],
+    "rach-id": [],
     "renaynay": [],
     "rootulp": [
       {
@@ -469,5 +438,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-10-26T07:15:28.266Z"
+  "fetchedAt": "2026-10-26T07:47:27.608Z"
 }
