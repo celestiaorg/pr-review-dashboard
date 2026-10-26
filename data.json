@@ -32,16 +32,6 @@
         "requestedAt": "2026-10-23T18:40:03Z"
       },
       {
-        "number": 8344,
-        "title": "test: [low] fail fast when genesis sync has no archive peers",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/8344",
-        "repo": "celestia-app",
-        "author": "rootulp",
-        "authorCategory": "coworker",
-        "reviewer": "chatton",
-        "requestedAt": "2026-10-23T22:45:54Z"
-      },
-      {
         "number": 1035,
         "title": "fix(ci): [medium] prepare workflows stop racing on shared /tmp",
         "url": "https://github.com/celestiaorg/infrastructure/pull/1035",
@@ -80,6 +70,16 @@
         "authorCategory": "coworker",
         "reviewer": "chatton",
         "requestedAt": "2026-10-26T12:43:47Z"
+      },
+      {
+        "number": 8251,
+        "title": "feat(fibre): [high] account DownloadShard responses against the memory budget",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/8251",
+        "repo": "celestia-app",
+        "author": "walldiss",
+        "authorCategory": "coworker",
+        "reviewer": "chatton",
+        "requestedAt": "2026-10-26T14:40:15Z"
       },
       {
         "number": 8354,
@@ -166,7 +166,28 @@
         "requestedAt": "2026-10-17T17:24:24Z"
       }
     ],
-    "rach-id": [],
+    "rach-id": [
+      {
+        "number": 8356,
+        "title": "docs: [low] add rollback runbooks and an incident recovery skill",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/8356",
+        "repo": "celestia-app",
+        "author": "vgonkivs",
+        "authorCategory": "coworker",
+        "reviewer": "rach-id",
+        "requestedAt": "2026-10-26T14:13:30Z"
+      },
+      {
+        "number": 8344,
+        "title": "test: [low] fail fast when genesis sync has no archive peers",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/8344",
+        "repo": "celestia-app",
+        "author": "rootulp",
+        "authorCategory": "coworker",
+        "reviewer": "rach-id",
+        "requestedAt": "2026-10-26T14:13:54Z"
+      }
+    ],
     "renaynay": [],
     "rootulp": [
       {
@@ -238,18 +259,38 @@
         "authorCategory": "coworker",
         "reviewer": "rootulp",
         "requestedAt": "2026-10-26T11:46:55Z"
+      },
+      {
+        "number": 8356,
+        "title": "docs: [low] add rollback runbooks and an incident recovery skill",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/8356",
+        "repo": "celestia-app",
+        "author": "vgonkivs",
+        "authorCategory": "coworker",
+        "reviewer": "rootulp",
+        "requestedAt": "2026-10-26T14:13:30Z"
+      },
+      {
+        "number": 8358,
+        "title": "feat(fibre): [low] cap gRPC header list size",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/8358",
+        "repo": "celestia-app",
+        "author": "walldiss",
+        "authorCategory": "coworker",
+        "reviewer": "rootulp",
+        "requestedAt": "2026-10-26T14:44:56Z"
       }
     ],
     "vgonkivs": [
       {
-        "number": 3509,
-        "title": "fix(rpc): hold heavy-request slots until JSON-RPC responses are written (backport #3429)",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3509",
-        "repo": "celestia-core",
-        "author": "mergify",
-        "authorCategory": "bot",
+        "number": 8250,
+        "title": "feat(fibre): [high] admit gRPC requests by memory budget",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/8250",
+        "repo": "celestia-app",
+        "author": "walldiss",
+        "authorCategory": "coworker",
         "reviewer": "vgonkivs",
-        "requestedAt": "2026-10-24T07:33:53Z"
+        "requestedAt": "2026-10-26T14:40:13Z"
       },
       {
         "number": 5190,
@@ -387,5 +428,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-10-26T13:57:33.916Z"
+  "fetchedAt": "2026-10-26T15:04:21.851Z"
 }
