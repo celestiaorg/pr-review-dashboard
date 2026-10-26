@@ -62,6 +62,26 @@
         "requestedAt": "2026-10-26T09:19:13Z"
       },
       {
+        "number": 1038,
+        "title": "fix(monitoring): [low] corto validator version column is stuck on v10.4.0",
+        "url": "https://github.com/celestiaorg/infrastructure/pull/1038",
+        "repo": "infrastructure",
+        "author": "pippokr",
+        "authorCategory": "coworker",
+        "reviewer": "chatton",
+        "requestedAt": "2026-10-26T12:11:18Z"
+      },
+      {
+        "number": 1040,
+        "title": "feat(relay): [high] add backup bare metal units for relay-devnet and relay-mainnet",
+        "url": "https://github.com/celestiaorg/infrastructure/pull/1040",
+        "repo": "infrastructure",
+        "author": "pippokr",
+        "authorCategory": "coworker",
+        "reviewer": "chatton",
+        "requestedAt": "2026-10-26T12:43:47Z"
+      },
+      {
         "number": 8354,
         "title": "chore(deps): [medium] bump the github-actions group with 2 updates",
         "url": "https://github.com/celestiaorg/celestia-app/pull/8354",
@@ -102,16 +122,6 @@
         "authorCategory": "coworker",
         "reviewer": "pippokr",
         "requestedAt": "2026-10-23T11:15:46Z"
-      },
-      {
-        "number": 700,
-        "title": "feat: implement intoHeight trait",
-        "url": "https://github.com/celestiaorg/lumina/pull/700",
-        "repo": "lumina",
-        "author": "varun-doshi",
-        "authorCategory": "external",
-        "reviewer": "pippokr",
-        "requestedAt": "2026-10-22T14:52:30Z"
       }
     ],
     "ninabarbakadze": [
@@ -228,69 +238,9 @@
         "authorCategory": "coworker",
         "reviewer": "rootulp",
         "requestedAt": "2026-10-26T11:46:55Z"
-      },
-      {
-        "number": 588,
-        "title": "chore(peers): [medium] refresh mainnet peers + addrbook",
-        "url": "https://github.com/celestiaorg/networks/pull/588",
-        "repo": "networks",
-        "author": "github-actions",
-        "authorCategory": "bot",
-        "reviewer": "rootulp",
-        "requestedAt": "2026-10-26T00:15:52Z"
-      },
-      {
-        "number": 5370,
-        "title": "chore(deps): [medium] bump the go-deps group across 2 directories with 2 updates",
-        "url": "https://github.com/celestiaorg/celestia-node/pull/5370",
-        "repo": "celestia-node",
-        "author": "dependabot",
-        "authorCategory": "bot",
-        "reviewer": "rootulp",
-        "requestedAt": "2026-10-26T11:07:02Z"
       }
     ],
     "vgonkivs": [
-      {
-        "number": 5363,
-        "title": "fix(api/docgen): [low] add authenticated RPC request guidance",
-        "url": "https://github.com/celestiaorg/celestia-node/pull/5363",
-        "repo": "celestia-node",
-        "author": "jcstein",
-        "authorCategory": "coworker",
-        "reviewer": "vgonkivs",
-        "requestedAt": "2026-10-23T18:35:21Z"
-      },
-      {
-        "number": 5365,
-        "title": "ci(deps): [medium] sign Dependabot tidy commits through GitHub",
-        "url": "https://github.com/celestiaorg/celestia-node/pull/5365",
-        "repo": "celestia-node",
-        "author": "rootulp",
-        "authorCategory": "coworker",
-        "reviewer": "vgonkivs",
-        "requestedAt": "2026-10-23T21:43:14Z"
-      },
-      {
-        "number": 8311,
-        "title": "docs(valaddr): [low] clarify that only bonded status gates host registration",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/8311",
-        "repo": "celestia-app",
-        "author": "rootulp",
-        "authorCategory": "coworker",
-        "reviewer": "vgonkivs",
-        "requestedAt": "2026-10-23T22:18:14Z"
-      },
-      {
-        "number": 8266,
-        "title": "chore(deps): bump github.com/klauspost/compress from 1.16.0 to 1.18.7 in /tools/pebble-rebuild",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/8266",
-        "repo": "celestia-app",
-        "author": "dependabot",
-        "authorCategory": "bot",
-        "reviewer": "vgonkivs",
-        "requestedAt": "2026-10-20T16:51:53Z"
-      },
       {
         "number": 3509,
         "title": "fix(rpc): hold heavy-request slots until JSON-RPC responses are written (backport #3429)",
@@ -300,16 +250,6 @@
         "authorCategory": "bot",
         "reviewer": "vgonkivs",
         "requestedAt": "2026-10-24T07:33:53Z"
-      },
-      {
-        "number": 8353,
-        "title": "chore(deps): [high] bump the go-deps group with 4 updates",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/8353",
-        "repo": "celestia-app",
-        "author": "dependabot",
-        "authorCategory": "bot",
-        "reviewer": "vgonkivs",
-        "requestedAt": "2026-10-26T09:50:09Z"
       },
       {
         "number": 5190,
@@ -340,19 +280,19 @@
         "authorCategory": "external",
         "reviewer": "vgonkivs",
         "requestedAt": "2026-08-28T19:04:55Z"
+      },
+      {
+        "number": 700,
+        "title": "feat: implement intoHeight trait",
+        "url": "https://github.com/celestiaorg/lumina/pull/700",
+        "repo": "lumina",
+        "author": "varun-doshi",
+        "authorCategory": "external",
+        "reviewer": "vgonkivs",
+        "requestedAt": "2026-10-26T13:09:49Z"
       }
     ],
     "theodorebugnet": [
-      {
-        "number": 1147,
-        "title": "fix(types)!: [high] add missing celestia-app tx error codes",
-        "url": "https://github.com/celestiaorg/lumina/pull/1147",
-        "repo": "lumina",
-        "author": "citizen-stig",
-        "authorCategory": "coworker",
-        "reviewer": "theodorebugnet",
-        "requestedAt": "2026-10-23T10:25:45Z"
-      },
       {
         "number": 8333,
         "title": "perf(grpc): [high] alias download rows into the materialized buffer",
@@ -374,14 +314,14 @@
         "requestedAt": "2026-10-23T21:44:40Z"
       },
       {
-        "number": 8340,
-        "title": "fix(zkism)!: [high] limit number of messages per ISM proof  ",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/8340",
-        "repo": "celestia-app",
-        "author": "jonas089",
-        "authorCategory": "coworker",
+        "number": 3513,
+        "title": "fix(p2p): [high] reject weak Ed25519 peer identity keys (backport #3501)",
+        "url": "https://github.com/celestiaorg/celestia-core/pull/3513",
+        "repo": "celestia-core",
+        "author": "mergify",
+        "authorCategory": "bot",
         "reviewer": "theodorebugnet",
-        "requestedAt": "2026-10-25T21:56:12Z"
+        "requestedAt": "2026-10-26T13:55:04Z"
       },
       {
         "number": 590,
@@ -447,5 +387,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-10-26T12:07:02.873Z"
+  "fetchedAt": "2026-10-26T13:57:33.916Z"
 }
