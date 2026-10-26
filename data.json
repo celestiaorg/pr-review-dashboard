@@ -50,6 +50,16 @@
         "authorCategory": "coworker",
         "reviewer": "chatton",
         "requestedAt": "2026-10-24T08:26:00Z"
+      },
+      {
+        "number": 311,
+        "title": "fix: [high] preserve builder state across rejected appends and reverts",
+        "url": "https://github.com/celestiaorg/go-square/pull/311",
+        "repo": "go-square",
+        "author": "rootulp",
+        "authorCategory": "coworker",
+        "reviewer": "chatton",
+        "requestedAt": "2026-10-26T00:01:52Z"
       }
     ],
     "pippokr": [
@@ -439,5 +449,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-10-25T23:54:28.017Z"
+  "fetchedAt": "2026-10-26T00:06:33.775Z"
 }
