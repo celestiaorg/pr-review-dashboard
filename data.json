@@ -136,26 +136,6 @@
     ],
     "ninabarbakadze": [
       {
-        "number": 8181,
-        "title": "perf(fibre): [medium] skip object HEAD checks during uploads",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/8181",
-        "repo": "celestia-app",
-        "author": "walldiss",
-        "authorCategory": "coworker",
-        "reviewer": "ninabarbakadze",
-        "requestedAt": "2026-10-17T17:23:03Z"
-      },
-      {
-        "number": 8177,
-        "title": "perf(row): [medium] pad codec work rows off the power-of-two stride",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/8177",
-        "repo": "celestia-app",
-        "author": "walldiss",
-        "authorCategory": "coworker",
-        "reviewer": "ninabarbakadze",
-        "requestedAt": "2026-10-17T17:23:13Z"
-      },
-      {
         "number": 7889,
         "title": "feat: confirm fibre uploads through subscriptions",
         "url": "https://github.com/celestiaorg/celestia-app/pull/7889",
@@ -164,16 +144,6 @@
         "authorCategory": "coworker",
         "reviewer": "ninabarbakadze",
         "requestedAt": "2026-10-17T17:24:21Z"
-      },
-      {
-        "number": 7888,
-        "title": "feat: add subscription transaction confirmation",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7888",
-        "repo": "celestia-app",
-        "author": "walldiss",
-        "authorCategory": "coworker",
-        "reviewer": "ninabarbakadze",
-        "requestedAt": "2026-10-17T17:24:24Z"
       }
     ],
     "rach-id": [
@@ -438,5 +408,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-10-26T15:36:38.354Z"
+  "fetchedAt": "2026-10-26T15:56:32.734Z"
 }
