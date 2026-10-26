@@ -383,6 +383,16 @@
         "authorCategory": "coworker",
         "reviewer": "theodorebugnet",
         "requestedAt": "2026-10-25T21:56:12Z"
+      },
+      {
+        "number": 590,
+        "title": "chore(seeds): [high] add NODERS seeds for celestia and mocha-5",
+        "url": "https://github.com/celestiaorg/networks/pull/590",
+        "repo": "networks",
+        "author": "alexeymoskalev-devops",
+        "authorCategory": "external",
+        "reviewer": "theodorebugnet",
+        "requestedAt": "2026-10-26T06:59:13Z"
       }
     ],
     "walldiss": [
@@ -459,5 +469,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-10-26T06:44:04.882Z"
+  "fetchedAt": "2026-10-26T07:15:28.266Z"
 }
