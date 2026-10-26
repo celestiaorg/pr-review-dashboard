@@ -229,16 +229,6 @@
         "authorCategory": "coworker",
         "reviewer": "rootulp",
         "requestedAt": "2026-10-26T19:12:41Z"
-      },
-      {
-        "number": 5371,
-        "title": "docs(nodebuilder): [low] remove stale DA module reference",
-        "url": "https://github.com/celestiaorg/celestia-node/pull/5371",
-        "repo": "celestia-node",
-        "author": "jcstein",
-        "authorCategory": "coworker",
-        "reviewer": "rootulp",
-        "requestedAt": "2026-10-26T20:59:28Z"
       }
     ],
     "vgonkivs": [
@@ -419,5 +409,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-10-26T22:31:55.142Z"
+  "fetchedAt": "2026-10-26T22:43:30.281Z"
 }
