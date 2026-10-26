@@ -12,16 +12,6 @@
         "requestedAt": "2026-10-22T14:52:29Z"
       },
       {
-        "number": 8329,
-        "title": "perf(merkle): [high] hash Merkle leaves two at a time with interleaved SHA-256 on arm64",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/8329",
-        "repo": "celestia-app",
-        "author": "walldiss",
-        "authorCategory": "coworker",
-        "reviewer": "chatton",
-        "requestedAt": "2026-10-23T11:03:47Z"
-      },
-      {
         "number": 5364,
         "title": "feat(node)!: [high] support JWT auth token revocation",
         "url": "https://github.com/celestiaorg/celestia-node/pull/5364",
@@ -126,18 +116,7 @@
         "requestedAt": "2026-10-17T17:24:21Z"
       }
     ],
-    "rach-id": [
-      {
-        "number": 8329,
-        "title": "perf(merkle): [high] hash Merkle leaves two at a time with interleaved SHA-256 on arm64",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/8329",
-        "repo": "celestia-app",
-        "author": "walldiss",
-        "authorCategory": "coworker",
-        "reviewer": "rach-id",
-        "requestedAt": "2026-10-26T20:06:05Z"
-      }
-    ],
+    "rach-id": [],
     "renaynay": [],
     "rootulp": [
       {
@@ -319,5 +298,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-10-26T22:52:08.816Z"
+  "fetchedAt": "2026-10-26T22:58:37.685Z"
 }
