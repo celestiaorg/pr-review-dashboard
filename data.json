@@ -80,6 +80,16 @@
         "authorCategory": "coworker",
         "reviewer": "chatton",
         "requestedAt": "2026-10-26T15:12:06Z"
+      },
+      {
+        "number": 592,
+        "title": "ci: [medium] verify seeds and peers added by a pull request",
+        "url": "https://github.com/celestiaorg/networks/pull/592",
+        "repo": "networks",
+        "author": "rootulp",
+        "authorCategory": "coworker",
+        "reviewer": "chatton",
+        "requestedAt": "2026-10-26T23:47:38Z"
       }
     ],
     "pippokr": [
@@ -116,7 +126,18 @@
         "requestedAt": "2026-10-17T17:24:21Z"
       }
     ],
-    "rach-id": [],
+    "rach-id": [
+      {
+        "number": 312,
+        "title": "perf(tx): [high] add UnmarshalBlobTxNoCopy, a one-pass canonical BlobTx decoder",
+        "url": "https://github.com/celestiaorg/go-square/pull/312",
+        "repo": "go-square",
+        "author": "rootulp",
+        "authorCategory": "coworker",
+        "reviewer": "rach-id",
+        "requestedAt": "2026-10-26T23:51:32Z"
+      }
+    ],
     "renaynay": [],
     "rootulp": [],
     "vgonkivs": [
@@ -267,5 +288,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-10-26T23:46:03.626Z"
+  "fetchedAt": "2026-10-26T23:52:48.718Z"
 }
