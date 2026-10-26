@@ -229,6 +229,16 @@
         "authorCategory": "coworker",
         "reviewer": "rootulp",
         "requestedAt": "2026-10-26T19:12:41Z"
+      },
+      {
+        "number": 5371,
+        "title": "docs(nodebuilder): [low] remove stale DA module reference",
+        "url": "https://github.com/celestiaorg/celestia-node/pull/5371",
+        "repo": "celestia-node",
+        "author": "jcstein",
+        "authorCategory": "coworker",
+        "reviewer": "rootulp",
+        "requestedAt": "2026-10-26T20:59:28Z"
       }
     ],
     "vgonkivs": [
@@ -345,6 +355,16 @@
         "authorCategory": "coworker",
         "reviewer": "walldiss",
         "requestedAt": "2026-10-26T18:34:38Z"
+      },
+      {
+        "number": 5372,
+        "title": "fix(shwap/bitswap): [low] stop noisy hasher logs (closes #3864)",
+        "url": "https://github.com/celestiaorg/celestia-node/pull/5372",
+        "repo": "celestia-node",
+        "author": "jcstein",
+        "authorCategory": "coworker",
+        "reviewer": "walldiss",
+        "requestedAt": "2026-10-26T21:00:04Z"
       }
     ]
   },
@@ -399,5 +419,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-10-26T20:54:17.146Z"
+  "fetchedAt": "2026-10-26T21:01:29.318Z"
 }
