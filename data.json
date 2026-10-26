@@ -112,16 +112,6 @@
         "authorCategory": "coworker",
         "reviewer": "pippokr",
         "requestedAt": "2026-10-23T10:37:34Z"
-      },
-      {
-        "number": 8332,
-        "title": "perf(fibre): [high] reuse pooled upload buffers",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/8332",
-        "repo": "celestia-app",
-        "author": "walldiss",
-        "authorCategory": "coworker",
-        "reviewer": "pippokr",
-        "requestedAt": "2026-10-23T11:15:46Z"
       }
     ],
     "ninabarbakadze": [
@@ -151,66 +141,6 @@
     "renaynay": [],
     "rootulp": [
       {
-        "number": 8329,
-        "title": "perf(merkle): [high] hash Merkle leaves two at a time with interleaved SHA-256 on arm64",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/8329",
-        "repo": "celestia-app",
-        "author": "walldiss",
-        "authorCategory": "coworker",
-        "reviewer": "rootulp",
-        "requestedAt": "2026-10-23T11:03:54Z"
-      },
-      {
-        "number": 8331,
-        "title": "perf(fibre): [high] decode upload shard views without copies",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/8331",
-        "repo": "celestia-app",
-        "author": "walldiss",
-        "authorCategory": "coworker",
-        "reviewer": "rootulp",
-        "requestedAt": "2026-10-23T11:19:15Z"
-      },
-      {
-        "number": 8332,
-        "title": "perf(fibre): [high] reuse pooled upload buffers",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/8332",
-        "repo": "celestia-app",
-        "author": "walldiss",
-        "authorCategory": "coworker",
-        "reviewer": "rootulp",
-        "requestedAt": "2026-10-23T11:19:17Z"
-      },
-      {
-        "number": 8333,
-        "title": "perf(grpc): [high] alias download rows into the materialized buffer",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/8333",
-        "repo": "celestia-app",
-        "author": "walldiss",
-        "authorCategory": "coworker",
-        "reviewer": "rootulp",
-        "requestedAt": "2026-10-23T11:19:20Z"
-      },
-      {
-        "number": 8334,
-        "title": "perf(fibre): [high] recycle download shard buffers",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/8334",
-        "repo": "celestia-app",
-        "author": "walldiss",
-        "authorCategory": "coworker",
-        "reviewer": "rootulp",
-        "requestedAt": "2026-10-23T11:19:22Z"
-      },
-      {
-        "number": 8342,
-        "title": "fix(fibre)!: [high] record historical info before slashing so certificates match CometBFT's signing set",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/8342",
-        "repo": "celestia-app",
-        "author": "walldiss",
-        "authorCategory": "coworker",
-        "reviewer": "rootulp",
-        "requestedAt": "2026-10-23T21:00:19Z"
-      },
-      {
         "number": 8340,
         "title": "fix(zkism)!: [high] limit number of messages per ISM proof  ",
         "url": "https://github.com/celestiaorg/celestia-app/pull/8340",
@@ -219,16 +149,6 @@
         "authorCategory": "coworker",
         "reviewer": "rootulp",
         "requestedAt": "2026-10-26T11:46:55Z"
-      },
-      {
-        "number": 7888,
-        "title": "feat: add subscription transaction confirmation",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7888",
-        "repo": "celestia-app",
-        "author": "walldiss",
-        "authorCategory": "coworker",
-        "reviewer": "rootulp",
-        "requestedAt": "2026-10-26T19:12:41Z"
       }
     ],
     "vgonkivs": [
@@ -294,16 +214,6 @@
       }
     ],
     "theodorebugnet": [
-      {
-        "number": 8333,
-        "title": "perf(grpc): [high] alias download rows into the materialized buffer",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/8333",
-        "repo": "celestia-app",
-        "author": "walldiss",
-        "authorCategory": "coworker",
-        "reviewer": "theodorebugnet",
-        "requestedAt": "2026-10-23T11:15:48Z"
-      },
       {
         "number": 5366,
         "title": "fix(cmd): [high] refine blob submit inputs and RPC authentication",
@@ -409,5 +319,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-10-26T22:43:30.281Z"
+  "fetchedAt": "2026-10-26T22:52:08.816Z"
 }
