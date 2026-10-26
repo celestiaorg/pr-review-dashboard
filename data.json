@@ -220,6 +220,16 @@
         "requestedAt": "2026-10-23T21:00:19Z"
       },
       {
+        "number": 8340,
+        "title": "fix(zkism)!: [high] limit number of messages per ISM proof  ",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/8340",
+        "repo": "celestia-app",
+        "author": "jonas089",
+        "authorCategory": "coworker",
+        "reviewer": "rootulp",
+        "requestedAt": "2026-10-26T11:46:55Z"
+      },
+      {
         "number": 588,
         "title": "chore(peers): [medium] refresh mainnet peers + addrbook",
         "url": "https://github.com/celestiaorg/networks/pull/588",
@@ -437,5 +447,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-10-26T11:38:46.002Z"
+  "fetchedAt": "2026-10-26T12:07:02.873Z"
 }
