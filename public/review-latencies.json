@@ -2,9 +2,9 @@
   "latencies": {
     "chatton": {
       "week": {
-        "n": 37,
-        "medianHours": 0.9175,
-        "p90Hours": 40.26083333333333
+        "n": 0,
+        "medianHours": null,
+        "p90Hours": null
       },
       "month": {
         "n": 89,
@@ -19,9 +19,9 @@
     },
     "pippokr": {
       "week": {
-        "n": 13,
-        "medianHours": 1.523611111111111,
-        "p90Hours": 18.003611111111113
+        "n": 0,
+        "medianHours": null,
+        "p90Hours": null
       },
       "month": {
         "n": 39,
@@ -53,19 +53,19 @@
     },
     "rach-id": {
       "week": {
-        "n": 76,
-        "medianHours": 3.777222222222222,
-        "p90Hours": 46.22611111111111
+        "n": 0,
+        "medianHours": null,
+        "p90Hours": null
       },
       "month": {
-        "n": 172,
+        "n": 173,
         "medianHours": 2.825,
         "p90Hours": 21.891111111111112
       },
       "year": {
         "n": 767,
-        "medianHours": 1.9458333333333333,
-        "p90Hours": 17.404166666666665
+        "medianHours": 1.9983333333333333,
+        "p90Hours": 18.379444444444445
       }
     },
     "renaynay": {
@@ -87,26 +87,26 @@
     },
     "rootulp": {
       "week": {
-        "n": 38,
-        "medianHours": 1.6236111111111111,
-        "p90Hours": 7.530555555555556
+        "n": 0,
+        "medianHours": null,
+        "p90Hours": null
       },
       "month": {
-        "n": 81,
-        "medianHours": 2.8647222222222224,
+        "n": 82,
+        "medianHours": 3.6855555555555557,
         "p90Hours": 25.554444444444446
       },
       "year": {
-        "n": 347,
-        "medianHours": 3.5058333333333334,
+        "n": 348,
+        "medianHours": 3.5505555555555555,
         "p90Hours": 22.831666666666667
       }
     },
     "vgonkivs": {
       "week": {
-        "n": 14,
-        "medianHours": 17.585833333333333,
-        "p90Hours": 89.94833333333334
+        "n": 0,
+        "medianHours": null,
+        "p90Hours": null
       },
       "month": {
         "n": 23,
@@ -138,9 +138,9 @@
     },
     "walldiss": {
       "week": {
-        "n": 7,
-        "medianHours": 61.85138888888889,
-        "p90Hours": 110.31666666666666
+        "n": 0,
+        "medianHours": null,
+        "p90Hours": null
       },
       "month": {
         "n": 14,
@@ -201,9 +201,9 @@
       "defaultHidden": false
     }
   ],
-  "computedAt": "2026-10-25T00:08:39.870Z",
+  "computedAt": "2026-10-26T00:08:53.138Z",
   "windows": {
-    "weekStart": "2026-10-19T00:00:00.000Z",
+    "weekStart": "2026-10-26T00:00:00.000Z",
     "monthStart": "2026-10-01T00:00:00.000Z",
     "yearStart": "2026-01-01T00:00:00.000Z"
   }
