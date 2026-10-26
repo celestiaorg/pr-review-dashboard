@@ -118,18 +118,7 @@
     ],
     "rach-id": [],
     "renaynay": [],
-    "rootulp": [
-      {
-        "number": 590,
-        "title": "chore(seeds): [high] add NODERS seeds for celestia and mocha-5",
-        "url": "https://github.com/celestiaorg/networks/pull/590",
-        "repo": "networks",
-        "author": "alexeymoskalev-devops",
-        "authorCategory": "external",
-        "reviewer": "rootulp",
-        "requestedAt": "2026-10-26T23:24:19Z"
-      }
-    ],
+    "rootulp": [],
     "vgonkivs": [
       {
         "number": 8250,
@@ -278,5 +267,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-10-26T23:27:32.432Z"
+  "fetchedAt": "2026-10-26T23:38:48.339Z"
 }
