@@ -136,7 +136,18 @@
         "requestedAt": "2026-10-17T17:24:24Z"
       }
     ],
-    "rach-id": [],
+    "rach-id": [
+      {
+        "number": 8352,
+        "title": "feat(cmd): [low] print the recovery script from the binary",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/8352",
+        "repo": "celestia-app",
+        "author": "vgonkivs",
+        "authorCategory": "coworker",
+        "reviewer": "rach-id",
+        "requestedAt": "2026-10-26T08:34:23Z"
+      }
+    ],
     "renaynay": [],
     "rootulp": [
       {
@@ -198,6 +209,16 @@
         "authorCategory": "coworker",
         "reviewer": "rootulp",
         "requestedAt": "2026-10-23T21:00:19Z"
+      },
+      {
+        "number": 8352,
+        "title": "feat(cmd): [low] print the recovery script from the binary",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/8352",
+        "repo": "celestia-app",
+        "author": "vgonkivs",
+        "authorCategory": "coworker",
+        "reviewer": "rootulp",
+        "requestedAt": "2026-10-26T08:34:23Z"
       },
       {
         "number": 588,
@@ -438,5 +459,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-10-26T08:03:31.868Z"
+  "fetchedAt": "2026-10-26T08:36:46.992Z"
 }
