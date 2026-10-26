@@ -146,6 +146,16 @@
         "authorCategory": "coworker",
         "reviewer": "rach-id",
         "requestedAt": "2026-10-26T18:35:55Z"
+      },
+      {
+        "number": 7888,
+        "title": "feat: add subscription transaction confirmation",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/7888",
+        "repo": "celestia-app",
+        "author": "walldiss",
+        "authorCategory": "coworker",
+        "reviewer": "rach-id",
+        "requestedAt": "2026-10-26T19:12:41Z"
       }
     ],
     "renaynay": [],
@@ -219,6 +229,16 @@
         "authorCategory": "coworker",
         "reviewer": "rootulp",
         "requestedAt": "2026-10-26T11:46:55Z"
+      },
+      {
+        "number": 7888,
+        "title": "feat: add subscription transaction confirmation",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/7888",
+        "repo": "celestia-app",
+        "author": "walldiss",
+        "authorCategory": "coworker",
+        "reviewer": "rootulp",
+        "requestedAt": "2026-10-26T19:12:41Z"
       }
     ],
     "vgonkivs": [
@@ -389,5 +409,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-10-26T19:03:47.094Z"
+  "fetchedAt": "2026-10-26T19:20:42.550Z"
 }
