@@ -12,16 +12,6 @@
         "requestedAt": "2026-10-22T14:52:29Z"
       },
       {
-        "number": 8329,
-        "title": "perf(merkle): [high] hash Merkle leaves two at a time with interleaved SHA-256 on arm64",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/8329",
-        "repo": "celestia-app",
-        "author": "walldiss",
-        "authorCategory": "coworker",
-        "reviewer": "chatton",
-        "requestedAt": "2026-10-23T11:03:47Z"
-      },
-      {
         "number": 5364,
         "title": "feat(node)!: [high] support JWT auth token revocation",
         "url": "https://github.com/celestiaorg/celestia-node/pull/5364",
@@ -72,16 +62,6 @@
         "requestedAt": "2026-10-26T12:43:47Z"
       },
       {
-        "number": 8251,
-        "title": "feat(fibre): [high] account DownloadShard responses against the memory budget",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/8251",
-        "repo": "celestia-app",
-        "author": "walldiss",
-        "authorCategory": "coworker",
-        "reviewer": "chatton",
-        "requestedAt": "2026-10-26T14:40:15Z"
-      },
-      {
         "number": 1041,
         "title": "fix(monitoring): [high] stop an empty telemetry metric name from 500ing the whole /metrics endpoint",
         "url": "https://github.com/celestiaorg/infrastructure/pull/1041",
@@ -90,16 +70,6 @@
         "authorCategory": "coworker",
         "reviewer": "chatton",
         "requestedAt": "2026-10-26T15:12:06Z"
-      },
-      {
-        "number": 8354,
-        "title": "chore(deps): [medium] bump the github-actions group with 2 updates",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/8354",
-        "repo": "celestia-app",
-        "author": "dependabot",
-        "authorCategory": "bot",
-        "reviewer": "chatton",
-        "requestedAt": "2026-10-26T09:52:54Z"
       }
     ],
     "pippokr": [
@@ -122,135 +92,13 @@
         "authorCategory": "coworker",
         "reviewer": "pippokr",
         "requestedAt": "2026-10-23T10:37:34Z"
-      },
-      {
-        "number": 8332,
-        "title": "perf(fibre): [high] reuse pooled upload buffers",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/8332",
-        "repo": "celestia-app",
-        "author": "walldiss",
-        "authorCategory": "coworker",
-        "reviewer": "pippokr",
-        "requestedAt": "2026-10-23T11:15:46Z"
       }
     ],
-    "ninabarbakadze": [
-      {
-        "number": 7889,
-        "title": "feat: confirm fibre uploads through subscriptions",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7889",
-        "repo": "celestia-app",
-        "author": "walldiss",
-        "authorCategory": "coworker",
-        "reviewer": "ninabarbakadze",
-        "requestedAt": "2026-10-17T17:24:21Z"
-      }
-    ],
+    "ninabarbakadze": [],
     "rach-id": [],
     "renaynay": [],
-    "rootulp": [
-      {
-        "number": 8329,
-        "title": "perf(merkle): [high] hash Merkle leaves two at a time with interleaved SHA-256 on arm64",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/8329",
-        "repo": "celestia-app",
-        "author": "walldiss",
-        "authorCategory": "coworker",
-        "reviewer": "rootulp",
-        "requestedAt": "2026-10-23T11:03:54Z"
-      },
-      {
-        "number": 8331,
-        "title": "perf(fibre): [high] decode upload shard views without copies",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/8331",
-        "repo": "celestia-app",
-        "author": "walldiss",
-        "authorCategory": "coworker",
-        "reviewer": "rootulp",
-        "requestedAt": "2026-10-23T11:19:15Z"
-      },
-      {
-        "number": 8332,
-        "title": "perf(fibre): [high] reuse pooled upload buffers",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/8332",
-        "repo": "celestia-app",
-        "author": "walldiss",
-        "authorCategory": "coworker",
-        "reviewer": "rootulp",
-        "requestedAt": "2026-10-23T11:19:17Z"
-      },
-      {
-        "number": 8333,
-        "title": "perf(grpc): [high] alias download rows into the materialized buffer",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/8333",
-        "repo": "celestia-app",
-        "author": "walldiss",
-        "authorCategory": "coworker",
-        "reviewer": "rootulp",
-        "requestedAt": "2026-10-23T11:19:20Z"
-      },
-      {
-        "number": 8334,
-        "title": "perf(fibre): [high] recycle download shard buffers",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/8334",
-        "repo": "celestia-app",
-        "author": "walldiss",
-        "authorCategory": "coworker",
-        "reviewer": "rootulp",
-        "requestedAt": "2026-10-23T11:19:22Z"
-      },
-      {
-        "number": 8342,
-        "title": "fix(fibre)!: [high] record historical info before slashing so certificates match CometBFT's signing set",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/8342",
-        "repo": "celestia-app",
-        "author": "walldiss",
-        "authorCategory": "coworker",
-        "reviewer": "rootulp",
-        "requestedAt": "2026-10-23T21:00:19Z"
-      },
-      {
-        "number": 8340,
-        "title": "fix(zkism)!: [high] limit number of messages per ISM proof  ",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/8340",
-        "repo": "celestia-app",
-        "author": "jonas089",
-        "authorCategory": "coworker",
-        "reviewer": "rootulp",
-        "requestedAt": "2026-10-26T11:46:55Z"
-      },
-      {
-        "number": 8356,
-        "title": "docs: [low] add rollback runbooks and an incident recovery skill",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/8356",
-        "repo": "celestia-app",
-        "author": "vgonkivs",
-        "authorCategory": "coworker",
-        "reviewer": "rootulp",
-        "requestedAt": "2026-10-26T14:13:30Z"
-      },
-      {
-        "number": 8358,
-        "title": "feat(fibre): [low] cap gRPC header list size",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/8358",
-        "repo": "celestia-app",
-        "author": "walldiss",
-        "authorCategory": "coworker",
-        "reviewer": "rootulp",
-        "requestedAt": "2026-10-26T14:44:56Z"
-      }
-    ],
+    "rootulp": [],
     "vgonkivs": [
-      {
-        "number": 8250,
-        "title": "feat(fibre): [high] admit gRPC requests by memory budget",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/8250",
-        "repo": "celestia-app",
-        "author": "walldiss",
-        "authorCategory": "coworker",
-        "reviewer": "vgonkivs",
-        "requestedAt": "2026-10-26T14:40:13Z"
-      },
       {
         "number": 5190,
         "title": "fix(rpc/client): close namespace connections",
@@ -293,16 +141,6 @@
       }
     ],
     "theodorebugnet": [
-      {
-        "number": 8333,
-        "title": "perf(grpc): [high] alias download rows into the materialized buffer",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/8333",
-        "repo": "celestia-app",
-        "author": "walldiss",
-        "authorCategory": "coworker",
-        "reviewer": "theodorebugnet",
-        "requestedAt": "2026-10-23T11:15:48Z"
-      },
       {
         "number": 5366,
         "title": "fix(cmd): [high] refine blob submit inputs and RPC authentication",
@@ -387,5 +225,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-10-26T17:57:36.216Z"
+  "fetchedAt": "2026-10-26T18:26:49.419Z"
 }
