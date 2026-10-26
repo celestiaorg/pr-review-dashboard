@@ -146,28 +146,7 @@
         "requestedAt": "2026-10-17T17:24:21Z"
       }
     ],
-    "rach-id": [
-      {
-        "number": 8356,
-        "title": "docs: [low] add rollback runbooks and an incident recovery skill",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/8356",
-        "repo": "celestia-app",
-        "author": "vgonkivs",
-        "authorCategory": "coworker",
-        "reviewer": "rach-id",
-        "requestedAt": "2026-10-26T14:13:30Z"
-      },
-      {
-        "number": 8344,
-        "title": "test: [low] fail fast when genesis sync has no archive peers",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/8344",
-        "repo": "celestia-app",
-        "author": "rootulp",
-        "authorCategory": "coworker",
-        "reviewer": "rach-id",
-        "requestedAt": "2026-10-26T14:13:54Z"
-      }
-    ],
+    "rach-id": [],
     "renaynay": [],
     "rootulp": [
       {
@@ -408,5 +387,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-10-26T16:58:29.926Z"
+  "fetchedAt": "2026-10-26T17:17:03.491Z"
 }
