@@ -118,7 +118,18 @@
     ],
     "rach-id": [],
     "renaynay": [],
-    "rootulp": [],
+    "rootulp": [
+      {
+        "number": 590,
+        "title": "chore(seeds): [high] add NODERS seeds for celestia and mocha-5",
+        "url": "https://github.com/celestiaorg/networks/pull/590",
+        "repo": "networks",
+        "author": "alexeymoskalev-devops",
+        "authorCategory": "external",
+        "reviewer": "rootulp",
+        "requestedAt": "2026-10-26T23:24:19Z"
+      }
+    ],
     "vgonkivs": [
       {
         "number": 8250,
@@ -191,26 +202,6 @@
         "authorCategory": "coworker",
         "reviewer": "theodorebugnet",
         "requestedAt": "2026-10-23T21:44:40Z"
-      },
-      {
-        "number": 3513,
-        "title": "fix(p2p): [high] reject weak Ed25519 peer identity keys (backport #3501)",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3513",
-        "repo": "celestia-core",
-        "author": "mergify",
-        "authorCategory": "bot",
-        "reviewer": "theodorebugnet",
-        "requestedAt": "2026-10-26T13:55:04Z"
-      },
-      {
-        "number": 590,
-        "title": "chore(seeds): [high] add NODERS seeds for celestia and mocha-5",
-        "url": "https://github.com/celestiaorg/networks/pull/590",
-        "repo": "networks",
-        "author": "alexeymoskalev-devops",
-        "authorCategory": "external",
-        "reviewer": "theodorebugnet",
-        "requestedAt": "2026-10-26T06:59:13Z"
       }
     ],
     "walldiss": [
@@ -287,5 +278,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-10-26T23:15:52.526Z"
+  "fetchedAt": "2026-10-26T23:27:32.432Z"
 }
