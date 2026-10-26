@@ -50,16 +50,6 @@
         "authorCategory": "coworker",
         "reviewer": "chatton",
         "requestedAt": "2026-10-24T08:26:00Z"
-      },
-      {
-        "number": 311,
-        "title": "fix: [high] preserve builder state across rejected appends and reverts",
-        "url": "https://github.com/celestiaorg/go-square/pull/311",
-        "repo": "go-square",
-        "author": "rootulp",
-        "authorCategory": "coworker",
-        "reviewer": "chatton",
-        "requestedAt": "2026-10-26T00:01:52Z"
       }
     ],
     "pippokr": [
@@ -148,16 +138,6 @@
     ],
     "rach-id": [
       {
-        "number": 8312,
-        "title": "refactor: [high] migrate rsmt2d into an independent app module",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/8312",
-        "repo": "celestia-app",
-        "author": "rootulp",
-        "authorCategory": "coworker",
-        "reviewer": "rach-id",
-        "requestedAt": "2026-10-23T22:53:53Z"
-      },
-      {
         "number": 8350,
         "title": "test(app): [low] wait for the app to commit before querying fibre provider info",
         "url": "https://github.com/celestiaorg/celestia-app/pull/8350",
@@ -166,6 +146,16 @@
         "authorCategory": "coworker",
         "reviewer": "rach-id",
         "requestedAt": "2026-10-25T23:53:27Z"
+      },
+      {
+        "number": 589,
+        "title": "chore(peers): [medium] refresh mocha-5 peers",
+        "url": "https://github.com/celestiaorg/networks/pull/589",
+        "repo": "networks",
+        "author": "github-actions",
+        "authorCategory": "bot",
+        "reviewer": "rach-id",
+        "requestedAt": "2026-10-26T00:15:52Z"
       },
       {
         "number": 8328,
@@ -241,6 +231,16 @@
         "requestedAt": "2026-10-23T21:00:19Z"
       },
       {
+        "number": 588,
+        "title": "chore(peers): [medium] refresh mainnet peers + addrbook",
+        "url": "https://github.com/celestiaorg/networks/pull/588",
+        "repo": "networks",
+        "author": "github-actions",
+        "authorCategory": "bot",
+        "reviewer": "rootulp",
+        "requestedAt": "2026-10-26T00:15:52Z"
+      },
+      {
         "number": 8328,
         "title": "feat(cmd): [medium] add app.toml to config sync",
         "url": "https://github.com/celestiaorg/celestia-app/pull/8328",
@@ -281,6 +281,16 @@
         "authorCategory": "coworker",
         "reviewer": "vgonkivs",
         "requestedAt": "2026-10-23T22:18:14Z"
+      },
+      {
+        "number": 311,
+        "title": "fix: [high] preserve builder state across rejected appends and reverts",
+        "url": "https://github.com/celestiaorg/go-square/pull/311",
+        "repo": "go-square",
+        "author": "rootulp",
+        "authorCategory": "coworker",
+        "reviewer": "vgonkivs",
+        "requestedAt": "2026-10-26T00:13:21Z"
       },
       {
         "number": 8266,
@@ -387,6 +397,16 @@
         "requestedAt": "2026-10-23T22:56:42Z"
       },
       {
+        "number": 311,
+        "title": "fix: [high] preserve builder state across rejected appends and reverts",
+        "url": "https://github.com/celestiaorg/go-square/pull/311",
+        "repo": "go-square",
+        "author": "rootulp",
+        "authorCategory": "coworker",
+        "reviewer": "walldiss",
+        "requestedAt": "2026-10-26T00:13:21Z"
+      },
+      {
         "number": 5368,
         "title": "fix: resolve issue #1 - Data availability sampling peer monitor and latency logger",
         "url": "https://github.com/celestiaorg/celestia-node/pull/5368",
@@ -449,5 +469,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-10-26T00:06:33.775Z"
+  "fetchedAt": "2026-10-26T00:56:52.638Z"
 }
