@@ -166,16 +166,6 @@
         "authorCategory": "coworker",
         "reviewer": "rach-id",
         "requestedAt": "2026-10-26T14:13:54Z"
-      },
-      {
-        "number": 8361,
-        "title": "feat!: [high] withhold rewards from validators without Fibre registration",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/8361",
-        "repo": "celestia-app",
-        "author": "rootulp",
-        "authorCategory": "coworker",
-        "reviewer": "rach-id",
-        "requestedAt": "2026-10-26T16:37:03Z"
       }
     ],
     "renaynay": [],
@@ -418,5 +408,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-10-26T16:49:48.498Z"
+  "fetchedAt": "2026-10-26T16:58:29.926Z"
 }
