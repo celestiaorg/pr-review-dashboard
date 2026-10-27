@@ -78,6 +78,16 @@
         "authorCategory": "coworker",
         "reviewer": "rootulp",
         "requestedAt": "2026-10-27T20:02:09Z"
+      },
+      {
+        "number": 163,
+        "title": "perf(baseapp): [high] decode each FinalizeBlock tx once",
+        "url": "https://github.com/celestiaorg/cosmos-sdk/pull/163",
+        "repo": "cosmos-sdk",
+        "author": "rach-id",
+        "authorCategory": "coworker",
+        "reviewer": "rootulp",
+        "requestedAt": "2026-10-27T20:16:54Z"
       }
     ],
     "vgonkivs": [
@@ -208,5 +218,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-10-27T20:06:14.352Z"
+  "fetchedAt": "2026-10-27T20:18:16.903Z"
 }
