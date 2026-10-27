@@ -56,7 +56,18 @@
         "requestedAt": "2026-10-17T17:24:21Z"
       }
     ],
-    "rach-id": [],
+    "rach-id": [
+      {
+        "number": 313,
+        "title": "test(tx): [medium] add boundary, mutation and structured fuzz tests for UnmarshalBlobTxNoCopy",
+        "url": "https://github.com/celestiaorg/go-square/pull/313",
+        "repo": "go-square",
+        "author": "rootulp",
+        "authorCategory": "coworker",
+        "reviewer": "rach-id",
+        "requestedAt": "2026-10-27T18:38:49Z"
+      }
+    ],
     "renaynay": [],
     "rootulp": [
       {
@@ -68,16 +79,6 @@
         "authorCategory": "coworker",
         "reviewer": "rootulp",
         "requestedAt": "2026-10-27T14:12:39Z"
-      },
-      {
-        "number": 594,
-        "title": "chore(seeds): [high] add three tested seed nodes",
-        "url": "https://github.com/celestiaorg/networks/pull/594",
-        "repo": "networks",
-        "author": "pmensik",
-        "authorCategory": "external",
-        "reviewer": "rootulp",
-        "requestedAt": "2026-10-27T14:14:46Z"
       }
     ],
     "vgonkivs": [
@@ -198,5 +199,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-10-27T18:35:11.131Z"
+  "fetchedAt": "2026-10-27T18:41:31.117Z"
 }
