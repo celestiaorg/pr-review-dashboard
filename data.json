@@ -136,16 +136,6 @@
         "authorCategory": "coworker",
         "reviewer": "rach-id",
         "requestedAt": "2026-10-26T23:51:32Z"
-      },
-      {
-        "number": 3515,
-        "title": "perf(types): [high] find the inner tx of a BlobTx by scanning its fields",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3515",
-        "repo": "celestia-core",
-        "author": "rootulp",
-        "authorCategory": "coworker",
-        "reviewer": "rach-id",
-        "requestedAt": "2026-10-26T23:56:12Z"
       }
     ],
     "renaynay": [],
@@ -298,5 +288,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-10-27T07:44:26.483Z"
+  "fetchedAt": "2026-10-27T07:56:36.445Z"
 }
