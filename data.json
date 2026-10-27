@@ -66,6 +66,16 @@
         "authorCategory": "coworker",
         "reviewer": "rach-id",
         "requestedAt": "2026-10-27T13:55:45Z"
+      },
+      {
+        "number": 123,
+        "title": "refactor(metrics): [medium] share observations and request inspection",
+        "url": "https://github.com/celestiaorg/da-proxy/pull/123",
+        "repo": "da-proxy",
+        "author": "chatton",
+        "authorCategory": "coworker",
+        "reviewer": "rach-id",
+        "requestedAt": "2026-10-27T14:16:44Z"
       }
     ],
     "renaynay": [],
@@ -81,14 +91,24 @@
         "requestedAt": "2026-10-27T11:24:10Z"
       },
       {
-        "number": 8367,
-        "title": "feat(app): [high] add a state fix hook for in-place surgery",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/8367",
+        "number": 8331,
+        "title": "perf(fibre): [high] decode upload shard views without copies",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/8331",
         "repo": "celestia-app",
-        "author": "vgonkivs",
+        "author": "walldiss",
         "authorCategory": "coworker",
         "reviewer": "rootulp",
-        "requestedAt": "2026-10-27T13:55:45Z"
+        "requestedAt": "2026-10-27T14:12:39Z"
+      },
+      {
+        "number": 594,
+        "title": "chore(seeds): [high] add three tested seed nodes",
+        "url": "https://github.com/celestiaorg/networks/pull/594",
+        "repo": "networks",
+        "author": "pmensik",
+        "authorCategory": "external",
+        "reviewer": "rootulp",
+        "requestedAt": "2026-10-27T14:14:46Z"
       }
     ],
     "vgonkivs": [
@@ -249,5 +269,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-10-27T13:57:32.865Z"
+  "fetchedAt": "2026-10-27T14:19:35.055Z"
 }
