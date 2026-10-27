@@ -32,6 +32,16 @@
         "authorCategory": "coworker",
         "reviewer": "pippokr",
         "requestedAt": "2026-10-23T10:37:34Z"
+      },
+      {
+        "number": 3516,
+        "title": "ci: [medium] sign Mergify backport commits",
+        "url": "https://github.com/celestiaorg/celestia-core/pull/3516",
+        "repo": "celestia-core",
+        "author": "rootulp",
+        "authorCategory": "coworker",
+        "reviewer": "pippokr",
+        "requestedAt": "2026-10-27T18:57:54Z"
       }
     ],
     "ninabarbakadze": [
@@ -86,6 +96,16 @@
         "authorCategory": "coworker",
         "reviewer": "rach-id",
         "requestedAt": "2026-10-27T18:50:47Z"
+      },
+      {
+        "number": 3514,
+        "title": "perf(state): [high] reuse unwrapped BlobTxs in fireEvents",
+        "url": "https://github.com/celestiaorg/celestia-core/pull/3514",
+        "repo": "celestia-core",
+        "author": "rootulp",
+        "authorCategory": "coworker",
+        "reviewer": "rach-id",
+        "requestedAt": "2026-10-27T18:59:27Z"
       }
     ],
     "renaynay": [],
@@ -229,5 +249,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-10-27T18:54:41.665Z"
+  "fetchedAt": "2026-10-27T19:02:26.957Z"
 }
