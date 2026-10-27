@@ -154,16 +154,6 @@
         "authorCategory": "coworker",
         "reviewer": "walldiss",
         "requestedAt": "2026-10-26T21:00:04Z"
-      },
-      {
-        "number": 8371,
-        "title": "ci: [high] keep review-policy approvals across later pushes",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/8371",
-        "repo": "celestia-app",
-        "author": "rootulp",
-        "authorCategory": "coworker",
-        "reviewer": "walldiss",
-        "requestedAt": "2026-10-27T18:50:47Z"
       }
     ]
   },
@@ -218,5 +208,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-10-27T19:27:14.948Z"
+  "fetchedAt": "2026-10-27T19:35:34.874Z"
 }
