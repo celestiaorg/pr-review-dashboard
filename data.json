@@ -50,6 +50,16 @@
         "authorCategory": "coworker",
         "reviewer": "chatton",
         "requestedAt": "2026-10-26T23:47:38Z"
+      },
+      {
+        "number": 594,
+        "title": "chore(seeds): [high] add three tested seed nodes",
+        "url": "https://github.com/celestiaorg/networks/pull/594",
+        "repo": "networks",
+        "author": "pmensik",
+        "authorCategory": "external",
+        "reviewer": "chatton",
+        "requestedAt": "2026-10-27T11:07:43Z"
       }
     ],
     "pippokr": [
@@ -237,5 +247,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-10-27T10:56:03.983Z"
+  "fetchedAt": "2026-10-27T11:09:40.435Z"
 }
