@@ -70,24 +70,24 @@
         "requestedAt": "2026-10-27T14:12:39Z"
       },
       {
-        "number": 7936,
-        "title": "chore: publish devnet docker images",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7936",
+        "number": 8370,
+        "title": "perf(app): [medium] enable optimistic execution with blob-stripped speculative txs",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/8370",
         "repo": "celestia-app",
-        "author": "citizen-stig",
-        "authorCategory": "coworker",
-        "reviewer": "rootulp",
-        "requestedAt": "2026-10-27T20:02:09Z"
-      },
-      {
-        "number": 163,
-        "title": "perf(baseapp): [high] decode each FinalizeBlock tx once",
-        "url": "https://github.com/celestiaorg/cosmos-sdk/pull/163",
-        "repo": "cosmos-sdk",
         "author": "rach-id",
         "authorCategory": "coworker",
         "reviewer": "rootulp",
-        "requestedAt": "2026-10-27T20:16:54Z"
+        "requestedAt": "2026-10-27T21:09:49Z"
+      },
+      {
+        "number": 8373,
+        "title": "test(app): [low] give ProcessProposal requests real block hashes so optimistic execution is reused",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/8373",
+        "repo": "celestia-app",
+        "author": "rach-id",
+        "authorCategory": "coworker",
+        "reviewer": "rootulp",
+        "requestedAt": "2026-10-27T21:11:00Z"
       }
     ],
     "vgonkivs": [
@@ -218,5 +218,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-10-27T20:59:37.076Z"
+  "fetchedAt": "2026-10-27T21:11:56.667Z"
 }
