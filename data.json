@@ -22,16 +22,6 @@
         "requestedAt": "2026-10-23T18:40:03Z"
       },
       {
-        "number": 1036,
-        "title": "fix(ci): [high] bot workflows must create signed commits",
-        "url": "https://github.com/celestiaorg/infrastructure/pull/1036",
-        "repo": "infrastructure",
-        "author": "pippokr",
-        "authorCategory": "coworker",
-        "reviewer": "chatton",
-        "requestedAt": "2026-10-26T09:19:13Z"
-      },
-      {
         "number": 1038,
         "title": "fix(monitoring): [low] corto validator version column is stuck on v10.4.0",
         "url": "https://github.com/celestiaorg/infrastructure/pull/1038",
@@ -267,5 +257,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-10-27T09:16:11.574Z"
+  "fetchedAt": "2026-10-27T09:35:37.073Z"
 }
