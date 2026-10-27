@@ -96,6 +96,16 @@
         "authorCategory": "coworker",
         "reviewer": "rach-id",
         "requestedAt": "2026-10-27T22:14:49Z"
+      },
+      {
+        "number": 3521,
+        "title": "perf(types): [high] unwrap v11 BlobTxs with the no-copy decoder",
+        "url": "https://github.com/celestiaorg/celestia-core/pull/3521",
+        "repo": "celestia-core",
+        "author": "rootulp",
+        "authorCategory": "coworker",
+        "reviewer": "rach-id",
+        "requestedAt": "2026-10-27T23:01:53Z"
       }
     ],
     "renaynay": [],
@@ -269,5 +279,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-10-27T23:01:41.750Z"
+  "fetchedAt": "2026-10-27T23:12:31.763Z"
 }
