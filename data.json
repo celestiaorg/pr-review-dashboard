@@ -36,6 +36,16 @@
     ],
     "ninabarbakadze": [
       {
+        "number": 7936,
+        "title": "chore: publish devnet docker images",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/7936",
+        "repo": "celestia-app",
+        "author": "citizen-stig",
+        "authorCategory": "coworker",
+        "reviewer": "ninabarbakadze",
+        "requestedAt": "2026-10-17T17:24:07Z"
+      },
+      {
         "number": 7889,
         "title": "feat: confirm fibre uploads through subscriptions",
         "url": "https://github.com/celestiaorg/celestia-app/pull/7889",
@@ -47,6 +57,16 @@
       }
     ],
     "rach-id": [
+      {
+        "number": 7936,
+        "title": "chore: publish devnet docker images",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/7936",
+        "repo": "celestia-app",
+        "author": "citizen-stig",
+        "authorCategory": "coworker",
+        "reviewer": "rach-id",
+        "requestedAt": "2026-10-17T17:24:07Z"
+      },
       {
         "number": 123,
         "title": "refactor(metrics): [medium] share observations and request inspection",
@@ -199,5 +219,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-10-27T15:37:02.571Z"
+  "fetchedAt": "2026-10-27T15:49:32.563Z"
 }
