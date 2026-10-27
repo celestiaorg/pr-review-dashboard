@@ -22,16 +22,6 @@
         "requestedAt": "2026-10-23T18:40:03Z"
       },
       {
-        "number": 1040,
-        "title": "feat(relay): [high] add backup bare metal units for relay-devnet and relay-mainnet",
-        "url": "https://github.com/celestiaorg/infrastructure/pull/1040",
-        "repo": "infrastructure",
-        "author": "pippokr",
-        "authorCategory": "coworker",
-        "reviewer": "chatton",
-        "requestedAt": "2026-10-26T12:43:47Z"
-      },
-      {
         "number": 594,
         "title": "chore(seeds): [high] add three tested seed nodes",
         "url": "https://github.com/celestiaorg/networks/pull/594",
@@ -249,5 +239,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-10-27T12:20:54.823Z"
+  "fetchedAt": "2026-10-27T12:46:51.493Z"
 }
