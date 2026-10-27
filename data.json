@@ -42,6 +42,16 @@
         "authorCategory": "coworker",
         "reviewer": "pippokr",
         "requestedAt": "2026-10-27T18:57:54Z"
+      },
+      {
+        "number": 596,
+        "title": "docs: [medium] drop redundant review level line from PR description guidance",
+        "url": "https://github.com/celestiaorg/networks/pull/596",
+        "repo": "networks",
+        "author": "rootulp",
+        "authorCategory": "coworker",
+        "reviewer": "pippokr",
+        "requestedAt": "2026-10-27T21:57:52Z"
       }
     ],
     "ninabarbakadze": [
@@ -66,6 +76,16 @@
         "authorCategory": "coworker",
         "reviewer": "rach-id",
         "requestedAt": "2026-10-27T21:48:25Z"
+      },
+      {
+        "number": 8378,
+        "title": "chore(deps): [medium] bump celestia-core to v0.42.5",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/8378",
+        "repo": "celestia-app",
+        "author": "rootulp",
+        "authorCategory": "coworker",
+        "reviewer": "rach-id",
+        "requestedAt": "2026-10-27T21:53:50Z"
       }
     ],
     "renaynay": [],
@@ -173,6 +193,16 @@
         "authorCategory": "coworker",
         "reviewer": "theodorebugnet",
         "requestedAt": "2026-10-23T21:44:40Z"
+      },
+      {
+        "number": 3520,
+        "title": "docs: [low] drop redundant review level line from PR description guidance",
+        "url": "https://github.com/celestiaorg/celestia-core/pull/3520",
+        "repo": "celestia-core",
+        "author": "rootulp",
+        "authorCategory": "coworker",
+        "reviewer": "theodorebugnet",
+        "requestedAt": "2026-10-27T21:58:03Z"
       }
     ],
     "walldiss": [
@@ -239,5 +269,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-10-27T21:53:15.650Z"
+  "fetchedAt": "2026-10-27T21:59:47.344Z"
 }
