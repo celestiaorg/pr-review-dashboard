@@ -78,14 +78,14 @@
         "requestedAt": "2026-10-27T21:48:25Z"
       },
       {
-        "number": 8378,
-        "title": "chore(deps): [medium] bump celestia-core to v0.42.5",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/8378",
+        "number": 8380,
+        "title": "perf: [high] decode blob txs without copying",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/8380",
         "repo": "celestia-app",
         "author": "rootulp",
         "authorCategory": "coworker",
         "reviewer": "rach-id",
-        "requestedAt": "2026-10-27T21:53:50Z"
+        "requestedAt": "2026-10-27T22:04:35Z"
       }
     ],
     "renaynay": [],
@@ -99,36 +99,6 @@
         "authorCategory": "coworker",
         "reviewer": "rootulp",
         "requestedAt": "2026-10-27T14:12:39Z"
-      },
-      {
-        "number": 8370,
-        "title": "perf(app): [medium] enable optimistic execution with blob-stripped speculative txs",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/8370",
-        "repo": "celestia-app",
-        "author": "rach-id",
-        "authorCategory": "coworker",
-        "reviewer": "rootulp",
-        "requestedAt": "2026-10-27T21:09:49Z"
-      },
-      {
-        "number": 8373,
-        "title": "test(app): [low] give ProcessProposal requests real block hashes so optimistic execution is reused",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/8373",
-        "repo": "celestia-app",
-        "author": "rach-id",
-        "authorCategory": "coworker",
-        "reviewer": "rootulp",
-        "requestedAt": "2026-10-27T21:11:00Z"
-      },
-      {
-        "number": 167,
-        "title": "fix(baseapp/oe): [high] recover panics in the speculative FinalizeBlock and re-raise them only when served",
-        "url": "https://github.com/celestiaorg/cosmos-sdk/pull/167",
-        "repo": "cosmos-sdk",
-        "author": "rach-id",
-        "authorCategory": "coworker",
-        "reviewer": "rootulp",
-        "requestedAt": "2026-10-27T21:28:22Z"
       }
     ],
     "vgonkivs": [
@@ -269,5 +239,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-10-27T21:59:47.344Z"
+  "fetchedAt": "2026-10-27T22:12:43.831Z"
 }
