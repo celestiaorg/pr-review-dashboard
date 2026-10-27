@@ -101,16 +101,6 @@
         "requestedAt": "2026-10-27T14:12:39Z"
       },
       {
-        "number": 1154,
-        "title": "refactor!: [high] remove bad encoding fraud proof support",
-        "url": "https://github.com/celestiaorg/lumina/pull/1154",
-        "repo": "lumina",
-        "author": "vgonkivs",
-        "authorCategory": "coworker",
-        "reviewer": "rootulp",
-        "requestedAt": "2026-10-27T14:50:03Z"
-      },
-      {
         "number": 594,
         "title": "chore(seeds): [high] add three tested seed nodes",
         "url": "https://github.com/celestiaorg/networks/pull/594",
@@ -249,5 +239,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-10-27T14:52:45.399Z"
+  "fetchedAt": "2026-10-27T15:00:57.302Z"
 }
