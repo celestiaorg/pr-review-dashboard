@@ -88,6 +88,16 @@
         "authorCategory": "coworker",
         "reviewer": "rootulp",
         "requestedAt": "2026-10-27T21:11:00Z"
+      },
+      {
+        "number": 167,
+        "title": "fix(baseapp/oe): [high] recover panics in the speculative FinalizeBlock and re-raise them only when served",
+        "url": "https://github.com/celestiaorg/cosmos-sdk/pull/167",
+        "repo": "cosmos-sdk",
+        "author": "rach-id",
+        "authorCategory": "coworker",
+        "reviewer": "rootulp",
+        "requestedAt": "2026-10-27T21:28:22Z"
       }
     ],
     "vgonkivs": [
@@ -218,5 +228,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-10-27T21:25:29.781Z"
+  "fetchedAt": "2026-10-27T21:32:52.261Z"
 }
