@@ -48,16 +48,6 @@
     ],
     "rach-id": [
       {
-        "number": 8250,
-        "title": "feat(fibre): [high] admit gRPC requests by memory budget",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/8250",
-        "repo": "celestia-app",
-        "author": "walldiss",
-        "authorCategory": "coworker",
-        "reviewer": "rach-id",
-        "requestedAt": "2026-10-27T13:34:32Z"
-      },
-      {
         "number": 123,
         "title": "refactor(metrics): [medium] share observations and request inspection",
         "url": "https://github.com/celestiaorg/da-proxy/pull/123",
@@ -66,30 +56,10 @@
         "authorCategory": "coworker",
         "reviewer": "rach-id",
         "requestedAt": "2026-10-27T14:16:44Z"
-      },
-      {
-        "number": 8368,
-        "title": "feat(scripts): [low] add a restart mode to the recovery script",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/8368",
-        "repo": "celestia-app",
-        "author": "vgonkivs",
-        "authorCategory": "coworker",
-        "reviewer": "rach-id",
-        "requestedAt": "2026-10-27T14:37:38Z"
       }
     ],
     "renaynay": [],
     "rootulp": [
-      {
-        "number": 8250,
-        "title": "feat(fibre): [high] admit gRPC requests by memory budget",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/8250",
-        "repo": "celestia-app",
-        "author": "walldiss",
-        "authorCategory": "coworker",
-        "reviewer": "rootulp",
-        "requestedAt": "2026-10-27T11:24:10Z"
-      },
       {
         "number": 8331,
         "title": "perf(fibre): [high] decode upload shard views without copies",
@@ -112,16 +82,6 @@
       }
     ],
     "vgonkivs": [
-      {
-        "number": 8250,
-        "title": "feat(fibre): [high] admit gRPC requests by memory budget",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/8250",
-        "repo": "celestia-app",
-        "author": "walldiss",
-        "authorCategory": "coworker",
-        "reviewer": "vgonkivs",
-        "requestedAt": "2026-10-26T14:40:13Z"
-      },
       {
         "number": 5190,
         "title": "fix(rpc/client): close namespace connections",
@@ -239,5 +199,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-10-27T15:00:57.302Z"
+  "fetchedAt": "2026-10-27T15:22:45.871Z"
 }
