@@ -20,6 +20,16 @@
         "authorCategory": "coworker",
         "reviewer": "chatton",
         "requestedAt": "2026-10-23T18:40:03Z"
+      },
+      {
+        "number": 8251,
+        "title": "feat(fibre): [high] account DownloadShard responses against the memory budget",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/8251",
+        "repo": "celestia-app",
+        "author": "walldiss",
+        "authorCategory": "coworker",
+        "reviewer": "chatton",
+        "requestedAt": "2026-10-27T13:36:31Z"
       }
     ],
     "pippokr": [
@@ -56,7 +66,18 @@
         "requestedAt": "2026-10-17T17:24:21Z"
       }
     ],
-    "rach-id": [],
+    "rach-id": [
+      {
+        "number": 8250,
+        "title": "feat(fibre): [high] admit gRPC requests by memory budget",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/8250",
+        "repo": "celestia-app",
+        "author": "walldiss",
+        "authorCategory": "coworker",
+        "reviewer": "rach-id",
+        "requestedAt": "2026-10-27T13:34:32Z"
+      }
+    ],
     "renaynay": [],
     "rootulp": [
       {
@@ -218,5 +239,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-10-27T13:27:59.950Z"
+  "fetchedAt": "2026-10-27T13:46:44.026Z"
 }
