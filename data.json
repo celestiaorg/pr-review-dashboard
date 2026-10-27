@@ -32,16 +32,6 @@
         "requestedAt": "2026-10-26T12:43:47Z"
       },
       {
-        "number": 8251,
-        "title": "feat(fibre): [high] account DownloadShard responses against the memory budget",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/8251",
-        "repo": "celestia-app",
-        "author": "walldiss",
-        "authorCategory": "coworker",
-        "reviewer": "chatton",
-        "requestedAt": "2026-10-26T14:40:15Z"
-      },
-      {
         "number": 594,
         "title": "chore(seeds): [high] add three tested seed nodes",
         "url": "https://github.com/celestiaorg/networks/pull/594",
@@ -259,5 +249,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-10-27T11:37:14.770Z"
+  "fetchedAt": "2026-10-27T11:48:25.099Z"
 }
