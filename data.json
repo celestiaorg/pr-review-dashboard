@@ -22,16 +22,6 @@
         "requestedAt": "2026-10-23T18:40:03Z"
       },
       {
-        "number": 1035,
-        "title": "fix(ci): [medium] prepare workflows stop racing on shared /tmp",
-        "url": "https://github.com/celestiaorg/infrastructure/pull/1035",
-        "repo": "infrastructure",
-        "author": "pippokr",
-        "authorCategory": "coworker",
-        "reviewer": "chatton",
-        "requestedAt": "2026-10-24T08:26:00Z"
-      },
-      {
         "number": 1036,
         "title": "fix(ci): [high] bot workflows must create signed commits",
         "url": "https://github.com/celestiaorg/infrastructure/pull/1036",
@@ -277,5 +267,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-10-27T08:56:55.135Z"
+  "fetchedAt": "2026-10-27T09:16:11.574Z"
 }
