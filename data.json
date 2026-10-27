@@ -173,6 +173,16 @@
         "authorCategory": "coworker",
         "reviewer": "theodorebugnet",
         "requestedAt": "2026-10-23T21:44:40Z"
+      },
+      {
+        "number": 8372,
+        "title": "ci: [low] reject Mergify backports with non-regular file modes before signing",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/8372",
+        "repo": "celestia-app",
+        "author": "rootulp",
+        "authorCategory": "coworker",
+        "reviewer": "theodorebugnet",
+        "requestedAt": "2026-10-27T19:11:27Z"
       }
     ],
     "walldiss": [
@@ -249,5 +259,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-10-27T19:02:26.957Z"
+  "fetchedAt": "2026-10-27T19:13:39.532Z"
 }
