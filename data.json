@@ -42,16 +42,6 @@
         "requestedAt": "2026-10-26T14:40:15Z"
       },
       {
-        "number": 592,
-        "title": "ci: [medium] verify seeds and peers added by a pull request",
-        "url": "https://github.com/celestiaorg/networks/pull/592",
-        "repo": "networks",
-        "author": "rootulp",
-        "authorCategory": "coworker",
-        "reviewer": "chatton",
-        "requestedAt": "2026-10-26T23:47:38Z"
-      },
-      {
         "number": 594,
         "title": "chore(seeds): [high] add three tested seed nodes",
         "url": "https://github.com/celestiaorg/networks/pull/594",
@@ -96,9 +86,31 @@
         "requestedAt": "2026-10-17T17:24:21Z"
       }
     ],
-    "rach-id": [],
+    "rach-id": [
+      {
+        "number": 8250,
+        "title": "feat(fibre): [high] admit gRPC requests by memory budget",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/8250",
+        "repo": "celestia-app",
+        "author": "walldiss",
+        "authorCategory": "coworker",
+        "reviewer": "rach-id",
+        "requestedAt": "2026-10-27T11:24:04Z"
+      }
+    ],
     "renaynay": [],
-    "rootulp": [],
+    "rootulp": [
+      {
+        "number": 8250,
+        "title": "feat(fibre): [high] admit gRPC requests by memory budget",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/8250",
+        "repo": "celestia-app",
+        "author": "walldiss",
+        "authorCategory": "coworker",
+        "reviewer": "rootulp",
+        "requestedAt": "2026-10-27T11:24:10Z"
+      }
+    ],
     "vgonkivs": [
       {
         "number": 8250,
@@ -247,5 +259,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-10-27T11:09:40.435Z"
+  "fetchedAt": "2026-10-27T11:24:32.917Z"
 }
