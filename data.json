@@ -68,16 +68,6 @@
     ],
     "rach-id": [
       {
-        "number": 313,
-        "title": "test(tx): [medium] add boundary, mutation and structured fuzz tests for UnmarshalBlobTxNoCopy",
-        "url": "https://github.com/celestiaorg/go-square/pull/313",
-        "repo": "go-square",
-        "author": "rootulp",
-        "authorCategory": "coworker",
-        "reviewer": "rach-id",
-        "requestedAt": "2026-10-27T18:38:49Z"
-      },
-      {
         "number": 3517,
         "title": "fix(mempool): [high] honor reactor queueing func and use non-blocking sends in CAT",
         "url": "https://github.com/celestiaorg/celestia-core/pull/3517",
@@ -86,16 +76,6 @@
         "authorCategory": "coworker",
         "reviewer": "rach-id",
         "requestedAt": "2026-10-27T18:50:00Z"
-      },
-      {
-        "number": 8371,
-        "title": "ci: [high] keep review-policy approvals across later pushes",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/8371",
-        "repo": "celestia-app",
-        "author": "rootulp",
-        "authorCategory": "coworker",
-        "reviewer": "rach-id",
-        "requestedAt": "2026-10-27T18:50:47Z"
       },
       {
         "number": 3514,
@@ -259,5 +239,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-10-27T19:13:39.532Z"
+  "fetchedAt": "2026-10-27T19:20:45.203Z"
 }
