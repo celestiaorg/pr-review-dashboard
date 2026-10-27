@@ -86,6 +86,16 @@
         "authorCategory": "coworker",
         "reviewer": "rach-id",
         "requestedAt": "2026-10-27T22:04:35Z"
+      },
+      {
+        "number": 3522,
+        "title": "test(types): [medium] add regression tests for the legacy BlobTx field scanner",
+        "url": "https://github.com/celestiaorg/celestia-core/pull/3522",
+        "repo": "celestia-core",
+        "author": "rootulp",
+        "authorCategory": "coworker",
+        "reviewer": "rach-id",
+        "requestedAt": "2026-10-27T22:14:49Z"
       }
     ],
     "renaynay": [],
@@ -99,6 +109,16 @@
         "authorCategory": "coworker",
         "reviewer": "rootulp",
         "requestedAt": "2026-10-27T14:12:39Z"
+      },
+      {
+        "number": 8370,
+        "title": "perf(app): [medium] enable optimistic execution with blob-stripped speculative txs",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/8370",
+        "repo": "celestia-app",
+        "author": "rach-id",
+        "authorCategory": "coworker",
+        "reviewer": "rootulp",
+        "requestedAt": "2026-10-27T22:13:51Z"
       }
     ],
     "vgonkivs": [
@@ -185,6 +205,16 @@
         "authorCategory": "coworker",
         "reviewer": "walldiss",
         "requestedAt": "2026-10-26T21:00:04Z"
+      },
+      {
+        "number": 315,
+        "title": "feat(builder): [high] add Fits methods and deprecate Revert; reject invalid txs with a clear error",
+        "url": "https://github.com/celestiaorg/go-square/pull/315",
+        "repo": "go-square",
+        "author": "rootulp",
+        "authorCategory": "coworker",
+        "reviewer": "walldiss",
+        "requestedAt": "2026-10-27T22:18:14Z"
       }
     ]
   },
@@ -239,5 +269,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-10-27T22:12:43.831Z"
+  "fetchedAt": "2026-10-27T22:20:13.669Z"
 }
