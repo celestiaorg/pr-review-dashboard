@@ -56,7 +56,18 @@
         "requestedAt": "2026-10-17T17:24:21Z"
       }
     ],
-    "rach-id": [],
+    "rach-id": [
+      {
+        "number": 314,
+        "title": "perf: [high] decode blob txs in ClassifiedTx without copying",
+        "url": "https://github.com/celestiaorg/go-square/pull/314",
+        "repo": "go-square",
+        "author": "rootulp",
+        "authorCategory": "coworker",
+        "reviewer": "rach-id",
+        "requestedAt": "2026-10-27T21:48:25Z"
+      }
+    ],
     "renaynay": [],
     "rootulp": [
       {
@@ -228,5 +239,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-10-27T21:46:40.903Z"
+  "fetchedAt": "2026-10-27T21:53:15.650Z"
 }
