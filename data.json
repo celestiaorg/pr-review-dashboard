@@ -155,16 +155,6 @@
     ],
     "walldiss": [
       {
-        "number": 5372,
-        "title": "fix(shwap/bitswap): [low] stop noisy hasher logs (closes #3864)",
-        "url": "https://github.com/celestiaorg/celestia-node/pull/5372",
-        "repo": "celestia-node",
-        "author": "jcstein",
-        "authorCategory": "coworker",
-        "reviewer": "walldiss",
-        "requestedAt": "2026-10-26T21:00:04Z"
-      },
-      {
         "number": 315,
         "title": "feat(builder): [high] add Fits methods and deprecate Revert; reject invalid txs with a clear error",
         "url": "https://github.com/celestiaorg/go-square/pull/315",
@@ -227,5 +217,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-10-28T08:52:35.770Z"
+  "fetchedAt": "2026-10-28T08:59:00.311Z"
 }
