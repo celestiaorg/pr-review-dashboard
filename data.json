@@ -185,16 +185,6 @@
         "requestedAt": "2026-10-28T11:53:13Z"
       },
       {
-        "number": 8389,
-        "title": "fix(hyperlane)!: [high] bound and price ISM signatures per tx and per block",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/8389",
-        "repo": "celestia-app",
-        "author": "jonas089",
-        "authorCategory": "coworker",
-        "reviewer": "walldiss",
-        "requestedAt": "2026-10-28T13:04:23Z"
-      },
-      {
         "number": 5375,
         "title": "fix(das): [low] report catch-up done after resuming an empty checkpoint",
         "url": "https://github.com/celestiaorg/celestia-node/pull/5375",
@@ -257,5 +247,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-10-28T17:17:15.253Z"
+  "fetchedAt": "2026-10-28T17:24:46.277Z"
 }
