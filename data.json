@@ -42,16 +42,6 @@
         "authorCategory": "coworker",
         "reviewer": "pippokr",
         "requestedAt": "2026-10-27T18:57:54Z"
-      },
-      {
-        "number": 596,
-        "title": "docs: [medium] drop redundant review level line from PR description guidance",
-        "url": "https://github.com/celestiaorg/networks/pull/596",
-        "repo": "networks",
-        "author": "rootulp",
-        "authorCategory": "coworker",
-        "reviewer": "pippokr",
-        "requestedAt": "2026-10-27T21:57:52Z"
       }
     ],
     "ninabarbakadze": [
@@ -237,5 +227,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-10-28T08:30:49.200Z"
+  "fetchedAt": "2026-10-28T08:39:30.359Z"
 }
