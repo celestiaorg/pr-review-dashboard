@@ -195,6 +195,16 @@
         "requestedAt": "2026-10-28T11:53:13Z"
       },
       {
+        "number": 320,
+        "title": "ci: [low] authenticate Buf setup GitHub requests",
+        "url": "https://github.com/celestiaorg/go-square/pull/320",
+        "repo": "go-square",
+        "author": "rootulp",
+        "authorCategory": "coworker",
+        "reviewer": "walldiss",
+        "requestedAt": "2026-10-28T18:59:30Z"
+      },
+      {
         "number": 5375,
         "title": "fix(das): [low] report catch-up done after resuming an empty checkpoint",
         "url": "https://github.com/celestiaorg/celestia-node/pull/5375",
@@ -257,5 +267,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-10-28T18:58:50.566Z"
+  "fetchedAt": "2026-10-28T19:12:05.542Z"
 }
