@@ -1,17 +1,6 @@
 {
   "reviews": {
-    "chatton": [
-      {
-        "number": 5364,
-        "title": "feat(node)!: [high] support JWT auth token revocation",
-        "url": "https://github.com/celestiaorg/celestia-node/pull/5364",
-        "repo": "celestia-node",
-        "author": "jcstein",
-        "authorCategory": "coworker",
-        "reviewer": "chatton",
-        "requestedAt": "2026-10-23T18:40:03Z"
-      }
-    ],
+    "chatton": [],
     "pippokr": [
       {
         "number": 939,
@@ -207,7 +196,7 @@
       },
       {
         "number": 8389,
-        "title": "fix(hyperlane)!: [high] limit the maximum size of a hyperlane validator set and message counts",
+        "title": "fix(hyperlane)!: [high] bound and price ISM signatures per tx and per block",
         "url": "https://github.com/celestiaorg/celestia-app/pull/8389",
         "repo": "celestia-app",
         "author": "jonas089",
@@ -278,5 +267,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-10-28T16:28:35.128Z"
+  "fetchedAt": "2026-10-28T16:37:01.833Z"
 }
