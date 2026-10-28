@@ -89,16 +89,6 @@
         "authorCategory": "coworker",
         "reviewer": "rootulp",
         "requestedAt": "2026-10-28T12:05:11Z"
-      },
-      {
-        "number": 8389,
-        "title": "fix(hyperlane)!: [high] limit the maximum size of a hyperlane validator set and message counts",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/8389",
-        "repo": "celestia-app",
-        "author": "jonas089",
-        "authorCategory": "coworker",
-        "reviewer": "rootulp",
-        "requestedAt": "2026-10-28T13:04:35Z"
       }
     ],
     "vgonkivs": [
@@ -193,6 +183,16 @@
         "authorCategory": "coworker",
         "reviewer": "theodorebugnet",
         "requestedAt": "2026-10-23T21:44:40Z"
+      },
+      {
+        "number": 3526,
+        "title": "fix(rpc/core): [low] cancel event write contexts per delivery instead of per subscription (backport #3348)",
+        "url": "https://github.com/celestiaorg/celestia-core/pull/3526",
+        "repo": "celestia-core",
+        "author": "mergify",
+        "authorCategory": "bot",
+        "reviewer": "theodorebugnet",
+        "requestedAt": "2026-10-28T15:42:09Z"
       }
     ],
     "walldiss": [
@@ -289,5 +289,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-10-28T15:41:22.004Z"
+  "fetchedAt": "2026-10-28T15:48:16.685Z"
 }
