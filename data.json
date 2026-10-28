@@ -194,48 +194,7 @@
         "requestedAt": "2026-10-23T21:44:40Z"
       }
     ],
-    "walldiss": [
-      {
-        "number": 5373,
-        "title": "test(nodebuilder/tests): [low] port remaining swamp coverage to tastora",
-        "url": "https://github.com/celestiaorg/celestia-node/pull/5373",
-        "repo": "celestia-node",
-        "author": "vgonkivs",
-        "authorCategory": "coworker",
-        "reviewer": "walldiss",
-        "requestedAt": "2026-10-28T11:41:01Z"
-      },
-      {
-        "number": 5374,
-        "title": "test(nodebuilder/tests): [low] remove swamp",
-        "url": "https://github.com/celestiaorg/celestia-node/pull/5374",
-        "repo": "celestia-node",
-        "author": "vgonkivs",
-        "authorCategory": "coworker",
-        "reviewer": "walldiss",
-        "requestedAt": "2026-10-28T11:53:13Z"
-      },
-      {
-        "number": 320,
-        "title": "ci: [low] authenticate Buf setup GitHub requests",
-        "url": "https://github.com/celestiaorg/go-square/pull/320",
-        "repo": "go-square",
-        "author": "rootulp",
-        "authorCategory": "coworker",
-        "reviewer": "walldiss",
-        "requestedAt": "2026-10-28T18:59:30Z"
-      },
-      {
-        "number": 5375,
-        "title": "fix(das): [low] report catch-up done after resuming an empty checkpoint",
-        "url": "https://github.com/celestiaorg/celestia-node/pull/5375",
-        "repo": "celestia-node",
-        "author": "Ravan002",
-        "authorCategory": "external",
-        "reviewer": "walldiss",
-        "requestedAt": "2026-10-28T13:56:04Z"
-      }
-    ]
+    "walldiss": []
   },
   "teamMembers": [
     {
@@ -288,5 +247,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-10-28T20:51:57.187Z"
+  "fetchedAt": "2026-10-28T20:58:32.078Z"
 }
