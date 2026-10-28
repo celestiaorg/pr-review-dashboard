@@ -76,46 +76,6 @@
         "authorCategory": "coworker",
         "reviewer": "rach-id",
         "requestedAt": "2026-10-26T16:37:03Z"
-      },
-      {
-        "number": 314,
-        "title": "perf: [high] decode blob txs in ClassifiedTx without copying",
-        "url": "https://github.com/celestiaorg/go-square/pull/314",
-        "repo": "go-square",
-        "author": "rootulp",
-        "authorCategory": "coworker",
-        "reviewer": "rach-id",
-        "requestedAt": "2026-10-27T21:48:25Z"
-      },
-      {
-        "number": 8380,
-        "title": "perf: [high] decode blob txs without copying",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/8380",
-        "repo": "celestia-app",
-        "author": "rootulp",
-        "authorCategory": "coworker",
-        "reviewer": "rach-id",
-        "requestedAt": "2026-10-27T22:04:35Z"
-      },
-      {
-        "number": 3522,
-        "title": "test(types): [medium] add regression tests for the legacy BlobTx field scanner",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3522",
-        "repo": "celestia-core",
-        "author": "rootulp",
-        "authorCategory": "coworker",
-        "reviewer": "rach-id",
-        "requestedAt": "2026-10-27T22:14:49Z"
-      },
-      {
-        "number": 3521,
-        "title": "perf(types): [high] unwrap v11 BlobTxs with the no-copy decoder",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3521",
-        "repo": "celestia-core",
-        "author": "rootulp",
-        "authorCategory": "coworker",
-        "reviewer": "rach-id",
-        "requestedAt": "2026-10-27T23:01:53Z"
       }
     ],
     "renaynay": [],
@@ -268,5 +228,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-10-28T07:32:49.858Z"
+  "fetchedAt": "2026-10-28T07:39:30.098Z"
 }
