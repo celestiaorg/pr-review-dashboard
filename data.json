@@ -52,16 +52,6 @@
         "authorCategory": "coworker",
         "reviewer": "pippokr",
         "requestedAt": "2026-10-27T18:57:54Z"
-      },
-      {
-        "number": 1056,
-        "title": "feat(alert-monitor): [medium] ssh command in analysis, testnet severity calibration",
-        "url": "https://github.com/celestiaorg/infrastructure/pull/1056",
-        "repo": "infrastructure",
-        "author": "rootulp",
-        "authorCategory": "coworker",
-        "reviewer": "pippokr",
-        "requestedAt": "2026-10-28T14:00:06Z"
       }
     ],
     "ninabarbakadze": [
@@ -329,5 +319,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-10-28T14:26:55.357Z"
+  "fetchedAt": "2026-10-28T14:35:28.691Z"
 }
