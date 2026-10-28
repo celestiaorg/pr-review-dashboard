@@ -10,16 +10,6 @@
         "authorCategory": "coworker",
         "reviewer": "chatton",
         "requestedAt": "2026-10-23T18:40:03Z"
-      },
-      {
-        "number": 1057,
-        "title": "fix(monitoring): [high] make alloy pyroscope CPU profiling opt-in",
-        "url": "https://github.com/celestiaorg/infrastructure/pull/1057",
-        "repo": "infrastructure",
-        "author": "pippokr",
-        "authorCategory": "coworker",
-        "reviewer": "chatton",
-        "requestedAt": "2026-10-28T14:21:36Z"
       }
     ],
     "pippokr": [
@@ -319,5 +309,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-10-28T14:41:58.434Z"
+  "fetchedAt": "2026-10-28T14:48:56.715Z"
 }
