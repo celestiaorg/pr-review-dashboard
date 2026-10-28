@@ -91,16 +91,6 @@
         "requestedAt": "2026-10-28T08:28:10Z"
       },
       {
-        "number": 8252,
-        "title": "feat(fibre): [high] replace connection cap with fail-fast per-IP limits (blocked on PROTOCO-3352)",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/8252",
-        "repo": "celestia-app",
-        "author": "walldiss",
-        "authorCategory": "coworker",
-        "reviewer": "vgonkivs",
-        "requestedAt": "2026-10-28T08:28:22Z"
-      },
-      {
         "number": 3523,
         "title": "build(deps): [high] bump github.com/adlio/schema from 1.5.1 to 1.5.2",
         "url": "https://github.com/celestiaorg/celestia-core/pull/3523",
@@ -216,5 +206,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-10-28T21:41:18.886Z"
+  "fetchedAt": "2026-10-28T21:47:54.596Z"
 }
