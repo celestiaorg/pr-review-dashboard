@@ -66,18 +66,7 @@
         "requestedAt": "2026-10-17T17:24:21Z"
       }
     ],
-    "rach-id": [
-      {
-        "number": 8387,
-        "title": "ci: [high] apply review-policy to stacked PRs",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/8387",
-        "repo": "celestia-app",
-        "author": "walldiss",
-        "authorCategory": "coworker",
-        "reviewer": "rach-id",
-        "requestedAt": "2026-10-28T09:46:21Z"
-      }
-    ],
+    "rach-id": [],
     "renaynay": [],
     "rootulp": [],
     "vgonkivs": [
@@ -237,5 +226,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-10-28T09:47:31.685Z"
+  "fetchedAt": "2026-10-28T09:54:03.867Z"
 }
