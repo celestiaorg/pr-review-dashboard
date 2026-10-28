@@ -56,9 +56,31 @@
         "requestedAt": "2026-10-17T17:24:21Z"
       }
     ],
-    "rach-id": [],
+    "rach-id": [
+      {
+        "number": 8390,
+        "title": "docs: [low] add in-place surgery runbooks",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/8390",
+        "repo": "celestia-app",
+        "author": "vgonkivs",
+        "authorCategory": "coworker",
+        "reviewer": "rach-id",
+        "requestedAt": "2026-10-28T12:05:11Z"
+      }
+    ],
     "renaynay": [],
-    "rootulp": [],
+    "rootulp": [
+      {
+        "number": 8390,
+        "title": "docs: [low] add in-place surgery runbooks",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/8390",
+        "repo": "celestia-app",
+        "author": "vgonkivs",
+        "authorCategory": "coworker",
+        "reviewer": "rootulp",
+        "requestedAt": "2026-10-28T12:05:11Z"
+      }
+    ],
     "vgonkivs": [
       {
         "number": 8253,
@@ -176,7 +198,7 @@
       },
       {
         "number": 5374,
-        "title": "test(nodebuilder/tests): remove swamp",
+        "title": "test(nodebuilder/tests): [low] remove swamp",
         "url": "https://github.com/celestiaorg/celestia-node/pull/5374",
         "repo": "celestia-node",
         "author": "vgonkivs",
@@ -237,5 +259,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-10-28T11:58:23.824Z"
+  "fetchedAt": "2026-10-28T12:21:23.093Z"
 }
