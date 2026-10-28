@@ -57,7 +57,7 @@
     "ninabarbakadze": [
       {
         "number": 7889,
-        "title": "feat: confirm fibre uploads through subscriptions",
+        "title": "feat(fibre): [medium] confirm fibre uploads through subscriptions",
         "url": "https://github.com/celestiaorg/celestia-app/pull/7889",
         "repo": "celestia-app",
         "author": "walldiss",
@@ -66,18 +66,7 @@
         "requestedAt": "2026-10-17T17:24:21Z"
       }
     ],
-    "rach-id": [
-      {
-        "number": 8361,
-        "title": "feat!: [high] withhold rewards from validators without Fibre registration",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/8361",
-        "repo": "celestia-app",
-        "author": "rootulp",
-        "authorCategory": "coworker",
-        "reviewer": "rach-id",
-        "requestedAt": "2026-10-26T16:37:03Z"
-      }
-    ],
+    "rach-id": [],
     "renaynay": [],
     "rootulp": [],
     "vgonkivs": [
@@ -228,5 +217,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-10-28T07:53:18.830Z"
+  "fetchedAt": "2026-10-28T07:59:59.349Z"
 }
