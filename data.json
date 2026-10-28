@@ -79,18 +79,7 @@
       }
     ],
     "renaynay": [],
-    "rootulp": [
-      {
-        "number": 8390,
-        "title": "docs: [medium] add in-place surgery runbooks",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/8390",
-        "repo": "celestia-app",
-        "author": "vgonkivs",
-        "authorCategory": "coworker",
-        "reviewer": "rootulp",
-        "requestedAt": "2026-10-28T12:05:11Z"
-      }
-    ],
+    "rootulp": [],
     "vgonkivs": [
       {
         "number": 8253,
@@ -289,5 +278,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-10-28T15:48:16.685Z"
+  "fetchedAt": "2026-10-28T15:55:00.374Z"
 }
