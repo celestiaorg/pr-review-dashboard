@@ -79,6 +79,16 @@
         "authorCategory": "coworker",
         "reviewer": "rootulp",
         "requestedAt": "2026-10-28T12:05:11Z"
+      },
+      {
+        "number": 5375,
+        "title": "fix(das): report catch-up done after resuming an empty checkpoint",
+        "url": "https://github.com/celestiaorg/celestia-node/pull/5375",
+        "repo": "celestia-node",
+        "author": "Ravan002",
+        "authorCategory": "external",
+        "reviewer": "rootulp",
+        "requestedAt": "2026-10-28T12:31:47Z"
       }
     ],
     "vgonkivs": [
@@ -259,5 +269,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-10-28T12:21:23.093Z"
+  "fetchedAt": "2026-10-28T12:34:25.586Z"
 }
