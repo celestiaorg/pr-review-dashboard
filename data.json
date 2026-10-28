@@ -81,6 +81,16 @@
         "requestedAt": "2026-10-28T12:05:11Z"
       },
       {
+        "number": 8389,
+        "title": "fix(hyperlane)!: [high] limit the maximum size of a hyperlane validator set and message counts",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/8389",
+        "repo": "celestia-app",
+        "author": "jonas089",
+        "authorCategory": "coworker",
+        "reviewer": "rootulp",
+        "requestedAt": "2026-10-28T13:04:35Z"
+      },
+      {
         "number": 5375,
         "title": "fix(das): report catch-up done after resuming an empty checkpoint",
         "url": "https://github.com/celestiaorg/celestia-node/pull/5375",
@@ -215,6 +225,16 @@
         "authorCategory": "coworker",
         "reviewer": "walldiss",
         "requestedAt": "2026-10-28T11:53:13Z"
+      },
+      {
+        "number": 8389,
+        "title": "fix(hyperlane)!: [high] limit the maximum size of a hyperlane validator set and message counts",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/8389",
+        "repo": "celestia-app",
+        "author": "jonas089",
+        "authorCategory": "coworker",
+        "reviewer": "walldiss",
+        "requestedAt": "2026-10-28T13:04:23Z"
       }
     ]
   },
@@ -269,5 +289,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-10-28T12:56:38.938Z"
+  "fetchedAt": "2026-10-28T13:09:04.017Z"
 }
