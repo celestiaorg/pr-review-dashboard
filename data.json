@@ -91,6 +91,16 @@
         "requestedAt": "2026-10-27T19:23:36Z"
       },
       {
+        "number": 3523,
+        "title": "build(deps): [high] bump github.com/adlio/schema from 1.5.1 to 1.5.2",
+        "url": "https://github.com/celestiaorg/celestia-core/pull/3523",
+        "repo": "celestia-core",
+        "author": "dependabot",
+        "authorCategory": "bot",
+        "reviewer": "vgonkivs",
+        "requestedAt": "2026-10-28T09:23:47Z"
+      },
+      {
         "number": 5190,
         "title": "fix(rpc/client): close namespace connections",
         "url": "https://github.com/celestiaorg/celestia-node/pull/5190",
@@ -217,5 +227,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-10-28T09:16:08.817Z"
+  "fetchedAt": "2026-10-28T09:26:21.086Z"
 }
