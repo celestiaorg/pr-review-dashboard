@@ -10,16 +10,6 @@
         "authorCategory": "coworker",
         "reviewer": "chatton",
         "requestedAt": "2026-10-23T18:40:03Z"
-      },
-      {
-        "number": 8387,
-        "title": "ci: [high] apply review-policy to stacked PRs",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/8387",
-        "repo": "celestia-app",
-        "author": "walldiss",
-        "authorCategory": "coworker",
-        "reviewer": "chatton",
-        "requestedAt": "2026-10-28T09:41:27Z"
       }
     ],
     "pippokr": [
@@ -226,5 +216,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-10-28T10:00:33.665Z"
+  "fetchedAt": "2026-10-28T10:15:36.532Z"
 }
