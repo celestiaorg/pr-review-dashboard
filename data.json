@@ -10,6 +10,16 @@
         "authorCategory": "coworker",
         "reviewer": "chatton",
         "requestedAt": "2026-10-23T18:40:03Z"
+      },
+      {
+        "number": 1057,
+        "title": "fix(monitoring): [high] make alloy pyroscope CPU profiling opt-in",
+        "url": "https://github.com/celestiaorg/infrastructure/pull/1057",
+        "repo": "infrastructure",
+        "author": "pippokr",
+        "authorCategory": "coworker",
+        "reviewer": "chatton",
+        "requestedAt": "2026-10-28T14:21:36Z"
       }
     ],
     "pippokr": [
@@ -52,16 +62,6 @@
         "authorCategory": "coworker",
         "reviewer": "pippokr",
         "requestedAt": "2026-10-28T14:00:06Z"
-      },
-      {
-        "number": 3525,
-        "title": "fix(ci): [low] retry coverage uploads after transient failures",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3525",
-        "repo": "celestia-core",
-        "author": "rootulp",
-        "authorCategory": "coworker",
-        "reviewer": "pippokr",
-        "requestedAt": "2026-10-28T14:17:45Z"
       }
     ],
     "ninabarbakadze": [
@@ -86,6 +86,16 @@
         "authorCategory": "coworker",
         "reviewer": "rach-id",
         "requestedAt": "2026-10-28T12:05:11Z"
+      },
+      {
+        "number": 3525,
+        "title": "fix(ci): [low] retry coverage uploads after transient failures",
+        "url": "https://github.com/celestiaorg/celestia-core/pull/3525",
+        "repo": "celestia-core",
+        "author": "rootulp",
+        "authorCategory": "coworker",
+        "reviewer": "rach-id",
+        "requestedAt": "2026-10-28T14:21:47Z"
       }
     ],
     "renaynay": [],
@@ -319,5 +329,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-10-28T14:17:50.269Z"
+  "fetchedAt": "2026-10-28T14:26:55.357Z"
 }
