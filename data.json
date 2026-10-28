@@ -68,6 +68,16 @@
     ],
     "rach-id": [
       {
+        "number": 8361,
+        "title": "feat!: [high] withhold rewards from validators without Fibre registration",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/8361",
+        "repo": "celestia-app",
+        "author": "rootulp",
+        "authorCategory": "coworker",
+        "reviewer": "rach-id",
+        "requestedAt": "2026-10-26T16:37:03Z"
+      },
+      {
         "number": 314,
         "title": "perf: [high] decode blob txs in ClassifiedTx without copying",
         "url": "https://github.com/celestiaorg/go-square/pull/314",
@@ -109,28 +119,7 @@
       }
     ],
     "renaynay": [],
-    "rootulp": [
-      {
-        "number": 8331,
-        "title": "perf(fibre): [high] decode upload shard views without copies",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/8331",
-        "repo": "celestia-app",
-        "author": "walldiss",
-        "authorCategory": "coworker",
-        "reviewer": "rootulp",
-        "requestedAt": "2026-10-27T14:12:39Z"
-      },
-      {
-        "number": 8370,
-        "title": "perf(app): [medium] enable optimistic execution with blob-stripped speculative txs",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/8370",
-        "repo": "celestia-app",
-        "author": "rach-id",
-        "authorCategory": "coworker",
-        "reviewer": "rootulp",
-        "requestedAt": "2026-10-27T22:13:51Z"
-      }
-    ],
+    "rootulp": [],
     "vgonkivs": [
       {
         "number": 3519,
@@ -279,5 +268,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-10-28T03:57:55.933Z"
+  "fetchedAt": "2026-10-28T04:15:56.404Z"
 }
