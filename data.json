@@ -31,16 +31,6 @@
         "authorCategory": "coworker",
         "reviewer": "pippokr",
         "requestedAt": "2026-10-27T18:57:54Z"
-      },
-      {
-        "number": 1058,
-        "title": "feat(monitoring): [high] thread protocol-alerts messages and mark resolved alerts",
-        "url": "https://github.com/celestiaorg/infrastructure/pull/1058",
-        "repo": "infrastructure",
-        "author": "rootulp",
-        "authorCategory": "coworker",
-        "reviewer": "pippokr",
-        "requestedAt": "2026-10-28T15:26:54Z"
       }
     ],
     "ninabarbakadze": [
@@ -267,5 +257,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-10-28T16:37:01.833Z"
+  "fetchedAt": "2026-10-28T16:43:35.357Z"
 }
