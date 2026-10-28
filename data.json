@@ -193,16 +193,6 @@
         "authorCategory": "coworker",
         "reviewer": "theodorebugnet",
         "requestedAt": "2026-10-23T21:44:40Z"
-      },
-      {
-        "number": 3520,
-        "title": "docs: [low] drop redundant review level line from PR description guidance",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3520",
-        "repo": "celestia-core",
-        "author": "rootulp",
-        "authorCategory": "coworker",
-        "reviewer": "theodorebugnet",
-        "requestedAt": "2026-10-27T21:58:03Z"
       }
     ],
     "walldiss": [
@@ -299,5 +289,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-10-28T15:17:45.669Z"
+  "fetchedAt": "2026-10-28T15:26:29.720Z"
 }
