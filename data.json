@@ -78,7 +78,28 @@
       }
     ],
     "renaynay": [],
-    "rootulp": [],
+    "rootulp": [
+      {
+        "number": 8252,
+        "title": "feat(fibre): [high] replace connection cap with fail-fast per-IP limits (blocked on PROTOCO-3352)",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/8252",
+        "repo": "celestia-app",
+        "author": "walldiss",
+        "authorCategory": "coworker",
+        "reviewer": "rootulp",
+        "requestedAt": "2026-10-28T20:50:44Z"
+      },
+      {
+        "number": 8253,
+        "title": "feat(fibre): [low] add request-admission and connection metrics",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/8253",
+        "repo": "celestia-app",
+        "author": "walldiss",
+        "authorCategory": "coworker",
+        "reviewer": "rootulp",
+        "requestedAt": "2026-10-28T20:50:54Z"
+      }
+    ],
     "vgonkivs": [
       {
         "number": 8253,
@@ -267,5 +288,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-10-28T20:45:18.859Z"
+  "fetchedAt": "2026-10-28T20:51:57.187Z"
 }
