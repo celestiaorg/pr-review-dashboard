@@ -92,7 +92,7 @@
       },
       {
         "number": 5375,
-        "title": "fix(das): report catch-up done after resuming an empty checkpoint",
+        "title": "fix(das): [low] report catch-up done after resuming an empty checkpoint",
         "url": "https://github.com/celestiaorg/celestia-node/pull/5375",
         "repo": "celestia-node",
         "author": "Ravan002",
@@ -289,5 +289,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-10-28T13:18:42.086Z"
+  "fetchedAt": "2026-10-28T13:26:44.940Z"
 }
