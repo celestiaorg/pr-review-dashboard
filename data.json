@@ -43,18 +43,7 @@
         "requestedAt": "2026-10-28T18:35:46Z"
       }
     ],
-    "ninabarbakadze": [
-      {
-        "number": 7889,
-        "title": "feat(fibre): [medium] confirm fibre uploads through subscriptions",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7889",
-        "repo": "celestia-app",
-        "author": "walldiss",
-        "authorCategory": "coworker",
-        "reviewer": "ninabarbakadze",
-        "requestedAt": "2026-10-17T17:24:21Z"
-      }
-    ],
+    "ninabarbakadze": [],
     "rach-id": [
       {
         "number": 319,
@@ -99,16 +88,6 @@
         "authorCategory": "coworker",
         "reviewer": "vgonkivs",
         "requestedAt": "2026-10-28T08:28:22Z"
-      },
-      {
-        "number": 318,
-        "title": "test: [low] add nightly fuzz coverage for go-square",
-        "url": "https://github.com/celestiaorg/go-square/pull/318",
-        "repo": "go-square",
-        "author": "rootulp",
-        "authorCategory": "coworker",
-        "reviewer": "vgonkivs",
-        "requestedAt": "2026-10-28T18:51:15Z"
       },
       {
         "number": 3523,
@@ -277,5 +256,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-10-28T19:39:49.265Z"
+  "fetchedAt": "2026-10-28T19:46:36.260Z"
 }
