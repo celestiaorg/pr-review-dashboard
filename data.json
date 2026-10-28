@@ -75,6 +75,16 @@
         "authorCategory": "coworker",
         "reviewer": "rach-id",
         "requestedAt": "2026-10-28T21:25:20Z"
+      },
+      {
+        "number": 8396,
+        "title": "fix(fibre)!: [high] migrate legacy escrows during v11 upgrade",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/8396",
+        "repo": "celestia-app",
+        "author": "rootulp",
+        "authorCategory": "coworker",
+        "reviewer": "rach-id",
+        "requestedAt": "2026-10-28T23:06:02Z"
       }
     ],
     "renaynay": [],
@@ -153,7 +163,18 @@
         "requestedAt": "2026-10-23T21:44:40Z"
       }
     ],
-    "walldiss": []
+    "walldiss": [
+      {
+        "number": 315,
+        "title": "feat(builder): [high] add Builder.Fits and deprecate RevertLast*",
+        "url": "https://github.com/celestiaorg/go-square/pull/315",
+        "repo": "go-square",
+        "author": "rootulp",
+        "authorCategory": "coworker",
+        "reviewer": "walldiss",
+        "requestedAt": "2026-10-28T23:02:58Z"
+      }
+    ]
   },
   "teamMembers": [
     {
@@ -206,5 +227,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-10-28T22:57:01.205Z"
+  "fetchedAt": "2026-10-28T23:09:33.677Z"
 }
