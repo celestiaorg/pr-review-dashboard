@@ -173,6 +173,16 @@
         "authorCategory": "coworker",
         "reviewer": "walldiss",
         "requestedAt": "2026-10-28T11:41:01Z"
+      },
+      {
+        "number": 5374,
+        "title": "test(nodebuilder/tests): remove swamp",
+        "url": "https://github.com/celestiaorg/celestia-node/pull/5374",
+        "repo": "celestia-node",
+        "author": "vgonkivs",
+        "authorCategory": "coworker",
+        "reviewer": "walldiss",
+        "requestedAt": "2026-10-28T11:53:13Z"
       }
     ]
   },
@@ -227,5 +237,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-10-28T11:51:34.428Z"
+  "fetchedAt": "2026-10-28T11:58:23.824Z"
 }
