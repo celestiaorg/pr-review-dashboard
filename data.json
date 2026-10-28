@@ -80,6 +80,16 @@
         "requestedAt": "2026-10-28T08:28:22Z"
       },
       {
+        "number": 318,
+        "title": "test: [low] add nightly fuzz coverage for go-square",
+        "url": "https://github.com/celestiaorg/go-square/pull/318",
+        "repo": "go-square",
+        "author": "rootulp",
+        "authorCategory": "coworker",
+        "reviewer": "vgonkivs",
+        "requestedAt": "2026-10-28T18:51:15Z"
+      },
+      {
         "number": 3523,
         "title": "build(deps): [high] bump github.com/adlio/schema from 1.5.1 to 1.5.2",
         "url": "https://github.com/celestiaorg/celestia-core/pull/3523",
@@ -246,5 +256,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-10-28T18:45:24.062Z"
+  "fetchedAt": "2026-10-28T18:52:10.688Z"
 }
