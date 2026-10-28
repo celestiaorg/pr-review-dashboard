@@ -55,7 +55,18 @@
         "requestedAt": "2026-10-17T17:24:21Z"
       }
     ],
-    "rach-id": [],
+    "rach-id": [
+      {
+        "number": 319,
+        "title": "test(tx): [medium] close BlobTx decoder coverage gaps",
+        "url": "https://github.com/celestiaorg/go-square/pull/319",
+        "repo": "go-square",
+        "author": "rootulp",
+        "authorCategory": "coworker",
+        "reviewer": "rach-id",
+        "requestedAt": "2026-10-28T18:56:09Z"
+      }
+    ],
     "renaynay": [],
     "rootulp": [],
     "vgonkivs": [
@@ -160,16 +171,6 @@
         "authorCategory": "coworker",
         "reviewer": "theodorebugnet",
         "requestedAt": "2026-10-23T21:44:40Z"
-      },
-      {
-        "number": 3526,
-        "title": "fix(rpc/core): [low] cancel event write contexts per delivery instead of per subscription (backport #3348)",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3526",
-        "repo": "celestia-core",
-        "author": "mergify",
-        "authorCategory": "bot",
-        "reviewer": "theodorebugnet",
-        "requestedAt": "2026-10-28T15:42:09Z"
       }
     ],
     "walldiss": [
@@ -256,5 +257,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-10-28T18:52:10.688Z"
+  "fetchedAt": "2026-10-28T18:58:50.566Z"
 }
