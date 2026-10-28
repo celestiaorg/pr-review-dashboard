@@ -59,7 +59,7 @@
     "rach-id": [
       {
         "number": 8390,
-        "title": "docs: [low] add in-place surgery runbooks",
+        "title": "docs: [medium] add in-place surgery runbooks",
         "url": "https://github.com/celestiaorg/celestia-app/pull/8390",
         "repo": "celestia-app",
         "author": "vgonkivs",
@@ -72,7 +72,7 @@
     "rootulp": [
       {
         "number": 8390,
-        "title": "docs: [low] add in-place surgery runbooks",
+        "title": "docs: [medium] add in-place surgery runbooks",
         "url": "https://github.com/celestiaorg/celestia-app/pull/8390",
         "repo": "celestia-app",
         "author": "vgonkivs",
@@ -289,5 +289,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-10-28T13:26:44.940Z"
+  "fetchedAt": "2026-10-28T13:34:54.836Z"
 }
