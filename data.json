@@ -42,16 +42,6 @@
         "authorCategory": "coworker",
         "reviewer": "pippokr",
         "requestedAt": "2026-10-27T18:57:54Z"
-      },
-      {
-        "number": 3527,
-        "title": "test(fuzz): [low] cover core peer decoders in nightly fuzzing",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3527",
-        "repo": "celestia-core",
-        "author": "rootulp",
-        "authorCategory": "coworker",
-        "reviewer": "pippokr",
-        "requestedAt": "2026-10-28T19:48:11Z"
       }
     ],
     "ninabarbakadze": [],
@@ -75,6 +65,16 @@
         "authorCategory": "coworker",
         "reviewer": "rach-id",
         "requestedAt": "2026-10-28T19:24:26Z"
+      },
+      {
+        "number": 3527,
+        "title": "test(fuzz): [low] cover core peer decoders in nightly fuzzing",
+        "url": "https://github.com/celestiaorg/celestia-core/pull/3527",
+        "repo": "celestia-core",
+        "author": "rootulp",
+        "authorCategory": "coworker",
+        "reviewer": "rach-id",
+        "requestedAt": "2026-10-28T21:25:20Z"
       }
     ],
     "renaynay": [],
@@ -237,5 +237,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-10-28T21:20:01.439Z"
+  "fetchedAt": "2026-10-28T21:26:32.796Z"
 }
