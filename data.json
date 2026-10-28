@@ -66,16 +66,6 @@
         "authorCategory": "coworker",
         "reviewer": "rach-id",
         "requestedAt": "2026-10-28T12:05:11Z"
-      },
-      {
-        "number": 3525,
-        "title": "fix(ci): [low] retry coverage uploads after transient failures",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3525",
-        "repo": "celestia-core",
-        "author": "rootulp",
-        "authorCategory": "coworker",
-        "reviewer": "rach-id",
-        "requestedAt": "2026-10-28T14:21:47Z"
       }
     ],
     "renaynay": [],
@@ -309,5 +299,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-10-28T14:55:32.554Z"
+  "fetchedAt": "2026-10-28T15:06:14.352Z"
 }
