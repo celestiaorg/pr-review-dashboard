@@ -37,16 +37,6 @@
     "ninabarbakadze": [],
     "rach-id": [
       {
-        "number": 3516,
-        "title": "ci: [medium] sign Mergify backport commits",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3516",
-        "repo": "celestia-core",
-        "author": "rootulp",
-        "authorCategory": "coworker",
-        "reviewer": "rach-id",
-        "requestedAt": "2026-10-29T13:53:58Z"
-      },
-      {
         "number": 3528,
         "title": "test(flowrate): [low] fix TestReader lower bound for clock rounding",
         "url": "https://github.com/celestiaorg/celestia-core/pull/3528",
@@ -228,5 +218,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-10-29T14:38:23.287Z"
+  "fetchedAt": "2026-10-29T14:46:36.572Z"
 }
