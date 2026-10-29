@@ -1,17 +1,6 @@
 {
   "reviews": {
-    "chatton": [
-      {
-        "number": 1060,
-        "title": "feat(monitoring): [high] allowlist Prometheus/Loki write paths to fleet ranges",
-        "url": "https://github.com/celestiaorg/infrastructure/pull/1060",
-        "repo": "infrastructure",
-        "author": "pippokr",
-        "authorCategory": "coworker",
-        "reviewer": "chatton",
-        "requestedAt": "2026-10-28T20:28:45Z"
-      }
-    ],
+    "chatton": [],
     "pippokr": [
       {
         "number": 939,
@@ -186,5 +175,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-10-29T08:58:22.087Z"
+  "fetchedAt": "2026-10-29T09:15:50.007Z"
 }
