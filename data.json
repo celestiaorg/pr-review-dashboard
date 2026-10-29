@@ -90,6 +90,16 @@
         "requestedAt": "2026-10-29T09:19:38Z"
       },
       {
+        "number": 8388,
+        "title": "ci: [high] replace review-policy evaluator with native approvals and auto-approve",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/8388",
+        "repo": "celestia-app",
+        "author": "walldiss",
+        "authorCategory": "coworker",
+        "reviewer": "vgonkivs",
+        "requestedAt": "2026-10-29T13:08:54Z"
+      },
+      {
         "number": 3523,
         "title": "build(deps): [high] bump github.com/adlio/schema from 1.5.1 to 1.5.2",
         "url": "https://github.com/celestiaorg/celestia-core/pull/3523",
@@ -226,5 +236,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-10-29T12:56:48.725Z"
+  "fetchedAt": "2026-10-29T13:10:41.881Z"
 }
