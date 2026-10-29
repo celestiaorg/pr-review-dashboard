@@ -60,16 +60,6 @@
     "renaynay": [],
     "rootulp": [
       {
-        "number": 124,
-        "title": "feat(metrics): [medium] measure DA read responsiveness SLO3",
-        "url": "https://github.com/celestiaorg/da-proxy/pull/124",
-        "repo": "da-proxy",
-        "author": "chatton",
-        "authorCategory": "coworker",
-        "reviewer": "rootulp",
-        "requestedAt": "2026-10-29T09:19:37Z"
-      },
-      {
         "number": 8400,
         "title": "fix(hyperlane)!: [high] cap multisig ISM validators and reject MsgRecvPacket in proposals",
         "url": "https://github.com/celestiaorg/celestia-app/pull/8400",
@@ -248,5 +238,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-10-29T13:57:01.123Z"
+  "fetchedAt": "2026-10-29T14:11:36.196Z"
 }
