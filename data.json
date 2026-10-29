@@ -14,18 +14,7 @@
       }
     ],
     "ninabarbakadze": [],
-    "rach-id": [
-      {
-        "number": 3528,
-        "title": "test(flowrate): [low] fix TestReader lower bound for clock rounding",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3528",
-        "repo": "celestia-core",
-        "author": "rootulp",
-        "authorCategory": "coworker",
-        "reviewer": "rach-id",
-        "requestedAt": "2026-10-29T13:54:20Z"
-      }
-    ],
+    "rach-id": [],
     "renaynay": [],
     "rootulp": [
       {
@@ -59,6 +48,16 @@
         "authorCategory": "coworker",
         "reviewer": "vgonkivs",
         "requestedAt": "2026-10-29T09:19:38Z"
+      },
+      {
+        "number": 8407,
+        "title": "ci: [medium] consolidate merge queue tests and trim duplicate runs",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/8407",
+        "repo": "celestia-app",
+        "author": "rootulp",
+        "authorCategory": "coworker",
+        "reviewer": "vgonkivs",
+        "requestedAt": "2026-10-29T18:36:56Z"
       },
       {
         "number": 3523,
@@ -131,6 +130,16 @@
         "authorCategory": "coworker",
         "reviewer": "theodorebugnet",
         "requestedAt": "2026-10-29T12:42:02Z"
+      },
+      {
+        "number": 8406,
+        "title": "ci: [low] auto-assign PR authors",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/8406",
+        "repo": "celestia-app",
+        "author": "rootulp",
+        "authorCategory": "coworker",
+        "reviewer": "theodorebugnet",
+        "requestedAt": "2026-10-29T18:21:28Z"
       }
     ],
     "walldiss": [
@@ -227,5 +236,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-10-29T18:18:38.478Z"
+  "fetchedAt": "2026-10-29T18:37:25.789Z"
 }
