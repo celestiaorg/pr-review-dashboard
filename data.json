@@ -60,16 +60,6 @@
     "renaynay": [],
     "rootulp": [
       {
-        "number": 8400,
-        "title": "fix(hyperlane)!: [high] cap multisig ISM validators and reject MsgRecvPacket in proposals",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/8400",
-        "repo": "celestia-app",
-        "author": "jonas089",
-        "authorCategory": "coworker",
-        "reviewer": "rootulp",
-        "requestedAt": "2026-10-29T12:28:53Z"
-      },
-      {
         "number": 8393,
         "title": "feat(zkism)!: [high] maintain a root history of N roots against which messages may be submitted in ZKISM",
         "url": "https://github.com/celestiaorg/celestia-app/pull/8393",
@@ -238,5 +228,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-10-29T14:11:36.196Z"
+  "fetchedAt": "2026-10-29T14:22:30.087Z"
 }
