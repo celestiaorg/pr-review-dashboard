@@ -14,7 +14,48 @@
       }
     ],
     "ninabarbakadze": [],
-    "rach-id": [],
+    "rach-id": [
+      {
+        "number": 8409,
+        "title": "fix(proof): [high] bind ShareProof and RowProof to positions in the data square",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/8409",
+        "repo": "celestia-app",
+        "author": "rootulp",
+        "authorCategory": "coworker",
+        "reviewer": "rach-id",
+        "requestedAt": "2026-10-29T21:27:33Z"
+      },
+      {
+        "number": 3532,
+        "title": "fix(types): [high] bind ShareProof and RowProof to positions in the data square",
+        "url": "https://github.com/celestiaorg/celestia-core/pull/3532",
+        "repo": "celestia-core",
+        "author": "rootulp",
+        "authorCategory": "coworker",
+        "reviewer": "rach-id",
+        "requestedAt": "2026-10-29T21:28:23Z"
+      },
+      {
+        "number": 3534,
+        "title": "fix(types): [high] bind ShareProof and RowProof to positions in the data square (backport #3532)",
+        "url": "https://github.com/celestiaorg/celestia-core/pull/3534",
+        "repo": "celestia-core",
+        "author": "rootulp",
+        "authorCategory": "coworker",
+        "reviewer": "rach-id",
+        "requestedAt": "2026-10-29T21:47:26Z"
+      },
+      {
+        "number": 8410,
+        "title": "fix(proof): [high] bind ShareProof and RowProof to positions in the data square (backport #8409)",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/8410",
+        "repo": "celestia-app",
+        "author": "rootulp",
+        "authorCategory": "coworker",
+        "reviewer": "rach-id",
+        "requestedAt": "2026-10-29T22:50:00Z"
+      }
+    ],
     "renaynay": [],
     "rootulp": [
       {
@@ -29,16 +70,6 @@
       }
     ],
     "vgonkivs": [
-      {
-        "number": 8253,
-        "title": "feat(fibre): [low] add request-admission and connection metrics",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/8253",
-        "repo": "celestia-app",
-        "author": "walldiss",
-        "authorCategory": "coworker",
-        "reviewer": "vgonkivs",
-        "requestedAt": "2026-10-28T08:28:10Z"
-      },
       {
         "number": 124,
         "title": "feat(metrics): [medium] measure DA read responsiveness SLO3",
@@ -58,6 +89,16 @@
         "authorCategory": "coworker",
         "reviewer": "vgonkivs",
         "requestedAt": "2026-10-29T18:36:56Z"
+      },
+      {
+        "number": 5380,
+        "title": "chore(deps): [medium] bump go-square/v4 to v4.3.0",
+        "url": "https://github.com/celestiaorg/celestia-node/pull/5380",
+        "repo": "celestia-node",
+        "author": "rootulp",
+        "authorCategory": "coworker",
+        "reviewer": "vgonkivs",
+        "requestedAt": "2026-10-29T22:50:56Z"
       },
       {
         "number": 3523,
@@ -144,44 +185,14 @@
     ],
     "walldiss": [
       {
-        "number": 315,
-        "title": "feat(builder): [high] add Builder.Fits and deprecate RevertLast*",
-        "url": "https://github.com/celestiaorg/go-square/pull/315",
-        "repo": "go-square",
+        "number": 8398,
+        "title": "refactor(app): [high] use Builder.Fits instead of RevertLast* in FilteredSquareBuilder",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/8398",
+        "repo": "celestia-app",
         "author": "rootulp",
         "authorCategory": "coworker",
         "reviewer": "walldiss",
-        "requestedAt": "2026-10-28T23:02:58Z"
-      },
-      {
-        "number": 424,
-        "title": "fix(p2p): [high] reject range responses that don't start at the requested height",
-        "url": "https://github.com/celestiaorg/go-header/pull/424",
-        "repo": "go-header",
-        "author": "vgonkivs",
-        "authorCategory": "coworker",
-        "reviewer": "walldiss",
-        "requestedAt": "2026-10-29T15:06:04Z"
-      },
-      {
-        "number": 425,
-        "title": "fix(p2p): [high] wait for tracked peers before requesting a range",
-        "url": "https://github.com/celestiaorg/go-header/pull/425",
-        "repo": "go-header",
-        "author": "vgonkivs",
-        "authorCategory": "coworker",
-        "reviewer": "walldiss",
-        "requestedAt": "2026-10-29T15:17:38Z"
-      },
-      {
-        "number": 5378,
-        "title": "refactor(share)!: [high] remove shwap bitswap",
-        "url": "https://github.com/celestiaorg/celestia-node/pull/5378",
-        "repo": "celestia-node",
-        "author": "vgonkivs",
-        "authorCategory": "coworker",
-        "reviewer": "walldiss",
-        "requestedAt": "2026-10-29T15:21:41Z"
+        "requestedAt": "2026-10-28T23:03:33Z"
       }
     ]
   },
@@ -236,5 +247,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-10-29T18:37:25.789Z"
+  "fetchedAt": "2026-10-29T22:54:58.389Z"
 }
