@@ -164,6 +164,36 @@
         "authorCategory": "coworker",
         "reviewer": "walldiss",
         "requestedAt": "2026-10-28T23:02:58Z"
+      },
+      {
+        "number": 424,
+        "title": "fix(p2p): [high] reject range responses that don't start at the requested height",
+        "url": "https://github.com/celestiaorg/go-header/pull/424",
+        "repo": "go-header",
+        "author": "vgonkivs",
+        "authorCategory": "coworker",
+        "reviewer": "walldiss",
+        "requestedAt": "2026-10-29T15:06:04Z"
+      },
+      {
+        "number": 425,
+        "title": "fix(p2p): [high] wait for tracked peers before requesting a range",
+        "url": "https://github.com/celestiaorg/go-header/pull/425",
+        "repo": "go-header",
+        "author": "vgonkivs",
+        "authorCategory": "coworker",
+        "reviewer": "walldiss",
+        "requestedAt": "2026-10-29T15:17:38Z"
+      },
+      {
+        "number": 5378,
+        "title": "refactor(share)!: [high] remove shwap bitswap",
+        "url": "https://github.com/celestiaorg/celestia-node/pull/5378",
+        "repo": "celestia-node",
+        "author": "vgonkivs",
+        "authorCategory": "coworker",
+        "reviewer": "walldiss",
+        "requestedAt": "2026-10-29T15:21:41Z"
       }
     ]
   },
@@ -218,5 +248,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-10-29T15:00:20.333Z"
+  "fetchedAt": "2026-10-29T15:27:10.676Z"
 }
