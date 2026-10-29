@@ -36,7 +36,18 @@
     "ninabarbakadze": [],
     "rach-id": [],
     "renaynay": [],
-    "rootulp": [],
+    "rootulp": [
+      {
+        "number": 124,
+        "title": "feat(metrics): [medium] measure DA read responsiveness",
+        "url": "https://github.com/celestiaorg/da-proxy/pull/124",
+        "repo": "da-proxy",
+        "author": "chatton",
+        "authorCategory": "coworker",
+        "reviewer": "rootulp",
+        "requestedAt": "2026-10-29T09:19:37Z"
+      }
+    ],
     "vgonkivs": [
       {
         "number": 8253,
@@ -47,6 +58,16 @@
         "authorCategory": "coworker",
         "reviewer": "vgonkivs",
         "requestedAt": "2026-10-28T08:28:10Z"
+      },
+      {
+        "number": 124,
+        "title": "feat(metrics): [medium] measure DA read responsiveness",
+        "url": "https://github.com/celestiaorg/da-proxy/pull/124",
+        "repo": "da-proxy",
+        "author": "chatton",
+        "authorCategory": "coworker",
+        "reviewer": "vgonkivs",
+        "requestedAt": "2026-10-29T09:19:38Z"
       },
       {
         "number": 3523,
@@ -175,5 +196,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-10-29T09:15:50.007Z"
+  "fetchedAt": "2026-10-29T09:26:13.734Z"
 }
