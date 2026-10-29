@@ -183,6 +183,16 @@
         "authorCategory": "coworker",
         "reviewer": "walldiss",
         "requestedAt": "2026-10-28T23:02:58Z"
+      },
+      {
+        "number": 3528,
+        "title": "test(flowrate): [low] fix TestReader lower bound for clock rounding",
+        "url": "https://github.com/celestiaorg/celestia-core/pull/3528",
+        "repo": "celestia-core",
+        "author": "rootulp",
+        "authorCategory": "coworker",
+        "reviewer": "walldiss",
+        "requestedAt": "2026-10-29T13:44:59Z"
       }
     ]
   },
@@ -237,5 +247,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-10-29T13:43:44.143Z"
+  "fetchedAt": "2026-10-29T13:50:31.242Z"
 }
