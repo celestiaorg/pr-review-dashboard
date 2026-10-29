@@ -45,18 +45,7 @@
       }
     ],
     "ninabarbakadze": [],
-    "rach-id": [
-      {
-        "number": 8396,
-        "title": "fix(fibre)!: [high] migrate legacy escrows during v11 upgrade",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/8396",
-        "repo": "celestia-app",
-        "author": "rootulp",
-        "authorCategory": "coworker",
-        "reviewer": "rach-id",
-        "requestedAt": "2026-10-28T23:06:02Z"
-      }
-    ],
+    "rach-id": [],
     "renaynay": [],
     "rootulp": [],
     "vgonkivs": [
@@ -197,5 +186,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-10-29T08:14:10.651Z"
+  "fetchedAt": "2026-10-29T08:27:51.674Z"
 }
