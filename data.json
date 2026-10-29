@@ -32,7 +32,10 @@
         "authorCategory": "coworker",
         "reviewer": "pippokr",
         "requestedAt": "2026-10-23T10:37:34Z"
-      },
+      }
+    ],
+    "ninabarbakadze": [],
+    "rach-id": [
       {
         "number": 3516,
         "title": "ci: [medium] sign Mergify backport commits",
@@ -40,12 +43,20 @@
         "repo": "celestia-core",
         "author": "rootulp",
         "authorCategory": "coworker",
-        "reviewer": "pippokr",
-        "requestedAt": "2026-10-27T18:57:54Z"
+        "reviewer": "rach-id",
+        "requestedAt": "2026-10-29T13:53:58Z"
+      },
+      {
+        "number": 3528,
+        "title": "test(flowrate): [low] fix TestReader lower bound for clock rounding",
+        "url": "https://github.com/celestiaorg/celestia-core/pull/3528",
+        "repo": "celestia-core",
+        "author": "rootulp",
+        "authorCategory": "coworker",
+        "reviewer": "rach-id",
+        "requestedAt": "2026-10-29T13:54:20Z"
       }
     ],
-    "ninabarbakadze": [],
-    "rach-id": [],
     "renaynay": [],
     "rootulp": [
       {
@@ -183,16 +194,6 @@
         "authorCategory": "coworker",
         "reviewer": "walldiss",
         "requestedAt": "2026-10-28T23:02:58Z"
-      },
-      {
-        "number": 3528,
-        "title": "test(flowrate): [low] fix TestReader lower bound for clock rounding",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3528",
-        "repo": "celestia-core",
-        "author": "rootulp",
-        "authorCategory": "coworker",
-        "reviewer": "walldiss",
-        "requestedAt": "2026-10-29T13:44:59Z"
       }
     ]
   },
@@ -247,5 +248,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-10-29T13:50:31.242Z"
+  "fetchedAt": "2026-10-29T13:57:01.123Z"
 }
