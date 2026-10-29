@@ -47,36 +47,6 @@
     "ninabarbakadze": [],
     "rach-id": [
       {
-        "number": 319,
-        "title": "test(tx): [medium] close BlobTx decoder coverage gaps",
-        "url": "https://github.com/celestiaorg/go-square/pull/319",
-        "repo": "go-square",
-        "author": "rootulp",
-        "authorCategory": "coworker",
-        "reviewer": "rach-id",
-        "requestedAt": "2026-10-28T18:56:09Z"
-      },
-      {
-        "number": 8395,
-        "title": "chore(deps): [high] bump celestia-core to v0.42.6 (backport #8394)",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/8395",
-        "repo": "celestia-app",
-        "author": "rootulp",
-        "authorCategory": "coworker",
-        "reviewer": "rach-id",
-        "requestedAt": "2026-10-28T19:24:26Z"
-      },
-      {
-        "number": 3527,
-        "title": "test(fuzz): [low] cover core peer decoders in nightly fuzzing",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3527",
-        "repo": "celestia-core",
-        "author": "rootulp",
-        "authorCategory": "coworker",
-        "reviewer": "rach-id",
-        "requestedAt": "2026-10-28T21:25:20Z"
-      },
-      {
         "number": 8396,
         "title": "fix(fibre)!: [high] migrate legacy escrows during v11 upgrade",
         "url": "https://github.com/celestiaorg/celestia-app/pull/8396",
@@ -227,5 +197,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-10-29T06:55:09.609Z"
+  "fetchedAt": "2026-10-29T07:05:02.839Z"
 }
