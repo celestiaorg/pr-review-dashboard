@@ -1,6 +1,17 @@
 {
   "reviews": {
-    "chatton": [],
+    "chatton": [
+      {
+        "number": 5377,
+        "title": "chore(deps): [medium] bump github.com/go-jose/go-jose/v4 from 4.1.4 to 4.1.6",
+        "url": "https://github.com/celestiaorg/celestia-node/pull/5377",
+        "repo": "celestia-node",
+        "author": "dependabot",
+        "authorCategory": "bot",
+        "reviewer": "chatton",
+        "requestedAt": "2026-10-29T13:36:36Z"
+      }
+    ],
     "pippokr": [
       {
         "number": 939,
@@ -226,5 +237,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-10-29T13:28:48.430Z"
+  "fetchedAt": "2026-10-29T13:37:22.620Z"
 }
