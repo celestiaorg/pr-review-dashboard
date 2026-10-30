@@ -30,6 +30,46 @@
         "authorCategory": "coworker",
         "reviewer": "chatton",
         "requestedAt": "2026-10-30T17:26:22Z"
+      },
+      {
+        "number": 325,
+        "title": "ci: [medium] keep nightly fuzz crashes out of public artifacts and file Linear issues",
+        "url": "https://github.com/celestiaorg/go-square/pull/325",
+        "repo": "go-square",
+        "author": "rootulp",
+        "authorCategory": "coworker",
+        "reviewer": "chatton",
+        "requestedAt": "2026-10-30T21:36:39Z"
+      },
+      {
+        "number": 8433,
+        "title": "test: [low] fuzz the tx and share inclusion proof ABCI queries",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/8433",
+        "repo": "celestia-app",
+        "author": "rootulp",
+        "authorCategory": "coworker",
+        "reviewer": "chatton",
+        "requestedAt": "2026-10-30T22:43:12Z"
+      },
+      {
+        "number": 8441,
+        "title": "test: [low] fuzz x/forwarding address derivation and IGP fee accounting",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/8441",
+        "repo": "celestia-app",
+        "author": "rootulp",
+        "authorCategory": "coworker",
+        "reviewer": "chatton",
+        "requestedAt": "2026-10-30T22:43:21Z"
+      },
+      {
+        "number": 8450,
+        "title": "refactor!: [medium] remove unused exported pkg/inclusion, rsema1d standalone proofs and fibre.BlobIDFromString",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/8450",
+        "repo": "celestia-app",
+        "author": "rootulp",
+        "authorCategory": "coworker",
+        "reviewer": "chatton",
+        "requestedAt": "2026-10-30T23:00:36Z"
       }
     ],
     "pippokr": [
@@ -42,23 +82,83 @@
         "authorCategory": "coworker",
         "reviewer": "pippokr",
         "requestedAt": "2026-10-23T10:37:34Z"
+      },
+      {
+        "number": 8427,
+        "title": "test: [low] fuzz signature cache parity in the ante handler",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/8427",
+        "repo": "celestia-app",
+        "author": "rootulp",
+        "authorCategory": "coworker",
+        "reviewer": "pippokr",
+        "requestedAt": "2026-10-30T22:43:05Z"
+      },
+      {
+        "number": 8437,
+        "title": "test: [low] fuzz the pay-for-fibre first-message peek",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/8437",
+        "repo": "celestia-app",
+        "author": "rootulp",
+        "authorCategory": "coworker",
+        "reviewer": "pippokr",
+        "requestedAt": "2026-10-30T22:43:15Z"
+      },
+      {
+        "number": 8445,
+        "title": "test: [low] fuzz fibre escrow message sequences and index keys",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/8445",
+        "repo": "celestia-app",
+        "author": "rootulp",
+        "authorCategory": "coworker",
+        "reviewer": "pippokr",
+        "requestedAt": "2026-10-30T22:43:24Z"
       }
     ],
     "ninabarbakadze": [],
-    "rach-id": [],
-    "renaynay": [],
-    "rootulp": [
+    "rach-id": [
       {
-        "number": 1067,
-        "title": "feat(monitoring): [high] read-credential plumbing for telemetry consumers",
-        "url": "https://github.com/celestiaorg/infrastructure/pull/1067",
-        "repo": "infrastructure",
-        "author": "pippokr",
+        "number": 8430,
+        "title": "test: [low] fuzz zkism decoders and fibre payment promises",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/8430",
+        "repo": "celestia-app",
+        "author": "rootulp",
         "authorCategory": "coworker",
-        "reviewer": "rootulp",
-        "requestedAt": "2026-10-30T14:32:30Z"
+        "reviewer": "rach-id",
+        "requestedAt": "2026-10-30T22:43:07Z"
+      },
+      {
+        "number": 8438,
+        "title": "test: [low] fuzz Hyperlane ISM signature weight against the ISM parsers",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/8438",
+        "repo": "celestia-app",
+        "author": "rootulp",
+        "authorCategory": "coworker",
+        "reviewer": "rach-id",
+        "requestedAt": "2026-10-30T22:43:16Z"
+      },
+      {
+        "number": 8446,
+        "title": "test: [low] fuzz signal version tallies and upgrade scheduling",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/8446",
+        "repo": "celestia-app",
+        "author": "rootulp",
+        "authorCategory": "coworker",
+        "reviewer": "rach-id",
+        "requestedAt": "2026-10-30T22:43:26Z"
+      },
+      {
+        "number": 8450,
+        "title": "refactor!: [medium] remove unused exported pkg/inclusion, rsema1d standalone proofs and fibre.BlobIDFromString",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/8450",
+        "repo": "celestia-app",
+        "author": "rootulp",
+        "authorCategory": "coworker",
+        "reviewer": "rach-id",
+        "requestedAt": "2026-10-30T23:06:47Z"
       }
     ],
+    "renaynay": [],
+    "rootulp": [],
     "vgonkivs": [
       {
         "number": 124,
@@ -81,16 +181,6 @@
         "requestedAt": "2026-10-29T18:36:56Z"
       },
       {
-        "number": 5379,
-        "title": "fix(nodebuilder/share): [high] harden GetRangeResult verification and bump celestia-core to v0.42.7",
-        "url": "https://github.com/celestiaorg/celestia-node/pull/5379",
-        "repo": "celestia-node",
-        "author": "rootulp",
-        "authorCategory": "coworker",
-        "reviewer": "vgonkivs",
-        "requestedAt": "2026-10-30T13:55:16Z"
-      },
-      {
         "number": 322,
         "title": "test: [low] fuzz Builder and ClassifiedTx square parity",
         "url": "https://github.com/celestiaorg/go-square/pull/322",
@@ -99,6 +189,46 @@
         "authorCategory": "coworker",
         "reviewer": "vgonkivs",
         "requestedAt": "2026-10-30T17:26:16Z"
+      },
+      {
+        "number": 458,
+        "title": "fix: [high] release pooled trees when root computation fails",
+        "url": "https://github.com/celestiaorg/rsmt2d/pull/458",
+        "repo": "rsmt2d",
+        "author": "rootulp",
+        "authorCategory": "coworker",
+        "reviewer": "vgonkivs",
+        "requestedAt": "2026-10-30T20:29:45Z"
+      },
+      {
+        "number": 8432,
+        "title": "test: [low] fuzz EDS construction parity between tree pool and NMT wrapper",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/8432",
+        "repo": "celestia-app",
+        "author": "rootulp",
+        "authorCategory": "coworker",
+        "reviewer": "vgonkivs",
+        "requestedAt": "2026-10-30T22:43:10Z"
+      },
+      {
+        "number": 8440,
+        "title": "test: [low] fuzz fibre TLS identity verification",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/8440",
+        "repo": "celestia-app",
+        "author": "rootulp",
+        "authorCategory": "coworker",
+        "reviewer": "vgonkivs",
+        "requestedAt": "2026-10-30T22:43:19Z"
+      },
+      {
+        "number": 8448,
+        "title": "test: [low] fuzz the TxStatus and TxStatusBatch gRPC handlers",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/8448",
+        "repo": "celestia-app",
+        "author": "rootulp",
+        "authorCategory": "coworker",
+        "reviewer": "vgonkivs",
+        "requestedAt": "2026-10-30T22:43:29Z"
       },
       {
         "number": 3523,
@@ -183,17 +313,88 @@
         "requestedAt": "2026-10-29T18:21:28Z"
       },
       {
-        "number": 8420,
-        "title": "ci: [medium] shard nightly fuzz job and file Linear issues for failures",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/8420",
+        "number": 8431,
+        "title": "test: [low] fuzz fibre validator quorum and row assignment",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/8431",
         "repo": "celestia-app",
         "author": "rootulp",
         "authorCategory": "coworker",
         "reviewer": "theodorebugnet",
-        "requestedAt": "2026-10-30T16:17:38Z"
+        "requestedAt": "2026-10-30T22:43:08Z"
+      },
+      {
+        "number": 8439,
+        "title": "test: [low] fuzz rsema1d verification, reconstruction and RLC decoding",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/8439",
+        "repo": "celestia-app",
+        "author": "rootulp",
+        "authorCategory": "coworker",
+        "reviewer": "theodorebugnet",
+        "requestedAt": "2026-10-30T22:43:18Z"
+      },
+      {
+        "number": 8447,
+        "title": "test: [low] fuzz zkism message sequences and Verify",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/8447",
+        "repo": "celestia-app",
+        "author": "rootulp",
+        "authorCategory": "coworker",
+        "reviewer": "theodorebugnet",
+        "requestedAt": "2026-10-30T22:43:27Z"
       }
     ],
-    "walldiss": []
+    "walldiss": [
+      {
+        "number": 3560,
+        "title": "ci: [high] auto-approve low and medium risk PRs from trusted authors",
+        "url": "https://github.com/celestiaorg/celestia-core/pull/3560",
+        "repo": "celestia-core",
+        "author": "rootulp",
+        "authorCategory": "coworker",
+        "reviewer": "walldiss",
+        "requestedAt": "2026-10-30T20:53:56Z"
+      },
+      {
+        "number": 8426,
+        "title": "test: [low] fuzz QuerySequence with arbitrary signer bytes",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/8426",
+        "repo": "celestia-app",
+        "author": "rootulp",
+        "authorCategory": "coworker",
+        "reviewer": "walldiss",
+        "requestedAt": "2026-10-30T22:43:04Z"
+      },
+      {
+        "number": 8436,
+        "title": "test: [low] fuzz the blob tx validation cache",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/8436",
+        "repo": "celestia-app",
+        "author": "rootulp",
+        "authorCategory": "coworker",
+        "reviewer": "walldiss",
+        "requestedAt": "2026-10-30T22:43:13Z"
+      },
+      {
+        "number": 8442,
+        "title": "test: [low] fuzz PFB share/gas checks, ValidateHost and node error parsers",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/8442",
+        "repo": "celestia-app",
+        "author": "rootulp",
+        "authorCategory": "coworker",
+        "reviewer": "walldiss",
+        "requestedAt": "2026-10-30T22:43:22Z"
+      },
+      {
+        "number": 3564,
+        "title": "test: [low] use structured fuzzing for raw-bytes fuzz targets",
+        "url": "https://github.com/celestiaorg/celestia-core/pull/3564",
+        "repo": "celestia-core",
+        "author": "rootulp",
+        "authorCategory": "coworker",
+        "reviewer": "walldiss",
+        "requestedAt": "2026-10-30T23:22:28Z"
+      }
+    ]
   },
   "teamMembers": [
     {
@@ -246,5 +447,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-10-30T19:57:03.384Z"
+  "fetchedAt": "2026-10-30T23:27:43.340Z"
 }
