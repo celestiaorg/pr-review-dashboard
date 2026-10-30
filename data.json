@@ -20,6 +20,16 @@
         "authorCategory": "coworker",
         "reviewer": "chatton",
         "requestedAt": "2026-10-30T14:32:23Z"
+      },
+      {
+        "number": 323,
+        "title": "test: [low] fuzz commitment parity and blob decoding round trips",
+        "url": "https://github.com/celestiaorg/go-square/pull/323",
+        "repo": "go-square",
+        "author": "rootulp",
+        "authorCategory": "coworker",
+        "reviewer": "chatton",
+        "requestedAt": "2026-10-30T17:26:22Z"
       }
     ],
     "pippokr": [
@@ -35,28 +45,7 @@
       }
     ],
     "ninabarbakadze": [],
-    "rach-id": [
-      {
-        "number": 3500,
-        "title": "fix: [high] bound block transaction cardinality during decoding",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3500",
-        "repo": "celestia-core",
-        "author": "rootulp",
-        "authorCategory": "coworker",
-        "reviewer": "rach-id",
-        "requestedAt": "2026-10-22T22:37:07Z"
-      },
-      {
-        "number": 3535,
-        "title": "fix: [high] bound block transaction cardinality during decoding",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3535",
-        "repo": "celestia-core",
-        "author": "rootulp",
-        "authorCategory": "coworker",
-        "reviewer": "rach-id",
-        "requestedAt": "2026-10-30T04:27:03Z"
-      }
-    ],
+    "rach-id": [],
     "renaynay": [],
     "rootulp": [
       {
@@ -100,6 +89,16 @@
         "authorCategory": "coworker",
         "reviewer": "vgonkivs",
         "requestedAt": "2026-10-30T13:55:16Z"
+      },
+      {
+        "number": 322,
+        "title": "test: [low] fuzz Builder and ClassifiedTx square parity",
+        "url": "https://github.com/celestiaorg/go-square/pull/322",
+        "repo": "go-square",
+        "author": "rootulp",
+        "authorCategory": "coworker",
+        "reviewer": "vgonkivs",
+        "requestedAt": "2026-10-30T17:26:16Z"
       },
       {
         "number": 3523,
@@ -182,6 +181,16 @@
         "authorCategory": "coworker",
         "reviewer": "theodorebugnet",
         "requestedAt": "2026-10-29T18:21:28Z"
+      },
+      {
+        "number": 8420,
+        "title": "ci: [medium] shard nightly fuzz job and file Linear issues for failures",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/8420",
+        "repo": "celestia-app",
+        "author": "rootulp",
+        "authorCategory": "coworker",
+        "reviewer": "theodorebugnet",
+        "requestedAt": "2026-10-30T16:17:38Z"
       }
     ],
     "walldiss": []
@@ -237,5 +246,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-10-30T15:21:03.639Z"
+  "fetchedAt": "2026-10-30T19:57:03.384Z"
 }
