@@ -1,6 +1,27 @@
 {
   "reviews": {
-    "chatton": [],
+    "chatton": [
+      {
+        "number": 1066,
+        "title": "feat(monitoring): [high] basic auth capability on telemetry write/read paths",
+        "url": "https://github.com/celestiaorg/infrastructure/pull/1066",
+        "repo": "infrastructure",
+        "author": "pippokr",
+        "authorCategory": "coworker",
+        "reviewer": "chatton",
+        "requestedAt": "2026-10-30T14:13:32Z"
+      },
+      {
+        "number": 1067,
+        "title": "feat(monitoring): [high] read-credential plumbing for telemetry consumers",
+        "url": "https://github.com/celestiaorg/infrastructure/pull/1067",
+        "repo": "infrastructure",
+        "author": "pippokr",
+        "authorCategory": "coworker",
+        "reviewer": "chatton",
+        "requestedAt": "2026-10-30T14:32:23Z"
+      }
+    ],
     "pippokr": [
       {
         "number": 1029,
@@ -26,56 +47,6 @@
         "requestedAt": "2026-10-22T22:37:07Z"
       },
       {
-        "number": 8409,
-        "title": "fix(proof): [high] bind ShareProof and RowProof to positions in the data square",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/8409",
-        "repo": "celestia-app",
-        "author": "rootulp",
-        "authorCategory": "coworker",
-        "reviewer": "rach-id",
-        "requestedAt": "2026-10-29T21:27:33Z"
-      },
-      {
-        "number": 3532,
-        "title": "fix(types): [high] bind ShareProof and RowProof to positions in the data square",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3532",
-        "repo": "celestia-core",
-        "author": "rootulp",
-        "authorCategory": "coworker",
-        "reviewer": "rach-id",
-        "requestedAt": "2026-10-29T21:28:23Z"
-      },
-      {
-        "number": 3534,
-        "title": "fix(types): [high] bind ShareProof and RowProof to positions in the data square (backport #3532)",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3534",
-        "repo": "celestia-core",
-        "author": "rootulp",
-        "authorCategory": "coworker",
-        "reviewer": "rach-id",
-        "requestedAt": "2026-10-29T21:47:26Z"
-      },
-      {
-        "number": 8410,
-        "title": "fix(proof): [high] bind ShareProof and RowProof to positions in the data square (backport #8409)",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/8410",
-        "repo": "celestia-app",
-        "author": "rootulp",
-        "authorCategory": "coworker",
-        "reviewer": "rach-id",
-        "requestedAt": "2026-10-29T22:50:00Z"
-      },
-      {
-        "number": 3536,
-        "title": "fix(indexer): [medium] cap intersected search results",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3536",
-        "repo": "celestia-core",
-        "author": "rootulp",
-        "authorCategory": "coworker",
-        "reviewer": "rach-id",
-        "requestedAt": "2026-10-30T04:03:20Z"
-      },
-      {
         "number": 3535,
         "title": "fix: [high] bound block transaction cardinality during decoding",
         "url": "https://github.com/celestiaorg/celestia-core/pull/3535",
@@ -87,7 +58,18 @@
       }
     ],
     "renaynay": [],
-    "rootulp": [],
+    "rootulp": [
+      {
+        "number": 1067,
+        "title": "feat(monitoring): [high] read-credential plumbing for telemetry consumers",
+        "url": "https://github.com/celestiaorg/infrastructure/pull/1067",
+        "repo": "infrastructure",
+        "author": "pippokr",
+        "authorCategory": "coworker",
+        "reviewer": "rootulp",
+        "requestedAt": "2026-10-30T14:32:30Z"
+      }
+    ],
     "vgonkivs": [
       {
         "number": 124,
@@ -110,14 +92,14 @@
         "requestedAt": "2026-10-29T18:36:56Z"
       },
       {
-        "number": 5380,
-        "title": "chore(deps): [medium] bump go-square/v4 to v4.3.0",
-        "url": "https://github.com/celestiaorg/celestia-node/pull/5380",
+        "number": 5379,
+        "title": "fix(nodebuilder/share): [high] harden GetRangeResult verification and bump celestia-core to v0.42.7",
+        "url": "https://github.com/celestiaorg/celestia-node/pull/5379",
         "repo": "celestia-node",
         "author": "rootulp",
         "authorCategory": "coworker",
         "reviewer": "vgonkivs",
-        "requestedAt": "2026-10-29T22:50:56Z"
+        "requestedAt": "2026-10-30T13:55:16Z"
       },
       {
         "number": 3523,
@@ -202,18 +184,7 @@
         "requestedAt": "2026-10-29T18:21:28Z"
       }
     ],
-    "walldiss": [
-      {
-        "number": 8398,
-        "title": "refactor(app): [high] use Builder.Fits instead of RevertLast* in FilteredSquareBuilder",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/8398",
-        "repo": "celestia-app",
-        "author": "rootulp",
-        "authorCategory": "coworker",
-        "reviewer": "walldiss",
-        "requestedAt": "2026-10-28T23:03:33Z"
-      }
-    ]
+    "walldiss": []
   },
   "teamMembers": [
     {
@@ -266,5 +237,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-10-30T08:44:14.444Z"
+  "fetchedAt": "2026-10-30T15:21:03.639Z"
 }
