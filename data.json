@@ -16,6 +16,16 @@
     "ninabarbakadze": [],
     "rach-id": [
       {
+        "number": 3500,
+        "title": "fix: [high] bound block transaction cardinality during decoding",
+        "url": "https://github.com/celestiaorg/celestia-core/pull/3500",
+        "repo": "celestia-core",
+        "author": "rootulp",
+        "authorCategory": "coworker",
+        "reviewer": "rach-id",
+        "requestedAt": "2026-10-22T22:37:07Z"
+      },
+      {
         "number": 8409,
         "title": "fix(proof): [high] bind ShareProof and RowProof to positions in the data square",
         "url": "https://github.com/celestiaorg/celestia-app/pull/8409",
@@ -54,21 +64,30 @@
         "authorCategory": "coworker",
         "reviewer": "rach-id",
         "requestedAt": "2026-10-29T22:50:00Z"
+      },
+      {
+        "number": 3536,
+        "title": "fix(indexer): [medium] cap intersected search results",
+        "url": "https://github.com/celestiaorg/celestia-core/pull/3536",
+        "repo": "celestia-core",
+        "author": "rootulp",
+        "authorCategory": "coworker",
+        "reviewer": "rach-id",
+        "requestedAt": "2026-10-30T04:03:20Z"
+      },
+      {
+        "number": 3535,
+        "title": "fix: [high] bound block transaction cardinality during decoding",
+        "url": "https://github.com/celestiaorg/celestia-core/pull/3535",
+        "repo": "celestia-core",
+        "author": "rootulp",
+        "authorCategory": "coworker",
+        "reviewer": "rach-id",
+        "requestedAt": "2026-10-30T04:27:03Z"
       }
     ],
     "renaynay": [],
-    "rootulp": [
-      {
-        "number": 8393,
-        "title": "feat(zkism)!: [high] maintain a root history of N roots against which messages may be submitted in ZKISM",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/8393",
-        "repo": "celestia-app",
-        "author": "jonas089",
-        "authorCategory": "coworker",
-        "reviewer": "rootulp",
-        "requestedAt": "2026-10-29T12:29:16Z"
-      }
-    ],
+    "rootulp": [],
     "vgonkivs": [
       {
         "number": 124,
@@ -247,5 +266,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-10-30T02:17:08.289Z"
+  "fetchedAt": "2026-10-30T08:44:14.444Z"
 }
