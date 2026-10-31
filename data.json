@@ -40,16 +40,6 @@
         "authorCategory": "coworker",
         "reviewer": "chatton",
         "requestedAt": "2026-10-30T21:36:39Z"
-      },
-      {
-        "number": 8450,
-        "title": "refactor!: [medium] remove unused exported pkg/inclusion, rsema1d standalone proofs and fibre.BlobIDFromString",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/8450",
-        "repo": "celestia-app",
-        "author": "rootulp",
-        "authorCategory": "coworker",
-        "reviewer": "chatton",
-        "requestedAt": "2026-10-30T23:00:36Z"
       }
     ],
     "pippokr": [
@@ -67,14 +57,14 @@
     "ninabarbakadze": [],
     "rach-id": [
       {
-        "number": 8450,
-        "title": "refactor!: [medium] remove unused exported pkg/inclusion, rsema1d standalone proofs and fibre.BlobIDFromString",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/8450",
-        "repo": "celestia-app",
+        "number": 3566,
+        "title": "test(types): [low] re-sign commit fuzz inputs with the decoded block ID flag",
+        "url": "https://github.com/celestiaorg/celestia-core/pull/3566",
+        "repo": "celestia-core",
         "author": "rootulp",
         "authorCategory": "coworker",
         "reviewer": "rach-id",
-        "requestedAt": "2026-10-30T23:06:47Z"
+        "requestedAt": "2026-10-31T13:39:16Z"
       }
     ],
     "renaynay": [],
@@ -267,5 +257,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-10-31T08:50:45.027Z"
+  "fetchedAt": "2026-10-31T14:50:46.001Z"
 }
