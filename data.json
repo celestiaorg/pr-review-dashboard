@@ -40,6 +40,16 @@
         "authorCategory": "coworker",
         "reviewer": "chatton",
         "requestedAt": "2026-10-30T21:36:39Z"
+      },
+      {
+        "number": 1072,
+        "title": "feat(inventory): [medium] Other reserves, seed-1/DA-backup references, BASIC3 instance types",
+        "url": "https://github.com/celestiaorg/infrastructure/pull/1072",
+        "repo": "infrastructure",
+        "author": "pippokr",
+        "authorCategory": "coworker",
+        "reviewer": "chatton",
+        "requestedAt": "2026-10-31T18:45:11Z"
       }
     ],
     "pippokr": [
@@ -55,20 +65,20 @@
       }
     ],
     "ninabarbakadze": [],
-    "rach-id": [
+    "rach-id": [],
+    "renaynay": [],
+    "rootulp": [
       {
-        "number": 3566,
-        "title": "test(types): [low] re-sign commit fuzz inputs with the decoded block ID flag",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3566",
-        "repo": "celestia-core",
-        "author": "rootulp",
-        "authorCategory": "coworker",
-        "reviewer": "rach-id",
-        "requestedAt": "2026-10-31T13:39:16Z"
+        "number": 5382,
+        "title": "fix(share/discovery): [high] don't wrap the wanted peer count when the set is over its limit",
+        "url": "https://github.com/celestiaorg/celestia-node/pull/5382",
+        "repo": "celestia-node",
+        "author": "Snan0M",
+        "authorCategory": "external",
+        "reviewer": "rootulp",
+        "requestedAt": "2026-10-31T15:29:02Z"
       }
     ],
-    "renaynay": [],
-    "rootulp": [],
     "vgonkivs": [
       {
         "number": 124,
@@ -257,5 +267,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-10-31T14:50:46.001Z"
+  "fetchedAt": "2026-10-31T18:51:32.880Z"
 }
