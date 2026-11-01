@@ -50,6 +50,16 @@
         "authorCategory": "coworker",
         "reviewer": "chatton",
         "requestedAt": "2026-10-31T18:45:11Z"
+      },
+      {
+        "number": 3568,
+        "title": "test(consensus): [low] stop base reactor processor in reactor receive fuzz harness",
+        "url": "https://github.com/celestiaorg/celestia-core/pull/3568",
+        "repo": "celestia-core",
+        "author": "rootulp",
+        "authorCategory": "coworker",
+        "reviewer": "chatton",
+        "requestedAt": "2026-11-01T14:29:41Z"
       }
     ],
     "pippokr": [
@@ -119,6 +129,16 @@
         "authorCategory": "coworker",
         "reviewer": "vgonkivs",
         "requestedAt": "2026-10-30T20:29:45Z"
+      },
+      {
+        "number": 326,
+        "title": "test(square): [low] skip layout checks for reserved blob namespaces in FuzzConstruct",
+        "url": "https://github.com/celestiaorg/go-square/pull/326",
+        "repo": "go-square",
+        "author": "rootulp",
+        "authorCategory": "coworker",
+        "reviewer": "vgonkivs",
+        "requestedAt": "2026-11-01T14:17:19Z"
       },
       {
         "number": 3523,
@@ -223,6 +243,16 @@
         "authorCategory": "coworker",
         "reviewer": "walldiss",
         "requestedAt": "2026-10-30T20:53:56Z"
+      },
+      {
+        "number": 3569,
+        "title": "test(p2p): [low] wait for the peer in TestSwitchDialPeersAsync",
+        "url": "https://github.com/celestiaorg/celestia-core/pull/3569",
+        "repo": "celestia-core",
+        "author": "rootulp",
+        "authorCategory": "coworker",
+        "reviewer": "walldiss",
+        "requestedAt": "2026-11-01T14:32:29Z"
       }
     ]
   },
@@ -277,5 +307,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-11-01T13:51:36.407Z"
+  "fetchedAt": "2026-11-01T18:37:28.843Z"
 }
