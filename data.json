@@ -201,6 +201,16 @@
         "authorCategory": "coworker",
         "reviewer": "theodorebugnet",
         "requestedAt": "2026-10-29T18:21:28Z"
+      },
+      {
+        "number": 3567,
+        "title": "fix(consensus): [high] apply KMSSigningDelay to RetrySignerClient",
+        "url": "https://github.com/celestiaorg/celestia-core/pull/3567",
+        "repo": "celestia-core",
+        "author": "rhmatzeka",
+        "authorCategory": "external",
+        "reviewer": "theodorebugnet",
+        "requestedAt": "2026-11-01T05:40:55Z"
       }
     ],
     "walldiss": [
@@ -267,5 +277,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-11-01T00:41:32.509Z"
+  "fetchedAt": "2026-11-01T06:51:42.315Z"
 }
