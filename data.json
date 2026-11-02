@@ -75,30 +75,9 @@
       }
     ],
     "ninabarbakadze": [],
-    "rach-id": [
-      {
-        "number": 597,
-        "title": "chore(peers): [medium] refresh mocha-5 peers",
-        "url": "https://github.com/celestiaorg/networks/pull/597",
-        "repo": "networks",
-        "author": "github-actions",
-        "authorCategory": "bot",
-        "reviewer": "rach-id",
-        "requestedAt": "2026-11-02T00:12:16Z"
-      }
-    ],
+    "rach-id": [],
     "renaynay": [],
     "rootulp": [
-      {
-        "number": 598,
-        "title": "chore(peers): [medium] refresh mainnet peers + addrbook",
-        "url": "https://github.com/celestiaorg/networks/pull/598",
-        "repo": "networks",
-        "author": "github-actions",
-        "authorCategory": "bot",
-        "reviewer": "rootulp",
-        "requestedAt": "2026-11-02T00:12:17Z"
-      },
       {
         "number": 5382,
         "title": "fix(share/discovery): [high] don't wrap the wanted peer count when the set is over its limit",
@@ -318,5 +297,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-11-02T01:36:39.299Z"
+  "fetchedAt": "2026-11-02T08:13:40.457Z"
 }
