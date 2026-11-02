@@ -98,18 +98,7 @@
       }
     ],
     "renaynay": [],
-    "rootulp": [
-      {
-        "number": 5382,
-        "title": "fix(share/discovery): [high] don't wrap the wanted peer count when the set is over its limit",
-        "url": "https://github.com/celestiaorg/celestia-node/pull/5382",
-        "repo": "celestia-node",
-        "author": "Snan0M",
-        "authorCategory": "external",
-        "reviewer": "rootulp",
-        "requestedAt": "2026-10-31T15:29:02Z"
-      }
-    ],
+    "rootulp": [],
     "vgonkivs": [
       {
         "number": 1155,
@@ -234,16 +223,6 @@
         "requestedAt": "2026-11-02T16:07:47Z"
       },
       {
-        "number": 327,
-        "title": "ci: [high] auto-approve low and medium risk PRs from trusted authors",
-        "url": "https://github.com/celestiaorg/go-square/pull/327",
-        "repo": "go-square",
-        "author": "walldiss",
-        "authorCategory": "coworker",
-        "reviewer": "theodorebugnet",
-        "requestedAt": "2026-11-02T16:09:32Z"
-      },
-      {
         "number": 3567,
         "title": "fix(consensus): [high] apply KMSSigningDelay to RetrySignerClient",
         "url": "https://github.com/celestiaorg/celestia-core/pull/3567",
@@ -264,16 +243,6 @@
         "authorCategory": "coworker",
         "reviewer": "walldiss",
         "requestedAt": "2026-11-02T15:27:42Z"
-      },
-      {
-        "number": 5382,
-        "title": "fix(share/discovery): [high] don't wrap the wanted peer count when the set is over its limit",
-        "url": "https://github.com/celestiaorg/celestia-node/pull/5382",
-        "repo": "celestia-node",
-        "author": "Snan0M",
-        "authorCategory": "external",
-        "reviewer": "walldiss",
-        "requestedAt": "2026-11-02T15:12:49Z"
       }
     ]
   },
@@ -328,5 +297,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-11-02T17:45:15.911Z"
+  "fetchedAt": "2026-11-02T18:23:09.724Z"
 }
