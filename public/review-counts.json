@@ -41,14 +41,14 @@
       "year": 7
     },
     "walldiss": {
-      "week": 0,
-      "month": 0,
-      "year": 187
+      "week": 1,
+      "month": 1,
+      "year": 188
     }
   },
-  "computedAt": "2026-11-01T02:58:30.408Z",
+  "computedAt": "2026-11-02T03:08:02.117Z",
   "windows": {
-    "weekStart": "2026-10-26T00:00:00.000Z",
+    "weekStart": "2026-11-02T00:00:00.000Z",
     "monthStart": "2026-11-01T00:00:00.000Z",
     "yearStart": "2026-01-01T00:00:00.000Z"
   }
