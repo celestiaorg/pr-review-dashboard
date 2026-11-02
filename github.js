@@ -1,5 +1,25 @@
 const GITHUB_GRAPHQL_URL = "https://api.github.com/graphql";
 
+const REVIEW_TIMELINE = `
+  pageInfo { hasNextPage endCursor }
+  nodes {
+    ... on ReviewRequestedEvent {
+      createdAt
+      requestedReviewer { ... on User { login } }
+    }
+    ... on ReviewDismissedEvent {
+      createdAt
+      review { submittedAt state author { login } }
+    }
+    ... on PullRequestReview {
+      submittedAt state author { login }
+      commit { oid }
+    }
+  }
+`;
+const REVIEW_TIMELINE_TYPES =
+  "[REVIEW_REQUESTED_EVENT, REVIEW_DISMISSED_EVENT, PULL_REQUEST_REVIEW]";
+
 const PENDING_REVIEWS_QUERY = `
   query($owner: String!, $name: String!) {
     repository(owner: $owner, name: $name) {
@@ -11,6 +31,10 @@ const PENDING_REVIEWS_QUERY = `
           isDraft
           authorAssociation
           author { login __typename }
+          headRefOid
+          commits(last: 1) {
+            nodes { commit { oid committedDate pushedDate } }
+          }
           reviewRequests(first: 20) {
             nodes {
               requestedReviewer {
@@ -18,15 +42,8 @@ const PENDING_REVIEWS_QUERY = `
               }
             }
           }
-          timelineItems(itemTypes: [REVIEW_REQUESTED_EVENT], first: 100) {
-            nodes {
-              ... on ReviewRequestedEvent {
-                createdAt
-                requestedReviewer {
-                  ... on User { login }
-                }
-              }
-            }
+          timelineItems(itemTypes: ${REVIEW_TIMELINE_TYPES}, first: 100) {
+            ${REVIEW_TIMELINE}
           }
         }
       }
@@ -34,7 +51,19 @@ const PENDING_REVIEWS_QUERY = `
   }
 `;
 
-async function fetchRepoPRs(org, repo, token) {
+const REVIEW_TIMELINE_QUERY = `
+  query($owner: String!, $name: String!, $number: Int!, $after: String!) {
+    repository(owner: $owner, name: $name) {
+      pullRequest(number: $number) {
+        timelineItems(itemTypes: ${REVIEW_TIMELINE_TYPES}, first: 100, after: $after) {
+          ${REVIEW_TIMELINE}
+        }
+      }
+    }
+  }
+`;
+
+async function graphql(token, query, variables) {
   const response = await fetch(GITHUB_GRAPHQL_URL, {
     method: "POST",
     headers: {
@@ -42,8 +71,8 @@ async function fetchRepoPRs(org, repo, token) {
       "Content-Type": "application/json",
     },
     body: JSON.stringify({
-      query: PENDING_REVIEWS_QUERY,
-      variables: { owner: org, name: repo },
+      query,
+      variables,
     }),
   });
   if (!response.ok) {
@@ -55,7 +84,61 @@ async function fetchRepoPRs(org, repo, token) {
       `GitHub GraphQL error: ${JSON.stringify(payload.errors)}`
     );
   }
-  return payload.data.repository.pullRequests.nodes;
+  return payload.data.repository;
+}
+
+async function fetchRepoPRs(org, repo, token) {
+  const repository = await graphql(token, PENDING_REVIEWS_QUERY, {
+    owner: org, name: repo,
+  });
+  const prs = repository.pullRequests.nodes;
+  for (const pr of prs) {
+    if (pr.isDraft) continue;
+    let pageInfo = pr.timelineItems.pageInfo;
+    while (pageInfo && pageInfo.hasNextPage) {
+      const page = await graphql(token, REVIEW_TIMELINE_QUERY, {
+        owner: org, name: repo, number: pr.number, after: pageInfo.endCursor,
+      });
+      const timeline = page.pullRequest.timelineItems;
+      pr.timelineItems.nodes.push(...timeline.nodes);
+      pageInfo = timeline.pageInfo;
+    }
+  }
+  return prs;
+}
+
+// A submitted review after dismissal clears the queue, as does an existing
+// approval/change request newer than the dismissed review. Earlier comments
+// and unsubmitted drafts cannot satisfy a new need to review.
+function dismissedReviewRequests(timelineNodes) {
+  const latestReviews = new Map();
+  const latestDecisions = new Map();
+  for (const node of timelineNodes) {
+    const review = node.review || node;
+    if (!review.author || !review.submittedAt ||
+        !["APPROVED", "CHANGES_REQUESTED", "COMMENTED"].includes(review.state)) continue;
+    const login = review.author.login;
+    const submittedAt = new Date(review.submittedAt).getTime();
+    const latest = latestReviews.get(login);
+    if (latest === undefined || submittedAt > latest) latestReviews.set(login, submittedAt);
+    if (review.state !== "COMMENTED") {
+      const decision = latestDecisions.get(login);
+      if (decision === undefined || submittedAt > decision) latestDecisions.set(login, submittedAt);
+    }
+  }
+  const requests = new Map();
+  for (const node of timelineNodes) {
+    const review = node.review;
+    if (!review || !review.author || review.state !== "DISMISSED" || !node.createdAt) continue;
+    const login = review.author.login;
+    if (latestReviews.get(login) >= new Date(node.createdAt).getTime() ||
+        latestDecisions.get(login) > new Date(review.submittedAt).getTime()) continue;
+    const previous = requests.get(login);
+    if (!previous || new Date(node.createdAt) > new Date(previous)) {
+      requests.set(login, node.createdAt);
+    }
+  }
+  return requests;
 }
 
 function mostRecentRequestedAt(timelineNodes, reviewer) {
@@ -66,6 +149,50 @@ function mostRecentRequestedAt(timelineNodes, reviewer) {
     .map((n) => n.createdAt)
     .sort();
   return times.length ? times[times.length - 1] : null;
+}
+
+// Compare commit identities as well as dates: a commit can be pushed after an
+// approval even if it was authored/committed earlier. A later submitted review
+// satisfies the re-review; pending drafts do not.
+function updatedApprovalRequests(pr, timelineNodes) {
+  const requests = new Map();
+  const head = pr.commits?.nodes?.[0]?.commit;
+  if (!head) return requests;
+  const latestReviews = new Map();
+  const latestDecisions = new Map();
+  for (const review of timelineNodes) {
+    if (!review.author || !review.submittedAt ||
+        !["APPROVED", "CHANGES_REQUESTED", "COMMENTED"].includes(review.state)) continue;
+    const login = review.author.login;
+    const latest = latestReviews.get(login);
+    if (!latest || new Date(review.submittedAt) > new Date(latest.submittedAt)) {
+      latestReviews.set(login, review);
+    }
+    if (review.state !== "COMMENTED") {
+      const decision = latestDecisions.get(login);
+      if (!decision || new Date(review.submittedAt) > new Date(decision.submittedAt)) {
+        latestDecisions.set(login, review);
+      }
+    }
+  }
+  for (const [login, review] of latestDecisions) {
+    if (review.state !== "APPROVED") continue;
+    const headOid = pr.headRefOid || head.oid;
+    const reviewedOid = review.commit?.oid;
+    const changedHead = headOid && reviewedOid && headOid !== reviewedOid;
+    const changedAt = head.pushedDate || head.committedDate;
+    if (headOid && reviewedOid && headOid === reviewedOid) continue;
+    const latest = latestReviews.get(login);
+    if (latest !== review && (latest.commit?.oid === headOid ||
+        new Date(latest.submittedAt) >= new Date(changedAt))) continue;
+    if (changedHead || new Date(changedAt) > new Date(review.submittedAt)) {
+      // GitHub can omit pushedDate. Never start the wait before the approval
+      // when the only available commit date is older than the reviewed commit.
+      requests.set(login, new Date(changedAt) > new Date(review.submittedAt)
+        ? changedAt : review.submittedAt);
+    }
+  }
+  return requests;
 }
 
 // GraphQL types bot accounts as Bot, but the same accounts show up as a plain
@@ -131,14 +258,21 @@ async function getPendingReviews(config, token) {
   for (const { repo, nodes } of repoResults) {
     for (const pr of nodes) {
       if (pr.isDraft) continue;
-      const requestedReviewers = (pr.reviewRequests.nodes || [])
+      const timelineNodes = pr.timelineItems.nodes || [];
+      const dismissedRequests = dismissedReviewRequests(timelineNodes);
+      const updatedRequests = updatedApprovalRequests(pr, timelineNodes);
+      const requestedReviewers = new Set((pr.reviewRequests.nodes || [])
         .map((r) => r.requestedReviewer && r.requestedReviewer.login)
-        .filter((login) => login && teamHandles.has(login));
+        .filter(Boolean));
+      for (const reviewer of dismissedRequests.keys()) requestedReviewers.add(reviewer);
+      for (const reviewer of updatedRequests.keys()) requestedReviewers.add(reviewer);
       for (const reviewer of requestedReviewers) {
-        const requestedAt = mostRecentRequestedAt(
-          pr.timelineItems.nodes || [],
-          reviewer
-        );
+        if (!teamHandles.has(reviewer)) continue;
+        const requestedAt = [
+          mostRecentRequestedAt(timelineNodes, reviewer),
+          dismissedRequests.get(reviewer),
+          updatedRequests.get(reviewer),
+        ].filter(Boolean).sort((a, b) => new Date(a) - new Date(b)).pop();
         if (requestedAt && result[reviewer]) {
           result[reviewer].push({
             number: pr.number,

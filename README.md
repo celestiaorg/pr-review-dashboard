@@ -7,6 +7,8 @@ A live dashboard that shows each protocol team member's pending PR review queue,
 ## Features
 
 - Card grid showing each team member's pending reviews
+- Dismissed reviews return to the reviewer's queue even without a new review request; the wait starts at dismissal (or a later explicit request), and a replacement review clears the entry
+- New commits after an approval also return the PR to that reviewer's queue until they submit another review. Wait time starts at the latest commit's push date (commit date if unavailable, bounded by the approval date).
 - Wait times color-coded: green (≤12h), yellow (12-24h), red (>24h)
 - Toggle buttons to show/hide members (e.g., when they're on another project), listed alphabetically
 - Each queue is ordered by PR author — coworkers (org members and repo collaborators) first, then bots like dependabot, then external contributors — and by longest wait within each group
@@ -14,6 +16,7 @@ A live dashboard that shows each protocol team member's pending PR review queue,
 - Auto-refreshes every 5 minutes
 - Only shows open, non-draft PRs in [protocol repos](https://github.com/celestiaorg/protocol?tab=readme-ov-file#repos)
 - **Reviews completed** section at the top of the page with per-teammate bar charts for this week, this month, and YTD
+- Completed-review totals count each PR once per teammate, at their first review date; re-reviews after new commits or dismissals do not add to the totals
 
 ## Prerequisites
 

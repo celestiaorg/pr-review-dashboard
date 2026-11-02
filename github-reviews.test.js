@@ -201,6 +201,21 @@ describe("getReviewCounts", () => {
     expect(result.rootulp).toEqual({ week: 0, month: 0, year: 0 });
   });
 
+  test("dismissals and repeated approvals of the same PR still count once at the first review date", async () => {
+    fetch.mockResolvedValueOnce(searchOk([{
+      number: 10,
+      repository: { nameWithOwner: "celestiaorg/celestia-app" },
+      reviews: { nodes: [
+        { submittedAt: "2026-02-10T09:00:00Z", state: "DISMISSED" },
+        { submittedAt: "2026-04-13T09:00:00Z", state: "DISMISSED" },
+        { submittedAt: "2026-04-14T09:00:00Z", state: "APPROVED" },
+      ] },
+    }]));
+    expect((await getReviewCounts(CONFIG, "tok", NOW)).rootulp).toEqual({
+      week: 0, month: 0, year: 1,
+    });
+  });
+
   test("teammate with zero reviews gets zero counts", async () => {
     fetch.mockResolvedValueOnce(searchOk([]));
 
