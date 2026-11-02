@@ -291,6 +291,221 @@ describe("getPendingReviews (GraphQL)", () => {
   });
 });
 
+describe("dismissed reviews", () => {
+  const config = {
+    org: "celestiaorg",
+    repos: ["celestia-app"],
+    teamMembers: [
+      { name: "Rootul", github: "rootulp" },
+      { name: "Nina", github: "ninabarbakadze" },
+    ],
+  };
+  const dismissedAt = "2026-04-13T10:00:00Z";
+  const original = {
+    id: "review-1", author: { login: "rootulp" },
+    submittedAt: "2026-04-12T08:00:00Z", state: "DISMISSED",
+  };
+  const dismissal = { createdAt: dismissedAt, review: original };
+  function pr(nodes = [original, dismissal], requested = [], extra = {}) {
+    return {
+      number: 10, title: "Needs another look", url: "https://example.com/10",
+      isDraft: false, author: { login: "cmwaters" }, authorAssociation: "MEMBER",
+      reviewRequests: { nodes: requested.map((login) => ({ requestedReviewer: { login } })) },
+      timelineItems: { nodes },
+      ...extra,
+    };
+  }
+
+  test("restores a dismissed review without an explicit request, timed from dismissal", async () => {
+    fetch.mockResolvedValueOnce(graphqlOk([pr()]));
+    const result = await getPendingReviews(config, MOCK_TOKEN);
+    expect(result.rootulp).toEqual([expect.objectContaining({
+      number: 10, requestedAt: dismissedAt, reviewer: "rootulp", authorCategory: "coworker",
+    })]);
+    expect(result.ninabarbakadze).toEqual([]);
+    const query = JSON.parse(fetch.mock.calls[0][1].body).query;
+    expect(query).toContain("REVIEW_DISMISSED_EVENT");
+    expect(query).toContain("PULL_REQUEST_REVIEW");
+  });
+
+  test.each(["APPROVED", "CHANGES_REQUESTED", "COMMENTED"])(
+    "a replacement %s review clears the dismissal", async (state) => {
+      fetch.mockResolvedValueOnce(graphqlOk([pr([
+        original, dismissal,
+        { id: "review-2", author: original.author, submittedAt: "2026-04-13T11:00:00Z", state },
+      ])]));
+      expect((await getPendingReviews(config, MOCK_TOKEN)).rootulp).toEqual([]);
+    }
+  );
+
+  test("dismissing an older review does not undo a newer approval", async () => {
+    fetch.mockResolvedValueOnce(graphqlOk([pr([
+      original,
+      { id: "review-2", author: original.author, submittedAt: "2026-04-13T09:00:00Z", state: "APPROVED" },
+      dismissal,
+    ])]));
+    expect((await getPendingReviews(config, MOCK_TOKEN)).rootulp).toEqual([]);
+  });
+
+  test("a comment before dismissal does not satisfy the new need to review", async () => {
+    fetch.mockResolvedValueOnce(graphqlOk([pr([
+      original,
+      { id: "comment", author: original.author, submittedAt: "2026-04-13T09:00:00Z", state: "COMMENTED" },
+      dismissal,
+    ])]));
+    expect((await getPendingReviews(config, MOCK_TOKEN)).rootulp[0].requestedAt).toBe(dismissedAt);
+  });
+
+  test("an unsubmitted review or another person's review does not clear the dismissal", async () => {
+    fetch.mockResolvedValueOnce(graphqlOk([pr([
+      original, dismissal,
+      { id: "draft", author: original.author, submittedAt: null, state: "PENDING" },
+      { id: "other", author: { login: "ninabarbakadze" }, submittedAt: "2026-04-13T11:00:00Z", state: "APPROVED" },
+    ])]));
+    expect((await getPendingReviews(config, MOCK_TOKEN)).rootulp).toHaveLength(1);
+  });
+
+  test.each(["2026-04-13T09:00:00Z", "2026-04-13T11:00:00Z"])(
+    "deduplicates an explicit request at %s and uses the latest wait start", async (createdAt) => {
+      fetch.mockResolvedValueOnce(graphqlOk([pr([
+        original, dismissal, { createdAt, requestedReviewer: original.author },
+      ], ["rootulp"])]));
+      const result = await getPendingReviews(config, MOCK_TOKEN);
+      expect(result.rootulp).toHaveLength(1);
+      expect(result.rootulp[0].requestedAt).toBe(createdAt > dismissedAt ? createdAt : dismissedAt);
+    }
+  );
+
+  test("a replacement review can itself be dismissed and restore the queue again", async () => {
+    const replacement = { ...original, id: "review-2", submittedAt: "2026-04-13T11:00:00Z" };
+    const again = "2026-04-14T10:00:00Z";
+    fetch.mockResolvedValueOnce(graphqlOk([pr([
+      original, dismissal, replacement, { createdAt: again, review: replacement },
+    ])]));
+    expect((await getPendingReviews(config, MOCK_TOKEN)).rootulp[0].requestedAt).toBe(again);
+  });
+
+  test("ignores drafts, non-team reviewers, deleted authors and deleted reviews", async () => {
+    fetch.mockResolvedValueOnce(graphqlOk([
+      pr(undefined, [], { isDraft: true }),
+      pr([{ ...dismissal, review: { ...original, author: { login: "external" } } }]),
+      pr([{ ...dismissal, review: { ...original, author: null } }]),
+      pr([{ ...dismissal, review: null }]),
+    ]));
+    expect(await getPendingReviews(config, MOCK_TOKEN)).toEqual({ rootulp: [], ninabarbakadze: [] });
+  });
+
+  test.each([true, false])("reads later timeline pages (replacement review: %s)", async (replaced) => {
+    const node = pr();
+    node.timelineItems.pageInfo = { hasNextPage: true, endCursor: "next-page" };
+    const later = replaced
+      ? [{ id: "review-2", author: original.author, submittedAt: "2026-04-13T11:00:00Z", state: "APPROVED" }]
+      : [dismissal];
+    node.timelineItems.nodes = [original];
+    fetch.mockResolvedValueOnce(graphqlOk([node])).mockResolvedValueOnce({
+      ok: true,
+      json: async () => ({ data: { repository: { pullRequest: {
+        timelineItems: { nodes: later, pageInfo: { hasNextPage: false, endCursor: null } },
+      } } } }),
+    });
+    const result = await getPendingReviews(config, MOCK_TOKEN);
+    expect(result.rootulp).toHaveLength(replaced ? 0 : 1);
+    expect(JSON.parse(fetch.mock.calls[1][1].body).variables).toEqual({
+      owner: "celestiaorg", name: "celestia-app", number: 10, after: "next-page",
+    });
+  });
+});
+
+describe("commits after approval", () => {
+  const config = {
+    org: "celestiaorg", repos: ["celestia-app"],
+    teamMembers: [{ name: "Rootul", github: "rootulp" }],
+  };
+  const approvedAt = "2026-04-13T09:00:00Z";
+  const pushedAt = "2026-04-13T10:00:00Z";
+  const approval = {
+    author: { login: "rootulp" }, state: "APPROVED", submittedAt: approvedAt,
+    commit: { oid: "original" },
+  };
+  function pr(reviews = [approval], extra = {}) {
+    return {
+      number: 10, title: "Updated PR", url: "https://example.com/10", isDraft: false,
+      author: { login: "cmwaters" }, headRefOid: "new-head",
+      commits: { nodes: [{ commit: { oid: "new-head", committedDate: pushedAt, pushedDate: pushedAt } }] },
+      reviewRequests: { nodes: [] }, timelineItems: { nodes: reviews }, ...extra,
+    };
+  }
+
+  test("restores a PR after commits follow an approval without an explicit request", async () => {
+    fetch.mockResolvedValueOnce(graphqlOk([pr()]));
+    expect((await getPendingReviews(config, MOCK_TOKEN)).rootulp).toEqual([
+      expect.objectContaining({ number: 10, requestedAt: pushedAt }),
+    ]);
+    const query = JSON.parse(fetch.mock.calls[0][1].body).query;
+    expect(query).toContain("headRefOid");
+    expect(query).toContain("commit { oid }");
+  });
+
+  test.each(["APPROVED", "CHANGES_REQUESTED", "COMMENTED"])(
+    "a later %s review clears the entry", async (state) => {
+      fetch.mockResolvedValueOnce(graphqlOk([pr([
+        approval, { ...approval, state, submittedAt: "2026-04-13T11:00:00Z", commit: { oid: "new-head" } },
+      ])]));
+      expect((await getPendingReviews(config, MOCK_TOKEN)).rootulp).toEqual([]);
+    }
+  );
+
+  test("does not add an approval of the current head, even with a future commit date", async () => {
+    fetch.mockResolvedValueOnce(graphqlOk([pr([{ ...approval, commit: { oid: "new-head" } }])]));
+    expect((await getPendingReviews(config, MOCK_TOKEN)).rootulp).toEqual([]);
+  });
+
+  test("a comment before the new commits does not satisfy the need to review them", async () => {
+    fetch.mockResolvedValueOnce(graphqlOk([pr([
+      approval, { ...approval, state: "COMMENTED", submittedAt: "2026-04-13T09:30:00Z" },
+    ])]));
+    expect((await getPendingReviews(config, MOCK_TOKEN)).rootulp[0].requestedAt).toBe(pushedAt);
+  });
+
+  test("detects a newly pushed head even with an old commit date and no push date", async () => {
+    fetch.mockResolvedValueOnce(graphqlOk([pr([approval], {
+      commits: { nodes: [{ commit: { oid: "new-head", committedDate: "2026-04-12T10:00:00Z", pushedDate: null } }] },
+    })]));
+    expect((await getPendingReviews(config, MOCK_TOKEN)).rootulp[0].requestedAt).toBe(approvedAt);
+  });
+
+  test("ignores unsubmitted drafts, other reviewers, non-approvals and draft PRs", async () => {
+    fetch.mockResolvedValueOnce(graphqlOk([
+      pr([approval, { ...approval, state: "PENDING", submittedAt: null }]),
+      pr([{ ...approval, author: { login: "external" } }]),
+      pr([{ ...approval, state: "COMMENTED" }]),
+      pr([{ ...approval, state: "CHANGES_REQUESTED" }]),
+      pr([approval], { isDraft: true }),
+    ]));
+    expect((await getPendingReviews(config, MOCK_TOKEN)).rootulp).toHaveLength(1);
+  });
+
+  test("combines new commits, dismissal and explicit requests into one queue entry", async () => {
+    const dismissed = { ...approval, state: "DISMISSED" };
+    fetch.mockResolvedValueOnce(graphqlOk([pr([
+      dismissed, { review: dismissed, createdAt: pushedAt },
+      { requestedReviewer: approval.author, createdAt: approvedAt },
+    ], { reviewRequests: { nodes: [{ requestedReviewer: approval.author }] } })]));
+    const result = await getPendingReviews(config, MOCK_TOKEN);
+    expect(result.rootulp).toHaveLength(1);
+    expect(result.rootulp[0].requestedAt).toBe(pushedAt);
+  });
+
+  test("deduplicates a new-commit entry with an explicit request", async () => {
+    fetch.mockResolvedValueOnce(graphqlOk([pr([
+      approval, { requestedReviewer: approval.author, createdAt: approvedAt },
+    ], { reviewRequests: { nodes: [{ requestedReviewer: approval.author }] } })]));
+    const result = await getPendingReviews(config, MOCK_TOKEN);
+    expect(result.rootulp).toHaveLength(1);
+    expect(result.rootulp[0].requestedAt).toBe(pushedAt);
+  });
+});
+
 describe("pending review ordering", () => {
   const config = {
     org: "celestiaorg",
