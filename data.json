@@ -75,9 +75,30 @@
       }
     ],
     "ninabarbakadze": [],
-    "rach-id": [],
+    "rach-id": [
+      {
+        "number": 597,
+        "title": "chore(peers): [medium] refresh mocha-5 peers",
+        "url": "https://github.com/celestiaorg/networks/pull/597",
+        "repo": "networks",
+        "author": "github-actions",
+        "authorCategory": "bot",
+        "reviewer": "rach-id",
+        "requestedAt": "2026-11-02T00:12:16Z"
+      }
+    ],
     "renaynay": [],
     "rootulp": [
+      {
+        "number": 598,
+        "title": "chore(peers): [medium] refresh mainnet peers + addrbook",
+        "url": "https://github.com/celestiaorg/networks/pull/598",
+        "repo": "networks",
+        "author": "github-actions",
+        "authorCategory": "bot",
+        "reviewer": "rootulp",
+        "requestedAt": "2026-11-02T00:12:17Z"
+      },
       {
         "number": 5382,
         "title": "fix(share/discovery): [high] don't wrap the wanted peer count when the set is over its limit",
@@ -243,16 +264,6 @@
         "authorCategory": "coworker",
         "reviewer": "walldiss",
         "requestedAt": "2026-10-30T20:53:56Z"
-      },
-      {
-        "number": 3569,
-        "title": "test(p2p): [low] wait for the peer in TestSwitchDialPeersAsync",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3569",
-        "repo": "celestia-core",
-        "author": "rootulp",
-        "authorCategory": "coworker",
-        "reviewer": "walldiss",
-        "requestedAt": "2026-11-01T14:32:29Z"
       }
     ]
   },
@@ -307,5 +318,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-11-01T22:23:15.084Z"
+  "fetchedAt": "2026-11-02T01:36:39.299Z"
 }
