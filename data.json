@@ -2,36 +2,6 @@
   "reviews": {
     "chatton": [
       {
-        "number": 1066,
-        "title": "feat(monitoring): [high] basic auth capability on telemetry write/read paths",
-        "url": "https://github.com/celestiaorg/infrastructure/pull/1066",
-        "repo": "infrastructure",
-        "author": "pippokr",
-        "authorCategory": "coworker",
-        "reviewer": "chatton",
-        "requestedAt": "2026-10-30T14:13:32Z"
-      },
-      {
-        "number": 1067,
-        "title": "feat(monitoring): [high] read-credential plumbing for telemetry consumers",
-        "url": "https://github.com/celestiaorg/infrastructure/pull/1067",
-        "repo": "infrastructure",
-        "author": "pippokr",
-        "authorCategory": "coworker",
-        "reviewer": "chatton",
-        "requestedAt": "2026-10-30T14:32:23Z"
-      },
-      {
-        "number": 323,
-        "title": "test: [low] fuzz commitment parity and blob decoding round trips",
-        "url": "https://github.com/celestiaorg/go-square/pull/323",
-        "repo": "go-square",
-        "author": "rootulp",
-        "authorCategory": "coworker",
-        "reviewer": "chatton",
-        "requestedAt": "2026-10-30T17:26:22Z"
-      },
-      {
         "number": 325,
         "title": "ci: [medium] keep nightly fuzz crashes out of public artifacts and file Linear issues",
         "url": "https://github.com/celestiaorg/go-square/pull/325",
@@ -42,42 +12,103 @@
         "requestedAt": "2026-10-30T21:36:39Z"
       },
       {
-        "number": 1072,
-        "title": "feat(inventory): [medium] Other reserves, seed-1/DA-backup references, BASIC3 instance types",
-        "url": "https://github.com/celestiaorg/infrastructure/pull/1072",
-        "repo": "infrastructure",
-        "author": "pippokr",
+        "number": 1156,
+        "title": "fix(types)!: [medium] decode tx error codes by codespace",
+        "url": "https://github.com/celestiaorg/lumina/pull/1156",
+        "repo": "lumina",
+        "author": "citizen-stig",
         "authorCategory": "coworker",
         "reviewer": "chatton",
-        "requestedAt": "2026-10-31T18:45:11Z"
-      },
-      {
-        "number": 3568,
-        "title": "test(consensus): [low] stop base reactor processor in reactor receive fuzz harness",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3568",
-        "repo": "celestia-core",
-        "author": "rootulp",
-        "authorCategory": "coworker",
-        "reviewer": "chatton",
-        "requestedAt": "2026-11-01T14:29:41Z"
+        "requestedAt": "2026-11-02T10:46:31Z"
       }
     ],
     "pippokr": [
       {
-        "number": 1029,
-        "title": "feat(fibre-gateway): [high] encoder pool and autoscaler in the corto deployment",
-        "url": "https://github.com/celestiaorg/infrastructure/pull/1029",
-        "repo": "infrastructure",
-        "author": "walldiss",
-        "authorCategory": "coworker",
+        "number": 5384,
+        "title": "chore(deps): [medium] bump actions/checkout from 7.0.0 to 7.0.1 in the patch-updates group",
+        "url": "https://github.com/celestiaorg/celestia-node/pull/5384",
+        "repo": "celestia-node",
+        "author": "dependabot",
+        "authorCategory": "bot",
         "reviewer": "pippokr",
-        "requestedAt": "2026-10-23T10:37:34Z"
+        "requestedAt": "2026-11-02T11:05:02Z"
       }
     ],
     "ninabarbakadze": [],
-    "rach-id": [],
+    "rach-id": [
+      {
+        "number": 169,
+        "title": "fix(x/distribution): [high] export and import user outstanding rewards in genesis",
+        "url": "https://github.com/celestiaorg/cosmos-sdk/pull/169",
+        "repo": "cosmos-sdk",
+        "author": "vgonkivs",
+        "authorCategory": "coworker",
+        "reviewer": "rach-id",
+        "requestedAt": "2026-11-02T13:17:08Z"
+      },
+      {
+        "number": 172,
+        "title": "fix(store): [high] keep the commit timestamp on RollbackToVersion",
+        "url": "https://github.com/celestiaorg/cosmos-sdk/pull/172",
+        "repo": "cosmos-sdk",
+        "author": "vgonkivs",
+        "authorCategory": "coworker",
+        "reviewer": "rach-id",
+        "requestedAt": "2026-11-02T13:33:58Z"
+      },
+      {
+        "number": 5385,
+        "title": "chore(deps): [medium] bump the libp2p group across 2 directories with 2 updates",
+        "url": "https://github.com/celestiaorg/celestia-node/pull/5385",
+        "repo": "celestia-node",
+        "author": "dependabot",
+        "authorCategory": "bot",
+        "reviewer": "rach-id",
+        "requestedAt": "2026-11-02T11:06:28Z"
+      },
+      {
+        "number": 407,
+        "title": "fix(p2p): stop peer tracker gc ticker",
+        "url": "https://github.com/celestiaorg/go-header/pull/407",
+        "repo": "go-header",
+        "author": "loglapa",
+        "authorCategory": "external",
+        "reviewer": "rach-id",
+        "requestedAt": "2026-09-03T17:00:15Z"
+      }
+    ],
     "renaynay": [],
     "rootulp": [
+      {
+        "number": 169,
+        "title": "fix(x/distribution): [high] export and import user outstanding rewards in genesis",
+        "url": "https://github.com/celestiaorg/cosmos-sdk/pull/169",
+        "repo": "cosmos-sdk",
+        "author": "vgonkivs",
+        "authorCategory": "coworker",
+        "reviewer": "rootulp",
+        "requestedAt": "2026-11-02T13:17:08Z"
+      },
+      {
+        "number": 172,
+        "title": "fix(store): [high] keep the commit timestamp on RollbackToVersion",
+        "url": "https://github.com/celestiaorg/cosmos-sdk/pull/172",
+        "repo": "cosmos-sdk",
+        "author": "vgonkivs",
+        "authorCategory": "coworker",
+        "reviewer": "rootulp",
+        "requestedAt": "2026-11-02T13:33:58Z"
+      },
+      {
+        "number": 5386,
+        "title": "chore(deps): [medium] bump the go-deps group across 2 directories with 3 updates",
+        "url": "https://github.com/celestiaorg/celestia-node/pull/5386",
+        "repo": "celestia-node",
+        "author": "dependabot",
+        "authorCategory": "bot",
+        "reviewer": "rootulp",
+        "requestedAt": "2026-11-02T11:07:17Z"
+      },
       {
         "number": 5382,
         "title": "fix(share/discovery): [high] don't wrap the wanted peer count when the set is over its limit",
@@ -90,16 +121,6 @@
       }
     ],
     "vgonkivs": [
-      {
-        "number": 124,
-        "title": "feat(metrics): [medium] measure DA read responsiveness SLO3",
-        "url": "https://github.com/celestiaorg/da-proxy/pull/124",
-        "repo": "da-proxy",
-        "author": "chatton",
-        "authorCategory": "coworker",
-        "reviewer": "vgonkivs",
-        "requestedAt": "2026-10-29T09:19:38Z"
-      },
       {
         "number": 8407,
         "title": "ci: [medium] consolidate merge queue tests and trim duplicate runs",
@@ -139,6 +160,16 @@
         "authorCategory": "coworker",
         "reviewer": "vgonkivs",
         "requestedAt": "2026-11-01T14:17:19Z"
+      },
+      {
+        "number": 1155,
+        "title": "feat(fibre)!: [medium] make rustls crypto provider selectable on native",
+        "url": "https://github.com/celestiaorg/lumina/pull/1155",
+        "repo": "lumina",
+        "author": "citizen-stig",
+        "authorCategory": "coworker",
+        "reviewer": "vgonkivs",
+        "requestedAt": "2026-11-02T08:43:29Z"
       },
       {
         "number": 3523,
@@ -297,5 +328,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-11-02T08:13:40.457Z"
+  "fetchedAt": "2026-11-02T14:40:37.566Z"
 }
