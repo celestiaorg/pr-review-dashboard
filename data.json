@@ -2,16 +2,6 @@
   "reviews": {
     "chatton": [
       {
-        "number": 325,
-        "title": "ci: [medium] keep nightly fuzz crashes out of public artifacts and file Linear issues",
-        "url": "https://github.com/celestiaorg/go-square/pull/325",
-        "repo": "go-square",
-        "author": "rootulp",
-        "authorCategory": "coworker",
-        "reviewer": "chatton",
-        "requestedAt": "2026-10-30T21:36:39Z"
-      },
-      {
         "number": 1156,
         "title": "fix(types)!: [medium] decode tx error codes by codespace",
         "url": "https://github.com/celestiaorg/lumina/pull/1156",
@@ -77,6 +67,16 @@
         "requestedAt": "2026-11-02T16:08:14Z"
       },
       {
+        "number": 461,
+        "title": "ci(fuzz): [medium] run fuzz targets nightly and file Linear issues on failure",
+        "url": "https://github.com/celestiaorg/rsmt2d/pull/461",
+        "repo": "rsmt2d",
+        "author": "rootulp",
+        "authorCategory": "coworker",
+        "reviewer": "rach-id",
+        "requestedAt": "2026-11-03T00:10:47Z"
+      },
+      {
         "number": 5385,
         "title": "chore(deps): [medium] bump the libp2p group across 2 directories with 2 updates",
         "url": "https://github.com/celestiaorg/celestia-node/pull/5385",
@@ -111,26 +111,6 @@
         "requestedAt": "2026-11-02T08:43:29Z"
       },
       {
-        "number": 3570,
-        "title": "fix(light): [high] check the target hash after backwards verification",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3570",
-        "repo": "celestia-core",
-        "author": "rootulp",
-        "authorCategory": "coworker",
-        "reviewer": "vgonkivs",
-        "requestedAt": "2026-11-02T14:46:44Z"
-      },
-      {
-        "number": 3571,
-        "title": "fix(blocksync): [high] skip pending accounting for peers with no pending requests",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3571",
-        "repo": "celestia-core",
-        "author": "rootulp",
-        "authorCategory": "coworker",
-        "reviewer": "vgonkivs",
-        "requestedAt": "2026-11-02T15:07:53Z"
-      },
-      {
         "number": 350,
         "title": "ci: [high] auto-approve low and medium risk PRs from trusted authors",
         "url": "https://github.com/celestiaorg/nmt/pull/350",
@@ -139,6 +119,36 @@
         "authorCategory": "coworker",
         "reviewer": "vgonkivs",
         "requestedAt": "2026-11-02T16:07:53Z"
+      },
+      {
+        "number": 8464,
+        "title": "chore(deps): [high] bump hyperlane-cosmos to v1.3.3 (v10.x)",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/8464",
+        "repo": "celestia-app",
+        "author": "rootulp",
+        "authorCategory": "coworker",
+        "reviewer": "vgonkivs",
+        "requestedAt": "2026-11-02T22:16:52Z"
+      },
+      {
+        "number": 325,
+        "title": "ci: [medium] keep nightly fuzz crashes out of public artifacts and file Linear issues",
+        "url": "https://github.com/celestiaorg/go-square/pull/325",
+        "repo": "go-square",
+        "author": "rootulp",
+        "authorCategory": "coworker",
+        "reviewer": "vgonkivs",
+        "requestedAt": "2026-11-02T22:20:28Z"
+      },
+      {
+        "number": 8468,
+        "title": "ci: [low] auto-assign PR author on new PRs",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/8468",
+        "repo": "celestia-app",
+        "author": "rootulp",
+        "authorCategory": "coworker",
+        "reviewer": "vgonkivs",
+        "requestedAt": "2026-11-03T00:35:47Z"
       },
       {
         "number": 5190,
@@ -223,6 +233,16 @@
         "requestedAt": "2026-11-02T16:07:47Z"
       },
       {
+        "number": 8466,
+        "title": "test: [low] fix the recurring nightly e2e and fuzz failures",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/8466",
+        "repo": "celestia-app",
+        "author": "rootulp",
+        "authorCategory": "coworker",
+        "reviewer": "theodorebugnet",
+        "requestedAt": "2026-11-03T00:21:16Z"
+      },
+      {
         "number": 3567,
         "title": "fix(consensus): [high] apply KMSSigningDelay to RetrySignerClient",
         "url": "https://github.com/celestiaorg/celestia-core/pull/3567",
@@ -235,14 +255,34 @@
     ],
     "walldiss": [
       {
-        "number": 3565,
-        "title": "ci(fuzz): [low] fuzz only changed packages on pull requests",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3565",
-        "repo": "celestia-core",
+        "number": 8464,
+        "title": "chore(deps): [high] bump hyperlane-cosmos to v1.3.3 (v10.x)",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/8464",
+        "repo": "celestia-app",
         "author": "rootulp",
         "authorCategory": "coworker",
         "reviewer": "walldiss",
-        "requestedAt": "2026-11-02T15:27:42Z"
+        "requestedAt": "2026-11-02T22:16:44Z"
+      },
+      {
+        "number": 325,
+        "title": "ci: [medium] keep nightly fuzz crashes out of public artifacts and file Linear issues",
+        "url": "https://github.com/celestiaorg/go-square/pull/325",
+        "repo": "go-square",
+        "author": "rootulp",
+        "authorCategory": "coworker",
+        "reviewer": "walldiss",
+        "requestedAt": "2026-11-02T22:20:28Z"
+      },
+      {
+        "number": 8469,
+        "title": "ci: [low] retry genesis sync and rollback nightly tests more",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/8469",
+        "repo": "celestia-app",
+        "author": "rootulp",
+        "authorCategory": "coworker",
+        "reviewer": "walldiss",
+        "requestedAt": "2026-11-03T00:49:10Z"
       }
     ]
   },
@@ -297,5 +337,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-11-02T18:23:09.724Z"
+  "fetchedAt": "2026-11-03T01:05:28.816Z"
 }
