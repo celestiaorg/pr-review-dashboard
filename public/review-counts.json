@@ -1,9 +1,9 @@
 {
   "counts": {
     "chatton": {
-      "week": 0,
-      "month": 0,
-      "year": 336
+      "week": 6,
+      "month": 6,
+      "year": 342
     },
     "pippokr": {
       "week": 0,
@@ -26,14 +26,14 @@
       "year": 129
     },
     "rootulp": {
-      "week": 0,
-      "month": 0,
-      "year": 863
+      "week": 23,
+      "month": 23,
+      "year": 886
     },
     "vgonkivs": {
-      "week": 0,
-      "month": 0,
-      "year": 352
+      "week": 6,
+      "month": 6,
+      "year": 358
     },
     "theodorebugnet": {
       "week": 0,
@@ -41,12 +41,12 @@
       "year": 7
     },
     "walldiss": {
-      "week": 1,
-      "month": 1,
-      "year": 188
+      "week": 3,
+      "month": 3,
+      "year": 190
     }
   },
-  "computedAt": "2026-11-02T03:08:02.117Z",
+  "computedAt": "2026-11-03T04:24:46.424Z",
   "windows": {
     "weekStart": "2026-11-02T00:00:00.000Z",
     "monthStart": "2026-11-01T00:00:00.000Z",
