@@ -3,7 +3,7 @@
     "chatton": [
       {
         "number": 5389,
-        "title": "ci: [high] auto-approve low and medium risk Dependabot PRs",
+        "title": "ci: [medium] auto-approve low and medium risk Dependabot PRs",
         "url": "https://github.com/celestiaorg/celestia-node/pull/5389",
         "repo": "celestia-node",
         "author": "walldiss",
@@ -13,7 +13,7 @@
       },
       {
         "number": 215,
-        "title": "ci: [high] auto-approve low and medium risk PRs from trusted authors",
+        "title": "ci: [medium] auto-approve low and medium risk PRs from trusted authors",
         "url": "https://github.com/celestiaorg/tastora/pull/215",
         "repo": "tastora",
         "author": "walldiss",
@@ -25,7 +25,7 @@
     "pippokr": [
       {
         "number": 329,
-        "title": "ci: [high] auto-approve low and medium risk Dependabot PRs",
+        "title": "ci: [medium] auto-approve low and medium risk Dependabot PRs",
         "url": "https://github.com/celestiaorg/go-square/pull/329",
         "repo": "go-square",
         "author": "walldiss",
@@ -35,7 +35,7 @@
       },
       {
         "number": 174,
-        "title": "ci: [high] auto-approve low and medium risk Dependabot PRs",
+        "title": "ci: [medium] auto-approve low and medium risk Dependabot PRs",
         "url": "https://github.com/celestiaorg/cosmos-sdk/pull/174",
         "repo": "cosmos-sdk",
         "author": "walldiss",
@@ -45,7 +45,7 @@
       },
       {
         "number": 35,
-        "title": "chore(deps): bump rustls from 0.23.45 to 0.23.46 in /clients/rust",
+        "title": "chore(deps): [medium] bump rustls from 0.23.45 to 0.23.46 in /clients/rust",
         "url": "https://github.com/celestiaorg/fibre-gateway-client/pull/35",
         "repo": "fibre-gateway-client",
         "author": "dependabot",
@@ -99,7 +99,7 @@
       },
       {
         "number": 462,
-        "title": "ci: [high] auto-approve low and medium risk Dependabot PRs",
+        "title": "ci: [medium] auto-approve low and medium risk Dependabot PRs",
         "url": "https://github.com/celestiaorg/rsmt2d/pull/462",
         "repo": "rsmt2d",
         "author": "walldiss",
@@ -121,26 +121,6 @@
     "renaynay": [],
     "rootulp": [
       {
-        "number": 8478,
-        "title": "fix(export): [high] make export --height work and refuse exports that cannot be imported",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/8478",
-        "repo": "celestia-app",
-        "author": "vgonkivs",
-        "authorCategory": "coworker",
-        "reviewer": "rootulp",
-        "requestedAt": "2026-11-03T15:35:10Z"
-      },
-      {
-        "number": 8479,
-        "title": "fix(x/mint): [high] keep the inflation schedule across export and import",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/8479",
-        "repo": "celestia-app",
-        "author": "vgonkivs",
-        "authorCategory": "coworker",
-        "reviewer": "rootulp",
-        "requestedAt": "2026-11-03T15:36:31Z"
-      },
-      {
         "number": 8476,
         "title": "perf(fibre): [medium] serve downloads zero-copy, 256 KiB write buffer, batched TLS",
         "url": "https://github.com/celestiaorg/celestia-app/pull/8476",
@@ -161,34 +141,44 @@
         "requestedAt": "2026-11-03T16:08:27Z"
       },
       {
-        "number": 39,
-        "title": "docs: [high] lower /v1/put minimum to 128 KiB − 5",
-        "url": "https://github.com/celestiaorg/fibre-gateway-client/pull/39",
+        "number": 40,
+        "title": "ci: [medium] auto-approve low and medium risk Dependabot PRs",
+        "url": "https://github.com/celestiaorg/fibre-gateway-client/pull/40",
         "repo": "fibre-gateway-client",
         "author": "walldiss",
         "authorCategory": "coworker",
         "reviewer": "rootulp",
-        "requestedAt": "2026-11-03T16:42:55Z"
+        "requestedAt": "2026-11-03T17:03:01Z"
       },
       {
-        "number": 427,
-        "title": "ci: [high] auto-approve low and medium risk Dependabot PRs",
-        "url": "https://github.com/celestiaorg/go-header/pull/427",
-        "repo": "go-header",
+        "number": 29,
+        "title": "docs: capacity reservations can last up to 24h (1–1440 minutes)",
+        "url": "https://github.com/celestiaorg/fibre-gateway-client/pull/29",
+        "repo": "fibre-gateway-client",
         "author": "walldiss",
         "authorCategory": "coworker",
         "reviewer": "rootulp",
-        "requestedAt": "2026-11-03T16:45:13Z"
+        "requestedAt": "2026-11-03T17:03:17Z"
       },
       {
-        "number": 600,
-        "title": "ci: [high] auto-approve low and medium risk Dependabot PRs",
-        "url": "https://github.com/celestiaorg/networks/pull/600",
-        "repo": "networks",
-        "author": "walldiss",
+        "number": 3583,
+        "title": "fix(consensus): [high] ignore precommits for the height before the initial height",
+        "url": "https://github.com/celestiaorg/celestia-core/pull/3583",
+        "repo": "celestia-core",
+        "author": "vgonkivs",
         "authorCategory": "coworker",
         "reviewer": "rootulp",
-        "requestedAt": "2026-11-03T16:45:47Z"
+        "requestedAt": "2026-11-03T20:07:23Z"
+      },
+      {
+        "number": 35,
+        "title": "chore(deps): [medium] bump rustls from 0.23.45 to 0.23.46 in /clients/rust",
+        "url": "https://github.com/celestiaorg/fibre-gateway-client/pull/35",
+        "repo": "fibre-gateway-client",
+        "author": "dependabot",
+        "authorCategory": "bot",
+        "reviewer": "rootulp",
+        "requestedAt": "2026-11-03T17:03:12Z"
       }
     ],
     "vgonkivs": [
@@ -213,18 +203,8 @@
         "requestedAt": "2026-11-03T15:36:58Z"
       },
       {
-        "number": 39,
-        "title": "docs: [high] lower /v1/put minimum to 128 KiB − 5",
-        "url": "https://github.com/celestiaorg/fibre-gateway-client/pull/39",
-        "repo": "fibre-gateway-client",
-        "author": "walldiss",
-        "authorCategory": "coworker",
-        "reviewer": "vgonkivs",
-        "requestedAt": "2026-11-03T16:34:56Z"
-      },
-      {
         "number": 3580,
-        "title": "ci: [high] auto-approve low and medium risk Dependabot PRs",
+        "title": "ci: [medium] auto-approve low and medium risk Dependabot PRs",
         "url": "https://github.com/celestiaorg/celestia-core/pull/3580",
         "repo": "celestia-core",
         "author": "walldiss",
@@ -234,13 +214,23 @@
       },
       {
         "number": 1159,
-        "title": "ci: [high] auto-approve low and medium risk Dependabot PRs",
+        "title": "ci: [medium] auto-approve low and medium risk Dependabot PRs",
         "url": "https://github.com/celestiaorg/lumina/pull/1159",
         "repo": "lumina",
         "author": "walldiss",
         "authorCategory": "coworker",
         "reviewer": "vgonkivs",
         "requestedAt": "2026-11-03T16:45:38Z"
+      },
+      {
+        "number": 40,
+        "title": "ci: [medium] auto-approve low and medium risk Dependabot PRs",
+        "url": "https://github.com/celestiaorg/fibre-gateway-client/pull/40",
+        "repo": "fibre-gateway-client",
+        "author": "walldiss",
+        "authorCategory": "coworker",
+        "reviewer": "vgonkivs",
+        "requestedAt": "2026-11-03T17:03:01Z"
       },
       {
         "number": 5385,
@@ -251,6 +241,16 @@
         "authorCategory": "bot",
         "reviewer": "vgonkivs",
         "requestedAt": "2026-11-03T16:22:44Z"
+      },
+      {
+        "number": 35,
+        "title": "chore(deps): [medium] bump rustls from 0.23.45 to 0.23.46 in /clients/rust",
+        "url": "https://github.com/celestiaorg/fibre-gateway-client/pull/35",
+        "repo": "fibre-gateway-client",
+        "author": "dependabot",
+        "authorCategory": "bot",
+        "reviewer": "vgonkivs",
+        "requestedAt": "2026-11-03T17:03:12Z"
       },
       {
         "number": 5190,
@@ -336,7 +336,7 @@
       },
       {
         "number": 8483,
-        "title": "ci: [high] auto-approve low and medium risk Dependabot PRs",
+        "title": "ci: [medium] auto-approve low and medium risk Dependabot PRs",
         "url": "https://github.com/celestiaorg/celestia-app/pull/8483",
         "repo": "celestia-app",
         "author": "walldiss",
@@ -346,7 +346,7 @@
       },
       {
         "number": 351,
-        "title": "ci: [high] auto-approve low and medium risk Dependabot PRs",
+        "title": "ci: [medium] auto-approve low and medium risk Dependabot PRs",
         "url": "https://github.com/celestiaorg/nmt/pull/351",
         "repo": "nmt",
         "author": "walldiss",
@@ -356,7 +356,7 @@
       },
       {
         "number": 40,
-        "title": "ci: [high] auto-approve low and medium risk Dependabot PRs",
+        "title": "ci: [medium] auto-approve low and medium risk Dependabot PRs",
         "url": "https://github.com/celestiaorg/fibre-gateway-client/pull/40",
         "repo": "fibre-gateway-client",
         "author": "walldiss",
@@ -385,6 +385,16 @@
         "authorCategory": "coworker",
         "reviewer": "walldiss",
         "requestedAt": "2026-11-03T11:06:40Z"
+      },
+      {
+        "number": 3582,
+        "title": "ci(fuzz): [low] don't fail a target on go test's own -fuzztime deadline",
+        "url": "https://github.com/celestiaorg/celestia-core/pull/3582",
+        "repo": "celestia-core",
+        "author": "rootulp",
+        "authorCategory": "coworker",
+        "reviewer": "walldiss",
+        "requestedAt": "2026-11-03T16:55:57Z"
       }
     ]
   },
@@ -439,5 +449,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-11-03T16:49:27.190Z"
+  "fetchedAt": "2026-11-03T21:12:10.526Z"
 }
