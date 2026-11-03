@@ -1,7 +1,58 @@
 {
   "reviews": {
-    "chatton": [],
+    "chatton": [
+      {
+        "number": 5389,
+        "title": "ci: [high] auto-approve low and medium risk Dependabot PRs",
+        "url": "https://github.com/celestiaorg/celestia-node/pull/5389",
+        "repo": "celestia-node",
+        "author": "walldiss",
+        "authorCategory": "coworker",
+        "reviewer": "chatton",
+        "requestedAt": "2026-11-03T16:45:08Z"
+      },
+      {
+        "number": 215,
+        "title": "ci: [high] auto-approve low and medium risk PRs from trusted authors",
+        "url": "https://github.com/celestiaorg/tastora/pull/215",
+        "repo": "tastora",
+        "author": "walldiss",
+        "authorCategory": "coworker",
+        "reviewer": "chatton",
+        "requestedAt": "2026-11-03T16:46:21Z"
+      }
+    ],
     "pippokr": [
+      {
+        "number": 329,
+        "title": "ci: [high] auto-approve low and medium risk Dependabot PRs",
+        "url": "https://github.com/celestiaorg/go-square/pull/329",
+        "repo": "go-square",
+        "author": "walldiss",
+        "authorCategory": "coworker",
+        "reviewer": "pippokr",
+        "requestedAt": "2026-11-03T16:45:18Z"
+      },
+      {
+        "number": 174,
+        "title": "ci: [high] auto-approve low and medium risk Dependabot PRs",
+        "url": "https://github.com/celestiaorg/cosmos-sdk/pull/174",
+        "repo": "cosmos-sdk",
+        "author": "walldiss",
+        "authorCategory": "coworker",
+        "reviewer": "pippokr",
+        "requestedAt": "2026-11-03T16:45:51Z"
+      },
+      {
+        "number": 35,
+        "title": "chore(deps): bump rustls from 0.23.45 to 0.23.46 in /clients/rust",
+        "url": "https://github.com/celestiaorg/fibre-gateway-client/pull/35",
+        "repo": "fibre-gateway-client",
+        "author": "dependabot",
+        "authorCategory": "bot",
+        "reviewer": "pippokr",
+        "requestedAt": "2026-11-01T23:25:59Z"
+      },
       {
         "number": 5384,
         "title": "chore(deps): [medium] bump actions/checkout from 7.0.0 to 7.0.1 in the patch-updates group",
@@ -13,37 +64,48 @@
         "requestedAt": "2026-11-02T11:05:02Z"
       }
     ],
-    "ninabarbakadze": [],
+    "ninabarbakadze": [
+      {
+        "number": 29,
+        "title": "docs: capacity reservations can last up to 24h (1–1440 minutes)",
+        "url": "https://github.com/celestiaorg/fibre-gateway-client/pull/29",
+        "repo": "fibre-gateway-client",
+        "author": "walldiss",
+        "authorCategory": "coworker",
+        "reviewer": "ninabarbakadze",
+        "requestedAt": "2026-10-19T09:35:36Z"
+      }
+    ],
     "rach-id": [
       {
-        "number": 169,
-        "title": "fix(x/distribution): [high] export and import user outstanding rewards in genesis",
-        "url": "https://github.com/celestiaorg/cosmos-sdk/pull/169",
-        "repo": "cosmos-sdk",
+        "number": 8478,
+        "title": "fix(export): [high] make export --height work and refuse exports that cannot be imported",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/8478",
+        "repo": "celestia-app",
         "author": "vgonkivs",
         "authorCategory": "coworker",
         "reviewer": "rach-id",
-        "requestedAt": "2026-11-02T13:17:08Z"
+        "requestedAt": "2026-11-03T15:35:10Z"
       },
       {
-        "number": 170,
-        "title": "fix: [high] keep consensus params, gov surplus and expired fee grants importable from an export",
-        "url": "https://github.com/celestiaorg/cosmos-sdk/pull/170",
-        "repo": "cosmos-sdk",
+        "number": 8479,
+        "title": "fix(x/mint): [high] keep the inflation schedule across export and import",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/8479",
+        "repo": "celestia-app",
         "author": "vgonkivs",
         "authorCategory": "coworker",
         "reviewer": "rach-id",
-        "requestedAt": "2026-11-02T13:27:50Z"
+        "requestedAt": "2026-11-03T15:36:31Z"
       },
       {
-        "number": 5385,
-        "title": "chore(deps): [medium] bump the libp2p group across 2 directories with 2 updates",
-        "url": "https://github.com/celestiaorg/celestia-node/pull/5385",
-        "repo": "celestia-node",
-        "author": "dependabot",
-        "authorCategory": "bot",
+        "number": 462,
+        "title": "ci: [high] auto-approve low and medium risk Dependabot PRs",
+        "url": "https://github.com/celestiaorg/rsmt2d/pull/462",
+        "repo": "rsmt2d",
+        "author": "walldiss",
+        "authorCategory": "coworker",
         "reviewer": "rach-id",
-        "requestedAt": "2026-11-02T11:06:28Z"
+        "requestedAt": "2026-11-03T16:45:23Z"
       },
       {
         "number": 407,
@@ -59,46 +121,86 @@
     "renaynay": [],
     "rootulp": [
       {
-        "number": 170,
-        "title": "fix: [high] keep consensus params, gov surplus and expired fee grants importable from an export",
-        "url": "https://github.com/celestiaorg/cosmos-sdk/pull/170",
-        "repo": "cosmos-sdk",
-        "author": "vgonkivs",
-        "authorCategory": "coworker",
-        "reviewer": "rootulp",
-        "requestedAt": "2026-11-02T13:27:50Z"
-      },
-      {
-        "number": 169,
-        "title": "fix(x/distribution): [high] export and import user outstanding rewards in genesis",
-        "url": "https://github.com/celestiaorg/cosmos-sdk/pull/169",
-        "repo": "cosmos-sdk",
-        "author": "vgonkivs",
-        "authorCategory": "coworker",
-        "reviewer": "rootulp",
-        "requestedAt": "2026-11-03T10:55:51Z"
-      },
-      {
-        "number": 8472,
-        "title": "fix(build): [high] disable MPTCP listeners by default",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/8472",
+        "number": 8478,
+        "title": "fix(export): [high] make export --height work and refuse exports that cannot be imported",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/8478",
         "repo": "celestia-app",
         "author": "vgonkivs",
         "authorCategory": "coworker",
         "reviewer": "rootulp",
-        "requestedAt": "2026-11-03T11:05:47Z"
+        "requestedAt": "2026-11-03T15:35:10Z"
+      },
+      {
+        "number": 8479,
+        "title": "fix(x/mint): [high] keep the inflation schedule across export and import",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/8479",
+        "repo": "celestia-app",
+        "author": "vgonkivs",
+        "authorCategory": "coworker",
+        "reviewer": "rootulp",
+        "requestedAt": "2026-11-03T15:36:31Z"
+      },
+      {
+        "number": 8476,
+        "title": "perf(fibre): [medium] serve downloads zero-copy, 256 KiB write buffer, batched TLS",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/8476",
+        "repo": "celestia-app",
+        "author": "walldiss",
+        "authorCategory": "coworker",
+        "reviewer": "rootulp",
+        "requestedAt": "2026-11-03T16:08:25Z"
+      },
+      {
+        "number": 8475,
+        "title": "perf(fibre): [high] send shards over plaintext HTTP/2 with TLS fallback",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/8475",
+        "repo": "celestia-app",
+        "author": "walldiss",
+        "authorCategory": "coworker",
+        "reviewer": "rootulp",
+        "requestedAt": "2026-11-03T16:08:27Z"
+      },
+      {
+        "number": 39,
+        "title": "docs: [high] lower /v1/put minimum to 128 KiB − 5",
+        "url": "https://github.com/celestiaorg/fibre-gateway-client/pull/39",
+        "repo": "fibre-gateway-client",
+        "author": "walldiss",
+        "authorCategory": "coworker",
+        "reviewer": "rootulp",
+        "requestedAt": "2026-11-03T16:42:55Z"
+      },
+      {
+        "number": 427,
+        "title": "ci: [high] auto-approve low and medium risk Dependabot PRs",
+        "url": "https://github.com/celestiaorg/go-header/pull/427",
+        "repo": "go-header",
+        "author": "walldiss",
+        "authorCategory": "coworker",
+        "reviewer": "rootulp",
+        "requestedAt": "2026-11-03T16:45:13Z"
+      },
+      {
+        "number": 600,
+        "title": "ci: [high] auto-approve low and medium risk Dependabot PRs",
+        "url": "https://github.com/celestiaorg/networks/pull/600",
+        "repo": "networks",
+        "author": "walldiss",
+        "authorCategory": "coworker",
+        "reviewer": "rootulp",
+        "requestedAt": "2026-11-03T16:45:47Z"
       }
     ],
     "vgonkivs": [
       {
-        "number": 3578,
-        "title": "fix(types): [high] reject wrong-size public keys in Validator.ValidateBasic",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3578",
-        "repo": "celestia-core",
-        "author": "rootulp",
+        "number": 29,
+        "title": "docs: capacity reservations can last up to 24h (1–1440 minutes)",
+        "url": "https://github.com/celestiaorg/fibre-gateway-client/pull/29",
+        "repo": "fibre-gateway-client",
+        "author": "walldiss",
         "authorCategory": "coworker",
         "reviewer": "vgonkivs",
-        "requestedAt": "2026-11-03T15:12:49Z"
+        "requestedAt": "2026-10-28T08:57:05Z"
       },
       {
         "number": 1155,
@@ -108,7 +210,47 @@
         "author": "citizen-stig",
         "authorCategory": "coworker",
         "reviewer": "vgonkivs",
-        "requestedAt": "2026-11-03T15:28:59Z"
+        "requestedAt": "2026-11-03T15:36:58Z"
+      },
+      {
+        "number": 39,
+        "title": "docs: [high] lower /v1/put minimum to 128 KiB − 5",
+        "url": "https://github.com/celestiaorg/fibre-gateway-client/pull/39",
+        "repo": "fibre-gateway-client",
+        "author": "walldiss",
+        "authorCategory": "coworker",
+        "reviewer": "vgonkivs",
+        "requestedAt": "2026-11-03T16:34:56Z"
+      },
+      {
+        "number": 3580,
+        "title": "ci: [high] auto-approve low and medium risk Dependabot PRs",
+        "url": "https://github.com/celestiaorg/celestia-core/pull/3580",
+        "repo": "celestia-core",
+        "author": "walldiss",
+        "authorCategory": "coworker",
+        "reviewer": "vgonkivs",
+        "requestedAt": "2026-11-03T16:45:03Z"
+      },
+      {
+        "number": 1159,
+        "title": "ci: [high] auto-approve low and medium risk Dependabot PRs",
+        "url": "https://github.com/celestiaorg/lumina/pull/1159",
+        "repo": "lumina",
+        "author": "walldiss",
+        "authorCategory": "coworker",
+        "reviewer": "vgonkivs",
+        "requestedAt": "2026-11-03T16:45:38Z"
+      },
+      {
+        "number": 5385,
+        "title": "chore(deps): [medium] bump the libp2p group across 2 directories with 2 updates",
+        "url": "https://github.com/celestiaorg/celestia-node/pull/5385",
+        "repo": "celestia-node",
+        "author": "dependabot",
+        "authorCategory": "bot",
+        "reviewer": "vgonkivs",
+        "requestedAt": "2026-11-03T16:22:44Z"
       },
       {
         "number": 5190,
@@ -149,6 +291,16 @@
         "authorCategory": "external",
         "reviewer": "vgonkivs",
         "requestedAt": "2026-10-26T13:09:49Z"
+      },
+      {
+        "number": 407,
+        "title": "fix(p2p): stop peer tracker gc ticker",
+        "url": "https://github.com/celestiaorg/go-header/pull/407",
+        "repo": "go-header",
+        "author": "loglapa",
+        "authorCategory": "external",
+        "reviewer": "vgonkivs",
+        "requestedAt": "2026-11-03T16:22:50Z"
       }
     ],
     "theodorebugnet": [
@@ -183,6 +335,36 @@
         "requestedAt": "2026-10-29T18:21:28Z"
       },
       {
+        "number": 8483,
+        "title": "ci: [high] auto-approve low and medium risk Dependabot PRs",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/8483",
+        "repo": "celestia-app",
+        "author": "walldiss",
+        "authorCategory": "coworker",
+        "reviewer": "theodorebugnet",
+        "requestedAt": "2026-11-03T16:44:58Z"
+      },
+      {
+        "number": 351,
+        "title": "ci: [high] auto-approve low and medium risk Dependabot PRs",
+        "url": "https://github.com/celestiaorg/nmt/pull/351",
+        "repo": "nmt",
+        "author": "walldiss",
+        "authorCategory": "coworker",
+        "reviewer": "theodorebugnet",
+        "requestedAt": "2026-11-03T16:45:27Z"
+      },
+      {
+        "number": 40,
+        "title": "ci: [high] auto-approve low and medium risk Dependabot PRs",
+        "url": "https://github.com/celestiaorg/fibre-gateway-client/pull/40",
+        "repo": "fibre-gateway-client",
+        "author": "walldiss",
+        "authorCategory": "coworker",
+        "reviewer": "theodorebugnet",
+        "requestedAt": "2026-11-03T16:46:01Z"
+      },
+      {
         "number": 3567,
         "title": "fix(consensus): [high] apply KMSSigningDelay to RetrySignerClient",
         "url": "https://github.com/celestiaorg/celestia-core/pull/3567",
@@ -203,26 +385,6 @@
         "authorCategory": "coworker",
         "reviewer": "walldiss",
         "requestedAt": "2026-11-03T11:06:40Z"
-      },
-      {
-        "number": 328,
-        "title": "test(tx): [low] fuzz UnmarshalIndexWrapper with arbitrary bytes",
-        "url": "https://github.com/celestiaorg/go-square/pull/328",
-        "repo": "go-square",
-        "author": "rootulp",
-        "authorCategory": "coworker",
-        "reviewer": "walldiss",
-        "requestedAt": "2026-11-03T15:11:12Z"
-      },
-      {
-        "number": 461,
-        "title": "ci(fuzz): [medium] run fuzz targets nightly and file Linear issues on failure",
-        "url": "https://github.com/celestiaorg/rsmt2d/pull/461",
-        "repo": "rsmt2d",
-        "author": "rootulp",
-        "authorCategory": "coworker",
-        "reviewer": "walldiss",
-        "requestedAt": "2026-11-03T15:11:30Z"
       }
     ]
   },
@@ -277,5 +439,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-11-03T15:30:51.968Z"
+  "fetchedAt": "2026-11-03T16:49:27.190Z"
 }
