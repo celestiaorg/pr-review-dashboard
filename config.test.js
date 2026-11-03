@@ -20,7 +20,35 @@ describe("teamMembers", () => {
   });
 });
 
+// Active repos listed in https://github.com/celestiaorg/protocol#repos
+const ACTIVE_PROTOCOL_REPOS = [
+  "celestia-app",
+  "celestia-core",
+  "celestia-node",
+  "cosmos-sdk",
+  "da-proxy",
+  "fibre-gateway",
+  "fibre-gateway-client",
+  "go-header",
+  "go-libp2p-messenger",
+  "go-square",
+  "hyperlane-cosmos",
+  "ibc-go",
+  "infrastructure",
+  "lumina",
+  "networks",
+  "nmt",
+  "rsmt2d",
+  "tastora",
+];
+
 describe("repos", () => {
+  test("includes every active protocol repo", () => {
+    for (const repo of ACTIVE_PROTOCOL_REPOS) {
+      expect(config.repos).toContain(repo);
+    }
+  });
+
   test("includes networks and tastora", () => {
     expect(config.repos).toContain("networks");
     expect(config.repos).toContain("tastora");
