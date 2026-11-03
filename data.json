@@ -98,7 +98,18 @@
       }
     ],
     "renaynay": [],
-    "rootulp": [],
+    "rootulp": [
+      {
+        "number": 1158,
+        "title": "chore(deps): bump the npm_and_yarn group across 1 directory with 3 updates",
+        "url": "https://github.com/celestiaorg/lumina/pull/1158",
+        "repo": "lumina",
+        "author": "dependabot",
+        "authorCategory": "bot",
+        "reviewer": "rootulp",
+        "requestedAt": "2026-11-03T05:23:06Z"
+      }
+    ],
     "vgonkivs": [
       {
         "number": 1155,
@@ -233,16 +244,6 @@
         "requestedAt": "2026-11-02T16:07:47Z"
       },
       {
-        "number": 8466,
-        "title": "test: [low] fix the recurring nightly e2e and fuzz failures",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/8466",
-        "repo": "celestia-app",
-        "author": "rootulp",
-        "authorCategory": "coworker",
-        "reviewer": "theodorebugnet",
-        "requestedAt": "2026-11-03T00:21:16Z"
-      },
-      {
         "number": 3567,
         "title": "fix(consensus): [high] apply KMSSigningDelay to RetrySignerClient",
         "url": "https://github.com/celestiaorg/celestia-core/pull/3567",
@@ -337,5 +338,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-11-03T01:05:28.816Z"
+  "fetchedAt": "2026-11-03T07:50:18.570Z"
 }
