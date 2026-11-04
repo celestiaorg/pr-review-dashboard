@@ -34,16 +34,6 @@
         "requestedAt": "2026-11-03T16:45:51Z"
       },
       {
-        "number": 8495,
-        "title": "ci(fuzz): [low] raise on Linear API errors so an upload failure keeps the crash excerpt",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/8495",
-        "repo": "celestia-app",
-        "author": "rootulp",
-        "authorCategory": "coworker",
-        "reviewer": "pippokr",
-        "requestedAt": "2026-11-04T00:55:25Z"
-      },
-      {
         "number": 5384,
         "title": "chore(deps): [medium] bump actions/checkout from 7.0.0 to 7.0.1 in the patch-updates group",
         "url": "https://github.com/celestiaorg/celestia-node/pull/5384",
@@ -57,6 +47,16 @@
     "ninabarbakadze": [],
     "rach-id": [
       {
+        "number": 429,
+        "title": "chore(deps): [medium] bump actions/checkout from 4 to 7",
+        "url": "https://github.com/celestiaorg/go-header/pull/429",
+        "repo": "go-header",
+        "author": "dependabot",
+        "authorCategory": "bot",
+        "reviewer": "rach-id",
+        "requestedAt": "2026-11-04T04:36:12Z"
+      },
+      {
         "number": 407,
         "title": "fix(p2p): stop peer tracker gc ticker",
         "url": "https://github.com/celestiaorg/go-header/pull/407",
@@ -68,38 +68,7 @@
       }
     ],
     "renaynay": [],
-    "rootulp": [
-      {
-        "number": 8476,
-        "title": "perf(fibre): [medium] serve downloads zero-copy, 256 KiB write buffer, batched TLS",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/8476",
-        "repo": "celestia-app",
-        "author": "walldiss",
-        "authorCategory": "coworker",
-        "reviewer": "rootulp",
-        "requestedAt": "2026-11-03T16:08:25Z"
-      },
-      {
-        "number": 8475,
-        "title": "perf(fibre): [high] send shards over plaintext HTTP/2 with TLS fallback",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/8475",
-        "repo": "celestia-app",
-        "author": "walldiss",
-        "authorCategory": "coworker",
-        "reviewer": "rootulp",
-        "requestedAt": "2026-11-03T16:08:27Z"
-      },
-      {
-        "number": 8486,
-        "title": "feat(fibre): [medium] optionally batch shards into one S3 object",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/8486",
-        "repo": "celestia-app",
-        "author": "walldiss",
-        "authorCategory": "coworker",
-        "reviewer": "rootulp",
-        "requestedAt": "2026-11-03T22:03:33Z"
-      }
-    ],
+    "rootulp": [],
     "vgonkivs": [
       {
         "number": 3580,
@@ -122,14 +91,14 @@
         "requestedAt": "2026-11-03T16:45:38Z"
       },
       {
-        "number": 3584,
-        "title": "ci(fuzz): [medium] keep PR-time fuzz crashes out of public logs and artifacts",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3584",
-        "repo": "celestia-core",
+        "number": 8494,
+        "title": "fix(fibre): [medium] re-sweep promise cache budget when available balance drops (v10.x)",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/8494",
+        "repo": "celestia-app",
         "author": "rootulp",
         "authorCategory": "coworker",
         "reviewer": "vgonkivs",
-        "requestedAt": "2026-11-03T21:59:55Z"
+        "requestedAt": "2026-11-04T04:50:25Z"
       },
       {
         "number": 5385,
@@ -140,6 +109,16 @@
         "authorCategory": "bot",
         "reviewer": "vgonkivs",
         "requestedAt": "2026-11-03T16:22:44Z"
+      },
+      {
+        "number": 435,
+        "title": "chore(deps): [medium] bump actions/setup-go from 5 to 7",
+        "url": "https://github.com/celestiaorg/go-header/pull/435",
+        "repo": "go-header",
+        "author": "dependabot",
+        "authorCategory": "bot",
+        "reviewer": "vgonkivs",
+        "requestedAt": "2026-11-04T04:36:31Z"
       },
       {
         "number": 5190,
@@ -214,16 +193,6 @@
         "requestedAt": "2026-10-29T12:42:02Z"
       },
       {
-        "number": 8406,
-        "title": "ci: [low] auto-assign PR authors",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/8406",
-        "repo": "celestia-app",
-        "author": "rootulp",
-        "authorCategory": "coworker",
-        "reviewer": "theodorebugnet",
-        "requestedAt": "2026-10-29T18:21:28Z"
-      },
-      {
         "number": 8483,
         "title": "ci: [medium] auto-approve low and medium risk Dependabot PRs",
         "url": "https://github.com/celestiaorg/celestia-app/pull/8483",
@@ -242,6 +211,16 @@
         "authorCategory": "coworker",
         "reviewer": "theodorebugnet",
         "requestedAt": "2026-11-03T16:45:27Z"
+      },
+      {
+        "number": 430,
+        "title": "chore(deps): [medium] bump rossjrw/pr-preview-action from 1.6.1 to 1.8.2",
+        "url": "https://github.com/celestiaorg/go-header/pull/430",
+        "repo": "go-header",
+        "author": "dependabot",
+        "authorCategory": "bot",
+        "reviewer": "theodorebugnet",
+        "requestedAt": "2026-11-04T04:36:14Z"
       },
       {
         "number": 3567,
@@ -266,14 +245,24 @@
         "requestedAt": "2026-11-03T11:06:40Z"
       },
       {
-        "number": 3582,
-        "title": "ci(fuzz): [low] don't fail a target on go test's own -fuzztime deadline",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3582",
-        "repo": "celestia-core",
+        "number": 8494,
+        "title": "fix(fibre): [medium] re-sweep promise cache budget when available balance drops (v10.x)",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/8494",
+        "repo": "celestia-app",
         "author": "rootulp",
         "authorCategory": "coworker",
         "reviewer": "walldiss",
-        "requestedAt": "2026-11-03T16:55:57Z"
+        "requestedAt": "2026-11-04T04:50:25Z"
+      },
+      {
+        "number": 433,
+        "title": "chore(deps): [medium] bump golangci/golangci-lint-action from 9.2.0 to 9.3.0",
+        "url": "https://github.com/celestiaorg/go-header/pull/433",
+        "repo": "go-header",
+        "author": "dependabot",
+        "authorCategory": "bot",
+        "reviewer": "walldiss",
+        "requestedAt": "2026-11-04T04:36:24Z"
       }
     ]
   },
@@ -328,5 +317,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-11-04T01:19:40.702Z"
+  "fetchedAt": "2026-11-04T07:34:49.878Z"
 }
