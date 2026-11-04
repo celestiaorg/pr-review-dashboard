@@ -1,18 +1,7 @@
 {
   "reviews": {
     "chatton": [],
-    "pippokr": [
-      {
-        "number": 5384,
-        "title": "chore(deps): [medium] bump actions/checkout from 7.0.0 to 7.0.1 in the patch-updates group",
-        "url": "https://github.com/celestiaorg/celestia-node/pull/5384",
-        "repo": "celestia-node",
-        "author": "dependabot",
-        "authorCategory": "bot",
-        "reviewer": "pippokr",
-        "requestedAt": "2026-11-02T11:05:02Z"
-      }
-    ],
+    "pippokr": [],
     "ninabarbakadze": [],
     "rach-id": [
       {
@@ -316,5 +305,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-11-04T15:43:15.546Z"
+  "fetchedAt": "2026-11-04T15:50:25.432Z"
 }
