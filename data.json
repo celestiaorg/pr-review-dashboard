@@ -1,38 +1,7 @@
 {
   "reviews": {
-    "chatton": [
-      {
-        "number": 5389,
-        "title": "ci: [medium] auto-approve low and medium risk Dependabot PRs",
-        "url": "https://github.com/celestiaorg/celestia-node/pull/5389",
-        "repo": "celestia-node",
-        "author": "walldiss",
-        "authorCategory": "coworker",
-        "reviewer": "chatton",
-        "requestedAt": "2026-11-03T16:45:08Z"
-      },
-      {
-        "number": 215,
-        "title": "ci: [medium] auto-approve low and medium risk PRs from trusted authors",
-        "url": "https://github.com/celestiaorg/tastora/pull/215",
-        "repo": "tastora",
-        "author": "walldiss",
-        "authorCategory": "coworker",
-        "reviewer": "chatton",
-        "requestedAt": "2026-11-03T16:46:21Z"
-      }
-    ],
+    "chatton": [],
     "pippokr": [
-      {
-        "number": 174,
-        "title": "ci: [medium] auto-approve low and medium risk Dependabot PRs",
-        "url": "https://github.com/celestiaorg/cosmos-sdk/pull/174",
-        "repo": "cosmos-sdk",
-        "author": "walldiss",
-        "authorCategory": "coworker",
-        "reviewer": "pippokr",
-        "requestedAt": "2026-11-03T16:45:51Z"
-      },
       {
         "number": 5384,
         "title": "chore(deps): [medium] bump actions/checkout from 7.0.0 to 7.0.1 in the patch-updates group",
@@ -47,14 +16,14 @@
     "ninabarbakadze": [],
     "rach-id": [
       {
-        "number": 429,
-        "title": "chore(deps): [medium] bump actions/checkout from 4 to 7",
-        "url": "https://github.com/celestiaorg/go-header/pull/429",
-        "repo": "go-header",
+        "number": 3587,
+        "title": "build(deps): [medium] bump actions/cache from 4.3.0 to 6.1.0",
+        "url": "https://github.com/celestiaorg/celestia-core/pull/3587",
+        "repo": "celestia-core",
         "author": "dependabot",
         "authorCategory": "bot",
         "reviewer": "rach-id",
-        "requestedAt": "2026-11-04T04:36:12Z"
+        "requestedAt": "2026-11-04T09:23:19Z"
       },
       {
         "number": 407,
@@ -99,6 +68,16 @@
         "authorCategory": "coworker",
         "reviewer": "vgonkivs",
         "requestedAt": "2026-11-04T04:50:25Z"
+      },
+      {
+        "number": 5366,
+        "title": "fix(cmd): [high] refine blob submit inputs and RPC authentication",
+        "url": "https://github.com/celestiaorg/celestia-node/pull/5366",
+        "repo": "celestia-node",
+        "author": "jcstein",
+        "authorCategory": "coworker",
+        "reviewer": "vgonkivs",
+        "requestedAt": "2026-11-04T15:36:31Z"
       },
       {
         "number": 5385,
@@ -173,16 +152,6 @@
     ],
     "theodorebugnet": [
       {
-        "number": 5366,
-        "title": "fix(cmd): [high] refine blob submit inputs and RPC authentication",
-        "url": "https://github.com/celestiaorg/celestia-node/pull/5366",
-        "repo": "celestia-node",
-        "author": "jcstein",
-        "authorCategory": "coworker",
-        "reviewer": "theodorebugnet",
-        "requestedAt": "2026-10-23T21:44:40Z"
-      },
-      {
         "number": 5376,
         "title": "chore: [low] publish devnet image ",
         "url": "https://github.com/celestiaorg/celestia-node/pull/5376",
@@ -223,6 +192,16 @@
         "requestedAt": "2026-11-04T04:36:14Z"
       },
       {
+        "number": 3588,
+        "title": "build(deps): [medium] bump actions/checkout from 7.0.0 to 7.0.1",
+        "url": "https://github.com/celestiaorg/celestia-core/pull/3588",
+        "repo": "celestia-core",
+        "author": "dependabot",
+        "authorCategory": "bot",
+        "reviewer": "theodorebugnet",
+        "requestedAt": "2026-11-04T09:23:38Z"
+      },
+      {
         "number": 3567,
         "title": "fix(consensus): [high] apply KMSSigningDelay to RetrySignerClient",
         "url": "https://github.com/celestiaorg/celestia-core/pull/3567",
@@ -253,6 +232,26 @@
         "authorCategory": "coworker",
         "reviewer": "walldiss",
         "requestedAt": "2026-11-04T04:50:25Z"
+      },
+      {
+        "number": 352,
+        "title": "ci: [low] pin lint job Go toolchain to go.mod",
+        "url": "https://github.com/celestiaorg/nmt/pull/352",
+        "repo": "nmt",
+        "author": "rootulp",
+        "authorCategory": "coworker",
+        "reviewer": "walldiss",
+        "requestedAt": "2026-11-04T14:10:51Z"
+      },
+      {
+        "number": 5366,
+        "title": "fix(cmd): [high] refine blob submit inputs and RPC authentication",
+        "url": "https://github.com/celestiaorg/celestia-node/pull/5366",
+        "repo": "celestia-node",
+        "author": "jcstein",
+        "authorCategory": "coworker",
+        "reviewer": "walldiss",
+        "requestedAt": "2026-11-04T15:36:31Z"
       },
       {
         "number": 433,
@@ -317,5 +316,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-11-04T07:34:49.878Z"
+  "fetchedAt": "2026-11-04T15:43:15.546Z"
 }
