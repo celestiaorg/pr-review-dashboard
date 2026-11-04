@@ -24,16 +24,6 @@
     ],
     "pippokr": [
       {
-        "number": 329,
-        "title": "ci: [medium] auto-approve low and medium risk Dependabot PRs",
-        "url": "https://github.com/celestiaorg/go-square/pull/329",
-        "repo": "go-square",
-        "author": "walldiss",
-        "authorCategory": "coworker",
-        "reviewer": "pippokr",
-        "requestedAt": "2026-11-03T16:45:18Z"
-      },
-      {
         "number": 174,
         "title": "ci: [medium] auto-approve low and medium risk Dependabot PRs",
         "url": "https://github.com/celestiaorg/cosmos-sdk/pull/174",
@@ -44,14 +34,14 @@
         "requestedAt": "2026-11-03T16:45:51Z"
       },
       {
-        "number": 35,
-        "title": "chore(deps): [medium] bump rustls from 0.23.45 to 0.23.46 in /clients/rust",
-        "url": "https://github.com/celestiaorg/fibre-gateway-client/pull/35",
-        "repo": "fibre-gateway-client",
-        "author": "dependabot",
-        "authorCategory": "bot",
+        "number": 8495,
+        "title": "ci(fuzz): [low] raise on Linear API errors so an upload failure keeps the crash excerpt",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/8495",
+        "repo": "celestia-app",
+        "author": "rootulp",
+        "authorCategory": "coworker",
         "reviewer": "pippokr",
-        "requestedAt": "2026-11-01T23:25:59Z"
+        "requestedAt": "2026-11-04T00:55:25Z"
       },
       {
         "number": 5384,
@@ -64,49 +54,8 @@
         "requestedAt": "2026-11-02T11:05:02Z"
       }
     ],
-    "ninabarbakadze": [
-      {
-        "number": 29,
-        "title": "docs: capacity reservations can last up to 24h (1–1440 minutes)",
-        "url": "https://github.com/celestiaorg/fibre-gateway-client/pull/29",
-        "repo": "fibre-gateway-client",
-        "author": "walldiss",
-        "authorCategory": "coworker",
-        "reviewer": "ninabarbakadze",
-        "requestedAt": "2026-10-19T09:35:36Z"
-      }
-    ],
+    "ninabarbakadze": [],
     "rach-id": [
-      {
-        "number": 8478,
-        "title": "fix(export): [high] make export --height work and refuse exports that cannot be imported",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/8478",
-        "repo": "celestia-app",
-        "author": "vgonkivs",
-        "authorCategory": "coworker",
-        "reviewer": "rach-id",
-        "requestedAt": "2026-11-03T15:35:10Z"
-      },
-      {
-        "number": 8479,
-        "title": "fix(x/mint): [high] keep the inflation schedule across export and import",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/8479",
-        "repo": "celestia-app",
-        "author": "vgonkivs",
-        "authorCategory": "coworker",
-        "reviewer": "rach-id",
-        "requestedAt": "2026-11-03T15:36:31Z"
-      },
-      {
-        "number": 462,
-        "title": "ci: [medium] auto-approve low and medium risk Dependabot PRs",
-        "url": "https://github.com/celestiaorg/rsmt2d/pull/462",
-        "repo": "rsmt2d",
-        "author": "walldiss",
-        "authorCategory": "coworker",
-        "reviewer": "rach-id",
-        "requestedAt": "2026-11-03T16:45:23Z"
-      },
       {
         "number": 407,
         "title": "fix(p2p): stop peer tracker gc ticker",
@@ -141,67 +90,17 @@
         "requestedAt": "2026-11-03T16:08:27Z"
       },
       {
-        "number": 40,
-        "title": "ci: [medium] auto-approve low and medium risk Dependabot PRs",
-        "url": "https://github.com/celestiaorg/fibre-gateway-client/pull/40",
-        "repo": "fibre-gateway-client",
+        "number": 8486,
+        "title": "feat(fibre): [medium] optionally batch shards into one S3 object",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/8486",
+        "repo": "celestia-app",
         "author": "walldiss",
         "authorCategory": "coworker",
         "reviewer": "rootulp",
-        "requestedAt": "2026-11-03T17:03:01Z"
-      },
-      {
-        "number": 29,
-        "title": "docs: capacity reservations can last up to 24h (1–1440 minutes)",
-        "url": "https://github.com/celestiaorg/fibre-gateway-client/pull/29",
-        "repo": "fibre-gateway-client",
-        "author": "walldiss",
-        "authorCategory": "coworker",
-        "reviewer": "rootulp",
-        "requestedAt": "2026-11-03T17:03:17Z"
-      },
-      {
-        "number": 3583,
-        "title": "fix(consensus): [high] ignore precommits for the height before the initial height",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3583",
-        "repo": "celestia-core",
-        "author": "vgonkivs",
-        "authorCategory": "coworker",
-        "reviewer": "rootulp",
-        "requestedAt": "2026-11-03T20:07:23Z"
-      },
-      {
-        "number": 35,
-        "title": "chore(deps): [medium] bump rustls from 0.23.45 to 0.23.46 in /clients/rust",
-        "url": "https://github.com/celestiaorg/fibre-gateway-client/pull/35",
-        "repo": "fibre-gateway-client",
-        "author": "dependabot",
-        "authorCategory": "bot",
-        "reviewer": "rootulp",
-        "requestedAt": "2026-11-03T17:03:12Z"
+        "requestedAt": "2026-11-03T22:03:33Z"
       }
     ],
     "vgonkivs": [
-      {
-        "number": 29,
-        "title": "docs: capacity reservations can last up to 24h (1–1440 minutes)",
-        "url": "https://github.com/celestiaorg/fibre-gateway-client/pull/29",
-        "repo": "fibre-gateway-client",
-        "author": "walldiss",
-        "authorCategory": "coworker",
-        "reviewer": "vgonkivs",
-        "requestedAt": "2026-10-28T08:57:05Z"
-      },
-      {
-        "number": 1155,
-        "title": "feat(fibre)!: [medium] make rustls crypto provider selectable on native",
-        "url": "https://github.com/celestiaorg/lumina/pull/1155",
-        "repo": "lumina",
-        "author": "citizen-stig",
-        "authorCategory": "coworker",
-        "reviewer": "vgonkivs",
-        "requestedAt": "2026-11-03T15:36:58Z"
-      },
       {
         "number": 3580,
         "title": "ci: [medium] auto-approve low and medium risk Dependabot PRs",
@@ -223,14 +122,14 @@
         "requestedAt": "2026-11-03T16:45:38Z"
       },
       {
-        "number": 40,
-        "title": "ci: [medium] auto-approve low and medium risk Dependabot PRs",
-        "url": "https://github.com/celestiaorg/fibre-gateway-client/pull/40",
-        "repo": "fibre-gateway-client",
-        "author": "walldiss",
+        "number": 3584,
+        "title": "ci(fuzz): [medium] keep PR-time fuzz crashes out of public logs and artifacts",
+        "url": "https://github.com/celestiaorg/celestia-core/pull/3584",
+        "repo": "celestia-core",
+        "author": "rootulp",
         "authorCategory": "coworker",
         "reviewer": "vgonkivs",
-        "requestedAt": "2026-11-03T17:03:01Z"
+        "requestedAt": "2026-11-03T21:59:55Z"
       },
       {
         "number": 5385,
@@ -241,16 +140,6 @@
         "authorCategory": "bot",
         "reviewer": "vgonkivs",
         "requestedAt": "2026-11-03T16:22:44Z"
-      },
-      {
-        "number": 35,
-        "title": "chore(deps): [medium] bump rustls from 0.23.45 to 0.23.46 in /clients/rust",
-        "url": "https://github.com/celestiaorg/fibre-gateway-client/pull/35",
-        "repo": "fibre-gateway-client",
-        "author": "dependabot",
-        "authorCategory": "bot",
-        "reviewer": "vgonkivs",
-        "requestedAt": "2026-11-03T17:03:12Z"
       },
       {
         "number": 5190,
@@ -355,16 +244,6 @@
         "requestedAt": "2026-11-03T16:45:27Z"
       },
       {
-        "number": 40,
-        "title": "ci: [medium] auto-approve low and medium risk Dependabot PRs",
-        "url": "https://github.com/celestiaorg/fibre-gateway-client/pull/40",
-        "repo": "fibre-gateway-client",
-        "author": "walldiss",
-        "authorCategory": "coworker",
-        "reviewer": "theodorebugnet",
-        "requestedAt": "2026-11-03T16:46:01Z"
-      },
-      {
         "number": 3567,
         "title": "fix(consensus): [high] apply KMSSigningDelay to RetrySignerClient",
         "url": "https://github.com/celestiaorg/celestia-core/pull/3567",
@@ -449,5 +328,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-11-03T21:12:10.526Z"
+  "fetchedAt": "2026-11-04T01:19:40.702Z"
 }
