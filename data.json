@@ -2,8 +2,49 @@
   "reviews": {
     "chatton": [],
     "pippokr": [],
-    "ninabarbakadze": [],
+    "ninabarbakadze": [
+      {
+        "number": 3594,
+        "title": "fix(mempool/cat): [high] bound the received-tx buffer",
+        "url": "https://github.com/celestiaorg/celestia-core/pull/3594",
+        "repo": "celestia-core",
+        "author": "rootulp",
+        "authorCategory": "coworker",
+        "reviewer": "ninabarbakadze",
+        "requestedAt": "2026-11-04T21:31:05Z"
+      },
+      {
+        "number": 3595,
+        "title": "fix(consensus): [high] require canonical proposal block encoding",
+        "url": "https://github.com/celestiaorg/celestia-core/pull/3595",
+        "repo": "celestia-core",
+        "author": "rootulp",
+        "authorCategory": "coworker",
+        "reviewer": "ninabarbakadze",
+        "requestedAt": "2026-11-04T22:56:26Z"
+      }
+    ],
     "rach-id": [
+      {
+        "number": 3594,
+        "title": "fix(mempool/cat): [high] bound the received-tx buffer",
+        "url": "https://github.com/celestiaorg/celestia-core/pull/3594",
+        "repo": "celestia-core",
+        "author": "rootulp",
+        "authorCategory": "coworker",
+        "reviewer": "rach-id",
+        "requestedAt": "2026-11-04T21:31:05Z"
+      },
+      {
+        "number": 3595,
+        "title": "fix(consensus): [high] require canonical proposal block encoding",
+        "url": "https://github.com/celestiaorg/celestia-core/pull/3595",
+        "repo": "celestia-core",
+        "author": "rootulp",
+        "authorCategory": "coworker",
+        "reviewer": "rach-id",
+        "requestedAt": "2026-11-04T22:56:26Z"
+      },
       {
         "number": 3587,
         "title": "build(deps): [medium] bump actions/cache from 4.3.0 to 6.1.0",
@@ -28,36 +69,6 @@
     "renaynay": [],
     "rootulp": [],
     "vgonkivs": [
-      {
-        "number": 3580,
-        "title": "ci: [medium] auto-approve low and medium risk Dependabot PRs",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3580",
-        "repo": "celestia-core",
-        "author": "walldiss",
-        "authorCategory": "coworker",
-        "reviewer": "vgonkivs",
-        "requestedAt": "2026-11-03T16:45:03Z"
-      },
-      {
-        "number": 1159,
-        "title": "ci: [medium] auto-approve low and medium risk Dependabot PRs",
-        "url": "https://github.com/celestiaorg/lumina/pull/1159",
-        "repo": "lumina",
-        "author": "walldiss",
-        "authorCategory": "coworker",
-        "reviewer": "vgonkivs",
-        "requestedAt": "2026-11-03T16:45:38Z"
-      },
-      {
-        "number": 8494,
-        "title": "fix(fibre): [medium] re-sweep promise cache budget when available balance drops (v10.x)",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/8494",
-        "repo": "celestia-app",
-        "author": "rootulp",
-        "authorCategory": "coworker",
-        "reviewer": "vgonkivs",
-        "requestedAt": "2026-11-04T04:50:25Z"
-      },
       {
         "number": 5366,
         "title": "fix(cmd): [high] refine blob submit inputs and RPC authentication",
@@ -171,26 +182,6 @@
         "requestedAt": "2026-10-29T12:42:02Z"
       },
       {
-        "number": 8483,
-        "title": "ci: [medium] auto-approve low and medium risk Dependabot PRs",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/8483",
-        "repo": "celestia-app",
-        "author": "walldiss",
-        "authorCategory": "coworker",
-        "reviewer": "theodorebugnet",
-        "requestedAt": "2026-11-03T16:44:58Z"
-      },
-      {
-        "number": 351,
-        "title": "ci: [medium] auto-approve low and medium risk Dependabot PRs",
-        "url": "https://github.com/celestiaorg/nmt/pull/351",
-        "repo": "nmt",
-        "author": "walldiss",
-        "authorCategory": "coworker",
-        "reviewer": "theodorebugnet",
-        "requestedAt": "2026-11-03T16:45:27Z"
-      },
-      {
         "number": 430,
         "title": "chore(deps): [medium] bump rossjrw/pr-preview-action from 1.6.1 to 1.8.2",
         "url": "https://github.com/celestiaorg/go-header/pull/430",
@@ -199,16 +190,6 @@
         "authorCategory": "bot",
         "reviewer": "theodorebugnet",
         "requestedAt": "2026-11-04T04:36:14Z"
-      },
-      {
-        "number": 3588,
-        "title": "build(deps): [medium] bump actions/checkout from 7.0.0 to 7.0.1",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3588",
-        "repo": "celestia-core",
-        "author": "dependabot",
-        "authorCategory": "bot",
-        "reviewer": "theodorebugnet",
-        "requestedAt": "2026-11-04T09:23:38Z"
       },
       {
         "number": 3567,
@@ -231,16 +212,6 @@
         "authorCategory": "coworker",
         "reviewer": "walldiss",
         "requestedAt": "2026-11-03T11:06:40Z"
-      },
-      {
-        "number": 8494,
-        "title": "fix(fibre): [medium] re-sweep promise cache budget when available balance drops (v10.x)",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/8494",
-        "repo": "celestia-app",
-        "author": "rootulp",
-        "authorCategory": "coworker",
-        "reviewer": "walldiss",
-        "requestedAt": "2026-11-04T04:50:25Z"
       },
       {
         "number": 352,
@@ -281,6 +252,16 @@
         "authorCategory": "coworker",
         "reviewer": "walldiss",
         "requestedAt": "2026-11-04T20:10:54Z"
+      },
+      {
+        "number": 8505,
+        "title": "fix(fibre): [high] release upload buffers in admitHandler",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/8505",
+        "repo": "celestia-app",
+        "author": "rootulp",
+        "authorCategory": "coworker",
+        "reviewer": "walldiss",
+        "requestedAt": "2026-11-04T23:52:57Z"
       },
       {
         "number": 433,
@@ -345,5 +326,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-11-04T21:30:42.151Z"
+  "fetchedAt": "2026-11-05T01:43:19.763Z"
 }
