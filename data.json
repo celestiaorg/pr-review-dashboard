@@ -46,14 +46,24 @@
         "requestedAt": "2026-11-04T22:56:26Z"
       },
       {
-        "number": 3587,
-        "title": "build(deps): [medium] bump actions/cache from 4.3.0 to 6.1.0",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3587",
-        "repo": "celestia-core",
-        "author": "dependabot",
-        "authorCategory": "bot",
+        "number": 8520,
+        "title": "fix(signal)!: [high] compute the 5/6 upgrade threshold with integers",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/8520",
+        "repo": "celestia-app",
+        "author": "rootulp",
+        "authorCategory": "coworker",
         "reviewer": "rach-id",
-        "requestedAt": "2026-11-04T09:23:19Z"
+        "requestedAt": "2026-11-05T19:39:49Z"
+      },
+      {
+        "number": 3600,
+        "title": "feat(consensus): [high] disconnect peers that send votes with invalid signatures",
+        "url": "https://github.com/celestiaorg/celestia-core/pull/3600",
+        "repo": "celestia-core",
+        "author": "rootulp",
+        "authorCategory": "coworker",
+        "reviewer": "rach-id",
+        "requestedAt": "2026-11-05T19:41:43Z"
       }
     ],
     "renaynay": [],
@@ -164,6 +174,16 @@
         "requestedAt": "2026-11-04T23:52:57Z"
       },
       {
+        "number": 8521,
+        "title": "fix(valaddr)!: [high] accept only canonical fibre provider hosts",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/8521",
+        "repo": "celestia-app",
+        "author": "rootulp",
+        "authorCategory": "coworker",
+        "reviewer": "walldiss",
+        "requestedAt": "2026-11-05T19:40:05Z"
+      },
+      {
         "number": 433,
         "title": "chore(deps): [medium] bump golangci/golangci-lint-action from 9.2.0 to 9.3.0",
         "url": "https://github.com/celestiaorg/go-header/pull/433",
@@ -226,5 +246,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-11-05T16:42:58.132Z"
+  "fetchedAt": "2026-11-05T22:18:13.148Z"
 }
