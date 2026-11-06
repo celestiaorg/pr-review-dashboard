@@ -194,16 +194,6 @@
         "requestedAt": "2026-11-03T11:06:40Z"
       },
       {
-        "number": 352,
-        "title": "ci: [low] pin lint job Go toolchain to go.mod",
-        "url": "https://github.com/celestiaorg/nmt/pull/352",
-        "repo": "nmt",
-        "author": "rootulp",
-        "authorCategory": "coworker",
-        "reviewer": "walldiss",
-        "requestedAt": "2026-11-04T14:10:51Z"
-      },
-      {
         "number": 5366,
         "title": "fix(cmd): [high] refine blob submit inputs and RPC authentication",
         "url": "https://github.com/celestiaorg/celestia-node/pull/5366",
@@ -212,16 +202,6 @@
         "authorCategory": "coworker",
         "reviewer": "walldiss",
         "requestedAt": "2026-11-04T15:36:31Z"
-      },
-      {
-        "number": 8505,
-        "title": "fix(fibre): [high] release upload buffers in admitHandler",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/8505",
-        "repo": "celestia-app",
-        "author": "rootulp",
-        "authorCategory": "coworker",
-        "reviewer": "walldiss",
-        "requestedAt": "2026-11-04T23:52:57Z"
       },
       {
         "number": 8521,
@@ -316,5 +296,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-11-06T09:46:55.696Z"
+  "fetchedAt": "2026-11-06T16:56:45.465Z"
 }
