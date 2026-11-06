@@ -22,6 +22,36 @@
         "authorCategory": "coworker",
         "reviewer": "ninabarbakadze",
         "requestedAt": "2026-11-04T22:56:26Z"
+      },
+      {
+        "number": 330,
+        "title": "fix(share): [high] reject reserved namespaces in NewBlob",
+        "url": "https://github.com/celestiaorg/go-square/pull/330",
+        "repo": "go-square",
+        "author": "rootulp",
+        "authorCategory": "coworker",
+        "reviewer": "ninabarbakadze",
+        "requestedAt": "2026-11-06T20:01:50Z"
+      },
+      {
+        "number": 8540,
+        "title": "fix(blob)!: [high] reject a BlobTx whose inner tx is an IndexWrapper",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/8540",
+        "repo": "celestia-app",
+        "author": "rootulp",
+        "authorCategory": "coworker",
+        "reviewer": "ninabarbakadze",
+        "requestedAt": "2026-11-06T20:10:35Z"
+      },
+      {
+        "number": 8539,
+        "title": "fix(fibre)!: [high] apply the 1-to-2 escrow migration to imported genesis state",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/8539",
+        "repo": "celestia-app",
+        "author": "rootulp",
+        "authorCategory": "coworker",
+        "reviewer": "ninabarbakadze",
+        "requestedAt": "2026-11-06T20:16:53Z"
       }
     ],
     "rach-id": [
@@ -84,6 +114,36 @@
         "authorCategory": "coworker",
         "reviewer": "rach-id",
         "requestedAt": "2026-11-05T22:23:11Z"
+      },
+      {
+        "number": 330,
+        "title": "fix(share): [high] reject reserved namespaces in NewBlob",
+        "url": "https://github.com/celestiaorg/go-square/pull/330",
+        "repo": "go-square",
+        "author": "rootulp",
+        "authorCategory": "coworker",
+        "reviewer": "rach-id",
+        "requestedAt": "2026-11-06T20:02:36Z"
+      },
+      {
+        "number": 8540,
+        "title": "fix(blob)!: [high] reject a BlobTx whose inner tx is an IndexWrapper",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/8540",
+        "repo": "celestia-app",
+        "author": "rootulp",
+        "authorCategory": "coworker",
+        "reviewer": "rach-id",
+        "requestedAt": "2026-11-06T20:10:40Z"
+      },
+      {
+        "number": 8539,
+        "title": "fix(fibre)!: [high] apply the 1-to-2 escrow migration to imported genesis state",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/8539",
+        "repo": "celestia-app",
+        "author": "rootulp",
+        "authorCategory": "coworker",
+        "reviewer": "rach-id",
+        "requestedAt": "2026-11-06T20:16:53Z"
       }
     ],
     "renaynay": [],
@@ -234,6 +294,16 @@
         "requestedAt": "2026-11-05T22:26:44Z"
       },
       {
+        "number": 5393,
+        "title": "fix(blob): [high] tighten CommitmentProof verification",
+        "url": "https://github.com/celestiaorg/celestia-node/pull/5393",
+        "repo": "celestia-node",
+        "author": "rootulp",
+        "authorCategory": "coworker",
+        "reviewer": "walldiss",
+        "requestedAt": "2026-11-06T20:08:39Z"
+      },
+      {
         "number": 433,
         "title": "chore(deps): [medium] bump golangci/golangci-lint-action from 9.2.0 to 9.3.0",
         "url": "https://github.com/celestiaorg/go-header/pull/433",
@@ -296,5 +366,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-11-06T16:56:45.465Z"
+  "fetchedAt": "2026-11-06T21:55:39.638Z"
 }
