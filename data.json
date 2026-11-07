@@ -52,6 +52,86 @@
         "authorCategory": "coworker",
         "reviewer": "ninabarbakadze",
         "requestedAt": "2026-11-06T20:16:53Z"
+      },
+      {
+        "number": 3616,
+        "title": "fix(blocksync): [high] verify vote extension signatures before persisting extended commits",
+        "url": "https://github.com/celestiaorg/celestia-core/pull/3616",
+        "repo": "celestia-core",
+        "author": "rootulp",
+        "authorCategory": "coworker",
+        "reviewer": "ninabarbakadze",
+        "requestedAt": "2026-11-06T22:59:14Z"
+      },
+      {
+        "number": 8536,
+        "title": "fix(app): [high] bound MsgPayForFibre validator signatures before decoding in CheckTx",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/8536",
+        "repo": "celestia-app",
+        "author": "rootulp",
+        "authorCategory": "coworker",
+        "reviewer": "ninabarbakadze",
+        "requestedAt": "2026-11-06T23:00:23Z"
+      },
+      {
+        "number": 3613,
+        "title": "fix(p2p): [high] validate peer ListenAddr without DNS resolution",
+        "url": "https://github.com/celestiaorg/celestia-core/pull/3613",
+        "repo": "celestia-core",
+        "author": "rootulp",
+        "authorCategory": "coworker",
+        "reviewer": "ninabarbakadze",
+        "requestedAt": "2026-11-07T00:38:22Z"
+      },
+      {
+        "number": 8529,
+        "title": "fix(app)!: [high] validate tx messages in Prepare and ProcessProposal",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/8529",
+        "repo": "celestia-app",
+        "author": "rootulp",
+        "authorCategory": "coworker",
+        "reviewer": "ninabarbakadze",
+        "requestedAt": "2026-11-07T00:39:54Z"
+      },
+      {
+        "number": 8530,
+        "title": "fix(multiplexer): [high] answer ABCI Info from the previous app until the new app commits",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/8530",
+        "repo": "celestia-app",
+        "author": "rootulp",
+        "authorCategory": "coworker",
+        "reviewer": "ninabarbakadze",
+        "requestedAt": "2026-11-07T00:44:48Z"
+      },
+      {
+        "number": 8531,
+        "title": "fix(app)!: [high] bound MsgModuleQuerySafe requests per message",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/8531",
+        "repo": "celestia-app",
+        "author": "rootulp",
+        "authorCategory": "coworker",
+        "reviewer": "ninabarbakadze",
+        "requestedAt": "2026-11-07T00:47:54Z"
+      },
+      {
+        "number": 3615,
+        "title": "fix(statesync): [high] verify commit returned by light client state provider",
+        "url": "https://github.com/celestiaorg/celestia-core/pull/3615",
+        "repo": "celestia-core",
+        "author": "rootulp",
+        "authorCategory": "coworker",
+        "reviewer": "ninabarbakadze",
+        "requestedAt": "2026-11-07T00:49:19Z"
+      },
+      {
+        "number": 8535,
+        "title": "fix(app): [high] bound MsgModuleQuerySafe requests at mempool admission (v10.x)",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/8535",
+        "repo": "celestia-app",
+        "author": "rootulp",
+        "authorCategory": "coworker",
+        "reviewer": "ninabarbakadze",
+        "requestedAt": "2026-11-07T00:50:14Z"
       }
     ],
     "rach-id": [
@@ -144,6 +224,86 @@
         "authorCategory": "coworker",
         "reviewer": "rach-id",
         "requestedAt": "2026-11-06T20:16:53Z"
+      },
+      {
+        "number": 3616,
+        "title": "fix(blocksync): [high] verify vote extension signatures before persisting extended commits",
+        "url": "https://github.com/celestiaorg/celestia-core/pull/3616",
+        "repo": "celestia-core",
+        "author": "rootulp",
+        "authorCategory": "coworker",
+        "reviewer": "rach-id",
+        "requestedAt": "2026-11-06T22:59:14Z"
+      },
+      {
+        "number": 8536,
+        "title": "fix(app): [high] bound MsgPayForFibre validator signatures before decoding in CheckTx",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/8536",
+        "repo": "celestia-app",
+        "author": "rootulp",
+        "authorCategory": "coworker",
+        "reviewer": "rach-id",
+        "requestedAt": "2026-11-06T23:00:23Z"
+      },
+      {
+        "number": 3613,
+        "title": "fix(p2p): [high] validate peer ListenAddr without DNS resolution",
+        "url": "https://github.com/celestiaorg/celestia-core/pull/3613",
+        "repo": "celestia-core",
+        "author": "rootulp",
+        "authorCategory": "coworker",
+        "reviewer": "rach-id",
+        "requestedAt": "2026-11-07T00:38:22Z"
+      },
+      {
+        "number": 8529,
+        "title": "fix(app)!: [high] validate tx messages in Prepare and ProcessProposal",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/8529",
+        "repo": "celestia-app",
+        "author": "rootulp",
+        "authorCategory": "coworker",
+        "reviewer": "rach-id",
+        "requestedAt": "2026-11-07T00:39:54Z"
+      },
+      {
+        "number": 8530,
+        "title": "fix(multiplexer): [high] answer ABCI Info from the previous app until the new app commits",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/8530",
+        "repo": "celestia-app",
+        "author": "rootulp",
+        "authorCategory": "coworker",
+        "reviewer": "rach-id",
+        "requestedAt": "2026-11-07T00:44:48Z"
+      },
+      {
+        "number": 8531,
+        "title": "fix(app)!: [high] bound MsgModuleQuerySafe requests per message",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/8531",
+        "repo": "celestia-app",
+        "author": "rootulp",
+        "authorCategory": "coworker",
+        "reviewer": "rach-id",
+        "requestedAt": "2026-11-07T00:47:54Z"
+      },
+      {
+        "number": 3615,
+        "title": "fix(statesync): [high] verify commit returned by light client state provider",
+        "url": "https://github.com/celestiaorg/celestia-core/pull/3615",
+        "repo": "celestia-core",
+        "author": "rootulp",
+        "authorCategory": "coworker",
+        "reviewer": "rach-id",
+        "requestedAt": "2026-11-07T00:49:19Z"
+      },
+      {
+        "number": 8535,
+        "title": "fix(app): [high] bound MsgModuleQuerySafe requests at mempool admission (v10.x)",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/8535",
+        "repo": "celestia-app",
+        "author": "rootulp",
+        "authorCategory": "coworker",
+        "reviewer": "rach-id",
+        "requestedAt": "2026-11-07T00:50:14Z"
       }
     ],
     "renaynay": [],
@@ -178,6 +338,16 @@
         "authorCategory": "coworker",
         "reviewer": "vgonkivs",
         "requestedAt": "2026-11-05T23:11:32Z"
+      },
+      {
+        "number": 5395,
+        "title": "fix(share/shwap/p2p/shrex/peers): [high] bound unvalidated shrex-sub pools per peer",
+        "url": "https://github.com/celestiaorg/celestia-node/pull/5395",
+        "repo": "celestia-node",
+        "author": "rootulp",
+        "authorCategory": "coworker",
+        "reviewer": "vgonkivs",
+        "requestedAt": "2026-11-07T00:18:59Z"
       },
       {
         "number": 5190,
@@ -304,6 +474,16 @@
         "requestedAt": "2026-11-06T20:08:39Z"
       },
       {
+        "number": 5395,
+        "title": "fix(share/shwap/p2p/shrex/peers): [high] bound unvalidated shrex-sub pools per peer",
+        "url": "https://github.com/celestiaorg/celestia-node/pull/5395",
+        "repo": "celestia-node",
+        "author": "rootulp",
+        "authorCategory": "coworker",
+        "reviewer": "walldiss",
+        "requestedAt": "2026-11-07T00:18:59Z"
+      },
+      {
         "number": 433,
         "title": "chore(deps): [medium] bump golangci/golangci-lint-action from 9.2.0 to 9.3.0",
         "url": "https://github.com/celestiaorg/go-header/pull/433",
@@ -366,5 +546,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-11-06T21:55:39.638Z"
+  "fetchedAt": "2026-11-07T01:31:07.826Z"
 }
