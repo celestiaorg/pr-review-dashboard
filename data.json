@@ -4,16 +4,6 @@
     "pippokr": [],
     "ninabarbakadze": [
       {
-        "number": 3594,
-        "title": "fix(mempool/cat): [high] bound the received-tx buffer",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3594",
-        "repo": "celestia-core",
-        "author": "rootulp",
-        "authorCategory": "coworker",
-        "reviewer": "ninabarbakadze",
-        "requestedAt": "2026-11-04T21:31:05Z"
-      },
-      {
         "number": 3595,
         "title": "fix(consensus): [high] require canonical proposal block encoding",
         "url": "https://github.com/celestiaorg/celestia-core/pull/3595",
@@ -32,16 +22,6 @@
         "authorCategory": "coworker",
         "reviewer": "ninabarbakadze",
         "requestedAt": "2026-11-06T20:01:50Z"
-      },
-      {
-        "number": 8540,
-        "title": "fix(blob)!: [high] reject a BlobTx whose inner tx is an IndexWrapper",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/8540",
-        "repo": "celestia-app",
-        "author": "rootulp",
-        "authorCategory": "coworker",
-        "reviewer": "ninabarbakadze",
-        "requestedAt": "2026-11-06T20:10:35Z"
       },
       {
         "number": 8539,
@@ -136,86 +116,6 @@
     ],
     "rach-id": [
       {
-        "number": 3594,
-        "title": "fix(mempool/cat): [high] bound the received-tx buffer",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3594",
-        "repo": "celestia-core",
-        "author": "rootulp",
-        "authorCategory": "coworker",
-        "reviewer": "rach-id",
-        "requestedAt": "2026-11-04T21:31:05Z"
-      },
-      {
-        "number": 3595,
-        "title": "fix(consensus): [high] require canonical proposal block encoding",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3595",
-        "repo": "celestia-core",
-        "author": "rootulp",
-        "authorCategory": "coworker",
-        "reviewer": "rach-id",
-        "requestedAt": "2026-11-04T22:56:26Z"
-      },
-      {
-        "number": 8520,
-        "title": "fix(signal)!: [high] compute the 5/6 upgrade threshold with integers",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/8520",
-        "repo": "celestia-app",
-        "author": "rootulp",
-        "authorCategory": "coworker",
-        "reviewer": "rach-id",
-        "requestedAt": "2026-11-05T19:39:49Z"
-      },
-      {
-        "number": 3600,
-        "title": "feat(consensus): [high] disconnect peers that send votes with invalid signatures",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3600",
-        "repo": "celestia-core",
-        "author": "rootulp",
-        "authorCategory": "coworker",
-        "reviewer": "rach-id",
-        "requestedAt": "2026-11-05T19:41:43Z"
-      },
-      {
-        "number": 3602,
-        "title": "ci: [low] add mutation testing, fuzz target check, and complexity lint",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3602",
-        "repo": "celestia-core",
-        "author": "rootulp",
-        "authorCategory": "coworker",
-        "reviewer": "rach-id",
-        "requestedAt": "2026-11-05T22:22:23Z"
-      },
-      {
-        "number": 8527,
-        "title": "ci: [low] add nightly mutation testing and complexity lint on new code",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/8527",
-        "repo": "celestia-app",
-        "author": "rootulp",
-        "authorCategory": "coworker",
-        "reviewer": "rach-id",
-        "requestedAt": "2026-11-05T22:23:11Z"
-      },
-      {
-        "number": 330,
-        "title": "fix(share): [high] reject reserved namespaces in NewBlob",
-        "url": "https://github.com/celestiaorg/go-square/pull/330",
-        "repo": "go-square",
-        "author": "rootulp",
-        "authorCategory": "coworker",
-        "reviewer": "rach-id",
-        "requestedAt": "2026-11-06T20:02:36Z"
-      },
-      {
-        "number": 8540,
-        "title": "fix(blob)!: [high] reject a BlobTx whose inner tx is an IndexWrapper",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/8540",
-        "repo": "celestia-app",
-        "author": "rootulp",
-        "authorCategory": "coworker",
-        "reviewer": "rach-id",
-        "requestedAt": "2026-11-06T20:10:40Z"
-      },
-      {
         "number": 8539,
         "title": "fix(fibre)!: [high] apply the 1-to-2 escrow migration to imported genesis state",
         "url": "https://github.com/celestiaorg/celestia-app/pull/8539",
@@ -307,7 +207,18 @@
       }
     ],
     "renaynay": [],
-    "rootulp": [],
+    "rootulp": [
+      {
+        "number": 3621,
+        "title": "fix(mempool/cat): [high] bound the received-tx buffer (backport #3594)",
+        "url": "https://github.com/celestiaorg/celestia-core/pull/3621",
+        "repo": "celestia-core",
+        "author": "mergify",
+        "authorCategory": "bot",
+        "reviewer": "rootulp",
+        "requestedAt": "2026-11-08T13:26:33Z"
+      }
+    ],
     "vgonkivs": [
       {
         "number": 463,
@@ -546,5 +457,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-11-08T07:55:48.043Z"
+  "fetchedAt": "2026-11-08T14:42:28.388Z"
 }
