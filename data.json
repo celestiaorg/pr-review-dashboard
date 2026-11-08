@@ -4,26 +4,6 @@
     "pippokr": [],
     "ninabarbakadze": [
       {
-        "number": 3595,
-        "title": "fix(consensus): [high] require canonical proposal block encoding",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3595",
-        "repo": "celestia-core",
-        "author": "rootulp",
-        "authorCategory": "coworker",
-        "reviewer": "ninabarbakadze",
-        "requestedAt": "2026-11-04T22:56:26Z"
-      },
-      {
-        "number": 330,
-        "title": "fix(share): [high] reject reserved namespaces in NewBlob",
-        "url": "https://github.com/celestiaorg/go-square/pull/330",
-        "repo": "go-square",
-        "author": "rootulp",
-        "authorCategory": "coworker",
-        "reviewer": "ninabarbakadze",
-        "requestedAt": "2026-11-06T20:01:50Z"
-      },
-      {
         "number": 8539,
         "title": "fix(fibre)!: [high] apply the 1-to-2 escrow migration to imported genesis state",
         "url": "https://github.com/celestiaorg/celestia-app/pull/8539",
@@ -204,21 +184,20 @@
         "authorCategory": "coworker",
         "reviewer": "rach-id",
         "requestedAt": "2026-11-07T00:50:14Z"
+      },
+      {
+        "number": 3625,
+        "title": "ci: [low] leave secret_connection.go out of p2p/conn mutation testing",
+        "url": "https://github.com/celestiaorg/celestia-core/pull/3625",
+        "repo": "celestia-core",
+        "author": "rootulp",
+        "authorCategory": "coworker",
+        "reviewer": "rach-id",
+        "requestedAt": "2026-11-08T18:19:05Z"
       }
     ],
     "renaynay": [],
-    "rootulp": [
-      {
-        "number": 3621,
-        "title": "fix(mempool/cat): [high] bound the received-tx buffer (backport #3594)",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3621",
-        "repo": "celestia-core",
-        "author": "mergify",
-        "authorCategory": "bot",
-        "reviewer": "rootulp",
-        "requestedAt": "2026-11-08T13:26:33Z"
-      }
-    ],
+    "rootulp": [],
     "vgonkivs": [
       {
         "number": 463,
@@ -345,16 +324,6 @@
         "requestedAt": "2026-11-04T15:36:31Z"
       },
       {
-        "number": 8521,
-        "title": "fix(valaddr)!: [high] accept only canonical fibre provider hosts",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/8521",
-        "repo": "celestia-app",
-        "author": "rootulp",
-        "authorCategory": "coworker",
-        "reviewer": "walldiss",
-        "requestedAt": "2026-11-05T19:40:05Z"
-      },
-      {
         "number": 463,
         "title": "test: [low] make byzantine tests deterministic; add mutation testing and fuzz corpus caching",
         "url": "https://github.com/celestiaorg/rsmt2d/pull/463",
@@ -457,5 +426,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-11-08T14:42:28.388Z"
+  "fetchedAt": "2026-11-08T19:09:27.807Z"
 }
