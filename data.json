@@ -92,6 +92,16 @@
         "authorCategory": "coworker",
         "reviewer": "ninabarbakadze",
         "requestedAt": "2026-11-07T00:50:14Z"
+      },
+      {
+        "number": 465,
+        "title": "fix: [high] harden repair sanity check and input validation",
+        "url": "https://github.com/celestiaorg/rsmt2d/pull/465",
+        "repo": "rsmt2d",
+        "author": "rootulp",
+        "authorCategory": "coworker",
+        "reviewer": "ninabarbakadze",
+        "requestedAt": "2026-11-09T02:57:03Z"
       }
     ],
     "rach-id": [
@@ -194,6 +204,16 @@
         "authorCategory": "coworker",
         "reviewer": "rach-id",
         "requestedAt": "2026-11-08T18:19:05Z"
+      },
+      {
+        "number": 465,
+        "title": "fix: [high] harden repair sanity check and input validation",
+        "url": "https://github.com/celestiaorg/rsmt2d/pull/465",
+        "repo": "rsmt2d",
+        "author": "rootulp",
+        "authorCategory": "coworker",
+        "reviewer": "rach-id",
+        "requestedAt": "2026-11-09T02:57:03Z"
       }
     ],
     "renaynay": [],
@@ -238,6 +258,16 @@
         "authorCategory": "coworker",
         "reviewer": "vgonkivs",
         "requestedAt": "2026-11-07T00:18:59Z"
+      },
+      {
+        "number": 5397,
+        "title": "test: [low] fix flaky unit and Tastora E2E tests",
+        "url": "https://github.com/celestiaorg/celestia-node/pull/5397",
+        "repo": "celestia-node",
+        "author": "rootulp",
+        "authorCategory": "coworker",
+        "reviewer": "vgonkivs",
+        "requestedAt": "2026-11-09T02:14:03Z"
       },
       {
         "number": 5190,
@@ -364,6 +394,16 @@
         "requestedAt": "2026-11-07T00:18:59Z"
       },
       {
+        "number": 5397,
+        "title": "test: [low] fix flaky unit and Tastora E2E tests",
+        "url": "https://github.com/celestiaorg/celestia-node/pull/5397",
+        "repo": "celestia-node",
+        "author": "rootulp",
+        "authorCategory": "coworker",
+        "reviewer": "walldiss",
+        "requestedAt": "2026-11-09T02:14:02Z"
+      },
+      {
         "number": 433,
         "title": "chore(deps): [medium] bump golangci/golangci-lint-action from 9.2.0 to 9.3.0",
         "url": "https://github.com/celestiaorg/go-header/pull/433",
@@ -426,5 +466,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-11-09T02:05:39.802Z"
+  "fetchedAt": "2026-11-09T09:39:13.474Z"
 }
