@@ -4,251 +4,61 @@
     "pippokr": [],
     "ninabarbakadze": [
       {
-        "number": 8539,
-        "title": "fix(fibre)!: [high] apply the 1-to-2 escrow migration to imported genesis state",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/8539",
-        "repo": "celestia-app",
-        "author": "rootulp",
-        "authorCategory": "coworker",
-        "reviewer": "ninabarbakadze",
-        "requestedAt": "2026-11-06T20:16:53Z"
-      },
-      {
-        "number": 3616,
-        "title": "fix(blocksync): [high] verify vote extension signatures before persisting extended commits",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3616",
+        "number": 3518,
+        "title": "fix(consensus): [high] act on prevotes collected before the prevote step",
+        "url": "https://github.com/celestiaorg/celestia-core/pull/3518",
         "repo": "celestia-core",
-        "author": "rootulp",
+        "author": "rach-id",
         "authorCategory": "coworker",
         "reviewer": "ninabarbakadze",
-        "requestedAt": "2026-11-06T22:59:14Z"
+        "requestedAt": "2026-11-09T14:30:09Z"
       },
       {
-        "number": 8536,
-        "title": "fix(app): [high] bound MsgPayForFibre validator signatures before decoding in CheckTx",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/8536",
-        "repo": "celestia-app",
-        "author": "rootulp",
-        "authorCategory": "coworker",
-        "reviewer": "ninabarbakadze",
-        "requestedAt": "2026-11-06T23:00:23Z"
-      },
-      {
-        "number": 3613,
-        "title": "fix(p2p): [high] validate peer ListenAddr without DNS resolution",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3613",
+        "number": 3529,
+        "title": "feat(consensus): [high] add the LockInfo WAL record",
+        "url": "https://github.com/celestiaorg/celestia-core/pull/3529",
         "repo": "celestia-core",
-        "author": "rootulp",
+        "author": "rach-id",
         "authorCategory": "coworker",
         "reviewer": "ninabarbakadze",
-        "requestedAt": "2026-11-07T00:38:22Z"
+        "requestedAt": "2026-11-09T14:31:53Z"
       },
       {
-        "number": 8529,
-        "title": "fix(app)!: [high] validate tx messages in Prepare and ProcessProposal",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/8529",
-        "repo": "celestia-app",
-        "author": "rootulp",
-        "authorCategory": "coworker",
-        "reviewer": "ninabarbakadze",
-        "requestedAt": "2026-11-07T00:39:54Z"
-      },
-      {
-        "number": 8530,
-        "title": "fix(multiplexer): [high] answer ABCI Info from the previous app until the new app commits",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/8530",
-        "repo": "celestia-app",
-        "author": "rootulp",
-        "authorCategory": "coworker",
-        "reviewer": "ninabarbakadze",
-        "requestedAt": "2026-11-07T00:44:48Z"
-      },
-      {
-        "number": 8531,
-        "title": "fix(app)!: [high] bound MsgModuleQuerySafe requests per message",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/8531",
-        "repo": "celestia-app",
-        "author": "rootulp",
-        "authorCategory": "coworker",
-        "reviewer": "ninabarbakadze",
-        "requestedAt": "2026-11-07T00:47:54Z"
-      },
-      {
-        "number": 3615,
-        "title": "fix(statesync): [high] verify commit returned by light client state provider",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3615",
+        "number": 3530,
+        "title": "fix(consensus): [high] restore the consensus lock after a restart",
+        "url": "https://github.com/celestiaorg/celestia-core/pull/3530",
         "repo": "celestia-core",
-        "author": "rootulp",
+        "author": "rach-id",
         "authorCategory": "coworker",
         "reviewer": "ninabarbakadze",
-        "requestedAt": "2026-11-07T00:49:19Z"
+        "requestedAt": "2026-11-09T14:45:10Z"
       },
       {
-        "number": 8535,
-        "title": "fix(app): [high] bound MsgModuleQuerySafe requests at mempool admission (v10.x)",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/8535",
-        "repo": "celestia-app",
-        "author": "rootulp",
+        "number": 3547,
+        "title": "perf(mempool): [high] run recheck as a background pass after commit",
+        "url": "https://github.com/celestiaorg/celestia-core/pull/3547",
+        "repo": "celestia-core",
+        "author": "rach-id",
         "authorCategory": "coworker",
         "reviewer": "ninabarbakadze",
-        "requestedAt": "2026-11-07T00:50:14Z"
-      },
-      {
-        "number": 465,
-        "title": "fix: [high] harden repair sanity check and input validation",
-        "url": "https://github.com/celestiaorg/rsmt2d/pull/465",
-        "repo": "rsmt2d",
-        "author": "rootulp",
-        "authorCategory": "coworker",
-        "reviewer": "ninabarbakadze",
-        "requestedAt": "2026-11-09T02:57:03Z"
+        "requestedAt": "2026-11-09T15:48:24Z"
       }
     ],
     "rach-id": [
       {
-        "number": 8539,
-        "title": "fix(fibre)!: [high] apply the 1-to-2 escrow migration to imported genesis state",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/8539",
+        "number": 8565,
+        "title": "fix(fibre): [high] validate genesis state in InitGenesis",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/8565",
         "repo": "celestia-app",
         "author": "rootulp",
         "authorCategory": "coworker",
         "reviewer": "rach-id",
-        "requestedAt": "2026-11-06T20:16:53Z"
-      },
-      {
-        "number": 3616,
-        "title": "fix(blocksync): [high] verify vote extension signatures before persisting extended commits",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3616",
-        "repo": "celestia-core",
-        "author": "rootulp",
-        "authorCategory": "coworker",
-        "reviewer": "rach-id",
-        "requestedAt": "2026-11-06T22:59:14Z"
-      },
-      {
-        "number": 8536,
-        "title": "fix(app): [high] bound MsgPayForFibre validator signatures before decoding in CheckTx",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/8536",
-        "repo": "celestia-app",
-        "author": "rootulp",
-        "authorCategory": "coworker",
-        "reviewer": "rach-id",
-        "requestedAt": "2026-11-06T23:00:23Z"
-      },
-      {
-        "number": 3613,
-        "title": "fix(p2p): [high] validate peer ListenAddr without DNS resolution",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3613",
-        "repo": "celestia-core",
-        "author": "rootulp",
-        "authorCategory": "coworker",
-        "reviewer": "rach-id",
-        "requestedAt": "2026-11-07T00:38:22Z"
-      },
-      {
-        "number": 8529,
-        "title": "fix(app)!: [high] validate tx messages in Prepare and ProcessProposal",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/8529",
-        "repo": "celestia-app",
-        "author": "rootulp",
-        "authorCategory": "coworker",
-        "reviewer": "rach-id",
-        "requestedAt": "2026-11-07T00:39:54Z"
-      },
-      {
-        "number": 8530,
-        "title": "fix(multiplexer): [high] answer ABCI Info from the previous app until the new app commits",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/8530",
-        "repo": "celestia-app",
-        "author": "rootulp",
-        "authorCategory": "coworker",
-        "reviewer": "rach-id",
-        "requestedAt": "2026-11-07T00:44:48Z"
-      },
-      {
-        "number": 8531,
-        "title": "fix(app)!: [high] bound MsgModuleQuerySafe requests per message",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/8531",
-        "repo": "celestia-app",
-        "author": "rootulp",
-        "authorCategory": "coworker",
-        "reviewer": "rach-id",
-        "requestedAt": "2026-11-07T00:47:54Z"
-      },
-      {
-        "number": 3615,
-        "title": "fix(statesync): [high] verify commit returned by light client state provider",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3615",
-        "repo": "celestia-core",
-        "author": "rootulp",
-        "authorCategory": "coworker",
-        "reviewer": "rach-id",
-        "requestedAt": "2026-11-07T00:49:19Z"
-      },
-      {
-        "number": 8535,
-        "title": "fix(app): [high] bound MsgModuleQuerySafe requests at mempool admission (v10.x)",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/8535",
-        "repo": "celestia-app",
-        "author": "rootulp",
-        "authorCategory": "coworker",
-        "reviewer": "rach-id",
-        "requestedAt": "2026-11-07T00:50:14Z"
-      },
-      {
-        "number": 3625,
-        "title": "ci: [low] leave secret_connection.go out of p2p/conn mutation testing",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3625",
-        "repo": "celestia-core",
-        "author": "rootulp",
-        "authorCategory": "coworker",
-        "reviewer": "rach-id",
-        "requestedAt": "2026-11-08T18:19:05Z"
-      },
-      {
-        "number": 465,
-        "title": "fix: [high] harden repair sanity check and input validation",
-        "url": "https://github.com/celestiaorg/rsmt2d/pull/465",
-        "repo": "rsmt2d",
-        "author": "rootulp",
-        "authorCategory": "coworker",
-        "reviewer": "rach-id",
-        "requestedAt": "2026-11-09T02:57:03Z"
+        "requestedAt": "2026-11-09T19:27:54Z"
       }
     ],
     "renaynay": [],
     "rootulp": [],
     "vgonkivs": [
-      {
-        "number": 463,
-        "title": "test: [low] make byzantine tests deterministic; add mutation testing and fuzz corpus caching",
-        "url": "https://github.com/celestiaorg/rsmt2d/pull/463",
-        "repo": "rsmt2d",
-        "author": "rootulp",
-        "authorCategory": "coworker",
-        "reviewer": "vgonkivs",
-        "requestedAt": "2026-11-05T22:24:39Z"
-      },
-      {
-        "number": 5392,
-        "title": "test: [low] fuzz untrusted decoders and add fuzz, mutation, and complexity CI",
-        "url": "https://github.com/celestiaorg/celestia-node/pull/5392",
-        "repo": "celestia-node",
-        "author": "rootulp",
-        "authorCategory": "coworker",
-        "reviewer": "vgonkivs",
-        "requestedAt": "2026-11-05T22:26:44Z"
-      },
-      {
-        "number": 5393,
-        "title": "fix(blob): [high] tighten CommitmentProof verification",
-        "url": "https://github.com/celestiaorg/celestia-node/pull/5393",
-        "repo": "celestia-node",
-        "author": "rootulp",
-        "authorCategory": "coworker",
-        "reviewer": "vgonkivs",
-        "requestedAt": "2026-11-05T23:11:32Z"
-      },
       {
         "number": 5395,
         "title": "fix(share/shwap/p2p/shrex/peers): [high] bound unvalidated shrex-sub pools per peer",
@@ -258,16 +68,6 @@
         "authorCategory": "coworker",
         "reviewer": "vgonkivs",
         "requestedAt": "2026-11-07T00:18:59Z"
-      },
-      {
-        "number": 5397,
-        "title": "test: [low] fix flaky unit and Tastora E2E tests",
-        "url": "https://github.com/celestiaorg/celestia-node/pull/5397",
-        "repo": "celestia-node",
-        "author": "rootulp",
-        "authorCategory": "coworker",
-        "reviewer": "vgonkivs",
-        "requestedAt": "2026-11-09T02:14:03Z"
       },
       {
         "number": 5190,
@@ -288,16 +88,6 @@
         "authorCategory": "external",
         "reviewer": "vgonkivs",
         "requestedAt": "2026-08-21T15:06:03Z"
-      },
-      {
-        "number": 341,
-        "title": "fix: synchronize root cache initialization",
-        "url": "https://github.com/celestiaorg/nmt/pull/341",
-        "repo": "nmt",
-        "author": "loglapa",
-        "authorCategory": "external",
-        "reviewer": "vgonkivs",
-        "requestedAt": "2026-08-28T19:04:55Z"
       }
     ],
     "theodorebugnet": [
@@ -354,36 +144,6 @@
         "requestedAt": "2026-11-04T15:36:31Z"
       },
       {
-        "number": 463,
-        "title": "test: [low] make byzantine tests deterministic; add mutation testing and fuzz corpus caching",
-        "url": "https://github.com/celestiaorg/rsmt2d/pull/463",
-        "repo": "rsmt2d",
-        "author": "rootulp",
-        "authorCategory": "coworker",
-        "reviewer": "walldiss",
-        "requestedAt": "2026-11-05T22:24:39Z"
-      },
-      {
-        "number": 5392,
-        "title": "test: [low] fuzz untrusted decoders and add fuzz, mutation, and complexity CI",
-        "url": "https://github.com/celestiaorg/celestia-node/pull/5392",
-        "repo": "celestia-node",
-        "author": "rootulp",
-        "authorCategory": "coworker",
-        "reviewer": "walldiss",
-        "requestedAt": "2026-11-05T22:26:44Z"
-      },
-      {
-        "number": 5393,
-        "title": "fix(blob): [high] tighten CommitmentProof verification",
-        "url": "https://github.com/celestiaorg/celestia-node/pull/5393",
-        "repo": "celestia-node",
-        "author": "rootulp",
-        "authorCategory": "coworker",
-        "reviewer": "walldiss",
-        "requestedAt": "2026-11-06T20:08:39Z"
-      },
-      {
         "number": 5395,
         "title": "fix(share/shwap/p2p/shrex/peers): [high] bound unvalidated shrex-sub pools per peer",
         "url": "https://github.com/celestiaorg/celestia-node/pull/5395",
@@ -394,14 +154,44 @@
         "requestedAt": "2026-11-07T00:18:59Z"
       },
       {
-        "number": 5397,
-        "title": "test: [low] fix flaky unit and Tastora E2E tests",
-        "url": "https://github.com/celestiaorg/celestia-node/pull/5397",
+        "number": 5403,
+        "title": "fix(share/shrex/peers): [high] use header height for validated shrexsub pools",
+        "url": "https://github.com/celestiaorg/celestia-node/pull/5403",
         "repo": "celestia-node",
-        "author": "rootulp",
+        "author": "vgonkivs",
         "authorCategory": "coworker",
         "reviewer": "walldiss",
-        "requestedAt": "2026-11-09T02:14:02Z"
+        "requestedAt": "2026-11-09T13:33:51Z"
+      },
+      {
+        "number": 5404,
+        "title": "fix(store/file): [high] bound second-half axis reconstruction from ODS-only files",
+        "url": "https://github.com/celestiaorg/celestia-node/pull/5404",
+        "repo": "celestia-node",
+        "author": "vgonkivs",
+        "authorCategory": "coworker",
+        "reviewer": "walldiss",
+        "requestedAt": "2026-11-09T14:36:33Z"
+      },
+      {
+        "number": 5405,
+        "title": "fix(das): synchronize catch-up completion state",
+        "url": "https://github.com/celestiaorg/celestia-node/pull/5405",
+        "repo": "celestia-node",
+        "author": "vgonkivs",
+        "authorCategory": "coworker",
+        "reviewer": "walldiss",
+        "requestedAt": "2026-11-09T15:08:56Z"
+      },
+      {
+        "number": 8457,
+        "title": "perf(ante): [high] verify secp256k1 tx and payment promise signatures with libsecp256k1 in cgo builds",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/8457",
+        "repo": "celestia-app",
+        "author": "rach-id",
+        "authorCategory": "coworker",
+        "reviewer": "walldiss",
+        "requestedAt": "2026-11-09T15:33:24Z"
       },
       {
         "number": 433,
@@ -466,5 +256,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-11-09T09:39:13.474Z"
+  "fetchedAt": "2026-11-09T20:03:37.277Z"
 }
