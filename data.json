@@ -64,131 +64,9 @@
         "requestedAt": "2026-11-10T11:58:58Z"
       }
     ],
-    "rach-id": [
-      {
-        "number": 8564,
-        "title": "perf(fibre): [high] cut gateway memory and lift mixed-size throughput",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/8564",
-        "repo": "celestia-app",
-        "author": "walldiss",
-        "authorCategory": "coworker",
-        "reviewer": "rach-id",
-        "requestedAt": "2026-11-10T16:08:46Z"
-      },
-      {
-        "number": 8486,
-        "title": "feat(fibre): [medium] optionally batch shards into one S3 object",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/8486",
-        "repo": "celestia-app",
-        "author": "walldiss",
-        "authorCategory": "coworker",
-        "reviewer": "rach-id",
-        "requestedAt": "2026-11-10T16:08:49Z"
-      },
-      {
-        "number": 8560,
-        "title": "fix(fibre): [high] keep upload rows alive until gRPC frees them",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/8560",
-        "repo": "celestia-app",
-        "author": "walldiss",
-        "authorCategory": "coworker",
-        "reviewer": "rach-id",
-        "requestedAt": "2026-11-10T16:08:51Z"
-      },
-      {
-        "number": 8561,
-        "title": "perf(fibre): [medium] hand the upload payload back when the last upload ends",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/8561",
-        "repo": "celestia-app",
-        "author": "walldiss",
-        "authorCategory": "coworker",
-        "reviewer": "rach-id",
-        "requestedAt": "2026-11-10T16:08:53Z"
-      },
-      {
-        "number": 8563,
-        "title": "perf(fibre): [high] bound concurrent download reconstructions",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/8563",
-        "repo": "celestia-app",
-        "author": "walldiss",
-        "authorCategory": "coworker",
-        "reviewer": "rach-id",
-        "requestedAt": "2026-11-10T16:08:56Z"
-      }
-    ],
+    "rach-id": [],
     "renaynay": [],
-    "rootulp": [
-      {
-        "number": 8568,
-        "title": "test: [low] DA e2e for surgery and rollback recovery",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/8568",
-        "repo": "celestia-app",
-        "author": "vgonkivs",
-        "authorCategory": "coworker",
-        "reviewer": "rootulp",
-        "requestedAt": "2026-11-10T10:51:20Z"
-      },
-      {
-        "number": 3543,
-        "title": "fix: [high] bound block cardinality before decoding",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3543",
-        "repo": "celestia-core",
-        "author": "rach-id",
-        "authorCategory": "coworker",
-        "reviewer": "rootulp",
-        "requestedAt": "2026-11-10T13:09:59Z"
-      },
-      {
-        "number": 8564,
-        "title": "perf(fibre): [high] cut gateway memory and lift mixed-size throughput",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/8564",
-        "repo": "celestia-app",
-        "author": "walldiss",
-        "authorCategory": "coworker",
-        "reviewer": "rootulp",
-        "requestedAt": "2026-11-10T16:08:46Z"
-      },
-      {
-        "number": 8486,
-        "title": "feat(fibre): [medium] optionally batch shards into one S3 object",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/8486",
-        "repo": "celestia-app",
-        "author": "walldiss",
-        "authorCategory": "coworker",
-        "reviewer": "rootulp",
-        "requestedAt": "2026-11-10T16:08:49Z"
-      },
-      {
-        "number": 8560,
-        "title": "fix(fibre): [high] keep upload rows alive until gRPC frees them",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/8560",
-        "repo": "celestia-app",
-        "author": "walldiss",
-        "authorCategory": "coworker",
-        "reviewer": "rootulp",
-        "requestedAt": "2026-11-10T16:08:51Z"
-      },
-      {
-        "number": 8561,
-        "title": "perf(fibre): [medium] hand the upload payload back when the last upload ends",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/8561",
-        "repo": "celestia-app",
-        "author": "walldiss",
-        "authorCategory": "coworker",
-        "reviewer": "rootulp",
-        "requestedAt": "2026-11-10T16:08:53Z"
-      },
-      {
-        "number": 8563,
-        "title": "perf(fibre): [high] bound concurrent download reconstructions",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/8563",
-        "repo": "celestia-app",
-        "author": "walldiss",
-        "authorCategory": "coworker",
-        "reviewer": "rootulp",
-        "requestedAt": "2026-11-10T16:08:56Z"
-      }
-    ],
+    "rootulp": [],
     "vgonkivs": [
       {
         "number": 5190,
@@ -245,14 +123,14 @@
     ],
     "walldiss": [
       {
-        "number": 5403,
-        "title": "fix(share/shrex/peers): [high] use header height for validated shrexsub pools",
-        "url": "https://github.com/celestiaorg/celestia-node/pull/5403",
+        "number": 5404,
+        "title": "fix(store/file): [high] bound second-half axis reconstruction from ODS-only files",
+        "url": "https://github.com/celestiaorg/celestia-node/pull/5404",
         "repo": "celestia-node",
         "author": "vgonkivs",
         "authorCategory": "coworker",
         "reviewer": "walldiss",
-        "requestedAt": "2026-11-10T15:33:41Z"
+        "requestedAt": "2026-11-10T18:39:09Z"
       }
     ]
   },
@@ -307,5 +185,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-11-10T17:59:58.043Z"
+  "fetchedAt": "2026-11-10T23:04:22.036Z"
 }
