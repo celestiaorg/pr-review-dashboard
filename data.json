@@ -42,6 +42,16 @@
         "authorCategory": "coworker",
         "reviewer": "ninabarbakadze",
         "requestedAt": "2026-11-09T15:48:24Z"
+      },
+      {
+        "number": 3614,
+        "title": "fix(mempool/cat): [high] enforce the tx count limit and keep request ownership on peer removal",
+        "url": "https://github.com/celestiaorg/celestia-core/pull/3614",
+        "repo": "celestia-core",
+        "author": "rootulp",
+        "authorCategory": "coworker",
+        "reviewer": "ninabarbakadze",
+        "requestedAt": "2026-11-09T23:38:37Z"
       }
     ],
     "rach-id": [
@@ -54,21 +64,31 @@
         "authorCategory": "coworker",
         "reviewer": "rach-id",
         "requestedAt": "2026-11-09T19:27:54Z"
+      },
+      {
+        "number": 3628,
+        "title": "fix(light): [high] verify commit of light blocks verified backwards",
+        "url": "https://github.com/celestiaorg/celestia-core/pull/3628",
+        "repo": "celestia-core",
+        "author": "rootulp",
+        "authorCategory": "coworker",
+        "reviewer": "rach-id",
+        "requestedAt": "2026-11-09T23:28:30Z"
+      },
+      {
+        "number": 3614,
+        "title": "fix(mempool/cat): [high] enforce the tx count limit and keep request ownership on peer removal",
+        "url": "https://github.com/celestiaorg/celestia-core/pull/3614",
+        "repo": "celestia-core",
+        "author": "rootulp",
+        "authorCategory": "coworker",
+        "reviewer": "rach-id",
+        "requestedAt": "2026-11-09T23:38:37Z"
       }
     ],
     "renaynay": [],
     "rootulp": [],
     "vgonkivs": [
-      {
-        "number": 5395,
-        "title": "fix(share/shwap/p2p/shrex/peers): [high] bound unvalidated shrex-sub pools per peer",
-        "url": "https://github.com/celestiaorg/celestia-node/pull/5395",
-        "repo": "celestia-node",
-        "author": "rootulp",
-        "authorCategory": "coworker",
-        "reviewer": "vgonkivs",
-        "requestedAt": "2026-11-07T00:18:59Z"
-      },
       {
         "number": 5190,
         "title": "fix(rpc/client): close namespace connections",
@@ -122,88 +142,7 @@
         "requestedAt": "2026-11-01T05:40:55Z"
       }
     ],
-    "walldiss": [
-      {
-        "number": 5388,
-        "title": "fix(build): [high] disable MPTCP listeners by default",
-        "url": "https://github.com/celestiaorg/celestia-node/pull/5388",
-        "repo": "celestia-node",
-        "author": "vgonkivs",
-        "authorCategory": "coworker",
-        "reviewer": "walldiss",
-        "requestedAt": "2026-11-03T11:06:40Z"
-      },
-      {
-        "number": 5366,
-        "title": "fix(cmd): [high] refine blob submit inputs and RPC authentication",
-        "url": "https://github.com/celestiaorg/celestia-node/pull/5366",
-        "repo": "celestia-node",
-        "author": "jcstein",
-        "authorCategory": "coworker",
-        "reviewer": "walldiss",
-        "requestedAt": "2026-11-04T15:36:31Z"
-      },
-      {
-        "number": 5395,
-        "title": "fix(share/shwap/p2p/shrex/peers): [high] bound unvalidated shrex-sub pools per peer",
-        "url": "https://github.com/celestiaorg/celestia-node/pull/5395",
-        "repo": "celestia-node",
-        "author": "rootulp",
-        "authorCategory": "coworker",
-        "reviewer": "walldiss",
-        "requestedAt": "2026-11-07T00:18:59Z"
-      },
-      {
-        "number": 5403,
-        "title": "fix(share/shrex/peers): [high] use header height for validated shrexsub pools",
-        "url": "https://github.com/celestiaorg/celestia-node/pull/5403",
-        "repo": "celestia-node",
-        "author": "vgonkivs",
-        "authorCategory": "coworker",
-        "reviewer": "walldiss",
-        "requestedAt": "2026-11-09T13:33:51Z"
-      },
-      {
-        "number": 5404,
-        "title": "fix(store/file): [high] bound second-half axis reconstruction from ODS-only files",
-        "url": "https://github.com/celestiaorg/celestia-node/pull/5404",
-        "repo": "celestia-node",
-        "author": "vgonkivs",
-        "authorCategory": "coworker",
-        "reviewer": "walldiss",
-        "requestedAt": "2026-11-09T14:36:33Z"
-      },
-      {
-        "number": 5405,
-        "title": "fix(das): synchronize catch-up completion state",
-        "url": "https://github.com/celestiaorg/celestia-node/pull/5405",
-        "repo": "celestia-node",
-        "author": "vgonkivs",
-        "authorCategory": "coworker",
-        "reviewer": "walldiss",
-        "requestedAt": "2026-11-09T15:08:56Z"
-      },
-      {
-        "number": 8457,
-        "title": "perf(ante): [high] verify secp256k1 tx and payment promise signatures with libsecp256k1 in cgo builds",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/8457",
-        "repo": "celestia-app",
-        "author": "rach-id",
-        "authorCategory": "coworker",
-        "reviewer": "walldiss",
-        "requestedAt": "2026-11-09T15:33:24Z"
-      },
-      {
-        "number": 433,
-        "title": "chore(deps): [medium] bump golangci/golangci-lint-action from 9.2.0 to 9.3.0",
-        "url": "https://github.com/celestiaorg/go-header/pull/433",
-        "repo": "go-header",
-        "author": "dependabot",
-        "authorCategory": "bot",
-        "reviewer": "walldiss",
-        "requestedAt": "2026-11-04T04:36:24Z"
-      }
-    ]
+    "walldiss": []
   },
   "teamMembers": [
     {
@@ -256,5 +195,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-11-09T20:03:37.277Z"
+  "fetchedAt": "2026-11-10T02:39:44.005Z"
 }
