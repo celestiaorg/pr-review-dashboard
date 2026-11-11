@@ -14,16 +14,6 @@
         "requestedAt": "2026-11-09T15:48:24Z"
       },
       {
-        "number": 3538,
-        "title": "fix(consensus): [high] keep a copy of the locked block while a height is stalled",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3538",
-        "repo": "celestia-core",
-        "author": "rach-id",
-        "authorCategory": "coworker",
-        "reviewer": "ninabarbakadze",
-        "requestedAt": "2026-11-10T11:58:58Z"
-      },
-      {
         "number": 3611,
         "title": "fix(propagation): [high] bound WantParts height/round and per-peer want state",
         "url": "https://github.com/celestiaorg/celestia-core/pull/3611",
@@ -34,70 +24,120 @@
         "requestedAt": "2026-11-11T04:29:03Z"
       },
       {
-        "number": 3606,
-        "title": "fix(mempool/cat): [high] only apply SeenTx metadata from the delivering peer",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3606",
+        "number": 3640,
+        "title": "fix(consensus): [high] keep late precommits when a height starts without a commit window",
+        "url": "https://github.com/celestiaorg/celestia-core/pull/3640",
         "repo": "celestia-core",
-        "author": "rootulp",
+        "author": "rach-id",
         "authorCategory": "coworker",
         "reviewer": "ninabarbakadze",
-        "requestedAt": "2026-11-11T04:33:43Z"
+        "requestedAt": "2026-11-11T13:18:33Z"
       },
       {
-        "number": 3608,
-        "title": "fix(blocksync): [high] count block responses only against requests made to the peer",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3608",
+        "number": 3664,
+        "title": "feat(consensus): [high] add a legacy pacing switch for disaster recovery",
+        "url": "https://github.com/celestiaorg/celestia-core/pull/3664",
         "repo": "celestia-core",
-        "author": "rootulp",
+        "author": "rach-id",
         "authorCategory": "coworker",
         "reviewer": "ninabarbakadze",
-        "requestedAt": "2026-11-11T04:36:08Z"
+        "requestedAt": "2026-11-11T13:50:16Z"
       },
       {
-        "number": 3607,
-        "title": "fix(mempool/cat): [high] skip repeat WantTx while the previous reply is queued",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3607",
+        "number": 3518,
+        "title": "fix(consensus): [high] act on prevotes collected before the prevote step",
+        "url": "https://github.com/celestiaorg/celestia-core/pull/3518",
         "repo": "celestia-core",
-        "author": "rootulp",
+        "author": "rach-id",
         "authorCategory": "coworker",
         "reviewer": "ninabarbakadze",
-        "requestedAt": "2026-11-11T04:41:01Z"
+        "requestedAt": "2026-11-11T16:48:17Z"
+      },
+      {
+        "number": 3529,
+        "title": "feat(consensus): [high] add the LockInfo WAL record",
+        "url": "https://github.com/celestiaorg/celestia-core/pull/3529",
+        "repo": "celestia-core",
+        "author": "rach-id",
+        "authorCategory": "coworker",
+        "reviewer": "ninabarbakadze",
+        "requestedAt": "2026-11-11T16:48:17Z"
+      },
+      {
+        "number": 3644,
+        "title": "fix(consensus): [high] bootstrap dynamic pacing from the legacy start",
+        "url": "https://github.com/celestiaorg/celestia-core/pull/3644",
+        "repo": "celestia-core",
+        "author": "rach-id",
+        "authorCategory": "coworker",
+        "reviewer": "ninabarbakadze",
+        "requestedAt": "2026-11-11T16:57:32Z"
       }
     ],
-    "rach-id": [
-      {
-        "number": 3606,
-        "title": "fix(mempool/cat): [high] only apply SeenTx metadata from the delivering peer",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3606",
-        "repo": "celestia-core",
-        "author": "rootulp",
-        "authorCategory": "coworker",
-        "reviewer": "rach-id",
-        "requestedAt": "2026-11-11T04:33:43Z"
-      },
-      {
-        "number": 3608,
-        "title": "fix(blocksync): [high] count block responses only against requests made to the peer",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3608",
-        "repo": "celestia-core",
-        "author": "rootulp",
-        "authorCategory": "coworker",
-        "reviewer": "rach-id",
-        "requestedAt": "2026-11-11T04:36:08Z"
-      },
-      {
-        "number": 3607,
-        "title": "fix(mempool/cat): [high] skip repeat WantTx while the previous reply is queued",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3607",
-        "repo": "celestia-core",
-        "author": "rootulp",
-        "authorCategory": "coworker",
-        "reviewer": "rach-id",
-        "requestedAt": "2026-11-11T04:41:01Z"
-      }
-    ],
+    "rach-id": [],
     "renaynay": [],
-    "rootulp": [],
+    "rootulp": [
+      {
+        "number": 8577,
+        "title": "feat(hardfork): [high] load and check an export for a restart genesis",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/8577",
+        "repo": "celestia-app",
+        "author": "vgonkivs",
+        "authorCategory": "coworker",
+        "reviewer": "rootulp",
+        "requestedAt": "2026-11-11T11:20:58Z"
+      },
+      {
+        "number": 8578,
+        "title": "feat(hardfork): [high] harden export loading and build the candidate genesis",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/8578",
+        "repo": "celestia-app",
+        "author": "vgonkivs",
+        "authorCategory": "coworker",
+        "reviewer": "rootulp",
+        "requestedAt": "2026-11-11T11:52:05Z"
+      },
+      {
+        "number": 8563,
+        "title": "perf(fibre): [high] bound concurrent download reconstructions",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/8563",
+        "repo": "celestia-app",
+        "author": "walldiss",
+        "authorCategory": "coworker",
+        "reviewer": "rootulp",
+        "requestedAt": "2026-11-11T16:08:20Z"
+      },
+      {
+        "number": 3640,
+        "title": "fix(consensus): [high] keep late precommits when a height starts without a commit window",
+        "url": "https://github.com/celestiaorg/celestia-core/pull/3640",
+        "repo": "celestia-core",
+        "author": "rach-id",
+        "authorCategory": "coworker",
+        "reviewer": "rootulp",
+        "requestedAt": "2026-11-11T17:25:56Z"
+      },
+      {
+        "number": 3664,
+        "title": "feat(consensus): [high] add a legacy pacing switch for disaster recovery",
+        "url": "https://github.com/celestiaorg/celestia-core/pull/3664",
+        "repo": "celestia-core",
+        "author": "rach-id",
+        "authorCategory": "coworker",
+        "reviewer": "rootulp",
+        "requestedAt": "2026-11-11T17:25:57Z"
+      },
+      {
+        "number": 3644,
+        "title": "fix(consensus): [high] bootstrap dynamic pacing from the legacy start",
+        "url": "https://github.com/celestiaorg/celestia-core/pull/3644",
+        "repo": "celestia-core",
+        "author": "rach-id",
+        "authorCategory": "coworker",
+        "reviewer": "rootulp",
+        "requestedAt": "2026-11-11T17:25:58Z"
+      }
+    ],
     "vgonkivs": [
       {
         "number": 5190,
@@ -196,5 +236,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-11-11T09:51:25.664Z"
+  "fetchedAt": "2026-11-11T17:28:57.632Z"
 }
