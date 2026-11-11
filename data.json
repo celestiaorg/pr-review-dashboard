@@ -1,6 +1,27 @@
 {
   "reviews": {
-    "chatton": [],
+    "chatton": [
+      {
+        "number": 216,
+        "title": "ci: [low] stop Codecov comments on pull requests",
+        "url": "https://github.com/celestiaorg/tastora/pull/216",
+        "repo": "tastora",
+        "author": "rootulp",
+        "authorCategory": "coworker",
+        "reviewer": "chatton",
+        "requestedAt": "2026-11-11T19:41:16Z"
+      },
+      {
+        "number": 217,
+        "title": "ci: [high] auto-approve low and medium risk PRs from trusted authors",
+        "url": "https://github.com/celestiaorg/tastora/pull/217",
+        "repo": "tastora",
+        "author": "walldiss",
+        "authorCategory": "coworker",
+        "reviewer": "chatton",
+        "requestedAt": "2026-11-11T20:51:06Z"
+      }
+    ],
     "pippokr": [],
     "ninabarbakadze": [
       {
@@ -24,26 +45,6 @@
         "requestedAt": "2026-11-11T04:29:03Z"
       },
       {
-        "number": 3640,
-        "title": "fix(consensus): [high] keep late precommits when a height starts without a commit window",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3640",
-        "repo": "celestia-core",
-        "author": "rach-id",
-        "authorCategory": "coworker",
-        "reviewer": "ninabarbakadze",
-        "requestedAt": "2026-11-11T13:18:33Z"
-      },
-      {
-        "number": 3664,
-        "title": "feat(consensus): [high] add a legacy pacing switch for disaster recovery",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3664",
-        "repo": "celestia-core",
-        "author": "rach-id",
-        "authorCategory": "coworker",
-        "reviewer": "ninabarbakadze",
-        "requestedAt": "2026-11-11T13:50:16Z"
-      },
-      {
         "number": 3518,
         "title": "fix(consensus): [high] act on prevotes collected before the prevote step",
         "url": "https://github.com/celestiaorg/celestia-core/pull/3518",
@@ -62,41 +63,22 @@
         "authorCategory": "coworker",
         "reviewer": "ninabarbakadze",
         "requestedAt": "2026-11-11T16:48:17Z"
-      },
-      {
-        "number": 3644,
-        "title": "fix(consensus): [high] bootstrap dynamic pacing from the legacy start",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3644",
-        "repo": "celestia-core",
-        "author": "rach-id",
-        "authorCategory": "coworker",
-        "reviewer": "ninabarbakadze",
-        "requestedAt": "2026-11-11T16:57:32Z"
       }
     ],
-    "rach-id": [],
+    "rach-id": [
+      {
+        "number": 3611,
+        "title": "fix(propagation): [high] bound WantParts height/round and per-peer want state",
+        "url": "https://github.com/celestiaorg/celestia-core/pull/3611",
+        "repo": "celestia-core",
+        "author": "rootulp",
+        "authorCategory": "coworker",
+        "reviewer": "rach-id",
+        "requestedAt": "2026-11-11T19:23:55Z"
+      }
+    ],
     "renaynay": [],
     "rootulp": [
-      {
-        "number": 8577,
-        "title": "feat(hardfork): [high] load and check an export for a restart genesis",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/8577",
-        "repo": "celestia-app",
-        "author": "vgonkivs",
-        "authorCategory": "coworker",
-        "reviewer": "rootulp",
-        "requestedAt": "2026-11-11T11:20:58Z"
-      },
-      {
-        "number": 8578,
-        "title": "feat(hardfork): [high] harden export loading and build the candidate genesis",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/8578",
-        "repo": "celestia-app",
-        "author": "vgonkivs",
-        "authorCategory": "coworker",
-        "reviewer": "rootulp",
-        "requestedAt": "2026-11-11T11:52:05Z"
-      },
       {
         "number": 8563,
         "title": "perf(fibre): [high] bound concurrent download reconstructions",
@@ -106,36 +88,6 @@
         "authorCategory": "coworker",
         "reviewer": "rootulp",
         "requestedAt": "2026-11-11T16:08:20Z"
-      },
-      {
-        "number": 3640,
-        "title": "fix(consensus): [high] keep late precommits when a height starts without a commit window",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3640",
-        "repo": "celestia-core",
-        "author": "rach-id",
-        "authorCategory": "coworker",
-        "reviewer": "rootulp",
-        "requestedAt": "2026-11-11T17:25:56Z"
-      },
-      {
-        "number": 3664,
-        "title": "feat(consensus): [high] add a legacy pacing switch for disaster recovery",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3664",
-        "repo": "celestia-core",
-        "author": "rach-id",
-        "authorCategory": "coworker",
-        "reviewer": "rootulp",
-        "requestedAt": "2026-11-11T17:25:57Z"
-      },
-      {
-        "number": 3644,
-        "title": "fix(consensus): [high] bootstrap dynamic pacing from the legacy start",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3644",
-        "repo": "celestia-core",
-        "author": "rach-id",
-        "authorCategory": "coworker",
-        "reviewer": "rootulp",
-        "requestedAt": "2026-11-11T17:25:58Z"
       }
     ],
     "vgonkivs": [
@@ -236,5 +188,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-11-11T17:28:57.632Z"
+  "fetchedAt": "2026-11-11T23:37:37.658Z"
 }
