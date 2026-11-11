@@ -4,16 +4,6 @@
     "pippokr": [],
     "ninabarbakadze": [
       {
-        "number": 3530,
-        "title": "fix(consensus): [high] restore the consensus lock after a restart",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3530",
-        "repo": "celestia-core",
-        "author": "rach-id",
-        "authorCategory": "coworker",
-        "reviewer": "ninabarbakadze",
-        "requestedAt": "2026-11-09T14:45:10Z"
-      },
-      {
         "number": 3547,
         "title": "perf(mempool): [high] run recheck as a background pass after commit",
         "url": "https://github.com/celestiaorg/celestia-core/pull/3547",
@@ -24,36 +14,6 @@
         "requestedAt": "2026-11-09T15:48:24Z"
       },
       {
-        "number": 3614,
-        "title": "fix(mempool/cat): [high] enforce the tx count limit and keep request ownership on peer removal",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3614",
-        "repo": "celestia-core",
-        "author": "rootulp",
-        "authorCategory": "coworker",
-        "reviewer": "ninabarbakadze",
-        "requestedAt": "2026-11-09T23:38:37Z"
-      },
-      {
-        "number": 3531,
-        "title": "fix(consensus): [high] refetch the locked block and journal the current proposal after a restart",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3531",
-        "repo": "celestia-core",
-        "author": "rach-id",
-        "authorCategory": "coworker",
-        "reviewer": "ninabarbakadze",
-        "requestedAt": "2026-11-10T08:01:57Z"
-      },
-      {
-        "number": 3533,
-        "title": "fix(consensus): [high] serve the replayed proposal after a restart",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3533",
-        "repo": "celestia-core",
-        "author": "rach-id",
-        "authorCategory": "coworker",
-        "reviewer": "ninabarbakadze",
-        "requestedAt": "2026-11-10T10:20:45Z"
-      },
-      {
         "number": 3538,
         "title": "fix(consensus): [high] keep a copy of the locked block while a height is stalled",
         "url": "https://github.com/celestiaorg/celestia-core/pull/3538",
@@ -62,9 +22,80 @@
         "authorCategory": "coworker",
         "reviewer": "ninabarbakadze",
         "requestedAt": "2026-11-10T11:58:58Z"
+      },
+      {
+        "number": 3611,
+        "title": "fix(propagation): [high] bound WantParts height/round and per-peer want state",
+        "url": "https://github.com/celestiaorg/celestia-core/pull/3611",
+        "repo": "celestia-core",
+        "author": "rootulp",
+        "authorCategory": "coworker",
+        "reviewer": "ninabarbakadze",
+        "requestedAt": "2026-11-11T04:29:03Z"
+      },
+      {
+        "number": 3606,
+        "title": "fix(mempool/cat): [high] only apply SeenTx metadata from the delivering peer",
+        "url": "https://github.com/celestiaorg/celestia-core/pull/3606",
+        "repo": "celestia-core",
+        "author": "rootulp",
+        "authorCategory": "coworker",
+        "reviewer": "ninabarbakadze",
+        "requestedAt": "2026-11-11T04:33:43Z"
+      },
+      {
+        "number": 3608,
+        "title": "fix(blocksync): [high] count block responses only against requests made to the peer",
+        "url": "https://github.com/celestiaorg/celestia-core/pull/3608",
+        "repo": "celestia-core",
+        "author": "rootulp",
+        "authorCategory": "coworker",
+        "reviewer": "ninabarbakadze",
+        "requestedAt": "2026-11-11T04:36:08Z"
+      },
+      {
+        "number": 3607,
+        "title": "fix(mempool/cat): [high] skip repeat WantTx while the previous reply is queued",
+        "url": "https://github.com/celestiaorg/celestia-core/pull/3607",
+        "repo": "celestia-core",
+        "author": "rootulp",
+        "authorCategory": "coworker",
+        "reviewer": "ninabarbakadze",
+        "requestedAt": "2026-11-11T04:41:01Z"
       }
     ],
-    "rach-id": [],
+    "rach-id": [
+      {
+        "number": 3606,
+        "title": "fix(mempool/cat): [high] only apply SeenTx metadata from the delivering peer",
+        "url": "https://github.com/celestiaorg/celestia-core/pull/3606",
+        "repo": "celestia-core",
+        "author": "rootulp",
+        "authorCategory": "coworker",
+        "reviewer": "rach-id",
+        "requestedAt": "2026-11-11T04:33:43Z"
+      },
+      {
+        "number": 3608,
+        "title": "fix(blocksync): [high] count block responses only against requests made to the peer",
+        "url": "https://github.com/celestiaorg/celestia-core/pull/3608",
+        "repo": "celestia-core",
+        "author": "rootulp",
+        "authorCategory": "coworker",
+        "reviewer": "rach-id",
+        "requestedAt": "2026-11-11T04:36:08Z"
+      },
+      {
+        "number": 3607,
+        "title": "fix(mempool/cat): [high] skip repeat WantTx while the previous reply is queued",
+        "url": "https://github.com/celestiaorg/celestia-core/pull/3607",
+        "repo": "celestia-core",
+        "author": "rootulp",
+        "authorCategory": "coworker",
+        "reviewer": "rach-id",
+        "requestedAt": "2026-11-11T04:41:01Z"
+      }
+    ],
     "renaynay": [],
     "rootulp": [],
     "vgonkivs": [
@@ -90,26 +121,6 @@
       }
     ],
     "theodorebugnet": [
-      {
-        "number": 5376,
-        "title": "chore: [low] publish devnet image ",
-        "url": "https://github.com/celestiaorg/celestia-node/pull/5376",
-        "repo": "celestia-node",
-        "author": "citizen-stig",
-        "authorCategory": "coworker",
-        "reviewer": "theodorebugnet",
-        "requestedAt": "2026-10-29T12:42:02Z"
-      },
-      {
-        "number": 430,
-        "title": "chore(deps): [medium] bump rossjrw/pr-preview-action from 1.6.1 to 1.8.2",
-        "url": "https://github.com/celestiaorg/go-header/pull/430",
-        "repo": "go-header",
-        "author": "dependabot",
-        "authorCategory": "bot",
-        "reviewer": "theodorebugnet",
-        "requestedAt": "2026-11-04T04:36:14Z"
-      },
       {
         "number": 3567,
         "title": "fix(consensus): [high] apply KMSSigningDelay to RetrySignerClient",
@@ -185,5 +196,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-11-11T02:43:31.507Z"
+  "fetchedAt": "2026-11-11T09:51:25.664Z"
 }
