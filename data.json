@@ -1,27 +1,6 @@
 {
   "reviews": {
-    "chatton": [
-      {
-        "number": 216,
-        "title": "ci: [low] stop Codecov comments on pull requests",
-        "url": "https://github.com/celestiaorg/tastora/pull/216",
-        "repo": "tastora",
-        "author": "rootulp",
-        "authorCategory": "coworker",
-        "reviewer": "chatton",
-        "requestedAt": "2026-11-11T19:41:16Z"
-      },
-      {
-        "number": 217,
-        "title": "ci: [high] auto-approve low and medium risk PRs from trusted authors",
-        "url": "https://github.com/celestiaorg/tastora/pull/217",
-        "repo": "tastora",
-        "author": "walldiss",
-        "authorCategory": "coworker",
-        "reviewer": "chatton",
-        "requestedAt": "2026-11-11T20:51:06Z"
-      }
-    ],
+    "chatton": [],
     "pippokr": [],
     "ninabarbakadze": [
       {
@@ -75,19 +54,99 @@
         "authorCategory": "coworker",
         "reviewer": "rach-id",
         "requestedAt": "2026-11-11T19:23:55Z"
+      },
+      {
+        "number": 8560,
+        "title": "fix(fibre): [high] keep upload rows alive until gRPC frees them",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/8560",
+        "repo": "celestia-app",
+        "author": "walldiss",
+        "authorCategory": "coworker",
+        "reviewer": "rach-id",
+        "requestedAt": "2026-11-12T00:30:50Z"
+      },
+      {
+        "number": 8561,
+        "title": "perf(fibre): [medium] hand the upload payload back when the last upload ends",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/8561",
+        "repo": "celestia-app",
+        "author": "walldiss",
+        "authorCategory": "coworker",
+        "reviewer": "rach-id",
+        "requestedAt": "2026-11-12T00:30:53Z"
+      },
+      {
+        "number": 8564,
+        "title": "perf(fibre)!: [high] cut gateway memory and lift mixed-size throughput",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/8564",
+        "repo": "celestia-app",
+        "author": "walldiss",
+        "authorCategory": "coworker",
+        "reviewer": "rach-id",
+        "requestedAt": "2026-11-12T00:30:56Z"
+      },
+      {
+        "number": 8583,
+        "title": "fix(app)!: [high] charge gas per counted SDK message beyond the first",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/8583",
+        "repo": "celestia-app",
+        "author": "rootulp",
+        "authorCategory": "coworker",
+        "reviewer": "rach-id",
+        "requestedAt": "2026-11-12T00:38:34Z"
       }
     ],
     "renaynay": [],
     "rootulp": [
       {
-        "number": 8563,
-        "title": "perf(fibre): [high] bound concurrent download reconstructions",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/8563",
+        "number": 8560,
+        "title": "fix(fibre): [high] keep upload rows alive until gRPC frees them",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/8560",
         "repo": "celestia-app",
         "author": "walldiss",
         "authorCategory": "coworker",
         "reviewer": "rootulp",
-        "requestedAt": "2026-11-11T16:08:20Z"
+        "requestedAt": "2026-11-12T00:30:50Z"
+      },
+      {
+        "number": 8561,
+        "title": "perf(fibre): [medium] hand the upload payload back when the last upload ends",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/8561",
+        "repo": "celestia-app",
+        "author": "walldiss",
+        "authorCategory": "coworker",
+        "reviewer": "rootulp",
+        "requestedAt": "2026-11-12T00:30:53Z"
+      },
+      {
+        "number": 8564,
+        "title": "perf(fibre)!: [high] cut gateway memory and lift mixed-size throughput",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/8564",
+        "repo": "celestia-app",
+        "author": "walldiss",
+        "authorCategory": "coworker",
+        "reviewer": "rootulp",
+        "requestedAt": "2026-11-12T00:30:56Z"
+      },
+      {
+        "number": 20,
+        "title": "ci: [high] let auto-approve cover changes under .github/",
+        "url": "https://github.com/celestiaorg/ibc-go/pull/20",
+        "repo": "ibc-go",
+        "author": "walldiss",
+        "authorCategory": "coworker",
+        "reviewer": "rootulp",
+        "requestedAt": "2026-11-12T01:08:30Z"
+      },
+      {
+        "number": 8476,
+        "title": "perf(fibre): [medium] serve downloads zero-copy, 256 KiB write buffer, batched TLS",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/8476",
+        "repo": "celestia-app",
+        "author": "walldiss",
+        "authorCategory": "coworker",
+        "reviewer": "rootulp",
+        "requestedAt": "2026-11-12T02:16:10Z"
       }
     ],
     "vgonkivs": [
@@ -188,5 +247,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-11-11T23:37:37.658Z"
+  "fetchedAt": "2026-11-12T04:09:55.339Z"
 }
