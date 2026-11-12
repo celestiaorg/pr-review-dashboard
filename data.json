@@ -24,120 +24,80 @@
         "requestedAt": "2026-11-11T04:29:03Z"
       },
       {
-        "number": 3518,
-        "title": "fix(consensus): [high] act on prevotes collected before the prevote step",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3518",
+        "number": 3662,
+        "title": "fix(propagation): [high] rely on request expiry for catch-up re-requests",
+        "url": "https://github.com/celestiaorg/celestia-core/pull/3662",
         "repo": "celestia-core",
         "author": "rach-id",
         "authorCategory": "coworker",
         "reviewer": "ninabarbakadze",
-        "requestedAt": "2026-11-11T16:48:17Z"
+        "requestedAt": "2026-11-12T10:42:10Z"
       },
       {
-        "number": 3529,
-        "title": "feat(consensus): [high] add the LockInfo WAL record",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3529",
+        "number": 3661,
+        "title": "fix(propagation): [high] serve committed wants from the store when the cached entry is incomplete",
+        "url": "https://github.com/celestiaorg/celestia-core/pull/3661",
         "repo": "celestia-core",
         "author": "rach-id",
         "authorCategory": "coworker",
         "reviewer": "ninabarbakadze",
-        "requestedAt": "2026-11-11T16:48:17Z"
+        "requestedAt": "2026-11-12T10:42:51Z"
+      },
+      {
+        "number": 3663,
+        "title": "fix(consensus): [high] refetch a restored lock once, after replay",
+        "url": "https://github.com/celestiaorg/celestia-core/pull/3663",
+        "repo": "celestia-core",
+        "author": "rach-id",
+        "authorCategory": "coworker",
+        "reviewer": "ninabarbakadze",
+        "requestedAt": "2026-11-12T11:09:09Z"
+      },
+      {
+        "number": 3665,
+        "title": "fix(consensus): [high] locked-block copy review fixes and tests",
+        "url": "https://github.com/celestiaorg/celestia-core/pull/3665",
+        "repo": "celestia-core",
+        "author": "rach-id",
+        "authorCategory": "coworker",
+        "reviewer": "ninabarbakadze",
+        "requestedAt": "2026-11-12T11:10:06Z"
+      },
+      {
+        "number": 3667,
+        "title": "fix(consensus): [high] small review fixes for the WAL-lock stack",
+        "url": "https://github.com/celestiaorg/celestia-core/pull/3667",
+        "repo": "celestia-core",
+        "author": "rach-id",
+        "authorCategory": "coworker",
+        "reviewer": "ninabarbakadze",
+        "requestedAt": "2026-11-12T11:14:35Z"
+      },
+      {
+        "number": 3668,
+        "title": "fix(consensus): [high] keep an unlocked proposer's own block across restart",
+        "url": "https://github.com/celestiaorg/celestia-core/pull/3668",
+        "repo": "celestia-core",
+        "author": "rach-id",
+        "authorCategory": "coworker",
+        "reviewer": "ninabarbakadze",
+        "requestedAt": "2026-11-12T11:15:39Z"
       }
     ],
     "rach-id": [
       {
-        "number": 3611,
-        "title": "fix(propagation): [high] bound WantParts height/round and per-peer want state",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3611",
-        "repo": "celestia-core",
-        "author": "rootulp",
-        "authorCategory": "coworker",
-        "reviewer": "rach-id",
-        "requestedAt": "2026-11-11T19:23:55Z"
-      },
-      {
-        "number": 8560,
-        "title": "fix(fibre): [high] keep upload rows alive until gRPC frees them",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/8560",
+        "number": 8588,
+        "title": "feat(hardfork): [high] stricter export checks and hash before parsing",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/8588",
         "repo": "celestia-app",
-        "author": "walldiss",
+        "author": "vgonkivs",
         "authorCategory": "coworker",
         "reviewer": "rach-id",
-        "requestedAt": "2026-11-12T00:30:50Z"
-      },
-      {
-        "number": 8561,
-        "title": "perf(fibre): [medium] hand the upload payload back when the last upload ends",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/8561",
-        "repo": "celestia-app",
-        "author": "walldiss",
-        "authorCategory": "coworker",
-        "reviewer": "rach-id",
-        "requestedAt": "2026-11-12T00:30:53Z"
-      },
-      {
-        "number": 8564,
-        "title": "perf(fibre)!: [high] cut gateway memory and lift mixed-size throughput",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/8564",
-        "repo": "celestia-app",
-        "author": "walldiss",
-        "authorCategory": "coworker",
-        "reviewer": "rach-id",
-        "requestedAt": "2026-11-12T00:30:56Z"
-      },
-      {
-        "number": 8583,
-        "title": "fix(app)!: [high] charge gas per counted SDK message beyond the first",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/8583",
-        "repo": "celestia-app",
-        "author": "rootulp",
-        "authorCategory": "coworker",
-        "reviewer": "rach-id",
-        "requestedAt": "2026-11-12T00:38:34Z"
+        "requestedAt": "2026-11-12T11:35:19Z"
       }
     ],
     "renaynay": [],
     "rootulp": [
-      {
-        "number": 8560,
-        "title": "fix(fibre): [high] keep upload rows alive until gRPC frees them",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/8560",
-        "repo": "celestia-app",
-        "author": "walldiss",
-        "authorCategory": "coworker",
-        "reviewer": "rootulp",
-        "requestedAt": "2026-11-12T00:30:50Z"
-      },
-      {
-        "number": 8561,
-        "title": "perf(fibre): [medium] hand the upload payload back when the last upload ends",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/8561",
-        "repo": "celestia-app",
-        "author": "walldiss",
-        "authorCategory": "coworker",
-        "reviewer": "rootulp",
-        "requestedAt": "2026-11-12T00:30:53Z"
-      },
-      {
-        "number": 8564,
-        "title": "perf(fibre)!: [high] cut gateway memory and lift mixed-size throughput",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/8564",
-        "repo": "celestia-app",
-        "author": "walldiss",
-        "authorCategory": "coworker",
-        "reviewer": "rootulp",
-        "requestedAt": "2026-11-12T00:30:56Z"
-      },
-      {
-        "number": 20,
-        "title": "ci: [high] let auto-approve cover changes under .github/",
-        "url": "https://github.com/celestiaorg/ibc-go/pull/20",
-        "repo": "ibc-go",
-        "author": "walldiss",
-        "authorCategory": "coworker",
-        "reviewer": "rootulp",
-        "requestedAt": "2026-11-12T01:08:30Z"
-      },
       {
         "number": 8476,
         "title": "perf(fibre): [medium] serve downloads zero-copy, 256 KiB write buffer, batched TLS",
@@ -147,6 +107,36 @@
         "authorCategory": "coworker",
         "reviewer": "rootulp",
         "requestedAt": "2026-11-12T02:16:10Z"
+      },
+      {
+        "number": 8411,
+        "title": "feat!: [high] v11 consensus timeouts: 800 ms dynamic timeout commit",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/8411",
+        "repo": "celestia-app",
+        "author": "rach-id",
+        "authorCategory": "coworker",
+        "reviewer": "rootulp",
+        "requestedAt": "2026-11-12T09:39:29Z"
+      },
+      {
+        "number": 8416,
+        "title": "feat!: [high] rescale block-count parameters for 0.8 s blocks (v11)",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/8416",
+        "repo": "celestia-app",
+        "author": "rach-id",
+        "authorCategory": "coworker",
+        "reviewer": "rootulp",
+        "requestedAt": "2026-11-12T10:03:51Z"
+      },
+      {
+        "number": 8588,
+        "title": "feat(hardfork): [high] stricter export checks and hash before parsing",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/8588",
+        "repo": "celestia-app",
+        "author": "vgonkivs",
+        "authorCategory": "coworker",
+        "reviewer": "rootulp",
+        "requestedAt": "2026-11-12T11:36:05Z"
       }
     ],
     "vgonkivs": [
@@ -171,18 +161,7 @@
         "requestedAt": "2026-08-21T15:06:03Z"
       }
     ],
-    "theodorebugnet": [
-      {
-        "number": 3567,
-        "title": "fix(consensus): [high] apply KMSSigningDelay to RetrySignerClient",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3567",
-        "repo": "celestia-core",
-        "author": "rhmatzeka",
-        "authorCategory": "external",
-        "reviewer": "theodorebugnet",
-        "requestedAt": "2026-11-01T05:40:55Z"
-      }
-    ],
+    "theodorebugnet": [],
     "walldiss": [
       {
         "number": 5404,
@@ -247,5 +226,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-11-12T04:09:55.339Z"
+  "fetchedAt": "2026-11-12T12:37:46.541Z"
 }
