@@ -14,36 +14,6 @@
         "requestedAt": "2026-11-04T22:56:26Z"
       },
       {
-        "number": 3547,
-        "title": "perf(mempool): [high] run recheck as a background pass after commit",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3547",
-        "repo": "celestia-core",
-        "author": "rach-id",
-        "authorCategory": "coworker",
-        "reviewer": "ninabarbakadze",
-        "requestedAt": "2026-11-09T15:48:24Z"
-      },
-      {
-        "number": 3609,
-        "title": "fix(evidence): [high] admit one duplicate vote evidence per validator and height",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3609",
-        "repo": "celestia-core",
-        "author": "rootulp",
-        "authorCategory": "coworker",
-        "reviewer": "ninabarbakadze",
-        "requestedAt": "2026-11-11T04:31:44Z"
-      },
-      {
-        "number": 3606,
-        "title": "fix(mempool/cat): [high] only apply SeenTx metadata from the delivering peer",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3606",
-        "repo": "celestia-core",
-        "author": "rootulp",
-        "authorCategory": "coworker",
-        "reviewer": "ninabarbakadze",
-        "requestedAt": "2026-11-11T04:33:43Z"
-      },
-      {
         "number": 3608,
         "title": "fix(blocksync): [high] count block responses only against requests made to the peer",
         "url": "https://github.com/celestiaorg/celestia-core/pull/3608",
@@ -52,59 +22,9 @@
         "authorCategory": "coworker",
         "reviewer": "ninabarbakadze",
         "requestedAt": "2026-11-11T04:36:08Z"
-      },
-      {
-        "number": 3663,
-        "title": "fix(consensus): [high] refetch a restored lock once, after replay",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3663",
-        "repo": "celestia-core",
-        "author": "rach-id",
-        "authorCategory": "coworker",
-        "reviewer": "ninabarbakadze",
-        "requestedAt": "2026-11-13T06:18:31Z"
-      },
-      {
-        "number": 3665,
-        "title": "fix(consensus): [high] locked-block copy review fixes and tests",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3665",
-        "repo": "celestia-core",
-        "author": "rach-id",
-        "authorCategory": "coworker",
-        "reviewer": "ninabarbakadze",
-        "requestedAt": "2026-11-13T06:18:32Z"
-      },
-      {
-        "number": 3666,
-        "title": "test(consensus): [low] cover the lock hand-over guards",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3666",
-        "repo": "celestia-core",
-        "author": "rach-id",
-        "authorCategory": "coworker",
-        "reviewer": "ninabarbakadze",
-        "requestedAt": "2026-11-13T06:18:33Z"
-      },
-      {
-        "number": 3667,
-        "title": "fix(consensus): [high] small review fixes for the WAL-lock stack",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3667",
-        "repo": "celestia-core",
-        "author": "rach-id",
-        "authorCategory": "coworker",
-        "reviewer": "ninabarbakadze",
-        "requestedAt": "2026-11-13T06:18:33Z"
       }
     ],
     "rach-id": [
-      {
-        "number": 3595,
-        "title": "fix(consensus): [high] require canonical proposal block encoding",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3595",
-        "repo": "celestia-core",
-        "author": "rootulp",
-        "authorCategory": "coworker",
-        "reviewer": "rach-id",
-        "requestedAt": "2026-11-10T00:01:08Z"
-      },
       {
         "number": 8564,
         "title": "perf(fibre)!: [high] cut gateway memory and lift mixed-size throughput",
@@ -124,26 +44,6 @@
         "authorCategory": "coworker",
         "reviewer": "rach-id",
         "requestedAt": "2026-11-12T16:49:13Z"
-      },
-      {
-        "number": 3609,
-        "title": "fix(evidence): [high] admit one duplicate vote evidence per validator and height",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3609",
-        "repo": "celestia-core",
-        "author": "rootulp",
-        "authorCategory": "coworker",
-        "reviewer": "rach-id",
-        "requestedAt": "2026-11-13T01:01:43Z"
-      },
-      {
-        "number": 8603,
-        "title": "feat(encoding)!: [high] reject ambiguous tx encodings",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/8603",
-        "repo": "celestia-app",
-        "author": "rootulp",
-        "authorCategory": "coworker",
-        "reviewer": "rach-id",
-        "requestedAt": "2026-11-13T05:05:00Z"
       }
     ],
     "renaynay": [],
@@ -177,6 +77,26 @@
         "authorCategory": "coworker",
         "reviewer": "rootulp",
         "requestedAt": "2026-11-12T16:52:56Z"
+      },
+      {
+        "number": 8370,
+        "title": "perf(app): [high] enable optimistic execution with blob-stripped speculative txs",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/8370",
+        "repo": "celestia-app",
+        "author": "rach-id",
+        "authorCategory": "coworker",
+        "reviewer": "rootulp",
+        "requestedAt": "2026-11-13T15:51:47Z"
+      },
+      {
+        "number": 8607,
+        "title": "fix(app): [high] write upgrade-info.json at Commit instead of EndBlocker",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/8607",
+        "repo": "celestia-app",
+        "author": "rach-id",
+        "authorCategory": "coworker",
+        "reviewer": "rootulp",
+        "requestedAt": "2026-11-13T15:54:42Z"
       }
     ],
     "vgonkivs": [
@@ -286,5 +206,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-11-13T08:05:11.781Z"
+  "fetchedAt": "2026-11-13T16:11:16.904Z"
 }
