@@ -24,6 +24,16 @@
         "requestedAt": "2026-11-09T15:48:24Z"
       },
       {
+        "number": 3609,
+        "title": "fix(evidence): [high] admit one duplicate vote evidence per validator and height",
+        "url": "https://github.com/celestiaorg/celestia-core/pull/3609",
+        "repo": "celestia-core",
+        "author": "rootulp",
+        "authorCategory": "coworker",
+        "reviewer": "ninabarbakadze",
+        "requestedAt": "2026-11-11T04:31:44Z"
+      },
+      {
         "number": 3606,
         "title": "fix(mempool/cat): [high] only apply SeenTx metadata from the delivering peer",
         "url": "https://github.com/celestiaorg/celestia-core/pull/3606",
@@ -44,56 +54,6 @@
         "requestedAt": "2026-11-11T04:36:08Z"
       },
       {
-        "number": 3531,
-        "title": "fix(consensus): [high] refetch the locked block and persist the current proposal after a restart",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3531",
-        "repo": "celestia-core",
-        "author": "rach-id",
-        "authorCategory": "coworker",
-        "reviewer": "ninabarbakadze",
-        "requestedAt": "2026-11-12T18:25:21Z"
-      },
-      {
-        "number": 3533,
-        "title": "fix(consensus): [high] serve the replayed proposal after a restart",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3533",
-        "repo": "celestia-core",
-        "author": "rach-id",
-        "authorCategory": "coworker",
-        "reviewer": "ninabarbakadze",
-        "requestedAt": "2026-11-12T18:36:24Z"
-      },
-      {
-        "number": 3538,
-        "title": "fix(consensus): [high] keep a copy of the locked block while a height is stalled",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3538",
-        "repo": "celestia-core",
-        "author": "rach-id",
-        "authorCategory": "coworker",
-        "reviewer": "ninabarbakadze",
-        "requestedAt": "2026-11-12T18:36:24Z"
-      },
-      {
-        "number": 3661,
-        "title": "fix(propagation): [high] serve committed wants from the store when the cached entry is incomplete",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3661",
-        "repo": "celestia-core",
-        "author": "rach-id",
-        "authorCategory": "coworker",
-        "reviewer": "ninabarbakadze",
-        "requestedAt": "2026-11-12T18:36:24Z"
-      },
-      {
-        "number": 3662,
-        "title": "fix(propagation): [high] rely on request expiry for catch-up re-requests",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3662",
-        "repo": "celestia-core",
-        "author": "rach-id",
-        "authorCategory": "coworker",
-        "reviewer": "ninabarbakadze",
-        "requestedAt": "2026-11-12T18:36:24Z"
-      },
-      {
         "number": 3663,
         "title": "fix(consensus): [high] refetch a restored lock once, after replay",
         "url": "https://github.com/celestiaorg/celestia-core/pull/3663",
@@ -101,7 +61,7 @@
         "author": "rach-id",
         "authorCategory": "coworker",
         "reviewer": "ninabarbakadze",
-        "requestedAt": "2026-11-12T18:36:24Z"
+        "requestedAt": "2026-11-13T06:18:31Z"
       },
       {
         "number": 3665,
@@ -111,7 +71,7 @@
         "author": "rach-id",
         "authorCategory": "coworker",
         "reviewer": "ninabarbakadze",
-        "requestedAt": "2026-11-12T18:36:24Z"
+        "requestedAt": "2026-11-13T06:18:32Z"
       },
       {
         "number": 3666,
@@ -121,7 +81,7 @@
         "author": "rach-id",
         "authorCategory": "coworker",
         "reviewer": "ninabarbakadze",
-        "requestedAt": "2026-11-12T18:36:24Z"
+        "requestedAt": "2026-11-13T06:18:33Z"
       },
       {
         "number": 3667,
@@ -131,7 +91,7 @@
         "author": "rach-id",
         "authorCategory": "coworker",
         "reviewer": "ninabarbakadze",
-        "requestedAt": "2026-11-12T18:36:25Z"
+        "requestedAt": "2026-11-13T06:18:33Z"
       }
     ],
     "rach-id": [
@@ -166,14 +126,24 @@
         "requestedAt": "2026-11-12T16:49:13Z"
       },
       {
-        "number": 8561,
-        "title": "perf(fibre): [medium] hand the upload payload back when the last upload ends",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/8561",
-        "repo": "celestia-app",
-        "author": "walldiss",
+        "number": 3609,
+        "title": "fix(evidence): [high] admit one duplicate vote evidence per validator and height",
+        "url": "https://github.com/celestiaorg/celestia-core/pull/3609",
+        "repo": "celestia-core",
+        "author": "rootulp",
         "authorCategory": "coworker",
         "reviewer": "rach-id",
-        "requestedAt": "2026-11-12T16:52:56Z"
+        "requestedAt": "2026-11-13T01:01:43Z"
+      },
+      {
+        "number": 8603,
+        "title": "feat(encoding)!: [high] reject ambiguous tx encodings",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/8603",
+        "repo": "celestia-app",
+        "author": "rootulp",
+        "authorCategory": "coworker",
+        "reviewer": "rach-id",
+        "requestedAt": "2026-11-13T05:05:00Z"
       }
     ],
     "renaynay": [],
@@ -316,5 +286,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-11-13T01:16:36.880Z"
+  "fetchedAt": "2026-11-13T08:05:11.781Z"
 }
