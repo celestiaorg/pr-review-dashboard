@@ -4,16 +4,6 @@
     "pippokr": [],
     "ninabarbakadze": [
       {
-        "number": 3595,
-        "title": "fix(consensus): [high] require canonical proposal block encoding",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3595",
-        "repo": "celestia-core",
-        "author": "rootulp",
-        "authorCategory": "coworker",
-        "reviewer": "ninabarbakadze",
-        "requestedAt": "2026-11-04T22:56:26Z"
-      },
-      {
         "number": 3608,
         "title": "fix(blocksync): [high] count block responses only against requests made to the peer",
         "url": "https://github.com/celestiaorg/celestia-core/pull/3608",
@@ -22,6 +12,26 @@
         "authorCategory": "coworker",
         "reviewer": "ninabarbakadze",
         "requestedAt": "2026-11-11T04:36:08Z"
+      },
+      {
+        "number": 3678,
+        "title": "fix(statesync,p2p): [high] use non-blocking sends for replies in reactor Receive",
+        "url": "https://github.com/celestiaorg/celestia-core/pull/3678",
+        "repo": "celestia-core",
+        "author": "rootulp",
+        "authorCategory": "coworker",
+        "reviewer": "ninabarbakadze",
+        "requestedAt": "2026-11-13T16:22:08Z"
+      },
+      {
+        "number": 8605,
+        "title": "fix(app)!: [high] count ICA packet messages independently of channel encoding",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/8605",
+        "repo": "celestia-app",
+        "author": "rootulp",
+        "authorCategory": "coworker",
+        "reviewer": "ninabarbakadze",
+        "requestedAt": "2026-11-13T20:23:45Z"
       }
     ],
     "rach-id": [
@@ -44,6 +54,16 @@
         "authorCategory": "coworker",
         "reviewer": "rach-id",
         "requestedAt": "2026-11-12T16:49:13Z"
+      },
+      {
+        "number": 3608,
+        "title": "fix(blocksync): [high] count block responses only against requests made to the peer",
+        "url": "https://github.com/celestiaorg/celestia-core/pull/3608",
+        "repo": "celestia-core",
+        "author": "rootulp",
+        "authorCategory": "coworker",
+        "reviewer": "rach-id",
+        "requestedAt": "2026-11-13T20:26:26Z"
       }
     ],
     "renaynay": [],
@@ -77,26 +97,6 @@
         "authorCategory": "coworker",
         "reviewer": "rootulp",
         "requestedAt": "2026-11-12T16:52:56Z"
-      },
-      {
-        "number": 8370,
-        "title": "perf(app): [high] enable optimistic execution with blob-stripped speculative txs",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/8370",
-        "repo": "celestia-app",
-        "author": "rach-id",
-        "authorCategory": "coworker",
-        "reviewer": "rootulp",
-        "requestedAt": "2026-11-13T15:51:47Z"
-      },
-      {
-        "number": 8607,
-        "title": "fix(app): [high] write upgrade-info.json at Commit instead of EndBlocker",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/8607",
-        "repo": "celestia-app",
-        "author": "rach-id",
-        "authorCategory": "coworker",
-        "reviewer": "rootulp",
-        "requestedAt": "2026-11-13T15:54:42Z"
       }
     ],
     "vgonkivs": [
@@ -206,5 +206,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-11-13T16:11:16.904Z"
+  "fetchedAt": "2026-11-13T21:58:09.985Z"
 }
