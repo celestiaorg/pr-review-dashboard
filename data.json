@@ -4,6 +4,16 @@
     "pippokr": [],
     "ninabarbakadze": [
       {
+        "number": 3595,
+        "title": "fix(consensus): [high] require canonical proposal block encoding",
+        "url": "https://github.com/celestiaorg/celestia-core/pull/3595",
+        "repo": "celestia-core",
+        "author": "rootulp",
+        "authorCategory": "coworker",
+        "reviewer": "ninabarbakadze",
+        "requestedAt": "2026-11-04T22:56:26Z"
+      },
+      {
         "number": 3547,
         "title": "perf(mempool): [high] run recheck as a background pass after commit",
         "url": "https://github.com/celestiaorg/celestia-core/pull/3547",
@@ -14,14 +24,24 @@
         "requestedAt": "2026-11-09T15:48:24Z"
       },
       {
-        "number": 3611,
-        "title": "fix(propagation): [high] bound WantParts height/round and per-peer want state",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3611",
+        "number": 3606,
+        "title": "fix(mempool/cat): [high] only apply SeenTx metadata from the delivering peer",
+        "url": "https://github.com/celestiaorg/celestia-core/pull/3606",
         "repo": "celestia-core",
         "author": "rootulp",
         "authorCategory": "coworker",
         "reviewer": "ninabarbakadze",
-        "requestedAt": "2026-11-11T04:29:03Z"
+        "requestedAt": "2026-11-11T04:33:43Z"
+      },
+      {
+        "number": 3608,
+        "title": "fix(blocksync): [high] count block responses only against requests made to the peer",
+        "url": "https://github.com/celestiaorg/celestia-core/pull/3608",
+        "repo": "celestia-core",
+        "author": "rootulp",
+        "authorCategory": "coworker",
+        "reviewer": "ninabarbakadze",
+        "requestedAt": "2026-11-11T04:36:08Z"
       },
       {
         "number": 3531,
@@ -115,6 +135,16 @@
       }
     ],
     "rach-id": [
+      {
+        "number": 3595,
+        "title": "fix(consensus): [high] require canonical proposal block encoding",
+        "url": "https://github.com/celestiaorg/celestia-core/pull/3595",
+        "repo": "celestia-core",
+        "author": "rootulp",
+        "authorCategory": "coworker",
+        "reviewer": "rach-id",
+        "requestedAt": "2026-11-10T00:01:08Z"
+      },
       {
         "number": 8564,
         "title": "perf(fibre)!: [high] cut gateway memory and lift mixed-size throughput",
@@ -286,5 +316,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-11-12T20:24:54.326Z"
+  "fetchedAt": "2026-11-13T01:16:36.880Z"
 }
