@@ -64,26 +64,6 @@
         "authorCategory": "coworker",
         "reviewer": "rach-id",
         "requestedAt": "2026-11-12T16:49:13Z"
-      },
-      {
-        "number": 3608,
-        "title": "fix(blocksync): [high] count block responses only against requests made to the peer",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3608",
-        "repo": "celestia-core",
-        "author": "rootulp",
-        "authorCategory": "coworker",
-        "reviewer": "rach-id",
-        "requestedAt": "2026-11-13T20:26:26Z"
-      },
-      {
-        "number": 3685,
-        "title": "fix(consensus): [high] gate the canonical proposal encoding rule on app version 12",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3685",
-        "repo": "celestia-core",
-        "author": "rootulp",
-        "authorCategory": "coworker",
-        "reviewer": "rach-id",
-        "requestedAt": "2026-11-14T01:14:26Z"
       }
     ],
     "renaynay": [],
@@ -117,6 +97,16 @@
         "authorCategory": "coworker",
         "reviewer": "rootulp",
         "requestedAt": "2026-11-12T16:52:56Z"
+      },
+      {
+        "number": 8618,
+        "title": "feat!: [high] restrict accounts with exposed keys to a whitehat address from v11",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/8618",
+        "repo": "celestia-app",
+        "author": "rach-id",
+        "authorCategory": "coworker",
+        "reviewer": "rootulp",
+        "requestedAt": "2026-11-14T06:42:54Z"
       }
     ],
     "vgonkivs": [
@@ -226,5 +216,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-11-14T01:59:15.940Z"
+  "fetchedAt": "2026-11-14T08:46:07.705Z"
 }
