@@ -42,6 +42,26 @@
         "authorCategory": "coworker",
         "reviewer": "ninabarbakadze",
         "requestedAt": "2026-11-14T00:06:30Z"
+      },
+      {
+        "number": 3680,
+        "title": "fix(consensus): [high] journal our prevote before acting on an earlier prevote quorum",
+        "url": "https://github.com/celestiaorg/celestia-core/pull/3680",
+        "repo": "celestia-core",
+        "author": "rach-id",
+        "authorCategory": "coworker",
+        "reviewer": "ninabarbakadze",
+        "requestedAt": "2026-11-14T09:07:01Z"
+      },
+      {
+        "number": 3668,
+        "title": "fix(consensus): [high] keep an unlocked proposer's own block across restart",
+        "url": "https://github.com/celestiaorg/celestia-core/pull/3668",
+        "repo": "celestia-core",
+        "author": "rach-id",
+        "authorCategory": "coworker",
+        "reviewer": "ninabarbakadze",
+        "requestedAt": "2026-11-14T09:20:13Z"
       }
     ],
     "rach-id": [
@@ -216,5 +236,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-11-14T08:46:07.705Z"
+  "fetchedAt": "2026-11-14T15:21:36.971Z"
 }
