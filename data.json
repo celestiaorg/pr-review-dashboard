@@ -4,16 +4,6 @@
     "pippokr": [],
     "ninabarbakadze": [
       {
-        "number": 3608,
-        "title": "fix(blocksync): [high] count block responses only against requests made to the peer",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3608",
-        "repo": "celestia-core",
-        "author": "rootulp",
-        "authorCategory": "coworker",
-        "reviewer": "ninabarbakadze",
-        "requestedAt": "2026-11-11T04:36:08Z"
-      },
-      {
         "number": 3678,
         "title": "fix(statesync,p2p): [high] use non-blocking sends for replies in reactor Receive",
         "url": "https://github.com/celestiaorg/celestia-core/pull/3678",
@@ -117,16 +107,6 @@
         "authorCategory": "coworker",
         "reviewer": "rootulp",
         "requestedAt": "2026-11-12T16:52:56Z"
-      },
-      {
-        "number": 8618,
-        "title": "feat!: [high] restrict accounts with exposed keys to a whitehat address from v11",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/8618",
-        "repo": "celestia-app",
-        "author": "rach-id",
-        "authorCategory": "coworker",
-        "reviewer": "rootulp",
-        "requestedAt": "2026-11-14T06:42:54Z"
       }
     ],
     "vgonkivs": [
@@ -236,5 +216,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-11-14T15:21:36.971Z"
+  "fetchedAt": "2026-11-14T19:58:30.706Z"
 }
