@@ -141,16 +141,6 @@
         "requestedAt": "2026-11-12T16:16:35Z"
       },
       {
-        "number": 5410,
-        "title": "chore(deps): [high] support celestia-app v11 (emergency release from v10.x)",
-        "url": "https://github.com/celestiaorg/celestia-node/pull/5410",
-        "repo": "celestia-node",
-        "author": "rach-id",
-        "authorCategory": "coworker",
-        "reviewer": "vgonkivs",
-        "requestedAt": "2026-11-15T09:25:24Z"
-      },
-      {
         "number": 5190,
         "title": "fix(rpc/client): close namespace connections",
         "url": "https://github.com/celestiaorg/celestia-node/pull/5190",
@@ -236,5 +226,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-11-15T10:42:46.827Z"
+  "fetchedAt": "2026-11-15T17:24:37.650Z"
 }
