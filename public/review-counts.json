@@ -1,24 +1,24 @@
 {
   "counts": {
     "chatton": {
-      "week": 24,
+      "week": 0,
       "month": 38,
       "year": 374
     },
     "pippokr": {
-      "week": 31,
-      "month": 40,
-      "year": 391
+      "week": 0,
+      "month": 44,
+      "year": 395
     },
     "ninabarbakadze": {
-      "week": 43,
+      "week": 0,
       "month": 43,
       "year": 678
     },
     "rach-id": {
-      "week": 62,
-      "month": 70,
-      "year": 1235
+      "week": 0,
+      "month": 71,
+      "year": 1236
     },
     "renaynay": {
       "week": 0,
@@ -26,14 +26,14 @@
       "year": 130
     },
     "rootulp": {
-      "week": 103,
+      "week": 0,
       "month": 231,
       "year": 1101
     },
     "vgonkivs": {
-      "week": 10,
-      "month": 36,
-      "year": 427
+      "week": 0,
+      "month": 38,
+      "year": 429
     },
     "theodorebugnet": {
       "week": 0,
@@ -41,14 +41,14 @@
       "year": 7
     },
     "walldiss": {
-      "week": 12,
+      "week": 0,
       "month": 26,
       "year": 233
     }
   },
-  "computedAt": "2026-11-15T03:37:00.535Z",
+  "computedAt": "2026-11-16T03:36:14.702Z",
   "windows": {
-    "weekStart": "2026-11-09T00:00:00.000Z",
+    "weekStart": "2026-11-16T00:00:00.000Z",
     "monthStart": "2026-11-01T00:00:00.000Z",
     "yearStart": "2026-01-01T00:00:00.000Z"
   }
