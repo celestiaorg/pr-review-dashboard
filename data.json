@@ -4,36 +4,6 @@
     "pippokr": [],
     "ninabarbakadze": [
       {
-        "number": 3678,
-        "title": "fix(statesync,p2p): [high] use non-blocking sends for replies in reactor Receive",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3678",
-        "repo": "celestia-core",
-        "author": "rootulp",
-        "authorCategory": "coworker",
-        "reviewer": "ninabarbakadze",
-        "requestedAt": "2026-11-13T16:22:08Z"
-      },
-      {
-        "number": 8605,
-        "title": "fix(app)!: [high] count ICA packet messages independently of channel encoding",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/8605",
-        "repo": "celestia-app",
-        "author": "rootulp",
-        "authorCategory": "coworker",
-        "reviewer": "ninabarbakadze",
-        "requestedAt": "2026-11-13T20:23:45Z"
-      },
-      {
-        "number": 3684,
-        "title": "fix(p2p): [high] keep accepting connections after temporary accept errors",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3684",
-        "repo": "celestia-core",
-        "author": "rootulp",
-        "authorCategory": "coworker",
-        "reviewer": "ninabarbakadze",
-        "requestedAt": "2026-11-14T00:06:30Z"
-      },
-      {
         "number": 3680,
         "title": "fix(consensus): [high] journal our prevote before acting on an earlier prevote quorum",
         "url": "https://github.com/celestiaorg/celestia-core/pull/3680",
@@ -42,16 +12,6 @@
         "authorCategory": "coworker",
         "reviewer": "ninabarbakadze",
         "requestedAt": "2026-11-14T09:07:01Z"
-      },
-      {
-        "number": 3668,
-        "title": "fix(consensus): [high] keep an unlocked proposer's own block across restart",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3668",
-        "repo": "celestia-core",
-        "author": "rach-id",
-        "authorCategory": "coworker",
-        "reviewer": "ninabarbakadze",
-        "requestedAt": "2026-11-14T09:20:13Z"
       }
     ],
     "rach-id": [
@@ -64,70 +24,10 @@
         "authorCategory": "coworker",
         "reviewer": "rach-id",
         "requestedAt": "2026-11-16T06:31:28Z"
-      },
-      {
-        "number": 8564,
-        "title": "perf(fibre)!: [high] cut gateway memory and lift mixed-size throughput",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/8564",
-        "repo": "celestia-app",
-        "author": "walldiss",
-        "authorCategory": "coworker",
-        "reviewer": "rach-id",
-        "requestedAt": "2026-11-16T06:39:54Z"
       }
     ],
     "renaynay": [],
     "rootulp": [
-      {
-        "number": 8646,
-        "title": "feat!: [high] remove v11-only migration and account freeze for v12",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/8646",
-        "repo": "celestia-app",
-        "author": "rach-id",
-        "authorCategory": "coworker",
-        "reviewer": "rootulp",
-        "requestedAt": "2026-11-16T06:02:56Z"
-      },
-      {
-        "number": 8644,
-        "title": "feat!: [high] port Corto unbonding migration from v11.x",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/8644",
-        "repo": "celestia-app",
-        "author": "rach-id",
-        "authorCategory": "coworker",
-        "reviewer": "rootulp",
-        "requestedAt": "2026-11-16T06:03:23Z"
-      },
-      {
-        "number": 8643,
-        "title": "feat!: [high] port v11 account restrictions to main",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/8643",
-        "repo": "celestia-app",
-        "author": "rach-id",
-        "authorCategory": "coworker",
-        "reviewer": "rootulp",
-        "requestedAt": "2026-11-16T06:03:50Z"
-      },
-      {
-        "number": 447,
-        "title": "fix(p2p): keep peer score finite for sub-millisecond replies",
-        "url": "https://github.com/celestiaorg/go-header/pull/447",
-        "repo": "go-header",
-        "author": "walldiss",
-        "authorCategory": "coworker",
-        "reviewer": "rootulp",
-        "requestedAt": "2026-11-16T06:30:38Z"
-      },
-      {
-        "number": 5408,
-        "title": "fix(core): [high] guard core.Exchange range request against underflow",
-        "url": "https://github.com/celestiaorg/celestia-node/pull/5408",
-        "repo": "celestia-node",
-        "author": "walldiss",
-        "authorCategory": "coworker",
-        "reviewer": "rootulp",
-        "requestedAt": "2026-11-16T06:30:41Z"
-      },
       {
         "number": 8486,
         "title": "feat(fibre): [medium] optionally batch shards into one S3 object",
@@ -139,67 +39,27 @@
         "requestedAt": "2026-11-16T06:31:28Z"
       },
       {
-        "number": 8564,
-        "title": "perf(fibre)!: [high] cut gateway memory and lift mixed-size throughput",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/8564",
+        "number": 8664,
+        "title": "feat(hardfork): [high] delegation checks on the export",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/8664",
         "repo": "celestia-app",
-        "author": "walldiss",
+        "author": "vgonkivs",
         "authorCategory": "coworker",
         "reviewer": "rootulp",
-        "requestedAt": "2026-11-16T06:39:54Z"
+        "requestedAt": "2026-11-16T17:50:44Z"
       },
       {
-        "number": 8652,
-        "title": "feat!: [high] shorten Corto unbonding and upgrade scheduling",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/8652",
+        "number": 8665,
+        "title": " feat(export): [high] allow an export at the last height before a scheduled upgrade",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/8665",
         "repo": "celestia-app",
-        "author": "rach-id",
+        "author": "vgonkivs",
         "authorCategory": "coworker",
         "reviewer": "rootulp",
-        "requestedAt": "2026-11-16T06:47:36Z"
-      },
-      {
-        "number": 188,
-        "title": "fix(baseapp): [high] lock check state reads and /store queries against Commit",
-        "url": "https://github.com/celestiaorg/cosmos-sdk/pull/188",
-        "repo": "cosmos-sdk",
-        "author": "rach-id",
-        "authorCategory": "coworker",
-        "reviewer": "rootulp",
-        "requestedAt": "2026-11-16T06:49:54Z"
-      },
-      {
-        "number": 189,
-        "title": "fix(baseapp): [high] lock check state reads and /store queries against Commit (v0.52.x backport)",
-        "url": "https://github.com/celestiaorg/cosmos-sdk/pull/189",
-        "repo": "cosmos-sdk",
-        "author": "rach-id",
-        "authorCategory": "coworker",
-        "reviewer": "rootulp",
-        "requestedAt": "2026-11-16T06:59:33Z"
+        "requestedAt": "2026-11-16T17:54:41Z"
       }
     ],
     "vgonkivs": [
-      {
-        "number": 5408,
-        "title": "fix(core): [high] guard core.Exchange range request against underflow",
-        "url": "https://github.com/celestiaorg/celestia-node/pull/5408",
-        "repo": "celestia-node",
-        "author": "walldiss",
-        "authorCategory": "coworker",
-        "reviewer": "vgonkivs",
-        "requestedAt": "2026-11-12T16:14:57Z"
-      },
-      {
-        "number": 447,
-        "title": "fix(p2p): keep peer score finite for sub-millisecond replies",
-        "url": "https://github.com/celestiaorg/go-header/pull/447",
-        "repo": "go-header",
-        "author": "walldiss",
-        "authorCategory": "coworker",
-        "reviewer": "vgonkivs",
-        "requestedAt": "2026-11-12T16:16:35Z"
-      },
       {
         "number": 5190,
         "title": "fix(rpc/client): close namespace connections",
@@ -286,5 +146,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-11-16T08:30:58.730Z"
+  "fetchedAt": "2026-11-16T18:49:47.332Z"
 }
