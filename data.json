@@ -56,6 +56,16 @@
     ],
     "rach-id": [
       {
+        "number": 8486,
+        "title": "feat(fibre): [medium] optionally batch shards into one S3 object",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/8486",
+        "repo": "celestia-app",
+        "author": "walldiss",
+        "authorCategory": "coworker",
+        "reviewer": "rach-id",
+        "requestedAt": "2026-11-16T06:31:28Z"
+      },
+      {
         "number": 8564,
         "title": "perf(fibre)!: [high] cut gateway memory and lift mixed-size throughput",
         "url": "https://github.com/celestiaorg/celestia-app/pull/8564",
@@ -63,22 +73,72 @@
         "author": "walldiss",
         "authorCategory": "coworker",
         "reviewer": "rach-id",
-        "requestedAt": "2026-11-12T16:09:40Z"
-      },
-      {
-        "number": 8560,
-        "title": "fix(fibre): [high] keep upload rows alive until gRPC frees them",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/8560",
-        "repo": "celestia-app",
-        "author": "walldiss",
-        "authorCategory": "coworker",
-        "reviewer": "rach-id",
-        "requestedAt": "2026-11-12T16:49:13Z"
+        "requestedAt": "2026-11-16T06:39:54Z"
       }
     ],
     "renaynay": [],
     "rootulp": [
       {
+        "number": 8646,
+        "title": "feat!: [high] remove v11-only migration and account freeze for v12",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/8646",
+        "repo": "celestia-app",
+        "author": "rach-id",
+        "authorCategory": "coworker",
+        "reviewer": "rootulp",
+        "requestedAt": "2026-11-16T06:02:56Z"
+      },
+      {
+        "number": 8644,
+        "title": "feat!: [high] port Corto unbonding migration from v11.x",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/8644",
+        "repo": "celestia-app",
+        "author": "rach-id",
+        "authorCategory": "coworker",
+        "reviewer": "rootulp",
+        "requestedAt": "2026-11-16T06:03:23Z"
+      },
+      {
+        "number": 8643,
+        "title": "feat!: [high] port v11 account restrictions to main",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/8643",
+        "repo": "celestia-app",
+        "author": "rach-id",
+        "authorCategory": "coworker",
+        "reviewer": "rootulp",
+        "requestedAt": "2026-11-16T06:03:50Z"
+      },
+      {
+        "number": 447,
+        "title": "fix(p2p): keep peer score finite for sub-millisecond replies",
+        "url": "https://github.com/celestiaorg/go-header/pull/447",
+        "repo": "go-header",
+        "author": "walldiss",
+        "authorCategory": "coworker",
+        "reviewer": "rootulp",
+        "requestedAt": "2026-11-16T06:30:38Z"
+      },
+      {
+        "number": 5408,
+        "title": "fix(core): [high] guard core.Exchange range request against underflow",
+        "url": "https://github.com/celestiaorg/celestia-node/pull/5408",
+        "repo": "celestia-node",
+        "author": "walldiss",
+        "authorCategory": "coworker",
+        "reviewer": "rootulp",
+        "requestedAt": "2026-11-16T06:30:41Z"
+      },
+      {
+        "number": 8486,
+        "title": "feat(fibre): [medium] optionally batch shards into one S3 object",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/8486",
+        "repo": "celestia-app",
+        "author": "walldiss",
+        "authorCategory": "coworker",
+        "reviewer": "rootulp",
+        "requestedAt": "2026-11-16T06:31:28Z"
+      },
+      {
         "number": 8564,
         "title": "perf(fibre)!: [high] cut gateway memory and lift mixed-size throughput",
         "url": "https://github.com/celestiaorg/celestia-app/pull/8564",
@@ -86,37 +146,37 @@
         "author": "walldiss",
         "authorCategory": "coworker",
         "reviewer": "rootulp",
-        "requestedAt": "2026-11-12T16:09:40Z"
+        "requestedAt": "2026-11-16T06:39:54Z"
       },
       {
-        "number": 8560,
-        "title": "fix(fibre): [high] keep upload rows alive until gRPC frees them",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/8560",
-        "repo": "celestia-app",
-        "author": "walldiss",
-        "authorCategory": "coworker",
-        "reviewer": "rootulp",
-        "requestedAt": "2026-11-12T16:49:13Z"
-      },
-      {
-        "number": 8561,
-        "title": "perf(fibre): [medium] hand the upload payload back when the last upload ends",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/8561",
-        "repo": "celestia-app",
-        "author": "walldiss",
-        "authorCategory": "coworker",
-        "reviewer": "rootulp",
-        "requestedAt": "2026-11-12T16:52:56Z"
-      },
-      {
-        "number": 8640,
-        "title": "perf(cmd): [medium] raise the inter-block cache to 20,000 entries per store",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/8640",
+        "number": 8652,
+        "title": "feat!: [high] shorten Corto unbonding and upgrade scheduling",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/8652",
         "repo": "celestia-app",
         "author": "rach-id",
         "authorCategory": "coworker",
         "reviewer": "rootulp",
-        "requestedAt": "2026-11-15T06:52:31Z"
+        "requestedAt": "2026-11-16T06:47:36Z"
+      },
+      {
+        "number": 188,
+        "title": "fix(baseapp): [high] lock check state reads and /store queries against Commit",
+        "url": "https://github.com/celestiaorg/cosmos-sdk/pull/188",
+        "repo": "cosmos-sdk",
+        "author": "rach-id",
+        "authorCategory": "coworker",
+        "reviewer": "rootulp",
+        "requestedAt": "2026-11-16T06:49:54Z"
+      },
+      {
+        "number": 189,
+        "title": "fix(baseapp): [high] lock check state reads and /store queries against Commit (v0.52.x backport)",
+        "url": "https://github.com/celestiaorg/cosmos-sdk/pull/189",
+        "repo": "cosmos-sdk",
+        "author": "rach-id",
+        "authorCategory": "coworker",
+        "reviewer": "rootulp",
+        "requestedAt": "2026-11-16T06:59:33Z"
       }
     ],
     "vgonkivs": [
@@ -226,5 +286,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-11-16T01:32:11.756Z"
+  "fetchedAt": "2026-11-16T08:30:58.730Z"
 }
