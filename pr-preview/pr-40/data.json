@@ -1,0 +1,165 @@
+{
+  "reviews": {
+    "chatton": [],
+    "pippokr": [],
+    "damiannolan": [],
+    "ninabarbakadze": [
+      {
+        "number": 8605,
+        "title": "fix(app)!: [high] count ICA packet messages independently of channel encoding",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/8605",
+        "repo": "celestia-app",
+        "author": "rootulp",
+        "authorCategory": "coworker",
+        "reviewer": "ninabarbakadze",
+        "requestedAt": "2026-11-17T01:50:14Z"
+      },
+      {
+        "number": 8597,
+        "title": "fix(app): [high] bound nested messages in ICA packets and MsgExec at mempool admission (v10.x)",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/8597",
+        "repo": "celestia-app",
+        "author": "rootulp",
+        "authorCategory": "coworker",
+        "reviewer": "ninabarbakadze",
+        "requestedAt": "2026-11-17T04:52:31Z"
+      },
+      {
+        "number": 3676,
+        "title": "fix(mempool/cat): [high] give each peer a byte budget in the received-tx buffer",
+        "url": "https://github.com/celestiaorg/celestia-core/pull/3676",
+        "repo": "celestia-core",
+        "author": "rootulp",
+        "authorCategory": "coworker",
+        "reviewer": "ninabarbakadze",
+        "requestedAt": "2026-11-17T22:52:35Z"
+      }
+    ],
+    "rach-id": [
+      {
+        "number": 8486,
+        "title": "feat(fibre): [medium] optionally batch shards into one S3 object",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/8486",
+        "repo": "celestia-app",
+        "author": "walldiss",
+        "authorCategory": "coworker",
+        "reviewer": "rach-id",
+        "requestedAt": "2026-11-16T06:31:28Z"
+      },
+      {
+        "number": 8597,
+        "title": "fix(app): [high] bound nested messages in ICA packets and MsgExec at mempool admission (v10.x)",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/8597",
+        "repo": "celestia-app",
+        "author": "rootulp",
+        "authorCategory": "coworker",
+        "reviewer": "rach-id",
+        "requestedAt": "2026-11-17T22:46:31Z"
+      },
+      {
+        "number": 3676,
+        "title": "fix(mempool/cat): [high] give each peer a byte budget in the received-tx buffer",
+        "url": "https://github.com/celestiaorg/celestia-core/pull/3676",
+        "repo": "celestia-core",
+        "author": "rootulp",
+        "authorCategory": "coworker",
+        "reviewer": "rach-id",
+        "requestedAt": "2026-11-17T22:52:35Z"
+      }
+    ],
+    "renaynay": [],
+    "rootulp": [],
+    "vgonkivs": [
+      {
+        "number": 5190,
+        "title": "fix(rpc/client): close namespace connections",
+        "url": "https://github.com/celestiaorg/celestia-node/pull/5190",
+        "repo": "celestia-node",
+        "author": "neyy91",
+        "authorCategory": "external",
+        "reviewer": "vgonkivs",
+        "requestedAt": "2026-08-21T15:05:41Z"
+      },
+      {
+        "number": 5191,
+        "title": "fix(pruner): handle out-of-order header deletion callbacks",
+        "url": "https://github.com/celestiaorg/celestia-node/pull/5191",
+        "repo": "celestia-node",
+        "author": "neyy91",
+        "authorCategory": "external",
+        "reviewer": "vgonkivs",
+        "requestedAt": "2026-08-21T15:06:03Z"
+      }
+    ],
+    "theodorebugnet": [],
+    "walldiss": [
+      {
+        "number": 5404,
+        "title": "fix(store/file): [high] bound second-half axis reconstruction from ODS-only files",
+        "url": "https://github.com/celestiaorg/celestia-node/pull/5404",
+        "repo": "celestia-node",
+        "author": "vgonkivs",
+        "authorCategory": "coworker",
+        "reviewer": "walldiss",
+        "requestedAt": "2026-11-10T18:39:09Z"
+      }
+    ]
+  },
+  "teamMembers": [
+    {
+      "name": "Cian",
+      "github": "chatton",
+      "defaultHidden": false
+    },
+    {
+      "name": "Cris",
+      "github": "pippokr",
+      "defaultHidden": false
+    },
+    {
+      "name": "Damian",
+      "github": "damiannolan",
+      "defaultHidden": false
+    },
+    {
+      "name": "Nina",
+      "github": "ninabarbakadze",
+      "defaultHidden": false
+    },
+    {
+      "name": "Rachid",
+      "github": "rach-id",
+      "defaultHidden": false
+    },
+    {
+      "name": "Rene",
+      "github": "renaynay",
+      "defaultHidden": false
+    },
+    {
+      "name": "Rootul",
+      "github": "rootulp",
+      "defaultHidden": false
+    },
+    {
+      "name": "Slava",
+      "github": "vgonkivs",
+      "defaultHidden": false
+    },
+    {
+      "name": "Theodore",
+      "github": "theodorebugnet",
+      "defaultHidden": false
+    },
+    {
+      "name": "Vlad",
+      "github": "walldiss",
+      "defaultHidden": false
+    }
+  ],
+  "thresholds": {
+    "greenMaxHours": 12,
+    "yellowMaxHours": 24
+  },
+  "fetchedAt": "2026-11-17T23:36:01.172Z"
+}
