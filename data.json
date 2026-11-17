@@ -2,67 +2,8 @@
   "reviews": {
     "chatton": [],
     "pippokr": [],
+    "damiannolan": [],
     "ninabarbakadze": [
-      {
-        "number": 3609,
-        "title": "fix(evidence): [high] admit one duplicate vote evidence per validator and height",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3609",
-        "repo": "celestia-core",
-        "author": "rootulp",
-        "authorCategory": "coworker",
-        "reviewer": "ninabarbakadze",
-        "requestedAt": "2026-11-11T04:31:44Z"
-      },
-      {
-        "number": 3606,
-        "title": "fix(mempool/cat): [high] only apply SeenTx metadata from the delivering peer",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3606",
-        "repo": "celestia-core",
-        "author": "rootulp",
-        "authorCategory": "coworker",
-        "reviewer": "ninabarbakadze",
-        "requestedAt": "2026-11-11T04:33:43Z"
-      },
-      {
-        "number": 3680,
-        "title": "fix(consensus): [high] journal our prevote before acting on an earlier prevote quorum",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3680",
-        "repo": "celestia-core",
-        "author": "rach-id",
-        "authorCategory": "coworker",
-        "reviewer": "ninabarbakadze",
-        "requestedAt": "2026-11-14T09:07:01Z"
-      },
-      {
-        "number": 3692,
-        "title": "fix(blocksync): [high] count block responses only against requests made to the peer (backport #3608)",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3692",
-        "repo": "celestia-core",
-        "author": "rootulp",
-        "authorCategory": "coworker",
-        "reviewer": "ninabarbakadze",
-        "requestedAt": "2026-11-16T21:56:57Z"
-      },
-      {
-        "number": 3684,
-        "title": "fix(p2p): [high] keep accepting connections after temporary accept errors",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3684",
-        "repo": "celestia-core",
-        "author": "rootulp",
-        "authorCategory": "coworker",
-        "reviewer": "ninabarbakadze",
-        "requestedAt": "2026-11-16T22:12:03Z"
-      },
-      {
-        "number": 8628,
-        "title": "fix(app): [high] reject non-deterministic packet-forward memos at mempool admission (v10.x)",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/8628",
-        "repo": "celestia-app",
-        "author": "rootulp",
-        "authorCategory": "coworker",
-        "reviewer": "ninabarbakadze",
-        "requestedAt": "2026-11-17T01:48:56Z"
-      },
       {
         "number": 8605,
         "title": "fix(app)!: [high] count ICA packet messages independently of channel encoding",
@@ -86,16 +27,6 @@
     ],
     "rach-id": [
       {
-        "number": 3609,
-        "title": "fix(evidence): [high] admit one duplicate vote evidence per validator and height",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3609",
-        "repo": "celestia-core",
-        "author": "rootulp",
-        "authorCategory": "coworker",
-        "reviewer": "rach-id",
-        "requestedAt": "2026-11-13T11:07:53Z"
-      },
-      {
         "number": 8486,
         "title": "feat(fibre): [medium] optionally batch shards into one S3 object",
         "url": "https://github.com/celestiaorg/celestia-app/pull/8486",
@@ -106,28 +37,29 @@
         "requestedAt": "2026-11-16T06:31:28Z"
       },
       {
-        "number": 3606,
-        "title": "fix(mempool/cat): [high] only apply SeenTx metadata from the delivering peer",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3606",
-        "repo": "celestia-core",
-        "author": "rootulp",
-        "authorCategory": "coworker",
-        "reviewer": "rach-id",
-        "requestedAt": "2026-11-16T22:02:07Z"
-      },
-      {
-        "number": 8628,
-        "title": "fix(app): [high] reject non-deterministic packet-forward memos at mempool admission (v10.x)",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/8628",
+        "number": 8671,
+        "title": "docs(hardfork): [high] incident runbook: confirm a halt and choose the recovery tool",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/8671",
         "repo": "celestia-app",
-        "author": "rootulp",
+        "author": "vgonkivs",
         "authorCategory": "coworker",
         "reviewer": "rach-id",
-        "requestedAt": "2026-11-17T01:48:56Z"
+        "requestedAt": "2026-11-17T16:37:22Z"
       }
     ],
     "renaynay": [],
-    "rootulp": [],
+    "rootulp": [
+      {
+        "number": 8671,
+        "title": "docs(hardfork): [high] incident runbook: confirm a halt and choose the recovery tool",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/8671",
+        "repo": "celestia-app",
+        "author": "vgonkivs",
+        "authorCategory": "coworker",
+        "reviewer": "rootulp",
+        "requestedAt": "2026-11-17T13:24:54Z"
+      }
+    ],
     "vgonkivs": [
       {
         "number": 5190,
@@ -176,6 +108,11 @@
       "defaultHidden": false
     },
     {
+      "name": "Damian",
+      "github": "damiannolan",
+      "defaultHidden": false
+    },
+    {
       "name": "Nina",
       "github": "ninabarbakadze",
       "defaultHidden": false
@@ -215,5 +152,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-11-17T10:37:42.660Z"
+  "fetchedAt": "2026-11-17T16:46:48.608Z"
 }
