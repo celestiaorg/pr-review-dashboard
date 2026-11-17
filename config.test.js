@@ -14,6 +14,14 @@ describe("teamMembers", () => {
     }
   });
 
+  test("includes Damian", () => {
+    expect(config.teamMembers).toContainEqual({
+      name: "Damian",
+      github: "damiannolan",
+      defaultHidden: false,
+    });
+  });
+
   test("members are sorted alphabetically by name", () => {
     const names = config.teamMembers.map((member) => member.name);
     expect(names).toEqual([...names].sort());
