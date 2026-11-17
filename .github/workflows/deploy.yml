@@ -2,7 +2,7 @@ name: Deploy PR Review Dashboard
 
 # GitHub creates `schedule` events for this repo only a few times a day, so a
 # cron cannot keep the dashboard fresh. Instead one long-running job refreshes
-# and publishes every 6 minutes for 5.5 hours (scripts/refresh-loop.js), then
+# and publishes every 5 minutes for 5.5 hours (scripts/refresh-loop.js), then
 # dispatches its successor. The cron is only a watchdog that restarts the loop
 # if it dies.
 on:
@@ -55,7 +55,7 @@ jobs:
 
       - run: npm ci
 
-      - name: Fetch and publish every 6 minutes
+      - name: Fetch and publish every 5 minutes
         id: loop
         env:
           GITHUB_TOKEN: ${{ secrets.REVIEW_DASHBOARD_TOKEN || secrets.GITHUB_TOKEN }}

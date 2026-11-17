@@ -359,7 +359,7 @@
   function updatePendingFreshness(fetchedAt) {
     const el = document.getElementById("pending-freshness");
     const time = new Date(fetchedAt).toLocaleTimeString();
-    el.textContent = `Updated every 6 minutes · last refreshed ${time}`;
+    el.textContent = `Updated every 5 minutes · last refreshed ${time}`;
   }
 
   // GitHub Pages serves these files with a 10-minute cache. Bypass the browser

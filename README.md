@@ -65,7 +65,7 @@ To change the default-hidden members, set `defaultHidden: true` on their entry. 
 
 The dashboard is deployed to GitHub Pages via [`.github/workflows/deploy.yml`](./.github/workflows/deploy.yml):
 
-- One long-running job ([`scripts/refresh-loop.js`](./scripts/refresh-loop.js)) refreshes the data every 6 minutes for about 5.5 hours, then starts its successor with `gh workflow run`. GitHub runs this repo's `schedule` events only a few times a day, so a plain cron cannot keep the data fresh.
+- One long-running job ([`scripts/refresh-loop.js`](./scripts/refresh-loop.js)) refreshes the data every 5 minutes for about 5.5 hours, then starts its successor with `gh workflow run`. GitHub runs this repo's `schedule` events only a few times a day, so a plain cron cannot keep the data fresh.
 - Each refresh pulls the latest daily review data from `main`, fetches PR data using `REVIEW_DASHBOARD_TOKEN` if that secret is set (otherwise the default `GITHUB_TOKEN`), and adds a commit with `public/` to the `gh-pages` branch ([`scripts/publish-gh-pages.js`](./scripts/publish-gh-pages.js)). PR previews under `pr-preview/` are kept.
 - One failed refresh is logged and skipped. Three failures in a row fail the job, and the next loop starts.
 - A push to `main` or a manual dispatch replaces the running loop, so new code goes live at once. An hourly cron is a watchdog: it starts a loop only if none is running.
@@ -94,7 +94,7 @@ Actions run rather than failing the deploy, so the rest of the dashboard keeps
 updating. Fine-grained PATs expire — if private repos vanish from the dashboard,
 check the deploy run's annotations first.
 
-A second workflow ([`.github/workflows/fetch-review-data.yml`](./.github/workflows/fetch-review-data.yml)) runs daily at 00:00 UTC to regenerate `public/review-counts.json` and `public/review-latencies.json` (committed to the repo). Its commit does not start a deploy run (pushes made with `GITHUB_TOKEN` do not trigger workflows), so the refresh loop pulls these files from `main` on each refresh and publishes them within about 6 minutes.
+A second workflow ([`.github/workflows/fetch-review-data.yml`](./.github/workflows/fetch-review-data.yml)) runs daily at 00:00 UTC to regenerate `public/review-counts.json` and `public/review-latencies.json` (committed to the repo). Its commit does not start a deploy run (pushes made with `GITHUB_TOKEN` do not trigger workflows), so the refresh loop pulls these files from `main` on each refresh and publishes them within about 5 minutes.
 
 ### PR previews
 

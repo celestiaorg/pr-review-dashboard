@@ -131,7 +131,7 @@ describe("runLoop", () => {
 describe("readConfig", () => {
   test("uses the production defaults when no env vars are set", () => {
     expect(readConfig({})).toEqual({
-      intervalMs: 6 * 60 * 1000,
+      intervalMs: 5 * 60 * 1000,
       durationMs: 330 * 60 * 1000,
       maxConsecutiveFailures: 3,
       stepTimeoutMs: 2 * 60 * 1000,
