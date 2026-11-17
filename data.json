@@ -35,31 +35,10 @@
         "authorCategory": "coworker",
         "reviewer": "rach-id",
         "requestedAt": "2026-11-16T06:31:28Z"
-      },
-      {
-        "number": 8671,
-        "title": "docs(hardfork): [high] incident runbook: confirm a halt and choose the recovery tool",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/8671",
-        "repo": "celestia-app",
-        "author": "vgonkivs",
-        "authorCategory": "coworker",
-        "reviewer": "rach-id",
-        "requestedAt": "2026-11-17T16:37:22Z"
       }
     ],
     "renaynay": [],
-    "rootulp": [
-      {
-        "number": 8671,
-        "title": "docs(hardfork): [high] incident runbook: confirm a halt and choose the recovery tool",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/8671",
-        "repo": "celestia-app",
-        "author": "vgonkivs",
-        "authorCategory": "coworker",
-        "reviewer": "rootulp",
-        "requestedAt": "2026-11-17T13:24:54Z"
-      }
-    ],
+    "rootulp": [],
     "vgonkivs": [
       {
         "number": 5190,
@@ -152,5 +131,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-11-17T16:46:48.608Z"
+  "fetchedAt": "2026-11-17T19:21:22.418Z"
 }
