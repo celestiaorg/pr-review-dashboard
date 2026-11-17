@@ -362,12 +362,18 @@
     el.textContent = `Updated every 5 minutes · last refreshed ${time}`;
   }
 
+  // GitHub Pages serves these files with a 10-minute cache. Bypass the browser
+  // cache and use a fresh URL so the CDN cache does not hide new data.
+  function fetchFresh(path) {
+    return fetch(`${path}?t=${Date.now()}`, { cache: "no-store" });
+  }
+
   async function fetchAndRenderPending() {
     const loading = document.getElementById("loading");
     const errorEl = document.getElementById("error");
 
     try {
-      const response = await fetch("data.json");
+      const response = await fetchFresh("data.json");
       if (!response.ok) throw new Error(`HTTP ${response.status}`);
 
       const data = await response.json();
@@ -399,7 +405,7 @@
   async function fetchAndRenderReviewCounts() {
     const errorEl = document.getElementById("review-counts-error");
     try {
-      const response = await fetch("review-counts.json");
+      const response = await fetchFresh("review-counts.json");
       if (!response.ok) throw new Error(`HTTP ${response.status}`);
       const data = await response.json();
       errorEl.style.display = "none";
@@ -416,7 +422,7 @@
   async function fetchAndRenderReviewLatencies() {
     const errorEl = document.getElementById("review-latencies-error");
     try {
-      const response = await fetch("review-latencies.json");
+      const response = await fetchFresh("review-latencies.json");
       if (!response.ok) throw new Error(`HTTP ${response.status}`);
       const data = await response.json();
       errorEl.style.display = "none";
@@ -445,7 +451,7 @@
     const el = document.getElementById("build-info");
     if (!el) return;
     try {
-      const response = await fetch("build-info.json");
+      const response = await fetchFresh("build-info.json");
       if (!response.ok) return;
       const data = await response.json();
       if (!data || typeof data.sha !== "string" || typeof data.repo !== "string") return;
