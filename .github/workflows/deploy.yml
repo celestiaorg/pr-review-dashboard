@@ -1,22 +1,50 @@
 name: Deploy PR Review Dashboard
 
+# GitHub creates `schedule` events for this repo only a few times a day, so a
+# cron cannot keep the dashboard fresh. Instead one long-running job refreshes
+# and publishes every 5 minutes for 5.5 hours (scripts/refresh-loop.js), then
+# dispatches its successor. The cron is only a watchdog that restarts the loop
+# if it dies.
 on:
   schedule:
-    - cron: "*/5 * * * *"
+    - cron: "17 * * * *"
   workflow_dispatch:
+    inputs:
+      successor:
+        description: "Set by the loop when it hands over; leave false to restart the loop now."
+        type: boolean
+        default: false
   push:
     branches: [main]
 
 permissions:
   contents: write
+  actions: write
 
+# One group, so at most one loop runs. A new run in the group either replaces
+# the running loop (cancel-in-progress) or waits as the one pending run; a
+# newer pending run replaces an older pending one.
+# - Push to main, or a manual dispatch: cancel the loop and start a new one on
+#   the new code.
+# - Cron while a loop runs: wait as a pending standby. It does not stack a
+#   second loop. If the loop dies, the standby starts at once; if the loop
+#   ends normally, its successor replaces the standby.
+# - Successor (successor=true): does not cancel. It waits until the run that
+#   dispatched it ends, then starts. That run is in its last step, so there is
+#   no deadlock.
+# - No loop at all (outage): the next cron starts one.
+# The daily review data is committed to main with GITHUB_TOKEN, which does
+# not start a push run, so each iteration pulls those files from main.
 concurrency:
   group: pages
-  cancel-in-progress: false
+  cancel-in-progress: ${{ github.event_name == 'push' || (github.event_name == 'workflow_dispatch' && !inputs.successor) }}
 
 jobs:
-  build-and-deploy:
+  refresh-loop:
     runs-on: ubuntu-latest
+    # Under the 6 h job limit: 330 min loop + at most one 10 min iteration
+    # + setup.
+    timeout-minutes: 355
     steps:
       - uses: actions/checkout@v6
 
@@ -27,19 +55,17 @@ jobs:
 
       - run: npm ci
 
-      - name: Fetch PR review data
+      - name: Fetch and publish every 5 minutes
+        id: loop
         env:
           GITHUB_TOKEN: ${{ secrets.REVIEW_DASHBOARD_TOKEN || secrets.GITHUB_TOKEN }}
-        run: node scripts/fetch-data.js
+        run: node scripts/refresh-loop.js
 
-      - name: Write build info
+      # Also after a failed loop (3 failed iterations in a row), so the next
+      # run retries without waiting for the cron. Not after a cancel (a newer
+      # run took over) or if setup failed (avoids a tight dispatch loop).
+      - name: Dispatch the next loop
+        if: ${{ !cancelled() && (steps.loop.outcome == 'success' || steps.loop.outcome == 'failure') }}
         env:
-          GITHUB_SHA: ${{ github.sha }}
-          GITHUB_REPOSITORY: ${{ github.repository }}
-        run: node scripts/write-build-info.js
-
-      - uses: JamesIves/github-pages-deploy-action@v4
-        with:
-          branch: gh-pages
-          folder: public
-          clean-exclude: pr-preview
+          GH_TOKEN: ${{ github.token }}
+        run: gh workflow run deploy.yml --repo "$GITHUB_REPOSITORY" --ref main -f successor=true
