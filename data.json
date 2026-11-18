@@ -44,6 +44,16 @@
         "authorCategory": "coworker",
         "reviewer": "ninabarbakadze",
         "requestedAt": "2026-11-17T22:52:35Z"
+      },
+      {
+        "number": 3684,
+        "title": "fix(p2p): [high] keep accepting connections after temporary accept errors",
+        "url": "https://github.com/celestiaorg/celestia-core/pull/3684",
+        "repo": "celestia-core",
+        "author": "rootulp",
+        "authorCategory": "coworker",
+        "reviewer": "ninabarbakadze",
+        "requestedAt": "2026-11-18T04:31:13Z"
       }
     ],
     "rach-id": [
@@ -172,5 +182,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-11-18T04:30:17.090Z"
+  "fetchedAt": "2026-11-18T04:35:17.241Z"
 }
