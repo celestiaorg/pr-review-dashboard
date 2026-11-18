@@ -239,6 +239,16 @@
         "authorCategory": "coworker",
         "reviewer": "rootulp",
         "requestedAt": "2026-11-18T07:48:43Z"
+      },
+      {
+        "number": 8690,
+        "title": "perf(fibre): [medium] prune processed payments from the last pruned creation time",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/8690",
+        "repo": "celestia-app",
+        "author": "rach-id",
+        "authorCategory": "coworker",
+        "reviewer": "rootulp",
+        "requestedAt": "2026-11-18T07:51:01Z"
       }
     ],
     "vgonkivs": [
@@ -333,5 +343,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-11-18T07:50:48.050Z"
+  "fetchedAt": "2026-11-18T07:55:48.187Z"
 }
