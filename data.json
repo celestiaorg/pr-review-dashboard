@@ -4,18 +4,7 @@
     "pippokr": [],
     "damiannolan": [],
     "ninabarbakadze": [],
-    "rach-id": [
-      {
-        "number": 205,
-        "title": "fix(distribution): [high] keep the first block's fees of a chain that starts above height 1",
-        "url": "https://github.com/celestiaorg/cosmos-sdk/pull/205",
-        "repo": "cosmos-sdk",
-        "author": "vgonkivs",
-        "authorCategory": "coworker",
-        "reviewer": "rach-id",
-        "requestedAt": "2026-11-18T17:36:49Z"
-      }
-    ],
+    "rach-id": [],
     "renaynay": [],
     "rootulp": [
       {
@@ -151,5 +140,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-11-18T18:36:31.074Z"
+  "fetchedAt": "2026-11-18T18:41:31.111Z"
 }
