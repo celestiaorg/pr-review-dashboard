@@ -198,16 +198,6 @@
         "requestedAt": "2026-11-16T06:31:28Z"
       },
       {
-        "number": 3704,
-        "title": "test(e2e): [low] inject duplicate vote evidence for distinct validator and height pairs",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3704",
-        "repo": "celestia-core",
-        "author": "rootulp",
-        "authorCategory": "coworker",
-        "reviewer": "rach-id",
-        "requestedAt": "2026-11-18T04:36:25Z"
-      },
-      {
         "number": 3705,
         "title": "fix(evidence): [high] commit evidence in one write and drop committed leftovers on restart",
         "url": "https://github.com/celestiaorg/celestia-core/pull/3705",
@@ -442,5 +432,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-11-18T05:55:46.774Z"
+  "fetchedAt": "2026-11-18T06:00:47.046Z"
 }
