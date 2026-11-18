@@ -5,36 +5,6 @@
     "damiannolan": [],
     "ninabarbakadze": [
       {
-        "number": 3705,
-        "title": "fix(evidence): [high] commit evidence in one write and drop committed leftovers on restart",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3705",
-        "repo": "celestia-core",
-        "author": "rootulp",
-        "authorCategory": "coworker",
-        "reviewer": "ninabarbakadze",
-        "requestedAt": "2026-11-18T04:36:27Z"
-      },
-      {
-        "number": 3706,
-        "title": "fix(evidence): [high] keep one pending duplicate vote evidence per validator and height",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3706",
-        "repo": "celestia-core",
-        "author": "rootulp",
-        "authorCategory": "coworker",
-        "reviewer": "ninabarbakadze",
-        "requestedAt": "2026-11-18T04:36:29Z"
-      },
-      {
-        "number": 3707,
-        "title": "fix(evidence): [high] record committed duplicate vote evidence per validator and height",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3707",
-        "repo": "celestia-core",
-        "author": "rootulp",
-        "authorCategory": "coworker",
-        "reviewer": "ninabarbakadze",
-        "requestedAt": "2026-11-18T04:36:31Z"
-      },
-      {
         "number": 3708,
         "title": "refactor(mempool): [medium] queue SeenTx claims as their own objects",
         "url": "https://github.com/celestiaorg/celestia-core/pull/3708",
@@ -312,5 +282,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-11-18T12:56:09.114Z"
+  "fetchedAt": "2026-11-18T13:01:08.979Z"
 }
