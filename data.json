@@ -198,26 +198,6 @@
         "requestedAt": "2026-11-16T06:31:28Z"
       },
       {
-        "number": 3710,
-        "title": "fix(mempool): [high] judge a delivery only by its sender's SeenTx claim",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3710",
-        "repo": "celestia-core",
-        "author": "rootulp",
-        "authorCategory": "coworker",
-        "reviewer": "rach-id",
-        "requestedAt": "2026-11-18T04:36:36Z"
-      },
-      {
-        "number": 3711,
-        "title": "fix(mempool): [high] keep each peer's SeenTx claim separate",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3711",
-        "repo": "celestia-core",
-        "author": "rootulp",
-        "authorCategory": "coworker",
-        "reviewer": "rach-id",
-        "requestedAt": "2026-11-18T04:36:38Z"
-      },
-      {
         "number": 3631,
         "title": "fix(consensus): [high] re-propose ValidBlock with the parts that got the polka",
         "url": "https://github.com/celestiaorg/celestia-core/pull/3631",
@@ -382,5 +362,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-11-18T06:25:47.666Z"
+  "fetchedAt": "2026-11-18T06:30:46.981Z"
 }
