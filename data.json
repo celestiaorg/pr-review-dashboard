@@ -4,38 +4,7 @@
     "pippokr": [],
     "damiannolan": [],
     "ninabarbakadze": [],
-    "rach-id": [
-      {
-        "number": 8486,
-        "title": "feat(fibre): [medium] optionally batch shards into one S3 object",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/8486",
-        "repo": "celestia-app",
-        "author": "walldiss",
-        "authorCategory": "coworker",
-        "reviewer": "rach-id",
-        "requestedAt": "2026-11-16T06:31:28Z"
-      },
-      {
-        "number": 3723,
-        "title": "fix(consensus/propagation): [high] follow Block.MaxBytes changes without restart (backport #3677)",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3723",
-        "repo": "celestia-core",
-        "author": "rootulp",
-        "authorCategory": "coworker",
-        "reviewer": "rach-id",
-        "requestedAt": "2026-11-18T14:46:43Z"
-      },
-      {
-        "number": 8709,
-        "title": "chore(hardfork): [low] fixes from the recovery drills and a talis drill helper",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/8709",
-        "repo": "celestia-app",
-        "author": "vgonkivs",
-        "authorCategory": "coworker",
-        "reviewer": "rach-id",
-        "requestedAt": "2026-11-18T15:48:13Z"
-      }
-    ],
+    "rach-id": [],
     "renaynay": [],
     "rootulp": [
       {
@@ -171,5 +140,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-11-18T16:06:29.399Z"
+  "fetchedAt": "2026-11-18T16:11:29.489Z"
 }
