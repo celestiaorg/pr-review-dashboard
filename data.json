@@ -46,16 +46,6 @@
         "requestedAt": "2026-11-17T22:52:35Z"
       },
       {
-        "number": 3684,
-        "title": "fix(p2p): [high] keep accepting connections after temporary accept errors",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3684",
-        "repo": "celestia-core",
-        "author": "rootulp",
-        "authorCategory": "coworker",
-        "reviewer": "ninabarbakadze",
-        "requestedAt": "2026-11-18T04:31:13Z"
-      },
-      {
         "number": 3704,
         "title": "test(e2e): [low] inject duplicate vote evidence for distinct validator and height pairs",
         "url": "https://github.com/celestiaorg/celestia-core/pull/3704",
@@ -174,16 +164,6 @@
         "authorCategory": "coworker",
         "reviewer": "ninabarbakadze",
         "requestedAt": "2026-11-18T04:36:44Z"
-      },
-      {
-        "number": 3678,
-        "title": "fix(statesync,p2p): [high] use non-blocking sends for replies in reactor Receive",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3678",
-        "repo": "celestia-core",
-        "author": "rootulp",
-        "authorCategory": "coworker",
-        "reviewer": "ninabarbakadze",
-        "requestedAt": "2026-11-18T04:43:17Z"
       }
     ],
     "rach-id": [
@@ -196,16 +176,6 @@
         "authorCategory": "coworker",
         "reviewer": "rach-id",
         "requestedAt": "2026-11-16T06:31:28Z"
-      },
-      {
-        "number": 3678,
-        "title": "fix(statesync,p2p): [high] use non-blocking sends for replies in reactor Receive",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3678",
-        "repo": "celestia-core",
-        "author": "rootulp",
-        "authorCategory": "coworker",
-        "reviewer": "rach-id",
-        "requestedAt": "2026-11-18T04:43:18Z"
       },
       {
         "number": 8605,
@@ -373,5 +343,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-11-18T08:25:48.883Z"
+  "fetchedAt": "2026-11-18T08:30:48.525Z"
 }
