@@ -85,6 +85,26 @@
         "authorCategory": "coworker",
         "reviewer": "rach-id",
         "requestedAt": "2026-11-18T13:21:55Z"
+      },
+      {
+        "number": 199,
+        "title": "fix(staking)!: [high] keep unbonding IDs across a genesis export and import",
+        "url": "https://github.com/celestiaorg/cosmos-sdk/pull/199",
+        "repo": "cosmos-sdk",
+        "author": "vgonkivs",
+        "authorCategory": "coworker",
+        "reviewer": "rach-id",
+        "requestedAt": "2026-11-18T13:44:03Z"
+      },
+      {
+        "number": 8706,
+        "title": "test: [medium] e2e for an IBC client right before a restart, and the trusted height it needs",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/8706",
+        "repo": "celestia-app",
+        "author": "vgonkivs",
+        "authorCategory": "coworker",
+        "reviewer": "rach-id",
+        "requestedAt": "2026-11-18T13:45:39Z"
       }
     ],
     "renaynay": [],
@@ -272,5 +292,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-11-18T13:41:10.696Z"
+  "fetchedAt": "2026-11-18T13:46:10.161Z"
 }
