@@ -249,6 +249,16 @@
         "authorCategory": "coworker",
         "reviewer": "rootulp",
         "requestedAt": "2026-11-18T07:51:01Z"
+      },
+      {
+        "number": 3713,
+        "title": "perf(crypto/merkle): [high] hash leaves without copying them",
+        "url": "https://github.com/celestiaorg/celestia-core/pull/3713",
+        "repo": "celestia-core",
+        "author": "rach-id",
+        "authorCategory": "coworker",
+        "reviewer": "rootulp",
+        "requestedAt": "2026-11-18T08:00:13Z"
       }
     ],
     "vgonkivs": [
@@ -343,5 +353,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-11-18T07:55:48.187Z"
+  "fetchedAt": "2026-11-18T08:00:48.518Z"
 }
