@@ -16,26 +16,6 @@
         "requestedAt": "2026-11-16T06:31:28Z"
       },
       {
-        "number": 3739,
-        "title": "fix(statesync): [high] track the next chunk to allocate and return",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3739",
-        "repo": "celestia-core",
-        "author": "ninabarbakadze",
-        "authorCategory": "coworker",
-        "reviewer": "rach-id",
-        "requestedAt": "2026-11-18T13:21:09Z"
-      },
-      {
-        "number": 3738,
-        "title": "fix(consensus): [high] stay in the commit step when a later round gets a quorum",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3738",
-        "repo": "celestia-core",
-        "author": "ninabarbakadze",
-        "authorCategory": "coworker",
-        "reviewer": "rach-id",
-        "requestedAt": "2026-11-18T14:19:17Z"
-      },
-      {
         "number": 3744,
         "title": "fix(p2p/pex): [high] use the socket address as the address book source",
         "url": "https://github.com/celestiaorg/celestia-core/pull/3744",
@@ -44,16 +24,6 @@
         "authorCategory": "coworker",
         "reviewer": "rach-id",
         "requestedAt": "2026-11-18T14:41:25Z"
-      },
-      {
-        "number": 8697,
-        "title": "test(app): [low] fuzz the combined ICA packet count against the host decoder",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/8697",
-        "repo": "celestia-app",
-        "author": "rootulp",
-        "authorCategory": "coworker",
-        "reviewer": "rach-id",
-        "requestedAt": "2026-11-18T14:43:54Z"
       },
       {
         "number": 3745,
@@ -251,5 +221,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-11-18T15:01:11.699Z"
+  "fetchedAt": "2026-11-18T15:06:11.299Z"
 }
