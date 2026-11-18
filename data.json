@@ -218,6 +218,26 @@
         "authorCategory": "coworker",
         "reviewer": "rootulp",
         "requestedAt": "2026-11-18T08:04:42Z"
+      },
+      {
+        "number": 360,
+        "title": "fix: [high] include the last row in GetSubrootPaths",
+        "url": "https://github.com/celestiaorg/nmt/pull/360",
+        "repo": "nmt",
+        "author": "ninabarbakadze",
+        "authorCategory": "coworker",
+        "reviewer": "rootulp",
+        "requestedAt": "2026-11-18T11:42:32Z"
+      },
+      {
+        "number": 5416,
+        "title": "fix(share/shwap): [high] reject samples with an invalid share size",
+        "url": "https://github.com/celestiaorg/celestia-node/pull/5416",
+        "repo": "celestia-node",
+        "author": "ninabarbakadze",
+        "authorCategory": "coworker",
+        "reviewer": "rootulp",
+        "requestedAt": "2026-11-18T11:42:36Z"
       }
     ],
     "vgonkivs": [
@@ -312,5 +332,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-11-18T11:41:08.038Z"
+  "fetchedAt": "2026-11-18T11:46:07.157Z"
 }
