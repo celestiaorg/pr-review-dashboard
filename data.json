@@ -26,26 +26,6 @@
         "requestedAt": "2026-11-18T13:21:09Z"
       },
       {
-        "number": 3740,
-        "title": "fix(types): [high] validate block max bytes against the protocol limit",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3740",
-        "repo": "celestia-core",
-        "author": "ninabarbakadze",
-        "authorCategory": "coworker",
-        "reviewer": "rach-id",
-        "requestedAt": "2026-11-18T13:21:55Z"
-      },
-      {
-        "number": 199,
-        "title": "fix(staking)!: [high] keep unbonding IDs across a genesis export and import",
-        "url": "https://github.com/celestiaorg/cosmos-sdk/pull/199",
-        "repo": "cosmos-sdk",
-        "author": "vgonkivs",
-        "authorCategory": "coworker",
-        "reviewer": "rach-id",
-        "requestedAt": "2026-11-18T13:44:03Z"
-      },
-      {
         "number": 3738,
         "title": "fix(consensus): [high] stay in the commit step when a later round gets a quorum",
         "url": "https://github.com/celestiaorg/celestia-core/pull/3738",
@@ -124,20 +104,20 @@
         "authorCategory": "coworker",
         "reviewer": "rach-id",
         "requestedAt": "2026-11-18T14:46:43Z"
+      },
+      {
+        "number": 3750,
+        "title": "fix(store): [high] sync the seen commit to disk",
+        "url": "https://github.com/celestiaorg/celestia-core/pull/3750",
+        "repo": "celestia-core",
+        "author": "ninabarbakadze",
+        "authorCategory": "coworker",
+        "reviewer": "rach-id",
+        "requestedAt": "2026-11-18T15:01:01Z"
       }
     ],
     "renaynay": [],
     "rootulp": [
-      {
-        "number": 5416,
-        "title": "fix(share/shwap): [high] reject samples with an invalid share size",
-        "url": "https://github.com/celestiaorg/celestia-node/pull/5416",
-        "repo": "celestia-node",
-        "author": "ninabarbakadze",
-        "authorCategory": "coworker",
-        "reviewer": "rootulp",
-        "requestedAt": "2026-11-18T11:42:36Z"
-      },
       {
         "number": 200,
         "title": "perf(baseapp): [high] skip on recheck what CheckTx already checked",
@@ -147,16 +127,6 @@
         "authorCategory": "coworker",
         "reviewer": "rootulp",
         "requestedAt": "2026-11-18T12:34:51Z"
-      },
-      {
-        "number": 5418,
-        "title": "fix(state/txclient): [high] cap the estimated gas limit with a max gas option",
-        "url": "https://github.com/celestiaorg/celestia-node/pull/5418",
-        "repo": "celestia-node",
-        "author": "ninabarbakadze",
-        "authorCategory": "coworker",
-        "reviewer": "rootulp",
-        "requestedAt": "2026-11-18T13:14:30Z"
       },
       {
         "number": 22,
@@ -281,5 +251,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-11-18T14:56:10.465Z"
+  "fetchedAt": "2026-11-18T15:01:11.699Z"
 }
