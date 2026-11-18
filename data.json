@@ -198,26 +198,6 @@
         "requestedAt": "2026-11-16T06:31:28Z"
       },
       {
-        "number": 3708,
-        "title": "refactor(mempool): [medium] queue SeenTx claims as their own objects",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3708",
-        "repo": "celestia-core",
-        "author": "rootulp",
-        "authorCategory": "coworker",
-        "reviewer": "rach-id",
-        "requestedAt": "2026-11-18T04:36:33Z"
-      },
-      {
-        "number": 3709,
-        "title": "fix(mempool): [high] record which peers announced each SeenTx claim",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3709",
-        "repo": "celestia-core",
-        "author": "rootulp",
-        "authorCategory": "coworker",
-        "reviewer": "rach-id",
-        "requestedAt": "2026-11-18T04:36:35Z"
-      },
-      {
         "number": 3710,
         "title": "fix(mempool): [high] judge a delivery only by its sender's SeenTx claim",
         "url": "https://github.com/celestiaorg/celestia-core/pull/3710",
@@ -402,5 +382,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-11-18T06:20:46.561Z"
+  "fetchedAt": "2026-11-18T06:25:47.666Z"
 }
