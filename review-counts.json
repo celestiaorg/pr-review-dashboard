@@ -6,19 +6,24 @@
       "year": 374
     },
     "pippokr": {
-      "week": 4,
-      "month": 48,
-      "year": 399
+      "week": 8,
+      "month": 52,
+      "year": 403
+    },
+    "damiannolan": {
+      "week": 0,
+      "month": 1,
+      "year": 36
     },
     "ninabarbakadze": {
-      "week": 7,
-      "month": 50,
-      "year": 685
+      "week": 11,
+      "month": 54,
+      "year": 689
     },
     "rach-id": {
-      "week": 9,
-      "month": 80,
-      "year": 1245
+      "week": 17,
+      "month": 88,
+      "year": 1253
     },
     "renaynay": {
       "week": 0,
@@ -26,14 +31,14 @@
       "year": 130
     },
     "rootulp": {
-      "week": 18,
-      "month": 249,
-      "year": 1119
+      "week": 33,
+      "month": 264,
+      "year": 1134
     },
     "vgonkivs": {
-      "week": 5,
-      "month": 43,
-      "year": 434
+      "week": 8,
+      "month": 46,
+      "year": 437
     },
     "theodorebugnet": {
       "week": 0,
@@ -41,12 +46,12 @@
       "year": 7
     },
     "walldiss": {
-      "week": 5,
-      "month": 31,
-      "year": 238
+      "week": 16,
+      "month": 42,
+      "year": 249
     }
   },
-  "computedAt": "2026-11-17T05:33:26.238Z",
+  "computedAt": "2026-11-18T04:58:32.347Z",
   "windows": {
     "weekStart": "2026-11-16T00:00:00.000Z",
     "monthStart": "2026-11-01T00:00:00.000Z",
