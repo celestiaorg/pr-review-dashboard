@@ -54,6 +54,126 @@
         "authorCategory": "coworker",
         "reviewer": "ninabarbakadze",
         "requestedAt": "2026-11-18T04:31:13Z"
+      },
+      {
+        "number": 3704,
+        "title": "test(e2e): [low] inject duplicate vote evidence for distinct validator and height pairs",
+        "url": "https://github.com/celestiaorg/celestia-core/pull/3704",
+        "repo": "celestia-core",
+        "author": "rootulp",
+        "authorCategory": "coworker",
+        "reviewer": "ninabarbakadze",
+        "requestedAt": "2026-11-18T04:36:25Z"
+      },
+      {
+        "number": 3705,
+        "title": "fix(evidence): [high] commit evidence in one write and drop committed leftovers on restart",
+        "url": "https://github.com/celestiaorg/celestia-core/pull/3705",
+        "repo": "celestia-core",
+        "author": "rootulp",
+        "authorCategory": "coworker",
+        "reviewer": "ninabarbakadze",
+        "requestedAt": "2026-11-18T04:36:27Z"
+      },
+      {
+        "number": 3706,
+        "title": "fix(evidence): [high] keep one pending duplicate vote evidence per validator and height",
+        "url": "https://github.com/celestiaorg/celestia-core/pull/3706",
+        "repo": "celestia-core",
+        "author": "rootulp",
+        "authorCategory": "coworker",
+        "reviewer": "ninabarbakadze",
+        "requestedAt": "2026-11-18T04:36:29Z"
+      },
+      {
+        "number": 3707,
+        "title": "fix(evidence): [high] record committed duplicate vote evidence per validator and height",
+        "url": "https://github.com/celestiaorg/celestia-core/pull/3707",
+        "repo": "celestia-core",
+        "author": "rootulp",
+        "authorCategory": "coworker",
+        "reviewer": "ninabarbakadze",
+        "requestedAt": "2026-11-18T04:36:31Z"
+      },
+      {
+        "number": 3708,
+        "title": "refactor(mempool): [medium] queue SeenTx claims as their own objects",
+        "url": "https://github.com/celestiaorg/celestia-core/pull/3708",
+        "repo": "celestia-core",
+        "author": "rootulp",
+        "authorCategory": "coworker",
+        "reviewer": "ninabarbakadze",
+        "requestedAt": "2026-11-18T04:36:33Z"
+      },
+      {
+        "number": 3709,
+        "title": "fix(mempool): [high] record which peers announced each SeenTx claim",
+        "url": "https://github.com/celestiaorg/celestia-core/pull/3709",
+        "repo": "celestia-core",
+        "author": "rootulp",
+        "authorCategory": "coworker",
+        "reviewer": "ninabarbakadze",
+        "requestedAt": "2026-11-18T04:36:35Z"
+      },
+      {
+        "number": 3710,
+        "title": "fix(mempool): [high] judge a delivery only by its sender's SeenTx claim",
+        "url": "https://github.com/celestiaorg/celestia-core/pull/3710",
+        "repo": "celestia-core",
+        "author": "rootulp",
+        "authorCategory": "coworker",
+        "reviewer": "ninabarbakadze",
+        "requestedAt": "2026-11-18T04:36:36Z"
+      },
+      {
+        "number": 3711,
+        "title": "fix(mempool): [high] keep each peer's SeenTx claim separate",
+        "url": "https://github.com/celestiaorg/celestia-core/pull/3711",
+        "repo": "celestia-core",
+        "author": "rootulp",
+        "authorCategory": "coworker",
+        "reviewer": "ninabarbakadze",
+        "requestedAt": "2026-11-18T04:36:38Z"
+      },
+      {
+        "number": 3631,
+        "title": "fix(consensus): [high] re-propose ValidBlock with the parts that got the polka",
+        "url": "https://github.com/celestiaorg/celestia-core/pull/3631",
+        "repo": "celestia-core",
+        "author": "rootulp",
+        "authorCategory": "coworker",
+        "reviewer": "ninabarbakadze",
+        "requestedAt": "2026-11-18T04:36:39Z"
+      },
+      {
+        "number": 8675,
+        "title": "fix(app): [high] filter unsupported packet-forward memos in CheckTx and PrepareProposal (v10.x)",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/8675",
+        "repo": "celestia-app",
+        "author": "rootulp",
+        "authorCategory": "coworker",
+        "reviewer": "ninabarbakadze",
+        "requestedAt": "2026-11-18T04:36:41Z"
+      },
+      {
+        "number": 8676,
+        "title": "fix(app): [high] limit depth, repeated keys and next forms of packet-forward memos in the mempool filter (v10.x)",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/8676",
+        "repo": "celestia-app",
+        "author": "rootulp",
+        "authorCategory": "coworker",
+        "reviewer": "ninabarbakadze",
+        "requestedAt": "2026-11-18T04:36:42Z"
+      },
+      {
+        "number": 8677,
+        "title": "test(app): [medium] add the PFM filter cost test and the memo admission interop test (v10.x)",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/8677",
+        "repo": "celestia-app",
+        "author": "rootulp",
+        "authorCategory": "coworker",
+        "reviewer": "ninabarbakadze",
+        "requestedAt": "2026-11-18T04:36:44Z"
       }
     ],
     "rach-id": [
@@ -86,6 +206,126 @@
         "authorCategory": "coworker",
         "reviewer": "rach-id",
         "requestedAt": "2026-11-17T22:52:35Z"
+      },
+      {
+        "number": 3704,
+        "title": "test(e2e): [low] inject duplicate vote evidence for distinct validator and height pairs",
+        "url": "https://github.com/celestiaorg/celestia-core/pull/3704",
+        "repo": "celestia-core",
+        "author": "rootulp",
+        "authorCategory": "coworker",
+        "reviewer": "rach-id",
+        "requestedAt": "2026-11-18T04:36:25Z"
+      },
+      {
+        "number": 3705,
+        "title": "fix(evidence): [high] commit evidence in one write and drop committed leftovers on restart",
+        "url": "https://github.com/celestiaorg/celestia-core/pull/3705",
+        "repo": "celestia-core",
+        "author": "rootulp",
+        "authorCategory": "coworker",
+        "reviewer": "rach-id",
+        "requestedAt": "2026-11-18T04:36:27Z"
+      },
+      {
+        "number": 3706,
+        "title": "fix(evidence): [high] keep one pending duplicate vote evidence per validator and height",
+        "url": "https://github.com/celestiaorg/celestia-core/pull/3706",
+        "repo": "celestia-core",
+        "author": "rootulp",
+        "authorCategory": "coworker",
+        "reviewer": "rach-id",
+        "requestedAt": "2026-11-18T04:36:29Z"
+      },
+      {
+        "number": 3707,
+        "title": "fix(evidence): [high] record committed duplicate vote evidence per validator and height",
+        "url": "https://github.com/celestiaorg/celestia-core/pull/3707",
+        "repo": "celestia-core",
+        "author": "rootulp",
+        "authorCategory": "coworker",
+        "reviewer": "rach-id",
+        "requestedAt": "2026-11-18T04:36:31Z"
+      },
+      {
+        "number": 3708,
+        "title": "refactor(mempool): [medium] queue SeenTx claims as their own objects",
+        "url": "https://github.com/celestiaorg/celestia-core/pull/3708",
+        "repo": "celestia-core",
+        "author": "rootulp",
+        "authorCategory": "coworker",
+        "reviewer": "rach-id",
+        "requestedAt": "2026-11-18T04:36:33Z"
+      },
+      {
+        "number": 3709,
+        "title": "fix(mempool): [high] record which peers announced each SeenTx claim",
+        "url": "https://github.com/celestiaorg/celestia-core/pull/3709",
+        "repo": "celestia-core",
+        "author": "rootulp",
+        "authorCategory": "coworker",
+        "reviewer": "rach-id",
+        "requestedAt": "2026-11-18T04:36:35Z"
+      },
+      {
+        "number": 3710,
+        "title": "fix(mempool): [high] judge a delivery only by its sender's SeenTx claim",
+        "url": "https://github.com/celestiaorg/celestia-core/pull/3710",
+        "repo": "celestia-core",
+        "author": "rootulp",
+        "authorCategory": "coworker",
+        "reviewer": "rach-id",
+        "requestedAt": "2026-11-18T04:36:36Z"
+      },
+      {
+        "number": 3711,
+        "title": "fix(mempool): [high] keep each peer's SeenTx claim separate",
+        "url": "https://github.com/celestiaorg/celestia-core/pull/3711",
+        "repo": "celestia-core",
+        "author": "rootulp",
+        "authorCategory": "coworker",
+        "reviewer": "rach-id",
+        "requestedAt": "2026-11-18T04:36:38Z"
+      },
+      {
+        "number": 3631,
+        "title": "fix(consensus): [high] re-propose ValidBlock with the parts that got the polka",
+        "url": "https://github.com/celestiaorg/celestia-core/pull/3631",
+        "repo": "celestia-core",
+        "author": "rootulp",
+        "authorCategory": "coworker",
+        "reviewer": "rach-id",
+        "requestedAt": "2026-11-18T04:36:39Z"
+      },
+      {
+        "number": 8675,
+        "title": "fix(app): [high] filter unsupported packet-forward memos in CheckTx and PrepareProposal (v10.x)",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/8675",
+        "repo": "celestia-app",
+        "author": "rootulp",
+        "authorCategory": "coworker",
+        "reviewer": "rach-id",
+        "requestedAt": "2026-11-18T04:36:41Z"
+      },
+      {
+        "number": 8676,
+        "title": "fix(app): [high] limit depth, repeated keys and next forms of packet-forward memos in the mempool filter (v10.x)",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/8676",
+        "repo": "celestia-app",
+        "author": "rootulp",
+        "authorCategory": "coworker",
+        "reviewer": "rach-id",
+        "requestedAt": "2026-11-18T04:36:42Z"
+      },
+      {
+        "number": 8677,
+        "title": "test(app): [medium] add the PFM filter cost test and the memo admission interop test (v10.x)",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/8677",
+        "repo": "celestia-app",
+        "author": "rootulp",
+        "authorCategory": "coworker",
+        "reviewer": "rach-id",
+        "requestedAt": "2026-11-18T04:36:44Z"
       }
     ],
     "renaynay": [],
@@ -182,5 +422,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-11-18T04:35:17.241Z"
+  "fetchedAt": "2026-11-18T04:40:17.681Z"
 }
