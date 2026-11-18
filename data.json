@@ -84,6 +84,16 @@
         "authorCategory": "coworker",
         "reviewer": "rach-id",
         "requestedAt": "2026-11-18T15:01:01Z"
+      },
+      {
+        "number": 8709,
+        "title": "chore(hardfork): [low] fixes from the recovery drills and a talis drill helper",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/8709",
+        "repo": "celestia-app",
+        "author": "vgonkivs",
+        "authorCategory": "coworker",
+        "reviewer": "rach-id",
+        "requestedAt": "2026-11-18T15:48:13Z"
       }
     ],
     "renaynay": [],
@@ -221,5 +231,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-11-18T15:46:11.284Z"
+  "fetchedAt": "2026-11-18T15:51:11.538Z"
 }
