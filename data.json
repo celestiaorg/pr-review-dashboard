@@ -2,7 +2,18 @@
   "reviews": {
     "chatton": [],
     "pippokr": [],
-    "damiannolan": [],
+    "damiannolan": [
+      {
+        "number": 8683,
+        "title": "chore(deps)!: [high] use the celestia fork of packet-forward-middleware",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/8683",
+        "repo": "celestia-app",
+        "author": "rootulp",
+        "authorCategory": "coworker",
+        "reviewer": "damiannolan",
+        "requestedAt": "2026-11-17T23:23:53Z"
+      }
+    ],
     "ninabarbakadze": [
       {
         "number": 8605,
@@ -161,5 +172,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-11-18T00:35:13.644Z"
+  "fetchedAt": "2026-11-18T00:40:13.729Z"
 }
