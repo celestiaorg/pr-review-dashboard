@@ -165,16 +165,6 @@
         "authorCategory": "coworker",
         "reviewer": "rach-id",
         "requestedAt": "2026-11-16T06:31:28Z"
-      },
-      {
-        "number": 8605,
-        "title": "fix(app)!: [high] count ICA packet messages independently of channel encoding",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/8605",
-        "repo": "celestia-app",
-        "author": "rootulp",
-        "authorCategory": "coworker",
-        "reviewer": "rach-id",
-        "requestedAt": "2026-11-18T04:43:20Z"
       }
     ],
     "renaynay": [],
@@ -332,5 +322,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-11-18T09:55:50.079Z"
+  "fetchedAt": "2026-11-18T10:00:50.055Z"
 }
