@@ -198,6 +198,26 @@
         "authorCategory": "coworker",
         "reviewer": "rootulp",
         "requestedAt": "2026-11-18T13:14:30Z"
+      },
+      {
+        "number": 22,
+        "title": "fix(transfer)!: [high] return an error instead of panicking on an invalid unescrow denom",
+        "url": "https://github.com/celestiaorg/ibc-go/pull/22",
+        "repo": "ibc-go",
+        "author": "damiannolan",
+        "authorCategory": "coworker",
+        "reviewer": "rootulp",
+        "requestedAt": "2026-11-18T14:06:10Z"
+      },
+      {
+        "number": 21,
+        "title": "fix(transfer): [low] print the amount, not a pointer, in the non-positive amount error",
+        "url": "https://github.com/celestiaorg/ibc-go/pull/21",
+        "repo": "ibc-go",
+        "author": "damiannolan",
+        "authorCategory": "coworker",
+        "reviewer": "rootulp",
+        "requestedAt": "2026-11-18T14:06:16Z"
       }
     ],
     "vgonkivs": [
@@ -292,5 +312,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-11-18T14:06:10.159Z"
+  "fetchedAt": "2026-11-18T14:11:10.297Z"
 }
