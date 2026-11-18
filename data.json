@@ -129,56 +129,6 @@
     "renaynay": [],
     "rootulp": [
       {
-        "number": 8690,
-        "title": "perf(fibre): [medium] prune processed payments from the last pruned creation time",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/8690",
-        "repo": "celestia-app",
-        "author": "rach-id",
-        "authorCategory": "coworker",
-        "reviewer": "rootulp",
-        "requestedAt": "2026-11-18T07:51:01Z"
-      },
-      {
-        "number": 3713,
-        "title": "perf(crypto/merkle): [high] hash leaves without copying them",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3713",
-        "repo": "celestia-core",
-        "author": "rach-id",
-        "authorCategory": "coworker",
-        "reviewer": "rootulp",
-        "requestedAt": "2026-11-18T08:00:13Z"
-      },
-      {
-        "number": 3714,
-        "title": "perf(propagation): [high] verify locally recovered parts concurrently",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3714",
-        "repo": "celestia-core",
-        "author": "rach-id",
-        "authorCategory": "coworker",
-        "reviewer": "rootulp",
-        "requestedAt": "2026-11-18T08:01:39Z"
-      },
-      {
-        "number": 3715,
-        "title": "perf(propagation): [high] copy recovered transactions into parts once",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3715",
-        "repo": "celestia-core",
-        "author": "rach-id",
-        "authorCategory": "coworker",
-        "reviewer": "rootulp",
-        "requestedAt": "2026-11-18T08:03:01Z"
-      },
-      {
-        "number": 3716,
-        "title": "perf(propagation): [high] build recovered parts concurrently",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3716",
-        "repo": "celestia-core",
-        "author": "rach-id",
-        "authorCategory": "coworker",
-        "reviewer": "rootulp",
-        "requestedAt": "2026-11-18T08:04:42Z"
-      },
-      {
         "number": 5416,
         "title": "fix(share/shwap): [high] reject samples with an invalid share size",
         "url": "https://github.com/celestiaorg/celestia-node/pull/5416",
@@ -331,5 +281,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-11-18T14:51:11.332Z"
+  "fetchedAt": "2026-11-18T14:56:10.465Z"
 }
