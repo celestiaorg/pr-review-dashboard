@@ -198,26 +198,6 @@
         "requestedAt": "2026-11-16T06:31:28Z"
       },
       {
-        "number": 8676,
-        "title": "fix(app): [high] limit depth, repeated keys and next forms of packet-forward memos in the mempool filter (v10.x)",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/8676",
-        "repo": "celestia-app",
-        "author": "rootulp",
-        "authorCategory": "coworker",
-        "reviewer": "rach-id",
-        "requestedAt": "2026-11-18T04:36:42Z"
-      },
-      {
-        "number": 8677,
-        "title": "test(app): [medium] add the PFM filter cost test and the memo admission interop test (v10.x)",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/8677",
-        "repo": "celestia-app",
-        "author": "rootulp",
-        "authorCategory": "coworker",
-        "reviewer": "rach-id",
-        "requestedAt": "2026-11-18T04:36:44Z"
-      },
-      {
         "number": 3684,
         "title": "fix(p2p): [high] keep accepting connections after temporary accept errors",
         "url": "https://github.com/celestiaorg/celestia-core/pull/3684",
@@ -342,5 +322,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-11-18T07:05:47.257Z"
+  "fetchedAt": "2026-11-18T07:10:47.641Z"
 }
