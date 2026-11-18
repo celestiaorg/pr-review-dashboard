@@ -5,16 +5,6 @@
     "damiannolan": [],
     "ninabarbakadze": [
       {
-        "number": 3710,
-        "title": "fix(mempool): [high] judge a delivery only by its sender's SeenTx claim",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3710",
-        "repo": "celestia-core",
-        "author": "rootulp",
-        "authorCategory": "coworker",
-        "reviewer": "ninabarbakadze",
-        "requestedAt": "2026-11-18T04:36:36Z"
-      },
-      {
         "number": 3631,
         "title": "fix(consensus): [high] re-propose ValidBlock with the parts that got the polka",
         "url": "https://github.com/celestiaorg/celestia-core/pull/3631",
@@ -282,5 +272,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-11-18T13:31:09.479Z"
+  "fetchedAt": "2026-11-18T13:36:09.381Z"
 }
