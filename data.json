@@ -259,6 +259,36 @@
         "authorCategory": "coworker",
         "reviewer": "rootulp",
         "requestedAt": "2026-11-18T08:00:13Z"
+      },
+      {
+        "number": 3714,
+        "title": "perf(propagation): [high] verify locally recovered parts concurrently",
+        "url": "https://github.com/celestiaorg/celestia-core/pull/3714",
+        "repo": "celestia-core",
+        "author": "rach-id",
+        "authorCategory": "coworker",
+        "reviewer": "rootulp",
+        "requestedAt": "2026-11-18T08:01:39Z"
+      },
+      {
+        "number": 3715,
+        "title": "perf(propagation): [high] copy recovered transactions into parts once",
+        "url": "https://github.com/celestiaorg/celestia-core/pull/3715",
+        "repo": "celestia-core",
+        "author": "rach-id",
+        "authorCategory": "coworker",
+        "reviewer": "rootulp",
+        "requestedAt": "2026-11-18T08:03:01Z"
+      },
+      {
+        "number": 3716,
+        "title": "perf(propagation): [high] build recovered parts concurrently",
+        "url": "https://github.com/celestiaorg/celestia-core/pull/3716",
+        "repo": "celestia-core",
+        "author": "rach-id",
+        "authorCategory": "coworker",
+        "reviewer": "rootulp",
+        "requestedAt": "2026-11-18T08:04:42Z"
       }
     ],
     "vgonkivs": [
@@ -353,5 +383,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-11-18T08:00:48.518Z"
+  "fetchedAt": "2026-11-18T08:05:48.766Z"
 }
