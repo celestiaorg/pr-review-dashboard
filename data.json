@@ -198,16 +198,6 @@
         "requestedAt": "2026-11-16T06:31:28Z"
       },
       {
-        "number": 3684,
-        "title": "fix(p2p): [high] keep accepting connections after temporary accept errors",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3684",
-        "repo": "celestia-core",
-        "author": "rootulp",
-        "authorCategory": "coworker",
-        "reviewer": "rach-id",
-        "requestedAt": "2026-11-18T04:43:15Z"
-      },
-      {
         "number": 3678,
         "title": "fix(statesync,p2p): [high] use non-blocking sends for replies in reactor Receive",
         "url": "https://github.com/celestiaorg/celestia-core/pull/3678",
@@ -383,5 +373,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-11-18T08:20:48.438Z"
+  "fetchedAt": "2026-11-18T08:25:48.883Z"
 }
