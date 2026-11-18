@@ -198,26 +198,6 @@
         "requestedAt": "2026-11-16T06:31:28Z"
       },
       {
-        "number": 8597,
-        "title": "fix(app): [high] bound nested messages in ICA packets and MsgExec at mempool admission (v10.x)",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/8597",
-        "repo": "celestia-app",
-        "author": "rootulp",
-        "authorCategory": "coworker",
-        "reviewer": "rach-id",
-        "requestedAt": "2026-11-17T22:46:31Z"
-      },
-      {
-        "number": 3676,
-        "title": "fix(mempool/cat): [high] give each peer a byte budget in the received-tx buffer",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3676",
-        "repo": "celestia-core",
-        "author": "rootulp",
-        "authorCategory": "coworker",
-        "reviewer": "rach-id",
-        "requestedAt": "2026-11-17T22:52:35Z"
-      },
-      {
         "number": 3704,
         "title": "test(e2e): [low] inject duplicate vote evidence for distinct validator and height pairs",
         "url": "https://github.com/celestiaorg/celestia-core/pull/3704",
@@ -462,5 +442,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-11-18T05:45:46.256Z"
+  "fetchedAt": "2026-11-18T05:50:47.157Z"
 }
