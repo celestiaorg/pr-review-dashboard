@@ -104,20 +104,30 @@
         "authorCategory": "coworker",
         "reviewer": "rach-id",
         "requestedAt": "2026-11-18T14:45:29Z"
+      },
+      {
+        "number": 3722,
+        "title": "fix(propagation): [high] bound catchup wants served from the block store (backport #3620, #3661)",
+        "url": "https://github.com/celestiaorg/celestia-core/pull/3722",
+        "repo": "celestia-core",
+        "author": "rootulp",
+        "authorCategory": "coworker",
+        "reviewer": "rach-id",
+        "requestedAt": "2026-11-18T14:46:17Z"
+      },
+      {
+        "number": 3723,
+        "title": "fix(consensus/propagation): [high] follow Block.MaxBytes changes without restart (backport #3677)",
+        "url": "https://github.com/celestiaorg/celestia-core/pull/3723",
+        "repo": "celestia-core",
+        "author": "rootulp",
+        "authorCategory": "coworker",
+        "reviewer": "rach-id",
+        "requestedAt": "2026-11-18T14:46:43Z"
       }
     ],
     "renaynay": [],
     "rootulp": [
-      {
-        "number": 8689,
-        "title": "perf(fibre)!: [high] key processed payments by promise creation time",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/8689",
-        "repo": "celestia-app",
-        "author": "rach-id",
-        "authorCategory": "coworker",
-        "reviewer": "rootulp",
-        "requestedAt": "2026-11-18T07:48:43Z"
-      },
       {
         "number": 8690,
         "title": "perf(fibre): [medium] prune processed payments from the last pruned creation time",
@@ -321,5 +331,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-11-18T14:46:11.057Z"
+  "fetchedAt": "2026-11-18T14:51:11.332Z"
 }
