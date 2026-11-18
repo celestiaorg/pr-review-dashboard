@@ -174,6 +174,16 @@
         "authorCategory": "coworker",
         "reviewer": "ninabarbakadze",
         "requestedAt": "2026-11-18T04:36:44Z"
+      },
+      {
+        "number": 3678,
+        "title": "fix(statesync,p2p): [high] use non-blocking sends for replies in reactor Receive",
+        "url": "https://github.com/celestiaorg/celestia-core/pull/3678",
+        "repo": "celestia-core",
+        "author": "rootulp",
+        "authorCategory": "coworker",
+        "reviewer": "ninabarbakadze",
+        "requestedAt": "2026-11-18T04:43:17Z"
       }
     ],
     "rach-id": [
@@ -326,6 +336,36 @@
         "authorCategory": "coworker",
         "reviewer": "rach-id",
         "requestedAt": "2026-11-18T04:36:44Z"
+      },
+      {
+        "number": 3684,
+        "title": "fix(p2p): [high] keep accepting connections after temporary accept errors",
+        "url": "https://github.com/celestiaorg/celestia-core/pull/3684",
+        "repo": "celestia-core",
+        "author": "rootulp",
+        "authorCategory": "coworker",
+        "reviewer": "rach-id",
+        "requestedAt": "2026-11-18T04:43:15Z"
+      },
+      {
+        "number": 3678,
+        "title": "fix(statesync,p2p): [high] use non-blocking sends for replies in reactor Receive",
+        "url": "https://github.com/celestiaorg/celestia-core/pull/3678",
+        "repo": "celestia-core",
+        "author": "rootulp",
+        "authorCategory": "coworker",
+        "reviewer": "rach-id",
+        "requestedAt": "2026-11-18T04:43:18Z"
+      },
+      {
+        "number": 8605,
+        "title": "fix(app)!: [high] count ICA packet messages independently of channel encoding",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/8605",
+        "repo": "celestia-app",
+        "author": "rootulp",
+        "authorCategory": "coworker",
+        "reviewer": "rach-id",
+        "requestedAt": "2026-11-18T04:43:20Z"
       }
     ],
     "renaynay": [],
@@ -422,5 +462,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-11-18T04:40:17.681Z"
+  "fetchedAt": "2026-11-18T04:45:17.399Z"
 }
