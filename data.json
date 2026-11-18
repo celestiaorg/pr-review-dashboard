@@ -15,16 +15,6 @@
         "requestedAt": "2026-11-17T04:52:31Z"
       },
       {
-        "number": 3676,
-        "title": "fix(mempool/cat): [high] give each peer a byte budget in the received-tx buffer",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3676",
-        "repo": "celestia-core",
-        "author": "rootulp",
-        "authorCategory": "coworker",
-        "reviewer": "ninabarbakadze",
-        "requestedAt": "2026-11-17T22:52:35Z"
-      },
-      {
         "number": 3704,
         "title": "test(e2e): [low] inject duplicate vote evidence for distinct validator and height pairs",
         "url": "https://github.com/celestiaorg/celestia-core/pull/3704",
@@ -362,5 +352,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-11-18T12:36:10.518Z"
+  "fetchedAt": "2026-11-18T12:41:08.685Z"
 }
