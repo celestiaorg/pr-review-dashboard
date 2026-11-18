@@ -165,6 +165,16 @@
         "authorCategory": "coworker",
         "reviewer": "rach-id",
         "requestedAt": "2026-11-18T12:30:02Z"
+      },
+      {
+        "number": 360,
+        "title": "fix: [high] include the last row in GetSubrootPaths",
+        "url": "https://github.com/celestiaorg/nmt/pull/360",
+        "repo": "nmt",
+        "author": "ninabarbakadze",
+        "authorCategory": "coworker",
+        "reviewer": "rach-id",
+        "requestedAt": "2026-11-18T12:31:14Z"
       }
     ],
     "renaynay": [],
@@ -248,6 +258,16 @@
         "authorCategory": "coworker",
         "reviewer": "rootulp",
         "requestedAt": "2026-11-18T11:42:36Z"
+      },
+      {
+        "number": 200,
+        "title": "perf(baseapp): [high] skip on recheck what CheckTx already checked",
+        "url": "https://github.com/celestiaorg/cosmos-sdk/pull/200",
+        "repo": "cosmos-sdk",
+        "author": "rach-id",
+        "authorCategory": "coworker",
+        "reviewer": "rootulp",
+        "requestedAt": "2026-11-18T12:34:51Z"
       }
     ],
     "vgonkivs": [
@@ -342,5 +362,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-11-18T12:31:08.565Z"
+  "fetchedAt": "2026-11-18T12:36:10.518Z"
 }
