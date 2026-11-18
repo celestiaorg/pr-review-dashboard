@@ -155,16 +155,6 @@
         "authorCategory": "coworker",
         "reviewer": "rach-id",
         "requestedAt": "2026-11-18T12:30:02Z"
-      },
-      {
-        "number": 360,
-        "title": "fix: [high] include the last row in GetSubrootPaths",
-        "url": "https://github.com/celestiaorg/nmt/pull/360",
-        "repo": "nmt",
-        "author": "ninabarbakadze",
-        "authorCategory": "coworker",
-        "reviewer": "rach-id",
-        "requestedAt": "2026-11-18T12:31:14Z"
       }
     ],
     "renaynay": [],
@@ -228,16 +218,6 @@
         "authorCategory": "coworker",
         "reviewer": "rootulp",
         "requestedAt": "2026-11-18T08:04:42Z"
-      },
-      {
-        "number": 360,
-        "title": "fix: [high] include the last row in GetSubrootPaths",
-        "url": "https://github.com/celestiaorg/nmt/pull/360",
-        "repo": "nmt",
-        "author": "ninabarbakadze",
-        "authorCategory": "coworker",
-        "reviewer": "rootulp",
-        "requestedAt": "2026-11-18T11:42:32Z"
       },
       {
         "number": 5416,
@@ -352,5 +332,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-11-18T12:41:08.685Z"
+  "fetchedAt": "2026-11-18T12:46:09.031Z"
 }
