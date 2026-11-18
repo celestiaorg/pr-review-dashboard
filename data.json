@@ -198,16 +198,6 @@
         "requestedAt": "2026-11-16T06:31:28Z"
       },
       {
-        "number": 3631,
-        "title": "fix(consensus): [high] re-propose ValidBlock with the parts that got the polka",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3631",
-        "repo": "celestia-core",
-        "author": "rootulp",
-        "authorCategory": "coworker",
-        "reviewer": "rach-id",
-        "requestedAt": "2026-11-18T04:36:39Z"
-      },
-      {
         "number": 8675,
         "title": "fix(app): [high] filter unsupported packet-forward memos in CheckTx and PrepareProposal (v10.x)",
         "url": "https://github.com/celestiaorg/celestia-app/pull/8675",
@@ -362,5 +352,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-11-18T06:30:46.981Z"
+  "fetchedAt": "2026-11-18T06:35:46.879Z"
 }
