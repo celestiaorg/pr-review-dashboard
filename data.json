@@ -105,6 +105,16 @@
         "authorCategory": "coworker",
         "reviewer": "rach-id",
         "requestedAt": "2026-11-18T13:45:39Z"
+      },
+      {
+        "number": 3738,
+        "title": "fix(consensus): [high] stay in the commit step when a later round gets a quorum",
+        "url": "https://github.com/celestiaorg/celestia-core/pull/3738",
+        "repo": "celestia-core",
+        "author": "ninabarbakadze",
+        "authorCategory": "coworker",
+        "reviewer": "rach-id",
+        "requestedAt": "2026-11-18T14:19:17Z"
       }
     ],
     "renaynay": [],
@@ -312,5 +322,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-11-18T14:16:10.219Z"
+  "fetchedAt": "2026-11-18T14:21:10.517Z"
 }
