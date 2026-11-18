@@ -3,18 +3,7 @@
     "chatton": [],
     "pippokr": [],
     "damiannolan": [],
-    "ninabarbakadze": [
-      {
-        "number": 3631,
-        "title": "fix(consensus): [high] re-propose ValidBlock with the parts that got the polka",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3631",
-        "repo": "celestia-core",
-        "author": "rootulp",
-        "authorCategory": "coworker",
-        "reviewer": "ninabarbakadze",
-        "requestedAt": "2026-11-18T04:36:39Z"
-      }
-    ],
+    "ninabarbakadze": [],
     "rach-id": [
       {
         "number": 8486,
@@ -65,6 +54,56 @@
         "authorCategory": "coworker",
         "reviewer": "rach-id",
         "requestedAt": "2026-11-18T14:19:17Z"
+      },
+      {
+        "number": 3744,
+        "title": "fix(p2p/pex): [high] use the socket address as the address book source",
+        "url": "https://github.com/celestiaorg/celestia-core/pull/3744",
+        "repo": "celestia-core",
+        "author": "ninabarbakadze",
+        "authorCategory": "coworker",
+        "reviewer": "rach-id",
+        "requestedAt": "2026-11-18T14:41:25Z"
+      },
+      {
+        "number": 8697,
+        "title": "test(app): [low] fuzz the combined ICA packet count against the host decoder",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/8697",
+        "repo": "celestia-app",
+        "author": "rootulp",
+        "authorCategory": "coworker",
+        "reviewer": "rach-id",
+        "requestedAt": "2026-11-18T14:43:54Z"
+      },
+      {
+        "number": 3745,
+        "title": "fix(light/rpc): [high] stop forwarding events after unsubscribe or disconnect",
+        "url": "https://github.com/celestiaorg/celestia-core/pull/3745",
+        "repo": "celestia-core",
+        "author": "ninabarbakadze",
+        "authorCategory": "coworker",
+        "reviewer": "rach-id",
+        "requestedAt": "2026-11-18T14:44:38Z"
+      },
+      {
+        "number": 3728,
+        "title": "fix(statesync,p2p): [high] use non-blocking sends for replies in reactor Receive (backport #3678)",
+        "url": "https://github.com/celestiaorg/celestia-core/pull/3728",
+        "repo": "celestia-core",
+        "author": "rootulp",
+        "authorCategory": "coworker",
+        "reviewer": "rach-id",
+        "requestedAt": "2026-11-18T14:45:02Z"
+      },
+      {
+        "number": 3727,
+        "title": "fix(p2p): [high] keep accepting connections after temporary accept errors (backport #3684)",
+        "url": "https://github.com/celestiaorg/celestia-core/pull/3727",
+        "repo": "celestia-core",
+        "author": "rootulp",
+        "authorCategory": "coworker",
+        "reviewer": "rach-id",
+        "requestedAt": "2026-11-18T14:45:29Z"
       }
     ],
     "renaynay": [],
@@ -178,6 +217,16 @@
         "authorCategory": "coworker",
         "reviewer": "rootulp",
         "requestedAt": "2026-11-18T14:06:16Z"
+      },
+      {
+        "number": 3746,
+        "title": "fix(types): [high] ignore the reserved event type key in app events",
+        "url": "https://github.com/celestiaorg/celestia-core/pull/3746",
+        "repo": "celestia-core",
+        "author": "ninabarbakadze",
+        "authorCategory": "coworker",
+        "reviewer": "rootulp",
+        "requestedAt": "2026-11-18T14:45:21Z"
       }
     ],
     "vgonkivs": [
@@ -272,5 +321,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-11-18T14:41:11.522Z"
+  "fetchedAt": "2026-11-18T14:46:11.057Z"
 }
