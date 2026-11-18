@@ -5,26 +5,6 @@
     "damiannolan": [],
     "ninabarbakadze": [
       {
-        "number": 8597,
-        "title": "fix(app): [high] bound nested messages in ICA packets and MsgExec at mempool admission (v10.x)",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/8597",
-        "repo": "celestia-app",
-        "author": "rootulp",
-        "authorCategory": "coworker",
-        "reviewer": "ninabarbakadze",
-        "requestedAt": "2026-11-17T04:52:31Z"
-      },
-      {
-        "number": 3704,
-        "title": "test(e2e): [low] inject duplicate vote evidence for distinct validator and height pairs",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3704",
-        "repo": "celestia-core",
-        "author": "rootulp",
-        "authorCategory": "coworker",
-        "reviewer": "ninabarbakadze",
-        "requestedAt": "2026-11-18T04:36:25Z"
-      },
-      {
         "number": 3705,
         "title": "fix(evidence): [high] commit evidence in one write and drop committed leftovers on restart",
         "url": "https://github.com/celestiaorg/celestia-core/pull/3705",
@@ -332,5 +312,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-11-18T12:51:08.778Z"
+  "fetchedAt": "2026-11-18T12:56:09.114Z"
 }
