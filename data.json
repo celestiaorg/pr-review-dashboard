@@ -188,6 +188,16 @@
         "authorCategory": "coworker",
         "reviewer": "rootulp",
         "requestedAt": "2026-11-18T12:34:51Z"
+      },
+      {
+        "number": 5418,
+        "title": "fix(state/txclient): [high] cap the estimated gas limit with a max gas option",
+        "url": "https://github.com/celestiaorg/celestia-node/pull/5418",
+        "repo": "celestia-node",
+        "author": "ninabarbakadze",
+        "authorCategory": "coworker",
+        "reviewer": "rootulp",
+        "requestedAt": "2026-11-18T13:14:30Z"
       }
     ],
     "vgonkivs": [
@@ -282,5 +292,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-11-18T13:11:09.473Z"
+  "fetchedAt": "2026-11-18T13:16:10.276Z"
 }
