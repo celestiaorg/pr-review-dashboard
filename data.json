@@ -16,56 +16,6 @@
         "requestedAt": "2026-11-16T06:31:28Z"
       },
       {
-        "number": 3744,
-        "title": "fix(p2p/pex): [high] use the socket address as the address book source",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3744",
-        "repo": "celestia-core",
-        "author": "ninabarbakadze",
-        "authorCategory": "coworker",
-        "reviewer": "rach-id",
-        "requestedAt": "2026-11-18T14:41:25Z"
-      },
-      {
-        "number": 3745,
-        "title": "fix(light/rpc): [high] stop forwarding events after unsubscribe or disconnect",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3745",
-        "repo": "celestia-core",
-        "author": "ninabarbakadze",
-        "authorCategory": "coworker",
-        "reviewer": "rach-id",
-        "requestedAt": "2026-11-18T14:44:38Z"
-      },
-      {
-        "number": 3728,
-        "title": "fix(statesync,p2p): [high] use non-blocking sends for replies in reactor Receive (backport #3678)",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3728",
-        "repo": "celestia-core",
-        "author": "rootulp",
-        "authorCategory": "coworker",
-        "reviewer": "rach-id",
-        "requestedAt": "2026-11-18T14:45:02Z"
-      },
-      {
-        "number": 3727,
-        "title": "fix(p2p): [high] keep accepting connections after temporary accept errors (backport #3684)",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3727",
-        "repo": "celestia-core",
-        "author": "rootulp",
-        "authorCategory": "coworker",
-        "reviewer": "rach-id",
-        "requestedAt": "2026-11-18T14:45:29Z"
-      },
-      {
-        "number": 3722,
-        "title": "fix(propagation): [high] bound catchup wants served from the block store (backport #3620, #3661)",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3722",
-        "repo": "celestia-core",
-        "author": "rootulp",
-        "authorCategory": "coworker",
-        "reviewer": "rach-id",
-        "requestedAt": "2026-11-18T14:46:17Z"
-      },
-      {
         "number": 3723,
         "title": "fix(consensus/propagation): [high] follow Block.MaxBytes changes without restart (backport #3677)",
         "url": "https://github.com/celestiaorg/celestia-core/pull/3723",
@@ -74,16 +24,6 @@
         "authorCategory": "coworker",
         "reviewer": "rach-id",
         "requestedAt": "2026-11-18T14:46:43Z"
-      },
-      {
-        "number": 3750,
-        "title": "fix(store): [high] sync the seen commit to disk",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3750",
-        "repo": "celestia-core",
-        "author": "ninabarbakadze",
-        "authorCategory": "coworker",
-        "reviewer": "rach-id",
-        "requestedAt": "2026-11-18T15:01:01Z"
       },
       {
         "number": 8709,
@@ -231,5 +171,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-11-18T16:01:28.933Z"
+  "fetchedAt": "2026-11-18T16:06:29.399Z"
 }
