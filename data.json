@@ -155,26 +155,6 @@
         "authorCategory": "coworker",
         "reviewer": "rach-id",
         "requestedAt": "2026-11-16T06:31:28Z"
-      },
-      {
-        "number": 359,
-        "title": "fix: [high] support namespace ID sizes above 127",
-        "url": "https://github.com/celestiaorg/nmt/pull/359",
-        "repo": "nmt",
-        "author": "ninabarbakadze",
-        "authorCategory": "coworker",
-        "reviewer": "rach-id",
-        "requestedAt": "2026-11-18T11:59:25Z"
-      },
-      {
-        "number": 3703,
-        "title": "fix(consensus): [high] skip vote catchup for peers ahead of us",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3703",
-        "repo": "celestia-core",
-        "author": "ninabarbakadze",
-        "authorCategory": "coworker",
-        "reviewer": "rach-id",
-        "requestedAt": "2026-11-18T12:00:03Z"
       }
     ],
     "renaynay": [],
@@ -352,5 +332,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-11-18T12:21:08.845Z"
+  "fetchedAt": "2026-11-18T12:26:08.772Z"
 }
