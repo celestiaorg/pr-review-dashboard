@@ -13,36 +13,6 @@
         "authorCategory": "coworker",
         "reviewer": "ninabarbakadze",
         "requestedAt": "2026-11-18T04:36:39Z"
-      },
-      {
-        "number": 8675,
-        "title": "fix(app): [high] filter unsupported packet-forward memos in CheckTx and PrepareProposal (v10.x)",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/8675",
-        "repo": "celestia-app",
-        "author": "rootulp",
-        "authorCategory": "coworker",
-        "reviewer": "ninabarbakadze",
-        "requestedAt": "2026-11-18T04:36:41Z"
-      },
-      {
-        "number": 8676,
-        "title": "fix(app): [high] limit depth, repeated keys and next forms of packet-forward memos in the mempool filter (v10.x)",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/8676",
-        "repo": "celestia-app",
-        "author": "rootulp",
-        "authorCategory": "coworker",
-        "reviewer": "ninabarbakadze",
-        "requestedAt": "2026-11-18T04:36:42Z"
-      },
-      {
-        "number": 8677,
-        "title": "test(app): [medium] add the PFM filter cost test and the memo admission interop test (v10.x)",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/8677",
-        "repo": "celestia-app",
-        "author": "rootulp",
-        "authorCategory": "coworker",
-        "reviewer": "ninabarbakadze",
-        "requestedAt": "2026-11-18T04:36:44Z"
       }
     ],
     "rach-id": [
@@ -302,5 +272,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-11-18T14:36:10.240Z"
+  "fetchedAt": "2026-11-18T14:41:11.522Z"
 }
