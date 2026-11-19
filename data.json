@@ -52,27 +52,28 @@
     "vgonkivs": [
       {
         "number": 5190,
-        "title": "fix(rpc/client): close namespace connections",
+        "title": "fix(rpc/client): [medium] close namespace connections",
         "url": "https://github.com/celestiaorg/celestia-node/pull/5190",
         "repo": "celestia-node",
         "author": "neyy91",
         "authorCategory": "external",
         "reviewer": "vgonkivs",
         "requestedAt": "2026-08-21T15:05:41Z"
-      },
-      {
-        "number": 5191,
-        "title": "fix(pruner): handle out-of-order header deletion callbacks",
-        "url": "https://github.com/celestiaorg/celestia-node/pull/5191",
-        "repo": "celestia-node",
-        "author": "neyy91",
-        "authorCategory": "external",
-        "reviewer": "vgonkivs",
-        "requestedAt": "2026-08-21T15:06:03Z"
       }
     ],
     "theodorebugnet": [],
-    "walldiss": []
+    "walldiss": [
+      {
+        "number": 5419,
+        "title": "fix(pruner): [medium] handle out-of-order header deletion callbacks",
+        "url": "https://github.com/celestiaorg/celestia-node/pull/5419",
+        "repo": "celestia-node",
+        "author": "vgonkivs",
+        "authorCategory": "coworker",
+        "reviewer": "walldiss",
+        "requestedAt": "2026-11-19T10:32:05Z"
+      }
+    ]
   },
   "teamMembers": [
     {
@@ -130,5 +131,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-11-19T10:27:48.167Z"
+  "fetchedAt": "2026-11-19T10:32:48.489Z"
 }
