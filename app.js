@@ -7,6 +7,11 @@
   ];
 
   let teamMembers = [];
+
+  // Not a team member: a pseudo-member whose card lists open PRs nobody has
+  // been asked to review. It has its own toggle but no review-count bars.
+  // "github" is only the visibility key; it is not a valid GitHub login.
+  const UNASSIGNED = { name: "Unassigned", github: "-unassigned-", defaultHidden: false };
   let thresholds = { greenMaxHours: 12, yellowMaxHours: 24 };
   let lastData = null;
   let lastReviewCounts = null;
@@ -94,6 +99,7 @@
     for (const member of teamMembers) {
       group.appendChild(createToggleButton(member));
     }
+    group.appendChild(createToggleButton(UNASSIGNED));
     container.appendChild(group);
   }
 
@@ -103,7 +109,7 @@
   const COLLAPSED_PR_COUNT = 3;
   const COLLAPSE_THRESHOLD = 4;
 
-  function createPrItem(pr) {
+  function createPrItem(pr, waitingSince) {
     const item = document.createElement("div");
     item.className = "pr-item";
 
@@ -124,7 +130,7 @@
     repoInfo.className = "pr-repo";
     repoInfo.textContent = `${pr.repo}#${pr.number} by ${pr.author}`;
 
-    const wait = formatWaitTime(pr.requestedAt);
+    const wait = formatWaitTime(waitingSince);
     const waitSpan = document.createElement("span");
     waitSpan.className = `wait-time ${getWaitClass(wait.hours)}`;
     waitSpan.textContent = wait.text;
@@ -137,6 +143,62 @@
     return item;
   }
 
+  // Build one card. `entries` arrive ordered by author (coworkers, then bots,
+  // then external contributors) and by wait time within each group; see
+  // compareByAuthorThenWait in github.js.
+  function createCard(title, entries, { countLabel, emptyText, waitField }) {
+    const card = document.createElement("div");
+    card.className = "card";
+
+    const header = document.createElement("div");
+    header.className = "card-header";
+
+    const nameSpan = document.createElement("span");
+    nameSpan.textContent = title;
+
+    const countSpan = document.createElement("span");
+    countSpan.className = "review-count";
+    countSpan.textContent =
+      entries.length === 0 ? "" : `${entries.length} ${countLabel}`;
+
+    header.appendChild(nameSpan);
+    header.appendChild(countSpan);
+    card.appendChild(header);
+
+    if (entries.length === 0) {
+      const noReviews = document.createElement("div");
+      noReviews.className = "no-reviews";
+      noReviews.textContent = emptyText;
+      card.appendChild(noReviews);
+      return card;
+    }
+
+    // Cap long queues at the first few PRs so one card doesn't dominate the
+    // grid. Only collapse when it hides more than one PR; expansion is
+    // ephemeral (resets on re-render).
+    const collapse = entries.length > COLLAPSE_THRESHOLD;
+    const shown = collapse ? entries.slice(0, COLLAPSED_PR_COUNT) : entries;
+
+    for (const pr of shown) {
+      card.appendChild(createPrItem(pr, pr[waitField]));
+    }
+
+    if (collapse) {
+      const hidden = entries.slice(COLLAPSED_PR_COUNT);
+      const moreBtn = document.createElement("button");
+      moreBtn.className = "show-more-btn";
+      moreBtn.textContent = `+${hidden.length} more ▾`;
+      moreBtn.addEventListener("click", () => {
+        for (const pr of hidden) {
+          card.insertBefore(createPrItem(pr, pr[waitField]), moreBtn);
+        }
+        moreBtn.remove();
+      });
+      card.appendChild(moreBtn);
+    }
+    return card;
+  }
+
   function renderCards(data) {
     lastData = data;
     const grid = document.getElementById("card-grid");
@@ -144,63 +206,20 @@
 
     for (const member of teamMembers) {
       if (!isMemberVisible(member)) continue;
+      grid.appendChild(createCard(member.name, data.reviews[member.github] || [], {
+        countLabel: "pending",
+        emptyText: "No pending reviews",
+        waitField: "requestedAt",
+      }));
+    }
 
-      const reviews = data.reviews[member.github] || [];
-
-      const card = document.createElement("div");
-      card.className = "card";
-
-      const header = document.createElement("div");
-      header.className = "card-header";
-
-      const nameSpan = document.createElement("span");
-      nameSpan.textContent = member.name;
-
-      const countSpan = document.createElement("span");
-      countSpan.className = "review-count";
-      countSpan.textContent =
-        reviews.length === 0 ? "" : `${reviews.length} pending`;
-
-      header.appendChild(nameSpan);
-      header.appendChild(countSpan);
-      card.appendChild(header);
-
-      if (reviews.length === 0) {
-        const noReviews = document.createElement("div");
-        noReviews.className = "no-reviews";
-        noReviews.textContent = "No pending reviews";
-        card.appendChild(noReviews);
-      } else {
-        // data.json arrives ordered by author (coworkers, then bots, then
-        // external contributors) and by wait time within each group; see
-        // comparePendingReviews in github.js.
-        //
-        // Cap long queues at the first few PRs so one member's card
-        // doesn't dominate the grid. Only collapse when it hides more
-        // than one PR; expansion is ephemeral (resets on re-render).
-        const collapse = reviews.length > COLLAPSE_THRESHOLD;
-        const shown = collapse ? reviews.slice(0, COLLAPSED_PR_COUNT) : reviews;
-
-        for (const pr of shown) {
-          card.appendChild(createPrItem(pr));
-        }
-
-        if (collapse) {
-          const hidden = reviews.slice(COLLAPSED_PR_COUNT);
-          const moreBtn = document.createElement("button");
-          moreBtn.className = "show-more-btn";
-          moreBtn.textContent = `+${hidden.length} more ▾`;
-          moreBtn.addEventListener("click", () => {
-            for (const pr of hidden) {
-              card.insertBefore(createPrItem(pr), moreBtn);
-            }
-            moreBtn.remove();
-          });
-          card.appendChild(moreBtn);
-        }
-      }
-
-      grid.appendChild(card);
+    if (isMemberVisible(UNASSIGNED)) {
+      // The wait runs from when the PR was opened or last marked ready.
+      grid.appendChild(createCard(UNASSIGNED.name, data.unassigned || [], {
+        countLabel: "unassigned",
+        emptyText: "No unassigned PRs",
+        waitField: "waitingSince",
+      }));
     }
   }
 
