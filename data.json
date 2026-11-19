@@ -8,16 +8,6 @@
     "renaynay": [],
     "rootulp": [
       {
-        "number": 200,
-        "title": "perf(baseapp): [high] skip on recheck what CheckTx already checked",
-        "url": "https://github.com/celestiaorg/cosmos-sdk/pull/200",
-        "repo": "cosmos-sdk",
-        "author": "rach-id",
-        "authorCategory": "coworker",
-        "reviewer": "rootulp",
-        "requestedAt": "2026-11-18T12:34:51Z"
-      },
-      {
         "number": 22,
         "title": "fix(transfer)!: [high] return an error instead of panicking on an invalid unescrow denom",
         "url": "https://github.com/celestiaorg/ibc-go/pull/22",
@@ -140,5 +130,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-11-19T00:26:55.466Z"
+  "fetchedAt": "2026-11-19T00:31:55.904Z"
 }
