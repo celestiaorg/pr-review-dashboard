@@ -4,7 +4,18 @@
     "pippokr": [],
     "damiannolan": [],
     "ninabarbakadze": [],
-    "rach-id": [],
+    "rach-id": [
+      {
+        "number": 5420,
+        "title": "chore(deps): [low] bump celestia-app to v11.0.0",
+        "url": "https://github.com/celestiaorg/celestia-node/pull/5420",
+        "repo": "celestia-node",
+        "author": "vgonkivs",
+        "authorCategory": "coworker",
+        "reviewer": "rach-id",
+        "requestedAt": "2026-11-19T12:24:02Z"
+      }
+    ],
     "renaynay": [],
     "rootulp": [
       {
@@ -150,5 +161,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-11-19T12:22:49.804Z"
+  "fetchedAt": "2026-11-19T12:27:50.001Z"
 }
