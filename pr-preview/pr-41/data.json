@@ -1,0 +1,406 @@
+{
+  "reviews": {
+    "chatton": [],
+    "pippokr": [],
+    "damiannolan": [],
+    "ninabarbakadze": [],
+    "rach-id": [
+      {
+        "number": 3761,
+        "title": "perf(p2p/pex): [high] make room for a ban in one pass over the list",
+        "url": "https://github.com/celestiaorg/celestia-core/pull/3761",
+        "repo": "celestia-core",
+        "author": "ninabarbakadze",
+        "authorCategory": "coworker",
+        "reviewer": "rach-id",
+        "requestedAt": "2026-11-19T15:45:43Z"
+      }
+    ],
+    "renaynay": [],
+    "rootulp": [
+      {
+        "number": 200,
+        "title": "perf(baseapp): [high] skip on recheck what CheckTx already checked",
+        "url": "https://github.com/celestiaorg/cosmos-sdk/pull/200",
+        "repo": "cosmos-sdk",
+        "author": "rach-id",
+        "authorCategory": "coworker",
+        "reviewer": "rootulp",
+        "requestedAt": "2026-11-19T07:49:54Z"
+      },
+      {
+        "number": 8486,
+        "title": "feat(fibre): [medium] optionally batch shards into one S3 object",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/8486",
+        "repo": "celestia-app",
+        "author": "walldiss",
+        "authorCategory": "coworker",
+        "reviewer": "rootulp",
+        "requestedAt": "2026-11-19T09:14:54Z"
+      },
+      {
+        "number": 3755,
+        "title": "perf(propagation): [high] reconstruct only the missing original parts",
+        "url": "https://github.com/celestiaorg/celestia-core/pull/3755",
+        "repo": "celestia-core",
+        "author": "rach-id",
+        "authorCategory": "coworker",
+        "reviewer": "rootulp",
+        "requestedAt": "2026-11-19T11:29:50Z"
+      },
+      {
+        "number": 3756,
+        "title": "perf(propagation): [high] hand originals to consensus first, build parity in the background",
+        "url": "https://github.com/celestiaorg/celestia-core/pull/3756",
+        "repo": "celestia-core",
+        "author": "rach-id",
+        "authorCategory": "coworker",
+        "reviewer": "rootulp",
+        "requestedAt": "2026-11-19T11:34:20Z"
+      },
+      {
+        "number": 8702,
+        "title": "perf(app): [high] recheck sends and PFBs on their admitted decode",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/8702",
+        "repo": "celestia-app",
+        "author": "rach-id",
+        "authorCategory": "coworker",
+        "reviewer": "rootulp",
+        "requestedAt": "2026-11-19T11:38:32Z"
+      },
+      {
+        "number": 201,
+        "title": "feat(baseapp): [medium] let apps write check state under its lock and read the streaming manager",
+        "url": "https://github.com/celestiaorg/cosmos-sdk/pull/201",
+        "repo": "cosmos-sdk",
+        "author": "rach-id",
+        "authorCategory": "coworker",
+        "reviewer": "rootulp",
+        "requestedAt": "2026-11-19T11:40:03Z"
+      },
+      {
+        "number": 5418,
+        "title": "fix(state/txclient): [high] cap the estimated gas limit with a max gas option",
+        "url": "https://github.com/celestiaorg/celestia-node/pull/5418",
+        "repo": "celestia-node",
+        "author": "ninabarbakadze",
+        "authorCategory": "coworker",
+        "reviewer": "rootulp",
+        "requestedAt": "2026-11-19T14:30:42Z"
+      },
+      {
+        "number": 202,
+        "title": "perf(store): [high] branch cache multistore substores on first use",
+        "url": "https://github.com/celestiaorg/cosmos-sdk/pull/202",
+        "repo": "cosmos-sdk",
+        "author": "rach-id",
+        "authorCategory": "coworker",
+        "reviewer": "rootulp",
+        "requestedAt": "2026-11-19T15:42:05Z"
+      },
+      {
+        "number": 203,
+        "title": "perf(x/auth): [high] cache decoded accounts by their stored bytes",
+        "url": "https://github.com/celestiaorg/cosmos-sdk/pull/203",
+        "repo": "cosmos-sdk",
+        "author": "rach-id",
+        "authorCategory": "coworker",
+        "reviewer": "rootulp",
+        "requestedAt": "2026-11-19T15:42:24Z"
+      },
+      {
+        "number": 204,
+        "title": "perf(types): [high] cache the bech32 decode in GetFromBech32",
+        "url": "https://github.com/celestiaorg/cosmos-sdk/pull/204",
+        "repo": "cosmos-sdk",
+        "author": "rach-id",
+        "authorCategory": "coworker",
+        "reviewer": "rootulp",
+        "requestedAt": "2026-11-19T15:42:49Z"
+      }
+    ],
+    "vgonkivs": [
+      {
+        "number": 5422,
+        "title": "fix(rpc)!: [high] harden read request handling",
+        "url": "https://github.com/celestiaorg/celestia-node/pull/5422",
+        "repo": "celestia-node",
+        "author": "damiannolan",
+        "authorCategory": "coworker",
+        "reviewer": "vgonkivs",
+        "requestedAt": "2026-11-19T16:04:33Z"
+      },
+      {
+        "number": 5190,
+        "title": "fix(rpc/client): [medium] close namespace connections",
+        "url": "https://github.com/celestiaorg/celestia-node/pull/5190",
+        "repo": "celestia-node",
+        "author": "neyy91",
+        "authorCategory": "external",
+        "reviewer": "vgonkivs",
+        "requestedAt": "2026-08-21T15:05:41Z"
+      }
+    ],
+    "theodorebugnet": [],
+    "walldiss": [
+      {
+        "number": 5422,
+        "title": "fix(rpc)!: [high] harden read request handling",
+        "url": "https://github.com/celestiaorg/celestia-node/pull/5422",
+        "repo": "celestia-node",
+        "author": "damiannolan",
+        "authorCategory": "coworker",
+        "reviewer": "walldiss",
+        "requestedAt": "2026-11-19T16:04:33Z"
+      }
+    ]
+  },
+  "unassigned": [
+    {
+      "number": 2,
+      "title": "feat: add static aggregation hook implementation for cosmosnative",
+      "url": "https://github.com/celestiaorg/hyperlane-cosmos/pull/2",
+      "repo": "hyperlane-cosmos",
+      "author": "damiannolan",
+      "authorCategory": "coworker",
+      "waitingSince": "2026-05-07T12:55:04Z"
+    },
+    {
+      "number": 3,
+      "title": "feat: add rate limited hook implementation for cosmosnative",
+      "url": "https://github.com/celestiaorg/hyperlane-cosmos/pull/3",
+      "repo": "hyperlane-cosmos",
+      "author": "damiannolan",
+      "authorCategory": "coworker",
+      "waitingSince": "2026-05-07T12:56:03Z"
+    },
+    {
+      "number": 4,
+      "title": "feat: add pausable hook implementation for cosmosnative",
+      "url": "https://github.com/celestiaorg/hyperlane-cosmos/pull/4",
+      "repo": "hyperlane-cosmos",
+      "author": "damiannolan",
+      "authorCategory": "coworker",
+      "waitingSince": "2026-05-07T13:09:16Z"
+    },
+    {
+      "number": 1153,
+      "title": "chore(deps)!: [high] update prost, tonic and tendermint-rs",
+      "url": "https://github.com/celestiaorg/lumina/pull/1153",
+      "repo": "lumina",
+      "author": "citizen-stig",
+      "authorCategory": "coworker",
+      "waitingSince": "2026-11-11T10:36:13Z"
+    },
+    {
+      "number": 3674,
+      "title": "fix(propagation): [high] bound per-peer round state inside PeerState",
+      "url": "https://github.com/celestiaorg/celestia-core/pull/3674",
+      "repo": "celestia-core",
+      "author": "rootulp",
+      "authorCategory": "coworker",
+      "waitingSince": "2026-11-12T23:34:35Z"
+    },
+    {
+      "number": 5417,
+      "title": "ci: [low] replace unsupported macos-14 runner with macos-15",
+      "url": "https://github.com/celestiaorg/celestia-node/pull/5417",
+      "repo": "celestia-node",
+      "author": "walldiss",
+      "authorCategory": "coworker",
+      "waitingSince": "2026-11-17T16:11:24Z"
+    },
+    {
+      "number": 3736,
+      "title": "feat(mempool): [low] report recheck duration",
+      "url": "https://github.com/celestiaorg/celestia-core/pull/3736",
+      "repo": "celestia-core",
+      "author": "rach-id",
+      "authorCategory": "coworker",
+      "waitingSince": "2026-11-18T12:26:05Z"
+    },
+    {
+      "number": 3749,
+      "title": "fix(rpc): [high] check the share range before loading the block in prove_shares",
+      "url": "https://github.com/celestiaorg/celestia-core/pull/3749",
+      "repo": "celestia-core",
+      "author": "ninabarbakadze",
+      "authorCategory": "coworker",
+      "waitingSince": "2026-11-18T15:00:32Z"
+    },
+    {
+      "number": 8586,
+      "title": "ci: [high] narrow v10.x CODEOWNERS so auto-approve approvals count",
+      "url": "https://github.com/celestiaorg/celestia-app/pull/8586",
+      "repo": "celestia-app",
+      "author": "walldiss",
+      "authorCategory": "coworker",
+      "waitingSince": "2026-11-18T16:06:53Z"
+    },
+    {
+      "number": 1,
+      "title": "chore(deps): bump the go_modules group across 2 directories with 9 updates",
+      "url": "https://github.com/celestiaorg/hyperlane-cosmos/pull/1",
+      "repo": "hyperlane-cosmos",
+      "author": "dependabot",
+      "authorCategory": "bot",
+      "waitingSince": "2026-05-06T09:34:40Z"
+    },
+    {
+      "number": 42,
+      "title": "chore(deps): [medium] bump the github-actions group across 1 directory with 3 updates",
+      "url": "https://github.com/celestiaorg/fibre-gateway-client/pull/42",
+      "repo": "fibre-gateway-client",
+      "author": "dependabot",
+      "authorCategory": "bot",
+      "waitingSince": "2026-11-09T17:15:55Z"
+    },
+    {
+      "number": 218,
+      "title": "chore(deps): [medium] bump go.opentelemetry.io/otel/sdk from 1.45.0 to 1.47.0 in the go_modules group across 1 directory",
+      "url": "https://github.com/celestiaorg/tastora/pull/218",
+      "repo": "tastora",
+      "author": "dependabot",
+      "authorCategory": "bot",
+      "waitingSince": "2026-11-14T05:11:10Z"
+    },
+    {
+      "number": 3699,
+      "title": "fix(cmd/debug): create debug archives with owner-only permissions (backport #3354)",
+      "url": "https://github.com/celestiaorg/celestia-core/pull/3699",
+      "repo": "celestia-core",
+      "author": "mergify",
+      "authorCategory": "bot",
+      "waitingSince": "2026-11-17T12:12:09Z"
+    },
+    {
+      "number": 3700,
+      "title": "perf(propagation): [high] forward compact blocks before local recovery (backport #3471)",
+      "url": "https://github.com/celestiaorg/celestia-core/pull/3700",
+      "repo": "celestia-core",
+      "author": "mergify",
+      "authorCategory": "bot",
+      "waitingSince": "2026-11-17T12:12:14Z"
+    },
+    {
+      "number": 3701,
+      "title": "perf(p2p): [high] flush latency-critical messages once the send queues drain (backport #3472)",
+      "url": "https://github.com/celestiaorg/celestia-core/pull/3701",
+      "repo": "celestia-core",
+      "author": "mergify",
+      "authorCategory": "bot",
+      "waitingSince": "2026-11-17T12:12:24Z"
+    },
+    {
+      "number": 3747,
+      "title": "fix(consensus): [high] re-propose ValidBlock with the parts that got the polka (backport #3631)",
+      "url": "https://github.com/celestiaorg/celestia-core/pull/3747",
+      "repo": "celestia-core",
+      "author": "mergify",
+      "authorCategory": "bot",
+      "waitingSince": "2026-11-18T14:41:54Z"
+    },
+    {
+      "number": 3748,
+      "title": "fix(mempool/cat): [high] give each peer a byte budget in the received-tx buffer (backport #3676)",
+      "url": "https://github.com/celestiaorg/celestia-core/pull/3748",
+      "repo": "celestia-core",
+      "author": "mergify",
+      "authorCategory": "bot",
+      "waitingSince": "2026-11-18T14:42:42Z"
+    },
+    {
+      "number": 444,
+      "title": "feat(sync): [high] trace Head stages and pruning",
+      "url": "https://github.com/celestiaorg/go-header/pull/444",
+      "repo": "go-header",
+      "author": "loglapa",
+      "authorCategory": "external",
+      "waitingSince": "2026-11-11T11:02:18Z"
+    },
+    {
+      "number": 5409,
+      "title": "fix(share/shwap): [medium] classify range ID out-of-bounds with ErrOutOfBounds",
+      "url": "https://github.com/celestiaorg/celestia-node/pull/5409",
+      "repo": "celestia-node",
+      "author": "amalsaidov",
+      "authorCategory": "external",
+      "waitingSince": "2026-11-13T09:30:14Z"
+    },
+    {
+      "number": 8610,
+      "title": "fix(minfee): [medium] don't panic validating a genesis without a network min gas price",
+      "url": "https://github.com/celestiaorg/celestia-app/pull/8610",
+      "repo": "celestia-app",
+      "author": "amalsaidov",
+      "authorCategory": "external",
+      "waitingSince": "2026-11-13T11:01:47Z"
+    },
+    {
+      "number": 3758,
+      "title": "docs(architecture): [low] repair ADR links",
+      "url": "https://github.com/celestiaorg/celestia-core/pull/3758",
+      "repo": "celestia-core",
+      "author": "woniush",
+      "authorCategory": "external",
+      "waitingSince": "2026-11-19T09:32:29Z"
+    }
+  ],
+  "teamMembers": [
+    {
+      "name": "Cian",
+      "github": "chatton",
+      "defaultHidden": false
+    },
+    {
+      "name": "Cris",
+      "github": "pippokr",
+      "defaultHidden": false
+    },
+    {
+      "name": "Damian",
+      "github": "damiannolan",
+      "defaultHidden": false
+    },
+    {
+      "name": "Nina",
+      "github": "ninabarbakadze",
+      "defaultHidden": false
+    },
+    {
+      "name": "Rachid",
+      "github": "rach-id",
+      "defaultHidden": false
+    },
+    {
+      "name": "Rene",
+      "github": "renaynay",
+      "defaultHidden": false
+    },
+    {
+      "name": "Rootul",
+      "github": "rootulp",
+      "defaultHidden": false
+    },
+    {
+      "name": "Slava",
+      "github": "vgonkivs",
+      "defaultHidden": false
+    },
+    {
+      "name": "Theodore",
+      "github": "theodorebugnet",
+      "defaultHidden": false
+    },
+    {
+      "name": "Vlad",
+      "github": "walldiss",
+      "defaultHidden": false
+    }
+  ],
+  "thresholds": {
+    "greenMaxHours": 12,
+    "yellowMaxHours": 24
+  },
+  "fetchedAt": "2026-11-19T16:31:25.458Z"
+}
