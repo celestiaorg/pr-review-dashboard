@@ -6,14 +6,14 @@
     "ninabarbakadze": [],
     "rach-id": [
       {
-        "number": 3760,
-        "title": "fix(statesync): [high] keep the state sync height until the first block is stored",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3760",
+        "number": 3761,
+        "title": "perf(p2p/pex): [high] make room for a ban in one pass over the list",
+        "url": "https://github.com/celestiaorg/celestia-core/pull/3761",
         "repo": "celestia-core",
         "author": "ninabarbakadze",
         "authorCategory": "coworker",
         "reviewer": "rach-id",
-        "requestedAt": "2026-11-19T15:06:54Z"
+        "requestedAt": "2026-11-19T15:45:43Z"
       }
     ],
     "renaynay": [],
@@ -190,5 +190,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-11-19T15:43:13.170Z"
+  "fetchedAt": "2026-11-19T15:48:12.838Z"
 }
