@@ -126,6 +126,24 @@
       "waitingSince": "2026-11-19T16:55:43Z"
     },
     {
+      "number": 8705,
+      "title": "chore(deps): [high] bump cosmos-sdk to v0.53.6 and store to v1.1.3-celestia.7",
+      "url": "https://github.com/celestiaorg/celestia-app/pull/8705",
+      "repo": "celestia-app",
+      "author": "rach-id",
+      "authorCategory": "coworker",
+      "waitingSince": "2026-11-19T19:09:37Z"
+    },
+    {
+      "number": 8725,
+      "title": "chore(deps): [low] bump celestia-core to v0.43.0-rc1",
+      "url": "https://github.com/celestiaorg/celestia-app/pull/8725",
+      "repo": "celestia-app",
+      "author": "rach-id",
+      "authorCategory": "coworker",
+      "waitingSince": "2026-11-19T19:12:53Z"
+    },
+    {
       "number": 1,
       "title": "chore(deps): bump the go_modules group across 2 directories with 9 updates",
       "url": "https://github.com/celestiaorg/hyperlane-cosmos/pull/1",
@@ -290,5 +308,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-11-19T19:08:04.381Z"
+  "fetchedAt": "2026-11-19T19:13:04.409Z"
 }
