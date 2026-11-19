@@ -4,18 +4,7 @@
     "pippokr": [],
     "damiannolan": [],
     "ninabarbakadze": [],
-    "rach-id": [
-      {
-        "number": 3761,
-        "title": "perf(p2p/pex): [high] make room for a ban in one pass over the list",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3761",
-        "repo": "celestia-core",
-        "author": "ninabarbakadze",
-        "authorCategory": "coworker",
-        "reviewer": "rach-id",
-        "requestedAt": "2026-11-19T15:45:43Z"
-      }
-    ],
+    "rach-id": [],
     "renaynay": [],
     "rootulp": [
       {
@@ -321,5 +310,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-11-19T18:03:04.646Z"
+  "fetchedAt": "2026-11-19T18:08:03.665Z"
 }
