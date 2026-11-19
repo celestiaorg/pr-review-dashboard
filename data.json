@@ -6,16 +6,6 @@
     "ninabarbakadze": [],
     "rach-id": [
       {
-        "number": 219,
-        "title": "feat(hyperlane): [medium] validator agent and multisig ISM",
-        "url": "https://github.com/celestiaorg/tastora/pull/219",
-        "repo": "tastora",
-        "author": "vgonkivs",
-        "authorCategory": "coworker",
-        "reviewer": "rach-id",
-        "requestedAt": "2026-11-19T09:45:47Z"
-      },
-      {
         "number": 3743,
         "title": "fix(p2p/pex): [high] bound the banned peer list",
         "url": "https://github.com/celestiaorg/celestia-core/pull/3743",
@@ -131,5 +121,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-11-19T10:42:48.445Z"
+  "fetchedAt": "2026-11-19T10:47:48.902Z"
 }
