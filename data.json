@@ -158,6 +158,15 @@
       "waitingSince": "2026-11-18T16:06:53Z"
     },
     {
+      "number": 8724,
+      "title": "ci: [low] request designated reviewers on new PRs",
+      "url": "https://github.com/celestiaorg/celestia-app/pull/8724",
+      "repo": "celestia-app",
+      "author": "rootulp",
+      "authorCategory": "coworker",
+      "waitingSince": "2026-11-19T16:55:43Z"
+    },
+    {
       "number": 1,
       "title": "chore(deps): bump the go_modules group across 2 directories with 9 updates",
       "url": "https://github.com/celestiaorg/hyperlane-cosmos/pull/1",
@@ -322,5 +331,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-11-19T16:53:02.994Z"
+  "fetchedAt": "2026-11-19T16:58:03.024Z"
 }
