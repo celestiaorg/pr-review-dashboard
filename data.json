@@ -16,16 +16,6 @@
         "authorCategory": "coworker",
         "reviewer": "rootulp",
         "requestedAt": "2026-11-19T07:49:54Z"
-      },
-      {
-        "number": 202,
-        "title": "perf(store): [high] branch cache multistore substores on first use",
-        "url": "https://github.com/celestiaorg/cosmos-sdk/pull/202",
-        "repo": "cosmos-sdk",
-        "author": "rach-id",
-        "authorCategory": "coworker",
-        "reviewer": "rootulp",
-        "requestedAt": "2026-11-19T18:38:56Z"
       }
     ],
     "vgonkivs": [
@@ -320,5 +310,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-11-19T18:43:03.998Z"
+  "fetchedAt": "2026-11-19T18:48:04.425Z"
 }
