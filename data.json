@@ -29,66 +29,6 @@
         "requestedAt": "2026-11-19T07:49:54Z"
       },
       {
-        "number": 8486,
-        "title": "feat(fibre): [medium] optionally batch shards into one S3 object",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/8486",
-        "repo": "celestia-app",
-        "author": "walldiss",
-        "authorCategory": "coworker",
-        "reviewer": "rootulp",
-        "requestedAt": "2026-11-19T09:14:54Z"
-      },
-      {
-        "number": 3755,
-        "title": "perf(propagation): [high] reconstruct only the missing original parts",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3755",
-        "repo": "celestia-core",
-        "author": "rach-id",
-        "authorCategory": "coworker",
-        "reviewer": "rootulp",
-        "requestedAt": "2026-11-19T11:29:50Z"
-      },
-      {
-        "number": 3756,
-        "title": "perf(propagation): [high] hand originals to consensus first, build parity in the background",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3756",
-        "repo": "celestia-core",
-        "author": "rach-id",
-        "authorCategory": "coworker",
-        "reviewer": "rootulp",
-        "requestedAt": "2026-11-19T11:34:20Z"
-      },
-      {
-        "number": 8702,
-        "title": "perf(app): [high] recheck sends and PFBs on their admitted decode",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/8702",
-        "repo": "celestia-app",
-        "author": "rach-id",
-        "authorCategory": "coworker",
-        "reviewer": "rootulp",
-        "requestedAt": "2026-11-19T11:38:32Z"
-      },
-      {
-        "number": 201,
-        "title": "feat(baseapp): [medium] let apps write check state under its lock and read the streaming manager",
-        "url": "https://github.com/celestiaorg/cosmos-sdk/pull/201",
-        "repo": "cosmos-sdk",
-        "author": "rach-id",
-        "authorCategory": "coworker",
-        "reviewer": "rootulp",
-        "requestedAt": "2026-11-19T11:40:03Z"
-      },
-      {
-        "number": 5418,
-        "title": "fix(state/txclient): [high] cap the estimated gas limit with a max gas option",
-        "url": "https://github.com/celestiaorg/celestia-node/pull/5418",
-        "repo": "celestia-node",
-        "author": "ninabarbakadze",
-        "authorCategory": "coworker",
-        "reviewer": "rootulp",
-        "requestedAt": "2026-11-19T14:30:42Z"
-      },
-      {
         "number": 202,
         "title": "perf(store): [high] branch cache multistore substores on first use",
         "url": "https://github.com/celestiaorg/cosmos-sdk/pull/202",
@@ -117,6 +57,16 @@
         "authorCategory": "coworker",
         "reviewer": "rootulp",
         "requestedAt": "2026-11-19T15:42:49Z"
+      },
+      {
+        "number": 8486,
+        "title": "feat(fibre): [medium] optionally batch shards into one S3 object",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/8486",
+        "repo": "celestia-app",
+        "author": "walldiss",
+        "authorCategory": "coworker",
+        "reviewer": "rootulp",
+        "requestedAt": "2026-11-19T16:46:38Z"
       }
     ],
     "vgonkivs": [
@@ -236,15 +186,6 @@
       "author": "walldiss",
       "authorCategory": "coworker",
       "waitingSince": "2026-11-18T16:06:53Z"
-    },
-    {
-      "number": 8723,
-      "title": "ci: [low] stop adding needs:triage label to new issues",
-      "url": "https://github.com/celestiaorg/celestia-app/pull/8723",
-      "repo": "celestia-app",
-      "author": "rootulp",
-      "authorCategory": "coworker",
-      "waitingSince": "2026-11-19T16:32:42Z"
     },
     {
       "number": 1,
@@ -411,5 +352,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-11-19T16:43:02.635Z"
+  "fetchedAt": "2026-11-19T16:48:02.642Z"
 }
