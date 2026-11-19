@@ -11,14 +11,17 @@ const REVIEW_TIMELINE = `
       createdAt
       review { submittedAt state author { login } }
     }
+    ... on ReadyForReviewEvent {
+      __typename createdAt
+    }
     ... on PullRequestReview {
-      submittedAt state author { login }
+      submittedAt state author { login __typename }
       commit { oid }
     }
   }
 `;
 const REVIEW_TIMELINE_TYPES =
-  "[REVIEW_REQUESTED_EVENT, REVIEW_DISMISSED_EVENT, PULL_REQUEST_REVIEW]";
+  "[REVIEW_REQUESTED_EVENT, REVIEW_DISMISSED_EVENT, PULL_REQUEST_REVIEW, READY_FOR_REVIEW_EVENT]";
 
 const PENDING_REVIEWS_QUERY = `
   query($owner: String!, $name: String!) {
@@ -29,6 +32,7 @@ const PENDING_REVIEWS_QUERY = `
           title
           url
           isDraft
+          createdAt
           authorAssociation
           author { login __typename }
           headRefOid
@@ -218,12 +222,41 @@ function authorCategory(pr, teamHandles) {
 const CATEGORY_RANK = { coworker: 0, bot: 1, external: 2 };
 
 // Coworkers' PRs first, then bots, then external contributors; within a group
-// the longest-waiting review comes first.
-function comparePendingReviews(a, b) {
-  const byCategory =
-    CATEGORY_RANK[a.authorCategory] - CATEGORY_RANK[b.authorCategory];
-  if (byCategory !== 0) return byCategory;
-  return new Date(a.requestedAt) - new Date(b.requestedAt);
+// the longest-waiting PR comes first.
+function compareByAuthorThenWait(waitField) {
+  return (a, b) => {
+    const byCategory =
+      CATEGORY_RANK[a.authorCategory] - CATEGORY_RANK[b.authorCategory];
+    if (byCategory !== 0) return byCategory;
+    return new Date(a[waitField]) - new Date(b[waitField]);
+  };
+}
+const comparePendingReviews = compareByAuthorThenWait("requestedAt");
+const compareUnassigned = compareByAuthorThenWait("waitingSince");
+
+// A PR is unassigned when no user has been asked to review it and no human
+// other than the author has reviewed it. A team-only request (e.g. from
+// CODEOWNERS) names no reviewer, so it does not count. Bot reviews (Copilot,
+// CodeRabbit) do not count either.
+function isUnassigned(pr, timelineNodes) {
+  const requested = (pr.reviewRequests.nodes || [])
+    .some((r) => r.requestedReviewer && r.requestedReviewer.login);
+  if (requested) return false;
+  const authorLogin = pr.author ? pr.author.login : null;
+  return !timelineNodes.some((n) =>
+    n.submittedAt && n.author && !isBotAuthor(n.author) &&
+    n.author.login !== authorLogin);
+}
+
+// The wait starts when the PR was last marked ready for review, or when it was
+// opened if it never was a draft.
+function readyForReviewAt(pr, timelineNodes) {
+  const readyAt = timelineNodes
+    .filter((n) => n.__typename === "ReadyForReviewEvent" && n.createdAt)
+    .map((n) => n.createdAt)
+    .sort((a, b) => new Date(a) - new Date(b))
+    .pop();
+  return readyAt || pr.createdAt;
 }
 
 // A repo the token cannot see — a private repo when the workflow runs on the
@@ -235,11 +268,12 @@ function warnRepoFetchFailed(repo, message) {
   console.warn(process.env.GITHUB_ACTIONS ? `::warning::${text}` : text);
 }
 
-async function getPendingReviews(config, token) {
+async function getDashboardData(config, token) {
   const { org, repos, teamMembers } = config;
   const teamHandles = new Set(teamMembers.map((m) => m.github));
 
   const result = {};
+  const unassigned = [];
   for (const member of teamMembers) {
     result[member.github] = [];
   }
@@ -259,6 +293,17 @@ async function getPendingReviews(config, token) {
     for (const pr of nodes) {
       if (pr.isDraft) continue;
       const timelineNodes = pr.timelineItems.nodes || [];
+      if (isUnassigned(pr, timelineNodes)) {
+        unassigned.push({
+          number: pr.number,
+          title: pr.title,
+          url: pr.url,
+          repo,
+          author: pr.author ? pr.author.login : null,
+          authorCategory: authorCategory(pr, teamHandles),
+          waitingSince: readyForReviewAt(pr, timelineNodes),
+        });
+      }
       const dismissedRequests = dismissedReviewRequests(timelineNodes);
       const updatedRequests = updatedApprovalRequests(pr, timelineNodes);
       const requestedReviewers = new Set((pr.reviewRequests.nodes || [])
@@ -292,10 +337,16 @@ async function getPendingReviews(config, token) {
   for (const reviews of Object.values(result)) {
     reviews.sort(comparePendingReviews);
   }
+  unassigned.sort(compareUnassigned);
 
-  return result;
+  return { reviews: result, unassigned };
+}
+
+async function getPendingReviews(config, token) {
+  return (await getDashboardData(config, token)).reviews;
 }
 
 module.exports = {
+  getDashboardData,
   getPendingReviews,
 };
