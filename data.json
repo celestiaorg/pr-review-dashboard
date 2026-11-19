@@ -14,16 +14,6 @@
         "authorCategory": "coworker",
         "reviewer": "rach-id",
         "requestedAt": "2026-11-19T15:45:43Z"
-      },
-      {
-        "number": 3759,
-        "title": "fix(privval): [high] keep dialing the node from the signer server",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3759",
-        "repo": "celestia-core",
-        "author": "ninabarbakadze",
-        "authorCategory": "coworker",
-        "reviewer": "rach-id",
-        "requestedAt": "2026-11-19T15:50:01Z"
       }
     ],
     "renaynay": [],
@@ -221,5 +211,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-11-19T16:08:13.432Z"
+  "fetchedAt": "2026-11-19T16:13:13.803Z"
 }
