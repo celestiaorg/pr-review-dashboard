@@ -26,7 +26,7 @@
         "author": "rach-id",
         "authorCategory": "coworker",
         "reviewer": "vgonkivs",
-        "requestedAt": "2026-11-19T21:40:16Z"
+        "requestedAt": "2026-11-19T21:50:21Z"
       },
       {
         "number": 5190,
@@ -291,5 +291,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-11-19T21:48:06.857Z"
+  "fetchedAt": "2026-11-19T21:53:06.222Z"
 }
