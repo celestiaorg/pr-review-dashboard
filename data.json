@@ -110,15 +110,6 @@
       "waitingSince": "2026-11-17T16:11:24Z"
     },
     {
-      "number": 3736,
-      "title": "feat(mempool): [low] report recheck duration",
-      "url": "https://github.com/celestiaorg/celestia-core/pull/3736",
-      "repo": "celestia-core",
-      "author": "rach-id",
-      "authorCategory": "coworker",
-      "waitingSince": "2026-11-18T12:26:05Z"
-    },
-    {
       "number": 3749,
       "title": "fix(rpc): [high] check the share range before loading the block in prove_shares",
       "url": "https://github.com/celestiaorg/celestia-core/pull/3749",
@@ -310,5 +301,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-11-19T18:58:04.069Z"
+  "fetchedAt": "2026-11-19T19:03:04.168Z"
 }
