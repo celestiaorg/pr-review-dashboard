@@ -16,16 +16,6 @@
         "authorCategory": "coworker",
         "reviewer": "rootulp",
         "requestedAt": "2026-11-19T07:49:54Z"
-      },
-      {
-        "number": 3756,
-        "title": "perf(propagation): [high] hand originals to consensus first, build parity in the background",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3756",
-        "repo": "celestia-core",
-        "author": "rach-id",
-        "authorCategory": "coworker",
-        "reviewer": "rootulp",
-        "requestedAt": "2026-11-19T18:10:33Z"
       }
     ],
     "vgonkivs": [
@@ -320,5 +310,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-11-19T18:23:04.621Z"
+  "fetchedAt": "2026-11-19T18:28:04.205Z"
 }
