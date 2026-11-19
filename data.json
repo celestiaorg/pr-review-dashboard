@@ -6,16 +6,6 @@
     "ninabarbakadze": [],
     "rach-id": [
       {
-        "number": 3745,
-        "title": "fix(light/rpc): [high] stop forwarding events after unsubscribe or disconnect",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3745",
-        "repo": "celestia-core",
-        "author": "ninabarbakadze",
-        "authorCategory": "coworker",
-        "reviewer": "rach-id",
-        "requestedAt": "2026-11-19T13:33:30Z"
-      },
-      {
         "number": 3760,
         "title": "fix(statesync): [high] keep the state sync height until the first block is stored",
         "url": "https://github.com/celestiaorg/celestia-core/pull/3760",
@@ -170,5 +160,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-11-19T15:33:12.991Z"
+  "fetchedAt": "2026-11-19T15:38:12.826Z"
 }
