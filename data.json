@@ -87,6 +87,36 @@
         "authorCategory": "coworker",
         "reviewer": "rootulp",
         "requestedAt": "2026-11-19T14:30:42Z"
+      },
+      {
+        "number": 202,
+        "title": "perf(store): [high] branch cache multistore substores on first use",
+        "url": "https://github.com/celestiaorg/cosmos-sdk/pull/202",
+        "repo": "cosmos-sdk",
+        "author": "rach-id",
+        "authorCategory": "coworker",
+        "reviewer": "rootulp",
+        "requestedAt": "2026-11-19T15:42:05Z"
+      },
+      {
+        "number": 203,
+        "title": "perf(x/auth): [high] cache decoded accounts by their stored bytes",
+        "url": "https://github.com/celestiaorg/cosmos-sdk/pull/203",
+        "repo": "cosmos-sdk",
+        "author": "rach-id",
+        "authorCategory": "coworker",
+        "reviewer": "rootulp",
+        "requestedAt": "2026-11-19T15:42:24Z"
+      },
+      {
+        "number": 204,
+        "title": "perf(types): [high] cache the bech32 decode in GetFromBech32",
+        "url": "https://github.com/celestiaorg/cosmos-sdk/pull/204",
+        "repo": "cosmos-sdk",
+        "author": "rach-id",
+        "authorCategory": "coworker",
+        "reviewer": "rootulp",
+        "requestedAt": "2026-11-19T15:42:49Z"
       }
     ],
     "vgonkivs": [
@@ -160,5 +190,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-11-19T15:38:12.826Z"
+  "fetchedAt": "2026-11-19T15:43:13.170Z"
 }
