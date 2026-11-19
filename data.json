@@ -6,18 +6,7 @@
     "ninabarbakadze": [],
     "rach-id": [],
     "renaynay": [],
-    "rootulp": [
-      {
-        "number": 200,
-        "title": "perf(baseapp): [high] skip on recheck what CheckTx already checked",
-        "url": "https://github.com/celestiaorg/cosmos-sdk/pull/200",
-        "repo": "cosmos-sdk",
-        "author": "rach-id",
-        "authorCategory": "coworker",
-        "reviewer": "rootulp",
-        "requestedAt": "2026-11-19T18:49:32Z"
-      }
-    ],
+    "rootulp": [],
     "vgonkivs": [
       {
         "number": 5422,
@@ -301,5 +290,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-11-19T19:03:04.168Z"
+  "fetchedAt": "2026-11-19T19:08:04.381Z"
 }
