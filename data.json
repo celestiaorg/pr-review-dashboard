@@ -6,28 +6,7 @@
     "ninabarbakadze": [],
     "rach-id": [],
     "renaynay": [],
-    "rootulp": [
-      {
-        "number": 21,
-        "title": "fix(transfer): [low] print the amount, not a pointer, in the non-positive amount error",
-        "url": "https://github.com/celestiaorg/ibc-go/pull/21",
-        "repo": "ibc-go",
-        "author": "damiannolan",
-        "authorCategory": "coworker",
-        "reviewer": "rootulp",
-        "requestedAt": "2026-11-18T14:06:16Z"
-      },
-      {
-        "number": 3746,
-        "title": "fix(types): [high] ignore the reserved event type key in app events",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3746",
-        "repo": "celestia-core",
-        "author": "ninabarbakadze",
-        "authorCategory": "coworker",
-        "reviewer": "rootulp",
-        "requestedAt": "2026-11-18T14:45:21Z"
-      }
-    ],
+    "rootulp": [],
     "vgonkivs": [
       {
         "number": 5190,
@@ -120,5 +99,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-11-19T00:36:55.606Z"
+  "fetchedAt": "2026-11-19T00:41:55.818Z"
 }
