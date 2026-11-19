@@ -46,6 +46,26 @@
         "authorCategory": "coworker",
         "reviewer": "rootulp",
         "requestedAt": "2026-11-19T11:34:20Z"
+      },
+      {
+        "number": 8702,
+        "title": "perf(app): [high] recheck sends and PFBs on their admitted decode",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/8702",
+        "repo": "celestia-app",
+        "author": "rach-id",
+        "authorCategory": "coworker",
+        "reviewer": "rootulp",
+        "requestedAt": "2026-11-19T11:38:32Z"
+      },
+      {
+        "number": 201,
+        "title": "feat(baseapp): [medium] let apps write check state under its lock and read the streaming manager",
+        "url": "https://github.com/celestiaorg/cosmos-sdk/pull/201",
+        "repo": "cosmos-sdk",
+        "author": "rach-id",
+        "authorCategory": "coworker",
+        "reviewer": "rootulp",
+        "requestedAt": "2026-11-19T11:40:03Z"
       }
     ],
     "vgonkivs": [
@@ -130,5 +150,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-11-19T11:37:49.506Z"
+  "fetchedAt": "2026-11-19T11:42:52.838Z"
 }
