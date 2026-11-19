@@ -19,6 +19,26 @@
         "requestedAt": "2026-11-19T16:04:33Z"
       },
       {
+        "number": 8705,
+        "title": "chore(deps): [high] bump cosmos-sdk to v0.53.6 and store to v1.1.3-celestia.7",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/8705",
+        "repo": "celestia-app",
+        "author": "rach-id",
+        "authorCategory": "coworker",
+        "reviewer": "vgonkivs",
+        "requestedAt": "2026-11-19T19:19:54Z"
+      },
+      {
+        "number": 8725,
+        "title": "chore(deps): [low] bump celestia-core to v0.43.0-rc1",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/8725",
+        "repo": "celestia-app",
+        "author": "rach-id",
+        "authorCategory": "coworker",
+        "reviewer": "vgonkivs",
+        "requestedAt": "2026-11-19T19:20:03Z"
+      },
+      {
         "number": 5190,
         "title": "fix(rpc/client): [medium] close namespace connections",
         "url": "https://github.com/celestiaorg/celestia-node/pull/5190",
@@ -124,24 +144,6 @@
       "author": "rootulp",
       "authorCategory": "coworker",
       "waitingSince": "2026-11-19T16:55:43Z"
-    },
-    {
-      "number": 8705,
-      "title": "chore(deps): [high] bump cosmos-sdk to v0.53.6 and store to v1.1.3-celestia.7",
-      "url": "https://github.com/celestiaorg/celestia-app/pull/8705",
-      "repo": "celestia-app",
-      "author": "rach-id",
-      "authorCategory": "coworker",
-      "waitingSince": "2026-11-19T19:09:37Z"
-    },
-    {
-      "number": 8725,
-      "title": "chore(deps): [low] bump celestia-core to v0.43.0-rc1",
-      "url": "https://github.com/celestiaorg/celestia-app/pull/8725",
-      "repo": "celestia-app",
-      "author": "rach-id",
-      "authorCategory": "coworker",
-      "waitingSince": "2026-11-19T19:12:53Z"
     },
     {
       "number": 1,
@@ -308,5 +310,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-11-19T19:18:05.190Z"
+  "fetchedAt": "2026-11-19T19:23:05.831Z"
 }
