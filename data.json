@@ -26,6 +26,16 @@
         "authorCategory": "coworker",
         "reviewer": "rootulp",
         "requestedAt": "2026-11-19T09:14:54Z"
+      },
+      {
+        "number": 3755,
+        "title": "perf(propagation): [high] reconstruct only the missing original parts",
+        "url": "https://github.com/celestiaorg/celestia-core/pull/3755",
+        "repo": "celestia-core",
+        "author": "rach-id",
+        "authorCategory": "coworker",
+        "reviewer": "rootulp",
+        "requestedAt": "2026-11-19T11:29:50Z"
       }
     ],
     "vgonkivs": [
@@ -110,5 +120,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-11-19T11:27:49.167Z"
+  "fetchedAt": "2026-11-19T11:32:49.438Z"
 }
