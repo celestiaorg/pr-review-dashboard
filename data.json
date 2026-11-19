@@ -4,28 +4,7 @@
     "pippokr": [],
     "damiannolan": [],
     "ninabarbakadze": [],
-    "rach-id": [
-      {
-        "number": 3741,
-        "title": "fix(privval): [high] reconnect the signer server after a read error",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3741",
-        "repo": "celestia-core",
-        "author": "ninabarbakadze",
-        "authorCategory": "coworker",
-        "reviewer": "rach-id",
-        "requestedAt": "2026-11-19T07:39:34Z"
-      },
-      {
-        "number": 8486,
-        "title": "feat(fibre): [medium] optionally batch shards into one S3 object",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/8486",
-        "repo": "celestia-app",
-        "author": "walldiss",
-        "authorCategory": "coworker",
-        "reviewer": "rach-id",
-        "requestedAt": "2026-11-19T09:14:54Z"
-      }
-    ],
+    "rach-id": [],
     "renaynay": [],
     "rootulp": [
       {
@@ -130,5 +109,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-11-19T09:22:47.195Z"
+  "fetchedAt": "2026-11-19T09:27:47.878Z"
 }
