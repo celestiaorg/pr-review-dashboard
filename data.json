@@ -128,15 +128,6 @@
       "waitingSince": "2026-11-18T15:00:32Z"
     },
     {
-      "number": 8586,
-      "title": "ci: [high] narrow v10.x CODEOWNERS so auto-approve approvals count",
-      "url": "https://github.com/celestiaorg/celestia-app/pull/8586",
-      "repo": "celestia-app",
-      "author": "walldiss",
-      "authorCategory": "coworker",
-      "waitingSince": "2026-11-18T16:06:53Z"
-    },
-    {
       "number": 8724,
       "title": "ci: [low] request designated reviewers on new PRs",
       "url": "https://github.com/celestiaorg/celestia-app/pull/8724",
@@ -310,5 +301,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-11-19T19:48:05.279Z"
+  "fetchedAt": "2026-11-19T19:53:06.042Z"
 }
