@@ -1,12 +1,13 @@
 const fs = require("fs");
 const path = require("path");
 const config = require("../config");
-const { getPendingReviews } = require("../github");
+const { getDashboardData } = require("../github");
 
 async function main({ config, token, outputPath }) {
-  const reviews = await getPendingReviews(config, token);
+  const { reviews, unassigned } = await getDashboardData(config, token);
   const payload = {
     reviews,
+    unassigned,
     teamMembers: config.teamMembers,
     thresholds: config.thresholds,
     fetchedAt: new Date().toISOString(),

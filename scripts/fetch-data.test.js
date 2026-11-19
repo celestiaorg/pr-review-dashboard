@@ -3,10 +3,10 @@ const path = require("path");
 const os = require("os");
 
 jest.mock("../github", () => ({
-  getPendingReviews: jest.fn(),
+  getDashboardData: jest.fn(),
 }));
 
-const { getPendingReviews } = require("../github");
+const { getDashboardData } = require("../github");
 const { main } = require("./fetch-data");
 
 describe("fetch-data main", () => {
@@ -21,9 +21,10 @@ describe("fetch-data main", () => {
     jest.clearAllMocks();
   });
 
-  test("writes data.json with reviews, teamMembers, thresholds, and fetchedAt", async () => {
+  test("writes data.json with reviews, unassigned, teamMembers, thresholds, and fetchedAt", async () => {
     const fakeReviews = { rootulp: [{ number: 1 }], ninabarbakadze: [] };
-    getPendingReviews.mockResolvedValue(fakeReviews);
+    const fakeUnassigned = [{ number: 2 }];
+    getDashboardData.mockResolvedValue({ reviews: fakeReviews, unassigned: fakeUnassigned });
 
     const config = {
       org: "celestiaorg",
@@ -36,10 +37,11 @@ describe("fetch-data main", () => {
 
     const written = JSON.parse(fs.readFileSync(outputPath, "utf8"));
     expect(written.reviews).toEqual(fakeReviews);
+    expect(written.unassigned).toEqual(fakeUnassigned);
     expect(written.teamMembers).toEqual(config.teamMembers);
     expect(written.thresholds).toEqual(config.thresholds);
     expect(typeof written.fetchedAt).toBe("string");
     expect(new Date(written.fetchedAt).toString()).not.toBe("Invalid Date");
-    expect(getPendingReviews).toHaveBeenCalledWith(config, "ghp_fake");
+    expect(getDashboardData).toHaveBeenCalledWith(config, "ghp_fake");
   });
 });

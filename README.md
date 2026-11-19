@@ -10,6 +10,7 @@ A live dashboard that shows each protocol team member's pending PR review queue,
 - Dismissed reviews return to the reviewer's queue even without a new review request; the wait starts at dismissal (or a later explicit request), and a replacement review clears the entry
 - New commits after an approval also return the PR to that reviewer's queue until they submit another review. Wait time starts at the latest commit's push date (commit date if unavailable, bounded by the approval date).
 - Wait times color-coded: green (≤12h), yellow (12-24h), red (>24h)
+- **Unassigned** card lists open, non-draft PRs that no user has been asked to review and no human (other than the author) has reviewed, so the team can see which PRs still need a reviewer. A team-only review request (e.g. from CODEOWNERS) and bot reviews do not count as assigned. The wait starts when the PR was opened, or when it was last marked ready for review.
 - Toggle buttons to show/hide members (e.g., when they're on another project), listed alphabetically
 - Each queue is ordered by PR author — coworkers (org members and repo collaborators) first, then bots like dependabot, then external contributors — and by longest wait within each group
 - Cards with more than 4 pending reviews collapse to the first 3 with a "+N more" expander

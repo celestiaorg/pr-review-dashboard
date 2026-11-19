@@ -1,4 +1,4 @@
-const { getPendingReviews } = require("./github");
+const { getPendingReviews, getDashboardData } = require("./github");
 
 global.fetch = jest.fn();
 
@@ -659,5 +659,94 @@ describe("pending review ordering", () => {
 
     const result = await getPendingReviews(config, MOCK_TOKEN);
     expect(result.rootulp.map((pr) => pr.number)).toEqual([2, 3, 1]);
+  });
+});
+
+describe("unassigned PRs", () => {
+  const config = {
+    org: "celestiaorg",
+    repos: ["celestia-app"],
+    teamMembers: [{ name: "Rootul", github: "rootulp" }],
+  };
+  function pr({ number = 10, requested = [], nodes = [], ...extra } = {}) {
+    return {
+      number, title: `PR ${number}`, url: `https://example.com/${number}`,
+      isDraft: false, createdAt: "2026-04-10T08:00:00Z",
+      author: { login: "cmwaters" }, authorAssociation: "MEMBER",
+      reviewRequests: { nodes: requested },
+      timelineItems: { nodes },
+      ...extra,
+    };
+  }
+  async function unassigned(...prs) {
+    fetch.mockResolvedValueOnce(graphqlOk(prs));
+    return (await getDashboardData(config, MOCK_TOKEN)).unassigned;
+  }
+
+  test("lists a PR with no review requests and no reviews, waiting since creation", async () => {
+    expect(await unassigned(pr())).toEqual([{
+      number: 10, title: "PR 10", url: "https://example.com/10",
+      repo: "celestia-app", author: "cmwaters", authorCategory: "coworker",
+      waitingSince: "2026-04-10T08:00:00Z",
+    }]);
+  });
+
+  test("still returns the pending review queues", async () => {
+    fetch.mockResolvedValueOnce(graphqlOk([pr({
+      requested: [{ requestedReviewer: { login: "rootulp" } }],
+      nodes: [{ createdAt: "2026-04-11T08:00:00Z", requestedReviewer: { login: "rootulp" } }],
+    })]));
+    const data = await getDashboardData(config, MOCK_TOKEN);
+    expect(data.reviews.rootulp).toHaveLength(1);
+    expect(data.unassigned).toEqual([]);
+  });
+
+  test("a review request for any user, on the team or not, counts as assigned", async () => {
+    expect(await unassigned(
+      pr({ requested: [{ requestedReviewer: { login: "rootulp" } }] }),
+      pr({ number: 11, requested: [{ requestedReviewer: { login: "someone-else" } }] }),
+    )).toEqual([]);
+  });
+
+  test("a team-only review request does not name a reviewer, so stays unassigned", async () => {
+    expect(await unassigned(pr({ requested: [{ requestedReviewer: {} }] }))).toHaveLength(1);
+  });
+
+  test("a submitted review by another human counts as assigned", async () => {
+    expect(await unassigned(pr({ nodes: [{
+      author: { login: "ninabarbakadze", __typename: "User" },
+      submittedAt: "2026-04-11T08:00:00Z", state: "COMMENTED",
+    }] }))).toEqual([]);
+  });
+
+  test("ignores reviews by bots, by the author, and unsubmitted drafts", async () => {
+    expect(await unassigned(pr({ nodes: [
+      { author: { login: "coderabbitai", __typename: "Bot" }, submittedAt: "2026-04-11T08:00:00Z", state: "COMMENTED" },
+      { author: { login: "copilot-pull-request-reviewer[bot]" }, submittedAt: "2026-04-11T08:00:00Z", state: "COMMENTED" },
+      { author: { login: "cmwaters", __typename: "User" }, submittedAt: "2026-04-11T08:00:00Z", state: "COMMENTED" },
+      { author: { login: "ninabarbakadze", __typename: "User" }, submittedAt: null, state: "PENDING" },
+    ] }))).toHaveLength(1);
+  });
+
+  test("skips draft PRs", async () => {
+    expect(await unassigned(pr({ isDraft: true }))).toEqual([]);
+  });
+
+  test("waits from the latest ready-for-review event when the PR started as a draft", async () => {
+    const [entry] = await unassigned(pr({ nodes: [
+      { __typename: "ReadyForReviewEvent", createdAt: "2026-04-12T08:00:00Z" },
+      { __typename: "ReadyForReviewEvent", createdAt: "2026-04-14T08:00:00Z" },
+    ] }));
+    expect(entry.waitingSince).toBe("2026-04-14T08:00:00Z");
+  });
+
+  test("orders coworkers, then bots, then external contributors, longest wait first", async () => {
+    const result = await unassigned(
+      pr({ number: 1, author: { login: "outsider" }, authorAssociation: "NONE" }),
+      pr({ number: 2, author: { login: "dependabot", __typename: "Bot" }, authorAssociation: "NONE" }),
+      pr({ number: 3, createdAt: "2026-04-12T08:00:00Z" }),
+      pr({ number: 4, createdAt: "2026-04-09T08:00:00Z" }),
+    );
+    expect(result.map((p) => p.number)).toEqual([4, 3, 2, 1]);
   });
 });
