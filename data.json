@@ -103,7 +103,7 @@
       },
       {
         "number": 5192,
-        "title": "fix(store/file): deduplicate concurrent ODS cache fills",
+        "title": "fix(store/file): [medium] deduplicate concurrent ODS cache fills",
         "url": "https://github.com/celestiaorg/celestia-node/pull/5192",
         "repo": "celestia-node",
         "author": "neyy91",
@@ -292,5 +292,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-11-20T12:09:15.899Z"
+  "fetchedAt": "2026-11-20T12:14:16.050Z"
 }
