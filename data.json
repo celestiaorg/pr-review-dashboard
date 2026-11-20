@@ -25,7 +25,48 @@
         "requestedAt": "2026-11-20T00:39:50Z"
       }
     ],
-    "rach-id": [],
+    "rach-id": [
+      {
+        "number": 3765,
+        "title": "fix(rpc): [low] reject out of range chunks in genesis_chunked",
+        "url": "https://github.com/celestiaorg/celestia-core/pull/3765",
+        "repo": "celestia-core",
+        "author": "ninabarbakadze",
+        "authorCategory": "coworker",
+        "reviewer": "rach-id",
+        "requestedAt": "2026-11-20T14:10:09Z"
+      },
+      {
+        "number": 3766,
+        "title": "fix(light/rpc): [low] bind Block and BlockResults to the requested height",
+        "url": "https://github.com/celestiaorg/celestia-core/pull/3766",
+        "repo": "celestia-core",
+        "author": "ninabarbakadze",
+        "authorCategory": "coworker",
+        "reviewer": "rach-id",
+        "requestedAt": "2026-11-20T14:10:12Z"
+      },
+      {
+        "number": 3767,
+        "title": "fix(light/rpc): [low] serve requests without a height from the latest trusted light block",
+        "url": "https://github.com/celestiaorg/celestia-core/pull/3767",
+        "repo": "celestia-core",
+        "author": "ninabarbakadze",
+        "authorCategory": "coworker",
+        "reviewer": "rach-id",
+        "requestedAt": "2026-11-20T14:10:25Z"
+      },
+      {
+        "number": 3768,
+        "title": "fix(evidence): [low] queue evidence messages without blocking the peer",
+        "url": "https://github.com/celestiaorg/celestia-core/pull/3768",
+        "repo": "celestia-core",
+        "author": "ninabarbakadze",
+        "authorCategory": "coworker",
+        "reviewer": "rach-id",
+        "requestedAt": "2026-11-20T14:10:36Z"
+      }
+    ],
     "renaynay": [
       {
         "number": 5424,
@@ -39,6 +80,46 @@
       }
     ],
     "rootulp": [
+      {
+        "number": 3765,
+        "title": "fix(rpc): [low] reject out of range chunks in genesis_chunked",
+        "url": "https://github.com/celestiaorg/celestia-core/pull/3765",
+        "repo": "celestia-core",
+        "author": "ninabarbakadze",
+        "authorCategory": "coworker",
+        "reviewer": "rootulp",
+        "requestedAt": "2026-11-20T14:10:07Z"
+      },
+      {
+        "number": 3766,
+        "title": "fix(light/rpc): [low] bind Block and BlockResults to the requested height",
+        "url": "https://github.com/celestiaorg/celestia-core/pull/3766",
+        "repo": "celestia-core",
+        "author": "ninabarbakadze",
+        "authorCategory": "coworker",
+        "reviewer": "rootulp",
+        "requestedAt": "2026-11-20T14:10:11Z"
+      },
+      {
+        "number": 3767,
+        "title": "fix(light/rpc): [low] serve requests without a height from the latest trusted light block",
+        "url": "https://github.com/celestiaorg/celestia-core/pull/3767",
+        "repo": "celestia-core",
+        "author": "ninabarbakadze",
+        "authorCategory": "coworker",
+        "reviewer": "rootulp",
+        "requestedAt": "2026-11-20T14:10:23Z"
+      },
+      {
+        "number": 3768,
+        "title": "fix(evidence): [low] queue evidence messages without blocking the peer",
+        "url": "https://github.com/celestiaorg/celestia-core/pull/3768",
+        "repo": "celestia-core",
+        "author": "ninabarbakadze",
+        "authorCategory": "coworker",
+        "reviewer": "rootulp",
+        "requestedAt": "2026-11-20T14:10:35Z"
+      },
       {
         "number": 8729,
         "title": "fix(user): [low] keep the timeout height when re-signing after a sequence mismatch (backport #8422)",
@@ -292,5 +373,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-11-20T14:09:17.893Z"
+  "fetchedAt": "2026-11-20T14:14:17.817Z"
 }
