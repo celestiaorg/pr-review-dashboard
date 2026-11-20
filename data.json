@@ -100,6 +100,16 @@
         "authorCategory": "external",
         "reviewer": "vgonkivs",
         "requestedAt": "2026-08-21T15:05:41Z"
+      },
+      {
+        "number": 5192,
+        "title": "fix(store/file): deduplicate concurrent ODS cache fills",
+        "url": "https://github.com/celestiaorg/celestia-node/pull/5192",
+        "repo": "celestia-node",
+        "author": "neyy91",
+        "authorCategory": "external",
+        "reviewer": "vgonkivs",
+        "requestedAt": "2026-08-21T15:06:23Z"
       }
     ],
     "theodorebugnet": [],
@@ -282,5 +292,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-11-20T12:04:16.027Z"
+  "fetchedAt": "2026-11-20T12:09:15.899Z"
 }
