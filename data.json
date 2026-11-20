@@ -65,6 +65,16 @@
         "authorCategory": "coworker",
         "reviewer": "rach-id",
         "requestedAt": "2026-11-20T14:10:36Z"
+      },
+      {
+        "number": 8737,
+        "title": "fix(fibre): [low] check the promise format in the ValidatePaymentPromise query",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/8737",
+        "repo": "celestia-app",
+        "author": "ninabarbakadze",
+        "authorCategory": "coworker",
+        "reviewer": "rach-id",
+        "requestedAt": "2026-11-20T14:15:20Z"
       }
     ],
     "renaynay": [
@@ -77,6 +87,36 @@
         "authorCategory": "coworker",
         "reviewer": "renaynay",
         "requestedAt": "2026-11-20T12:28:54Z"
+      },
+      {
+        "number": 5425,
+        "title": "fix(api/rpc): [low] limit the request body before authentication",
+        "url": "https://github.com/celestiaorg/celestia-node/pull/5425",
+        "repo": "celestia-node",
+        "author": "ninabarbakadze",
+        "authorCategory": "coworker",
+        "reviewer": "renaynay",
+        "requestedAt": "2026-11-20T14:15:28Z"
+      },
+      {
+        "number": 5426,
+        "title": "fix(api/rpc): [low] limit open connections at the listener",
+        "url": "https://github.com/celestiaorg/celestia-node/pull/5426",
+        "repo": "celestia-node",
+        "author": "ninabarbakadze",
+        "authorCategory": "coworker",
+        "reviewer": "renaynay",
+        "requestedAt": "2026-11-20T14:15:49Z"
+      },
+      {
+        "number": 5427,
+        "title": "fix(core): [low] back off between new height subscription retries",
+        "url": "https://github.com/celestiaorg/celestia-node/pull/5427",
+        "repo": "celestia-node",
+        "author": "ninabarbakadze",
+        "authorCategory": "coworker",
+        "reviewer": "renaynay",
+        "requestedAt": "2026-11-20T14:15:50Z"
       }
     ],
     "rootulp": [
@@ -121,6 +161,16 @@
         "requestedAt": "2026-11-20T14:10:35Z"
       },
       {
+        "number": 8737,
+        "title": "fix(fibre): [low] check the promise format in the ValidatePaymentPromise query",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/8737",
+        "repo": "celestia-app",
+        "author": "ninabarbakadze",
+        "authorCategory": "coworker",
+        "reviewer": "rootulp",
+        "requestedAt": "2026-11-20T14:15:19Z"
+      },
+      {
         "number": 8729,
         "title": "fix(user): [low] keep the timeout height when re-signing after a sequence mismatch (backport #8422)",
         "url": "https://github.com/celestiaorg/celestia-app/pull/8729",
@@ -161,6 +211,36 @@
         "authorCategory": "coworker",
         "reviewer": "vgonkivs",
         "requestedAt": "2026-11-19T16:04:33Z"
+      },
+      {
+        "number": 5425,
+        "title": "fix(api/rpc): [low] limit the request body before authentication",
+        "url": "https://github.com/celestiaorg/celestia-node/pull/5425",
+        "repo": "celestia-node",
+        "author": "ninabarbakadze",
+        "authorCategory": "coworker",
+        "reviewer": "vgonkivs",
+        "requestedAt": "2026-11-20T14:15:25Z"
+      },
+      {
+        "number": 5426,
+        "title": "fix(api/rpc): [low] limit open connections at the listener",
+        "url": "https://github.com/celestiaorg/celestia-node/pull/5426",
+        "repo": "celestia-node",
+        "author": "ninabarbakadze",
+        "authorCategory": "coworker",
+        "reviewer": "vgonkivs",
+        "requestedAt": "2026-11-20T14:15:46Z"
+      },
+      {
+        "number": 5427,
+        "title": "fix(core): [low] back off between new height subscription retries",
+        "url": "https://github.com/celestiaorg/celestia-node/pull/5427",
+        "repo": "celestia-node",
+        "author": "ninabarbakadze",
+        "authorCategory": "coworker",
+        "reviewer": "vgonkivs",
+        "requestedAt": "2026-11-20T14:15:48Z"
       },
       {
         "number": 5190,
@@ -204,6 +284,36 @@
         "authorCategory": "coworker",
         "reviewer": "walldiss",
         "requestedAt": "2026-11-20T12:28:52Z"
+      },
+      {
+        "number": 5425,
+        "title": "fix(api/rpc): [low] limit the request body before authentication",
+        "url": "https://github.com/celestiaorg/celestia-node/pull/5425",
+        "repo": "celestia-node",
+        "author": "ninabarbakadze",
+        "authorCategory": "coworker",
+        "reviewer": "walldiss",
+        "requestedAt": "2026-11-20T14:15:26Z"
+      },
+      {
+        "number": 5426,
+        "title": "fix(api/rpc): [low] limit open connections at the listener",
+        "url": "https://github.com/celestiaorg/celestia-node/pull/5426",
+        "repo": "celestia-node",
+        "author": "ninabarbakadze",
+        "authorCategory": "coworker",
+        "reviewer": "walldiss",
+        "requestedAt": "2026-11-20T14:15:47Z"
+      },
+      {
+        "number": 5427,
+        "title": "fix(core): [low] back off between new height subscription retries",
+        "url": "https://github.com/celestiaorg/celestia-node/pull/5427",
+        "repo": "celestia-node",
+        "author": "ninabarbakadze",
+        "authorCategory": "coworker",
+        "reviewer": "walldiss",
+        "requestedAt": "2026-11-20T14:15:49Z"
       }
     ]
   },
@@ -373,5 +483,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-11-20T14:14:17.817Z"
+  "fetchedAt": "2026-11-20T14:19:18.021Z"
 }
