@@ -3,8 +3,30 @@
     "chatton": [],
     "pippokr": [],
     "damiannolan": [],
-    "ninabarbakadze": [],
-    "rach-id": [],
+    "ninabarbakadze": [
+      {
+        "number": 8738,
+        "title": "test: [medium] e2e for interchain accounts and Hyperlane validators across an export restart",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/8738",
+        "repo": "celestia-app",
+        "author": "vgonkivs",
+        "authorCategory": "coworker",
+        "reviewer": "ninabarbakadze",
+        "requestedAt": "2026-11-20T19:39:51Z"
+      }
+    ],
+    "rach-id": [
+      {
+        "number": 8738,
+        "title": "test: [medium] e2e for interchain accounts and Hyperlane validators across an export restart",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/8738",
+        "repo": "celestia-app",
+        "author": "vgonkivs",
+        "authorCategory": "coworker",
+        "reviewer": "rach-id",
+        "requestedAt": "2026-11-20T19:39:50Z"
+      }
+    ],
     "renaynay": [
       {
         "number": 5424,
@@ -27,6 +49,16 @@
         "authorCategory": "coworker",
         "reviewer": "rootulp",
         "requestedAt": "2026-11-20T15:42:40Z"
+      },
+      {
+        "number": 8738,
+        "title": "test: [medium] e2e for interchain accounts and Hyperlane validators across an export restart",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/8738",
+        "repo": "celestia-app",
+        "author": "vgonkivs",
+        "authorCategory": "coworker",
+        "reviewer": "rootulp",
+        "requestedAt": "2026-11-20T19:39:49Z"
       }
     ],
     "vgonkivs": [
@@ -251,5 +283,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-11-20T19:35:19.168Z"
+  "fetchedAt": "2026-11-20T19:40:19.087Z"
 }
