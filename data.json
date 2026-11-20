@@ -15,16 +15,6 @@
         "requestedAt": "2026-11-20T01:16:40Z"
       },
       {
-        "number": 8733,
-        "title": "chore(deps): [medium] bump celestia-core to v0.42.10 (v11.x)",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/8733",
-        "repo": "celestia-app",
-        "author": "rootulp",
-        "authorCategory": "coworker",
-        "reviewer": "ninabarbakadze",
-        "requestedAt": "2026-11-20T01:18:12Z"
-      },
-      {
         "number": 8729,
         "title": "fix(user): [low] keep the timeout height when re-signing after a sequence mismatch (backport #8422)",
         "url": "https://github.com/celestiaorg/celestia-app/pull/8729",
@@ -45,38 +35,7 @@
         "requestedAt": "2026-11-20T00:39:50Z"
       }
     ],
-    "rach-id": [
-      {
-        "number": 8733,
-        "title": "chore(deps): [medium] bump celestia-core to v0.42.10 (v11.x)",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/8733",
-        "repo": "celestia-app",
-        "author": "rootulp",
-        "authorCategory": "coworker",
-        "reviewer": "rach-id",
-        "requestedAt": "2026-11-20T01:18:10Z"
-      },
-      {
-        "number": 8729,
-        "title": "fix(user): [low] keep the timeout height when re-signing after a sequence mismatch (backport #8422)",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/8729",
-        "repo": "celestia-app",
-        "author": "mergify",
-        "authorCategory": "bot",
-        "reviewer": "rach-id",
-        "requestedAt": "2026-11-20T00:39:23Z"
-      },
-      {
-        "number": 8730,
-        "title": "fix(user): [low] keep the timeout height when re-signing after a sequence mismatch (backport #8422)",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/8730",
-        "repo": "celestia-app",
-        "author": "mergify",
-        "authorCategory": "bot",
-        "reviewer": "rach-id",
-        "requestedAt": "2026-11-20T00:39:49Z"
-      }
-    ],
+    "rach-id": [],
     "renaynay": [],
     "rootulp": [
       {
@@ -311,5 +270,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-11-20T04:08:49.464Z"
+  "fetchedAt": "2026-11-20T04:13:49.671Z"
 }
