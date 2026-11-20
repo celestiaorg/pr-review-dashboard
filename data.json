@@ -2,18 +2,7 @@
   "reviews": {
     "chatton": [],
     "pippokr": [],
-    "damiannolan": [
-      {
-        "number": 28,
-        "title": "ci(e2e): [medium] run the e2e tests from this repo, not upstream",
-        "url": "https://github.com/celestiaorg/ibc-go/pull/28",
-        "repo": "ibc-go",
-        "author": "rootulp",
-        "authorCategory": "coworker",
-        "reviewer": "damiannolan",
-        "requestedAt": "2026-11-20T01:48:23Z"
-      }
-    ],
+    "damiannolan": [],
     "ninabarbakadze": [
       {
         "number": 8735,
@@ -352,5 +341,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-11-20T01:48:28.210Z"
+  "fetchedAt": "2026-11-20T01:53:28.750Z"
 }
