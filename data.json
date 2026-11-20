@@ -4,18 +4,7 @@
     "pippokr": [],
     "damiannolan": [],
     "ninabarbakadze": [],
-    "rach-id": [
-      {
-        "number": 3770,
-        "title": "fix(propagation)!: [high] sign a fixed-size compact block digest from app version 12",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3770",
-        "repo": "celestia-core",
-        "author": "ninabarbakadze",
-        "authorCategory": "coworker",
-        "reviewer": "rach-id",
-        "requestedAt": "2026-11-20T15:41:04Z"
-      }
-    ],
+    "rach-id": [],
     "renaynay": [
       {
         "number": 5424,
@@ -262,5 +251,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-11-20T19:05:18.298Z"
+  "fetchedAt": "2026-11-20T19:10:19.193Z"
 }
