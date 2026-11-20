@@ -4,7 +4,18 @@
     "pippokr": [],
     "damiannolan": [],
     "ninabarbakadze": [],
-    "rach-id": [],
+    "rach-id": [
+      {
+        "number": 3770,
+        "title": "fix(propagation)!: [high] sign a fixed-size compact block digest from app version 12",
+        "url": "https://github.com/celestiaorg/celestia-core/pull/3770",
+        "repo": "celestia-core",
+        "author": "ninabarbakadze",
+        "authorCategory": "coworker",
+        "reviewer": "rach-id",
+        "requestedAt": "2026-11-20T15:41:04Z"
+      }
+    ],
     "renaynay": [
       {
         "number": 5424,
@@ -17,7 +28,18 @@
         "requestedAt": "2026-11-20T12:28:54Z"
       }
     ],
-    "rootulp": [],
+    "rootulp": [
+      {
+        "number": 3770,
+        "title": "fix(propagation)!: [high] sign a fixed-size compact block digest from app version 12",
+        "url": "https://github.com/celestiaorg/celestia-core/pull/3770",
+        "repo": "celestia-core",
+        "author": "ninabarbakadze",
+        "authorCategory": "coworker",
+        "reviewer": "rootulp",
+        "requestedAt": "2026-11-20T15:42:40Z"
+      }
+    ],
     "vgonkivs": [
       {
         "number": 5422,
@@ -240,5 +262,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-11-20T15:40:15.667Z"
+  "fetchedAt": "2026-11-20T15:45:15.820Z"
 }
