@@ -3,10 +3,73 @@
     "chatton": [],
     "pippokr": [],
     "damiannolan": [],
-    "ninabarbakadze": [],
-    "rach-id": [],
+    "ninabarbakadze": [
+      {
+        "number": 8729,
+        "title": "fix(user): [low] keep the timeout height when re-signing after a sequence mismatch (backport #8422)",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/8729",
+        "repo": "celestia-app",
+        "author": "mergify",
+        "authorCategory": "bot",
+        "reviewer": "ninabarbakadze",
+        "requestedAt": "2026-11-20T00:39:24Z"
+      },
+      {
+        "number": 8730,
+        "title": "fix(user): [low] keep the timeout height when re-signing after a sequence mismatch (backport #8422)",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/8730",
+        "repo": "celestia-app",
+        "author": "mergify",
+        "authorCategory": "bot",
+        "reviewer": "ninabarbakadze",
+        "requestedAt": "2026-11-20T00:39:50Z"
+      }
+    ],
+    "rach-id": [
+      {
+        "number": 8729,
+        "title": "fix(user): [low] keep the timeout height when re-signing after a sequence mismatch (backport #8422)",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/8729",
+        "repo": "celestia-app",
+        "author": "mergify",
+        "authorCategory": "bot",
+        "reviewer": "rach-id",
+        "requestedAt": "2026-11-20T00:39:23Z"
+      },
+      {
+        "number": 8730,
+        "title": "fix(user): [low] keep the timeout height when re-signing after a sequence mismatch (backport #8422)",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/8730",
+        "repo": "celestia-app",
+        "author": "mergify",
+        "authorCategory": "bot",
+        "reviewer": "rach-id",
+        "requestedAt": "2026-11-20T00:39:49Z"
+      }
+    ],
     "renaynay": [],
-    "rootulp": [],
+    "rootulp": [
+      {
+        "number": 8729,
+        "title": "fix(user): [low] keep the timeout height when re-signing after a sequence mismatch (backport #8422)",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/8729",
+        "repo": "celestia-app",
+        "author": "mergify",
+        "authorCategory": "bot",
+        "reviewer": "rootulp",
+        "requestedAt": "2026-11-20T00:39:22Z"
+      },
+      {
+        "number": 8730,
+        "title": "fix(user): [low] keep the timeout height when re-signing after a sequence mismatch (backport #8422)",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/8730",
+        "repo": "celestia-app",
+        "author": "mergify",
+        "authorCategory": "bot",
+        "reviewer": "rootulp",
+        "requestedAt": "2026-11-20T00:39:48Z"
+      }
+    ],
     "vgonkivs": [
       {
         "number": 5422,
@@ -106,6 +169,33 @@
       "author": "ninabarbakadze",
       "authorCategory": "coworker",
       "waitingSince": "2026-11-18T15:00:32Z"
+    },
+    {
+      "number": 5423,
+      "title": "ci: [low] request designated reviewers on new PRs",
+      "url": "https://github.com/celestiaorg/celestia-node/pull/5423",
+      "repo": "celestia-node",
+      "author": "rootulp",
+      "authorCategory": "coworker",
+      "waitingSince": "2026-11-20T00:39:22Z"
+    },
+    {
+      "number": 25,
+      "title": "ci: [low] request designated reviewers on new PRs",
+      "url": "https://github.com/celestiaorg/ibc-go/pull/25",
+      "repo": "ibc-go",
+      "author": "rootulp",
+      "authorCategory": "coworker",
+      "waitingSince": "2026-11-20T00:39:57Z"
+    },
+    {
+      "number": 220,
+      "title": "ci: [low] request designated reviewers on new PRs",
+      "url": "https://github.com/celestiaorg/tastora/pull/220",
+      "repo": "tastora",
+      "author": "rootulp",
+      "authorCategory": "coworker",
+      "waitingSince": "2026-11-20T00:40:14Z"
     },
     {
       "number": 1,
@@ -218,5 +308,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-11-20T00:38:26.889Z"
+  "fetchedAt": "2026-11-20T00:43:28.681Z"
 }
