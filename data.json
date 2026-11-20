@@ -5,6 +5,26 @@
     "damiannolan": [],
     "ninabarbakadze": [
       {
+        "number": 8731,
+        "title": "test(e2e): [low] wait for the app to commit signals before the tally query",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/8731",
+        "repo": "celestia-app",
+        "author": "rootulp",
+        "authorCategory": "coworker",
+        "reviewer": "ninabarbakadze",
+        "requestedAt": "2026-11-20T01:08:53Z"
+      },
+      {
+        "number": 8734,
+        "title": "test(e2e): [low] start the forwarding relayer after the deposit is seen",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/8734",
+        "repo": "celestia-app",
+        "author": "rootulp",
+        "authorCategory": "coworker",
+        "reviewer": "ninabarbakadze",
+        "requestedAt": "2026-11-20T01:08:55Z"
+      },
+      {
         "number": 8729,
         "title": "fix(user): [low] keep the timeout height when re-signing after a sequence mismatch (backport #8422)",
         "url": "https://github.com/celestiaorg/celestia-app/pull/8729",
@@ -26,6 +46,26 @@
       }
     ],
     "rach-id": [
+      {
+        "number": 8731,
+        "title": "test(e2e): [low] wait for the app to commit signals before the tally query",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/8731",
+        "repo": "celestia-app",
+        "author": "rootulp",
+        "authorCategory": "coworker",
+        "reviewer": "rach-id",
+        "requestedAt": "2026-11-20T01:08:52Z"
+      },
+      {
+        "number": 8734,
+        "title": "test(e2e): [low] start the forwarding relayer after the deposit is seen",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/8734",
+        "repo": "celestia-app",
+        "author": "rootulp",
+        "authorCategory": "coworker",
+        "reviewer": "rach-id",
+        "requestedAt": "2026-11-20T01:08:53Z"
+      },
       {
         "number": 8729,
         "title": "fix(user): [low] keep the timeout height when re-signing after a sequence mismatch (backport #8422)",
@@ -308,5 +348,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-11-20T01:08:27.731Z"
+  "fetchedAt": "2026-11-20T01:13:27.906Z"
 }
