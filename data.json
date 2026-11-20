@@ -35,7 +35,18 @@
         "requestedAt": "2026-11-20T00:39:50Z"
       }
     ],
-    "rach-id": [],
+    "rach-id": [
+      {
+        "number": 8735,
+        "title": "feat(multiplexer): [medium] embed celestia-app v11.0.0",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/8735",
+        "repo": "celestia-app",
+        "author": "rootulp",
+        "authorCategory": "coworker",
+        "reviewer": "rach-id",
+        "requestedAt": "2026-11-20T04:24:02Z"
+      }
+    ],
     "renaynay": [],
     "rootulp": [
       {
@@ -270,5 +281,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-11-20T04:23:49.707Z"
+  "fetchedAt": "2026-11-20T04:28:49.575Z"
 }
