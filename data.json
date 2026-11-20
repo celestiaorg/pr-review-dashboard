@@ -5,16 +5,6 @@
     "damiannolan": [],
     "ninabarbakadze": [
       {
-        "number": 8735,
-        "title": "feat(multiplexer): [medium] embed celestia-app v11.0.0",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/8735",
-        "repo": "celestia-app",
-        "author": "rootulp",
-        "authorCategory": "coworker",
-        "reviewer": "ninabarbakadze",
-        "requestedAt": "2026-11-20T01:16:40Z"
-      },
-      {
         "number": 8729,
         "title": "fix(user): [low] keep the timeout height when re-signing after a sequence mismatch (backport #8422)",
         "url": "https://github.com/celestiaorg/celestia-app/pull/8729",
@@ -48,6 +38,16 @@
     "rach-id": [],
     "renaynay": [],
     "rootulp": [
+      {
+        "number": 3749,
+        "title": "fix(rpc): [high] check the share range before loading the block in prove_shares",
+        "url": "https://github.com/celestiaorg/celestia-core/pull/3749",
+        "repo": "celestia-core",
+        "author": "ninabarbakadze",
+        "authorCategory": "coworker",
+        "reviewer": "rootulp",
+        "requestedAt": "2026-11-20T10:22:55Z"
+      },
       {
         "number": 8729,
         "title": "fix(user): [low] keep the timeout height when re-signing after a sequence mismatch (backport #8422)",
@@ -171,15 +171,6 @@
       "waitingSince": "2026-11-17T16:11:24Z"
     },
     {
-      "number": 3749,
-      "title": "fix(rpc): [high] check the share range before loading the block in prove_shares",
-      "url": "https://github.com/celestiaorg/celestia-core/pull/3749",
-      "repo": "celestia-core",
-      "author": "ninabarbakadze",
-      "authorCategory": "coworker",
-      "waitingSince": "2026-11-18T15:00:32Z"
-    },
-    {
       "number": 1,
       "title": "chore(deps): bump the go_modules group across 2 directories with 9 updates",
       "url": "https://github.com/celestiaorg/hyperlane-cosmos/pull/1",
@@ -290,5 +281,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-11-20T10:19:14.568Z"
+  "fetchedAt": "2026-11-20T10:24:14.060Z"
 }
