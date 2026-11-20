@@ -240,15 +240,6 @@
       "waitingSince": "2026-11-20T00:39:57Z"
     },
     {
-      "number": 220,
-      "title": "ci: [low] request designated reviewers on new PRs",
-      "url": "https://github.com/celestiaorg/tastora/pull/220",
-      "repo": "tastora",
-      "author": "rootulp",
-      "authorCategory": "coworker",
-      "waitingSince": "2026-11-20T00:40:14Z"
-    },
-    {
       "number": 1,
       "title": "chore(deps): bump the go_modules group across 2 directories with 9 updates",
       "url": "https://github.com/celestiaorg/hyperlane-cosmos/pull/1",
@@ -359,5 +350,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-11-20T01:38:28.265Z"
+  "fetchedAt": "2026-11-20T01:43:29.053Z"
 }
