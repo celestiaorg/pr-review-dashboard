@@ -33,6 +33,16 @@
         "authorCategory": "bot",
         "reviewer": "ninabarbakadze",
         "requestedAt": "2026-11-20T00:39:50Z"
+      },
+      {
+        "number": 8736,
+        "title": "ci: [high] narrow v10.x CODEOWNERS so auto-approve approvals count (backport #8586)",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/8736",
+        "repo": "celestia-app",
+        "author": "mergify",
+        "authorCategory": "bot",
+        "reviewer": "ninabarbakadze",
+        "requestedAt": "2026-11-20T07:56:10Z"
       }
     ],
     "rach-id": [
@@ -68,6 +78,16 @@
         "authorCategory": "bot",
         "reviewer": "rootulp",
         "requestedAt": "2026-11-20T00:39:48Z"
+      },
+      {
+        "number": 8736,
+        "title": "ci: [high] narrow v10.x CODEOWNERS so auto-approve approvals count (backport #8586)",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/8736",
+        "repo": "celestia-app",
+        "author": "mergify",
+        "authorCategory": "bot",
+        "reviewer": "rootulp",
+        "requestedAt": "2026-11-20T07:56:07Z"
       }
     ],
     "vgonkivs": [
@@ -281,5 +301,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-11-20T07:53:52.450Z"
+  "fetchedAt": "2026-11-20T07:58:52.540Z"
 }
