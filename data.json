@@ -25,6 +25,36 @@
         "requestedAt": "2026-11-20T01:08:55Z"
       },
       {
+        "number": 8735,
+        "title": "feat(multiplexer): [medium] embed celestia-app v11.0.0",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/8735",
+        "repo": "celestia-app",
+        "author": "rootulp",
+        "authorCategory": "coworker",
+        "reviewer": "ninabarbakadze",
+        "requestedAt": "2026-11-20T01:16:40Z"
+      },
+      {
+        "number": 8732,
+        "title": "chore(deps): [medium] bump celestia-core to v0.42.10 (v10.x)",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/8732",
+        "repo": "celestia-app",
+        "author": "rootulp",
+        "authorCategory": "coworker",
+        "reviewer": "ninabarbakadze",
+        "requestedAt": "2026-11-20T01:17:33Z"
+      },
+      {
+        "number": 8733,
+        "title": "chore(deps): [medium] bump celestia-core to v0.42.10 (v11.x)",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/8733",
+        "repo": "celestia-app",
+        "author": "rootulp",
+        "authorCategory": "coworker",
+        "reviewer": "ninabarbakadze",
+        "requestedAt": "2026-11-20T01:18:12Z"
+      },
+      {
         "number": 8729,
         "title": "fix(user): [low] keep the timeout height when re-signing after a sequence mismatch (backport #8422)",
         "url": "https://github.com/celestiaorg/celestia-app/pull/8729",
@@ -65,6 +95,36 @@
         "authorCategory": "coworker",
         "reviewer": "rach-id",
         "requestedAt": "2026-11-20T01:08:53Z"
+      },
+      {
+        "number": 8735,
+        "title": "feat(multiplexer): [medium] embed celestia-app v11.0.0",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/8735",
+        "repo": "celestia-app",
+        "author": "rootulp",
+        "authorCategory": "coworker",
+        "reviewer": "rach-id",
+        "requestedAt": "2026-11-20T01:16:39Z"
+      },
+      {
+        "number": 8732,
+        "title": "chore(deps): [medium] bump celestia-core to v0.42.10 (v10.x)",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/8732",
+        "repo": "celestia-app",
+        "author": "rootulp",
+        "authorCategory": "coworker",
+        "reviewer": "rach-id",
+        "requestedAt": "2026-11-20T01:17:32Z"
+      },
+      {
+        "number": 8733,
+        "title": "chore(deps): [medium] bump celestia-core to v0.42.10 (v11.x)",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/8733",
+        "repo": "celestia-app",
+        "author": "rootulp",
+        "authorCategory": "coworker",
+        "reviewer": "rach-id",
+        "requestedAt": "2026-11-20T01:18:10Z"
       },
       {
         "number": 8729,
@@ -348,5 +408,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-11-20T01:13:27.906Z"
+  "fetchedAt": "2026-11-20T01:18:27.934Z"
 }
