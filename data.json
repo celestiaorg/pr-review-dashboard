@@ -2,7 +2,18 @@
   "reviews": {
     "chatton": [],
     "pippokr": [],
-    "damiannolan": [],
+    "damiannolan": [
+      {
+        "number": 28,
+        "title": "ci(e2e): [medium] run the e2e tests from this repo, not upstream",
+        "url": "https://github.com/celestiaorg/ibc-go/pull/28",
+        "repo": "ibc-go",
+        "author": "rootulp",
+        "authorCategory": "coworker",
+        "reviewer": "damiannolan",
+        "requestedAt": "2026-11-20T01:48:23Z"
+      }
+    ],
     "ninabarbakadze": [
       {
         "number": 8735,
@@ -231,15 +242,6 @@
       "waitingSince": "2026-11-18T15:00:32Z"
     },
     {
-      "number": 25,
-      "title": "ci: [low] request designated reviewers on new PRs",
-      "url": "https://github.com/celestiaorg/ibc-go/pull/25",
-      "repo": "ibc-go",
-      "author": "rootulp",
-      "authorCategory": "coworker",
-      "waitingSince": "2026-11-20T00:39:57Z"
-    },
-    {
       "number": 1,
       "title": "chore(deps): bump the go_modules group across 2 directories with 9 updates",
       "url": "https://github.com/celestiaorg/hyperlane-cosmos/pull/1",
@@ -350,5 +352,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-11-20T01:43:29.053Z"
+  "fetchedAt": "2026-11-20T01:48:28.210Z"
 }
