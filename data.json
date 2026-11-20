@@ -23,19 +23,20 @@
         "authorCategory": "bot",
         "reviewer": "ninabarbakadze",
         "requestedAt": "2026-11-20T00:39:50Z"
-      },
-      {
-        "number": 8736,
-        "title": "ci: [high] narrow v10.x CODEOWNERS so auto-approve approvals count (backport #8586)",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/8736",
-        "repo": "celestia-app",
-        "author": "mergify",
-        "authorCategory": "bot",
-        "reviewer": "ninabarbakadze",
-        "requestedAt": "2026-11-20T07:56:10Z"
       }
     ],
-    "rach-id": [],
+    "rach-id": [
+      {
+        "number": 3749,
+        "title": "fix(rpc): [high] check the share range before loading the block in prove_shares",
+        "url": "https://github.com/celestiaorg/celestia-core/pull/3749",
+        "repo": "celestia-core",
+        "author": "ninabarbakadze",
+        "authorCategory": "coworker",
+        "reviewer": "rach-id",
+        "requestedAt": "2026-11-20T10:25:05Z"
+      }
+    ],
     "renaynay": [],
     "rootulp": [
       {
@@ -281,5 +282,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-11-20T10:24:14.060Z"
+  "fetchedAt": "2026-11-20T10:29:15.159Z"
 }
