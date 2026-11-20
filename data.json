@@ -37,7 +37,18 @@
         "requestedAt": "2026-11-20T10:25:05Z"
       }
     ],
-    "renaynay": [],
+    "renaynay": [
+      {
+        "number": 5424,
+        "title": "fix(store/file): [medium] deduplicate concurrent ODS cache fills",
+        "url": "https://github.com/celestiaorg/celestia-node/pull/5424",
+        "repo": "celestia-node",
+        "author": "vgonkivs",
+        "authorCategory": "coworker",
+        "reviewer": "renaynay",
+        "requestedAt": "2026-11-20T12:28:54Z"
+      }
+    ],
     "rootulp": [
       {
         "number": 3749,
@@ -113,6 +124,16 @@
         "authorCategory": "coworker",
         "reviewer": "walldiss",
         "requestedAt": "2026-11-19T16:04:33Z"
+      },
+      {
+        "number": 5424,
+        "title": "fix(store/file): [medium] deduplicate concurrent ODS cache fills",
+        "url": "https://github.com/celestiaorg/celestia-node/pull/5424",
+        "repo": "celestia-node",
+        "author": "vgonkivs",
+        "authorCategory": "coworker",
+        "reviewer": "walldiss",
+        "requestedAt": "2026-11-20T12:28:52Z"
       }
     ]
   },
@@ -282,5 +303,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-11-20T12:24:16.410Z"
+  "fetchedAt": "2026-11-20T12:29:16.508Z"
 }
