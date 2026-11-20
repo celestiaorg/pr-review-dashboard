@@ -25,18 +25,7 @@
         "requestedAt": "2026-11-20T00:39:50Z"
       }
     ],
-    "rach-id": [
-      {
-        "number": 3749,
-        "title": "fix(rpc): [high] check the share range before loading the block in prove_shares",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3749",
-        "repo": "celestia-core",
-        "author": "ninabarbakadze",
-        "authorCategory": "coworker",
-        "reviewer": "rach-id",
-        "requestedAt": "2026-11-20T10:25:05Z"
-      }
-    ],
+    "rach-id": [],
     "renaynay": [
       {
         "number": 5424,
@@ -313,5 +302,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-11-20T12:49:16.639Z"
+  "fetchedAt": "2026-11-20T12:54:16.661Z"
 }
