@@ -162,15 +162,6 @@
       "waitingSince": "2026-11-13T09:30:14Z"
     },
     {
-      "number": 8610,
-      "title": "fix(minfee): [medium] don't panic validating a genesis without a network min gas price",
-      "url": "https://github.com/celestiaorg/celestia-app/pull/8610",
-      "repo": "celestia-app",
-      "author": "amalsaidov",
-      "authorCategory": "external",
-      "waitingSince": "2026-11-13T11:01:47Z"
-    },
-    {
       "number": 3758,
       "title": "docs(architecture): [low] repair ADR links",
       "url": "https://github.com/celestiaorg/celestia-core/pull/3758",
@@ -236,5 +227,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-11-20T00:23:26.849Z"
+  "fetchedAt": "2026-11-20T00:28:27.807Z"
 }
