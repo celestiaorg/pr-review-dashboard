@@ -3,28 +3,7 @@
     "chatton": [],
     "pippokr": [],
     "damiannolan": [],
-    "ninabarbakadze": [
-      {
-        "number": 8729,
-        "title": "fix(user): [low] keep the timeout height when re-signing after a sequence mismatch (backport #8422)",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/8729",
-        "repo": "celestia-app",
-        "author": "mergify",
-        "authorCategory": "bot",
-        "reviewer": "ninabarbakadze",
-        "requestedAt": "2026-11-20T00:39:24Z"
-      },
-      {
-        "number": 8730,
-        "title": "fix(user): [low] keep the timeout height when re-signing after a sequence mismatch (backport #8422)",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/8730",
-        "repo": "celestia-app",
-        "author": "mergify",
-        "authorCategory": "bot",
-        "reviewer": "ninabarbakadze",
-        "requestedAt": "2026-11-20T00:39:50Z"
-      }
-    ],
+    "ninabarbakadze": [],
     "rach-id": [],
     "renaynay": [
       {
@@ -38,38 +17,7 @@
         "requestedAt": "2026-11-20T12:28:54Z"
       }
     ],
-    "rootulp": [
-      {
-        "number": 8729,
-        "title": "fix(user): [low] keep the timeout height when re-signing after a sequence mismatch (backport #8422)",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/8729",
-        "repo": "celestia-app",
-        "author": "mergify",
-        "authorCategory": "bot",
-        "reviewer": "rootulp",
-        "requestedAt": "2026-11-20T00:39:22Z"
-      },
-      {
-        "number": 8730,
-        "title": "fix(user): [low] keep the timeout height when re-signing after a sequence mismatch (backport #8422)",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/8730",
-        "repo": "celestia-app",
-        "author": "mergify",
-        "authorCategory": "bot",
-        "reviewer": "rootulp",
-        "requestedAt": "2026-11-20T00:39:48Z"
-      },
-      {
-        "number": 8736,
-        "title": "ci: [high] narrow v10.x CODEOWNERS so auto-approve approvals count (backport #8586)",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/8736",
-        "repo": "celestia-app",
-        "author": "mergify",
-        "authorCategory": "bot",
-        "reviewer": "rootulp",
-        "requestedAt": "2026-11-20T07:56:07Z"
-      }
-    ],
+    "rootulp": [],
     "vgonkivs": [
       {
         "number": 5422,
@@ -292,5 +240,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-11-20T14:24:17.868Z"
+  "fetchedAt": "2026-11-20T14:30:15.748Z"
 }
