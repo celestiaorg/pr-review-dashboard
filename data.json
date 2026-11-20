@@ -5,26 +5,6 @@
     "damiannolan": [],
     "ninabarbakadze": [
       {
-        "number": 8731,
-        "title": "test(e2e): [low] wait for the app to commit signals before the tally query",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/8731",
-        "repo": "celestia-app",
-        "author": "rootulp",
-        "authorCategory": "coworker",
-        "reviewer": "ninabarbakadze",
-        "requestedAt": "2026-11-20T01:08:53Z"
-      },
-      {
-        "number": 8734,
-        "title": "test(e2e): [low] start the forwarding relayer after the deposit is seen",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/8734",
-        "repo": "celestia-app",
-        "author": "rootulp",
-        "authorCategory": "coworker",
-        "reviewer": "ninabarbakadze",
-        "requestedAt": "2026-11-20T01:08:55Z"
-      },
-      {
         "number": 8735,
         "title": "feat(multiplexer): [medium] embed celestia-app v11.0.0",
         "url": "https://github.com/celestiaorg/celestia-app/pull/8735",
@@ -76,26 +56,6 @@
       }
     ],
     "rach-id": [
-      {
-        "number": 8731,
-        "title": "test(e2e): [low] wait for the app to commit signals before the tally query",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/8731",
-        "repo": "celestia-app",
-        "author": "rootulp",
-        "authorCategory": "coworker",
-        "reviewer": "rach-id",
-        "requestedAt": "2026-11-20T01:08:52Z"
-      },
-      {
-        "number": 8734,
-        "title": "test(e2e): [low] start the forwarding relayer after the deposit is seen",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/8734",
-        "repo": "celestia-app",
-        "author": "rootulp",
-        "authorCategory": "coworker",
-        "reviewer": "rach-id",
-        "requestedAt": "2026-11-20T01:08:53Z"
-      },
       {
         "number": 8735,
         "title": "feat(multiplexer): [medium] embed celestia-app v11.0.0",
@@ -289,15 +249,6 @@
       "waitingSince": "2026-11-20T00:40:14Z"
     },
     {
-      "number": 221,
-      "title": "test(docker): [low] fix faucet sequence race in TestGetFaucetWalletOnNodes",
-      "url": "https://github.com/celestiaorg/tastora/pull/221",
-      "repo": "tastora",
-      "author": "rootulp",
-      "authorCategory": "coworker",
-      "waitingSince": "2026-11-20T01:07:19Z"
-    },
-    {
       "number": 1,
       "title": "chore(deps): bump the go_modules group across 2 directories with 9 updates",
       "url": "https://github.com/celestiaorg/hyperlane-cosmos/pull/1",
@@ -408,5 +359,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-11-20T01:23:28.144Z"
+  "fetchedAt": "2026-11-20T01:28:28.077Z"
 }
