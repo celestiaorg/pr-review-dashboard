@@ -2,31 +2,20 @@
   "reviews": {
     "chatton": [],
     "pippokr": [],
-    "damiannolan": [],
-    "ninabarbakadze": [
+    "damiannolan": [
       {
-        "number": 8738,
-        "title": "test: [medium] e2e for interchain accounts and Hyperlane validators across an export restart",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/8738",
-        "repo": "celestia-app",
-        "author": "vgonkivs",
+        "number": 29,
+        "title": "docs: [low] replace the upstream README with a Celestia-specific one",
+        "url": "https://github.com/celestiaorg/ibc-go/pull/29",
+        "repo": "ibc-go",
+        "author": "rootulp",
         "authorCategory": "coworker",
-        "reviewer": "ninabarbakadze",
-        "requestedAt": "2026-11-20T19:39:51Z"
+        "reviewer": "damiannolan",
+        "requestedAt": "2026-11-20T23:56:28Z"
       }
     ],
-    "rach-id": [
-      {
-        "number": 8738,
-        "title": "test: [medium] e2e for interchain accounts and Hyperlane validators across an export restart",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/8738",
-        "repo": "celestia-app",
-        "author": "vgonkivs",
-        "authorCategory": "coworker",
-        "reviewer": "rach-id",
-        "requestedAt": "2026-11-20T19:39:50Z"
-      }
-    ],
+    "ninabarbakadze": [],
+    "rach-id": [],
     "renaynay": [
       {
         "number": 5424,
@@ -273,5 +262,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-11-20T23:55:56.355Z"
+  "fetchedAt": "2026-11-21T00:00:58.794Z"
 }
