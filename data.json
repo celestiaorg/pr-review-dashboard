@@ -13,30 +13,9 @@
         "authorCategory": "coworker",
         "reviewer": "ninabarbakadze",
         "requestedAt": "2026-11-21T05:01:40Z"
-      },
-      {
-        "number": 8708,
-        "title": "fix(app): [high] bound nested messages in ICA packets and MsgExec at mempool admission (v11.x) (backport #8597)",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/8708",
-        "repo": "celestia-app",
-        "author": "mergify",
-        "authorCategory": "bot",
-        "reviewer": "ninabarbakadze",
-        "requestedAt": "2026-11-21T05:25:02Z"
       }
     ],
-    "rach-id": [
-      {
-        "number": 8708,
-        "title": "fix(app): [high] bound nested messages in ICA packets and MsgExec at mempool admission (v11.x) (backport #8597)",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/8708",
-        "repo": "celestia-app",
-        "author": "mergify",
-        "authorCategory": "bot",
-        "reviewer": "rach-id",
-        "requestedAt": "2026-11-21T05:25:01Z"
-      }
-    ],
+    "rach-id": [],
     "renaynay": [
       {
         "number": 5424,
@@ -49,18 +28,7 @@
         "requestedAt": "2026-11-20T12:28:54Z"
       }
     ],
-    "rootulp": [
-      {
-        "number": 8708,
-        "title": "fix(app): [high] bound nested messages in ICA packets and MsgExec at mempool admission (v11.x) (backport #8597)",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/8708",
-        "repo": "celestia-app",
-        "author": "mergify",
-        "authorCategory": "bot",
-        "reviewer": "rootulp",
-        "requestedAt": "2026-11-21T05:24:59Z"
-      }
-    ],
+    "rootulp": [],
     "vgonkivs": [
       {
         "number": 5422,
@@ -274,5 +242,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-11-21T08:11:48.386Z"
+  "fetchedAt": "2026-11-21T08:16:48.425Z"
 }
