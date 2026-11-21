@@ -5,16 +5,6 @@
     "damiannolan": [],
     "ninabarbakadze": [
       {
-        "number": 3771,
-        "title": "fix(light): [high] verify share proofs from ProveShares and ProveSharesV2",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3771",
-        "repo": "celestia-core",
-        "author": "rootulp",
-        "authorCategory": "coworker",
-        "reviewer": "ninabarbakadze",
-        "requestedAt": "2026-11-21T01:06:02Z"
-      },
-      {
         "number": 3769,
         "title": "fix(consensus): [high] take parts that arrived before their proposal",
         "url": "https://github.com/celestiaorg/celestia-core/pull/3769",
@@ -45,16 +35,6 @@
         "authorCategory": "coworker",
         "reviewer": "rach-id",
         "requestedAt": "2026-11-21T00:46:58Z"
-      },
-      {
-        "number": 3771,
-        "title": "fix(light): [high] verify share proofs from ProveShares and ProveSharesV2",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3771",
-        "repo": "celestia-core",
-        "author": "rootulp",
-        "authorCategory": "coworker",
-        "reviewer": "rach-id",
-        "requestedAt": "2026-11-21T01:06:01Z"
       },
       {
         "number": 3769,
@@ -303,5 +283,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-11-21T05:16:24.637Z"
+  "fetchedAt": "2026-11-21T05:21:24.603Z"
 }
