@@ -2,20 +2,31 @@
   "reviews": {
     "chatton": [],
     "pippokr": [],
-    "damiannolan": [
+    "damiannolan": [],
+    "ninabarbakadze": [
       {
-        "number": 29,
-        "title": "docs: [low] replace the upstream README with a Celestia-specific one",
-        "url": "https://github.com/celestiaorg/ibc-go/pull/29",
-        "repo": "ibc-go",
-        "author": "rootulp",
-        "authorCategory": "coworker",
-        "reviewer": "damiannolan",
-        "requestedAt": "2026-11-20T23:56:28Z"
+        "number": 8739,
+        "title": "fix(fibre): [medium] bound prefix scans after carry",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/8739",
+        "repo": "celestia-app",
+        "author": "hehuanlu",
+        "authorCategory": "external",
+        "reviewer": "ninabarbakadze",
+        "requestedAt": "2026-11-21T00:05:01Z"
       }
     ],
-    "ninabarbakadze": [],
-    "rach-id": [],
+    "rach-id": [
+      {
+        "number": 8739,
+        "title": "fix(fibre): [medium] bound prefix scans after carry",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/8739",
+        "repo": "celestia-app",
+        "author": "hehuanlu",
+        "authorCategory": "external",
+        "reviewer": "rach-id",
+        "requestedAt": "2026-11-21T00:05:00Z"
+      }
+    ],
     "renaynay": [
       {
         "number": 5424,
@@ -38,6 +49,16 @@
         "authorCategory": "coworker",
         "reviewer": "rootulp",
         "requestedAt": "2026-11-20T15:42:40Z"
+      },
+      {
+        "number": 8739,
+        "title": "fix(fibre): [medium] bound prefix scans after carry",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/8739",
+        "repo": "celestia-app",
+        "author": "hehuanlu",
+        "authorCategory": "external",
+        "reviewer": "rootulp",
+        "requestedAt": "2026-11-21T00:04:59Z"
       }
     ],
     "vgonkivs": [
@@ -262,5 +283,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-11-21T00:00:58.794Z"
+  "fetchedAt": "2026-11-21T00:05:56.417Z"
 }
