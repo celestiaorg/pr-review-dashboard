@@ -13,9 +13,40 @@
         "authorCategory": "coworker",
         "reviewer": "ninabarbakadze",
         "requestedAt": "2026-11-21T05:01:40Z"
+      },
+      {
+        "number": 3782,
+        "title": "fix(propagation): [high] bound per-peer round state inside PeerState (backport #3674)",
+        "url": "https://github.com/celestiaorg/celestia-core/pull/3782",
+        "repo": "celestia-core",
+        "author": "mergify",
+        "authorCategory": "bot",
+        "reviewer": "ninabarbakadze",
+        "requestedAt": "2026-11-21T19:33:34Z"
       }
     ],
-    "rach-id": [],
+    "rach-id": [
+      {
+        "number": 214,
+        "title": "feat(codec/unknownproto): [high] add a strict walk that rejects ambiguous encodings",
+        "url": "https://github.com/celestiaorg/cosmos-sdk/pull/214",
+        "repo": "cosmos-sdk",
+        "author": "rootulp",
+        "authorCategory": "coworker",
+        "reviewer": "rach-id",
+        "requestedAt": "2026-11-21T19:37:32Z"
+      },
+      {
+        "number": 3782,
+        "title": "fix(propagation): [high] bound per-peer round state inside PeerState (backport #3674)",
+        "url": "https://github.com/celestiaorg/celestia-core/pull/3782",
+        "repo": "celestia-core",
+        "author": "mergify",
+        "authorCategory": "bot",
+        "reviewer": "rach-id",
+        "requestedAt": "2026-11-21T19:33:33Z"
+      }
+    ],
     "renaynay": [
       {
         "number": 5424,
@@ -26,9 +57,30 @@
         "authorCategory": "coworker",
         "reviewer": "renaynay",
         "requestedAt": "2026-11-20T12:28:54Z"
+      },
+      {
+        "number": 5429,
+        "title": "fix(blob): [medium] pin CommitmentProof subtree proofs to the row width",
+        "url": "https://github.com/celestiaorg/celestia-node/pull/5429",
+        "repo": "celestia-node",
+        "author": "rootulp",
+        "authorCategory": "coworker",
+        "reviewer": "renaynay",
+        "requestedAt": "2026-11-21T19:32:46Z"
       }
     ],
-    "rootulp": [],
+    "rootulp": [
+      {
+        "number": 3782,
+        "title": "fix(propagation): [high] bound per-peer round state inside PeerState (backport #3674)",
+        "url": "https://github.com/celestiaorg/celestia-core/pull/3782",
+        "repo": "celestia-core",
+        "author": "mergify",
+        "authorCategory": "bot",
+        "reviewer": "rootulp",
+        "requestedAt": "2026-11-21T19:33:32Z"
+      }
+    ],
     "vgonkivs": [
       {
         "number": 5422,
@@ -39,6 +91,16 @@
         "authorCategory": "coworker",
         "reviewer": "vgonkivs",
         "requestedAt": "2026-11-19T16:04:33Z"
+      },
+      {
+        "number": 5429,
+        "title": "fix(blob): [medium] pin CommitmentProof subtree proofs to the row width",
+        "url": "https://github.com/celestiaorg/celestia-node/pull/5429",
+        "repo": "celestia-node",
+        "author": "rootulp",
+        "authorCategory": "coworker",
+        "reviewer": "vgonkivs",
+        "requestedAt": "2026-11-21T19:32:32Z"
       },
       {
         "number": 5190,
@@ -82,6 +144,16 @@
         "authorCategory": "coworker",
         "reviewer": "walldiss",
         "requestedAt": "2026-11-20T12:28:52Z"
+      },
+      {
+        "number": 5429,
+        "title": "fix(blob): [medium] pin CommitmentProof subtree proofs to the row width",
+        "url": "https://github.com/celestiaorg/celestia-node/pull/5429",
+        "repo": "celestia-node",
+        "author": "rootulp",
+        "authorCategory": "coworker",
+        "reviewer": "walldiss",
+        "requestedAt": "2026-11-21T19:32:45Z"
       }
     ]
   },
@@ -130,6 +202,24 @@
       "author": "walldiss",
       "authorCategory": "coworker",
       "waitingSince": "2026-11-17T16:11:24Z"
+    },
+    {
+      "number": 212,
+      "title": "fix(x/auth/tx): [medium] return an error for a multisignature with too few signatures",
+      "url": "https://github.com/celestiaorg/cosmos-sdk/pull/212",
+      "repo": "cosmos-sdk",
+      "author": "rootulp",
+      "authorCategory": "coworker",
+      "waitingSince": "2026-11-21T19:37:22Z"
+    },
+    {
+      "number": 215,
+      "title": "feat(x/auth/tx): [high] add StrictTxDecoder",
+      "url": "https://github.com/celestiaorg/cosmos-sdk/pull/215",
+      "repo": "cosmos-sdk",
+      "author": "rootulp",
+      "authorCategory": "coworker",
+      "waitingSince": "2026-11-21T19:37:26Z"
     },
     {
       "number": 1,
@@ -242,5 +332,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-11-21T19:32:33.642Z"
+  "fetchedAt": "2026-11-21T19:37:33.589Z"
 }
