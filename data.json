@@ -3,7 +3,28 @@
     "chatton": [],
     "pippokr": [],
     "damiannolan": [],
-    "ninabarbakadze": [],
+    "ninabarbakadze": [
+      {
+        "number": 3771,
+        "title": "fix(light): [high] verify share proofs from ProveShares and ProveSharesV2",
+        "url": "https://github.com/celestiaorg/celestia-core/pull/3771",
+        "repo": "celestia-core",
+        "author": "rootulp",
+        "authorCategory": "coworker",
+        "reviewer": "ninabarbakadze",
+        "requestedAt": "2026-11-21T01:06:02Z"
+      },
+      {
+        "number": 3774,
+        "title": "test(propagation): [low] deflake TestRecoverPartsFromLiveMempool",
+        "url": "https://github.com/celestiaorg/celestia-core/pull/3774",
+        "repo": "celestia-core",
+        "author": "rootulp",
+        "authorCategory": "coworker",
+        "reviewer": "ninabarbakadze",
+        "requestedAt": "2026-11-21T01:08:51Z"
+      }
+    ],
     "rach-id": [
       {
         "number": 3674,
@@ -14,6 +35,26 @@
         "authorCategory": "coworker",
         "reviewer": "rach-id",
         "requestedAt": "2026-11-21T00:46:58Z"
+      },
+      {
+        "number": 3771,
+        "title": "fix(light): [high] verify share proofs from ProveShares and ProveSharesV2",
+        "url": "https://github.com/celestiaorg/celestia-core/pull/3771",
+        "repo": "celestia-core",
+        "author": "rootulp",
+        "authorCategory": "coworker",
+        "reviewer": "rach-id",
+        "requestedAt": "2026-11-21T01:06:01Z"
+      },
+      {
+        "number": 3774,
+        "title": "test(propagation): [low] deflake TestRecoverPartsFromLiveMempool",
+        "url": "https://github.com/celestiaorg/celestia-core/pull/3774",
+        "repo": "celestia-core",
+        "author": "rootulp",
+        "authorCategory": "coworker",
+        "reviewer": "rach-id",
+        "requestedAt": "2026-11-21T01:08:50Z"
       }
     ],
     "renaynay": [
@@ -132,15 +173,6 @@
       "waitingSince": "2026-11-17T16:11:24Z"
     },
     {
-      "number": 3771,
-      "title": "fix(light): [high] verify share proofs from ProveShares and ProveSharesV2",
-      "url": "https://github.com/celestiaorg/celestia-core/pull/3771",
-      "repo": "celestia-core",
-      "author": "rootulp",
-      "authorCategory": "coworker",
-      "waitingSince": "2026-11-21T01:05:52Z"
-    },
-    {
       "number": 1,
       "title": "chore(deps): bump the go_modules group across 2 directories with 9 updates",
       "url": "https://github.com/celestiaorg/hyperlane-cosmos/pull/1",
@@ -251,5 +283,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-11-21T01:05:58.383Z"
+  "fetchedAt": "2026-11-21T01:10:57.615Z"
 }
