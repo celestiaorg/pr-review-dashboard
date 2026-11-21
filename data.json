@@ -149,33 +149,6 @@
   },
   "unassigned": [
     {
-      "number": 2,
-      "title": "feat: add static aggregation hook implementation for cosmosnative",
-      "url": "https://github.com/celestiaorg/hyperlane-cosmos/pull/2",
-      "repo": "hyperlane-cosmos",
-      "author": "damiannolan",
-      "authorCategory": "coworker",
-      "waitingSince": "2026-05-07T12:55:04Z"
-    },
-    {
-      "number": 3,
-      "title": "feat: add rate limited hook implementation for cosmosnative",
-      "url": "https://github.com/celestiaorg/hyperlane-cosmos/pull/3",
-      "repo": "hyperlane-cosmos",
-      "author": "damiannolan",
-      "authorCategory": "coworker",
-      "waitingSince": "2026-05-07T12:56:03Z"
-    },
-    {
-      "number": 4,
-      "title": "feat: add pausable hook implementation for cosmosnative",
-      "url": "https://github.com/celestiaorg/hyperlane-cosmos/pull/4",
-      "repo": "hyperlane-cosmos",
-      "author": "damiannolan",
-      "authorCategory": "coworker",
-      "waitingSince": "2026-05-07T13:09:16Z"
-    },
-    {
       "number": 1153,
       "title": "chore(deps)!: [high] update prost, tonic and tendermint-rs",
       "url": "https://github.com/celestiaorg/lumina/pull/1153",
@@ -201,15 +174,6 @@
       "author": "walldiss",
       "authorCategory": "coworker",
       "waitingSince": "2026-11-17T16:11:24Z"
-    },
-    {
-      "number": 1,
-      "title": "chore(deps): bump the go_modules group across 2 directories with 9 updates",
-      "url": "https://github.com/celestiaorg/hyperlane-cosmos/pull/1",
-      "repo": "hyperlane-cosmos",
-      "author": "dependabot",
-      "authorCategory": "bot",
-      "waitingSince": "2026-05-06T09:34:40Z"
     },
     {
       "number": 42,
@@ -313,5 +277,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-11-21T00:10:56.721Z"
+  "fetchedAt": "2026-11-21T00:16:06.265Z"
 }
