@@ -71,16 +71,6 @@
         "requestedAt": "2026-11-20T15:42:40Z"
       },
       {
-        "number": 8740,
-        "title": "chore(deps): [low] bump tastora to v0.21.4",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/8740",
-        "repo": "celestia-app",
-        "author": "vgonkivs",
-        "authorCategory": "coworker",
-        "reviewer": "rootulp",
-        "requestedAt": "2026-11-21T00:07:19Z"
-      },
-      {
         "number": 8739,
         "title": "fix(fibre): [medium] bound prefix scans after carry",
         "url": "https://github.com/celestiaorg/celestia-app/pull/8739",
@@ -149,6 +139,33 @@
   },
   "unassigned": [
     {
+      "number": 2,
+      "title": "feat: add static aggregation hook implementation for cosmosnative",
+      "url": "https://github.com/celestiaorg/hyperlane-cosmos/pull/2",
+      "repo": "hyperlane-cosmos",
+      "author": "damiannolan",
+      "authorCategory": "coworker",
+      "waitingSince": "2026-05-07T12:55:04Z"
+    },
+    {
+      "number": 3,
+      "title": "feat: add rate limited hook implementation for cosmosnative",
+      "url": "https://github.com/celestiaorg/hyperlane-cosmos/pull/3",
+      "repo": "hyperlane-cosmos",
+      "author": "damiannolan",
+      "authorCategory": "coworker",
+      "waitingSince": "2026-05-07T12:56:03Z"
+    },
+    {
+      "number": 4,
+      "title": "feat: add pausable hook implementation for cosmosnative",
+      "url": "https://github.com/celestiaorg/hyperlane-cosmos/pull/4",
+      "repo": "hyperlane-cosmos",
+      "author": "damiannolan",
+      "authorCategory": "coworker",
+      "waitingSince": "2026-05-07T13:09:16Z"
+    },
+    {
       "number": 1153,
       "title": "chore(deps)!: [high] update prost, tonic and tendermint-rs",
       "url": "https://github.com/celestiaorg/lumina/pull/1153",
@@ -174,6 +191,15 @@
       "author": "walldiss",
       "authorCategory": "coworker",
       "waitingSince": "2026-11-17T16:11:24Z"
+    },
+    {
+      "number": 1,
+      "title": "chore(deps): bump the go_modules group across 2 directories with 9 updates",
+      "url": "https://github.com/celestiaorg/hyperlane-cosmos/pull/1",
+      "repo": "hyperlane-cosmos",
+      "author": "dependabot",
+      "authorCategory": "bot",
+      "waitingSince": "2026-05-06T09:34:40Z"
     },
     {
       "number": 42,
@@ -277,5 +303,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-11-21T00:16:06.265Z"
+  "fetchedAt": "2026-11-21T00:20:57.259Z"
 }
