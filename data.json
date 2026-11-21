@@ -13,16 +13,6 @@
         "authorCategory": "coworker",
         "reviewer": "ninabarbakadze",
         "requestedAt": "2026-11-21T01:06:02Z"
-      },
-      {
-        "number": 3774,
-        "title": "test(propagation): [low] deflake TestRecoverPartsFromLiveMempool",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3774",
-        "repo": "celestia-core",
-        "author": "rootulp",
-        "authorCategory": "coworker",
-        "reviewer": "ninabarbakadze",
-        "requestedAt": "2026-11-21T01:08:51Z"
       }
     ],
     "rach-id": [
@@ -45,16 +35,6 @@
         "authorCategory": "coworker",
         "reviewer": "rach-id",
         "requestedAt": "2026-11-21T01:06:01Z"
-      },
-      {
-        "number": 3774,
-        "title": "test(propagation): [low] deflake TestRecoverPartsFromLiveMempool",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3774",
-        "repo": "celestia-core",
-        "author": "rootulp",
-        "authorCategory": "coworker",
-        "reviewer": "rach-id",
-        "requestedAt": "2026-11-21T01:08:50Z"
       }
     ],
     "renaynay": [
@@ -283,5 +263,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-11-21T01:21:21.365Z"
+  "fetchedAt": "2026-11-21T01:26:21.953Z"
 }
