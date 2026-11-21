@@ -15,26 +15,6 @@
         "requestedAt": "2026-11-21T01:06:02Z"
       },
       {
-        "number": 8744,
-        "title": "refactor(da): [low] tidy DataAvailabilityHeader edge cases",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/8744",
-        "repo": "celestia-app",
-        "author": "rootulp",
-        "authorCategory": "coworker",
-        "reviewer": "ninabarbakadze",
-        "requestedAt": "2026-11-21T05:00:23Z"
-      },
-      {
-        "number": 8743,
-        "title": "fix(proof): [medium] return an error for share ranges outside the data square",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/8743",
-        "repo": "celestia-app",
-        "author": "rootulp",
-        "authorCategory": "coworker",
-        "reviewer": "ninabarbakadze",
-        "requestedAt": "2026-11-21T05:00:52Z"
-      },
-      {
         "number": 3769,
         "title": "fix(consensus): [high] take parts that arrived before their proposal",
         "url": "https://github.com/celestiaorg/celestia-core/pull/3769",
@@ -75,26 +55,6 @@
         "authorCategory": "coworker",
         "reviewer": "rach-id",
         "requestedAt": "2026-11-21T01:06:01Z"
-      },
-      {
-        "number": 8744,
-        "title": "refactor(da): [low] tidy DataAvailabilityHeader edge cases",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/8744",
-        "repo": "celestia-app",
-        "author": "rootulp",
-        "authorCategory": "coworker",
-        "reviewer": "rach-id",
-        "requestedAt": "2026-11-21T05:00:22Z"
-      },
-      {
-        "number": 8743,
-        "title": "fix(proof): [medium] return an error for share ranges outside the data square",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/8743",
-        "repo": "celestia-app",
-        "author": "rootulp",
-        "authorCategory": "coworker",
-        "reviewer": "rach-id",
-        "requestedAt": "2026-11-21T05:00:51Z"
       },
       {
         "number": 3769,
@@ -343,5 +303,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-11-21T05:11:24.289Z"
+  "fetchedAt": "2026-11-21T05:16:24.637Z"
 }
