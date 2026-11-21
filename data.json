@@ -13,6 +13,26 @@
         "authorCategory": "coworker",
         "reviewer": "ninabarbakadze",
         "requestedAt": "2026-11-21T01:06:02Z"
+      },
+      {
+        "number": 8744,
+        "title": "refactor(da): [low] tidy DataAvailabilityHeader edge cases",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/8744",
+        "repo": "celestia-app",
+        "author": "rootulp",
+        "authorCategory": "coworker",
+        "reviewer": "ninabarbakadze",
+        "requestedAt": "2026-11-21T05:00:23Z"
+      },
+      {
+        "number": 8743,
+        "title": "fix(proof): [medium] return an error for share ranges outside the data square",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/8743",
+        "repo": "celestia-app",
+        "author": "rootulp",
+        "authorCategory": "coworker",
+        "reviewer": "ninabarbakadze",
+        "requestedAt": "2026-11-21T05:00:52Z"
       }
     ],
     "rach-id": [
@@ -35,6 +55,26 @@
         "authorCategory": "coworker",
         "reviewer": "rach-id",
         "requestedAt": "2026-11-21T01:06:01Z"
+      },
+      {
+        "number": 8744,
+        "title": "refactor(da): [low] tidy DataAvailabilityHeader edge cases",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/8744",
+        "repo": "celestia-app",
+        "author": "rootulp",
+        "authorCategory": "coworker",
+        "reviewer": "rach-id",
+        "requestedAt": "2026-11-21T05:00:22Z"
+      },
+      {
+        "number": 8743,
+        "title": "fix(proof): [medium] return an error for share ranges outside the data square",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/8743",
+        "repo": "celestia-app",
+        "author": "rootulp",
+        "authorCategory": "coworker",
+        "reviewer": "rach-id",
+        "requestedAt": "2026-11-21T05:00:51Z"
       }
     ],
     "renaynay": [
@@ -263,5 +303,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-11-21T04:56:24.158Z"
+  "fetchedAt": "2026-11-21T05:01:24.107Z"
 }
