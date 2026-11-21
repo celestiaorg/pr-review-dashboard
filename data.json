@@ -15,16 +15,6 @@
         "requestedAt": "2026-11-21T05:01:40Z"
       },
       {
-        "number": 3754,
-        "title": "fix(mempool/cat): [high] request every tx queued at a signer sequence",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3754",
-        "repo": "celestia-core",
-        "author": "rootulp",
-        "authorCategory": "coworker",
-        "reviewer": "ninabarbakadze",
-        "requestedAt": "2026-11-21T05:03:32Z"
-      },
-      {
         "number": 8708,
         "title": "fix(app): [high] bound nested messages in ICA packets and MsgExec at mempool admission (v11.x) (backport #8597)",
         "url": "https://github.com/celestiaorg/celestia-app/pull/8708",
@@ -55,16 +45,6 @@
         "authorCategory": "coworker",
         "reviewer": "rach-id",
         "requestedAt": "2026-11-21T05:01:39Z"
-      },
-      {
-        "number": 3754,
-        "title": "fix(mempool/cat): [high] request every tx queued at a signer sequence",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3754",
-        "repo": "celestia-core",
-        "author": "rootulp",
-        "authorCategory": "coworker",
-        "reviewer": "rach-id",
-        "requestedAt": "2026-11-21T05:03:31Z"
       },
       {
         "number": 8708,
@@ -314,5 +294,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-11-21T05:41:24.618Z"
+  "fetchedAt": "2026-11-21T05:46:25.262Z"
 }
