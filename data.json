@@ -69,16 +69,6 @@
         "authorCategory": "coworker",
         "reviewer": "rootulp",
         "requestedAt": "2026-11-20T15:42:40Z"
-      },
-      {
-        "number": 8739,
-        "title": "fix(fibre): [medium] bound prefix scans after carry",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/8739",
-        "repo": "celestia-app",
-        "author": "hehuanlu",
-        "authorCategory": "external",
-        "reviewer": "rootulp",
-        "requestedAt": "2026-11-21T00:04:59Z"
       }
     ],
     "vgonkivs": [
@@ -303,5 +293,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-11-21T00:20:57.259Z"
+  "fetchedAt": "2026-11-21T00:25:57.837Z"
 }
