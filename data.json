@@ -27,16 +27,6 @@
     ],
     "rach-id": [
       {
-        "number": 3674,
-        "title": "fix(propagation): [high] bound per-peer round state inside PeerState",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3674",
-        "repo": "celestia-core",
-        "author": "rootulp",
-        "authorCategory": "coworker",
-        "reviewer": "rach-id",
-        "requestedAt": "2026-11-21T00:46:58Z"
-      },
-      {
         "number": 8708,
         "title": "fix(app): [high] bound nested messages in ICA packets and MsgExec at mempool admission (v11.x) (backport #8597)",
         "url": "https://github.com/celestiaorg/celestia-app/pull/8708",
@@ -284,5 +274,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-11-21T07:56:47.937Z"
+  "fetchedAt": "2026-11-21T08:01:49.484Z"
 }
