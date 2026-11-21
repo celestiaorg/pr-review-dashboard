@@ -33,6 +33,26 @@
         "authorCategory": "coworker",
         "reviewer": "ninabarbakadze",
         "requestedAt": "2026-11-21T05:00:52Z"
+      },
+      {
+        "number": 3769,
+        "title": "fix(consensus): [high] take parts that arrived before their proposal",
+        "url": "https://github.com/celestiaorg/celestia-core/pull/3769",
+        "repo": "celestia-core",
+        "author": "rootulp",
+        "authorCategory": "coworker",
+        "reviewer": "ninabarbakadze",
+        "requestedAt": "2026-11-21T05:01:40Z"
+      },
+      {
+        "number": 3754,
+        "title": "fix(mempool/cat): [high] request every tx queued at a signer sequence",
+        "url": "https://github.com/celestiaorg/celestia-core/pull/3754",
+        "repo": "celestia-core",
+        "author": "rootulp",
+        "authorCategory": "coworker",
+        "reviewer": "ninabarbakadze",
+        "requestedAt": "2026-11-21T05:03:32Z"
       }
     ],
     "rach-id": [
@@ -75,6 +95,26 @@
         "authorCategory": "coworker",
         "reviewer": "rach-id",
         "requestedAt": "2026-11-21T05:00:51Z"
+      },
+      {
+        "number": 3769,
+        "title": "fix(consensus): [high] take parts that arrived before their proposal",
+        "url": "https://github.com/celestiaorg/celestia-core/pull/3769",
+        "repo": "celestia-core",
+        "author": "rootulp",
+        "authorCategory": "coworker",
+        "reviewer": "rach-id",
+        "requestedAt": "2026-11-21T05:01:39Z"
+      },
+      {
+        "number": 3754,
+        "title": "fix(mempool/cat): [high] request every tx queued at a signer sequence",
+        "url": "https://github.com/celestiaorg/celestia-core/pull/3754",
+        "repo": "celestia-core",
+        "author": "rootulp",
+        "authorCategory": "coworker",
+        "reviewer": "rach-id",
+        "requestedAt": "2026-11-21T05:03:31Z"
       }
     ],
     "renaynay": [
@@ -303,5 +343,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-11-21T05:01:24.107Z"
+  "fetchedAt": "2026-11-21T05:06:24.348Z"
 }
