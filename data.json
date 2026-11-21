@@ -5,6 +5,16 @@
     "damiannolan": [],
     "ninabarbakadze": [
       {
+        "number": 8740,
+        "title": "chore(deps): [low] bump tastora to v0.21.4",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/8740",
+        "repo": "celestia-app",
+        "author": "vgonkivs",
+        "authorCategory": "coworker",
+        "reviewer": "ninabarbakadze",
+        "requestedAt": "2026-11-21T00:07:21Z"
+      },
+      {
         "number": 8739,
         "title": "fix(fibre): [medium] bound prefix scans after carry",
         "url": "https://github.com/celestiaorg/celestia-app/pull/8739",
@@ -16,6 +26,16 @@
       }
     ],
     "rach-id": [
+      {
+        "number": 8740,
+        "title": "chore(deps): [low] bump tastora to v0.21.4",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/8740",
+        "repo": "celestia-app",
+        "author": "vgonkivs",
+        "authorCategory": "coworker",
+        "reviewer": "rach-id",
+        "requestedAt": "2026-11-21T00:07:20Z"
+      },
       {
         "number": 8739,
         "title": "fix(fibre): [medium] bound prefix scans after carry",
@@ -49,6 +69,16 @@
         "authorCategory": "coworker",
         "reviewer": "rootulp",
         "requestedAt": "2026-11-20T15:42:40Z"
+      },
+      {
+        "number": 8740,
+        "title": "chore(deps): [low] bump tastora to v0.21.4",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/8740",
+        "repo": "celestia-app",
+        "author": "vgonkivs",
+        "authorCategory": "coworker",
+        "reviewer": "rootulp",
+        "requestedAt": "2026-11-21T00:07:19Z"
       },
       {
         "number": 8739,
@@ -283,5 +313,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-11-21T00:05:56.417Z"
+  "fetchedAt": "2026-11-21T00:10:56.721Z"
 }
