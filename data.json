@@ -4,7 +4,18 @@
     "pippokr": [],
     "damiannolan": [],
     "ninabarbakadze": [],
-    "rach-id": [],
+    "rach-id": [
+      {
+        "number": 3674,
+        "title": "fix(propagation): [high] bound per-peer round state inside PeerState",
+        "url": "https://github.com/celestiaorg/celestia-core/pull/3674",
+        "repo": "celestia-core",
+        "author": "rootulp",
+        "authorCategory": "coworker",
+        "reviewer": "rach-id",
+        "requestedAt": "2026-11-21T00:46:58Z"
+      }
+    ],
     "renaynay": [
       {
         "number": 5424,
@@ -121,15 +132,6 @@
       "author": "citizen-stig",
       "authorCategory": "coworker",
       "waitingSince": "2026-11-11T10:36:13Z"
-    },
-    {
-      "number": 3674,
-      "title": "fix(propagation): [high] bound per-peer round state inside PeerState",
-      "url": "https://github.com/celestiaorg/celestia-core/pull/3674",
-      "repo": "celestia-core",
-      "author": "rootulp",
-      "authorCategory": "coworker",
-      "waitingSince": "2026-11-12T23:34:35Z"
     },
     {
       "number": 5417,
@@ -251,5 +253,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-11-21T00:45:57.167Z"
+  "fetchedAt": "2026-11-21T00:50:57.554Z"
 }
