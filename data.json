@@ -1,54 +1,10 @@
 {
   "reviews": {
-    "chatton": [
-      {
-        "number": 32,
-        "title": "ci: [medium] fix lint for Go 1.24 and remove broken CodeQL workflow",
-        "url": "https://github.com/celestiaorg/ibc-go/pull/32",
-        "repo": "ibc-go",
-        "author": "rootulp",
-        "authorCategory": "coworker",
-        "reviewer": "chatton",
-        "requestedAt": "2026-11-21T00:35:33Z"
-      }
-    ],
+    "chatton": [],
     "pippokr": [],
-    "damiannolan": [
-      {
-        "number": 32,
-        "title": "ci: [medium] fix lint for Go 1.24 and remove broken CodeQL workflow",
-        "url": "https://github.com/celestiaorg/ibc-go/pull/32",
-        "repo": "ibc-go",
-        "author": "rootulp",
-        "authorCategory": "coworker",
-        "reviewer": "damiannolan",
-        "requestedAt": "2026-11-21T00:35:33Z"
-      }
-    ],
-    "ninabarbakadze": [
-      {
-        "number": 8739,
-        "title": "fix(fibre): [medium] bound prefix scans after carry",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/8739",
-        "repo": "celestia-app",
-        "author": "hehuanlu",
-        "authorCategory": "external",
-        "reviewer": "ninabarbakadze",
-        "requestedAt": "2026-11-21T00:05:01Z"
-      }
-    ],
-    "rach-id": [
-      {
-        "number": 8739,
-        "title": "fix(fibre): [medium] bound prefix scans after carry",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/8739",
-        "repo": "celestia-app",
-        "author": "hehuanlu",
-        "authorCategory": "external",
-        "reviewer": "rach-id",
-        "requestedAt": "2026-11-21T00:05:00Z"
-      }
-    ],
+    "damiannolan": [],
+    "ninabarbakadze": [],
+    "rach-id": [],
     "renaynay": [
       {
         "number": 5424,
@@ -295,5 +251,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-11-21T00:35:57.019Z"
+  "fetchedAt": "2026-11-21T00:40:56.856Z"
 }
