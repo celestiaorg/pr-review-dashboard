@@ -132,6 +132,15 @@
       "waitingSince": "2026-11-17T16:11:24Z"
     },
     {
+      "number": 3771,
+      "title": "fix(light): [high] verify share proofs from ProveShares and ProveSharesV2",
+      "url": "https://github.com/celestiaorg/celestia-core/pull/3771",
+      "repo": "celestia-core",
+      "author": "rootulp",
+      "authorCategory": "coworker",
+      "waitingSince": "2026-11-21T01:05:52Z"
+    },
+    {
       "number": 1,
       "title": "chore(deps): bump the go_modules group across 2 directories with 9 updates",
       "url": "https://github.com/celestiaorg/hyperlane-cosmos/pull/1",
@@ -242,5 +251,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-11-21T01:00:57.575Z"
+  "fetchedAt": "2026-11-21T01:05:58.383Z"
 }
