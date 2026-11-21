@@ -28,18 +28,7 @@
         "requestedAt": "2026-11-20T12:28:54Z"
       }
     ],
-    "rootulp": [
-      {
-        "number": 3770,
-        "title": "fix(propagation)!: [high] sign a fixed-size compact block digest from app version 12",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3770",
-        "repo": "celestia-core",
-        "author": "ninabarbakadze",
-        "authorCategory": "coworker",
-        "reviewer": "rootulp",
-        "requestedAt": "2026-11-20T15:42:40Z"
-      }
-    ],
+    "rootulp": [],
     "vgonkivs": [
       {
         "number": 5422,
@@ -253,5 +242,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-11-21T00:55:57.560Z"
+  "fetchedAt": "2026-11-21T01:00:57.575Z"
 }
