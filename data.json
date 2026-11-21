@@ -1,19 +1,31 @@
 {
   "reviews": {
-    "chatton": [],
-    "pippokr": [],
-    "damiannolan": [],
-    "ninabarbakadze": [
+    "chatton": [
       {
-        "number": 8740,
-        "title": "chore(deps): [low] bump tastora to v0.21.4",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/8740",
-        "repo": "celestia-app",
-        "author": "vgonkivs",
+        "number": 32,
+        "title": "ci: [medium] fix lint for Go 1.24 and remove broken CodeQL workflow",
+        "url": "https://github.com/celestiaorg/ibc-go/pull/32",
+        "repo": "ibc-go",
+        "author": "rootulp",
         "authorCategory": "coworker",
-        "reviewer": "ninabarbakadze",
-        "requestedAt": "2026-11-21T00:07:21Z"
-      },
+        "reviewer": "chatton",
+        "requestedAt": "2026-11-21T00:35:33Z"
+      }
+    ],
+    "pippokr": [],
+    "damiannolan": [
+      {
+        "number": 32,
+        "title": "ci: [medium] fix lint for Go 1.24 and remove broken CodeQL workflow",
+        "url": "https://github.com/celestiaorg/ibc-go/pull/32",
+        "repo": "ibc-go",
+        "author": "rootulp",
+        "authorCategory": "coworker",
+        "reviewer": "damiannolan",
+        "requestedAt": "2026-11-21T00:35:33Z"
+      }
+    ],
+    "ninabarbakadze": [
       {
         "number": 8739,
         "title": "fix(fibre): [medium] bound prefix scans after carry",
@@ -26,16 +38,6 @@
       }
     ],
     "rach-id": [
-      {
-        "number": 8740,
-        "title": "chore(deps): [low] bump tastora to v0.21.4",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/8740",
-        "repo": "celestia-app",
-        "author": "vgonkivs",
-        "authorCategory": "coworker",
-        "reviewer": "rach-id",
-        "requestedAt": "2026-11-21T00:07:20Z"
-      },
       {
         "number": 8739,
         "title": "fix(fibre): [medium] bound prefix scans after carry",
@@ -293,5 +295,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-11-21T00:30:57.067Z"
+  "fetchedAt": "2026-11-21T00:35:57.019Z"
 }
