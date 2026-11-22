@@ -57,16 +57,6 @@
     ],
     "rach-id": [
       {
-        "number": 214,
-        "title": "feat(codec/unknownproto): [high] add a strict walk that rejects ambiguous encodings",
-        "url": "https://github.com/celestiaorg/cosmos-sdk/pull/214",
-        "repo": "cosmos-sdk",
-        "author": "rootulp",
-        "authorCategory": "coworker",
-        "reviewer": "rach-id",
-        "requestedAt": "2026-11-21T19:37:32Z"
-      },
-      {
         "number": 215,
         "title": "feat(x/auth/tx): [high] add StrictTxDecoder",
         "url": "https://github.com/celestiaorg/cosmos-sdk/pull/215",
@@ -334,5 +324,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-11-22T11:19:13.972Z"
+  "fetchedAt": "2026-11-22T11:24:14.155Z"
 }
