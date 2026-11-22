@@ -45,6 +45,16 @@
         "requestedAt": "2026-11-22T21:57:53Z"
       },
       {
+        "number": 3787,
+        "title": "fix(propagation): [high] give each peer its own share of the stored parts budget",
+        "url": "https://github.com/celestiaorg/celestia-core/pull/3787",
+        "repo": "celestia-core",
+        "author": "rootulp",
+        "authorCategory": "coworker",
+        "reviewer": "ninabarbakadze",
+        "requestedAt": "2026-11-22T22:43:36Z"
+      },
+      {
         "number": 3782,
         "title": "fix(propagation): [high] bound per-peer round state inside PeerState (backport #3674)",
         "url": "https://github.com/celestiaorg/celestia-core/pull/3782",
@@ -85,6 +95,16 @@
         "authorCategory": "coworker",
         "reviewer": "rach-id",
         "requestedAt": "2026-11-22T21:57:52Z"
+      },
+      {
+        "number": 3787,
+        "title": "fix(propagation): [high] give each peer its own share of the stored parts budget",
+        "url": "https://github.com/celestiaorg/celestia-core/pull/3787",
+        "repo": "celestia-core",
+        "author": "rootulp",
+        "authorCategory": "coworker",
+        "reviewer": "rach-id",
+        "requestedAt": "2026-11-22T22:43:35Z"
       },
       {
         "number": 3782,
@@ -334,5 +354,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-11-22T22:40:04.935Z"
+  "fetchedAt": "2026-11-22T22:45:04.653Z"
 }
