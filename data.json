@@ -107,6 +107,16 @@
         "requestedAt": "2026-11-22T22:43:35Z"
       },
       {
+        "number": 3769,
+        "title": "fix(consensus): [high] take parts that arrived before their proposal",
+        "url": "https://github.com/celestiaorg/celestia-core/pull/3769",
+        "repo": "celestia-core",
+        "author": "rootulp",
+        "authorCategory": "coworker",
+        "reviewer": "rach-id",
+        "requestedAt": "2026-11-22T22:49:32Z"
+      },
+      {
         "number": 3782,
         "title": "fix(propagation): [high] bound per-peer round state inside PeerState (backport #3674)",
         "url": "https://github.com/celestiaorg/celestia-core/pull/3782",
@@ -127,6 +137,16 @@
         "authorCategory": "coworker",
         "reviewer": "renaynay",
         "requestedAt": "2026-11-20T12:28:54Z"
+      },
+      {
+        "number": 5430,
+        "title": "fix(blob): [high] deduplicate GetAll namespaces and bound concurrency",
+        "url": "https://github.com/celestiaorg/celestia-node/pull/5430",
+        "repo": "celestia-node",
+        "author": "rootulp",
+        "authorCategory": "coworker",
+        "reviewer": "renaynay",
+        "requestedAt": "2026-11-22T22:47:26Z"
       }
     ],
     "rootulp": [
@@ -151,6 +171,16 @@
         "authorCategory": "coworker",
         "reviewer": "vgonkivs",
         "requestedAt": "2026-11-19T16:04:33Z"
+      },
+      {
+        "number": 5430,
+        "title": "fix(blob): [high] deduplicate GetAll namespaces and bound concurrency",
+        "url": "https://github.com/celestiaorg/celestia-node/pull/5430",
+        "repo": "celestia-node",
+        "author": "rootulp",
+        "authorCategory": "coworker",
+        "reviewer": "vgonkivs",
+        "requestedAt": "2026-11-22T22:47:24Z"
       },
       {
         "number": 5190,
@@ -194,6 +224,16 @@
         "authorCategory": "coworker",
         "reviewer": "walldiss",
         "requestedAt": "2026-11-20T12:28:52Z"
+      },
+      {
+        "number": 5430,
+        "title": "fix(blob): [high] deduplicate GetAll namespaces and bound concurrency",
+        "url": "https://github.com/celestiaorg/celestia-node/pull/5430",
+        "repo": "celestia-node",
+        "author": "rootulp",
+        "authorCategory": "coworker",
+        "reviewer": "walldiss",
+        "requestedAt": "2026-11-22T22:47:25Z"
       }
     ]
   },
@@ -354,5 +394,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-11-22T22:45:04.653Z"
+  "fetchedAt": "2026-11-22T22:50:05.209Z"
 }
