@@ -33,6 +33,16 @@
         "authorCategory": "coworker",
         "reviewer": "ninabarbakadze",
         "requestedAt": "2026-11-22T21:52:51Z"
+      },
+      {
+        "number": 3783,
+        "title": "fix(mempool/cat): [medium] request every tx queued at a signer sequence (backport #3754)",
+        "url": "https://github.com/celestiaorg/celestia-core/pull/3783",
+        "repo": "celestia-core",
+        "author": "rootulp",
+        "authorCategory": "coworker",
+        "reviewer": "ninabarbakadze",
+        "requestedAt": "2026-11-22T21:57:53Z"
       }
     ],
     "rach-id": [
@@ -55,6 +65,16 @@
         "authorCategory": "coworker",
         "reviewer": "rach-id",
         "requestedAt": "2026-11-22T21:53:52Z"
+      },
+      {
+        "number": 3783,
+        "title": "fix(mempool/cat): [medium] request every tx queued at a signer sequence (backport #3754)",
+        "url": "https://github.com/celestiaorg/celestia-core/pull/3783",
+        "repo": "celestia-core",
+        "author": "rootulp",
+        "authorCategory": "coworker",
+        "reviewer": "rach-id",
+        "requestedAt": "2026-11-22T21:57:52Z"
       }
     ],
     "renaynay": [
@@ -283,5 +303,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-11-22T21:55:04.061Z"
+  "fetchedAt": "2026-11-22T22:00:04.410Z"
 }
