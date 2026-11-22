@@ -43,6 +43,16 @@
         "authorCategory": "coworker",
         "reviewer": "ninabarbakadze",
         "requestedAt": "2026-11-22T21:57:53Z"
+      },
+      {
+        "number": 3782,
+        "title": "fix(propagation): [high] bound per-peer round state inside PeerState (backport #3674)",
+        "url": "https://github.com/celestiaorg/celestia-core/pull/3782",
+        "repo": "celestia-core",
+        "author": "mergify",
+        "authorCategory": "bot",
+        "reviewer": "ninabarbakadze",
+        "requestedAt": "2026-11-21T19:33:34Z"
       }
     ],
     "rach-id": [
@@ -75,6 +85,16 @@
         "authorCategory": "coworker",
         "reviewer": "rach-id",
         "requestedAt": "2026-11-22T21:57:52Z"
+      },
+      {
+        "number": 3782,
+        "title": "fix(propagation): [high] bound per-peer round state inside PeerState (backport #3674)",
+        "url": "https://github.com/celestiaorg/celestia-core/pull/3782",
+        "repo": "celestia-core",
+        "author": "mergify",
+        "authorCategory": "bot",
+        "reviewer": "rach-id",
+        "requestedAt": "2026-11-22T22:11:43Z"
       }
     ],
     "renaynay": [
@@ -89,7 +109,18 @@
         "requestedAt": "2026-11-20T12:28:54Z"
       }
     ],
-    "rootulp": [],
+    "rootulp": [
+      {
+        "number": 3782,
+        "title": "fix(propagation): [high] bound per-peer round state inside PeerState (backport #3674)",
+        "url": "https://github.com/celestiaorg/celestia-core/pull/3782",
+        "repo": "celestia-core",
+        "author": "mergify",
+        "authorCategory": "bot",
+        "reviewer": "rootulp",
+        "requestedAt": "2026-11-21T19:33:32Z"
+      }
+    ],
     "vgonkivs": [
       {
         "number": 5422,
@@ -303,5 +334,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-11-22T22:10:04.564Z"
+  "fetchedAt": "2026-11-22T22:15:04.417Z"
 }
