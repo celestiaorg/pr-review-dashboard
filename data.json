@@ -125,6 +125,16 @@
         "requestedAt": "2026-11-23T06:40:03Z"
       },
       {
+        "number": 8748,
+        "title": "fix(fibre): [medium] reject pinned-height ValidatePaymentPromise queries",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/8748",
+        "repo": "celestia-app",
+        "author": "rach-id",
+        "authorCategory": "coworker",
+        "reviewer": "ninabarbakadze",
+        "requestedAt": "2026-11-23T06:43:41Z"
+      },
+      {
         "number": 3782,
         "title": "fix(propagation): [high] bound per-peer round state inside PeerState (backport #3674)",
         "url": "https://github.com/celestiaorg/celestia-core/pull/3782",
@@ -289,6 +299,16 @@
         "authorCategory": "coworker",
         "reviewer": "rootulp",
         "requestedAt": "2026-11-23T06:40:03Z"
+      },
+      {
+        "number": 8748,
+        "title": "fix(fibre): [medium] reject pinned-height ValidatePaymentPromise queries",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/8748",
+        "repo": "celestia-app",
+        "author": "rach-id",
+        "authorCategory": "coworker",
+        "reviewer": "rootulp",
+        "requestedAt": "2026-11-23T06:43:39Z"
       },
       {
         "number": 3782,
@@ -552,5 +572,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-11-23T06:40:46.924Z"
+  "fetchedAt": "2026-11-23T06:45:46.896Z"
 }
