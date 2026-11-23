@@ -45,6 +45,16 @@
         "requestedAt": "2026-11-22T22:43:36Z"
       },
       {
+        "number": 223,
+        "title": "fix(x/auth/tx,baseapp): [high] return errors instead of panicking on malformed signatures",
+        "url": "https://github.com/celestiaorg/cosmos-sdk/pull/223",
+        "repo": "cosmos-sdk",
+        "author": "rootulp",
+        "authorCategory": "coworker",
+        "reviewer": "ninabarbakadze",
+        "requestedAt": "2026-11-23T04:54:46Z"
+      },
+      {
         "number": 3782,
         "title": "fix(propagation): [high] bound per-peer round state inside PeerState (backport #3674)",
         "url": "https://github.com/celestiaorg/celestia-core/pull/3782",
@@ -97,6 +107,16 @@
         "requestedAt": "2026-11-22T22:49:32Z"
       },
       {
+        "number": 223,
+        "title": "fix(x/auth/tx,baseapp): [high] return errors instead of panicking on malformed signatures",
+        "url": "https://github.com/celestiaorg/cosmos-sdk/pull/223",
+        "repo": "cosmos-sdk",
+        "author": "rootulp",
+        "authorCategory": "coworker",
+        "reviewer": "rach-id",
+        "requestedAt": "2026-11-23T04:54:45Z"
+      },
+      {
         "number": 3782,
         "title": "fix(propagation): [high] bound per-peer round state inside PeerState (backport #3674)",
         "url": "https://github.com/celestiaorg/celestia-core/pull/3782",
@@ -127,6 +147,16 @@
         "authorCategory": "coworker",
         "reviewer": "renaynay",
         "requestedAt": "2026-11-22T22:47:26Z"
+      },
+      {
+        "number": 5431,
+        "title": "ci: [low] run macOS unit tests on macos-15",
+        "url": "https://github.com/celestiaorg/celestia-node/pull/5431",
+        "repo": "celestia-node",
+        "author": "rootulp",
+        "authorCategory": "coworker",
+        "reviewer": "renaynay",
+        "requestedAt": "2026-11-23T04:55:26Z"
       }
     ],
     "rootulp": [
@@ -161,6 +191,16 @@
         "authorCategory": "coworker",
         "reviewer": "vgonkivs",
         "requestedAt": "2026-11-22T22:47:24Z"
+      },
+      {
+        "number": 5431,
+        "title": "ci: [low] run macOS unit tests on macos-15",
+        "url": "https://github.com/celestiaorg/celestia-node/pull/5431",
+        "repo": "celestia-node",
+        "author": "rootulp",
+        "authorCategory": "coworker",
+        "reviewer": "vgonkivs",
+        "requestedAt": "2026-11-23T04:55:24Z"
       },
       {
         "number": 5190,
@@ -214,6 +254,16 @@
         "authorCategory": "coworker",
         "reviewer": "walldiss",
         "requestedAt": "2026-11-22T22:47:25Z"
+      },
+      {
+        "number": 5431,
+        "title": "ci: [low] run macOS unit tests on macos-15",
+        "url": "https://github.com/celestiaorg/celestia-node/pull/5431",
+        "repo": "celestia-node",
+        "author": "rootulp",
+        "authorCategory": "coworker",
+        "reviewer": "walldiss",
+        "requestedAt": "2026-11-23T04:55:25Z"
       }
     ]
   },
@@ -374,5 +424,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-11-23T04:50:46.282Z"
+  "fetchedAt": "2026-11-23T04:55:45.760Z"
 }
