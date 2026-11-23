@@ -213,26 +213,6 @@
         "authorCategory": "bot",
         "reviewer": "ninabarbakadze",
         "requestedAt": "2026-11-21T19:33:34Z"
-      },
-      {
-        "number": 8773,
-        "title": "chore(deps): [medium] bump the go-deps-docker-e2e group in /test/docker-e2e with 2 updates",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/8773",
-        "repo": "celestia-app",
-        "author": "dependabot",
-        "authorCategory": "bot",
-        "reviewer": "ninabarbakadze",
-        "requestedAt": "2026-11-23T09:49:31Z"
-      },
-      {
-        "number": 8774,
-        "title": "chore(deps): [high] bump the go-deps group with 8 updates",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/8774",
-        "repo": "celestia-app",
-        "author": "dependabot",
-        "authorCategory": "bot",
-        "reviewer": "ninabarbakadze",
-        "requestedAt": "2026-11-23T09:50:19Z"
       }
     ],
     "rach-id": [
@@ -459,26 +439,6 @@
         "authorCategory": "bot",
         "reviewer": "rootulp",
         "requestedAt": "2026-11-21T19:33:32Z"
-      },
-      {
-        "number": 8773,
-        "title": "chore(deps): [medium] bump the go-deps-docker-e2e group in /test/docker-e2e with 2 updates",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/8773",
-        "repo": "celestia-app",
-        "author": "dependabot",
-        "authorCategory": "bot",
-        "reviewer": "rootulp",
-        "requestedAt": "2026-11-23T09:49:28Z"
-      },
-      {
-        "number": 8774,
-        "title": "chore(deps): [high] bump the go-deps group with 8 updates",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/8774",
-        "repo": "celestia-app",
-        "author": "dependabot",
-        "authorCategory": "bot",
-        "reviewer": "rootulp",
-        "requestedAt": "2026-11-23T09:50:17Z"
       }
     ],
     "vgonkivs": [
@@ -803,5 +763,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-11-23T11:41:13.071Z"
+  "fetchedAt": "2026-11-23T11:46:12.984Z"
 }
