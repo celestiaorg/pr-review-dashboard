@@ -63,6 +63,16 @@
         "authorCategory": "bot",
         "reviewer": "ninabarbakadze",
         "requestedAt": "2026-11-23T20:06:40Z"
+      },
+      {
+        "number": 363,
+        "title": "chore(deps): [high] bump github.com/tidwall/gjson from 1.20.2 to 1.20.4",
+        "url": "https://github.com/celestiaorg/nmt/pull/363",
+        "repo": "nmt",
+        "author": "dependabot",
+        "authorCategory": "bot",
+        "reviewer": "ninabarbakadze",
+        "requestedAt": "2026-11-23T21:03:31Z"
       }
     ],
     "rach-id": [
@@ -526,5 +536,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-11-23T21:03:32.648Z"
+  "fetchedAt": "2026-11-23T21:08:35.056Z"
 }
