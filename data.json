@@ -145,6 +145,16 @@
         "requestedAt": "2026-11-23T09:10:09Z"
       },
       {
+        "number": 8721,
+        "title": "perf(app): [high] fast recheck: replay ante writes when every value read is unchanged",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/8721",
+        "repo": "celestia-app",
+        "author": "rach-id",
+        "authorCategory": "coworker",
+        "reviewer": "ninabarbakadze",
+        "requestedAt": "2026-11-23T09:14:34Z"
+      },
+      {
         "number": 3782,
         "title": "fix(propagation): [high] bound per-peer round state inside PeerState (backport #3674)",
         "url": "https://github.com/celestiaorg/celestia-core/pull/3782",
@@ -259,6 +269,16 @@
         "authorCategory": "coworker",
         "reviewer": "rootulp",
         "requestedAt": "2026-11-23T09:09:53Z"
+      },
+      {
+        "number": 8721,
+        "title": "perf(app): [high] fast recheck: replay ante writes when every value read is unchanged",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/8721",
+        "repo": "celestia-app",
+        "author": "rach-id",
+        "authorCategory": "coworker",
+        "reviewer": "rootulp",
+        "requestedAt": "2026-11-23T09:14:33Z"
       },
       {
         "number": 3782,
@@ -522,5 +542,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-11-23T09:11:11.558Z"
+  "fetchedAt": "2026-11-23T09:16:11.096Z"
 }
