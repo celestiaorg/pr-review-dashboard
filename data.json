@@ -211,16 +211,6 @@
         "requestedAt": "2026-11-20T14:10:23Z"
       },
       {
-        "number": 3778,
-        "title": "perf(p2p): [high] coalesce low-latency flushes with flush_low_latency",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3778",
-        "repo": "celestia-core",
-        "author": "rach-id",
-        "authorCategory": "coworker",
-        "reviewer": "rootulp",
-        "requestedAt": "2026-11-23T06:32:36Z"
-      },
-      {
         "number": 8751,
         "title": "feat(fibre)!: [high] raise MaxPayForFibreMessages to 500",
         "url": "https://github.com/celestiaorg/celestia-app/pull/8751",
@@ -229,16 +219,6 @@
         "authorCategory": "coworker",
         "reviewer": "rootulp",
         "requestedAt": "2026-11-23T06:53:23Z"
-      },
-      {
-        "number": 3791,
-        "title": "perf(consensus): [high] send HasVote without arming the low-latency flush",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3791",
-        "repo": "celestia-core",
-        "author": "rach-id",
-        "authorCategory": "coworker",
-        "reviewer": "rootulp",
-        "requestedAt": "2026-11-23T07:42:39Z"
       },
       {
         "number": 8768,
@@ -269,16 +249,6 @@
         "authorCategory": "coworker",
         "reviewer": "rootulp",
         "requestedAt": "2026-11-23T09:54:23Z"
-      },
-      {
-        "number": 8749,
-        "title": "perf(fibre): [high] per-signer promise cache locks and derived budget",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/8749",
-        "repo": "celestia-app",
-        "author": "rach-id",
-        "authorCategory": "coworker",
-        "reviewer": "rootulp",
-        "requestedAt": "2026-11-23T13:41:27Z"
       },
       {
         "number": 3804,
@@ -633,5 +603,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-11-23T15:46:39.268Z"
+  "fetchedAt": "2026-11-23T15:51:39.211Z"
 }
