@@ -35,16 +35,6 @@
         "requestedAt": "2026-11-23T05:22:57Z"
       },
       {
-        "number": 3778,
-        "title": "perf(p2p): [high] coalesce low-latency flushes with flush_low_latency",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3778",
-        "repo": "celestia-core",
-        "author": "rach-id",
-        "authorCategory": "coworker",
-        "reviewer": "ninabarbakadze",
-        "requestedAt": "2026-11-23T06:32:37Z"
-      },
-      {
         "number": 3786,
         "title": "fix(consensus): [high] anchor the paced start on the earlier of own start and the proposal time",
         "url": "https://github.com/celestiaorg/celestia-core/pull/3786",
@@ -373,16 +363,6 @@
         "requestedAt": "2026-11-22T22:47:24Z"
       },
       {
-        "number": 5428,
-        "title": "fix(share/shwap): [high] reject proofs with nodes of the wrong size",
-        "url": "https://github.com/celestiaorg/celestia-node/pull/5428",
-        "repo": "celestia-node",
-        "author": "ninabarbakadze",
-        "authorCategory": "coworker",
-        "reviewer": "vgonkivs",
-        "requestedAt": "2026-11-23T12:01:16Z"
-      },
-      {
         "number": 5425,
         "title": "fix(api/rpc): [high] limit the request body before authentication",
         "url": "https://github.com/celestiaorg/celestia-node/pull/5425",
@@ -474,16 +454,6 @@
         "authorCategory": "coworker",
         "reviewer": "walldiss",
         "requestedAt": "2026-11-22T22:47:25Z"
-      },
-      {
-        "number": 5428,
-        "title": "fix(share/shwap): [high] reject proofs with nodes of the wrong size",
-        "url": "https://github.com/celestiaorg/celestia-node/pull/5428",
-        "repo": "celestia-node",
-        "author": "ninabarbakadze",
-        "authorCategory": "coworker",
-        "reviewer": "walldiss",
-        "requestedAt": "2026-11-23T12:01:17Z"
       },
       {
         "number": 5425,
@@ -702,5 +672,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-11-23T12:56:13.931Z"
+  "fetchedAt": "2026-11-23T13:01:14.778Z"
 }
