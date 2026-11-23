@@ -115,6 +115,16 @@
         "requestedAt": "2026-11-23T06:29:53Z"
       },
       {
+        "number": 3778,
+        "title": "perf(p2p): [high] coalesce low-latency flushes with flush_low_latency",
+        "url": "https://github.com/celestiaorg/celestia-core/pull/3778",
+        "repo": "celestia-core",
+        "author": "rach-id",
+        "authorCategory": "coworker",
+        "reviewer": "ninabarbakadze",
+        "requestedAt": "2026-11-23T06:32:37Z"
+      },
+      {
         "number": 3782,
         "title": "fix(propagation): [high] bound per-peer round state inside PeerState (backport #3674)",
         "url": "https://github.com/celestiaorg/celestia-core/pull/3782",
@@ -269,6 +279,16 @@
         "authorCategory": "coworker",
         "reviewer": "rootulp",
         "requestedAt": "2026-11-23T06:29:52Z"
+      },
+      {
+        "number": 3778,
+        "title": "perf(p2p): [high] coalesce low-latency flushes with flush_low_latency",
+        "url": "https://github.com/celestiaorg/celestia-core/pull/3778",
+        "repo": "celestia-core",
+        "author": "rach-id",
+        "authorCategory": "coworker",
+        "reviewer": "rootulp",
+        "requestedAt": "2026-11-23T06:32:36Z"
       },
       {
         "number": 3782,
@@ -532,5 +552,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-11-23T06:30:46.701Z"
+  "fetchedAt": "2026-11-23T06:35:46.719Z"
 }
