@@ -95,16 +95,6 @@
         "authorCategory": "coworker",
         "reviewer": "rach-id",
         "requestedAt": "2026-11-23T10:31:14Z"
-      },
-      {
-        "number": 8782,
-        "title": "test(interop): [low] fuzz ICA host OnRecvPacket and OnChanOpenTry",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/8782",
-        "repo": "celestia-app",
-        "author": "damiannolan",
-        "authorCategory": "coworker",
-        "reviewer": "rach-id",
-        "requestedAt": "2026-11-23T13:38:40Z"
       }
     ],
     "renaynay": [
@@ -662,5 +652,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-11-23T13:41:37.684Z"
+  "fetchedAt": "2026-11-23T13:46:37.550Z"
 }
