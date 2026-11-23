@@ -55,16 +55,6 @@
         "requestedAt": "2026-11-23T20:35:57Z"
       },
       {
-        "number": 8789,
-        "title": "Update test-coverage.yml",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/8789",
-        "repo": "celestia-app",
-        "author": "sysrex",
-        "authorCategory": "coworker",
-        "reviewer": "ninabarbakadze",
-        "requestedAt": "2026-11-23T21:38:13Z"
-      },
-      {
         "number": 3806,
         "title": "fix(p2p): [high] start the BaseReactor processor in Start (backport #3804)",
         "url": "https://github.com/celestiaorg/celestia-core/pull/3806",
@@ -145,16 +135,6 @@
         "authorCategory": "coworker",
         "reviewer": "rach-id",
         "requestedAt": "2026-11-23T20:35:57Z"
-      },
-      {
-        "number": 8789,
-        "title": "Update test-coverage.yml",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/8789",
-        "repo": "celestia-app",
-        "author": "sysrex",
-        "authorCategory": "coworker",
-        "reviewer": "rach-id",
-        "requestedAt": "2026-11-23T21:38:12Z"
       },
       {
         "number": 3806,
@@ -250,16 +230,6 @@
       }
     ],
     "rootulp": [
-      {
-        "number": 8789,
-        "title": "Update test-coverage.yml",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/8789",
-        "repo": "celestia-app",
-        "author": "sysrex",
-        "authorCategory": "coworker",
-        "reviewer": "rootulp",
-        "requestedAt": "2026-11-23T21:38:11Z"
-      },
       {
         "number": 3806,
         "title": "fix(p2p): [high] start the BaseReactor processor in Start (backport #3804)",
@@ -566,5 +536,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-11-23T22:08:33.925Z"
+  "fetchedAt": "2026-11-23T22:13:33.608Z"
 }
