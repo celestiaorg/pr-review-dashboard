@@ -221,16 +221,6 @@
         "requestedAt": "2026-11-23T06:32:36Z"
       },
       {
-        "number": 3786,
-        "title": "fix(consensus): [high] anchor the paced start on the earlier of own start and the proposal time",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3786",
-        "repo": "celestia-core",
-        "author": "rach-id",
-        "authorCategory": "coworker",
-        "reviewer": "rootulp",
-        "requestedAt": "2026-11-23T06:47:29Z"
-      },
-      {
         "number": 8751,
         "title": "feat(fibre)!: [high] raise MaxPayForFibreMessages to 500",
         "url": "https://github.com/celestiaorg/celestia-app/pull/8751",
@@ -643,5 +633,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-11-23T15:41:38.820Z"
+  "fetchedAt": "2026-11-23T15:46:39.268Z"
 }
