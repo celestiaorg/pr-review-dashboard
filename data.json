@@ -55,16 +55,6 @@
         "requestedAt": "2026-11-23T06:53:17Z"
       },
       {
-        "number": 3791,
-        "title": "perf(consensus): [high] send HasVote without arming the low-latency flush",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3791",
-        "repo": "celestia-core",
-        "author": "rach-id",
-        "authorCategory": "coworker",
-        "reviewer": "ninabarbakadze",
-        "requestedAt": "2026-11-23T07:42:39Z"
-      },
-      {
         "number": 8768,
         "title": "feat(app)!: [high] lower MaxSDKMessages to 300 so per-block caps fit core's 1000-tx limit",
         "url": "https://github.com/celestiaorg/celestia-app/pull/8768",
@@ -672,5 +662,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-11-23T13:06:37.074Z"
+  "fetchedAt": "2026-11-23T13:11:36.603Z"
 }
