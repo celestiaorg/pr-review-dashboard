@@ -145,6 +145,16 @@
         "requestedAt": "2026-11-23T06:47:30Z"
       },
       {
+        "number": 8751,
+        "title": "feat(fibre)!: [high] raise MaxPayForFibreMessages to 500",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/8751",
+        "repo": "celestia-app",
+        "author": "rach-id",
+        "authorCategory": "coworker",
+        "reviewer": "ninabarbakadze",
+        "requestedAt": "2026-11-23T06:53:17Z"
+      },
+      {
         "number": 3782,
         "title": "fix(propagation): [high] bound per-peer round state inside PeerState (backport #3674)",
         "url": "https://github.com/celestiaorg/celestia-core/pull/3782",
@@ -329,6 +339,16 @@
         "authorCategory": "coworker",
         "reviewer": "rootulp",
         "requestedAt": "2026-11-23T06:47:29Z"
+      },
+      {
+        "number": 8751,
+        "title": "feat(fibre)!: [high] raise MaxPayForFibreMessages to 500",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/8751",
+        "repo": "celestia-app",
+        "author": "rach-id",
+        "authorCategory": "coworker",
+        "reviewer": "rootulp",
+        "requestedAt": "2026-11-23T06:53:23Z"
       },
       {
         "number": 3782,
@@ -592,5 +612,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-11-23T06:50:47.329Z"
+  "fetchedAt": "2026-11-23T06:55:47.806Z"
 }
