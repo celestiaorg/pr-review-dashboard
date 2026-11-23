@@ -23,6 +23,36 @@
         "authorCategory": "coworker",
         "reviewer": "ninabarbakadze",
         "requestedAt": "2026-11-23T13:41:27Z"
+      },
+      {
+        "number": 3786,
+        "title": "fix(consensus): [high] anchor the paced start on the earlier of own start and the proposal time",
+        "url": "https://github.com/celestiaorg/celestia-core/pull/3786",
+        "repo": "celestia-core",
+        "author": "rach-id",
+        "authorCategory": "coworker",
+        "reviewer": "ninabarbakadze",
+        "requestedAt": "2026-11-23T14:38:10Z"
+      },
+      {
+        "number": 3791,
+        "title": "perf(consensus): [high] send HasVote without arming the low-latency flush",
+        "url": "https://github.com/celestiaorg/celestia-core/pull/3791",
+        "repo": "celestia-core",
+        "author": "rach-id",
+        "authorCategory": "coworker",
+        "reviewer": "ninabarbakadze",
+        "requestedAt": "2026-11-23T14:38:18Z"
+      },
+      {
+        "number": 3778,
+        "title": "perf(p2p): [high] coalesce low-latency flushes with flush_low_latency",
+        "url": "https://github.com/celestiaorg/celestia-core/pull/3778",
+        "repo": "celestia-core",
+        "author": "rach-id",
+        "authorCategory": "coworker",
+        "reviewer": "ninabarbakadze",
+        "requestedAt": "2026-11-23T14:38:31Z"
       }
     ],
     "rach-id": [
@@ -454,6 +484,51 @@
       "waitingSince": "2026-11-23T11:49:23Z"
     },
     {
+      "number": 251,
+      "title": "perf(x/staking,x/slashing): [high] cache decoded validators and params",
+      "url": "https://github.com/celestiaorg/cosmos-sdk/pull/251",
+      "repo": "cosmos-sdk",
+      "author": "rach-id",
+      "authorCategory": "coworker",
+      "waitingSince": "2026-11-23T14:40:06Z"
+    },
+    {
+      "number": 252,
+      "title": "perf(x/staking): [high] skip redundant work in historical info tracking",
+      "url": "https://github.com/celestiaorg/cosmos-sdk/pull/252",
+      "repo": "cosmos-sdk",
+      "author": "rach-id",
+      "authorCategory": "coworker",
+      "waitingSince": "2026-11-23T14:40:07Z"
+    },
+    {
+      "number": 253,
+      "title": "perf(codec/address): [high] cache Bech32Codec conversions",
+      "url": "https://github.com/celestiaorg/cosmos-sdk/pull/253",
+      "repo": "cosmos-sdk",
+      "author": "rach-id",
+      "authorCategory": "coworker",
+      "waitingSince": "2026-11-23T14:40:09Z"
+    },
+    {
+      "number": 254,
+      "title": "perf(baseapp,x/distribution): [high] add a blocksync-events-off option",
+      "url": "https://github.com/celestiaorg/cosmos-sdk/pull/254",
+      "repo": "cosmos-sdk",
+      "author": "rach-id",
+      "authorCategory": "coworker",
+      "waitingSince": "2026-11-23T14:40:11Z"
+    },
+    {
+      "number": 255,
+      "title": "test(simapp): [low] differential test of the execution caches",
+      "url": "https://github.com/celestiaorg/cosmos-sdk/pull/255",
+      "repo": "cosmos-sdk",
+      "author": "rach-id",
+      "authorCategory": "coworker",
+      "waitingSince": "2026-11-23T14:40:12Z"
+    },
+    {
       "number": 1,
       "title": "chore(deps): bump the go_modules group across 2 directories with 9 updates",
       "url": "https://github.com/celestiaorg/hyperlane-cosmos/pull/1",
@@ -582,5 +657,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-11-23T14:36:38.035Z"
+  "fetchedAt": "2026-11-23T14:41:38.534Z"
 }
