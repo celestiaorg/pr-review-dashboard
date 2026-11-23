@@ -53,6 +53,36 @@
         "authorCategory": "coworker",
         "reviewer": "ninabarbakadze",
         "requestedAt": "2026-11-23T15:18:40Z"
+      },
+      {
+        "number": 8764,
+        "title": "test(app): [low] test fast recheck against a full recheck app",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/8764",
+        "repo": "celestia-app",
+        "author": "rach-id",
+        "authorCategory": "coworker",
+        "reviewer": "ninabarbakadze",
+        "requestedAt": "2026-11-23T15:29:57Z"
+      },
+      {
+        "number": 8765,
+        "title": "fix(app): [medium] fast recheck: never replay txs with IBC core messages",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/8765",
+        "repo": "celestia-app",
+        "author": "rach-id",
+        "authorCategory": "coworker",
+        "reviewer": "ninabarbakadze",
+        "requestedAt": "2026-11-23T15:30:01Z"
+      },
+      {
+        "number": 8766,
+        "title": "test(app): [low] fuzz fast recheck against a full recheck",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/8766",
+        "repo": "celestia-app",
+        "author": "rach-id",
+        "authorCategory": "coworker",
+        "reviewer": "ninabarbakadze",
+        "requestedAt": "2026-11-23T15:30:06Z"
       }
     ],
     "rach-id": [
@@ -160,16 +190,6 @@
       }
     ],
     "rootulp": [
-      {
-        "number": 3766,
-        "title": "fix(light/rpc): [high] bind Block and BlockResults to the requested height",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3766",
-        "repo": "celestia-core",
-        "author": "ninabarbakadze",
-        "authorCategory": "coworker",
-        "reviewer": "rootulp",
-        "requestedAt": "2026-11-20T14:10:11Z"
-      },
       {
         "number": 3767,
         "title": "fix(light/rpc): [high] serve requests without a height from the latest trusted light block",
@@ -279,6 +299,36 @@
         "authorCategory": "coworker",
         "reviewer": "rootulp",
         "requestedAt": "2026-11-23T15:23:32Z"
+      },
+      {
+        "number": 8764,
+        "title": "test(app): [low] test fast recheck against a full recheck app",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/8764",
+        "repo": "celestia-app",
+        "author": "rach-id",
+        "authorCategory": "coworker",
+        "reviewer": "rootulp",
+        "requestedAt": "2026-11-23T15:29:57Z"
+      },
+      {
+        "number": 8765,
+        "title": "fix(app): [medium] fast recheck: never replay txs with IBC core messages",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/8765",
+        "repo": "celestia-app",
+        "author": "rach-id",
+        "authorCategory": "coworker",
+        "reviewer": "rootulp",
+        "requestedAt": "2026-11-23T15:30:01Z"
+      },
+      {
+        "number": 8766,
+        "title": "test(app): [low] fuzz fast recheck against a full recheck",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/8766",
+        "repo": "celestia-app",
+        "author": "rach-id",
+        "authorCategory": "coworker",
+        "reviewer": "rootulp",
+        "requestedAt": "2026-11-23T15:30:06Z"
       }
     ],
     "vgonkivs": [
@@ -291,16 +341,6 @@
         "authorCategory": "coworker",
         "reviewer": "vgonkivs",
         "requestedAt": "2026-11-19T16:04:33Z"
-      },
-      {
-        "number": 5430,
-        "title": "fix(blob): [high] deduplicate GetAll namespaces and bound concurrency",
-        "url": "https://github.com/celestiaorg/celestia-node/pull/5430",
-        "repo": "celestia-node",
-        "author": "rootulp",
-        "authorCategory": "coworker",
-        "reviewer": "vgonkivs",
-        "requestedAt": "2026-11-22T22:47:24Z"
       },
       {
         "number": 5432,
@@ -592,5 +632,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-11-23T15:26:38.921Z"
+  "fetchedAt": "2026-11-23T15:31:38.846Z"
 }
