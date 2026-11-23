@@ -269,6 +269,16 @@
         "authorCategory": "coworker",
         "reviewer": "rootulp",
         "requestedAt": "2026-11-23T15:18:38Z"
+      },
+      {
+        "number": 8721,
+        "title": "perf(app): [high] fast recheck: replay ante writes when every value read is unchanged",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/8721",
+        "repo": "celestia-app",
+        "author": "rach-id",
+        "authorCategory": "coworker",
+        "reviewer": "rootulp",
+        "requestedAt": "2026-11-23T15:23:32Z"
       }
     ],
     "vgonkivs": [
@@ -582,5 +592,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-11-23T15:21:38.681Z"
+  "fetchedAt": "2026-11-23T15:26:38.921Z"
 }
