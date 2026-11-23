@@ -171,36 +171,6 @@
     ],
     "rootulp": [
       {
-        "number": 8751,
-        "title": "feat(fibre)!: [high] raise MaxPayForFibreMessages to 500",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/8751",
-        "repo": "celestia-app",
-        "author": "rach-id",
-        "authorCategory": "coworker",
-        "reviewer": "rootulp",
-        "requestedAt": "2026-11-23T06:53:23Z"
-      },
-      {
-        "number": 8768,
-        "title": "feat(app)!: [high] lower MaxSDKMessages to 300 so per-block caps fit core's 1000-tx limit",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/8768",
-        "repo": "celestia-app",
-        "author": "rach-id",
-        "authorCategory": "coworker",
-        "reviewer": "rootulp",
-        "requestedAt": "2026-11-23T09:08:27Z"
-      },
-      {
-        "number": 8770,
-        "title": "feat(app)!: [high] raise GasPerAdditionalSDKMessage to 20,000",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/8770",
-        "repo": "celestia-app",
-        "author": "rach-id",
-        "authorCategory": "coworker",
-        "reviewer": "rootulp",
-        "requestedAt": "2026-11-23T09:09:53Z"
-      },
-      {
         "number": 8775,
         "title": "test(app): [low] check fast recheck replays against changes to unread state",
         "url": "https://github.com/celestiaorg/celestia-app/pull/8775",
@@ -526,5 +496,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-11-23T18:38:31.478Z"
+  "fetchedAt": "2026-11-23T18:43:30.610Z"
 }
