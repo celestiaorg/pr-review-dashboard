@@ -5,36 +5,6 @@
     "damiannolan": [],
     "ninabarbakadze": [
       {
-        "number": 3786,
-        "title": "fix(consensus): [high] anchor the paced start on the earlier of own start and the proposal time",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3786",
-        "repo": "celestia-core",
-        "author": "rach-id",
-        "authorCategory": "coworker",
-        "reviewer": "ninabarbakadze",
-        "requestedAt": "2026-11-23T14:38:10Z"
-      },
-      {
-        "number": 3791,
-        "title": "perf(consensus): [high] send HasVote without arming the low-latency flush",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3791",
-        "repo": "celestia-core",
-        "author": "rach-id",
-        "authorCategory": "coworker",
-        "reviewer": "ninabarbakadze",
-        "requestedAt": "2026-11-23T14:38:18Z"
-      },
-      {
-        "number": 3778,
-        "title": "perf(p2p): [high] coalesce low-latency flushes with flush_low_latency",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3778",
-        "repo": "celestia-core",
-        "author": "rach-id",
-        "authorCategory": "coworker",
-        "reviewer": "ninabarbakadze",
-        "requestedAt": "2026-11-23T14:38:31Z"
-      },
-      {
         "number": 3804,
         "title": "fix(p2p): [high] start the BaseReactor processor in Start",
         "url": "https://github.com/celestiaorg/celestia-core/pull/3804",
@@ -43,16 +13,6 @@
         "authorCategory": "coworker",
         "reviewer": "ninabarbakadze",
         "requestedAt": "2026-11-23T15:18:40Z"
-      },
-      {
-        "number": 3790,
-        "title": "fix(state)!: [high] gate the strict WeightedMedian rule to app version 12",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3790",
-        "repo": "celestia-core",
-        "author": "rootulp",
-        "authorCategory": "coworker",
-        "reviewer": "ninabarbakadze",
-        "requestedAt": "2026-11-23T16:53:51Z"
       },
       {
         "number": 8784,
@@ -75,16 +35,6 @@
         "authorCategory": "coworker",
         "reviewer": "rach-id",
         "requestedAt": "2026-11-23T10:31:14Z"
-      },
-      {
-        "number": 8784,
-        "title": "ci: [low] let the merge queue use a paid runner pool",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/8784",
-        "repo": "celestia-app",
-        "author": "rootulp",
-        "authorCategory": "coworker",
-        "reviewer": "rach-id",
-        "requestedAt": "2026-11-23T18:36:49Z"
       }
     ],
     "renaynay": [
@@ -117,6 +67,16 @@
         "authorCategory": "coworker",
         "reviewer": "renaynay",
         "requestedAt": "2026-11-22T22:47:26Z"
+      },
+      {
+        "number": 5422,
+        "title": "fix(rpc)!: [high] harden read request handling",
+        "url": "https://github.com/celestiaorg/celestia-node/pull/5422",
+        "repo": "celestia-node",
+        "author": "damiannolan",
+        "authorCategory": "coworker",
+        "reviewer": "renaynay",
+        "requestedAt": "2026-11-23T19:12:43Z"
       },
       {
         "number": 5432,
@@ -172,16 +132,6 @@
       }
     ],
     "vgonkivs": [
-      {
-        "number": 5422,
-        "title": "fix(rpc)!: [high] harden read request handling",
-        "url": "https://github.com/celestiaorg/celestia-node/pull/5422",
-        "repo": "celestia-node",
-        "author": "damiannolan",
-        "authorCategory": "coworker",
-        "reviewer": "vgonkivs",
-        "requestedAt": "2026-11-19T16:04:33Z"
-      },
       {
         "number": 5432,
         "title": "chore(deps): [medium] bump golang from 1.27.3-alpine3.23 to 1.27.4-alpine3.23 in the patch-updates group",
@@ -476,5 +426,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-11-23T19:08:31.428Z"
+  "fetchedAt": "2026-11-23T19:13:33.065Z"
 }
