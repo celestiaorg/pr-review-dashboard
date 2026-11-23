@@ -103,6 +103,16 @@
         "authorCategory": "coworker",
         "reviewer": "ninabarbakadze",
         "requestedAt": "2026-11-23T09:14:34Z"
+      },
+      {
+        "number": 3780,
+        "title": "perf(p2p/conn): [high] one socket write per SecretConnection.Write",
+        "url": "https://github.com/celestiaorg/celestia-core/pull/3780",
+        "repo": "celestia-core",
+        "author": "rach-id",
+        "authorCategory": "coworker",
+        "reviewer": "ninabarbakadze",
+        "requestedAt": "2026-11-23T12:54:11Z"
       }
     ],
     "rach-id": [
@@ -167,16 +177,6 @@
         "authorCategory": "coworker",
         "reviewer": "renaynay",
         "requestedAt": "2026-11-22T22:47:26Z"
-      },
-      {
-        "number": 5428,
-        "title": "fix(share/shwap): [high] reject proofs with nodes of the wrong size",
-        "url": "https://github.com/celestiaorg/celestia-node/pull/5428",
-        "repo": "celestia-node",
-        "author": "ninabarbakadze",
-        "authorCategory": "coworker",
-        "reviewer": "renaynay",
-        "requestedAt": "2026-11-23T11:04:42Z"
       },
       {
         "number": 5432,
@@ -702,5 +702,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-11-23T12:51:14.394Z"
+  "fetchedAt": "2026-11-23T12:56:13.931Z"
 }
