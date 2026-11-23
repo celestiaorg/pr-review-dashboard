@@ -55,16 +55,6 @@
         "requestedAt": "2026-11-23T16:53:51Z"
       },
       {
-        "number": 8783,
-        "title": "ci: [low] skip the PR title check in the merge queue",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/8783",
-        "repo": "celestia-app",
-        "author": "rootulp",
-        "authorCategory": "coworker",
-        "reviewer": "ninabarbakadze",
-        "requestedAt": "2026-11-23T18:36:04Z"
-      },
-      {
         "number": 8784,
         "title": "ci: [low] let the merge queue use a paid runner pool",
         "url": "https://github.com/celestiaorg/celestia-app/pull/8784",
@@ -85,16 +75,6 @@
         "authorCategory": "coworker",
         "reviewer": "rach-id",
         "requestedAt": "2026-11-23T10:31:14Z"
-      },
-      {
-        "number": 8783,
-        "title": "ci: [low] skip the PR title check in the merge queue",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/8783",
-        "repo": "celestia-app",
-        "author": "rootulp",
-        "authorCategory": "coworker",
-        "reviewer": "rach-id",
-        "requestedAt": "2026-11-23T18:36:03Z"
       },
       {
         "number": 8784,
@@ -496,5 +476,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-11-23T18:58:30.882Z"
+  "fetchedAt": "2026-11-23T19:03:30.920Z"
 }
