@@ -55,26 +55,6 @@
         "requestedAt": "2026-11-23T04:54:46Z"
       },
       {
-        "number": 8757,
-        "title": "test: [medium] add app state determinism simulation for x/blob and x/signal",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/8757",
-        "repo": "celestia-app",
-        "author": "rootulp",
-        "authorCategory": "coworker",
-        "reviewer": "ninabarbakadze",
-        "requestedAt": "2026-11-23T04:57:34Z"
-      },
-      {
-        "number": 8758,
-        "title": "test(docker-e2e): [low] add a seeded chaos test to the nightly",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/8758",
-        "repo": "celestia-app",
-        "author": "rootulp",
-        "authorCategory": "coworker",
-        "reviewer": "ninabarbakadze",
-        "requestedAt": "2026-11-23T04:58:46Z"
-      },
-      {
         "number": 8759,
         "title": "test(docker-e2e): [low] add a byzantine proposer test to the nightly",
         "url": "https://github.com/celestiaorg/celestia-app/pull/8759",
@@ -145,26 +125,6 @@
         "authorCategory": "coworker",
         "reviewer": "rach-id",
         "requestedAt": "2026-11-23T04:54:45Z"
-      },
-      {
-        "number": 8757,
-        "title": "test: [medium] add app state determinism simulation for x/blob and x/signal",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/8757",
-        "repo": "celestia-app",
-        "author": "rootulp",
-        "authorCategory": "coworker",
-        "reviewer": "rach-id",
-        "requestedAt": "2026-11-23T04:57:33Z"
-      },
-      {
-        "number": 8758,
-        "title": "test(docker-e2e): [low] add a seeded chaos test to the nightly",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/8758",
-        "repo": "celestia-app",
-        "author": "rootulp",
-        "authorCategory": "coworker",
-        "reviewer": "rach-id",
-        "requestedAt": "2026-11-23T04:58:45Z"
       },
       {
         "number": 8759,
@@ -472,5 +432,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-11-23T05:10:46.104Z"
+  "fetchedAt": "2026-11-23T05:15:46.475Z"
 }
