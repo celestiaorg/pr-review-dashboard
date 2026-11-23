@@ -160,16 +160,6 @@
         "authorCategory": "external",
         "reviewer": "vgonkivs",
         "requestedAt": "2026-08-21T15:05:41Z"
-      },
-      {
-        "number": 5260,
-        "title": "fix(nodebuilder/p2p): [high] pass rcmgr options to the resource manager",
-        "url": "https://github.com/celestiaorg/celestia-node/pull/5260",
-        "repo": "celestia-node",
-        "author": "Bruce039",
-        "authorCategory": "external",
-        "reviewer": "vgonkivs",
-        "requestedAt": "2026-09-25T15:33:39Z"
       }
     ],
     "theodorebugnet": [],
@@ -395,5 +385,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-11-23T19:53:31.789Z"
+  "fetchedAt": "2026-11-23T19:58:31.644Z"
 }
