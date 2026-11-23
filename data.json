@@ -482,6 +482,15 @@
       "waitingSince": "2026-11-14T05:11:10Z"
     },
     {
+      "number": 46,
+      "title": "chore(deps): [medium] bump bytes from 1.12.1 to 1.12.2 in /clients/rust in the cargo-deps group",
+      "url": "https://github.com/celestiaorg/fibre-gateway-client/pull/46",
+      "repo": "fibre-gateway-client",
+      "author": "dependabot",
+      "authorCategory": "bot",
+      "waitingSince": "2026-11-23T17:25:52Z"
+    },
+    {
       "number": 444,
       "title": "feat(sync): [high] trace Head stages and pruning",
       "url": "https://github.com/celestiaorg/go-header/pull/444",
@@ -565,5 +574,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-11-23T17:21:40.981Z"
+  "fetchedAt": "2026-11-23T17:26:40.252Z"
 }
