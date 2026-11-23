@@ -185,6 +185,16 @@
         "requestedAt": "2026-11-23T09:17:15Z"
       },
       {
+        "number": 8775,
+        "title": "test(app): [low] check fast recheck replays against changes to unread state",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/8775",
+        "repo": "celestia-app",
+        "author": "rach-id",
+        "authorCategory": "coworker",
+        "reviewer": "ninabarbakadze",
+        "requestedAt": "2026-11-23T09:54:24Z"
+      },
+      {
         "number": 3782,
         "title": "fix(propagation): [high] bound per-peer round state inside PeerState (backport #3674)",
         "url": "https://github.com/celestiaorg/celestia-core/pull/3782",
@@ -213,6 +223,16 @@
         "authorCategory": "bot",
         "reviewer": "ninabarbakadze",
         "requestedAt": "2026-11-23T09:50:19Z"
+      },
+      {
+        "number": 8776,
+        "title": "chore(deps): [medium] bump golang from 1.26.11-bookworm to 1.27.4-bookworm in /docker/devnet in the docker group across 1 directory",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/8776",
+        "repo": "celestia-app",
+        "author": "dependabot",
+        "authorCategory": "bot",
+        "reviewer": "ninabarbakadze",
+        "requestedAt": "2026-11-23T09:54:34Z"
       }
     ],
     "rach-id": [
@@ -245,6 +265,16 @@
         "authorCategory": "bot",
         "reviewer": "rach-id",
         "requestedAt": "2026-11-23T09:50:18Z"
+      },
+      {
+        "number": 8776,
+        "title": "chore(deps): [medium] bump golang from 1.26.11-bookworm to 1.27.4-bookworm in /docker/devnet in the docker group across 1 directory",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/8776",
+        "repo": "celestia-app",
+        "author": "dependabot",
+        "authorCategory": "bot",
+        "reviewer": "rach-id",
+        "requestedAt": "2026-11-23T09:54:33Z"
       }
     ],
     "renaynay": [
@@ -381,6 +411,16 @@
         "requestedAt": "2026-11-23T09:17:14Z"
       },
       {
+        "number": 8775,
+        "title": "test(app): [low] check fast recheck replays against changes to unread state",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/8775",
+        "repo": "celestia-app",
+        "author": "rach-id",
+        "authorCategory": "coworker",
+        "reviewer": "rootulp",
+        "requestedAt": "2026-11-23T09:54:23Z"
+      },
+      {
         "number": 3782,
         "title": "fix(propagation): [high] bound per-peer round state inside PeerState (backport #3674)",
         "url": "https://github.com/celestiaorg/celestia-core/pull/3782",
@@ -409,6 +449,16 @@
         "authorCategory": "bot",
         "reviewer": "rootulp",
         "requestedAt": "2026-11-23T09:50:17Z"
+      },
+      {
+        "number": 8776,
+        "title": "chore(deps): [medium] bump golang from 1.26.11-bookworm to 1.27.4-bookworm in /docker/devnet in the docker group across 1 directory",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/8776",
+        "repo": "celestia-app",
+        "author": "dependabot",
+        "authorCategory": "bot",
+        "reviewer": "rootulp",
+        "requestedAt": "2026-11-23T09:54:31Z"
       }
     ],
     "vgonkivs": [
@@ -662,5 +712,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-11-23T09:51:11.299Z"
+  "fetchedAt": "2026-11-23T09:56:11.475Z"
 }
