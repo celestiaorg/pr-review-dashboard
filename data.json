@@ -5,14 +5,14 @@
     "damiannolan": [],
     "ninabarbakadze": [
       {
-        "number": 3804,
-        "title": "fix(p2p): [high] start the BaseReactor processor in Start",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3804",
+        "number": 3806,
+        "title": "fix(p2p): [high] start the BaseReactor processor in Start (backport #3804)",
+        "url": "https://github.com/celestiaorg/celestia-core/pull/3806",
         "repo": "celestia-core",
-        "author": "damiannolan",
-        "authorCategory": "coworker",
+        "author": "mergify",
+        "authorCategory": "bot",
         "reviewer": "ninabarbakadze",
-        "requestedAt": "2026-11-23T15:18:40Z"
+        "requestedAt": "2026-11-23T20:06:40Z"
       }
     ],
     "rach-id": [
@@ -25,6 +25,16 @@
         "authorCategory": "coworker",
         "reviewer": "rach-id",
         "requestedAt": "2026-11-23T10:31:14Z"
+      },
+      {
+        "number": 3806,
+        "title": "fix(p2p): [high] start the BaseReactor processor in Start (backport #3804)",
+        "url": "https://github.com/celestiaorg/celestia-core/pull/3806",
+        "repo": "celestia-core",
+        "author": "mergify",
+        "authorCategory": "bot",
+        "reviewer": "rach-id",
+        "requestedAt": "2026-11-23T20:06:39Z"
       }
     ],
     "renaynay": [
@@ -99,7 +109,18 @@
         "requestedAt": "2026-11-23T11:06:30Z"
       }
     ],
-    "rootulp": [],
+    "rootulp": [
+      {
+        "number": 3806,
+        "title": "fix(p2p): [high] start the BaseReactor processor in Start (backport #3804)",
+        "url": "https://github.com/celestiaorg/celestia-core/pull/3806",
+        "repo": "celestia-core",
+        "author": "mergify",
+        "authorCategory": "bot",
+        "reviewer": "rootulp",
+        "requestedAt": "2026-11-23T20:06:38Z"
+      }
+    ],
     "vgonkivs": [
       {
         "number": 5435,
@@ -385,5 +406,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-11-23T20:03:31.878Z"
+  "fetchedAt": "2026-11-23T20:08:31.700Z"
 }
