@@ -5,26 +5,6 @@
     "damiannolan": [],
     "ninabarbakadze": [
       {
-        "number": 3787,
-        "title": "fix(propagation): [high] give each peer its own share of the stored parts budget",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3787",
-        "repo": "celestia-core",
-        "author": "rootulp",
-        "authorCategory": "coworker",
-        "reviewer": "ninabarbakadze",
-        "requestedAt": "2026-11-22T22:43:36Z"
-      },
-      {
-        "number": 3786,
-        "title": "fix(consensus): [high] anchor the paced start on the earlier of own start and the proposal time",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3786",
-        "repo": "celestia-core",
-        "author": "rach-id",
-        "authorCategory": "coworker",
-        "reviewer": "ninabarbakadze",
-        "requestedAt": "2026-11-23T06:47:30Z"
-      },
-      {
         "number": 8751,
         "title": "feat(fibre)!: [high] raise MaxPayForFibreMessages to 500",
         "url": "https://github.com/celestiaorg/celestia-app/pull/8751",
@@ -63,16 +43,6 @@
         "authorCategory": "coworker",
         "reviewer": "ninabarbakadze",
         "requestedAt": "2026-11-23T09:14:34Z"
-      },
-      {
-        "number": 8782,
-        "title": "test(interop): [low] fuzz ICA host OnRecvPacket and OnChanOpenTry",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/8782",
-        "repo": "celestia-app",
-        "author": "damiannolan",
-        "authorCategory": "coworker",
-        "reviewer": "ninabarbakadze",
-        "requestedAt": "2026-11-23T13:38:42Z"
       },
       {
         "number": 8749,
@@ -652,5 +622,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-11-23T13:56:37.560Z"
+  "fetchedAt": "2026-11-23T14:01:37.973Z"
 }
