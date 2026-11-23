@@ -97,16 +97,6 @@
     ],
     "rach-id": [
       {
-        "number": 3767,
-        "title": "fix(light/rpc): [high] serve requests without a height from the latest trusted light block",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3767",
-        "repo": "celestia-core",
-        "author": "ninabarbakadze",
-        "authorCategory": "coworker",
-        "reviewer": "rach-id",
-        "requestedAt": "2026-11-20T14:10:25Z"
-      },
-      {
         "number": 3770,
         "title": "fix(propagation)!: [high] sign a fixed-size compact block digest from app version 12",
         "url": "https://github.com/celestiaorg/celestia-core/pull/3770",
@@ -115,16 +105,6 @@
         "authorCategory": "coworker",
         "reviewer": "rach-id",
         "requestedAt": "2026-11-23T10:31:14Z"
-      },
-      {
-        "number": 3804,
-        "title": "fix(p2p): [high] start the BaseReactor processor in Start",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3804",
-        "repo": "celestia-core",
-        "author": "damiannolan",
-        "authorCategory": "coworker",
-        "reviewer": "rach-id",
-        "requestedAt": "2026-11-23T15:18:39Z"
       }
     ],
     "renaynay": [
@@ -249,16 +229,6 @@
         "authorCategory": "coworker",
         "reviewer": "rootulp",
         "requestedAt": "2026-11-23T09:54:23Z"
-      },
-      {
-        "number": 3804,
-        "title": "fix(p2p): [high] start the BaseReactor processor in Start",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3804",
-        "repo": "celestia-core",
-        "author": "damiannolan",
-        "authorCategory": "coworker",
-        "reviewer": "rootulp",
-        "requestedAt": "2026-11-23T15:18:38Z"
       },
       {
         "number": 8721,
@@ -475,6 +445,15 @@
       "waitingSince": "2026-11-11T10:36:13Z"
     },
     {
+      "number": 35,
+      "title": "chore: [low] remove unused callbacks middleware and CI",
+      "url": "https://github.com/celestiaorg/ibc-go/pull/35",
+      "repo": "ibc-go",
+      "author": "damiannolan",
+      "authorCategory": "coworker",
+      "waitingSince": "2026-11-23T15:55:27Z"
+    },
+    {
       "number": 1,
       "title": "chore(deps): bump the go_modules group across 2 directories with 9 updates",
       "url": "https://github.com/celestiaorg/hyperlane-cosmos/pull/1",
@@ -603,5 +582,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-11-23T15:51:39.211Z"
+  "fetchedAt": "2026-11-23T15:56:39.765Z"
 }
