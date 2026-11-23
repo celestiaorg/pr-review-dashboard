@@ -105,16 +105,6 @@
         "requestedAt": "2026-11-23T05:23:29Z"
       },
       {
-        "number": 3777,
-        "title": "perf(store): [medium] size the blockstore memtable to hold a whole block",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3777",
-        "repo": "celestia-core",
-        "author": "rach-id",
-        "authorCategory": "coworker",
-        "reviewer": "ninabarbakadze",
-        "requestedAt": "2026-11-23T06:29:53Z"
-      },
-      {
         "number": 3778,
         "title": "perf(p2p): [high] coalesce low-latency flushes with flush_low_latency",
         "url": "https://github.com/celestiaorg/celestia-core/pull/3778",
@@ -123,6 +113,16 @@
         "authorCategory": "coworker",
         "reviewer": "ninabarbakadze",
         "requestedAt": "2026-11-23T06:32:37Z"
+      },
+      {
+        "number": 3780,
+        "title": "perf(p2p/conn): [high] one socket write per SecretConnection.Write",
+        "url": "https://github.com/celestiaorg/celestia-core/pull/3780",
+        "repo": "celestia-core",
+        "author": "rach-id",
+        "authorCategory": "coworker",
+        "reviewer": "ninabarbakadze",
+        "requestedAt": "2026-11-23T06:40:03Z"
       },
       {
         "number": 3782,
@@ -271,16 +271,6 @@
     ],
     "rootulp": [
       {
-        "number": 3777,
-        "title": "perf(store): [medium] size the blockstore memtable to hold a whole block",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3777",
-        "repo": "celestia-core",
-        "author": "rach-id",
-        "authorCategory": "coworker",
-        "reviewer": "rootulp",
-        "requestedAt": "2026-11-23T06:29:52Z"
-      },
-      {
         "number": 3778,
         "title": "perf(p2p): [high] coalesce low-latency flushes with flush_low_latency",
         "url": "https://github.com/celestiaorg/celestia-core/pull/3778",
@@ -289,6 +279,16 @@
         "authorCategory": "coworker",
         "reviewer": "rootulp",
         "requestedAt": "2026-11-23T06:32:36Z"
+      },
+      {
+        "number": 3780,
+        "title": "perf(p2p/conn): [high] one socket write per SecretConnection.Write",
+        "url": "https://github.com/celestiaorg/celestia-core/pull/3780",
+        "repo": "celestia-core",
+        "author": "rach-id",
+        "authorCategory": "coworker",
+        "reviewer": "rootulp",
+        "requestedAt": "2026-11-23T06:40:03Z"
       },
       {
         "number": 3782,
@@ -552,5 +552,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-11-23T06:35:46.719Z"
+  "fetchedAt": "2026-11-23T06:40:46.924Z"
 }
