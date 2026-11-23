@@ -35,16 +35,6 @@
         "requestedAt": "2026-11-23T20:27:02Z"
       },
       {
-        "number": 8788,
-        "title": "test(encoding): [low] fuzz the strict tx decoder",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/8788",
-        "repo": "celestia-app",
-        "author": "rootulp",
-        "authorCategory": "coworker",
-        "reviewer": "ninabarbakadze",
-        "requestedAt": "2026-11-23T20:27:05Z"
-      },
-      {
         "number": 3787,
         "title": "fix(propagation): [high] give each peer its own share of the stored parts budget",
         "url": "https://github.com/celestiaorg/celestia-core/pull/3787",
@@ -53,26 +43,6 @@
         "authorCategory": "coworker",
         "reviewer": "ninabarbakadze",
         "requestedAt": "2026-11-23T20:35:57Z"
-      },
-      {
-        "number": 3806,
-        "title": "fix(p2p): [high] start the BaseReactor processor in Start (backport #3804)",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3806",
-        "repo": "celestia-core",
-        "author": "mergify",
-        "authorCategory": "bot",
-        "reviewer": "ninabarbakadze",
-        "requestedAt": "2026-11-23T20:06:40Z"
-      },
-      {
-        "number": 363,
-        "title": "chore(deps): [high] bump github.com/tidwall/gjson from 1.20.2 to 1.20.4",
-        "url": "https://github.com/celestiaorg/nmt/pull/363",
-        "repo": "nmt",
-        "author": "dependabot",
-        "authorCategory": "bot",
-        "reviewer": "ninabarbakadze",
-        "requestedAt": "2026-11-23T21:03:31Z"
       }
     ],
     "rach-id": [
@@ -117,16 +87,6 @@
         "requestedAt": "2026-11-23T20:27:01Z"
       },
       {
-        "number": 8788,
-        "title": "test(encoding): [low] fuzz the strict tx decoder",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/8788",
-        "repo": "celestia-app",
-        "author": "rootulp",
-        "authorCategory": "coworker",
-        "reviewer": "rach-id",
-        "requestedAt": "2026-11-23T20:27:03Z"
-      },
-      {
         "number": 3787,
         "title": "fix(propagation): [high] give each peer its own share of the stored parts budget",
         "url": "https://github.com/celestiaorg/celestia-core/pull/3787",
@@ -135,26 +95,6 @@
         "authorCategory": "coworker",
         "reviewer": "rach-id",
         "requestedAt": "2026-11-23T20:35:57Z"
-      },
-      {
-        "number": 3806,
-        "title": "fix(p2p): [high] start the BaseReactor processor in Start (backport #3804)",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3806",
-        "repo": "celestia-core",
-        "author": "mergify",
-        "authorCategory": "bot",
-        "reviewer": "rach-id",
-        "requestedAt": "2026-11-23T20:06:39Z"
-      },
-      {
-        "number": 363,
-        "title": "chore(deps): [high] bump github.com/tidwall/gjson from 1.20.2 to 1.20.4",
-        "url": "https://github.com/celestiaorg/nmt/pull/363",
-        "repo": "nmt",
-        "author": "dependabot",
-        "authorCategory": "bot",
-        "reviewer": "rach-id",
-        "requestedAt": "2026-11-23T21:03:28Z"
       }
     ],
     "renaynay": [
@@ -229,28 +169,7 @@
         "requestedAt": "2026-11-23T11:06:30Z"
       }
     ],
-    "rootulp": [
-      {
-        "number": 3806,
-        "title": "fix(p2p): [high] start the BaseReactor processor in Start (backport #3804)",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3806",
-        "repo": "celestia-core",
-        "author": "mergify",
-        "authorCategory": "bot",
-        "reviewer": "rootulp",
-        "requestedAt": "2026-11-23T20:06:38Z"
-      },
-      {
-        "number": 363,
-        "title": "chore(deps): [high] bump github.com/tidwall/gjson from 1.20.2 to 1.20.4",
-        "url": "https://github.com/celestiaorg/nmt/pull/363",
-        "repo": "nmt",
-        "author": "dependabot",
-        "authorCategory": "bot",
-        "reviewer": "rootulp",
-        "requestedAt": "2026-11-23T21:03:30Z"
-      }
-    ],
+    "rootulp": [],
     "vgonkivs": [
       {
         "number": 5435,
@@ -536,5 +455,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-11-23T23:43:34.845Z"
+  "fetchedAt": "2026-11-23T23:48:35.615Z"
 }
