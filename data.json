@@ -93,6 +93,16 @@
         "authorCategory": "coworker",
         "reviewer": "ninabarbakadze",
         "requestedAt": "2026-11-23T15:33:42Z"
+      },
+      {
+        "number": 3790,
+        "title": "fix(state)!: [high] gate the strict WeightedMedian rule to app version 12",
+        "url": "https://github.com/celestiaorg/celestia-core/pull/3790",
+        "repo": "celestia-core",
+        "author": "rootulp",
+        "authorCategory": "coworker",
+        "reviewer": "ninabarbakadze",
+        "requestedAt": "2026-11-23T16:53:51Z"
       }
     ],
     "rach-id": [
@@ -105,6 +115,16 @@
         "authorCategory": "coworker",
         "reviewer": "rach-id",
         "requestedAt": "2026-11-23T10:31:14Z"
+      },
+      {
+        "number": 3790,
+        "title": "fix(state)!: [high] gate the strict WeightedMedian rule to app version 12",
+        "url": "https://github.com/celestiaorg/celestia-core/pull/3790",
+        "repo": "celestia-core",
+        "author": "rootulp",
+        "authorCategory": "coworker",
+        "reviewer": "rach-id",
+        "requestedAt": "2026-11-23T16:53:49Z"
       }
     ],
     "renaynay": [
@@ -563,5 +583,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-11-23T16:51:40.257Z"
+  "fetchedAt": "2026-11-23T16:56:39.993Z"
 }
