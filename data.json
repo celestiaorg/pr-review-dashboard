@@ -25,16 +25,6 @@
         "requestedAt": "2026-11-22T22:43:36Z"
       },
       {
-        "number": 223,
-        "title": "fix(x/auth/tx,baseapp): [high] return errors instead of panicking on malformed signatures",
-        "url": "https://github.com/celestiaorg/cosmos-sdk/pull/223",
-        "repo": "cosmos-sdk",
-        "author": "rootulp",
-        "authorCategory": "coworker",
-        "reviewer": "ninabarbakadze",
-        "requestedAt": "2026-11-23T04:54:46Z"
-      },
-      {
         "number": 8759,
         "title": "test(docker-e2e): [low] add a byzantine proposer test to the nightly",
         "url": "https://github.com/celestiaorg/celestia-app/pull/8759",
@@ -145,76 +135,6 @@
         "authorCategory": "coworker",
         "reviewer": "rach-id",
         "requestedAt": "2026-11-22T22:43:35Z"
-      },
-      {
-        "number": 223,
-        "title": "fix(x/auth/tx,baseapp): [high] return errors instead of panicking on malformed signatures",
-        "url": "https://github.com/celestiaorg/cosmos-sdk/pull/223",
-        "repo": "cosmos-sdk",
-        "author": "rootulp",
-        "authorCategory": "coworker",
-        "reviewer": "rach-id",
-        "requestedAt": "2026-11-23T04:54:45Z"
-      },
-      {
-        "number": 8759,
-        "title": "test(docker-e2e): [low] add a byzantine proposer test to the nightly",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/8759",
-        "repo": "celestia-app",
-        "author": "rootulp",
-        "authorCategory": "coworker",
-        "reviewer": "rach-id",
-        "requestedAt": "2026-11-23T04:58:49Z"
-      },
-      {
-        "number": 8753,
-        "title": "fix(app): [high] filter unsupported packet-forward memos in CheckTx and PrepareProposal (v11.x) (backport #8675)",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/8753",
-        "repo": "celestia-app",
-        "author": "rootulp",
-        "authorCategory": "coworker",
-        "reviewer": "rach-id",
-        "requestedAt": "2026-11-23T05:22:56Z"
-      },
-      {
-        "number": 8754,
-        "title": "fix(app): [high] limit depth, repeated keys and next forms of packet-forward memos in the mempool filter (v11.x) (backport #8676)",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/8754",
-        "repo": "celestia-app",
-        "author": "rootulp",
-        "authorCategory": "coworker",
-        "reviewer": "rach-id",
-        "requestedAt": "2026-11-23T05:23:01Z"
-      },
-      {
-        "number": 8755,
-        "title": "test(app): [medium] add the PFM filter cost test and the memo admission interop test (v11.x) (backport #8677)",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/8755",
-        "repo": "celestia-app",
-        "author": "rootulp",
-        "authorCategory": "coworker",
-        "reviewer": "rach-id",
-        "requestedAt": "2026-11-23T05:23:21Z"
-      },
-      {
-        "number": 8760,
-        "title": "test(app): [low] fuzz the packet-forward memo filter (v11.x)",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/8760",
-        "repo": "celestia-app",
-        "author": "rootulp",
-        "authorCategory": "coworker",
-        "reviewer": "rach-id",
-        "requestedAt": "2026-11-23T05:23:28Z"
-      },
-      {
-        "number": 3782,
-        "title": "fix(propagation): [high] bound per-peer round state inside PeerState (backport #3674)",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3782",
-        "repo": "celestia-core",
-        "author": "mergify",
-        "authorCategory": "bot",
-        "reviewer": "rach-id",
-        "requestedAt": "2026-11-22T22:11:43Z"
       }
     ],
     "renaynay": [
@@ -542,5 +462,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-11-23T07:05:47.339Z"
+  "fetchedAt": "2026-11-23T07:10:47.234Z"
 }
