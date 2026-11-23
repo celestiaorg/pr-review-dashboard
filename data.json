@@ -5,6 +5,46 @@
     "damiannolan": [],
     "ninabarbakadze": [
       {
+        "number": 8785,
+        "title": "refactor(encoding): [medium] add QueryTxConfig for reading committed txs",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/8785",
+        "repo": "celestia-app",
+        "author": "rootulp",
+        "authorCategory": "coworker",
+        "reviewer": "ninabarbakadze",
+        "requestedAt": "2026-11-23T20:27:00Z"
+      },
+      {
+        "number": 8786,
+        "title": "feat(encoding)!: [high] decode txs with the SDK StrictTxDecoder",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/8786",
+        "repo": "celestia-app",
+        "author": "rootulp",
+        "authorCategory": "coworker",
+        "reviewer": "ninabarbakadze",
+        "requestedAt": "2026-11-23T20:27:02Z"
+      },
+      {
+        "number": 8787,
+        "title": "test(encoding): [low] cover the strict tx decoder",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/8787",
+        "repo": "celestia-app",
+        "author": "rootulp",
+        "authorCategory": "coworker",
+        "reviewer": "ninabarbakadze",
+        "requestedAt": "2026-11-23T20:27:02Z"
+      },
+      {
+        "number": 8788,
+        "title": "test(encoding): [low] fuzz the strict tx decoder",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/8788",
+        "repo": "celestia-app",
+        "author": "rootulp",
+        "authorCategory": "coworker",
+        "reviewer": "ninabarbakadze",
+        "requestedAt": "2026-11-23T20:27:05Z"
+      },
+      {
         "number": 3806,
         "title": "fix(p2p): [high] start the BaseReactor processor in Start (backport #3804)",
         "url": "https://github.com/celestiaorg/celestia-core/pull/3806",
@@ -25,6 +65,46 @@
         "authorCategory": "coworker",
         "reviewer": "rach-id",
         "requestedAt": "2026-11-23T10:31:14Z"
+      },
+      {
+        "number": 8785,
+        "title": "refactor(encoding): [medium] add QueryTxConfig for reading committed txs",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/8785",
+        "repo": "celestia-app",
+        "author": "rootulp",
+        "authorCategory": "coworker",
+        "reviewer": "rach-id",
+        "requestedAt": "2026-11-23T20:26:59Z"
+      },
+      {
+        "number": 8786,
+        "title": "feat(encoding)!: [high] decode txs with the SDK StrictTxDecoder",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/8786",
+        "repo": "celestia-app",
+        "author": "rootulp",
+        "authorCategory": "coworker",
+        "reviewer": "rach-id",
+        "requestedAt": "2026-11-23T20:27:00Z"
+      },
+      {
+        "number": 8787,
+        "title": "test(encoding): [low] cover the strict tx decoder",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/8787",
+        "repo": "celestia-app",
+        "author": "rootulp",
+        "authorCategory": "coworker",
+        "reviewer": "rach-id",
+        "requestedAt": "2026-11-23T20:27:01Z"
+      },
+      {
+        "number": 8788,
+        "title": "test(encoding): [low] fuzz the strict tx decoder",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/8788",
+        "repo": "celestia-app",
+        "author": "rootulp",
+        "authorCategory": "coworker",
+        "reviewer": "rach-id",
+        "requestedAt": "2026-11-23T20:27:03Z"
       },
       {
         "number": 3806,
@@ -406,5 +486,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-11-23T20:23:32.913Z"
+  "fetchedAt": "2026-11-23T20:28:32.002Z"
 }
