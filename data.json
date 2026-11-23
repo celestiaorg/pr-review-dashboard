@@ -47,6 +47,26 @@
     ],
     "rach-id": [
       {
+        "number": 3765,
+        "title": "fix(rpc): [high] reject out of range chunks in genesis_chunked",
+        "url": "https://github.com/celestiaorg/celestia-core/pull/3765",
+        "repo": "celestia-core",
+        "author": "ninabarbakadze",
+        "authorCategory": "coworker",
+        "reviewer": "rach-id",
+        "requestedAt": "2026-11-20T14:10:09Z"
+      },
+      {
+        "number": 3766,
+        "title": "fix(light/rpc): [high] bind Block and BlockResults to the requested height",
+        "url": "https://github.com/celestiaorg/celestia-core/pull/3766",
+        "repo": "celestia-core",
+        "author": "ninabarbakadze",
+        "authorCategory": "coworker",
+        "reviewer": "rach-id",
+        "requestedAt": "2026-11-20T14:10:12Z"
+      },
+      {
         "number": 3770,
         "title": "fix(propagation)!: [high] sign a fixed-size compact block digest from app version 12",
         "url": "https://github.com/celestiaorg/celestia-core/pull/3770",
@@ -130,6 +150,26 @@
       }
     ],
     "rootulp": [
+      {
+        "number": 3765,
+        "title": "fix(rpc): [high] reject out of range chunks in genesis_chunked",
+        "url": "https://github.com/celestiaorg/celestia-core/pull/3765",
+        "repo": "celestia-core",
+        "author": "ninabarbakadze",
+        "authorCategory": "coworker",
+        "reviewer": "rootulp",
+        "requestedAt": "2026-11-20T14:10:07Z"
+      },
+      {
+        "number": 3766,
+        "title": "fix(light/rpc): [high] bind Block and BlockResults to the requested height",
+        "url": "https://github.com/celestiaorg/celestia-core/pull/3766",
+        "repo": "celestia-core",
+        "author": "ninabarbakadze",
+        "authorCategory": "coworker",
+        "reviewer": "rootulp",
+        "requestedAt": "2026-11-20T14:10:11Z"
+      },
       {
         "number": 3778,
         "title": "perf(p2p): [high] coalesce low-latency flushes with flush_low_latency",
@@ -582,5 +622,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-11-23T15:01:38.624Z"
+  "fetchedAt": "2026-11-23T15:06:40.409Z"
 }
