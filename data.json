@@ -299,6 +299,16 @@
     ],
     "renaynay": [
       {
+        "number": 5427,
+        "title": "fix(core): [high] back off between new height subscription retries",
+        "url": "https://github.com/celestiaorg/celestia-node/pull/5427",
+        "repo": "celestia-node",
+        "author": "ninabarbakadze",
+        "authorCategory": "coworker",
+        "reviewer": "renaynay",
+        "requestedAt": "2026-11-20T14:15:50Z"
+      },
+      {
         "number": 5430,
         "title": "fix(blob): [high] deduplicate GetAll namespaces and bound concurrency",
         "url": "https://github.com/celestiaorg/celestia-node/pull/5430",
@@ -307,6 +317,26 @@
         "authorCategory": "coworker",
         "reviewer": "renaynay",
         "requestedAt": "2026-11-22T22:47:26Z"
+      },
+      {
+        "number": 5432,
+        "title": "chore(deps): [medium] bump golang from 1.27.3-alpine3.23 to 1.27.4-alpine3.23 in the patch-updates group",
+        "url": "https://github.com/celestiaorg/celestia-node/pull/5432",
+        "repo": "celestia-node",
+        "author": "dependabot",
+        "authorCategory": "bot",
+        "reviewer": "renaynay",
+        "requestedAt": "2026-11-23T11:03:39Z"
+      },
+      {
+        "number": 5433,
+        "title": "chore(deps): [medium] bump the libp2p group across 2 directories with 1 update",
+        "url": "https://github.com/celestiaorg/celestia-node/pull/5433",
+        "repo": "celestia-node",
+        "author": "dependabot",
+        "authorCategory": "bot",
+        "reviewer": "renaynay",
+        "requestedAt": "2026-11-23T11:06:01Z"
       }
     ],
     "rootulp": [
@@ -503,6 +533,26 @@
         "requestedAt": "2026-11-22T22:47:24Z"
       },
       {
+        "number": 5432,
+        "title": "chore(deps): [medium] bump golang from 1.27.3-alpine3.23 to 1.27.4-alpine3.23 in the patch-updates group",
+        "url": "https://github.com/celestiaorg/celestia-node/pull/5432",
+        "repo": "celestia-node",
+        "author": "dependabot",
+        "authorCategory": "bot",
+        "reviewer": "vgonkivs",
+        "requestedAt": "2026-11-23T11:03:37Z"
+      },
+      {
+        "number": 5433,
+        "title": "chore(deps): [medium] bump the libp2p group across 2 directories with 1 update",
+        "url": "https://github.com/celestiaorg/celestia-node/pull/5433",
+        "repo": "celestia-node",
+        "author": "dependabot",
+        "authorCategory": "bot",
+        "reviewer": "vgonkivs",
+        "requestedAt": "2026-11-23T11:05:59Z"
+      },
+      {
         "number": 5190,
         "title": "fix(rpc/client): [medium] close namespace connections",
         "url": "https://github.com/celestiaorg/celestia-node/pull/5190",
@@ -554,6 +604,26 @@
         "authorCategory": "coworker",
         "reviewer": "walldiss",
         "requestedAt": "2026-11-22T22:47:25Z"
+      },
+      {
+        "number": 5432,
+        "title": "chore(deps): [medium] bump golang from 1.27.3-alpine3.23 to 1.27.4-alpine3.23 in the patch-updates group",
+        "url": "https://github.com/celestiaorg/celestia-node/pull/5432",
+        "repo": "celestia-node",
+        "author": "dependabot",
+        "authorCategory": "bot",
+        "reviewer": "walldiss",
+        "requestedAt": "2026-11-23T11:03:38Z"
+      },
+      {
+        "number": 5433,
+        "title": "chore(deps): [medium] bump the libp2p group across 2 directories with 1 update",
+        "url": "https://github.com/celestiaorg/celestia-node/pull/5433",
+        "repo": "celestia-node",
+        "author": "dependabot",
+        "authorCategory": "bot",
+        "reviewer": "walldiss",
+        "requestedAt": "2026-11-23T11:06:00Z"
       }
     ]
   },
@@ -723,5 +793,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-11-23T11:01:12.714Z"
+  "fetchedAt": "2026-11-23T11:06:13.188Z"
 }
