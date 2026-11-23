@@ -5,26 +5,6 @@
     "damiannolan": [],
     "ninabarbakadze": [
       {
-        "number": 8751,
-        "title": "feat(fibre)!: [high] raise MaxPayForFibreMessages to 500",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/8751",
-        "repo": "celestia-app",
-        "author": "rach-id",
-        "authorCategory": "coworker",
-        "reviewer": "ninabarbakadze",
-        "requestedAt": "2026-11-23T06:53:17Z"
-      },
-      {
-        "number": 8770,
-        "title": "feat(app)!: [high] raise GasPerAdditionalSDKMessage to 20,000",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/8770",
-        "repo": "celestia-app",
-        "author": "rach-id",
-        "authorCategory": "coworker",
-        "reviewer": "ninabarbakadze",
-        "requestedAt": "2026-11-23T09:10:09Z"
-      },
-      {
         "number": 8721,
         "title": "perf(app): [high] fast recheck: replay ante writes when every value read is unchanged",
         "url": "https://github.com/celestiaorg/celestia-app/pull/8721",
@@ -612,5 +592,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-11-23T14:16:38.110Z"
+  "fetchedAt": "2026-11-23T14:21:38.980Z"
 }
