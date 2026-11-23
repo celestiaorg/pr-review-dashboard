@@ -53,6 +53,26 @@
         "authorCategory": "coworker",
         "reviewer": "ninabarbakadze",
         "requestedAt": "2026-11-23T14:38:31Z"
+      },
+      {
+        "number": 252,
+        "title": "perf(x/staking): [high] skip redundant work in historical info tracking",
+        "url": "https://github.com/celestiaorg/cosmos-sdk/pull/252",
+        "repo": "cosmos-sdk",
+        "author": "rach-id",
+        "authorCategory": "coworker",
+        "reviewer": "ninabarbakadze",
+        "requestedAt": "2026-11-23T14:44:29Z"
+      },
+      {
+        "number": 251,
+        "title": "perf(x/staking,x/slashing): [high] cache decoded validators and params",
+        "url": "https://github.com/celestiaorg/cosmos-sdk/pull/251",
+        "repo": "cosmos-sdk",
+        "author": "rach-id",
+        "authorCategory": "coworker",
+        "reviewer": "ninabarbakadze",
+        "requestedAt": "2026-11-23T14:45:56Z"
       }
     ],
     "rach-id": [
@@ -271,6 +291,26 @@
         "requestedAt": "2026-11-23T13:41:27Z"
       },
       {
+        "number": 252,
+        "title": "perf(x/staking): [high] skip redundant work in historical info tracking",
+        "url": "https://github.com/celestiaorg/cosmos-sdk/pull/252",
+        "repo": "cosmos-sdk",
+        "author": "rach-id",
+        "authorCategory": "coworker",
+        "reviewer": "rootulp",
+        "requestedAt": "2026-11-23T14:44:28Z"
+      },
+      {
+        "number": 251,
+        "title": "perf(x/staking,x/slashing): [high] cache decoded validators and params",
+        "url": "https://github.com/celestiaorg/cosmos-sdk/pull/251",
+        "repo": "cosmos-sdk",
+        "author": "rach-id",
+        "authorCategory": "coworker",
+        "reviewer": "rootulp",
+        "requestedAt": "2026-11-23T14:45:55Z"
+      },
+      {
         "number": 3782,
         "title": "fix(propagation): [high] bound per-peer round state inside PeerState (backport #3674)",
         "url": "https://github.com/celestiaorg/celestia-core/pull/3782",
@@ -484,24 +524,6 @@
       "waitingSince": "2026-11-23T11:49:23Z"
     },
     {
-      "number": 251,
-      "title": "perf(x/staking,x/slashing): [high] cache decoded validators and params",
-      "url": "https://github.com/celestiaorg/cosmos-sdk/pull/251",
-      "repo": "cosmos-sdk",
-      "author": "rach-id",
-      "authorCategory": "coworker",
-      "waitingSince": "2026-11-23T14:40:06Z"
-    },
-    {
-      "number": 252,
-      "title": "perf(x/staking): [high] skip redundant work in historical info tracking",
-      "url": "https://github.com/celestiaorg/cosmos-sdk/pull/252",
-      "repo": "cosmos-sdk",
-      "author": "rach-id",
-      "authorCategory": "coworker",
-      "waitingSince": "2026-11-23T14:40:07Z"
-    },
-    {
       "number": 253,
       "title": "perf(codec/address): [high] cache Bech32Codec conversions",
       "url": "https://github.com/celestiaorg/cosmos-sdk/pull/253",
@@ -657,5 +679,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-11-23T14:41:38.534Z"
+  "fetchedAt": "2026-11-23T14:46:38.787Z"
 }
