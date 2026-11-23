@@ -333,6 +333,26 @@
         "requestedAt": "2026-11-23T11:06:28Z"
       },
       {
+        "number": 46,
+        "title": "chore(deps): [medium] bump bytes from 1.12.1 to 1.12.2 in /clients/rust in the cargo-deps group",
+        "url": "https://github.com/celestiaorg/fibre-gateway-client/pull/46",
+        "repo": "fibre-gateway-client",
+        "author": "dependabot",
+        "authorCategory": "bot",
+        "reviewer": "vgonkivs",
+        "requestedAt": "2026-11-23T17:48:44Z"
+      },
+      {
+        "number": 47,
+        "title": "chore(deps): [medium] bump the github-actions group across 1 directory with 5 updates",
+        "url": "https://github.com/celestiaorg/fibre-gateway-client/pull/47",
+        "repo": "fibre-gateway-client",
+        "author": "dependabot",
+        "authorCategory": "bot",
+        "reviewer": "vgonkivs",
+        "requestedAt": "2026-11-23T17:49:03Z"
+      },
+      {
         "number": 5190,
         "title": "fix(rpc/client): [medium] close namespace connections",
         "url": "https://github.com/celestiaorg/celestia-node/pull/5190",
@@ -414,6 +434,26 @@
         "authorCategory": "bot",
         "reviewer": "walldiss",
         "requestedAt": "2026-11-23T11:06:29Z"
+      },
+      {
+        "number": 46,
+        "title": "chore(deps): [medium] bump bytes from 1.12.1 to 1.12.2 in /clients/rust in the cargo-deps group",
+        "url": "https://github.com/celestiaorg/fibre-gateway-client/pull/46",
+        "repo": "fibre-gateway-client",
+        "author": "dependabot",
+        "authorCategory": "bot",
+        "reviewer": "walldiss",
+        "requestedAt": "2026-11-23T17:48:43Z"
+      },
+      {
+        "number": 47,
+        "title": "chore(deps): [medium] bump the github-actions group across 1 directory with 5 updates",
+        "url": "https://github.com/celestiaorg/fibre-gateway-client/pull/47",
+        "repo": "fibre-gateway-client",
+        "author": "dependabot",
+        "authorCategory": "bot",
+        "reviewer": "walldiss",
+        "requestedAt": "2026-11-23T17:49:02Z"
       }
     ]
   },
@@ -471,24 +511,6 @@
       "author": "dependabot",
       "authorCategory": "bot",
       "waitingSince": "2026-11-14T05:11:10Z"
-    },
-    {
-      "number": 46,
-      "title": "chore(deps): [medium] bump bytes from 1.12.1 to 1.12.2 in /clients/rust in the cargo-deps group",
-      "url": "https://github.com/celestiaorg/fibre-gateway-client/pull/46",
-      "repo": "fibre-gateway-client",
-      "author": "dependabot",
-      "authorCategory": "bot",
-      "waitingSince": "2026-11-23T17:25:52Z"
-    },
-    {
-      "number": 47,
-      "title": "chore(deps): [medium] bump the github-actions group across 1 directory with 5 updates",
-      "url": "https://github.com/celestiaorg/fibre-gateway-client/pull/47",
-      "repo": "fibre-gateway-client",
-      "author": "dependabot",
-      "authorCategory": "bot",
-      "waitingSince": "2026-11-23T17:27:27Z"
     },
     {
       "number": 444,
@@ -574,5 +596,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-11-23T17:46:40.559Z"
+  "fetchedAt": "2026-11-23T17:51:40.795Z"
 }
