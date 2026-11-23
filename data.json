@@ -181,16 +181,6 @@
     ],
     "rootulp": [
       {
-        "number": 3767,
-        "title": "fix(light/rpc): [high] serve requests without a height from the latest trusted light block",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3767",
-        "repo": "celestia-core",
-        "author": "ninabarbakadze",
-        "authorCategory": "coworker",
-        "reviewer": "rootulp",
-        "requestedAt": "2026-11-20T14:10:23Z"
-      },
-      {
         "number": 8751,
         "title": "feat(fibre)!: [high] raise MaxPayForFibreMessages to 500",
         "url": "https://github.com/celestiaorg/celestia-app/pull/8751",
@@ -279,6 +269,16 @@
         "authorCategory": "coworker",
         "reviewer": "rootulp",
         "requestedAt": "2026-11-23T15:33:42Z"
+      },
+      {
+        "number": 35,
+        "title": "chore: [low] remove unused callbacks middleware and CI",
+        "url": "https://github.com/celestiaorg/ibc-go/pull/35",
+        "repo": "ibc-go",
+        "author": "damiannolan",
+        "authorCategory": "coworker",
+        "reviewer": "rootulp",
+        "requestedAt": "2026-11-23T16:00:13Z"
       }
     ],
     "vgonkivs": [
@@ -445,13 +445,13 @@
       "waitingSince": "2026-11-11T10:36:13Z"
     },
     {
-      "number": 35,
-      "title": "chore: [low] remove unused callbacks middleware and CI",
-      "url": "https://github.com/celestiaorg/ibc-go/pull/35",
+      "number": 36,
+      "title": "chore: [low] simplify pull request template",
+      "url": "https://github.com/celestiaorg/ibc-go/pull/36",
       "repo": "ibc-go",
       "author": "damiannolan",
       "authorCategory": "coworker",
-      "waitingSince": "2026-11-23T15:55:27Z"
+      "waitingSince": "2026-11-23T15:56:47Z"
     },
     {
       "number": 1,
@@ -582,5 +582,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-11-23T15:56:39.765Z"
+  "fetchedAt": "2026-11-23T16:01:41.853Z"
 }
