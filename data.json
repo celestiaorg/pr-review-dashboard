@@ -127,16 +127,6 @@
     ],
     "rach-id": [
       {
-        "number": 8737,
-        "title": "fix(fibre): [high] check the promise format in the ValidatePaymentPromise query",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/8737",
-        "repo": "celestia-app",
-        "author": "ninabarbakadze",
-        "authorCategory": "coworker",
-        "reviewer": "rach-id",
-        "requestedAt": "2026-11-20T14:15:20Z"
-      },
-      {
         "number": 3787,
         "title": "fix(propagation): [high] give each peer its own share of the stored parts budget",
         "url": "https://github.com/celestiaorg/celestia-core/pull/3787",
@@ -742,5 +732,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-11-23T12:06:13.264Z"
+  "fetchedAt": "2026-11-23T12:11:13.879Z"
 }
