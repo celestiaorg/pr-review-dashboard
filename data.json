@@ -35,16 +35,6 @@
         "requestedAt": "2026-11-23T05:22:57Z"
       },
       {
-        "number": 8754,
-        "title": "fix(app): [high] limit depth, repeated keys and next forms of packet-forward memos in the mempool filter (v11.x) (backport #8676)",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/8754",
-        "repo": "celestia-app",
-        "author": "rootulp",
-        "authorCategory": "coworker",
-        "reviewer": "ninabarbakadze",
-        "requestedAt": "2026-11-23T05:23:02Z"
-      },
-      {
         "number": 3778,
         "title": "perf(p2p): [high] coalesce low-latency flushes with flush_low_latency",
         "url": "https://github.com/celestiaorg/celestia-core/pull/3778",
@@ -230,16 +220,6 @@
       }
     ],
     "rootulp": [
-      {
-        "number": 8737,
-        "title": "fix(fibre): [high] check the promise format in the ValidatePaymentPromise query",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/8737",
-        "repo": "celestia-app",
-        "author": "ninabarbakadze",
-        "authorCategory": "coworker",
-        "reviewer": "rootulp",
-        "requestedAt": "2026-11-20T14:15:19Z"
-      },
       {
         "number": 3778,
         "title": "perf(p2p): [high] coalesce low-latency flushes with flush_low_latency",
@@ -732,5 +712,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-11-23T12:26:13.738Z"
+  "fetchedAt": "2026-11-23T12:31:14.070Z"
 }
