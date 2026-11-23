@@ -115,6 +115,16 @@
         "requestedAt": "2026-11-23T06:53:17Z"
       },
       {
+        "number": 3791,
+        "title": "perf(consensus): [high] send HasVote without arming the low-latency flush",
+        "url": "https://github.com/celestiaorg/celestia-core/pull/3791",
+        "repo": "celestia-core",
+        "author": "rach-id",
+        "authorCategory": "coworker",
+        "reviewer": "ninabarbakadze",
+        "requestedAt": "2026-11-23T07:42:39Z"
+      },
+      {
         "number": 3782,
         "title": "fix(propagation): [high] bound per-peer round state inside PeerState (backport #3674)",
         "url": "https://github.com/celestiaorg/celestia-core/pull/3782",
@@ -199,6 +209,16 @@
         "authorCategory": "coworker",
         "reviewer": "rootulp",
         "requestedAt": "2026-11-23T06:53:23Z"
+      },
+      {
+        "number": 3791,
+        "title": "perf(consensus): [high] send HasVote without arming the low-latency flush",
+        "url": "https://github.com/celestiaorg/celestia-core/pull/3791",
+        "repo": "celestia-core",
+        "author": "rach-id",
+        "authorCategory": "coworker",
+        "reviewer": "rootulp",
+        "requestedAt": "2026-11-23T07:42:39Z"
       },
       {
         "number": 3782,
@@ -462,5 +482,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-11-23T07:41:08.852Z"
+  "fetchedAt": "2026-11-23T07:46:09.022Z"
 }
