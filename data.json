@@ -5,16 +5,6 @@
     "damiannolan": [],
     "ninabarbakadze": [
       {
-        "number": 3769,
-        "title": "fix(consensus): [high] take parts that arrived before their proposal",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3769",
-        "repo": "celestia-core",
-        "author": "rootulp",
-        "authorCategory": "coworker",
-        "reviewer": "ninabarbakadze",
-        "requestedAt": "2026-11-21T05:01:40Z"
-      },
-      {
         "number": 3784,
         "title": "fix(consensus): [high] pass on held block parts when a proposal is set",
         "url": "https://github.com/celestiaorg/celestia-core/pull/3784",
@@ -23,16 +13,6 @@
         "authorCategory": "coworker",
         "reviewer": "ninabarbakadze",
         "requestedAt": "2026-11-22T21:52:51Z"
-      },
-      {
-        "number": 3783,
-        "title": "fix(mempool/cat): [medium] request every tx queued at a signer sequence (backport #3754)",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3783",
-        "repo": "celestia-core",
-        "author": "rootulp",
-        "authorCategory": "coworker",
-        "reviewer": "ninabarbakadze",
-        "requestedAt": "2026-11-22T21:57:53Z"
       },
       {
         "number": 3787,
@@ -157,26 +137,6 @@
     ],
     "rach-id": [
       {
-        "number": 3784,
-        "title": "fix(consensus): [high] pass on held block parts when a proposal is set",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3784",
-        "repo": "celestia-core",
-        "author": "rootulp",
-        "authorCategory": "coworker",
-        "reviewer": "rach-id",
-        "requestedAt": "2026-11-22T21:52:50Z"
-      },
-      {
-        "number": 3783,
-        "title": "fix(mempool/cat): [medium] request every tx queued at a signer sequence (backport #3754)",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3783",
-        "repo": "celestia-core",
-        "author": "rootulp",
-        "authorCategory": "coworker",
-        "reviewer": "rach-id",
-        "requestedAt": "2026-11-22T21:57:52Z"
-      },
-      {
         "number": 3787,
         "title": "fix(propagation): [high] give each peer its own share of the stored parts budget",
         "url": "https://github.com/celestiaorg/celestia-core/pull/3787",
@@ -185,16 +145,6 @@
         "authorCategory": "coworker",
         "reviewer": "rach-id",
         "requestedAt": "2026-11-22T22:43:35Z"
-      },
-      {
-        "number": 3769,
-        "title": "fix(consensus): [high] take parts that arrived before their proposal",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3769",
-        "repo": "celestia-core",
-        "author": "rootulp",
-        "authorCategory": "coworker",
-        "reviewer": "rach-id",
-        "requestedAt": "2026-11-22T22:49:32Z"
       },
       {
         "number": 223,
@@ -592,5 +542,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-11-23T07:00:47.664Z"
+  "fetchedAt": "2026-11-23T07:05:47.339Z"
 }
