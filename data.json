@@ -13,16 +13,6 @@
         "authorCategory": "coworker",
         "reviewer": "ninabarbakadze",
         "requestedAt": "2026-11-23T15:18:40Z"
-      },
-      {
-        "number": 8775,
-        "title": "test(app): [low] check fast recheck replays against changes to unread state",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/8775",
-        "repo": "celestia-app",
-        "author": "rach-id",
-        "authorCategory": "coworker",
-        "reviewer": "ninabarbakadze",
-        "requestedAt": "2026-11-23T19:13:27Z"
       }
     ],
     "rach-id": [
@@ -109,18 +99,7 @@
         "requestedAt": "2026-11-23T11:06:30Z"
       }
     ],
-    "rootulp": [
-      {
-        "number": 8775,
-        "title": "test(app): [low] check fast recheck replays against changes to unread state",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/8775",
-        "repo": "celestia-app",
-        "author": "rach-id",
-        "authorCategory": "coworker",
-        "reviewer": "rootulp",
-        "requestedAt": "2026-11-23T09:54:23Z"
-      }
-    ],
+    "rootulp": [],
     "vgonkivs": [
       {
         "number": 5435,
@@ -416,5 +395,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-11-23T19:33:32.723Z"
+  "fetchedAt": "2026-11-23T19:38:32.546Z"
 }
