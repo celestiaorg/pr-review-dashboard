@@ -265,36 +265,6 @@
         "authorCategory": "coworker",
         "reviewer": "rach-id",
         "requestedAt": "2026-11-23T10:31:14Z"
-      },
-      {
-        "number": 8773,
-        "title": "chore(deps): [medium] bump the go-deps-docker-e2e group in /test/docker-e2e with 2 updates",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/8773",
-        "repo": "celestia-app",
-        "author": "dependabot",
-        "authorCategory": "bot",
-        "reviewer": "rach-id",
-        "requestedAt": "2026-11-23T09:49:30Z"
-      },
-      {
-        "number": 8774,
-        "title": "chore(deps): [high] bump the go-deps group with 8 updates",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/8774",
-        "repo": "celestia-app",
-        "author": "dependabot",
-        "authorCategory": "bot",
-        "reviewer": "rach-id",
-        "requestedAt": "2026-11-23T09:50:18Z"
-      },
-      {
-        "number": 8776,
-        "title": "chore(deps): [medium] bump golang from 1.26.11-bookworm to 1.27.4-bookworm in /docker/devnet in the docker group across 1 directory",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/8776",
-        "repo": "celestia-app",
-        "author": "dependabot",
-        "authorCategory": "bot",
-        "reviewer": "rach-id",
-        "requestedAt": "2026-11-23T09:54:33Z"
       }
     ],
     "renaynay": [
@@ -853,5 +823,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-11-23T11:11:12.678Z"
+  "fetchedAt": "2026-11-23T11:16:12.912Z"
 }
