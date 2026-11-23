@@ -464,15 +464,6 @@
       "waitingSince": "2026-05-06T09:34:40Z"
     },
     {
-      "number": 42,
-      "title": "chore(deps): [medium] bump the github-actions group across 1 directory with 3 updates",
-      "url": "https://github.com/celestiaorg/fibre-gateway-client/pull/42",
-      "repo": "fibre-gateway-client",
-      "author": "dependabot",
-      "authorCategory": "bot",
-      "waitingSince": "2026-11-09T17:15:55Z"
-    },
-    {
       "number": 218,
       "title": "chore(deps): [medium] bump go.opentelemetry.io/otel/sdk from 1.45.0 to 1.47.0 in the go_modules group across 1 directory",
       "url": "https://github.com/celestiaorg/tastora/pull/218",
@@ -489,6 +480,15 @@
       "author": "dependabot",
       "authorCategory": "bot",
       "waitingSince": "2026-11-23T17:25:52Z"
+    },
+    {
+      "number": 47,
+      "title": "chore(deps): [medium] bump the github-actions group across 1 directory with 5 updates",
+      "url": "https://github.com/celestiaorg/fibre-gateway-client/pull/47",
+      "repo": "fibre-gateway-client",
+      "author": "dependabot",
+      "authorCategory": "bot",
+      "waitingSince": "2026-11-23T17:27:27Z"
     },
     {
       "number": 444,
@@ -574,5 +574,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-11-23T17:26:40.252Z"
+  "fetchedAt": "2026-11-23T17:31:40.389Z"
 }
