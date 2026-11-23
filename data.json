@@ -155,6 +155,36 @@
         "requestedAt": "2026-11-23T09:14:34Z"
       },
       {
+        "number": 8764,
+        "title": "test(app): [low] test fast recheck against a full recheck app",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/8764",
+        "repo": "celestia-app",
+        "author": "rach-id",
+        "authorCategory": "coworker",
+        "reviewer": "ninabarbakadze",
+        "requestedAt": "2026-11-23T09:16:25Z"
+      },
+      {
+        "number": 8765,
+        "title": "fix(app): [medium] fast recheck: never replay txs with IBC core messages",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/8765",
+        "repo": "celestia-app",
+        "author": "rach-id",
+        "authorCategory": "coworker",
+        "reviewer": "ninabarbakadze",
+        "requestedAt": "2026-11-23T09:16:48Z"
+      },
+      {
+        "number": 8766,
+        "title": "test(app): [low] fuzz fast recheck against a full recheck",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/8766",
+        "repo": "celestia-app",
+        "author": "rach-id",
+        "authorCategory": "coworker",
+        "reviewer": "ninabarbakadze",
+        "requestedAt": "2026-11-23T09:17:15Z"
+      },
+      {
         "number": 3782,
         "title": "fix(propagation): [high] bound per-peer round state inside PeerState (backport #3674)",
         "url": "https://github.com/celestiaorg/celestia-core/pull/3782",
@@ -279,6 +309,36 @@
         "authorCategory": "coworker",
         "reviewer": "rootulp",
         "requestedAt": "2026-11-23T09:14:33Z"
+      },
+      {
+        "number": 8764,
+        "title": "test(app): [low] test fast recheck against a full recheck app",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/8764",
+        "repo": "celestia-app",
+        "author": "rach-id",
+        "authorCategory": "coworker",
+        "reviewer": "rootulp",
+        "requestedAt": "2026-11-23T09:16:24Z"
+      },
+      {
+        "number": 8765,
+        "title": "fix(app): [medium] fast recheck: never replay txs with IBC core messages",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/8765",
+        "repo": "celestia-app",
+        "author": "rach-id",
+        "authorCategory": "coworker",
+        "reviewer": "rootulp",
+        "requestedAt": "2026-11-23T09:16:47Z"
+      },
+      {
+        "number": 8766,
+        "title": "test(app): [low] fuzz fast recheck against a full recheck",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/8766",
+        "repo": "celestia-app",
+        "author": "rach-id",
+        "authorCategory": "coworker",
+        "reviewer": "rootulp",
+        "requestedAt": "2026-11-23T09:17:14Z"
       },
       {
         "number": 3782,
@@ -542,5 +602,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-11-23T09:16:11.096Z"
+  "fetchedAt": "2026-11-23T09:21:11.164Z"
 }
