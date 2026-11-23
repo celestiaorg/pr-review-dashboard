@@ -63,16 +63,6 @@
         "authorCategory": "coworker",
         "reviewer": "ninabarbakadze",
         "requestedAt": "2026-11-23T09:14:34Z"
-      },
-      {
-        "number": 3780,
-        "title": "perf(p2p/conn): [high] one socket write per SecretConnection.Write",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3780",
-        "repo": "celestia-core",
-        "author": "rach-id",
-        "authorCategory": "coworker",
-        "reviewer": "ninabarbakadze",
-        "requestedAt": "2026-11-23T12:54:11Z"
       }
     ],
     "rach-id": [
@@ -179,16 +169,6 @@
         "authorCategory": "coworker",
         "reviewer": "rootulp",
         "requestedAt": "2026-11-23T06:32:36Z"
-      },
-      {
-        "number": 3780,
-        "title": "perf(p2p/conn): [high] one socket write per SecretConnection.Write",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3780",
-        "repo": "celestia-core",
-        "author": "rach-id",
-        "authorCategory": "coworker",
-        "reviewer": "rootulp",
-        "requestedAt": "2026-11-23T06:40:03Z"
       },
       {
         "number": 3786,
@@ -651,5 +631,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-11-23T13:31:36.827Z"
+  "fetchedAt": "2026-11-23T13:36:37.507Z"
 }
