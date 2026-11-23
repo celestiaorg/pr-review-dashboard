@@ -45,16 +45,6 @@
         "requestedAt": "2026-11-23T06:32:37Z"
       },
       {
-        "number": 3780,
-        "title": "perf(p2p/conn): [high] one socket write per SecretConnection.Write",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3780",
-        "repo": "celestia-core",
-        "author": "rach-id",
-        "authorCategory": "coworker",
-        "reviewer": "ninabarbakadze",
-        "requestedAt": "2026-11-23T06:40:03Z"
-      },
-      {
         "number": 3786,
         "title": "fix(consensus): [high] anchor the paced start on the earlier of own start and the proposal time",
         "url": "https://github.com/celestiaorg/celestia-core/pull/3786",
@@ -712,5 +702,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-11-23T12:31:14.070Z"
+  "fetchedAt": "2026-11-23T12:36:14.530Z"
 }
