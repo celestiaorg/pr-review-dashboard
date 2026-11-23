@@ -15,16 +15,6 @@
         "requestedAt": "2026-11-23T09:14:34Z"
       },
       {
-        "number": 8749,
-        "title": "perf(fibre): [high] per-signer promise cache locks and derived budget",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/8749",
-        "repo": "celestia-app",
-        "author": "rach-id",
-        "authorCategory": "coworker",
-        "reviewer": "ninabarbakadze",
-        "requestedAt": "2026-11-23T13:41:27Z"
-      },
-      {
         "number": 3786,
         "title": "fix(consensus): [high] anchor the paced start on the earlier of own start and the proposal time",
         "url": "https://github.com/celestiaorg/celestia-core/pull/3786",
@@ -53,56 +43,6 @@
         "authorCategory": "coworker",
         "reviewer": "ninabarbakadze",
         "requestedAt": "2026-11-23T14:38:31Z"
-      },
-      {
-        "number": 252,
-        "title": "perf(x/staking): [high] skip redundant work in historical info tracking",
-        "url": "https://github.com/celestiaorg/cosmos-sdk/pull/252",
-        "repo": "cosmos-sdk",
-        "author": "rach-id",
-        "authorCategory": "coworker",
-        "reviewer": "ninabarbakadze",
-        "requestedAt": "2026-11-23T14:44:29Z"
-      },
-      {
-        "number": 251,
-        "title": "perf(x/staking,x/slashing): [high] cache decoded validators and params",
-        "url": "https://github.com/celestiaorg/cosmos-sdk/pull/251",
-        "repo": "cosmos-sdk",
-        "author": "rach-id",
-        "authorCategory": "coworker",
-        "reviewer": "ninabarbakadze",
-        "requestedAt": "2026-11-23T14:45:56Z"
-      },
-      {
-        "number": 253,
-        "title": "perf(codec/address): [high] cache Bech32Codec conversions",
-        "url": "https://github.com/celestiaorg/cosmos-sdk/pull/253",
-        "repo": "cosmos-sdk",
-        "author": "rach-id",
-        "authorCategory": "coworker",
-        "reviewer": "ninabarbakadze",
-        "requestedAt": "2026-11-23T14:48:33Z"
-      },
-      {
-        "number": 254,
-        "title": "perf(baseapp,x/distribution): [high] add a blocksync-events-off option",
-        "url": "https://github.com/celestiaorg/cosmos-sdk/pull/254",
-        "repo": "cosmos-sdk",
-        "author": "rach-id",
-        "authorCategory": "coworker",
-        "reviewer": "ninabarbakadze",
-        "requestedAt": "2026-11-23T14:48:41Z"
-      },
-      {
-        "number": 255,
-        "title": "test(simapp): [low] differential test of the execution caches",
-        "url": "https://github.com/celestiaorg/cosmos-sdk/pull/255",
-        "repo": "cosmos-sdk",
-        "author": "rach-id",
-        "authorCategory": "coworker",
-        "reviewer": "ninabarbakadze",
-        "requestedAt": "2026-11-23T14:50:37Z"
       }
     ],
     "rach-id": [
@@ -319,56 +259,6 @@
         "authorCategory": "coworker",
         "reviewer": "rootulp",
         "requestedAt": "2026-11-23T13:41:27Z"
-      },
-      {
-        "number": 252,
-        "title": "perf(x/staking): [high] skip redundant work in historical info tracking",
-        "url": "https://github.com/celestiaorg/cosmos-sdk/pull/252",
-        "repo": "cosmos-sdk",
-        "author": "rach-id",
-        "authorCategory": "coworker",
-        "reviewer": "rootulp",
-        "requestedAt": "2026-11-23T14:44:28Z"
-      },
-      {
-        "number": 251,
-        "title": "perf(x/staking,x/slashing): [high] cache decoded validators and params",
-        "url": "https://github.com/celestiaorg/cosmos-sdk/pull/251",
-        "repo": "cosmos-sdk",
-        "author": "rach-id",
-        "authorCategory": "coworker",
-        "reviewer": "rootulp",
-        "requestedAt": "2026-11-23T14:45:55Z"
-      },
-      {
-        "number": 253,
-        "title": "perf(codec/address): [high] cache Bech32Codec conversions",
-        "url": "https://github.com/celestiaorg/cosmos-sdk/pull/253",
-        "repo": "cosmos-sdk",
-        "author": "rach-id",
-        "authorCategory": "coworker",
-        "reviewer": "rootulp",
-        "requestedAt": "2026-11-23T14:48:32Z"
-      },
-      {
-        "number": 254,
-        "title": "perf(baseapp,x/distribution): [high] add a blocksync-events-off option",
-        "url": "https://github.com/celestiaorg/cosmos-sdk/pull/254",
-        "repo": "cosmos-sdk",
-        "author": "rach-id",
-        "authorCategory": "coworker",
-        "reviewer": "rootulp",
-        "requestedAt": "2026-11-23T14:48:40Z"
-      },
-      {
-        "number": 255,
-        "title": "test(simapp): [low] differential test of the execution caches",
-        "url": "https://github.com/celestiaorg/cosmos-sdk/pull/255",
-        "repo": "cosmos-sdk",
-        "author": "rach-id",
-        "authorCategory": "coworker",
-        "reviewer": "rootulp",
-        "requestedAt": "2026-11-23T14:50:36Z"
       },
       {
         "number": 3782,
@@ -692,5 +582,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-11-23T14:51:38.711Z"
+  "fetchedAt": "2026-11-23T14:56:38.196Z"
 }
