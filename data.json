@@ -135,6 +135,16 @@
         "authorCategory": "bot",
         "reviewer": "rach-id",
         "requestedAt": "2026-11-23T20:06:39Z"
+      },
+      {
+        "number": 363,
+        "title": "chore(deps): [high] bump github.com/tidwall/gjson from 1.20.2 to 1.20.4",
+        "url": "https://github.com/celestiaorg/nmt/pull/363",
+        "repo": "nmt",
+        "author": "dependabot",
+        "authorCategory": "bot",
+        "reviewer": "rach-id",
+        "requestedAt": "2026-11-23T21:03:28Z"
       }
     ],
     "renaynay": [
@@ -219,6 +229,16 @@
         "authorCategory": "bot",
         "reviewer": "rootulp",
         "requestedAt": "2026-11-23T20:06:38Z"
+      },
+      {
+        "number": 363,
+        "title": "chore(deps): [high] bump github.com/tidwall/gjson from 1.20.2 to 1.20.4",
+        "url": "https://github.com/celestiaorg/nmt/pull/363",
+        "repo": "nmt",
+        "author": "dependabot",
+        "authorCategory": "bot",
+        "reviewer": "rootulp",
+        "requestedAt": "2026-11-23T21:03:30Z"
       }
     ],
     "vgonkivs": [
@@ -506,5 +526,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-11-23T20:58:32.525Z"
+  "fetchedAt": "2026-11-23T21:03:32.648Z"
 }
