@@ -45,6 +45,16 @@
         "requestedAt": "2026-11-23T20:27:05Z"
       },
       {
+        "number": 3787,
+        "title": "fix(propagation): [high] give each peer its own share of the stored parts budget",
+        "url": "https://github.com/celestiaorg/celestia-core/pull/3787",
+        "repo": "celestia-core",
+        "author": "rootulp",
+        "authorCategory": "coworker",
+        "reviewer": "ninabarbakadze",
+        "requestedAt": "2026-11-23T20:35:57Z"
+      },
+      {
         "number": 3806,
         "title": "fix(p2p): [high] start the BaseReactor processor in Start (backport #3804)",
         "url": "https://github.com/celestiaorg/celestia-core/pull/3806",
@@ -105,6 +115,16 @@
         "authorCategory": "coworker",
         "reviewer": "rach-id",
         "requestedAt": "2026-11-23T20:27:03Z"
+      },
+      {
+        "number": 3787,
+        "title": "fix(propagation): [high] give each peer its own share of the stored parts budget",
+        "url": "https://github.com/celestiaorg/celestia-core/pull/3787",
+        "repo": "celestia-core",
+        "author": "rootulp",
+        "authorCategory": "coworker",
+        "reviewer": "rach-id",
+        "requestedAt": "2026-11-23T20:35:57Z"
       },
       {
         "number": 3806,
@@ -486,5 +506,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-11-23T20:33:31.992Z"
+  "fetchedAt": "2026-11-23T20:38:32.389Z"
 }
