@@ -43,18 +43,28 @@
         "authorCategory": "coworker",
         "reviewer": "ninabarbakadze",
         "requestedAt": "2026-11-23T14:38:31Z"
+      },
+      {
+        "number": 3804,
+        "title": "fix(p2p): [high] start the BaseReactor processor in Start",
+        "url": "https://github.com/celestiaorg/celestia-core/pull/3804",
+        "repo": "celestia-core",
+        "author": "damiannolan",
+        "authorCategory": "coworker",
+        "reviewer": "ninabarbakadze",
+        "requestedAt": "2026-11-23T15:18:40Z"
       }
     ],
     "rach-id": [
       {
-        "number": 3766,
-        "title": "fix(light/rpc): [high] bind Block and BlockResults to the requested height",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3766",
+        "number": 3767,
+        "title": "fix(light/rpc): [high] serve requests without a height from the latest trusted light block",
+        "url": "https://github.com/celestiaorg/celestia-core/pull/3767",
         "repo": "celestia-core",
         "author": "ninabarbakadze",
         "authorCategory": "coworker",
         "reviewer": "rach-id",
-        "requestedAt": "2026-11-20T14:10:12Z"
+        "requestedAt": "2026-11-20T14:10:25Z"
       },
       {
         "number": 3770,
@@ -65,6 +75,16 @@
         "authorCategory": "coworker",
         "reviewer": "rach-id",
         "requestedAt": "2026-11-23T10:31:14Z"
+      },
+      {
+        "number": 3804,
+        "title": "fix(p2p): [high] start the BaseReactor processor in Start",
+        "url": "https://github.com/celestiaorg/celestia-core/pull/3804",
+        "repo": "celestia-core",
+        "author": "damiannolan",
+        "authorCategory": "coworker",
+        "reviewer": "rach-id",
+        "requestedAt": "2026-11-23T15:18:39Z"
       }
     ],
     "renaynay": [
@@ -141,16 +161,6 @@
     ],
     "rootulp": [
       {
-        "number": 3765,
-        "title": "fix(rpc): [high] reject out of range chunks in genesis_chunked",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3765",
-        "repo": "celestia-core",
-        "author": "ninabarbakadze",
-        "authorCategory": "coworker",
-        "reviewer": "rootulp",
-        "requestedAt": "2026-11-20T14:10:07Z"
-      },
-      {
         "number": 3766,
         "title": "fix(light/rpc): [high] bind Block and BlockResults to the requested height",
         "url": "https://github.com/celestiaorg/celestia-core/pull/3766",
@@ -159,6 +169,16 @@
         "authorCategory": "coworker",
         "reviewer": "rootulp",
         "requestedAt": "2026-11-20T14:10:11Z"
+      },
+      {
+        "number": 3767,
+        "title": "fix(light/rpc): [high] serve requests without a height from the latest trusted light block",
+        "url": "https://github.com/celestiaorg/celestia-core/pull/3767",
+        "repo": "celestia-core",
+        "author": "ninabarbakadze",
+        "authorCategory": "coworker",
+        "reviewer": "rootulp",
+        "requestedAt": "2026-11-20T14:10:23Z"
       },
       {
         "number": 3778,
@@ -221,46 +241,6 @@
         "requestedAt": "2026-11-23T09:09:53Z"
       },
       {
-        "number": 8721,
-        "title": "perf(app): [high] fast recheck: replay ante writes when every value read is unchanged",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/8721",
-        "repo": "celestia-app",
-        "author": "rach-id",
-        "authorCategory": "coworker",
-        "reviewer": "rootulp",
-        "requestedAt": "2026-11-23T09:14:33Z"
-      },
-      {
-        "number": 8764,
-        "title": "test(app): [low] test fast recheck against a full recheck app",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/8764",
-        "repo": "celestia-app",
-        "author": "rach-id",
-        "authorCategory": "coworker",
-        "reviewer": "rootulp",
-        "requestedAt": "2026-11-23T09:16:24Z"
-      },
-      {
-        "number": 8765,
-        "title": "fix(app): [medium] fast recheck: never replay txs with IBC core messages",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/8765",
-        "repo": "celestia-app",
-        "author": "rach-id",
-        "authorCategory": "coworker",
-        "reviewer": "rootulp",
-        "requestedAt": "2026-11-23T09:16:47Z"
-      },
-      {
-        "number": 8766,
-        "title": "test(app): [low] fuzz fast recheck against a full recheck",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/8766",
-        "repo": "celestia-app",
-        "author": "rach-id",
-        "authorCategory": "coworker",
-        "reviewer": "rootulp",
-        "requestedAt": "2026-11-23T09:17:14Z"
-      },
-      {
         "number": 8775,
         "title": "test(app): [low] check fast recheck replays against changes to unread state",
         "url": "https://github.com/celestiaorg/celestia-app/pull/8775",
@@ -269,16 +249,6 @@
         "authorCategory": "coworker",
         "reviewer": "rootulp",
         "requestedAt": "2026-11-23T09:54:23Z"
-      },
-      {
-        "number": 8777,
-        "title": "feat(app): [medium] enable fast recheck by default",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/8777",
-        "repo": "celestia-app",
-        "author": "rach-id",
-        "authorCategory": "coworker",
-        "reviewer": "rootulp",
-        "requestedAt": "2026-11-23T10:28:37Z"
       },
       {
         "number": 8749,
@@ -291,14 +261,14 @@
         "requestedAt": "2026-11-23T13:41:27Z"
       },
       {
-        "number": 3782,
-        "title": "fix(propagation): [high] bound per-peer round state inside PeerState (backport #3674)",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3782",
+        "number": 3804,
+        "title": "fix(p2p): [high] start the BaseReactor processor in Start",
+        "url": "https://github.com/celestiaorg/celestia-core/pull/3804",
         "repo": "celestia-core",
-        "author": "mergify",
-        "authorCategory": "bot",
+        "author": "damiannolan",
+        "authorCategory": "coworker",
         "reviewer": "rootulp",
-        "requestedAt": "2026-11-21T19:33:32Z"
+        "requestedAt": "2026-11-23T15:18:38Z"
       }
     ],
     "vgonkivs": [
@@ -612,5 +582,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-11-23T15:16:39.679Z"
+  "fetchedAt": "2026-11-23T15:21:38.681Z"
 }
