@@ -195,6 +195,16 @@
         "requestedAt": "2026-11-23T09:54:24Z"
       },
       {
+        "number": 8777,
+        "title": "feat(app): [medium] enable fast recheck by default",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/8777",
+        "repo": "celestia-app",
+        "author": "rach-id",
+        "authorCategory": "coworker",
+        "reviewer": "ninabarbakadze",
+        "requestedAt": "2026-11-23T10:28:38Z"
+      },
+      {
         "number": 3782,
         "title": "fix(propagation): [high] bound per-peer round state inside PeerState (backport #3674)",
         "url": "https://github.com/celestiaorg/celestia-core/pull/3782",
@@ -419,6 +429,16 @@
         "authorCategory": "coworker",
         "reviewer": "rootulp",
         "requestedAt": "2026-11-23T09:54:23Z"
+      },
+      {
+        "number": 8777,
+        "title": "feat(app): [medium] enable fast recheck by default",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/8777",
+        "repo": "celestia-app",
+        "author": "rach-id",
+        "authorCategory": "coworker",
+        "reviewer": "rootulp",
+        "requestedAt": "2026-11-23T10:28:37Z"
       },
       {
         "number": 3782,
@@ -712,5 +732,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-11-23T10:26:11.978Z"
+  "fetchedAt": "2026-11-23T10:31:12.306Z"
 }
