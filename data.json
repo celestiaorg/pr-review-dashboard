@@ -47,16 +47,6 @@
     ],
     "rach-id": [
       {
-        "number": 3765,
-        "title": "fix(rpc): [high] reject out of range chunks in genesis_chunked",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3765",
-        "repo": "celestia-core",
-        "author": "ninabarbakadze",
-        "authorCategory": "coworker",
-        "reviewer": "rach-id",
-        "requestedAt": "2026-11-20T14:10:09Z"
-      },
-      {
         "number": 3766,
         "title": "fix(light/rpc): [high] bind Block and BlockResults to the requested height",
         "url": "https://github.com/celestiaorg/celestia-core/pull/3766",
@@ -622,5 +612,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-11-23T15:11:38.481Z"
+  "fetchedAt": "2026-11-23T15:16:39.679Z"
 }
