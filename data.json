@@ -15,16 +15,6 @@
         "requestedAt": "2026-11-23T06:53:17Z"
       },
       {
-        "number": 8768,
-        "title": "feat(app)!: [high] lower MaxSDKMessages to 300 so per-block caps fit core's 1000-tx limit",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/8768",
-        "repo": "celestia-app",
-        "author": "rach-id",
-        "authorCategory": "coworker",
-        "reviewer": "ninabarbakadze",
-        "requestedAt": "2026-11-23T09:08:31Z"
-      },
-      {
         "number": 8770,
         "title": "feat(app)!: [high] raise GasPerAdditionalSDKMessage to 20,000",
         "url": "https://github.com/celestiaorg/celestia-app/pull/8770",
@@ -622,5 +612,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-11-23T14:11:37.678Z"
+  "fetchedAt": "2026-11-23T14:16:38.110Z"
 }
