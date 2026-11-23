@@ -435,15 +435,6 @@
       "waitingSince": "2026-11-11T10:36:13Z"
     },
     {
-      "number": 36,
-      "title": "chore: [low] simplify pull request template",
-      "url": "https://github.com/celestiaorg/ibc-go/pull/36",
-      "repo": "ibc-go",
-      "author": "damiannolan",
-      "authorCategory": "coworker",
-      "waitingSince": "2026-11-23T15:56:47Z"
-    },
-    {
       "number": 1,
       "title": "chore(deps): bump the go_modules group across 2 directories with 9 updates",
       "url": "https://github.com/celestiaorg/hyperlane-cosmos/pull/1",
@@ -572,5 +563,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-11-23T16:31:39.372Z"
+  "fetchedAt": "2026-11-23T16:36:39.890Z"
 }
