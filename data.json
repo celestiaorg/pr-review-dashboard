@@ -123,6 +123,16 @@
     ],
     "vgonkivs": [
       {
+        "number": 5435,
+        "title": "fix(nodebuilder/p2p): make rcmgr admit at least ConnManager.High connections",
+        "url": "https://github.com/celestiaorg/celestia-node/pull/5435",
+        "repo": "celestia-node",
+        "author": "renaynay",
+        "authorCategory": "coworker",
+        "reviewer": "vgonkivs",
+        "requestedAt": "2026-11-23T19:28:22Z"
+      },
+      {
         "number": 5432,
         "title": "chore(deps): [medium] bump golang from 1.27.3-alpine3.23 to 1.27.4-alpine3.23 in the patch-updates group",
         "url": "https://github.com/celestiaorg/celestia-node/pull/5432",
@@ -204,6 +214,16 @@
         "authorCategory": "coworker",
         "reviewer": "walldiss",
         "requestedAt": "2026-11-22T22:47:25Z"
+      },
+      {
+        "number": 5435,
+        "title": "fix(nodebuilder/p2p): make rcmgr admit at least ConnManager.High connections",
+        "url": "https://github.com/celestiaorg/celestia-node/pull/5435",
+        "repo": "celestia-node",
+        "author": "renaynay",
+        "authorCategory": "coworker",
+        "reviewer": "walldiss",
+        "requestedAt": "2026-11-23T19:28:23Z"
       },
       {
         "number": 5432,
@@ -396,5 +416,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-11-23T19:23:31.598Z"
+  "fetchedAt": "2026-11-23T19:28:32.912Z"
 }
