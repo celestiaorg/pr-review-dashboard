@@ -73,6 +73,36 @@
         "authorCategory": "coworker",
         "reviewer": "ninabarbakadze",
         "requestedAt": "2026-11-23T14:45:56Z"
+      },
+      {
+        "number": 253,
+        "title": "perf(codec/address): [high] cache Bech32Codec conversions",
+        "url": "https://github.com/celestiaorg/cosmos-sdk/pull/253",
+        "repo": "cosmos-sdk",
+        "author": "rach-id",
+        "authorCategory": "coworker",
+        "reviewer": "ninabarbakadze",
+        "requestedAt": "2026-11-23T14:48:33Z"
+      },
+      {
+        "number": 254,
+        "title": "perf(baseapp,x/distribution): [high] add a blocksync-events-off option",
+        "url": "https://github.com/celestiaorg/cosmos-sdk/pull/254",
+        "repo": "cosmos-sdk",
+        "author": "rach-id",
+        "authorCategory": "coworker",
+        "reviewer": "ninabarbakadze",
+        "requestedAt": "2026-11-23T14:48:41Z"
+      },
+      {
+        "number": 255,
+        "title": "test(simapp): [low] differential test of the execution caches",
+        "url": "https://github.com/celestiaorg/cosmos-sdk/pull/255",
+        "repo": "cosmos-sdk",
+        "author": "rach-id",
+        "authorCategory": "coworker",
+        "reviewer": "ninabarbakadze",
+        "requestedAt": "2026-11-23T14:50:37Z"
       }
     ],
     "rach-id": [
@@ -311,6 +341,36 @@
         "requestedAt": "2026-11-23T14:45:55Z"
       },
       {
+        "number": 253,
+        "title": "perf(codec/address): [high] cache Bech32Codec conversions",
+        "url": "https://github.com/celestiaorg/cosmos-sdk/pull/253",
+        "repo": "cosmos-sdk",
+        "author": "rach-id",
+        "authorCategory": "coworker",
+        "reviewer": "rootulp",
+        "requestedAt": "2026-11-23T14:48:32Z"
+      },
+      {
+        "number": 254,
+        "title": "perf(baseapp,x/distribution): [high] add a blocksync-events-off option",
+        "url": "https://github.com/celestiaorg/cosmos-sdk/pull/254",
+        "repo": "cosmos-sdk",
+        "author": "rach-id",
+        "authorCategory": "coworker",
+        "reviewer": "rootulp",
+        "requestedAt": "2026-11-23T14:48:40Z"
+      },
+      {
+        "number": 255,
+        "title": "test(simapp): [low] differential test of the execution caches",
+        "url": "https://github.com/celestiaorg/cosmos-sdk/pull/255",
+        "repo": "cosmos-sdk",
+        "author": "rach-id",
+        "authorCategory": "coworker",
+        "reviewer": "rootulp",
+        "requestedAt": "2026-11-23T14:50:36Z"
+      },
+      {
         "number": 3782,
         "title": "fix(propagation): [high] bound per-peer round state inside PeerState (backport #3674)",
         "url": "https://github.com/celestiaorg/celestia-core/pull/3782",
@@ -341,16 +401,6 @@
         "authorCategory": "coworker",
         "reviewer": "vgonkivs",
         "requestedAt": "2026-11-22T22:47:24Z"
-      },
-      {
-        "number": 5425,
-        "title": "fix(api/rpc): [high] limit the request body before authentication",
-        "url": "https://github.com/celestiaorg/celestia-node/pull/5425",
-        "repo": "celestia-node",
-        "author": "ninabarbakadze",
-        "authorCategory": "coworker",
-        "reviewer": "vgonkivs",
-        "requestedAt": "2026-11-23T12:03:34Z"
       },
       {
         "number": 5432,
@@ -436,16 +486,6 @@
         "requestedAt": "2026-11-22T22:47:25Z"
       },
       {
-        "number": 5425,
-        "title": "fix(api/rpc): [high] limit the request body before authentication",
-        "url": "https://github.com/celestiaorg/celestia-node/pull/5425",
-        "repo": "celestia-node",
-        "author": "ninabarbakadze",
-        "authorCategory": "coworker",
-        "reviewer": "walldiss",
-        "requestedAt": "2026-11-23T12:03:35Z"
-      },
-      {
         "number": 5432,
         "title": "chore(deps): [medium] bump golang from 1.27.3-alpine3.23 to 1.27.4-alpine3.23 in the patch-updates group",
         "url": "https://github.com/celestiaorg/celestia-node/pull/5432",
@@ -522,33 +562,6 @@
       "author": "damiannolan",
       "authorCategory": "coworker",
       "waitingSince": "2026-11-23T11:49:23Z"
-    },
-    {
-      "number": 253,
-      "title": "perf(codec/address): [high] cache Bech32Codec conversions",
-      "url": "https://github.com/celestiaorg/cosmos-sdk/pull/253",
-      "repo": "cosmos-sdk",
-      "author": "rach-id",
-      "authorCategory": "coworker",
-      "waitingSince": "2026-11-23T14:40:09Z"
-    },
-    {
-      "number": 254,
-      "title": "perf(baseapp,x/distribution): [high] add a blocksync-events-off option",
-      "url": "https://github.com/celestiaorg/cosmos-sdk/pull/254",
-      "repo": "cosmos-sdk",
-      "author": "rach-id",
-      "authorCategory": "coworker",
-      "waitingSince": "2026-11-23T14:40:11Z"
-    },
-    {
-      "number": 255,
-      "title": "test(simapp): [low] differential test of the execution caches",
-      "url": "https://github.com/celestiaorg/cosmos-sdk/pull/255",
-      "repo": "cosmos-sdk",
-      "author": "rach-id",
-      "authorCategory": "coworker",
-      "waitingSince": "2026-11-23T14:40:12Z"
     },
     {
       "number": 1,
@@ -679,5 +692,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-11-23T14:46:38.787Z"
+  "fetchedAt": "2026-11-23T14:51:38.711Z"
 }
