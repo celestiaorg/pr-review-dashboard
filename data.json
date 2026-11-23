@@ -65,6 +65,46 @@
         "requestedAt": "2026-11-23T04:58:50Z"
       },
       {
+        "number": 8753,
+        "title": "fix(app): [high] filter unsupported packet-forward memos in CheckTx and PrepareProposal (v11.x) (backport #8675)",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/8753",
+        "repo": "celestia-app",
+        "author": "rootulp",
+        "authorCategory": "coworker",
+        "reviewer": "ninabarbakadze",
+        "requestedAt": "2026-11-23T05:22:57Z"
+      },
+      {
+        "number": 8754,
+        "title": "fix(app): [high] limit depth, repeated keys and next forms of packet-forward memos in the mempool filter (v11.x) (backport #8676)",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/8754",
+        "repo": "celestia-app",
+        "author": "rootulp",
+        "authorCategory": "coworker",
+        "reviewer": "ninabarbakadze",
+        "requestedAt": "2026-11-23T05:23:02Z"
+      },
+      {
+        "number": 8755,
+        "title": "test(app): [medium] add the PFM filter cost test and the memo admission interop test (v11.x) (backport #8677)",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/8755",
+        "repo": "celestia-app",
+        "author": "rootulp",
+        "authorCategory": "coworker",
+        "reviewer": "ninabarbakadze",
+        "requestedAt": "2026-11-23T05:23:22Z"
+      },
+      {
+        "number": 8760,
+        "title": "test(app): [low] fuzz the packet-forward memo filter (v11.x)",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/8760",
+        "repo": "celestia-app",
+        "author": "rootulp",
+        "authorCategory": "coworker",
+        "reviewer": "ninabarbakadze",
+        "requestedAt": "2026-11-23T05:23:29Z"
+      },
+      {
         "number": 3782,
         "title": "fix(propagation): [high] bound per-peer round state inside PeerState (backport #3674)",
         "url": "https://github.com/celestiaorg/celestia-core/pull/3782",
@@ -135,6 +175,46 @@
         "authorCategory": "coworker",
         "reviewer": "rach-id",
         "requestedAt": "2026-11-23T04:58:49Z"
+      },
+      {
+        "number": 8753,
+        "title": "fix(app): [high] filter unsupported packet-forward memos in CheckTx and PrepareProposal (v11.x) (backport #8675)",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/8753",
+        "repo": "celestia-app",
+        "author": "rootulp",
+        "authorCategory": "coworker",
+        "reviewer": "rach-id",
+        "requestedAt": "2026-11-23T05:22:56Z"
+      },
+      {
+        "number": 8754,
+        "title": "fix(app): [high] limit depth, repeated keys and next forms of packet-forward memos in the mempool filter (v11.x) (backport #8676)",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/8754",
+        "repo": "celestia-app",
+        "author": "rootulp",
+        "authorCategory": "coworker",
+        "reviewer": "rach-id",
+        "requestedAt": "2026-11-23T05:23:01Z"
+      },
+      {
+        "number": 8755,
+        "title": "test(app): [medium] add the PFM filter cost test and the memo admission interop test (v11.x) (backport #8677)",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/8755",
+        "repo": "celestia-app",
+        "author": "rootulp",
+        "authorCategory": "coworker",
+        "reviewer": "rach-id",
+        "requestedAt": "2026-11-23T05:23:21Z"
+      },
+      {
+        "number": 8760,
+        "title": "test(app): [low] fuzz the packet-forward memo filter (v11.x)",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/8760",
+        "repo": "celestia-app",
+        "author": "rootulp",
+        "authorCategory": "coworker",
+        "reviewer": "rach-id",
+        "requestedAt": "2026-11-23T05:23:28Z"
       },
       {
         "number": 3782,
@@ -432,5 +512,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-11-23T05:20:45.501Z"
+  "fetchedAt": "2026-11-23T05:25:45.489Z"
 }
