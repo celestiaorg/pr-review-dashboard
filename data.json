@@ -159,6 +159,16 @@
     ],
     "renaynay": [
       {
+        "number": 5425,
+        "title": "fix(api/rpc): [high] limit the request body before authentication",
+        "url": "https://github.com/celestiaorg/celestia-node/pull/5425",
+        "repo": "celestia-node",
+        "author": "ninabarbakadze",
+        "authorCategory": "coworker",
+        "reviewer": "renaynay",
+        "requestedAt": "2026-11-20T14:15:28Z"
+      },
+      {
         "number": 5426,
         "title": "fix(api/rpc): [high] limit open connections at the listener",
         "url": "https://github.com/celestiaorg/celestia-node/pull/5426",
@@ -403,6 +413,26 @@
         "requestedAt": "2026-11-22T22:47:24Z"
       },
       {
+        "number": 5428,
+        "title": "fix(share/shwap): [high] reject proofs with nodes of the wrong size",
+        "url": "https://github.com/celestiaorg/celestia-node/pull/5428",
+        "repo": "celestia-node",
+        "author": "ninabarbakadze",
+        "authorCategory": "coworker",
+        "reviewer": "vgonkivs",
+        "requestedAt": "2026-11-23T12:01:16Z"
+      },
+      {
+        "number": 5425,
+        "title": "fix(api/rpc): [high] limit the request body before authentication",
+        "url": "https://github.com/celestiaorg/celestia-node/pull/5425",
+        "repo": "celestia-node",
+        "author": "ninabarbakadze",
+        "authorCategory": "coworker",
+        "reviewer": "vgonkivs",
+        "requestedAt": "2026-11-23T12:03:34Z"
+      },
+      {
         "number": 5432,
         "title": "chore(deps): [medium] bump golang from 1.27.3-alpine3.23 to 1.27.4-alpine3.23 in the patch-updates group",
         "url": "https://github.com/celestiaorg/celestia-node/pull/5432",
@@ -484,6 +514,26 @@
         "authorCategory": "coworker",
         "reviewer": "walldiss",
         "requestedAt": "2026-11-22T22:47:25Z"
+      },
+      {
+        "number": 5428,
+        "title": "fix(share/shwap): [high] reject proofs with nodes of the wrong size",
+        "url": "https://github.com/celestiaorg/celestia-node/pull/5428",
+        "repo": "celestia-node",
+        "author": "ninabarbakadze",
+        "authorCategory": "coworker",
+        "reviewer": "walldiss",
+        "requestedAt": "2026-11-23T12:01:17Z"
+      },
+      {
+        "number": 5425,
+        "title": "fix(api/rpc): [high] limit the request body before authentication",
+        "url": "https://github.com/celestiaorg/celestia-node/pull/5425",
+        "repo": "celestia-node",
+        "author": "ninabarbakadze",
+        "authorCategory": "coworker",
+        "reviewer": "walldiss",
+        "requestedAt": "2026-11-23T12:03:35Z"
       },
       {
         "number": 5432,
@@ -692,5 +742,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-11-23T12:01:12.954Z"
+  "fetchedAt": "2026-11-23T12:06:13.264Z"
 }
