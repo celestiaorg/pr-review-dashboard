@@ -299,6 +299,16 @@
     ],
     "renaynay": [
       {
+        "number": 5426,
+        "title": "fix(api/rpc): [high] limit open connections at the listener",
+        "url": "https://github.com/celestiaorg/celestia-node/pull/5426",
+        "repo": "celestia-node",
+        "author": "ninabarbakadze",
+        "authorCategory": "coworker",
+        "reviewer": "renaynay",
+        "requestedAt": "2026-11-20T14:15:49Z"
+      },
+      {
         "number": 5427,
         "title": "fix(core): [high] back off between new height subscription retries",
         "url": "https://github.com/celestiaorg/celestia-node/pull/5427",
@@ -337,6 +347,16 @@
         "authorCategory": "bot",
         "reviewer": "renaynay",
         "requestedAt": "2026-11-23T11:06:01Z"
+      },
+      {
+        "number": 5434,
+        "title": "chore(deps): [medium] bump the go-deps group across 2 directories with 5 updates",
+        "url": "https://github.com/celestiaorg/celestia-node/pull/5434",
+        "repo": "celestia-node",
+        "author": "dependabot",
+        "authorCategory": "bot",
+        "reviewer": "renaynay",
+        "requestedAt": "2026-11-23T11:06:30Z"
       }
     ],
     "rootulp": [
@@ -533,6 +553,16 @@
         "requestedAt": "2026-11-22T22:47:24Z"
       },
       {
+        "number": 5426,
+        "title": "fix(api/rpc): [high] limit open connections at the listener",
+        "url": "https://github.com/celestiaorg/celestia-node/pull/5426",
+        "repo": "celestia-node",
+        "author": "ninabarbakadze",
+        "authorCategory": "coworker",
+        "reviewer": "vgonkivs",
+        "requestedAt": "2026-11-23T11:07:14Z"
+      },
+      {
         "number": 5432,
         "title": "chore(deps): [medium] bump golang from 1.27.3-alpine3.23 to 1.27.4-alpine3.23 in the patch-updates group",
         "url": "https://github.com/celestiaorg/celestia-node/pull/5432",
@@ -551,6 +581,16 @@
         "authorCategory": "bot",
         "reviewer": "vgonkivs",
         "requestedAt": "2026-11-23T11:05:59Z"
+      },
+      {
+        "number": 5434,
+        "title": "chore(deps): [medium] bump the go-deps group across 2 directories with 5 updates",
+        "url": "https://github.com/celestiaorg/celestia-node/pull/5434",
+        "repo": "celestia-node",
+        "author": "dependabot",
+        "authorCategory": "bot",
+        "reviewer": "vgonkivs",
+        "requestedAt": "2026-11-23T11:06:28Z"
       },
       {
         "number": 5190,
@@ -606,6 +646,16 @@
         "requestedAt": "2026-11-22T22:47:25Z"
       },
       {
+        "number": 5426,
+        "title": "fix(api/rpc): [high] limit open connections at the listener",
+        "url": "https://github.com/celestiaorg/celestia-node/pull/5426",
+        "repo": "celestia-node",
+        "author": "ninabarbakadze",
+        "authorCategory": "coworker",
+        "reviewer": "walldiss",
+        "requestedAt": "2026-11-23T11:07:15Z"
+      },
+      {
         "number": 5432,
         "title": "chore(deps): [medium] bump golang from 1.27.3-alpine3.23 to 1.27.4-alpine3.23 in the patch-updates group",
         "url": "https://github.com/celestiaorg/celestia-node/pull/5432",
@@ -624,6 +674,16 @@
         "authorCategory": "bot",
         "reviewer": "walldiss",
         "requestedAt": "2026-11-23T11:06:00Z"
+      },
+      {
+        "number": 5434,
+        "title": "chore(deps): [medium] bump the go-deps group across 2 directories with 5 updates",
+        "url": "https://github.com/celestiaorg/celestia-node/pull/5434",
+        "repo": "celestia-node",
+        "author": "dependabot",
+        "authorCategory": "bot",
+        "reviewer": "walldiss",
+        "requestedAt": "2026-11-23T11:06:29Z"
       }
     ]
   },
@@ -793,5 +853,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-11-23T11:06:13.188Z"
+  "fetchedAt": "2026-11-23T11:11:12.678Z"
 }
