@@ -15,16 +15,6 @@
         "requestedAt": "2026-11-23T15:18:40Z"
       },
       {
-        "number": 8784,
-        "title": "ci: [low] let the merge queue use a paid runner pool",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/8784",
-        "repo": "celestia-app",
-        "author": "rootulp",
-        "authorCategory": "coworker",
-        "reviewer": "ninabarbakadze",
-        "requestedAt": "2026-11-23T18:36:50Z"
-      },
-      {
         "number": 8775,
         "title": "test(app): [low] check fast recheck replays against changes to unread state",
         "url": "https://github.com/celestiaorg/celestia-app/pull/8775",
@@ -204,16 +194,6 @@
         "authorCategory": "coworker",
         "reviewer": "walldiss",
         "requestedAt": "2026-11-19T16:04:33Z"
-      },
-      {
-        "number": 5424,
-        "title": "fix(store/file): [medium] deduplicate concurrent ODS cache fills",
-        "url": "https://github.com/celestiaorg/celestia-node/pull/5424",
-        "repo": "celestia-node",
-        "author": "vgonkivs",
-        "authorCategory": "coworker",
-        "reviewer": "walldiss",
-        "requestedAt": "2026-11-20T12:28:52Z"
       },
       {
         "number": 5430,
@@ -416,5 +396,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-11-23T19:18:31.315Z"
+  "fetchedAt": "2026-11-23T19:23:31.598Z"
 }
