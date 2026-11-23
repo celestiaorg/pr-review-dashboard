@@ -231,16 +231,6 @@
         "requestedAt": "2026-11-23T10:28:37Z"
       },
       {
-        "number": 8782,
-        "title": "test(interop): [low] fuzz ICA host OnRecvPacket and OnChanOpenTry",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/8782",
-        "repo": "celestia-app",
-        "author": "damiannolan",
-        "authorCategory": "coworker",
-        "reviewer": "rootulp",
-        "requestedAt": "2026-11-23T13:38:39Z"
-      },
-      {
         "number": 8749,
         "title": "perf(fibre): [high] per-signer promise cache locks and derived budget",
         "url": "https://github.com/celestiaorg/celestia-app/pull/8749",
@@ -592,5 +582,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-11-23T14:26:38.351Z"
+  "fetchedAt": "2026-11-23T14:31:38.630Z"
 }
