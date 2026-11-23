@@ -482,24 +482,6 @@
       "waitingSince": "2026-11-14T05:11:10Z"
     },
     {
-      "number": 609,
-      "title": "chore(peers): [medium] refresh mocha-5 peers",
-      "url": "https://github.com/celestiaorg/networks/pull/609",
-      "repo": "networks",
-      "author": "github-actions",
-      "authorCategory": "bot",
-      "waitingSince": "2026-11-23T04:58:40Z"
-    },
-    {
-      "number": 610,
-      "title": "chore(peers): [medium] refresh mainnet peers + addrbook",
-      "url": "https://github.com/celestiaorg/networks/pull/610",
-      "repo": "networks",
-      "author": "github-actions",
-      "authorCategory": "bot",
-      "waitingSince": "2026-11-23T04:58:48Z"
-    },
-    {
       "number": 444,
       "title": "feat(sync): [high] trace Head stages and pruning",
       "url": "https://github.com/celestiaorg/go-header/pull/444",
@@ -583,5 +565,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-11-23T16:56:39.993Z"
+  "fetchedAt": "2026-11-23T17:01:40.163Z"
 }
