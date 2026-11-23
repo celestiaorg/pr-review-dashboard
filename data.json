@@ -25,16 +25,6 @@
         "requestedAt": "2026-11-22T22:43:36Z"
       },
       {
-        "number": 8759,
-        "title": "test(docker-e2e): [low] add a byzantine proposer test to the nightly",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/8759",
-        "repo": "celestia-app",
-        "author": "rootulp",
-        "authorCategory": "coworker",
-        "reviewer": "ninabarbakadze",
-        "requestedAt": "2026-11-23T04:58:50Z"
-      },
-      {
         "number": 8753,
         "title": "fix(app): [high] filter unsupported packet-forward memos in CheckTx and PrepareProposal (v11.x) (backport #8675)",
         "url": "https://github.com/celestiaorg/celestia-app/pull/8753",
@@ -53,26 +43,6 @@
         "authorCategory": "coworker",
         "reviewer": "ninabarbakadze",
         "requestedAt": "2026-11-23T05:23:02Z"
-      },
-      {
-        "number": 8755,
-        "title": "test(app): [medium] add the PFM filter cost test and the memo admission interop test (v11.x) (backport #8677)",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/8755",
-        "repo": "celestia-app",
-        "author": "rootulp",
-        "authorCategory": "coworker",
-        "reviewer": "ninabarbakadze",
-        "requestedAt": "2026-11-23T05:23:22Z"
-      },
-      {
-        "number": 8760,
-        "title": "test(app): [low] fuzz the packet-forward memo filter (v11.x)",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/8760",
-        "repo": "celestia-app",
-        "author": "rootulp",
-        "authorCategory": "coworker",
-        "reviewer": "ninabarbakadze",
-        "requestedAt": "2026-11-23T05:23:29Z"
       },
       {
         "number": 3778,
@@ -173,36 +143,6 @@
         "authorCategory": "coworker",
         "reviewer": "ninabarbakadze",
         "requestedAt": "2026-11-23T09:16:48Z"
-      },
-      {
-        "number": 8766,
-        "title": "test(app): [low] fuzz fast recheck against a full recheck",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/8766",
-        "repo": "celestia-app",
-        "author": "rach-id",
-        "authorCategory": "coworker",
-        "reviewer": "ninabarbakadze",
-        "requestedAt": "2026-11-23T09:17:15Z"
-      },
-      {
-        "number": 8775,
-        "title": "test(app): [low] check fast recheck replays against changes to unread state",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/8775",
-        "repo": "celestia-app",
-        "author": "rach-id",
-        "authorCategory": "coworker",
-        "reviewer": "ninabarbakadze",
-        "requestedAt": "2026-11-23T09:54:24Z"
-      },
-      {
-        "number": 8777,
-        "title": "feat(app): [medium] enable fast recheck by default",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/8777",
-        "repo": "celestia-app",
-        "author": "rach-id",
-        "authorCategory": "coworker",
-        "reviewer": "ninabarbakadze",
-        "requestedAt": "2026-11-23T10:28:38Z"
       },
       {
         "number": 3782,
@@ -463,16 +403,6 @@
         "requestedAt": "2026-11-22T22:47:24Z"
       },
       {
-        "number": 5426,
-        "title": "fix(api/rpc): [high] limit open connections at the listener",
-        "url": "https://github.com/celestiaorg/celestia-node/pull/5426",
-        "repo": "celestia-node",
-        "author": "ninabarbakadze",
-        "authorCategory": "coworker",
-        "reviewer": "vgonkivs",
-        "requestedAt": "2026-11-23T11:07:14Z"
-      },
-      {
         "number": 5432,
         "title": "chore(deps): [medium] bump golang from 1.27.3-alpine3.23 to 1.27.4-alpine3.23 in the patch-updates group",
         "url": "https://github.com/celestiaorg/celestia-node/pull/5432",
@@ -556,16 +486,6 @@
         "requestedAt": "2026-11-22T22:47:25Z"
       },
       {
-        "number": 5426,
-        "title": "fix(api/rpc): [high] limit open connections at the listener",
-        "url": "https://github.com/celestiaorg/celestia-node/pull/5426",
-        "repo": "celestia-node",
-        "author": "ninabarbakadze",
-        "authorCategory": "coworker",
-        "reviewer": "walldiss",
-        "requestedAt": "2026-11-23T11:07:15Z"
-      },
-      {
         "number": 5432,
         "title": "chore(deps): [medium] bump golang from 1.27.3-alpine3.23 to 1.27.4-alpine3.23 in the patch-updates group",
         "url": "https://github.com/celestiaorg/celestia-node/pull/5432",
@@ -633,6 +553,15 @@
       "author": "citizen-stig",
       "authorCategory": "coworker",
       "waitingSince": "2026-11-11T10:36:13Z"
+    },
+    {
+      "number": 34,
+      "title": "test(e2e): [low] restore v8 test suites and CI",
+      "url": "https://github.com/celestiaorg/ibc-go/pull/34",
+      "repo": "ibc-go",
+      "author": "damiannolan",
+      "authorCategory": "coworker",
+      "waitingSince": "2026-11-23T11:49:23Z"
     },
     {
       "number": 1,
@@ -763,5 +692,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-11-23T11:46:12.984Z"
+  "fetchedAt": "2026-11-23T11:51:13.028Z"
 }
