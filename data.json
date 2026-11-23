@@ -103,7 +103,7 @@
     "vgonkivs": [
       {
         "number": 5435,
-        "title": "fix(nodebuilder/p2p): make rcmgr admit at least ConnManager.High connections",
+        "title": "fix(nodebuilder/p2p): [medium] make rcmgr admit at least ConnManager.High connections",
         "url": "https://github.com/celestiaorg/celestia-node/pull/5435",
         "repo": "celestia-node",
         "author": "renaynay",
@@ -196,7 +196,7 @@
       },
       {
         "number": 5435,
-        "title": "fix(nodebuilder/p2p): make rcmgr admit at least ConnManager.High connections",
+        "title": "fix(nodebuilder/p2p): [medium] make rcmgr admit at least ConnManager.High connections",
         "url": "https://github.com/celestiaorg/celestia-node/pull/5435",
         "repo": "celestia-node",
         "author": "renaynay",
@@ -395,5 +395,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-11-23T19:38:32.546Z"
+  "fetchedAt": "2026-11-23T19:43:32.002Z"
 }
