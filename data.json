@@ -43,6 +43,16 @@
         "authorCategory": "coworker",
         "reviewer": "ninabarbakadze",
         "requestedAt": "2026-11-23T20:35:57Z"
+      },
+      {
+        "number": 8793,
+        "title": "chore(deps): [high] bump celestia-core to v0.43.0-rc2",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/8793",
+        "repo": "celestia-app",
+        "author": "rach-id",
+        "authorCategory": "coworker",
+        "reviewer": "ninabarbakadze",
+        "requestedAt": "2026-11-24T04:11:02Z"
       }
     ],
     "rach-id": [
@@ -169,7 +179,18 @@
         "requestedAt": "2026-11-23T11:06:30Z"
       }
     ],
-    "rootulp": [],
+    "rootulp": [
+      {
+        "number": 8793,
+        "title": "chore(deps): [high] bump celestia-core to v0.43.0-rc2",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/8793",
+        "repo": "celestia-app",
+        "author": "rach-id",
+        "authorCategory": "coworker",
+        "reviewer": "rootulp",
+        "requestedAt": "2026-11-24T04:11:00Z"
+      }
+    ],
     "vgonkivs": [
       {
         "number": 5435,
@@ -455,5 +476,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-11-24T04:08:56.942Z"
+  "fetchedAt": "2026-11-24T04:13:58.009Z"
 }
