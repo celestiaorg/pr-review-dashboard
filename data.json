@@ -47,18 +47,7 @@
         "requestedAt": "2026-11-23T10:31:14Z"
       }
     ],
-    "renaynay": [
-      {
-        "number": 5422,
-        "title": "fix(rpc)!: [high] harden read request handling",
-        "url": "https://github.com/celestiaorg/celestia-node/pull/5422",
-        "repo": "celestia-node",
-        "author": "damiannolan",
-        "authorCategory": "coworker",
-        "reviewer": "renaynay",
-        "requestedAt": "2026-11-24T14:09:15Z"
-      }
-    ],
+    "renaynay": [],
     "rootulp": [
       {
         "number": 3812,
@@ -115,16 +104,6 @@
     ],
     "theodorebugnet": [],
     "walldiss": [
-      {
-        "number": 5422,
-        "title": "fix(rpc)!: [high] harden read request handling",
-        "url": "https://github.com/celestiaorg/celestia-node/pull/5422",
-        "repo": "celestia-node",
-        "author": "damiannolan",
-        "authorCategory": "coworker",
-        "reviewer": "walldiss",
-        "requestedAt": "2026-11-19T16:04:33Z"
-      },
       {
         "number": 46,
         "title": "chore(deps): [medium] bump bytes from 1.12.1 to 1.12.2 in /clients/rust in the cargo-deps group",
@@ -277,5 +256,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-11-24T14:26:39.396Z"
+  "fetchedAt": "2026-11-24T14:31:39.796Z"
 }
