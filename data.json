@@ -5,16 +5,6 @@
     "damiannolan": [],
     "ninabarbakadze": [
       {
-        "number": 8786,
-        "title": "feat(encoding)!: [high] decode txs with the SDK StrictTxDecoder",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/8786",
-        "repo": "celestia-app",
-        "author": "rootulp",
-        "authorCategory": "coworker",
-        "reviewer": "ninabarbakadze",
-        "requestedAt": "2026-11-23T20:27:02Z"
-      },
-      {
         "number": 278,
         "title": "fix(store): [medium] read a store that did not exist at a version as empty in CacheMultiStoreWithVersion",
         "url": "https://github.com/celestiaorg/cosmos-sdk/pull/278",
@@ -33,16 +23,6 @@
         "authorCategory": "coworker",
         "reviewer": "ninabarbakadze",
         "requestedAt": "2026-11-24T20:33:18Z"
-      },
-      {
-        "number": 8787,
-        "title": "test(encoding): [low] cover the strict tx decoder",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/8787",
-        "repo": "celestia-app",
-        "author": "rootulp",
-        "authorCategory": "coworker",
-        "reviewer": "ninabarbakadze",
-        "requestedAt": "2026-11-24T20:42:28Z"
       }
     ],
     "rach-id": [
@@ -65,26 +45,6 @@
         "authorCategory": "coworker",
         "reviewer": "rach-id",
         "requestedAt": "2026-11-24T20:33:16Z"
-      },
-      {
-        "number": 8786,
-        "title": "feat(encoding)!: [high] decode txs with the SDK StrictTxDecoder",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/8786",
-        "repo": "celestia-app",
-        "author": "rootulp",
-        "authorCategory": "coworker",
-        "reviewer": "rach-id",
-        "requestedAt": "2026-11-24T20:40:01Z"
-      },
-      {
-        "number": 8787,
-        "title": "test(encoding): [low] cover the strict tx decoder",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/8787",
-        "repo": "celestia-app",
-        "author": "rootulp",
-        "authorCategory": "coworker",
-        "reviewer": "rach-id",
-        "requestedAt": "2026-11-24T20:42:28Z"
       }
     ],
     "renaynay": [],
@@ -244,5 +204,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-11-24T22:12:39.909Z"
+  "fetchedAt": "2026-11-24T22:17:39.910Z"
 }
