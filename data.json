@@ -5,29 +5,9 @@
     "damiannolan": [],
     "ninabarbakadze": [
       {
-        "number": 8785,
-        "title": "refactor(encoding): [medium] add QueryTxConfig for reading committed txs",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/8785",
-        "repo": "celestia-app",
-        "author": "rootulp",
-        "authorCategory": "coworker",
-        "reviewer": "ninabarbakadze",
-        "requestedAt": "2026-11-23T20:27:00Z"
-      },
-      {
         "number": 8786,
         "title": "feat(encoding)!: [high] decode txs with the SDK StrictTxDecoder",
         "url": "https://github.com/celestiaorg/celestia-app/pull/8786",
-        "repo": "celestia-app",
-        "author": "rootulp",
-        "authorCategory": "coworker",
-        "reviewer": "ninabarbakadze",
-        "requestedAt": "2026-11-23T20:27:02Z"
-      },
-      {
-        "number": 8787,
-        "title": "test(encoding): [low] cover the strict tx decoder",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/8787",
         "repo": "celestia-app",
         "author": "rootulp",
         "authorCategory": "coworker",
@@ -55,14 +35,14 @@
         "requestedAt": "2026-11-24T11:46:22Z"
       },
       {
-        "number": 3811,
-        "title": "fix(consensus): [high] stop the maj23 query routine when its peer stops (backport #3809)",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3811",
-        "repo": "celestia-core",
-        "author": "mergify",
-        "authorCategory": "bot",
+        "number": 8798,
+        "title": "test(app): [low] keep valid PayForFibre txs behind ones that fail settlement",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/8798",
+        "repo": "celestia-app",
+        "author": "rach-id",
+        "authorCategory": "coworker",
         "reviewer": "ninabarbakadze",
-        "requestedAt": "2026-11-24T11:47:52Z"
+        "requestedAt": "2026-11-24T12:53:02Z"
       }
     ],
     "rach-id": [
@@ -85,6 +65,16 @@
         "authorCategory": "coworker",
         "reviewer": "rach-id",
         "requestedAt": "2026-11-24T12:43:20Z"
+      },
+      {
+        "number": 3813,
+        "title": "refactor(evidence): [medium] address review nits on the evidence queue",
+        "url": "https://github.com/celestiaorg/celestia-core/pull/3813",
+        "repo": "celestia-core",
+        "author": "ninabarbakadze",
+        "authorCategory": "coworker",
+        "reviewer": "rach-id",
+        "requestedAt": "2026-11-24T12:52:28Z"
       }
     ],
     "renaynay": [
@@ -107,16 +97,6 @@
         "authorCategory": "coworker",
         "reviewer": "renaynay",
         "requestedAt": "2026-11-23T19:12:43Z"
-      },
-      {
-        "number": 5426,
-        "title": "fix(api/rpc): [high] limit open connections at the listener",
-        "url": "https://github.com/celestiaorg/celestia-node/pull/5426",
-        "repo": "celestia-node",
-        "author": "ninabarbakadze",
-        "authorCategory": "coworker",
-        "reviewer": "renaynay",
-        "requestedAt": "2026-11-24T12:30:27Z"
       },
       {
         "number": 5432,
@@ -149,6 +129,26 @@
         "authorCategory": "coworker",
         "reviewer": "rootulp",
         "requestedAt": "2026-11-24T12:48:38Z"
+      },
+      {
+        "number": 3813,
+        "title": "refactor(evidence): [medium] address review nits on the evidence queue",
+        "url": "https://github.com/celestiaorg/celestia-core/pull/3813",
+        "repo": "celestia-core",
+        "author": "ninabarbakadze",
+        "authorCategory": "coworker",
+        "reviewer": "rootulp",
+        "requestedAt": "2026-11-24T12:52:42Z"
+      },
+      {
+        "number": 8798,
+        "title": "test(app): [low] keep valid PayForFibre txs behind ones that fail settlement",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/8798",
+        "repo": "celestia-app",
+        "author": "rach-id",
+        "authorCategory": "coworker",
+        "reviewer": "rootulp",
+        "requestedAt": "2026-11-24T12:53:01Z"
       },
       {
         "number": 3811,
@@ -386,5 +386,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-11-24T12:51:38.145Z"
+  "fetchedAt": "2026-11-24T12:56:39.042Z"
 }
