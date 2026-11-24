@@ -67,36 +67,6 @@
         "requestedAt": "2026-11-23T10:31:14Z"
       },
       {
-        "number": 8785,
-        "title": "refactor(encoding): [medium] add QueryTxConfig for reading committed txs",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/8785",
-        "repo": "celestia-app",
-        "author": "rootulp",
-        "authorCategory": "coworker",
-        "reviewer": "rach-id",
-        "requestedAt": "2026-11-23T20:26:59Z"
-      },
-      {
-        "number": 8786,
-        "title": "feat(encoding)!: [high] decode txs with the SDK StrictTxDecoder",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/8786",
-        "repo": "celestia-app",
-        "author": "rootulp",
-        "authorCategory": "coworker",
-        "reviewer": "rach-id",
-        "requestedAt": "2026-11-23T20:27:00Z"
-      },
-      {
-        "number": 8787,
-        "title": "test(encoding): [low] cover the strict tx decoder",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/8787",
-        "repo": "celestia-app",
-        "author": "rootulp",
-        "authorCategory": "coworker",
-        "reviewer": "rach-id",
-        "requestedAt": "2026-11-23T20:27:01Z"
-      },
-      {
         "number": 3787,
         "title": "fix(propagation): [high] give each peer its own share of the stored parts budget",
         "url": "https://github.com/celestiaorg/celestia-core/pull/3787",
@@ -476,5 +446,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-11-24T04:13:58.009Z"
+  "fetchedAt": "2026-11-24T04:18:57.514Z"
 }
