@@ -45,16 +45,6 @@
         "requestedAt": "2026-11-23T20:35:57Z"
       },
       {
-        "number": 8793,
-        "title": "chore(deps): [high] bump celestia-core to v0.43.0-rc2",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/8793",
-        "repo": "celestia-app",
-        "author": "rach-id",
-        "authorCategory": "coworker",
-        "reviewer": "ninabarbakadze",
-        "requestedAt": "2026-11-24T04:11:02Z"
-      },
-      {
         "number": 8794,
         "title": "refactor!: [medium] rename Go module to celestia-app/v12",
         "url": "https://github.com/celestiaorg/celestia-app/pull/8794",
@@ -159,7 +149,28 @@
         "requestedAt": "2026-11-23T11:06:30Z"
       }
     ],
-    "rootulp": [],
+    "rootulp": [
+      {
+        "number": 8794,
+        "title": "refactor!: [medium] rename Go module to celestia-app/v12",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/8794",
+        "repo": "celestia-app",
+        "author": "rach-id",
+        "authorCategory": "coworker",
+        "reviewer": "rootulp",
+        "requestedAt": "2026-11-24T08:08:57Z"
+      },
+      {
+        "number": 8796,
+        "title": "docs(specs): [low] add v12 spec pages",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/8796",
+        "repo": "celestia-app",
+        "author": "rach-id",
+        "authorCategory": "coworker",
+        "reviewer": "rootulp",
+        "requestedAt": "2026-11-24T08:10:52Z"
+      }
+    ],
     "vgonkivs": [
       {
         "number": 5435,
@@ -445,5 +456,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-11-24T08:06:15.115Z"
+  "fetchedAt": "2026-11-24T08:11:15.423Z"
 }
