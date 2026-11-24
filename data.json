@@ -45,40 +45,9 @@
         "authorCategory": "coworker",
         "reviewer": "rach-id",
         "requestedAt": "2026-11-23T10:31:14Z"
-      },
-      {
-        "number": 3815,
-        "title": "fix(propagation): [high] cap part requests at the parts still needed",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3815",
-        "repo": "celestia-core",
-        "author": "ninabarbakadze",
-        "authorCategory": "coworker",
-        "reviewer": "rach-id",
-        "requestedAt": "2026-11-24T13:09:23Z"
       }
     ],
-    "renaynay": [
-      {
-        "number": 5430,
-        "title": "fix(blob): [high] deduplicate GetAll namespaces and bound concurrency",
-        "url": "https://github.com/celestiaorg/celestia-node/pull/5430",
-        "repo": "celestia-node",
-        "author": "rootulp",
-        "authorCategory": "coworker",
-        "reviewer": "renaynay",
-        "requestedAt": "2026-11-22T22:47:26Z"
-      },
-      {
-        "number": 5432,
-        "title": "chore(deps): [medium] bump golang from 1.27.3-alpine3.23 to 1.27.4-alpine3.23 in the patch-updates group",
-        "url": "https://github.com/celestiaorg/celestia-node/pull/5432",
-        "repo": "celestia-node",
-        "author": "dependabot",
-        "authorCategory": "bot",
-        "reviewer": "renaynay",
-        "requestedAt": "2026-11-23T11:03:39Z"
-      }
-    ],
+    "renaynay": [],
     "rootulp": [
       {
         "number": 3812,
@@ -99,16 +68,6 @@
         "authorCategory": "coworker",
         "reviewer": "rootulp",
         "requestedAt": "2026-11-24T12:52:42Z"
-      },
-      {
-        "number": 3815,
-        "title": "fix(propagation): [high] cap part requests at the parts still needed",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3815",
-        "repo": "celestia-core",
-        "author": "ninabarbakadze",
-        "authorCategory": "coworker",
-        "reviewer": "rootulp",
-        "requestedAt": "2026-11-24T13:09:22Z"
       },
       {
         "number": 8799,
@@ -346,5 +305,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-11-24T13:31:39.152Z"
+  "fetchedAt": "2026-11-24T13:36:38.954Z"
 }
