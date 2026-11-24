@@ -25,16 +25,6 @@
         "requestedAt": "2026-11-23T20:35:57Z"
       },
       {
-        "number": 3810,
-        "title": "fix(propagation): [high] keep no state for peers stopped before AddPeer",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3810",
-        "repo": "celestia-core",
-        "author": "damiannolan",
-        "authorCategory": "coworker",
-        "reviewer": "ninabarbakadze",
-        "requestedAt": "2026-11-24T11:46:22Z"
-      },
-      {
         "number": 8798,
         "title": "test(app): [low] keep valid PayForFibre txs behind ones that fail settlement",
         "url": "https://github.com/celestiaorg/celestia-app/pull/8798",
@@ -43,6 +33,16 @@
         "authorCategory": "coworker",
         "reviewer": "ninabarbakadze",
         "requestedAt": "2026-11-24T12:53:02Z"
+      },
+      {
+        "number": 3814,
+        "title": "fix(propagation): [high] keep no state for peers stopped before AddPeer (backport #3810)",
+        "url": "https://github.com/celestiaorg/celestia-core/pull/3814",
+        "repo": "celestia-core",
+        "author": "mergify",
+        "authorCategory": "bot",
+        "reviewer": "ninabarbakadze",
+        "requestedAt": "2026-11-24T13:00:57Z"
       }
     ],
     "rach-id": [
@@ -75,6 +75,16 @@
         "authorCategory": "coworker",
         "reviewer": "rach-id",
         "requestedAt": "2026-11-24T12:52:28Z"
+      },
+      {
+        "number": 3814,
+        "title": "fix(propagation): [high] keep no state for peers stopped before AddPeer (backport #3810)",
+        "url": "https://github.com/celestiaorg/celestia-core/pull/3814",
+        "repo": "celestia-core",
+        "author": "mergify",
+        "authorCategory": "bot",
+        "reviewer": "rach-id",
+        "requestedAt": "2026-11-24T13:00:56Z"
       }
     ],
     "renaynay": [
@@ -110,16 +120,6 @@
       }
     ],
     "rootulp": [
-      {
-        "number": 3810,
-        "title": "fix(propagation): [high] keep no state for peers stopped before AddPeer",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3810",
-        "repo": "celestia-core",
-        "author": "damiannolan",
-        "authorCategory": "coworker",
-        "reviewer": "rootulp",
-        "requestedAt": "2026-11-24T11:46:20Z"
-      },
       {
         "number": 3812,
         "title": "fix(evidence): [high] add evidence repeated in a list once",
@@ -159,6 +159,16 @@
         "authorCategory": "bot",
         "reviewer": "rootulp",
         "requestedAt": "2026-11-24T11:47:50Z"
+      },
+      {
+        "number": 3814,
+        "title": "fix(propagation): [high] keep no state for peers stopped before AddPeer (backport #3810)",
+        "url": "https://github.com/celestiaorg/celestia-core/pull/3814",
+        "repo": "celestia-core",
+        "author": "mergify",
+        "authorCategory": "bot",
+        "reviewer": "rootulp",
+        "requestedAt": "2026-11-24T13:00:54Z"
       }
     ],
     "vgonkivs": [
@@ -386,5 +396,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-11-24T12:56:39.042Z"
+  "fetchedAt": "2026-11-24T13:01:38.351Z"
 }
