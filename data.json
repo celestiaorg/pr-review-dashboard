@@ -141,46 +141,6 @@
     "renaynay": [],
     "rootulp": [
       {
-        "number": 3812,
-        "title": "fix(evidence): [high] add evidence repeated in a list once",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3812",
-        "repo": "celestia-core",
-        "author": "ninabarbakadze",
-        "authorCategory": "coworker",
-        "reviewer": "rootulp",
-        "requestedAt": "2026-11-24T12:48:38Z"
-      },
-      {
-        "number": 3813,
-        "title": "refactor(evidence): [medium] address review nits on the evidence queue",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3813",
-        "repo": "celestia-core",
-        "author": "ninabarbakadze",
-        "authorCategory": "coworker",
-        "reviewer": "rootulp",
-        "requestedAt": "2026-11-24T12:52:42Z"
-      },
-      {
-        "number": 8799,
-        "title": "fix(ante): [medium] cache tx signatures only after the ante chain passes",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/8799",
-        "repo": "celestia-app",
-        "author": "rach-id",
-        "authorCategory": "coworker",
-        "reviewer": "rootulp",
-        "requestedAt": "2026-11-24T13:12:11Z"
-      },
-      {
-        "number": 8800,
-        "title": "perf(zkism): [medium] cache parsed Groth16 verifying keys",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/8800",
-        "repo": "celestia-app",
-        "author": "rach-id",
-        "authorCategory": "coworker",
-        "reviewer": "rootulp",
-        "requestedAt": "2026-11-24T14:51:45Z"
-      },
-      {
         "number": 8801,
         "title": "perf(zkism): [high] verify ZK proofs in parallel before FinalizeBlock",
         "url": "https://github.com/celestiaorg/celestia-app/pull/8801",
@@ -386,5 +346,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-11-24T15:21:40.852Z"
+  "fetchedAt": "2026-11-24T15:26:40.429Z"
 }
