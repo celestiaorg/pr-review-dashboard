@@ -53,6 +53,16 @@
         "authorCategory": "coworker",
         "reviewer": "ninabarbakadze",
         "requestedAt": "2026-11-24T10:29:21Z"
+      },
+      {
+        "number": 5435,
+        "title": "fix(nodebuilder/p2p): [medium] make rcmgr admit at least ConnManager.High connections",
+        "url": "https://github.com/celestiaorg/celestia-node/pull/5435",
+        "repo": "celestia-node",
+        "author": "renaynay",
+        "authorCategory": "coworker",
+        "reviewer": "ninabarbakadze",
+        "requestedAt": "2026-11-24T11:30:35Z"
       }
     ],
     "rach-id": [
@@ -385,5 +395,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-11-24T11:26:36.751Z"
+  "fetchedAt": "2026-11-24T11:31:37.111Z"
 }
