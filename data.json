@@ -77,6 +77,16 @@
         "requestedAt": "2026-11-24T12:52:28Z"
       },
       {
+        "number": 3815,
+        "title": "fix(propagation): [high] cap part requests at the parts still needed",
+        "url": "https://github.com/celestiaorg/celestia-core/pull/3815",
+        "repo": "celestia-core",
+        "author": "ninabarbakadze",
+        "authorCategory": "coworker",
+        "reviewer": "rach-id",
+        "requestedAt": "2026-11-24T13:09:23Z"
+      },
+      {
         "number": 3814,
         "title": "fix(propagation): [high] keep no state for peers stopped before AddPeer (backport #3810)",
         "url": "https://github.com/celestiaorg/celestia-core/pull/3814",
@@ -149,6 +159,16 @@
         "authorCategory": "coworker",
         "reviewer": "rootulp",
         "requestedAt": "2026-11-24T12:53:01Z"
+      },
+      {
+        "number": 3815,
+        "title": "fix(propagation): [high] cap part requests at the parts still needed",
+        "url": "https://github.com/celestiaorg/celestia-core/pull/3815",
+        "repo": "celestia-core",
+        "author": "ninabarbakadze",
+        "authorCategory": "coworker",
+        "reviewer": "rootulp",
+        "requestedAt": "2026-11-24T13:09:22Z"
       },
       {
         "number": 3811,
@@ -396,5 +416,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-11-24T13:06:38.317Z"
+  "fetchedAt": "2026-11-24T13:11:38.529Z"
 }
