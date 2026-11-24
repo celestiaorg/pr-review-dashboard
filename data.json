@@ -12,6 +12,16 @@
         "authorCategory": "coworker",
         "reviewer": "damiannolan",
         "requestedAt": "2026-11-24T14:51:26Z"
+      },
+      {
+        "number": 8801,
+        "title": "perf(zkism): [high] verify ZK proofs in parallel before FinalizeBlock",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/8801",
+        "repo": "celestia-app",
+        "author": "rach-id",
+        "authorCategory": "coworker",
+        "reviewer": "damiannolan",
+        "requestedAt": "2026-11-24T14:52:17Z"
       }
     ],
     "ninabarbakadze": [
@@ -44,6 +54,26 @@
         "authorCategory": "coworker",
         "reviewer": "ninabarbakadze",
         "requestedAt": "2026-11-24T13:12:11Z"
+      },
+      {
+        "number": 8800,
+        "title": "perf(zkism): [medium] cache parsed Groth16 verifying keys",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/8800",
+        "repo": "celestia-app",
+        "author": "rach-id",
+        "authorCategory": "coworker",
+        "reviewer": "ninabarbakadze",
+        "requestedAt": "2026-11-24T14:51:46Z"
+      },
+      {
+        "number": 8801,
+        "title": "perf(zkism): [high] verify ZK proofs in parallel before FinalizeBlock",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/8801",
+        "repo": "celestia-app",
+        "author": "rach-id",
+        "authorCategory": "coworker",
+        "reviewer": "ninabarbakadze",
+        "requestedAt": "2026-11-24T14:52:33Z"
       }
     ],
     "rach-id": [
@@ -89,6 +119,26 @@
         "authorCategory": "coworker",
         "reviewer": "rootulp",
         "requestedAt": "2026-11-24T13:12:11Z"
+      },
+      {
+        "number": 8800,
+        "title": "perf(zkism): [medium] cache parsed Groth16 verifying keys",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/8800",
+        "repo": "celestia-app",
+        "author": "rach-id",
+        "authorCategory": "coworker",
+        "reviewer": "rootulp",
+        "requestedAt": "2026-11-24T14:51:45Z"
+      },
+      {
+        "number": 8801,
+        "title": "perf(zkism): [high] verify ZK proofs in parallel before FinalizeBlock",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/8801",
+        "repo": "celestia-app",
+        "author": "rach-id",
+        "authorCategory": "coworker",
+        "reviewer": "rootulp",
+        "requestedAt": "2026-11-24T14:52:32Z"
       }
     ],
     "vgonkivs": [
@@ -267,5 +317,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-11-24T14:51:40.774Z"
+  "fetchedAt": "2026-11-24T14:56:40.128Z"
 }
