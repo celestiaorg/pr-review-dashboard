@@ -141,6 +141,16 @@
         "requestedAt": "2026-11-24T11:46:20Z"
       },
       {
+        "number": 3812,
+        "title": "fix(evidence): [high] add evidence repeated in a list once",
+        "url": "https://github.com/celestiaorg/celestia-core/pull/3812",
+        "repo": "celestia-core",
+        "author": "ninabarbakadze",
+        "authorCategory": "coworker",
+        "reviewer": "rootulp",
+        "requestedAt": "2026-11-24T12:48:38Z"
+      },
+      {
         "number": 3811,
         "title": "fix(consensus): [high] stop the maj23 query routine when its peer stops (backport #3809)",
         "url": "https://github.com/celestiaorg/celestia-core/pull/3811",
@@ -376,5 +386,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-11-24T12:46:37.833Z"
+  "fetchedAt": "2026-11-24T12:51:38.145Z"
 }
