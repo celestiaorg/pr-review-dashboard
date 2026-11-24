@@ -35,16 +35,6 @@
         "requestedAt": "2026-11-24T14:59:52Z"
       },
       {
-        "number": 3818,
-        "title": "docs: [low] require benchmarking PRs against base in agent rules",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3818",
-        "repo": "celestia-core",
-        "author": "rach-id",
-        "authorCategory": "coworker",
-        "reviewer": "ninabarbakadze",
-        "requestedAt": "2026-11-24T15:04:31Z"
-      },
-      {
         "number": 8803,
         "title": "docs: [low] require benchmarking PRs against base in agent rules",
         "url": "https://github.com/celestiaorg/celestia-app/pull/8803",
@@ -68,28 +58,7 @@
       }
     ],
     "renaynay": [],
-    "rootulp": [
-      {
-        "number": 3818,
-        "title": "docs: [low] require benchmarking PRs against base in agent rules",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3818",
-        "repo": "celestia-core",
-        "author": "rach-id",
-        "authorCategory": "coworker",
-        "reviewer": "rootulp",
-        "requestedAt": "2026-11-24T15:04:30Z"
-      },
-      {
-        "number": 8803,
-        "title": "docs: [low] require benchmarking PRs against base in agent rules",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/8803",
-        "repo": "celestia-app",
-        "author": "rach-id",
-        "authorCategory": "coworker",
-        "reviewer": "rootulp",
-        "requestedAt": "2026-11-24T15:04:56Z"
-      }
-    ],
+    "rootulp": [],
     "vgonkivs": [
       {
         "number": 48,
@@ -245,5 +214,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-11-24T20:17:13.856Z"
+  "fetchedAt": "2026-11-24T20:22:13.559Z"
 }
