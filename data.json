@@ -2,28 +2,7 @@
   "reviews": {
     "chatton": [],
     "pippokr": [],
-    "damiannolan": [
-      {
-        "number": 8800,
-        "title": "perf(zkism): [medium] cache parsed Groth16 verifying keys",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/8800",
-        "repo": "celestia-app",
-        "author": "rach-id",
-        "authorCategory": "coworker",
-        "reviewer": "damiannolan",
-        "requestedAt": "2026-11-24T14:51:26Z"
-      },
-      {
-        "number": 8801,
-        "title": "perf(zkism): [high] verify ZK proofs in parallel before FinalizeBlock",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/8801",
-        "repo": "celestia-app",
-        "author": "rach-id",
-        "authorCategory": "coworker",
-        "reviewer": "damiannolan",
-        "requestedAt": "2026-11-24T14:52:17Z"
-      }
-    ],
+    "damiannolan": [],
     "ninabarbakadze": [
       {
         "number": 8786,
@@ -44,26 +23,6 @@
         "authorCategory": "coworker",
         "reviewer": "ninabarbakadze",
         "requestedAt": "2026-11-23T20:35:57Z"
-      },
-      {
-        "number": 8800,
-        "title": "perf(zkism): [medium] cache parsed Groth16 verifying keys",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/8800",
-        "repo": "celestia-app",
-        "author": "rach-id",
-        "authorCategory": "coworker",
-        "reviewer": "ninabarbakadze",
-        "requestedAt": "2026-11-24T14:51:46Z"
-      },
-      {
-        "number": 8801,
-        "title": "perf(zkism): [high] verify ZK proofs in parallel before FinalizeBlock",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/8801",
-        "repo": "celestia-app",
-        "author": "rach-id",
-        "authorCategory": "coworker",
-        "reviewer": "ninabarbakadze",
-        "requestedAt": "2026-11-24T14:52:33Z"
       },
       {
         "number": 278,
@@ -276,5 +235,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-11-24T16:06:42.383Z"
+  "fetchedAt": "2026-11-24T16:11:41.390Z"
 }
