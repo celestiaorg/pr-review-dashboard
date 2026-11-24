@@ -33,16 +33,6 @@
         "authorCategory": "coworker",
         "reviewer": "ninabarbakadze",
         "requestedAt": "2026-11-24T13:12:11Z"
-      },
-      {
-        "number": 3816,
-        "title": "fix(deps): [medium] bump gorilla/websocket to fix GO-2026-6278",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3816",
-        "repo": "celestia-core",
-        "author": "rootulp",
-        "authorCategory": "coworker",
-        "reviewer": "ninabarbakadze",
-        "requestedAt": "2026-11-24T14:16:38Z"
       }
     ],
     "rach-id": [
@@ -55,16 +45,6 @@
         "authorCategory": "coworker",
         "reviewer": "rach-id",
         "requestedAt": "2026-11-23T10:31:14Z"
-      },
-      {
-        "number": 3816,
-        "title": "fix(deps): [medium] bump gorilla/websocket to fix GO-2026-6278",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3816",
-        "repo": "celestia-core",
-        "author": "rootulp",
-        "authorCategory": "coworker",
-        "reviewer": "rach-id",
-        "requestedAt": "2026-11-24T14:16:37Z"
       }
     ],
     "renaynay": [
@@ -113,16 +93,6 @@
     ],
     "vgonkivs": [
       {
-        "number": 5432,
-        "title": "chore(deps): [medium] bump golang from 1.27.3-alpine3.23 to 1.27.4-alpine3.23 in the patch-updates group",
-        "url": "https://github.com/celestiaorg/celestia-node/pull/5432",
-        "repo": "celestia-node",
-        "author": "dependabot",
-        "authorCategory": "bot",
-        "reviewer": "vgonkivs",
-        "requestedAt": "2026-11-23T11:03:37Z"
-      },
-      {
         "number": 46,
         "title": "chore(deps): [medium] bump bytes from 1.12.1 to 1.12.2 in /clients/rust in the cargo-deps group",
         "url": "https://github.com/celestiaorg/fibre-gateway-client/pull/46",
@@ -154,16 +124,6 @@
         "authorCategory": "coworker",
         "reviewer": "walldiss",
         "requestedAt": "2026-11-19T16:04:33Z"
-      },
-      {
-        "number": 5432,
-        "title": "chore(deps): [medium] bump golang from 1.27.3-alpine3.23 to 1.27.4-alpine3.23 in the patch-updates group",
-        "url": "https://github.com/celestiaorg/celestia-node/pull/5432",
-        "repo": "celestia-node",
-        "author": "dependabot",
-        "authorCategory": "bot",
-        "reviewer": "walldiss",
-        "requestedAt": "2026-11-23T11:03:38Z"
       },
       {
         "number": 46,
@@ -317,5 +277,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-11-24T14:21:39.736Z"
+  "fetchedAt": "2026-11-24T14:26:39.396Z"
 }
