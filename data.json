@@ -75,26 +75,6 @@
         "authorCategory": "coworker",
         "reviewer": "rach-id",
         "requestedAt": "2026-11-23T10:31:14Z"
-      },
-      {
-        "number": 3810,
-        "title": "fix(propagation): [high] keep no state for peers stopped before AddPeer",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3810",
-        "repo": "celestia-core",
-        "author": "damiannolan",
-        "authorCategory": "coworker",
-        "reviewer": "rach-id",
-        "requestedAt": "2026-11-24T11:46:21Z"
-      },
-      {
-        "number": 3811,
-        "title": "fix(consensus): [high] stop the maj23 query routine when its peer stops (backport #3809)",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3811",
-        "repo": "celestia-core",
-        "author": "mergify",
-        "authorCategory": "bot",
-        "reviewer": "rach-id",
-        "requestedAt": "2026-11-24T11:47:51Z"
       }
     ],
     "renaynay": [
@@ -140,16 +120,6 @@
       }
     ],
     "rootulp": [
-      {
-        "number": 3768,
-        "title": "fix(evidence): [high] queue evidence messages without blocking the peer",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3768",
-        "repo": "celestia-core",
-        "author": "ninabarbakadze",
-        "authorCategory": "coworker",
-        "reviewer": "rootulp",
-        "requestedAt": "2026-11-20T14:10:35Z"
-      },
       {
         "number": 3810,
         "title": "fix(propagation): [high] keep no state for peers stopped before AddPeer",
@@ -331,15 +301,6 @@
       "waitingSince": "2026-11-11T11:02:18Z"
     },
     {
-      "number": 5409,
-      "title": "fix(share/shwap): [medium] classify range ID out-of-bounds with ErrOutOfBounds",
-      "url": "https://github.com/celestiaorg/celestia-node/pull/5409",
-      "repo": "celestia-node",
-      "author": "amalsaidov",
-      "authorCategory": "external",
-      "waitingSince": "2026-11-13T09:30:14Z"
-    },
-    {
       "number": 3758,
       "title": "docs(architecture): [low] repair ADR links",
       "url": "https://github.com/celestiaorg/celestia-core/pull/3758",
@@ -405,5 +366,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-11-24T12:31:37.819Z"
+  "fetchedAt": "2026-11-24T12:36:38.273Z"
 }
