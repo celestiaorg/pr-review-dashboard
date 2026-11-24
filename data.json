@@ -46,16 +46,6 @@
         "requestedAt": "2026-11-23T20:35:57Z"
       },
       {
-        "number": 8799,
-        "title": "fix(ante): [medium] cache tx signatures only after the ante chain passes",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/8799",
-        "repo": "celestia-app",
-        "author": "rach-id",
-        "authorCategory": "coworker",
-        "reviewer": "ninabarbakadze",
-        "requestedAt": "2026-11-24T13:12:11Z"
-      },
-      {
         "number": 8800,
         "title": "perf(zkism): [medium] cache parsed Groth16 verifying keys",
         "url": "https://github.com/celestiaorg/celestia-app/pull/8800",
@@ -286,5 +276,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-11-24T15:56:40.858Z"
+  "fetchedAt": "2026-11-24T16:01:41.418Z"
 }
