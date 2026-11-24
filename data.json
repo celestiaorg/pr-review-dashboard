@@ -25,14 +25,14 @@
         "requestedAt": "2026-11-23T20:35:57Z"
       },
       {
-        "number": 8798,
-        "title": "test(app): [low] keep valid PayForFibre txs behind ones that fail settlement",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/8798",
+        "number": 8799,
+        "title": "fix(ante): [medium] cache tx signatures only after the ante chain passes",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/8799",
         "repo": "celestia-app",
         "author": "rach-id",
         "authorCategory": "coworker",
         "reviewer": "ninabarbakadze",
-        "requestedAt": "2026-11-24T12:53:02Z"
+        "requestedAt": "2026-11-24T13:12:11Z"
       },
       {
         "number": 3814,
@@ -57,26 +57,6 @@
         "requestedAt": "2026-11-23T10:31:14Z"
       },
       {
-        "number": 3812,
-        "title": "fix(evidence): [high] add evidence repeated in a list once",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3812",
-        "repo": "celestia-core",
-        "author": "ninabarbakadze",
-        "authorCategory": "coworker",
-        "reviewer": "rach-id",
-        "requestedAt": "2026-11-24T12:43:20Z"
-      },
-      {
-        "number": 3813,
-        "title": "refactor(evidence): [medium] address review nits on the evidence queue",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3813",
-        "repo": "celestia-core",
-        "author": "ninabarbakadze",
-        "authorCategory": "coworker",
-        "reviewer": "rach-id",
-        "requestedAt": "2026-11-24T12:52:28Z"
-      },
-      {
         "number": 3815,
         "title": "fix(propagation): [high] cap part requests at the parts still needed",
         "url": "https://github.com/celestiaorg/celestia-core/pull/3815",
@@ -85,16 +65,6 @@
         "authorCategory": "coworker",
         "reviewer": "rach-id",
         "requestedAt": "2026-11-24T13:09:23Z"
-      },
-      {
-        "number": 3814,
-        "title": "fix(propagation): [high] keep no state for peers stopped before AddPeer (backport #3810)",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3814",
-        "repo": "celestia-core",
-        "author": "mergify",
-        "authorCategory": "bot",
-        "reviewer": "rach-id",
-        "requestedAt": "2026-11-24T13:00:56Z"
       }
     ],
     "renaynay": [
@@ -107,16 +77,6 @@
         "authorCategory": "coworker",
         "reviewer": "renaynay",
         "requestedAt": "2026-11-22T22:47:26Z"
-      },
-      {
-        "number": 5422,
-        "title": "fix(rpc)!: [high] harden read request handling",
-        "url": "https://github.com/celestiaorg/celestia-node/pull/5422",
-        "repo": "celestia-node",
-        "author": "damiannolan",
-        "authorCategory": "coworker",
-        "reviewer": "renaynay",
-        "requestedAt": "2026-11-23T19:12:43Z"
       },
       {
         "number": 5432,
@@ -151,16 +111,6 @@
         "requestedAt": "2026-11-24T12:52:42Z"
       },
       {
-        "number": 8798,
-        "title": "test(app): [low] keep valid PayForFibre txs behind ones that fail settlement",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/8798",
-        "repo": "celestia-app",
-        "author": "rach-id",
-        "authorCategory": "coworker",
-        "reviewer": "rootulp",
-        "requestedAt": "2026-11-24T12:53:01Z"
-      },
-      {
         "number": 3815,
         "title": "fix(propagation): [high] cap part requests at the parts still needed",
         "url": "https://github.com/celestiaorg/celestia-core/pull/3815",
@@ -171,14 +121,14 @@
         "requestedAt": "2026-11-24T13:09:22Z"
       },
       {
-        "number": 3811,
-        "title": "fix(consensus): [high] stop the maj23 query routine when its peer stops (backport #3809)",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3811",
-        "repo": "celestia-core",
-        "author": "mergify",
-        "authorCategory": "bot",
+        "number": 8799,
+        "title": "fix(ante): [medium] cache tx signatures only after the ante chain passes",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/8799",
+        "repo": "celestia-app",
+        "author": "rach-id",
+        "authorCategory": "coworker",
         "reviewer": "rootulp",
-        "requestedAt": "2026-11-24T11:47:50Z"
+        "requestedAt": "2026-11-24T13:12:11Z"
       },
       {
         "number": 3814,
@@ -416,5 +366,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-11-24T13:11:38.529Z"
+  "fetchedAt": "2026-11-24T13:16:38.534Z"
 }
