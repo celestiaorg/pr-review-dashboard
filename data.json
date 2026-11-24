@@ -63,6 +63,16 @@
         "authorCategory": "coworker",
         "reviewer": "ninabarbakadze",
         "requestedAt": "2026-11-24T04:37:11Z"
+      },
+      {
+        "number": 8796,
+        "title": "docs(specs): [low] add v12 spec pages",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/8796",
+        "repo": "celestia-app",
+        "author": "rach-id",
+        "authorCategory": "coworker",
+        "reviewer": "ninabarbakadze",
+        "requestedAt": "2026-11-24T05:15:19Z"
       }
     ],
     "rach-id": [
@@ -149,28 +159,7 @@
         "requestedAt": "2026-11-23T11:06:30Z"
       }
     ],
-    "rootulp": [
-      {
-        "number": 8793,
-        "title": "chore(deps): [high] bump celestia-core to v0.43.0-rc2",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/8793",
-        "repo": "celestia-app",
-        "author": "rach-id",
-        "authorCategory": "coworker",
-        "reviewer": "rootulp",
-        "requestedAt": "2026-11-24T04:11:00Z"
-      },
-      {
-        "number": 8794,
-        "title": "refactor!: [medium] rename Go module to celestia-app/v12",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/8794",
-        "repo": "celestia-app",
-        "author": "rach-id",
-        "authorCategory": "coworker",
-        "reviewer": "rootulp",
-        "requestedAt": "2026-11-24T04:37:10Z"
-      }
-    ],
+    "rootulp": [],
     "vgonkivs": [
       {
         "number": 5435,
@@ -355,15 +344,6 @@
       "waitingSince": "2026-11-11T10:36:13Z"
     },
     {
-      "number": 8796,
-      "title": "docs(specs): [low] add v12 spec pages",
-      "url": "https://github.com/celestiaorg/celestia-app/pull/8796",
-      "repo": "celestia-app",
-      "author": "rach-id",
-      "authorCategory": "coworker",
-      "waitingSince": "2026-11-24T05:08:03Z"
-    },
-    {
       "number": 1,
       "title": "chore(deps): bump the go_modules group across 2 directories with 9 updates",
       "url": "https://github.com/celestiaorg/hyperlane-cosmos/pull/1",
@@ -465,5 +445,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-11-24T05:13:58.624Z"
+  "fetchedAt": "2026-11-24T05:18:58.354Z"
 }
