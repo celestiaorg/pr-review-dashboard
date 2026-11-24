@@ -2,7 +2,18 @@
   "reviews": {
     "chatton": [],
     "pippokr": [],
-    "damiannolan": [],
+    "damiannolan": [
+      {
+        "number": 8800,
+        "title": "perf(zkism): [medium] cache parsed Groth16 verifying keys",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/8800",
+        "repo": "celestia-app",
+        "author": "rach-id",
+        "authorCategory": "coworker",
+        "reviewer": "damiannolan",
+        "requestedAt": "2026-11-24T14:51:26Z"
+      }
+    ],
     "ninabarbakadze": [
       {
         "number": 8786,
@@ -256,5 +267,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-11-24T14:46:42.638Z"
+  "fetchedAt": "2026-11-24T14:51:40.774Z"
 }
