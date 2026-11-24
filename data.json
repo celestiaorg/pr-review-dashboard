@@ -53,6 +53,16 @@
         "authorCategory": "coworker",
         "reviewer": "ninabarbakadze",
         "requestedAt": "2026-11-24T11:46:22Z"
+      },
+      {
+        "number": 3811,
+        "title": "fix(consensus): [high] stop the maj23 query routine when its peer stops (backport #3809)",
+        "url": "https://github.com/celestiaorg/celestia-core/pull/3811",
+        "repo": "celestia-core",
+        "author": "mergify",
+        "authorCategory": "bot",
+        "reviewer": "ninabarbakadze",
+        "requestedAt": "2026-11-24T11:47:52Z"
       }
     ],
     "rach-id": [
@@ -75,6 +85,16 @@
         "authorCategory": "coworker",
         "reviewer": "rach-id",
         "requestedAt": "2026-11-24T11:46:21Z"
+      },
+      {
+        "number": 3811,
+        "title": "fix(consensus): [high] stop the maj23 query routine when its peer stops (backport #3809)",
+        "url": "https://github.com/celestiaorg/celestia-core/pull/3811",
+        "repo": "celestia-core",
+        "author": "mergify",
+        "authorCategory": "bot",
+        "reviewer": "rach-id",
+        "requestedAt": "2026-11-24T11:47:51Z"
       }
     ],
     "renaynay": [
@@ -129,6 +149,16 @@
         "authorCategory": "coworker",
         "reviewer": "rootulp",
         "requestedAt": "2026-11-24T11:46:20Z"
+      },
+      {
+        "number": 3811,
+        "title": "fix(consensus): [high] stop the maj23 query routine when its peer stops (backport #3809)",
+        "url": "https://github.com/celestiaorg/celestia-core/pull/3811",
+        "repo": "celestia-core",
+        "author": "mergify",
+        "authorCategory": "bot",
+        "reviewer": "rootulp",
+        "requestedAt": "2026-11-24T11:47:50Z"
       }
     ],
     "vgonkivs": [
@@ -365,5 +395,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-11-24T11:46:37.349Z"
+  "fetchedAt": "2026-11-24T11:51:37.636Z"
 }
