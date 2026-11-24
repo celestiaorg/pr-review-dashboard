@@ -119,6 +119,16 @@
         "requestedAt": "2026-11-23T19:12:43Z"
       },
       {
+        "number": 5426,
+        "title": "fix(api/rpc): [high] limit open connections at the listener",
+        "url": "https://github.com/celestiaorg/celestia-node/pull/5426",
+        "repo": "celestia-node",
+        "author": "ninabarbakadze",
+        "authorCategory": "coworker",
+        "reviewer": "renaynay",
+        "requestedAt": "2026-11-24T12:30:27Z"
+      },
+      {
         "number": 5432,
         "title": "chore(deps): [medium] bump golang from 1.27.3-alpine3.23 to 1.27.4-alpine3.23 in the patch-updates group",
         "url": "https://github.com/celestiaorg/celestia-node/pull/5432",
@@ -395,5 +405,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-11-24T12:26:37.547Z"
+  "fetchedAt": "2026-11-24T12:31:37.819Z"
 }
