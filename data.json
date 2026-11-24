@@ -45,14 +45,14 @@
         "requestedAt": "2026-11-23T20:35:57Z"
       },
       {
-        "number": 3806,
-        "title": "fix(p2p): [high] start the BaseReactor processor in Start (backport #3804)",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3806",
+        "number": 3809,
+        "title": "fix(consensus): [high] stop the maj23 query routine when its peer stops",
+        "url": "https://github.com/celestiaorg/celestia-core/pull/3809",
         "repo": "celestia-core",
-        "author": "mergify",
-        "authorCategory": "bot",
+        "author": "damiannolan",
+        "authorCategory": "coworker",
         "reviewer": "ninabarbakadze",
-        "requestedAt": "2026-11-23T20:06:40Z"
+        "requestedAt": "2026-11-24T10:29:21Z"
       }
     ],
     "rach-id": [
@@ -75,6 +75,16 @@
         "authorCategory": "coworker",
         "reviewer": "rach-id",
         "requestedAt": "2026-11-23T10:31:14Z"
+      },
+      {
+        "number": 3809,
+        "title": "fix(consensus): [high] stop the maj23 query routine when its peer stops",
+        "url": "https://github.com/celestiaorg/celestia-core/pull/3809",
+        "repo": "celestia-core",
+        "author": "damiannolan",
+        "authorCategory": "coworker",
+        "reviewer": "rach-id",
+        "requestedAt": "2026-11-24T10:29:20Z"
       }
     ],
     "renaynay": [
@@ -151,14 +161,14 @@
         "requestedAt": "2026-11-20T14:10:35Z"
       },
       {
-        "number": 3806,
-        "title": "fix(p2p): [high] start the BaseReactor processor in Start (backport #3804)",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3806",
+        "number": 3809,
+        "title": "fix(consensus): [high] stop the maj23 query routine when its peer stops",
+        "url": "https://github.com/celestiaorg/celestia-core/pull/3809",
         "repo": "celestia-core",
-        "author": "mergify",
-        "authorCategory": "bot",
+        "author": "damiannolan",
+        "authorCategory": "coworker",
         "reviewer": "rootulp",
-        "requestedAt": "2026-11-23T20:06:38Z"
+        "requestedAt": "2026-11-24T10:29:18Z"
       }
     ],
     "vgonkivs": [
@@ -426,5 +436,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-11-24T10:26:17.173Z"
+  "fetchedAt": "2026-11-24T10:31:22.153Z"
 }
