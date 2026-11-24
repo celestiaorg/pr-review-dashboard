@@ -89,16 +89,6 @@
     ],
     "renaynay": [
       {
-        "number": 5425,
-        "title": "fix(api/rpc): [high] limit the request body before authentication",
-        "url": "https://github.com/celestiaorg/celestia-node/pull/5425",
-        "repo": "celestia-node",
-        "author": "ninabarbakadze",
-        "authorCategory": "coworker",
-        "reviewer": "renaynay",
-        "requestedAt": "2026-11-20T14:15:28Z"
-      },
-      {
         "number": 5430,
         "title": "fix(blob): [high] deduplicate GetAll namespaces and bound concurrency",
         "url": "https://github.com/celestiaorg/celestia-node/pull/5430",
@@ -435,5 +425,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-11-24T10:56:36.648Z"
+  "fetchedAt": "2026-11-24T11:01:37.066Z"
 }
