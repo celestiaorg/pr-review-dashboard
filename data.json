@@ -47,7 +47,18 @@
         "requestedAt": "2026-11-23T10:31:14Z"
       }
     ],
-    "renaynay": [],
+    "renaynay": [
+      {
+        "number": 5422,
+        "title": "fix(rpc)!: [high] harden read request handling",
+        "url": "https://github.com/celestiaorg/celestia-node/pull/5422",
+        "repo": "celestia-node",
+        "author": "damiannolan",
+        "authorCategory": "coworker",
+        "reviewer": "renaynay",
+        "requestedAt": "2026-11-24T14:09:15Z"
+      }
+    ],
     "rootulp": [
       {
         "number": 3812,
@@ -286,5 +297,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-11-24T14:06:39.297Z"
+  "fetchedAt": "2026-11-24T14:11:39.682Z"
 }
