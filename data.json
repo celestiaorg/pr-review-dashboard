@@ -65,16 +65,6 @@
         "authorCategory": "coworker",
         "reviewer": "rach-id",
         "requestedAt": "2026-11-23T10:31:14Z"
-      },
-      {
-        "number": 3787,
-        "title": "fix(propagation): [high] give each peer its own share of the stored parts budget",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3787",
-        "repo": "celestia-core",
-        "author": "rootulp",
-        "authorCategory": "coworker",
-        "reviewer": "rach-id",
-        "requestedAt": "2026-11-23T20:35:57Z"
       }
     ],
     "renaynay": [
@@ -446,5 +436,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-11-24T04:18:57.514Z"
+  "fetchedAt": "2026-11-24T04:23:57.251Z"
 }
