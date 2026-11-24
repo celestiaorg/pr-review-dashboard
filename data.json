@@ -104,16 +104,6 @@
         "authorCategory": "coworker",
         "reviewer": "ninabarbakadze",
         "requestedAt": "2026-11-24T15:04:57Z"
-      },
-      {
-        "number": 282,
-        "title": "fix(deps): [low] bump gorilla/websocket for GO-2026-6278",
-        "url": "https://github.com/celestiaorg/cosmos-sdk/pull/282",
-        "repo": "cosmos-sdk",
-        "author": "rach-id",
-        "authorCategory": "coworker",
-        "reviewer": "ninabarbakadze",
-        "requestedAt": "2026-11-24T15:20:34Z"
       }
     ],
     "rach-id": [
@@ -149,16 +139,6 @@
         "authorCategory": "coworker",
         "reviewer": "rootulp",
         "requestedAt": "2026-11-24T15:04:56Z"
-      },
-      {
-        "number": 282,
-        "title": "fix(deps): [low] bump gorilla/websocket for GO-2026-6278",
-        "url": "https://github.com/celestiaorg/cosmos-sdk/pull/282",
-        "repo": "cosmos-sdk",
-        "author": "rach-id",
-        "authorCategory": "coworker",
-        "reviewer": "rootulp",
-        "requestedAt": "2026-11-24T15:19:43Z"
       }
     ],
     "vgonkivs": [
@@ -306,5 +286,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-11-24T15:41:41.708Z"
+  "fetchedAt": "2026-11-24T15:46:42.696Z"
 }
