@@ -57,6 +57,16 @@
     ],
     "rach-id": [
       {
+        "number": 3768,
+        "title": "fix(evidence): [high] queue evidence messages without blocking the peer",
+        "url": "https://github.com/celestiaorg/celestia-core/pull/3768",
+        "repo": "celestia-core",
+        "author": "ninabarbakadze",
+        "authorCategory": "coworker",
+        "reviewer": "rach-id",
+        "requestedAt": "2026-11-20T14:10:36Z"
+      },
+      {
         "number": 3770,
         "title": "fix(propagation)!: [high] sign a fixed-size compact block digest from app version 12",
         "url": "https://github.com/celestiaorg/celestia-core/pull/3770",
@@ -140,6 +150,16 @@
       }
     ],
     "rootulp": [
+      {
+        "number": 3768,
+        "title": "fix(evidence): [high] queue evidence messages without blocking the peer",
+        "url": "https://github.com/celestiaorg/celestia-core/pull/3768",
+        "repo": "celestia-core",
+        "author": "ninabarbakadze",
+        "authorCategory": "coworker",
+        "reviewer": "rootulp",
+        "requestedAt": "2026-11-20T14:10:35Z"
+      },
       {
         "number": 3806,
         "title": "fix(p2p): [high] start the BaseReactor processor in Start (backport #3804)",
@@ -416,5 +436,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-11-24T10:16:17.197Z"
+  "fetchedAt": "2026-11-24T10:21:17.180Z"
 }
