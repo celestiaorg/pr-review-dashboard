@@ -53,6 +53,16 @@
         "authorCategory": "coworker",
         "reviewer": "ninabarbakadze",
         "requestedAt": "2026-11-24T04:11:02Z"
+      },
+      {
+        "number": 8794,
+        "title": "refactor!: [medium] rename Go module to celestia-app/v12",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/8794",
+        "repo": "celestia-app",
+        "author": "rach-id",
+        "authorCategory": "coworker",
+        "reviewer": "ninabarbakadze",
+        "requestedAt": "2026-11-24T04:37:11Z"
       }
     ],
     "rach-id": [
@@ -149,6 +159,16 @@
         "authorCategory": "coworker",
         "reviewer": "rootulp",
         "requestedAt": "2026-11-24T04:11:00Z"
+      },
+      {
+        "number": 8794,
+        "title": "refactor!: [medium] rename Go module to celestia-app/v12",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/8794",
+        "repo": "celestia-app",
+        "author": "rach-id",
+        "authorCategory": "coworker",
+        "reviewer": "rootulp",
+        "requestedAt": "2026-11-24T04:37:10Z"
       }
     ],
     "vgonkivs": [
@@ -436,5 +456,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-11-24T04:33:58.044Z"
+  "fetchedAt": "2026-11-24T04:38:57.498Z"
 }
