@@ -96,16 +96,6 @@
         "requestedAt": "2026-11-24T15:04:31Z"
       },
       {
-        "number": 281,
-        "title": "docs: [low] require benchmarking PRs against base in agent rules",
-        "url": "https://github.com/celestiaorg/cosmos-sdk/pull/281",
-        "repo": "cosmos-sdk",
-        "author": "rach-id",
-        "authorCategory": "coworker",
-        "reviewer": "ninabarbakadze",
-        "requestedAt": "2026-11-24T15:04:42Z"
-      },
-      {
         "number": 8803,
         "title": "docs: [low] require benchmarking PRs against base in agent rules",
         "url": "https://github.com/celestiaorg/celestia-app/pull/8803",
@@ -141,26 +131,6 @@
     "renaynay": [],
     "rootulp": [
       {
-        "number": 8801,
-        "title": "perf(zkism): [high] verify ZK proofs in parallel before FinalizeBlock",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/8801",
-        "repo": "celestia-app",
-        "author": "rach-id",
-        "authorCategory": "coworker",
-        "reviewer": "rootulp",
-        "requestedAt": "2026-11-24T14:52:32Z"
-      },
-      {
-        "number": 278,
-        "title": "fix(store): [medium] read a store that did not exist at a version as empty in CacheMultiStoreWithVersion",
-        "url": "https://github.com/celestiaorg/cosmos-sdk/pull/278",
-        "repo": "cosmos-sdk",
-        "author": "rach-id",
-        "authorCategory": "coworker",
-        "reviewer": "rootulp",
-        "requestedAt": "2026-11-24T14:59:56Z"
-      },
-      {
         "number": 3818,
         "title": "docs: [low] require benchmarking PRs against base in agent rules",
         "url": "https://github.com/celestiaorg/celestia-core/pull/3818",
@@ -169,16 +139,6 @@
         "authorCategory": "coworker",
         "reviewer": "rootulp",
         "requestedAt": "2026-11-24T15:04:30Z"
-      },
-      {
-        "number": 281,
-        "title": "docs: [low] require benchmarking PRs against base in agent rules",
-        "url": "https://github.com/celestiaorg/cosmos-sdk/pull/281",
-        "repo": "cosmos-sdk",
-        "author": "rach-id",
-        "authorCategory": "coworker",
-        "reviewer": "rootulp",
-        "requestedAt": "2026-11-24T15:04:41Z"
       },
       {
         "number": 8803,
@@ -346,5 +306,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-11-24T15:26:40.429Z"
+  "fetchedAt": "2026-11-24T15:31:40.479Z"
 }
