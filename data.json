@@ -75,6 +75,16 @@
         "authorCategory": "coworker",
         "reviewer": "rach-id",
         "requestedAt": "2026-11-23T10:31:14Z"
+      },
+      {
+        "number": 3812,
+        "title": "fix(evidence): [high] add evidence repeated in a list once",
+        "url": "https://github.com/celestiaorg/celestia-core/pull/3812",
+        "repo": "celestia-core",
+        "author": "ninabarbakadze",
+        "authorCategory": "coworker",
+        "reviewer": "rach-id",
+        "requestedAt": "2026-11-24T12:43:20Z"
       }
     ],
     "renaynay": [
@@ -366,5 +376,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-11-24T12:41:37.985Z"
+  "fetchedAt": "2026-11-24T12:46:37.833Z"
 }
