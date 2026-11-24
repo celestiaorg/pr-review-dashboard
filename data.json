@@ -33,6 +33,16 @@
         "authorCategory": "coworker",
         "reviewer": "ninabarbakadze",
         "requestedAt": "2026-11-24T20:33:18Z"
+      },
+      {
+        "number": 8787,
+        "title": "test(encoding): [low] cover the strict tx decoder",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/8787",
+        "repo": "celestia-app",
+        "author": "rootulp",
+        "authorCategory": "coworker",
+        "reviewer": "ninabarbakadze",
+        "requestedAt": "2026-11-24T20:42:28Z"
       }
     ],
     "rach-id": [
@@ -65,6 +75,16 @@
         "authorCategory": "coworker",
         "reviewer": "rach-id",
         "requestedAt": "2026-11-24T20:40:01Z"
+      },
+      {
+        "number": 8787,
+        "title": "test(encoding): [low] cover the strict tx decoder",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/8787",
+        "repo": "celestia-app",
+        "author": "rootulp",
+        "authorCategory": "coworker",
+        "reviewer": "rach-id",
+        "requestedAt": "2026-11-24T20:42:28Z"
       }
     ],
     "renaynay": [],
@@ -224,5 +244,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-11-24T20:42:13.863Z"
+  "fetchedAt": "2026-11-24T20:47:14.168Z"
 }
