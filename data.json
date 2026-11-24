@@ -45,24 +45,14 @@
         "requestedAt": "2026-11-23T20:35:57Z"
       },
       {
-        "number": 3809,
-        "title": "fix(consensus): [high] stop the maj23 query routine when its peer stops",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3809",
+        "number": 3810,
+        "title": "fix(propagation): [high] keep no state for peers stopped before AddPeer",
+        "url": "https://github.com/celestiaorg/celestia-core/pull/3810",
         "repo": "celestia-core",
         "author": "damiannolan",
         "authorCategory": "coworker",
         "reviewer": "ninabarbakadze",
-        "requestedAt": "2026-11-24T10:29:21Z"
-      },
-      {
-        "number": 5435,
-        "title": "fix(nodebuilder/p2p): [medium] make rcmgr admit at least ConnManager.High connections",
-        "url": "https://github.com/celestiaorg/celestia-node/pull/5435",
-        "repo": "celestia-node",
-        "author": "renaynay",
-        "authorCategory": "coworker",
-        "reviewer": "ninabarbakadze",
-        "requestedAt": "2026-11-24T11:30:35Z"
+        "requestedAt": "2026-11-24T11:46:22Z"
       }
     ],
     "rach-id": [
@@ -75,6 +65,16 @@
         "authorCategory": "coworker",
         "reviewer": "rach-id",
         "requestedAt": "2026-11-23T10:31:14Z"
+      },
+      {
+        "number": 3810,
+        "title": "fix(propagation): [high] keep no state for peers stopped before AddPeer",
+        "url": "https://github.com/celestiaorg/celestia-core/pull/3810",
+        "repo": "celestia-core",
+        "author": "damiannolan",
+        "authorCategory": "coworker",
+        "reviewer": "rach-id",
+        "requestedAt": "2026-11-24T11:46:21Z"
       }
     ],
     "renaynay": [
@@ -121,27 +121,17 @@
         "requestedAt": "2026-11-20T14:10:35Z"
       },
       {
-        "number": 3809,
-        "title": "fix(consensus): [high] stop the maj23 query routine when its peer stops",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3809",
+        "number": 3810,
+        "title": "fix(propagation): [high] keep no state for peers stopped before AddPeer",
+        "url": "https://github.com/celestiaorg/celestia-core/pull/3810",
         "repo": "celestia-core",
         "author": "damiannolan",
         "authorCategory": "coworker",
         "reviewer": "rootulp",
-        "requestedAt": "2026-11-24T10:29:18Z"
+        "requestedAt": "2026-11-24T11:46:20Z"
       }
     ],
     "vgonkivs": [
-      {
-        "number": 5435,
-        "title": "fix(nodebuilder/p2p): [medium] make rcmgr admit at least ConnManager.High connections",
-        "url": "https://github.com/celestiaorg/celestia-node/pull/5435",
-        "repo": "celestia-node",
-        "author": "renaynay",
-        "authorCategory": "coworker",
-        "reviewer": "vgonkivs",
-        "requestedAt": "2026-11-23T19:28:22Z"
-      },
       {
         "number": 5432,
         "title": "chore(deps): [medium] bump golang from 1.27.3-alpine3.23 to 1.27.4-alpine3.23 in the patch-updates group",
@@ -194,16 +184,6 @@
         "authorCategory": "coworker",
         "reviewer": "walldiss",
         "requestedAt": "2026-11-22T22:47:25Z"
-      },
-      {
-        "number": 5435,
-        "title": "fix(nodebuilder/p2p): [medium] make rcmgr admit at least ConnManager.High connections",
-        "url": "https://github.com/celestiaorg/celestia-node/pull/5435",
-        "repo": "celestia-node",
-        "author": "renaynay",
-        "authorCategory": "coworker",
-        "reviewer": "walldiss",
-        "requestedAt": "2026-11-23T19:28:23Z"
       },
       {
         "number": 5432,
@@ -385,5 +365,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-11-24T11:41:37.422Z"
+  "fetchedAt": "2026-11-24T11:46:37.349Z"
 }
