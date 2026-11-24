@@ -125,16 +125,6 @@
         "requestedAt": "2026-11-19T16:04:33Z"
       },
       {
-        "number": 5430,
-        "title": "fix(blob): [high] deduplicate GetAll namespaces and bound concurrency",
-        "url": "https://github.com/celestiaorg/celestia-node/pull/5430",
-        "repo": "celestia-node",
-        "author": "rootulp",
-        "authorCategory": "coworker",
-        "reviewer": "walldiss",
-        "requestedAt": "2026-11-22T22:47:25Z"
-      },
-      {
         "number": 5432,
         "title": "chore(deps): [medium] bump golang from 1.27.3-alpine3.23 to 1.27.4-alpine3.23 in the patch-updates group",
         "url": "https://github.com/celestiaorg/celestia-node/pull/5432",
@@ -305,5 +295,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-11-24T13:36:38.954Z"
+  "fetchedAt": "2026-11-24T13:41:39.380Z"
 }
