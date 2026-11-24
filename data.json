@@ -33,6 +33,16 @@
         "authorCategory": "coworker",
         "reviewer": "ninabarbakadze",
         "requestedAt": "2026-11-24T13:12:11Z"
+      },
+      {
+        "number": 3816,
+        "title": "fix(deps): [medium] bump gorilla/websocket to fix GO-2026-6278",
+        "url": "https://github.com/celestiaorg/celestia-core/pull/3816",
+        "repo": "celestia-core",
+        "author": "rootulp",
+        "authorCategory": "coworker",
+        "reviewer": "ninabarbakadze",
+        "requestedAt": "2026-11-24T14:16:38Z"
       }
     ],
     "rach-id": [
@@ -307,5 +317,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-11-24T14:16:41.378Z"
+  "fetchedAt": "2026-11-24T14:21:39.736Z"
 }
