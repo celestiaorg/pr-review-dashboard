@@ -194,15 +194,6 @@
       "waitingSince": "2026-11-11T10:36:13Z"
     },
     {
-      "number": 37,
-      "title": "test(e2e): [low] poll committed localhost client height",
-      "url": "https://github.com/celestiaorg/ibc-go/pull/37",
-      "repo": "ibc-go",
-      "author": "damiannolan",
-      "authorCategory": "coworker",
-      "waitingSince": "2026-11-24T10:55:17Z"
-    },
-    {
       "number": 1,
       "title": "chore(deps): bump the go_modules group across 2 directories with 9 updates",
       "url": "https://github.com/celestiaorg/hyperlane-cosmos/pull/1",
@@ -295,5 +286,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-11-24T14:01:39.321Z"
+  "fetchedAt": "2026-11-24T14:06:39.297Z"
 }
