@@ -3,28 +3,7 @@
     "chatton": [],
     "pippokr": [],
     "damiannolan": [],
-    "ninabarbakadze": [
-      {
-        "number": 474,
-        "title": "chore(deps): [medium] bump actions/create-github-app-token from 3.3.0 to 3.4.0",
-        "url": "https://github.com/celestiaorg/rsmt2d/pull/474",
-        "repo": "rsmt2d",
-        "author": "dependabot",
-        "authorCategory": "bot",
-        "reviewer": "ninabarbakadze",
-        "requestedAt": "2026-11-25T16:42:10Z"
-      },
-      {
-        "number": 8814,
-        "title": "fix(minfee): [medium] don't panic validating a genesis without a network min gas price (backport #8813)",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/8814",
-        "repo": "celestia-app",
-        "author": "mergify",
-        "authorCategory": "bot",
-        "reviewer": "ninabarbakadze",
-        "requestedAt": "2026-11-25T17:05:06Z"
-      }
-    ],
+    "ninabarbakadze": [],
     "rach-id": [
       {
         "number": 3770,
@@ -45,51 +24,10 @@
         "authorCategory": "coworker",
         "reviewer": "rach-id",
         "requestedAt": "2026-11-24T23:48:34Z"
-      },
-      {
-        "number": 474,
-        "title": "chore(deps): [medium] bump actions/create-github-app-token from 3.3.0 to 3.4.0",
-        "url": "https://github.com/celestiaorg/rsmt2d/pull/474",
-        "repo": "rsmt2d",
-        "author": "dependabot",
-        "authorCategory": "bot",
-        "reviewer": "rach-id",
-        "requestedAt": "2026-11-25T16:42:09Z"
-      },
-      {
-        "number": 8814,
-        "title": "fix(minfee): [medium] don't panic validating a genesis without a network min gas price (backport #8813)",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/8814",
-        "repo": "celestia-app",
-        "author": "mergify",
-        "authorCategory": "bot",
-        "reviewer": "rach-id",
-        "requestedAt": "2026-11-25T17:05:05Z"
       }
     ],
     "renaynay": [],
-    "rootulp": [
-      {
-        "number": 474,
-        "title": "chore(deps): [medium] bump actions/create-github-app-token from 3.3.0 to 3.4.0",
-        "url": "https://github.com/celestiaorg/rsmt2d/pull/474",
-        "repo": "rsmt2d",
-        "author": "dependabot",
-        "authorCategory": "bot",
-        "reviewer": "rootulp",
-        "requestedAt": "2026-11-25T16:42:12Z"
-      },
-      {
-        "number": 8814,
-        "title": "fix(minfee): [medium] don't panic validating a genesis without a network min gas price (backport #8813)",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/8814",
-        "repo": "celestia-app",
-        "author": "mergify",
-        "authorCategory": "bot",
-        "reviewer": "rootulp",
-        "requestedAt": "2026-11-25T17:05:03Z"
-      }
-    ],
+    "rootulp": [],
     "vgonkivs": [
       {
         "number": 48,
@@ -245,5 +183,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-11-25T19:14:04.790Z"
+  "fetchedAt": "2026-11-25T19:19:03.660Z"
 }
