@@ -3,18 +3,7 @@
     "chatton": [],
     "pippokr": [],
     "damiannolan": [],
-    "ninabarbakadze": [
-      {
-        "number": 3830,
-        "title": "build(deps): [high] bump golang.org/x/net from 0.62.0 to 0.63.0",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3830",
-        "repo": "celestia-core",
-        "author": "dependabot",
-        "authorCategory": "bot",
-        "reviewer": "ninabarbakadze",
-        "requestedAt": "2026-11-25T09:28:57Z"
-      }
-    ],
+    "ninabarbakadze": [],
     "rach-id": [
       {
         "number": 3770,
@@ -35,16 +24,6 @@
         "authorCategory": "coworker",
         "reviewer": "rach-id",
         "requestedAt": "2026-11-24T23:48:34Z"
-      },
-      {
-        "number": 3830,
-        "title": "build(deps): [high] bump golang.org/x/net from 0.62.0 to 0.63.0",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3830",
-        "repo": "celestia-core",
-        "author": "dependabot",
-        "authorCategory": "bot",
-        "reviewer": "rach-id",
-        "requestedAt": "2026-11-25T09:28:56Z"
       }
     ],
     "renaynay": [],
@@ -204,5 +183,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-11-25T15:29:01.030Z"
+  "fetchedAt": "2026-11-25T15:34:00.597Z"
 }
