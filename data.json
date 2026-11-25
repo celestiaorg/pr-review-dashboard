@@ -5,6 +5,16 @@
     "damiannolan": [],
     "ninabarbakadze": [
       {
+        "number": 3787,
+        "title": "fix(propagation): [high] give each peer its own share of the stored parts budget",
+        "url": "https://github.com/celestiaorg/celestia-core/pull/3787",
+        "repo": "celestia-core",
+        "author": "rootulp",
+        "authorCategory": "coworker",
+        "reviewer": "ninabarbakadze",
+        "requestedAt": "2026-11-23T20:35:57Z"
+      },
+      {
         "number": 278,
         "title": "fix(store): [medium] read a store that did not exist at a version as empty in CacheMultiStoreWithVersion",
         "url": "https://github.com/celestiaorg/cosmos-sdk/pull/278",
@@ -45,6 +55,16 @@
         "authorCategory": "coworker",
         "reviewer": "rach-id",
         "requestedAt": "2026-11-24T20:33:16Z"
+      },
+      {
+        "number": 3787,
+        "title": "fix(propagation): [high] give each peer its own share of the stored parts budget",
+        "url": "https://github.com/celestiaorg/celestia-core/pull/3787",
+        "repo": "celestia-core",
+        "author": "rootulp",
+        "authorCategory": "coworker",
+        "reviewer": "rach-id",
+        "requestedAt": "2026-11-24T23:48:34Z"
       }
     ],
     "renaynay": [],
@@ -204,5 +224,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-11-25T00:02:41.918Z"
+  "fetchedAt": "2026-11-25T00:07:42.450Z"
 }
