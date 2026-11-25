@@ -5,26 +5,6 @@
     "damiannolan": [],
     "ninabarbakadze": [
       {
-        "number": 3826,
-        "title": "build(deps): [high] bump github.com/aws/aws-sdk-go-v2/service/s3 from 1.114.10 to 1.115.0",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3826",
-        "repo": "celestia-core",
-        "author": "dependabot",
-        "authorCategory": "bot",
-        "reviewer": "ninabarbakadze",
-        "requestedAt": "2026-11-25T09:25:19Z"
-      },
-      {
-        "number": 3827,
-        "title": "build(deps): [high] bump github.com/aws/aws-sdk-go-v2/credentials from 1.21.0 to 1.21.1",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3827",
-        "repo": "celestia-core",
-        "author": "dependabot",
-        "authorCategory": "bot",
-        "reviewer": "ninabarbakadze",
-        "requestedAt": "2026-11-25T09:26:56Z"
-      },
-      {
         "number": 3828,
         "title": "build(deps): [high] bump github.com/aws/aws-sdk-go-v2/config from 1.33.18 to 1.33.19",
         "url": "https://github.com/celestiaorg/celestia-core/pull/3828",
@@ -87,16 +67,6 @@
         "requestedAt": "2026-11-24T23:48:34Z"
       },
       {
-        "number": 3826,
-        "title": "build(deps): [high] bump github.com/aws/aws-sdk-go-v2/service/s3 from 1.114.10 to 1.115.0",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3826",
-        "repo": "celestia-core",
-        "author": "dependabot",
-        "authorCategory": "bot",
-        "reviewer": "rach-id",
-        "requestedAt": "2026-11-25T09:25:18Z"
-      },
-      {
         "number": 3827,
         "title": "build(deps): [high] bump github.com/aws/aws-sdk-go-v2/credentials from 1.21.0 to 1.21.1",
         "url": "https://github.com/celestiaorg/celestia-core/pull/3827",
@@ -149,16 +119,6 @@
     ],
     "renaynay": [],
     "rootulp": [
-      {
-        "number": 3826,
-        "title": "build(deps): [high] bump github.com/aws/aws-sdk-go-v2/service/s3 from 1.114.10 to 1.115.0",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3826",
-        "repo": "celestia-core",
-        "author": "dependabot",
-        "authorCategory": "bot",
-        "reviewer": "rootulp",
-        "requestedAt": "2026-11-25T09:25:17Z"
-      },
       {
         "number": 3827,
         "title": "build(deps): [high] bump github.com/aws/aws-sdk-go-v2/credentials from 1.21.0 to 1.21.1",
@@ -365,5 +325,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-11-25T13:38:32.942Z"
+  "fetchedAt": "2026-11-25T13:43:33.704Z"
 }
