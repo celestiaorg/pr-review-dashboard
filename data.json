@@ -13,6 +13,16 @@
         "authorCategory": "bot",
         "reviewer": "ninabarbakadze",
         "requestedAt": "2026-11-25T21:03:34Z"
+      },
+      {
+        "number": 8818,
+        "title": "feat(fibre): classify packed shard markers in store inspection",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/8818",
+        "repo": "celestia-app",
+        "author": "pmensik",
+        "authorCategory": "external",
+        "reviewer": "ninabarbakadze",
+        "requestedAt": "2026-11-25T22:58:49Z"
       }
     ],
     "rach-id": [
@@ -45,10 +55,31 @@
         "authorCategory": "bot",
         "reviewer": "rach-id",
         "requestedAt": "2026-11-25T21:03:32Z"
+      },
+      {
+        "number": 8818,
+        "title": "feat(fibre): classify packed shard markers in store inspection",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/8818",
+        "repo": "celestia-app",
+        "author": "pmensik",
+        "authorCategory": "external",
+        "reviewer": "rach-id",
+        "requestedAt": "2026-11-25T22:58:48Z"
       }
     ],
     "renaynay": [],
-    "rootulp": [],
+    "rootulp": [
+      {
+        "number": 8818,
+        "title": "feat(fibre): classify packed shard markers in store inspection",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/8818",
+        "repo": "celestia-app",
+        "author": "pmensik",
+        "authorCategory": "external",
+        "reviewer": "rootulp",
+        "requestedAt": "2026-11-25T22:58:47Z"
+      }
+    ],
     "vgonkivs": [
       {
         "number": 48,
@@ -204,5 +235,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-11-25T22:54:30.973Z"
+  "fetchedAt": "2026-11-25T22:59:31.357Z"
 }
