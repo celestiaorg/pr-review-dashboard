@@ -15,16 +15,6 @@
         "requestedAt": "2026-11-25T23:41:27Z"
       },
       {
-        "number": 364,
-        "title": "chore(deps): [medium] bump actions/create-github-app-token from 3.3.0 to 3.4.0",
-        "url": "https://github.com/celestiaorg/nmt/pull/364",
-        "repo": "nmt",
-        "author": "dependabot",
-        "authorCategory": "bot",
-        "reviewer": "ninabarbakadze",
-        "requestedAt": "2026-11-25T21:03:34Z"
-      },
-      {
         "number": 8818,
         "title": "feat(fibre): [medium] classify packed shard markers in store inspection and startup log",
         "url": "https://github.com/celestiaorg/celestia-app/pull/8818",
@@ -65,16 +55,6 @@
         "authorCategory": "coworker",
         "reviewer": "rach-id",
         "requestedAt": "2026-11-25T23:41:25Z"
-      },
-      {
-        "number": 364,
-        "title": "chore(deps): [medium] bump actions/create-github-app-token from 3.3.0 to 3.4.0",
-        "url": "https://github.com/celestiaorg/nmt/pull/364",
-        "repo": "nmt",
-        "author": "dependabot",
-        "authorCategory": "bot",
-        "reviewer": "rach-id",
-        "requestedAt": "2026-11-25T21:03:32Z"
       },
       {
         "number": 8818,
@@ -255,5 +235,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-11-25T23:44:31.130Z"
+  "fetchedAt": "2026-11-25T23:49:31.512Z"
 }
