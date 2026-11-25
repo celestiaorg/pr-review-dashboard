@@ -78,16 +78,6 @@
         "authorCategory": "bot",
         "reviewer": "rootulp",
         "requestedAt": "2026-11-25T20:22:13Z"
-      },
-      {
-        "number": 364,
-        "title": "chore(deps): [medium] bump actions/create-github-app-token from 3.3.0 to 3.4.0",
-        "url": "https://github.com/celestiaorg/nmt/pull/364",
-        "repo": "nmt",
-        "author": "dependabot",
-        "authorCategory": "bot",
-        "reviewer": "rootulp",
-        "requestedAt": "2026-11-25T21:03:33Z"
       }
     ],
     "vgonkivs": [
@@ -245,5 +235,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-11-25T22:09:30.367Z"
+  "fetchedAt": "2026-11-25T22:14:30.272Z"
 }
