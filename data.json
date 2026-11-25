@@ -5,14 +5,14 @@
     "damiannolan": [],
     "ninabarbakadze": [
       {
-        "number": 8816,
-        "title": "ci: [low] stop adding needs:triage label to new issues (backport #8723)",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/8816",
+        "number": 8817,
+        "title": "ci: [low] remove the Mergify backport signing workflow",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/8817",
         "repo": "celestia-app",
-        "author": "mergify",
-        "authorCategory": "bot",
+        "author": "rootulp",
+        "authorCategory": "coworker",
         "reviewer": "ninabarbakadze",
-        "requestedAt": "2026-11-25T20:22:15Z"
+        "requestedAt": "2026-11-25T22:19:09Z"
       },
       {
         "number": 364,
@@ -47,14 +47,14 @@
         "requestedAt": "2026-11-24T23:48:34Z"
       },
       {
-        "number": 8816,
-        "title": "ci: [low] stop adding needs:triage label to new issues (backport #8723)",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/8816",
+        "number": 8817,
+        "title": "ci: [low] remove the Mergify backport signing workflow",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/8817",
         "repo": "celestia-app",
-        "author": "mergify",
-        "authorCategory": "bot",
+        "author": "rootulp",
+        "authorCategory": "coworker",
         "reviewer": "rach-id",
-        "requestedAt": "2026-11-25T20:22:14Z"
+        "requestedAt": "2026-11-25T22:19:08Z"
       },
       {
         "number": 364,
@@ -68,18 +68,7 @@
       }
     ],
     "renaynay": [],
-    "rootulp": [
-      {
-        "number": 8816,
-        "title": "ci: [low] stop adding needs:triage label to new issues (backport #8723)",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/8816",
-        "repo": "celestia-app",
-        "author": "mergify",
-        "authorCategory": "bot",
-        "reviewer": "rootulp",
-        "requestedAt": "2026-11-25T20:22:13Z"
-      }
-    ],
+    "rootulp": [],
     "vgonkivs": [
       {
         "number": 48,
@@ -235,5 +224,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-11-25T22:14:30.272Z"
+  "fetchedAt": "2026-11-25T22:19:29.880Z"
 }
