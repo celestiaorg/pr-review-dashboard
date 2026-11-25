@@ -13,6 +13,16 @@
         "authorCategory": "bot",
         "reviewer": "ninabarbakadze",
         "requestedAt": "2026-11-25T20:22:15Z"
+      },
+      {
+        "number": 364,
+        "title": "chore(deps): [medium] bump actions/create-github-app-token from 3.3.0 to 3.4.0",
+        "url": "https://github.com/celestiaorg/nmt/pull/364",
+        "repo": "nmt",
+        "author": "dependabot",
+        "authorCategory": "bot",
+        "reviewer": "ninabarbakadze",
+        "requestedAt": "2026-11-25T21:03:34Z"
       }
     ],
     "rach-id": [
@@ -45,6 +55,16 @@
         "authorCategory": "bot",
         "reviewer": "rach-id",
         "requestedAt": "2026-11-25T20:22:14Z"
+      },
+      {
+        "number": 364,
+        "title": "chore(deps): [medium] bump actions/create-github-app-token from 3.3.0 to 3.4.0",
+        "url": "https://github.com/celestiaorg/nmt/pull/364",
+        "repo": "nmt",
+        "author": "dependabot",
+        "authorCategory": "bot",
+        "reviewer": "rach-id",
+        "requestedAt": "2026-11-25T21:03:32Z"
       }
     ],
     "renaynay": [],
@@ -58,6 +78,16 @@
         "authorCategory": "bot",
         "reviewer": "rootulp",
         "requestedAt": "2026-11-25T20:22:13Z"
+      },
+      {
+        "number": 364,
+        "title": "chore(deps): [medium] bump actions/create-github-app-token from 3.3.0 to 3.4.0",
+        "url": "https://github.com/celestiaorg/nmt/pull/364",
+        "repo": "nmt",
+        "author": "dependabot",
+        "authorCategory": "bot",
+        "reviewer": "rootulp",
+        "requestedAt": "2026-11-25T21:03:33Z"
       }
     ],
     "vgonkivs": [
@@ -215,5 +245,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-11-25T20:59:28.825Z"
+  "fetchedAt": "2026-11-25T21:04:28.855Z"
 }
