@@ -23,16 +23,6 @@
         "authorCategory": "coworker",
         "reviewer": "ninabarbakadze",
         "requestedAt": "2026-11-24T14:59:52Z"
-      },
-      {
-        "number": 8812,
-        "title": "ci: [low] run govulncheck on PRs only when dependencies change",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/8812",
-        "repo": "celestia-app",
-        "author": "rootulp",
-        "authorCategory": "coworker",
-        "reviewer": "ninabarbakadze",
-        "requestedAt": "2026-11-24T20:33:18Z"
       }
     ],
     "rach-id": [
@@ -45,16 +35,6 @@
         "authorCategory": "coworker",
         "reviewer": "rach-id",
         "requestedAt": "2026-11-23T10:31:14Z"
-      },
-      {
-        "number": 8812,
-        "title": "ci: [low] run govulncheck on PRs only when dependencies change",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/8812",
-        "repo": "celestia-app",
-        "author": "rootulp",
-        "authorCategory": "coworker",
-        "reviewer": "rach-id",
-        "requestedAt": "2026-11-24T20:33:16Z"
       },
       {
         "number": 3787,
@@ -224,5 +204,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-11-25T01:32:43.533Z"
+  "fetchedAt": "2026-11-25T01:37:44.993Z"
 }
