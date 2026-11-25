@@ -3,7 +3,18 @@
     "chatton": [],
     "pippokr": [],
     "damiannolan": [],
-    "ninabarbakadze": [],
+    "ninabarbakadze": [
+      {
+        "number": 8816,
+        "title": "ci: [low] stop adding needs:triage label to new issues (backport #8723)",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/8816",
+        "repo": "celestia-app",
+        "author": "mergify",
+        "authorCategory": "bot",
+        "reviewer": "ninabarbakadze",
+        "requestedAt": "2026-11-25T20:22:15Z"
+      }
+    ],
     "rach-id": [
       {
         "number": 3770,
@@ -24,10 +35,31 @@
         "authorCategory": "coworker",
         "reviewer": "rach-id",
         "requestedAt": "2026-11-24T23:48:34Z"
+      },
+      {
+        "number": 8816,
+        "title": "ci: [low] stop adding needs:triage label to new issues (backport #8723)",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/8816",
+        "repo": "celestia-app",
+        "author": "mergify",
+        "authorCategory": "bot",
+        "reviewer": "rach-id",
+        "requestedAt": "2026-11-25T20:22:14Z"
       }
     ],
     "renaynay": [],
-    "rootulp": [],
+    "rootulp": [
+      {
+        "number": 8816,
+        "title": "ci: [low] stop adding needs:triage label to new issues (backport #8723)",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/8816",
+        "repo": "celestia-app",
+        "author": "mergify",
+        "authorCategory": "bot",
+        "reviewer": "rootulp",
+        "requestedAt": "2026-11-25T20:22:13Z"
+      }
+    ],
     "vgonkivs": [
       {
         "number": 48,
@@ -183,5 +215,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-11-25T20:19:29.428Z"
+  "fetchedAt": "2026-11-25T20:24:28.706Z"
 }
