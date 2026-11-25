@@ -16,7 +16,7 @@
       },
       {
         "number": 8818,
-        "title": "feat(fibre): classify packed shard markers in store inspection",
+        "title": "feat(fibre): [medium] classify packed shard markers in store inspection and startup log",
         "url": "https://github.com/celestiaorg/celestia-app/pull/8818",
         "repo": "celestia-app",
         "author": "pmensik",
@@ -58,7 +58,7 @@
       },
       {
         "number": 8818,
-        "title": "feat(fibre): classify packed shard markers in store inspection",
+        "title": "feat(fibre): [medium] classify packed shard markers in store inspection and startup log",
         "url": "https://github.com/celestiaorg/celestia-app/pull/8818",
         "repo": "celestia-app",
         "author": "pmensik",
@@ -71,7 +71,7 @@
     "rootulp": [
       {
         "number": 8818,
-        "title": "feat(fibre): classify packed shard markers in store inspection",
+        "title": "feat(fibre): [medium] classify packed shard markers in store inspection and startup log",
         "url": "https://github.com/celestiaorg/celestia-app/pull/8818",
         "repo": "celestia-app",
         "author": "pmensik",
@@ -235,5 +235,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-11-25T22:59:31.357Z"
+  "fetchedAt": "2026-11-25T23:04:30.612Z"
 }
