@@ -5,36 +5,6 @@
     "damiannolan": [],
     "ninabarbakadze": [
       {
-        "number": 3787,
-        "title": "fix(propagation): [high] give each peer its own share of the stored parts budget",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3787",
-        "repo": "celestia-core",
-        "author": "rootulp",
-        "authorCategory": "coworker",
-        "reviewer": "ninabarbakadze",
-        "requestedAt": "2026-11-23T20:35:57Z"
-      },
-      {
-        "number": 278,
-        "title": "fix(store): [medium] read a store that did not exist at a version as empty in CacheMultiStoreWithVersion",
-        "url": "https://github.com/celestiaorg/cosmos-sdk/pull/278",
-        "repo": "cosmos-sdk",
-        "author": "rach-id",
-        "authorCategory": "coworker",
-        "reviewer": "ninabarbakadze",
-        "requestedAt": "2026-11-24T14:59:52Z"
-      },
-      {
-        "number": 3825,
-        "title": "build(deps): [medium] bump actions/setup-go from 7.0.0 to 7.1.0",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3825",
-        "repo": "celestia-core",
-        "author": "dependabot",
-        "authorCategory": "bot",
-        "reviewer": "ninabarbakadze",
-        "requestedAt": "2026-11-25T09:23:29Z"
-      },
-      {
         "number": 3826,
         "title": "build(deps): [high] bump github.com/aws/aws-sdk-go-v2/service/s3 from 1.114.10 to 1.115.0",
         "url": "https://github.com/celestiaorg/celestia-core/pull/3826",
@@ -117,16 +87,6 @@
         "requestedAt": "2026-11-24T23:48:34Z"
       },
       {
-        "number": 3825,
-        "title": "build(deps): [medium] bump actions/setup-go from 7.0.0 to 7.1.0",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3825",
-        "repo": "celestia-core",
-        "author": "dependabot",
-        "authorCategory": "bot",
-        "reviewer": "rach-id",
-        "requestedAt": "2026-11-25T09:23:27Z"
-      },
-      {
         "number": 3826,
         "title": "build(deps): [high] bump github.com/aws/aws-sdk-go-v2/service/s3 from 1.114.10 to 1.115.0",
         "url": "https://github.com/celestiaorg/celestia-core/pull/3826",
@@ -189,16 +149,6 @@
     ],
     "renaynay": [],
     "rootulp": [
-      {
-        "number": 3825,
-        "title": "build(deps): [medium] bump actions/setup-go from 7.0.0 to 7.1.0",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3825",
-        "repo": "celestia-core",
-        "author": "dependabot",
-        "authorCategory": "bot",
-        "reviewer": "rootulp",
-        "requestedAt": "2026-11-25T09:23:26Z"
-      },
       {
         "number": 3826,
         "title": "build(deps): [high] bump github.com/aws/aws-sdk-go-v2/service/s3 from 1.114.10 to 1.115.0",
@@ -415,5 +365,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-11-25T13:03:32.204Z"
+  "fetchedAt": "2026-11-25T13:08:32.365Z"
 }
