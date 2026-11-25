@@ -5,26 +5,6 @@
     "damiannolan": [],
     "ninabarbakadze": [
       {
-        "number": 3828,
-        "title": "build(deps): [high] bump github.com/aws/aws-sdk-go-v2/config from 1.33.18 to 1.33.19",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3828",
-        "repo": "celestia-core",
-        "author": "dependabot",
-        "authorCategory": "bot",
-        "reviewer": "ninabarbakadze",
-        "requestedAt": "2026-11-25T09:28:38Z"
-      },
-      {
-        "number": 3829,
-        "title": "build(deps): [high] bump github.com/prometheus/common from 0.73.1 to 0.74.0",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3829",
-        "repo": "celestia-core",
-        "author": "dependabot",
-        "authorCategory": "bot",
-        "reviewer": "ninabarbakadze",
-        "requestedAt": "2026-11-25T09:28:47Z"
-      },
-      {
         "number": 3830,
         "title": "build(deps): [high] bump golang.org/x/net from 0.62.0 to 0.63.0",
         "url": "https://github.com/celestiaorg/celestia-core/pull/3830",
@@ -33,16 +13,6 @@
         "authorCategory": "bot",
         "reviewer": "ninabarbakadze",
         "requestedAt": "2026-11-25T09:28:57Z"
-      },
-      {
-        "number": 3831,
-        "title": "build(deps): [high] bump github.com/cockroachdb/pebble from 1.1.4 to 1.1.5",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3831",
-        "repo": "celestia-core",
-        "author": "dependabot",
-        "authorCategory": "bot",
-        "reviewer": "ninabarbakadze",
-        "requestedAt": "2026-11-25T09:29:17Z"
       }
     ],
     "rach-id": [
@@ -67,36 +37,6 @@
         "requestedAt": "2026-11-24T23:48:34Z"
       },
       {
-        "number": 3827,
-        "title": "build(deps): [high] bump github.com/aws/aws-sdk-go-v2/credentials from 1.21.0 to 1.21.1",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3827",
-        "repo": "celestia-core",
-        "author": "dependabot",
-        "authorCategory": "bot",
-        "reviewer": "rach-id",
-        "requestedAt": "2026-11-25T09:26:55Z"
-      },
-      {
-        "number": 3828,
-        "title": "build(deps): [high] bump github.com/aws/aws-sdk-go-v2/config from 1.33.18 to 1.33.19",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3828",
-        "repo": "celestia-core",
-        "author": "dependabot",
-        "authorCategory": "bot",
-        "reviewer": "rach-id",
-        "requestedAt": "2026-11-25T09:28:37Z"
-      },
-      {
-        "number": 3829,
-        "title": "build(deps): [high] bump github.com/prometheus/common from 0.73.1 to 0.74.0",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3829",
-        "repo": "celestia-core",
-        "author": "dependabot",
-        "authorCategory": "bot",
-        "reviewer": "rach-id",
-        "requestedAt": "2026-11-25T09:28:46Z"
-      },
-      {
         "number": 3830,
         "title": "build(deps): [high] bump golang.org/x/net from 0.62.0 to 0.63.0",
         "url": "https://github.com/celestiaorg/celestia-core/pull/3830",
@@ -105,71 +45,10 @@
         "authorCategory": "bot",
         "reviewer": "rach-id",
         "requestedAt": "2026-11-25T09:28:56Z"
-      },
-      {
-        "number": 3831,
-        "title": "build(deps): [high] bump github.com/cockroachdb/pebble from 1.1.4 to 1.1.5",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3831",
-        "repo": "celestia-core",
-        "author": "dependabot",
-        "authorCategory": "bot",
-        "reviewer": "rach-id",
-        "requestedAt": "2026-11-25T09:29:16Z"
       }
     ],
     "renaynay": [],
-    "rootulp": [
-      {
-        "number": 3827,
-        "title": "build(deps): [high] bump github.com/aws/aws-sdk-go-v2/credentials from 1.21.0 to 1.21.1",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3827",
-        "repo": "celestia-core",
-        "author": "dependabot",
-        "authorCategory": "bot",
-        "reviewer": "rootulp",
-        "requestedAt": "2026-11-25T09:26:54Z"
-      },
-      {
-        "number": 3828,
-        "title": "build(deps): [high] bump github.com/aws/aws-sdk-go-v2/config from 1.33.18 to 1.33.19",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3828",
-        "repo": "celestia-core",
-        "author": "dependabot",
-        "authorCategory": "bot",
-        "reviewer": "rootulp",
-        "requestedAt": "2026-11-25T09:28:36Z"
-      },
-      {
-        "number": 3829,
-        "title": "build(deps): [high] bump github.com/prometheus/common from 0.73.1 to 0.74.0",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3829",
-        "repo": "celestia-core",
-        "author": "dependabot",
-        "authorCategory": "bot",
-        "reviewer": "rootulp",
-        "requestedAt": "2026-11-25T09:28:44Z"
-      },
-      {
-        "number": 3830,
-        "title": "build(deps): [high] bump golang.org/x/net from 0.62.0 to 0.63.0",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3830",
-        "repo": "celestia-core",
-        "author": "dependabot",
-        "authorCategory": "bot",
-        "reviewer": "rootulp",
-        "requestedAt": "2026-11-25T09:28:55Z"
-      },
-      {
-        "number": 3831,
-        "title": "build(deps): [high] bump github.com/cockroachdb/pebble from 1.1.4 to 1.1.5",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3831",
-        "repo": "celestia-core",
-        "author": "dependabot",
-        "authorCategory": "bot",
-        "reviewer": "rootulp",
-        "requestedAt": "2026-11-25T09:29:14Z"
-      }
-    ],
+    "rootulp": [],
     "vgonkivs": [
       {
         "number": 48,
@@ -325,5 +204,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-11-25T15:24:01.355Z"
+  "fetchedAt": "2026-11-25T15:29:01.030Z"
 }
