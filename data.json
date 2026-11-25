@@ -123,6 +123,15 @@
       "waitingSince": "2026-11-11T10:36:13Z"
     },
     {
+      "number": 8813,
+      "title": "fix(minfee): [medium] don't panic validating a genesis without a network min gas price",
+      "url": "https://github.com/celestiaorg/celestia-app/pull/8813",
+      "repo": "celestia-app",
+      "author": "rootulp",
+      "authorCategory": "coworker",
+      "waitingSince": "2026-11-25T16:48:55Z"
+    },
+    {
       "number": 1,
       "title": "chore(deps): bump the go_modules group across 2 directories with 9 updates",
       "url": "https://github.com/celestiaorg/hyperlane-cosmos/pull/1",
@@ -215,5 +224,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-11-25T16:44:02.156Z"
+  "fetchedAt": "2026-11-25T16:49:01.687Z"
 }
