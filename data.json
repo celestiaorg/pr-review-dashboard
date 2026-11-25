@@ -5,6 +5,16 @@
     "damiannolan": [],
     "ninabarbakadze": [
       {
+        "number": 289,
+        "title": "ci: [low] notify #protocol-ci on CI failures",
+        "url": "https://github.com/celestiaorg/cosmos-sdk/pull/289",
+        "repo": "cosmos-sdk",
+        "author": "rootulp",
+        "authorCategory": "coworker",
+        "reviewer": "ninabarbakadze",
+        "requestedAt": "2026-11-25T23:41:27Z"
+      },
+      {
         "number": 364,
         "title": "chore(deps): [medium] bump actions/create-github-app-token from 3.3.0 to 3.4.0",
         "url": "https://github.com/celestiaorg/nmt/pull/364",
@@ -45,6 +55,16 @@
         "authorCategory": "coworker",
         "reviewer": "rach-id",
         "requestedAt": "2026-11-24T23:48:34Z"
+      },
+      {
+        "number": 289,
+        "title": "ci: [low] notify #protocol-ci on CI failures",
+        "url": "https://github.com/celestiaorg/cosmos-sdk/pull/289",
+        "repo": "cosmos-sdk",
+        "author": "rootulp",
+        "authorCategory": "coworker",
+        "reviewer": "rach-id",
+        "requestedAt": "2026-11-25T23:41:25Z"
       },
       {
         "number": 364,
@@ -235,5 +255,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-11-25T23:39:31.021Z"
+  "fetchedAt": "2026-11-25T23:44:31.130Z"
 }
