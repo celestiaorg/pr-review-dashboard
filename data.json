@@ -48,7 +48,18 @@
       }
     ],
     "renaynay": [],
-    "rootulp": [],
+    "rootulp": [
+      {
+        "number": 3825,
+        "title": "build(deps): [medium] bump actions/setup-go from 7.0.0 to 7.1.0",
+        "url": "https://github.com/celestiaorg/celestia-core/pull/3825",
+        "repo": "celestia-core",
+        "author": "dependabot",
+        "authorCategory": "bot",
+        "reviewer": "rootulp",
+        "requestedAt": "2026-11-25T09:23:26Z"
+      }
+    ],
     "vgonkivs": [
       {
         "number": 48,
@@ -204,5 +215,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-11-25T09:18:30.112Z"
+  "fetchedAt": "2026-11-25T09:23:28.852Z"
 }
