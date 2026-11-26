@@ -97,6 +97,16 @@
         "requestedAt": "2026-11-26T14:50:21Z"
       },
       {
+        "number": 3815,
+        "title": "fix(propagation): [high] cap part requests at the parts still needed",
+        "url": "https://github.com/celestiaorg/celestia-core/pull/3815",
+        "repo": "celestia-core",
+        "author": "ninabarbakadze",
+        "authorCategory": "coworker",
+        "reviewer": "rach-id",
+        "requestedAt": "2026-11-26T15:52:51Z"
+      },
+      {
         "number": 8651,
         "title": "fix(fibre): [high] keep upload rows alive until gRPC frees them (backport #8560)",
         "url": "https://github.com/celestiaorg/celestia-app/pull/8651",
@@ -120,14 +130,14 @@
     "renaynay": [],
     "rootulp": [
       {
-        "number": 3817,
-        "title": "fix(consensus/propagation): [high] cap how often a part is served to a peer",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3817",
+        "number": 3815,
+        "title": "fix(propagation): [high] cap part requests at the parts still needed",
+        "url": "https://github.com/celestiaorg/celestia-core/pull/3815",
         "repo": "celestia-core",
         "author": "ninabarbakadze",
         "authorCategory": "coworker",
         "reviewer": "rootulp",
-        "requestedAt": "2026-11-26T10:33:29Z"
+        "requestedAt": "2026-11-24T13:09:22Z"
       },
       {
         "number": 8820,
@@ -326,5 +336,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-11-26T15:50:49.872Z"
+  "fetchedAt": "2026-11-26T15:55:49.484Z"
 }
