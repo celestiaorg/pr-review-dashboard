@@ -82,16 +82,6 @@
     ],
     "vgonkivs": [
       {
-        "number": 48,
-        "title": "docs: [medium] prepare customer docs for the private launch",
-        "url": "https://github.com/celestiaorg/fibre-gateway-client/pull/48",
-        "repo": "fibre-gateway-client",
-        "author": "walldiss",
-        "authorCategory": "coworker",
-        "reviewer": "vgonkivs",
-        "requestedAt": "2026-11-24T17:24:07Z"
-      },
-      {
         "number": 5190,
         "title": "fix(rpc/client): [medium] close namespace connections",
         "url": "https://github.com/celestiaorg/celestia-node/pull/5190",
@@ -235,5 +225,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-11-26T12:25:47.024Z"
+  "fetchedAt": "2026-11-26T12:30:47.321Z"
 }
