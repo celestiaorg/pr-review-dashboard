@@ -5,16 +5,6 @@
     "damiannolan": [],
     "ninabarbakadze": [
       {
-        "number": 289,
-        "title": "ci: [low] notify #protocol-ci on CI failures",
-        "url": "https://github.com/celestiaorg/cosmos-sdk/pull/289",
-        "repo": "cosmos-sdk",
-        "author": "rootulp",
-        "authorCategory": "coworker",
-        "reviewer": "ninabarbakadze",
-        "requestedAt": "2026-11-25T23:41:27Z"
-      },
-      {
         "number": 8818,
         "title": "feat(fibre): [medium] classify packed shard markers in store inspection and startup log",
         "url": "https://github.com/celestiaorg/celestia-app/pull/8818",
@@ -45,16 +35,6 @@
         "authorCategory": "coworker",
         "reviewer": "rach-id",
         "requestedAt": "2026-11-24T23:48:34Z"
-      },
-      {
-        "number": 289,
-        "title": "ci: [low] notify #protocol-ci on CI failures",
-        "url": "https://github.com/celestiaorg/cosmos-sdk/pull/289",
-        "repo": "cosmos-sdk",
-        "author": "rootulp",
-        "authorCategory": "coworker",
-        "reviewer": "rach-id",
-        "requestedAt": "2026-11-25T23:41:25Z"
       },
       {
         "number": 8818,
@@ -235,5 +215,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-11-25T23:59:31.913Z"
+  "fetchedAt": "2026-11-26T00:04:31.566Z"
 }
