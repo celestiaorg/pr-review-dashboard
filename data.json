@@ -97,18 +97,19 @@
         "requestedAt": "2026-11-25T22:58:48Z"
       }
     ],
-    "renaynay": [],
-    "rootulp": [
+    "renaynay": [
       {
-        "number": 3836,
-        "title": "feat(p2p): [high] limit the propagation data channel send queue by bytes",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3836",
-        "repo": "celestia-core",
-        "author": "ninabarbakadze",
-        "authorCategory": "coworker",
-        "reviewer": "rootulp",
-        "requestedAt": "2026-11-26T18:05:56Z"
-      },
+        "number": 444,
+        "title": "feat(sync): [high] trace Head stages and pruning",
+        "url": "https://github.com/celestiaorg/go-header/pull/444",
+        "repo": "go-header",
+        "author": "loglapa",
+        "authorCategory": "external",
+        "reviewer": "renaynay",
+        "requestedAt": "2026-11-26T19:01:09Z"
+      }
+    ],
+    "rootulp": [
       {
         "number": 8818,
         "title": "feat(fibre): [medium] classify packed shard markers in store inspection and startup log",
@@ -173,15 +174,6 @@
       "author": "damiannolan",
       "authorCategory": "coworker",
       "waitingSince": "2026-05-07T13:09:16Z"
-    },
-    {
-      "number": 444,
-      "title": "feat(sync): [high] trace Head stages and pruning",
-      "url": "https://github.com/celestiaorg/go-header/pull/444",
-      "repo": "go-header",
-      "author": "loglapa",
-      "authorCategory": "external",
-      "waitingSince": "2026-11-11T11:02:18Z"
     },
     {
       "number": 3758,
@@ -249,5 +241,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-11-26T18:56:24.941Z"
+  "fetchedAt": "2026-11-26T19:01:25.199Z"
 }
