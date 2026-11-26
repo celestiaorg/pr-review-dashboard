@@ -5,26 +5,6 @@
     "damiannolan": [],
     "ninabarbakadze": [
       {
-        "number": 8820,
-        "title": "perf(fibre): [medium] copy proof segments into upload framing (backport #8179)",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/8820",
-        "repo": "celestia-app",
-        "author": "walldiss",
-        "authorCategory": "coworker",
-        "reviewer": "ninabarbakadze",
-        "requestedAt": "2026-11-26T14:50:18Z"
-      },
-      {
-        "number": 8821,
-        "title": "perf(fibre): [medium] stop boxing each upload buffer view (backport #8249)",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/8821",
-        "repo": "celestia-app",
-        "author": "walldiss",
-        "authorCategory": "coworker",
-        "reviewer": "ninabarbakadze",
-        "requestedAt": "2026-11-26T14:50:22Z"
-      },
-      {
         "number": 8651,
         "title": "fix(fibre): [high] keep upload rows alive until gRPC frees them (backport #8560)",
         "url": "https://github.com/celestiaorg/celestia-app/pull/8651",
@@ -77,26 +57,6 @@
         "requestedAt": "2026-11-26T10:29:39Z"
       },
       {
-        "number": 8820,
-        "title": "perf(fibre): [medium] copy proof segments into upload framing (backport #8179)",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/8820",
-        "repo": "celestia-app",
-        "author": "walldiss",
-        "authorCategory": "coworker",
-        "reviewer": "rach-id",
-        "requestedAt": "2026-11-26T14:50:16Z"
-      },
-      {
-        "number": 8821,
-        "title": "perf(fibre): [medium] stop boxing each upload buffer view (backport #8249)",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/8821",
-        "repo": "celestia-app",
-        "author": "walldiss",
-        "authorCategory": "coworker",
-        "reviewer": "rach-id",
-        "requestedAt": "2026-11-26T14:50:21Z"
-      },
-      {
         "number": 3815,
         "title": "fix(propagation): [high] cap part requests at the parts still needed",
         "url": "https://github.com/celestiaorg/celestia-core/pull/3815",
@@ -129,16 +89,6 @@
     ],
     "renaynay": [],
     "rootulp": [
-      {
-        "number": 3815,
-        "title": "fix(propagation): [high] cap part requests at the parts still needed",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3815",
-        "repo": "celestia-core",
-        "author": "ninabarbakadze",
-        "authorCategory": "coworker",
-        "reviewer": "rootulp",
-        "requestedAt": "2026-11-24T13:09:22Z"
-      },
       {
         "number": 8651,
         "title": "fix(fibre): [high] keep upload rows alive until gRPC frees them (backport #8560)",
@@ -316,5 +266,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-11-26T16:05:49.491Z"
+  "fetchedAt": "2026-11-26T16:10:50.344Z"
 }
