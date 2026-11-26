@@ -185,24 +185,6 @@
       "waitingSince": "2026-05-07T13:09:16Z"
     },
     {
-      "number": 1153,
-      "title": "chore(deps)!: [high] update prost, tonic and tendermint-rs",
-      "url": "https://github.com/celestiaorg/lumina/pull/1153",
-      "repo": "lumina",
-      "author": "citizen-stig",
-      "authorCategory": "coworker",
-      "waitingSince": "2026-11-11T10:36:13Z"
-    },
-    {
-      "number": 1,
-      "title": "chore(deps): bump the go_modules group across 2 directories with 9 updates",
-      "url": "https://github.com/celestiaorg/hyperlane-cosmos/pull/1",
-      "repo": "hyperlane-cosmos",
-      "author": "dependabot",
-      "authorCategory": "bot",
-      "waitingSince": "2026-05-06T09:34:40Z"
-    },
-    {
       "number": 444,
       "title": "feat(sync): [high] trace Head stages and pruning",
       "url": "https://github.com/celestiaorg/go-header/pull/444",
@@ -277,5 +259,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-11-26T18:31:24.939Z"
+  "fetchedAt": "2026-11-26T18:36:24.617Z"
 }
