@@ -183,15 +183,6 @@
       "waitingSince": "2026-05-06T09:34:40Z"
     },
     {
-      "number": 218,
-      "title": "chore(deps): [medium] bump go.opentelemetry.io/otel/sdk from 1.45.0 to 1.47.0 in the go_modules group across 1 directory",
-      "url": "https://github.com/celestiaorg/tastora/pull/218",
-      "repo": "tastora",
-      "author": "dependabot",
-      "authorCategory": "bot",
-      "waitingSince": "2026-11-14T05:11:10Z"
-    },
-    {
       "number": 444,
       "title": "feat(sync): [high] trace Head stages and pruning",
       "url": "https://github.com/celestiaorg/go-header/pull/444",
@@ -266,5 +257,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-11-26T16:35:51.573Z"
+  "fetchedAt": "2026-11-26T16:40:51.154Z"
 }
