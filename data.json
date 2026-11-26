@@ -15,6 +15,36 @@
         "requestedAt": "2026-11-26T14:50:43Z"
       },
       {
+        "number": 343,
+        "title": "chore(deps): [medium] bump slackapi/slack-github-action from 4.0.0 to 4.1.0",
+        "url": "https://github.com/celestiaorg/go-square/pull/343",
+        "repo": "go-square",
+        "author": "dependabot",
+        "authorCategory": "bot",
+        "reviewer": "ninabarbakadze",
+        "requestedAt": "2026-11-26T19:33:02Z"
+      },
+      {
+        "number": 344,
+        "title": "chore(deps): [medium] bump amannn/action-semantic-pull-request from 6.1.2 to 6.1.3",
+        "url": "https://github.com/celestiaorg/go-square/pull/344",
+        "repo": "go-square",
+        "author": "dependabot",
+        "authorCategory": "bot",
+        "reviewer": "ninabarbakadze",
+        "requestedAt": "2026-11-26T19:33:10Z"
+      },
+      {
+        "number": 345,
+        "title": "chore(deps): [medium] bump actions/create-github-app-token from 3.3.0 to 3.4.0",
+        "url": "https://github.com/celestiaorg/go-square/pull/345",
+        "repo": "go-square",
+        "author": "dependabot",
+        "authorCategory": "bot",
+        "reviewer": "ninabarbakadze",
+        "requestedAt": "2026-11-26T19:33:15Z"
+      },
+      {
         "number": 8818,
         "title": "feat(fibre): [medium] classify packed shard markers in store inspection and startup log",
         "url": "https://github.com/celestiaorg/celestia-app/pull/8818",
@@ -87,6 +117,36 @@
         "requestedAt": "2026-11-26T14:50:41Z"
       },
       {
+        "number": 343,
+        "title": "chore(deps): [medium] bump slackapi/slack-github-action from 4.0.0 to 4.1.0",
+        "url": "https://github.com/celestiaorg/go-square/pull/343",
+        "repo": "go-square",
+        "author": "dependabot",
+        "authorCategory": "bot",
+        "reviewer": "rach-id",
+        "requestedAt": "2026-11-26T19:33:00Z"
+      },
+      {
+        "number": 344,
+        "title": "chore(deps): [medium] bump amannn/action-semantic-pull-request from 6.1.2 to 6.1.3",
+        "url": "https://github.com/celestiaorg/go-square/pull/344",
+        "repo": "go-square",
+        "author": "dependabot",
+        "authorCategory": "bot",
+        "reviewer": "rach-id",
+        "requestedAt": "2026-11-26T19:33:07Z"
+      },
+      {
+        "number": 345,
+        "title": "chore(deps): [medium] bump actions/create-github-app-token from 3.3.0 to 3.4.0",
+        "url": "https://github.com/celestiaorg/go-square/pull/345",
+        "repo": "go-square",
+        "author": "dependabot",
+        "authorCategory": "bot",
+        "reviewer": "rach-id",
+        "requestedAt": "2026-11-26T19:33:13Z"
+      },
+      {
         "number": 8818,
         "title": "feat(fibre): [medium] classify packed shard markers in store inspection and startup log",
         "url": "https://github.com/celestiaorg/celestia-app/pull/8818",
@@ -110,6 +170,36 @@
       }
     ],
     "rootulp": [
+      {
+        "number": 343,
+        "title": "chore(deps): [medium] bump slackapi/slack-github-action from 4.0.0 to 4.1.0",
+        "url": "https://github.com/celestiaorg/go-square/pull/343",
+        "repo": "go-square",
+        "author": "dependabot",
+        "authorCategory": "bot",
+        "reviewer": "rootulp",
+        "requestedAt": "2026-11-26T19:33:01Z"
+      },
+      {
+        "number": 344,
+        "title": "chore(deps): [medium] bump amannn/action-semantic-pull-request from 6.1.2 to 6.1.3",
+        "url": "https://github.com/celestiaorg/go-square/pull/344",
+        "repo": "go-square",
+        "author": "dependabot",
+        "authorCategory": "bot",
+        "reviewer": "rootulp",
+        "requestedAt": "2026-11-26T19:33:09Z"
+      },
+      {
+        "number": 345,
+        "title": "chore(deps): [medium] bump actions/create-github-app-token from 3.3.0 to 3.4.0",
+        "url": "https://github.com/celestiaorg/go-square/pull/345",
+        "repo": "go-square",
+        "author": "dependabot",
+        "authorCategory": "bot",
+        "reviewer": "rootulp",
+        "requestedAt": "2026-11-26T19:33:14Z"
+      },
       {
         "number": 8818,
         "title": "feat(fibre): [medium] classify packed shard markers in store inspection and startup log",
@@ -232,5 +322,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-11-26T19:31:25.083Z"
+  "fetchedAt": "2026-11-26T19:36:26.077Z"
 }
