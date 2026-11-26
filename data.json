@@ -140,26 +140,6 @@
         "requestedAt": "2026-11-24T13:09:22Z"
       },
       {
-        "number": 8820,
-        "title": "perf(fibre): [medium] copy proof segments into upload framing (backport #8179)",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/8820",
-        "repo": "celestia-app",
-        "author": "walldiss",
-        "authorCategory": "coworker",
-        "reviewer": "rootulp",
-        "requestedAt": "2026-11-26T14:50:15Z"
-      },
-      {
-        "number": 8821,
-        "title": "perf(fibre): [medium] stop boxing each upload buffer view (backport #8249)",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/8821",
-        "repo": "celestia-app",
-        "author": "walldiss",
-        "authorCategory": "coworker",
-        "reviewer": "rootulp",
-        "requestedAt": "2026-11-26T14:50:19Z"
-      },
-      {
         "number": 8651,
         "title": "fix(fibre): [high] keep upload rows alive until gRPC frees them (backport #8560)",
         "url": "https://github.com/celestiaorg/celestia-app/pull/8651",
@@ -336,5 +316,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-11-26T15:55:49.484Z"
+  "fetchedAt": "2026-11-26T16:00:49.780Z"
 }
