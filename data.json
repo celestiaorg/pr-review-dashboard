@@ -35,16 +35,6 @@
         "requestedAt": "2026-11-26T00:51:18Z"
       },
       {
-        "number": 290,
-        "title": "docs: [low] correct default branch and celestia-core pin in CLAUDE.md",
-        "url": "https://github.com/celestiaorg/cosmos-sdk/pull/290",
-        "repo": "cosmos-sdk",
-        "author": "rootulp",
-        "authorCategory": "coworker",
-        "reviewer": "ninabarbakadze",
-        "requestedAt": "2026-11-26T00:51:49Z"
-      },
-      {
         "number": 8818,
         "title": "feat(fibre): [medium] classify packed shard markers in store inspection and startup log",
         "url": "https://github.com/celestiaorg/celestia-app/pull/8818",
@@ -105,16 +95,6 @@
         "authorCategory": "coworker",
         "reviewer": "rach-id",
         "requestedAt": "2026-11-26T00:51:17Z"
-      },
-      {
-        "number": 290,
-        "title": "docs: [low] correct default branch and celestia-core pin in CLAUDE.md",
-        "url": "https://github.com/celestiaorg/cosmos-sdk/pull/290",
-        "repo": "cosmos-sdk",
-        "author": "rootulp",
-        "authorCategory": "coworker",
-        "reviewer": "rach-id",
-        "requestedAt": "2026-11-26T00:51:47Z"
       },
       {
         "number": 8818,
@@ -295,5 +275,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-11-26T01:09:56.653Z"
+  "fetchedAt": "2026-11-26T01:14:56.723Z"
 }
