@@ -5,6 +5,36 @@
     "damiannolan": [],
     "ninabarbakadze": [
       {
+        "number": 8820,
+        "title": "perf(fibre): [medium] copy proof segments into upload framing (backport #8179)",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/8820",
+        "repo": "celestia-app",
+        "author": "walldiss",
+        "authorCategory": "coworker",
+        "reviewer": "ninabarbakadze",
+        "requestedAt": "2026-11-26T14:50:18Z"
+      },
+      {
+        "number": 8821,
+        "title": "perf(fibre): [medium] stop boxing each upload buffer view (backport #8249)",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/8821",
+        "repo": "celestia-app",
+        "author": "walldiss",
+        "authorCategory": "coworker",
+        "reviewer": "ninabarbakadze",
+        "requestedAt": "2026-11-26T14:50:22Z"
+      },
+      {
+        "number": 8651,
+        "title": "fix(fibre): [high] keep upload rows alive until gRPC frees them (backport #8560)",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/8651",
+        "repo": "celestia-app",
+        "author": "mergify",
+        "authorCategory": "bot",
+        "reviewer": "ninabarbakadze",
+        "requestedAt": "2026-11-26T14:50:43Z"
+      },
+      {
         "number": 8818,
         "title": "feat(fibre): [medium] classify packed shard markers in store inspection and startup log",
         "url": "https://github.com/celestiaorg/celestia-app/pull/8818",
@@ -47,6 +77,36 @@
         "requestedAt": "2026-11-26T10:29:39Z"
       },
       {
+        "number": 8820,
+        "title": "perf(fibre): [medium] copy proof segments into upload framing (backport #8179)",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/8820",
+        "repo": "celestia-app",
+        "author": "walldiss",
+        "authorCategory": "coworker",
+        "reviewer": "rach-id",
+        "requestedAt": "2026-11-26T14:50:16Z"
+      },
+      {
+        "number": 8821,
+        "title": "perf(fibre): [medium] stop boxing each upload buffer view (backport #8249)",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/8821",
+        "repo": "celestia-app",
+        "author": "walldiss",
+        "authorCategory": "coworker",
+        "reviewer": "rach-id",
+        "requestedAt": "2026-11-26T14:50:21Z"
+      },
+      {
+        "number": 8651,
+        "title": "fix(fibre): [high] keep upload rows alive until gRPC frees them (backport #8560)",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/8651",
+        "repo": "celestia-app",
+        "author": "mergify",
+        "authorCategory": "bot",
+        "reviewer": "rach-id",
+        "requestedAt": "2026-11-26T14:50:41Z"
+      },
+      {
         "number": 8818,
         "title": "feat(fibre): [medium] classify packed shard markers in store inspection and startup log",
         "url": "https://github.com/celestiaorg/celestia-app/pull/8818",
@@ -68,6 +128,36 @@
         "authorCategory": "coworker",
         "reviewer": "rootulp",
         "requestedAt": "2026-11-26T10:33:29Z"
+      },
+      {
+        "number": 8820,
+        "title": "perf(fibre): [medium] copy proof segments into upload framing (backport #8179)",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/8820",
+        "repo": "celestia-app",
+        "author": "walldiss",
+        "authorCategory": "coworker",
+        "reviewer": "rootulp",
+        "requestedAt": "2026-11-26T14:50:15Z"
+      },
+      {
+        "number": 8821,
+        "title": "perf(fibre): [medium] stop boxing each upload buffer view (backport #8249)",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/8821",
+        "repo": "celestia-app",
+        "author": "walldiss",
+        "authorCategory": "coworker",
+        "reviewer": "rootulp",
+        "requestedAt": "2026-11-26T14:50:19Z"
+      },
+      {
+        "number": 8651,
+        "title": "fix(fibre): [high] keep upload rows alive until gRPC frees them (backport #8560)",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/8651",
+        "repo": "celestia-app",
+        "author": "mergify",
+        "authorCategory": "bot",
+        "reviewer": "rootulp",
+        "requestedAt": "2026-11-26T14:50:40Z"
       },
       {
         "number": 8818,
@@ -93,7 +183,18 @@
       }
     ],
     "theodorebugnet": [],
-    "walldiss": []
+    "walldiss": [
+      {
+        "number": 8651,
+        "title": "fix(fibre): [high] keep upload rows alive until gRPC frees them (backport #8560)",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/8651",
+        "repo": "celestia-app",
+        "author": "mergify",
+        "authorCategory": "bot",
+        "reviewer": "walldiss",
+        "requestedAt": "2026-11-16T22:29:11Z"
+      }
+    ]
   },
   "unassigned": [
     {
@@ -225,5 +326,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-11-26T14:45:49.171Z"
+  "fetchedAt": "2026-11-26T14:50:48.302Z"
 }
