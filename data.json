@@ -60,6 +60,16 @@
     "renaynay": [],
     "rootulp": [
       {
+        "number": 3817,
+        "title": "fix(consensus/propagation): [high] cap how often a part is served to a peer",
+        "url": "https://github.com/celestiaorg/celestia-core/pull/3817",
+        "repo": "celestia-core",
+        "author": "ninabarbakadze",
+        "authorCategory": "coworker",
+        "reviewer": "rootulp",
+        "requestedAt": "2026-11-26T10:33:29Z"
+      },
+      {
         "number": 8818,
         "title": "feat(fibre): [medium] classify packed shard markers in store inspection and startup log",
         "url": "https://github.com/celestiaorg/celestia-app/pull/8818",
@@ -225,5 +235,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-11-26T10:30:22.195Z"
+  "fetchedAt": "2026-11-26T10:35:22.934Z"
 }
