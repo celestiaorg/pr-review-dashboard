@@ -70,6 +70,16 @@
         "requestedAt": "2026-11-26T10:33:29Z"
       },
       {
+        "number": 8819,
+        "title": "Update test-coverage.yml",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/8819",
+        "repo": "celestia-app",
+        "author": "sysrex",
+        "authorCategory": "coworker",
+        "reviewer": "rootulp",
+        "requestedAt": "2026-11-26T12:45:45Z"
+      },
+      {
         "number": 8818,
         "title": "feat(fibre): [medium] classify packed shard markers in store inspection and startup log",
         "url": "https://github.com/celestiaorg/celestia-app/pull/8818",
@@ -225,5 +235,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-11-26T12:40:47.308Z"
+  "fetchedAt": "2026-11-26T12:45:47.095Z"
 }
