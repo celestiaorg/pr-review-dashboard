@@ -5,36 +5,6 @@
     "damiannolan": [],
     "ninabarbakadze": [
       {
-        "number": 341,
-        "title": "test: [low] add fuzz targets for namespaces, layout arithmetic and square positions",
-        "url": "https://github.com/celestiaorg/go-square/pull/341",
-        "repo": "go-square",
-        "author": "rootulp",
-        "authorCategory": "coworker",
-        "reviewer": "ninabarbakadze",
-        "requestedAt": "2026-11-26T00:51:07Z"
-      },
-      {
-        "number": 476,
-        "title": "test: [low] add fuzz targets for repair soundness, codec input and EDS mutation APIs",
-        "url": "https://github.com/celestiaorg/rsmt2d/pull/476",
-        "repo": "rsmt2d",
-        "author": "rootulp",
-        "authorCategory": "coworker",
-        "reviewer": "ninabarbakadze",
-        "requestedAt": "2026-11-26T00:51:07Z"
-      },
-      {
-        "number": 366,
-        "title": "test: [low] add fuzz targets and a fuzz workflow for proof verification, decoding and hasher",
-        "url": "https://github.com/celestiaorg/nmt/pull/366",
-        "repo": "nmt",
-        "author": "rootulp",
-        "authorCategory": "coworker",
-        "reviewer": "ninabarbakadze",
-        "requestedAt": "2026-11-26T00:51:18Z"
-      },
-      {
         "number": 8818,
         "title": "feat(fibre): [medium] classify packed shard markers in store inspection and startup log",
         "url": "https://github.com/celestiaorg/celestia-app/pull/8818",
@@ -65,36 +35,6 @@
         "authorCategory": "coworker",
         "reviewer": "rach-id",
         "requestedAt": "2026-11-24T23:48:34Z"
-      },
-      {
-        "number": 341,
-        "title": "test: [low] add fuzz targets for namespaces, layout arithmetic and square positions",
-        "url": "https://github.com/celestiaorg/go-square/pull/341",
-        "repo": "go-square",
-        "author": "rootulp",
-        "authorCategory": "coworker",
-        "reviewer": "rach-id",
-        "requestedAt": "2026-11-26T00:51:06Z"
-      },
-      {
-        "number": 476,
-        "title": "test: [low] add fuzz targets for repair soundness, codec input and EDS mutation APIs",
-        "url": "https://github.com/celestiaorg/rsmt2d/pull/476",
-        "repo": "rsmt2d",
-        "author": "rootulp",
-        "authorCategory": "coworker",
-        "reviewer": "rach-id",
-        "requestedAt": "2026-11-26T00:51:06Z"
-      },
-      {
-        "number": 366,
-        "title": "test: [low] add fuzz targets and a fuzz workflow for proof verification, decoding and hasher",
-        "url": "https://github.com/celestiaorg/nmt/pull/366",
-        "repo": "nmt",
-        "author": "rootulp",
-        "authorCategory": "coworker",
-        "reviewer": "rach-id",
-        "requestedAt": "2026-11-26T00:51:17Z"
       },
       {
         "number": 8818,
@@ -275,5 +215,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-11-26T05:19:59.864Z"
+  "fetchedAt": "2026-11-26T05:25:01.102Z"
 }
