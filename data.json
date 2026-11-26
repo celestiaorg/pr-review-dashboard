@@ -5,16 +5,6 @@
     "damiannolan": [],
     "ninabarbakadze": [
       {
-        "number": 279,
-        "title": "fix(baseapp): [medium] pin check state to the committed version before writing a block",
-        "url": "https://github.com/celestiaorg/cosmos-sdk/pull/279",
-        "repo": "cosmos-sdk",
-        "author": "rach-id",
-        "authorCategory": "coworker",
-        "reviewer": "ninabarbakadze",
-        "requestedAt": "2026-11-26T08:57:02Z"
-      },
-      {
         "number": 8818,
         "title": "feat(fibre): [medium] classify packed shard markers in store inspection and startup log",
         "url": "https://github.com/celestiaorg/celestia-app/pull/8818",
@@ -59,16 +49,6 @@
     ],
     "renaynay": [],
     "rootulp": [
-      {
-        "number": 279,
-        "title": "fix(baseapp): [medium] pin check state to the committed version before writing a block",
-        "url": "https://github.com/celestiaorg/cosmos-sdk/pull/279",
-        "repo": "cosmos-sdk",
-        "author": "rach-id",
-        "authorCategory": "coworker",
-        "reviewer": "rootulp",
-        "requestedAt": "2026-11-26T08:57:00Z"
-      },
       {
         "number": 8818,
         "title": "feat(fibre): [medium] classify packed shard markers in store inspection and startup log",
@@ -235,5 +215,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-11-26T09:00:21.789Z"
+  "fetchedAt": "2026-11-26T09:05:21.028Z"
 }
