@@ -149,16 +149,6 @@
         "requestedAt": "2026-11-27T04:09:15Z"
       },
       {
-        "number": 452,
-        "title": "chore(deps): [medium] bump actions/create-github-app-token from 3.3.0 to 3.4.0",
-        "url": "https://github.com/celestiaorg/go-header/pull/452",
-        "repo": "go-header",
-        "author": "dependabot",
-        "authorCategory": "bot",
-        "reviewer": "renaynay",
-        "requestedAt": "2026-11-27T04:09:18Z"
-      },
-      {
         "number": 444,
         "title": "feat(sync): [high] trace Head stages and pruning",
         "url": "https://github.com/celestiaorg/go-header/pull/444",
@@ -193,16 +183,6 @@
         "requestedAt": "2026-11-27T04:09:13Z"
       },
       {
-        "number": 452,
-        "title": "chore(deps): [medium] bump actions/create-github-app-token from 3.3.0 to 3.4.0",
-        "url": "https://github.com/celestiaorg/go-header/pull/452",
-        "repo": "go-header",
-        "author": "dependabot",
-        "authorCategory": "bot",
-        "reviewer": "vgonkivs",
-        "requestedAt": "2026-11-27T04:09:17Z"
-      },
-      {
         "number": 5190,
         "title": "fix(rpc/client): [medium] close namespace connections",
         "url": "https://github.com/celestiaorg/celestia-node/pull/5190",
@@ -234,16 +214,6 @@
         "authorCategory": "bot",
         "reviewer": "walldiss",
         "requestedAt": "2026-11-27T04:09:12Z"
-      },
-      {
-        "number": 452,
-        "title": "chore(deps): [medium] bump actions/create-github-app-token from 3.3.0 to 3.4.0",
-        "url": "https://github.com/celestiaorg/go-header/pull/452",
-        "repo": "go-header",
-        "author": "dependabot",
-        "authorCategory": "bot",
-        "reviewer": "walldiss",
-        "requestedAt": "2026-11-27T04:09:16Z"
       }
     ]
   },
@@ -332,5 +302,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-11-27T05:07:45.055Z"
+  "fetchedAt": "2026-11-27T05:12:44.822Z"
 }
