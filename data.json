@@ -27,16 +27,6 @@
     ],
     "rach-id": [
       {
-        "number": 3770,
-        "title": "fix(propagation)!: [high] sign a fixed-size compact block digest from app version 12",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3770",
-        "repo": "celestia-core",
-        "author": "ninabarbakadze",
-        "authorCategory": "coworker",
-        "reviewer": "rach-id",
-        "requestedAt": "2026-11-23T10:31:14Z"
-      },
-      {
         "number": 3836,
         "title": "feat(p2p): [high] limit the propagation data channel send queue by bytes",
         "url": "https://github.com/celestiaorg/celestia-core/pull/3836",
@@ -262,5 +252,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-11-27T14:38:18.284Z"
+  "fetchedAt": "2026-11-27T14:43:16.497Z"
 }
