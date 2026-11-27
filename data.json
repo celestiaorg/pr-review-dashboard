@@ -27,36 +27,6 @@
         "requestedAt": "2026-11-27T13:26:37Z"
       },
       {
-        "number": 3832,
-        "title": "feat(abci): [high] add TxUsage to ResponseCheckTx and BlockLimits to ResponseInfo and ResponseFinalizeBlock",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3832",
-        "repo": "celestia-core",
-        "author": "ninabarbakadze",
-        "authorCategory": "coworker",
-        "reviewer": "rach-id",
-        "requestedAt": "2026-11-27T13:54:42Z"
-      },
-      {
-        "number": 3833,
-        "title": "fix(mempool): [high] apply the app's per-block limits when reaping",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3833",
-        "repo": "celestia-core",
-        "author": "ninabarbakadze",
-        "authorCategory": "coworker",
-        "reviewer": "rach-id",
-        "requestedAt": "2026-11-27T13:54:50Z"
-      },
-      {
-        "number": 3834,
-        "title": "fix(state): [high] pass the app's per-block limits to the mempool",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3834",
-        "repo": "celestia-core",
-        "author": "ninabarbakadze",
-        "authorCategory": "coworker",
-        "reviewer": "rach-id",
-        "requestedAt": "2026-11-27T13:55:00Z"
-      },
-      {
         "number": 8825,
         "title": "feat: [medium] report active validator binary versions over OTLP",
         "url": "https://github.com/celestiaorg/celestia-app/pull/8825",
@@ -252,5 +222,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-11-27T18:03:45.712Z"
+  "fetchedAt": "2026-11-27T18:08:45.738Z"
 }
