@@ -25,16 +25,6 @@
         "requestedAt": "2026-11-27T00:22:02Z"
       },
       {
-        "number": 8651,
-        "title": "fix(fibre): [high] keep upload rows alive until gRPC frees them (backport #8560)",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/8651",
-        "repo": "celestia-app",
-        "author": "mergify",
-        "authorCategory": "bot",
-        "reviewer": "ninabarbakadze",
-        "requestedAt": "2026-11-26T14:50:43Z"
-      },
-      {
         "number": 8818,
         "title": "feat(fibre): [medium] classify packed shard markers in store inspection and startup log",
         "url": "https://github.com/celestiaorg/celestia-app/pull/8818",
@@ -292,5 +282,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-11-27T11:08:13.297Z"
+  "fetchedAt": "2026-11-27T11:13:14.686Z"
 }
