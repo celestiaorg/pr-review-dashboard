@@ -57,26 +57,6 @@
         "requestedAt": "2026-11-26T15:52:51Z"
       },
       {
-        "number": 3836,
-        "title": "feat(p2p): [high] limit the propagation data channel send queue by bytes",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3836",
-        "repo": "celestia-core",
-        "author": "ninabarbakadze",
-        "authorCategory": "coworker",
-        "reviewer": "rach-id",
-        "requestedAt": "2026-11-26T18:05:57Z"
-      },
-      {
-        "number": 3840,
-        "title": "fix(consensus/propagation): [high] check the stored identity when gossiping a compact block",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3840",
-        "repo": "celestia-core",
-        "author": "rootulp",
-        "authorCategory": "coworker",
-        "reviewer": "rach-id",
-        "requestedAt": "2026-11-27T00:22:01Z"
-      },
-      {
         "number": 8651,
         "title": "fix(fibre): [high] keep upload rows alive until gRPC frees them (backport #8560)",
         "url": "https://github.com/celestiaorg/celestia-app/pull/8651",
@@ -262,5 +242,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-11-27T11:48:13.860Z"
+  "fetchedAt": "2026-11-27T11:53:13.945Z"
 }
