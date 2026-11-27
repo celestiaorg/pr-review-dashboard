@@ -47,26 +47,6 @@
         "requestedAt": "2026-11-23T10:31:14Z"
       },
       {
-        "number": 3787,
-        "title": "fix(propagation): [high] give each peer its own share of the stored parts budget",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3787",
-        "repo": "celestia-core",
-        "author": "rootulp",
-        "authorCategory": "coworker",
-        "reviewer": "rach-id",
-        "requestedAt": "2026-11-24T23:48:34Z"
-      },
-      {
-        "number": 3817,
-        "title": "fix(consensus/propagation): [high] cap how often a part is served to a peer",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3817",
-        "repo": "celestia-core",
-        "author": "ninabarbakadze",
-        "authorCategory": "coworker",
-        "reviewer": "rach-id",
-        "requestedAt": "2026-11-26T10:29:39Z"
-      },
-      {
         "number": 3815,
         "title": "fix(propagation): [high] cap part requests at the parts still needed",
         "url": "https://github.com/celestiaorg/celestia-core/pull/3815",
@@ -282,5 +262,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-11-27T11:38:13.347Z"
+  "fetchedAt": "2026-11-27T11:43:13.834Z"
 }
