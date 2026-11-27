@@ -37,16 +37,6 @@
         "requestedAt": "2026-11-23T10:31:14Z"
       },
       {
-        "number": 3815,
-        "title": "fix(propagation): [high] cap part requests at the parts still needed",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3815",
-        "repo": "celestia-core",
-        "author": "ninabarbakadze",
-        "authorCategory": "coworker",
-        "reviewer": "rach-id",
-        "requestedAt": "2026-11-26T15:52:51Z"
-      },
-      {
         "number": 3836,
         "title": "feat(p2p): [high] limit the propagation data channel send queue by bytes",
         "url": "https://github.com/celestiaorg/celestia-core/pull/3836",
@@ -272,5 +262,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-11-27T14:33:16.785Z"
+  "fetchedAt": "2026-11-27T14:38:18.284Z"
 }
