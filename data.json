@@ -131,16 +131,6 @@
         "requestedAt": "2026-11-27T13:55:42Z"
       },
       {
-        "number": 8825,
-        "title": "feat: [medium] report active validator binary versions over OTLP",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/8825",
-        "repo": "celestia-app",
-        "author": "damiannolan",
-        "authorCategory": "coworker",
-        "reviewer": "rootulp",
-        "requestedAt": "2026-11-27T14:14:48Z"
-      },
-      {
         "number": 8815,
         "title": "fix(app): [high] report tx usage and per-block limits to the mempool",
         "url": "https://github.com/celestiaorg/celestia-app/pull/8815",
@@ -262,5 +252,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-11-27T16:53:45.648Z"
+  "fetchedAt": "2026-11-27T16:58:44.695Z"
 }
