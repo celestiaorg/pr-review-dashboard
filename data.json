@@ -13,6 +13,26 @@
         "authorCategory": "coworker",
         "reviewer": "ninabarbakadze",
         "requestedAt": "2026-11-27T14:14:51Z"
+      },
+      {
+        "number": 368,
+        "title": "chore(deps): [high] bump github.com/tidwall/gjson from 1.20.4 to 1.20.5",
+        "url": "https://github.com/celestiaorg/nmt/pull/368",
+        "repo": "nmt",
+        "author": "dependabot",
+        "authorCategory": "bot",
+        "reviewer": "ninabarbakadze",
+        "requestedAt": "2026-11-27T21:03:10Z"
+      },
+      {
+        "number": 369,
+        "title": "chore(deps): [medium] bump slackapi/slack-github-action from 4.0.0 to 4.1.0",
+        "url": "https://github.com/celestiaorg/nmt/pull/369",
+        "repo": "nmt",
+        "author": "dependabot",
+        "authorCategory": "bot",
+        "reviewer": "ninabarbakadze",
+        "requestedAt": "2026-11-27T21:03:21Z"
       }
     ],
     "rach-id": [
@@ -25,6 +45,26 @@
         "authorCategory": "coworker",
         "reviewer": "rach-id",
         "requestedAt": "2026-11-27T13:26:37Z"
+      },
+      {
+        "number": 368,
+        "title": "chore(deps): [high] bump github.com/tidwall/gjson from 1.20.4 to 1.20.5",
+        "url": "https://github.com/celestiaorg/nmt/pull/368",
+        "repo": "nmt",
+        "author": "dependabot",
+        "authorCategory": "bot",
+        "reviewer": "rach-id",
+        "requestedAt": "2026-11-27T21:03:07Z"
+      },
+      {
+        "number": 369,
+        "title": "chore(deps): [medium] bump slackapi/slack-github-action from 4.0.0 to 4.1.0",
+        "url": "https://github.com/celestiaorg/nmt/pull/369",
+        "repo": "nmt",
+        "author": "dependabot",
+        "authorCategory": "bot",
+        "reviewer": "rach-id",
+        "requestedAt": "2026-11-27T21:03:19Z"
       }
     ],
     "renaynay": [
@@ -49,6 +89,26 @@
         "authorCategory": "coworker",
         "reviewer": "rootulp",
         "requestedAt": "2026-11-27T13:26:37Z"
+      },
+      {
+        "number": 368,
+        "title": "chore(deps): [high] bump github.com/tidwall/gjson from 1.20.4 to 1.20.5",
+        "url": "https://github.com/celestiaorg/nmt/pull/368",
+        "repo": "nmt",
+        "author": "dependabot",
+        "authorCategory": "bot",
+        "reviewer": "rootulp",
+        "requestedAt": "2026-11-27T21:03:08Z"
+      },
+      {
+        "number": 369,
+        "title": "chore(deps): [medium] bump slackapi/slack-github-action from 4.0.0 to 4.1.0",
+        "url": "https://github.com/celestiaorg/nmt/pull/369",
+        "repo": "nmt",
+        "author": "dependabot",
+        "authorCategory": "bot",
+        "reviewer": "rootulp",
+        "requestedAt": "2026-11-27T21:03:20Z"
       }
     ],
     "vgonkivs": [
@@ -162,5 +222,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-11-27T20:59:08.906Z"
+  "fetchedAt": "2026-11-27T21:04:09.043Z"
 }
