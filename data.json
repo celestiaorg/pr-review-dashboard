@@ -75,6 +75,16 @@
         "authorCategory": "coworker",
         "reviewer": "rach-id",
         "requestedAt": "2026-11-27T14:14:50Z"
+      },
+      {
+        "number": 8815,
+        "title": "fix(app): [high] report tx usage and per-block limits to the mempool",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/8815",
+        "repo": "celestia-app",
+        "author": "ninabarbakadze",
+        "authorCategory": "coworker",
+        "reviewer": "rach-id",
+        "requestedAt": "2026-11-27T15:03:23Z"
       }
     ],
     "renaynay": [
@@ -139,6 +149,16 @@
         "authorCategory": "coworker",
         "reviewer": "rootulp",
         "requestedAt": "2026-11-27T14:14:48Z"
+      },
+      {
+        "number": 8815,
+        "title": "fix(app): [high] report tx usage and per-block limits to the mempool",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/8815",
+        "repo": "celestia-app",
+        "author": "ninabarbakadze",
+        "authorCategory": "coworker",
+        "reviewer": "rootulp",
+        "requestedAt": "2026-11-27T15:03:28Z"
       }
     ],
     "vgonkivs": [
@@ -252,5 +272,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-11-27T14:58:42.786Z"
+  "fetchedAt": "2026-11-27T15:03:44.169Z"
 }
