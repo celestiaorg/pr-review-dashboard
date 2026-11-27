@@ -13,6 +13,16 @@
         "authorCategory": "coworker",
         "reviewer": "ninabarbakadze",
         "requestedAt": "2026-11-27T00:10:46Z"
+      },
+      {
+        "number": 8825,
+        "title": "feat: [medium] report active validator binary versions over OTLP",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/8825",
+        "repo": "celestia-app",
+        "author": "damiannolan",
+        "authorCategory": "coworker",
+        "reviewer": "ninabarbakadze",
+        "requestedAt": "2026-11-27T14:14:51Z"
       }
     ],
     "rach-id": [
@@ -75,6 +85,16 @@
         "authorCategory": "coworker",
         "reviewer": "rach-id",
         "requestedAt": "2026-11-27T13:55:00Z"
+      },
+      {
+        "number": 8825,
+        "title": "feat: [medium] report active validator binary versions over OTLP",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/8825",
+        "repo": "celestia-app",
+        "author": "damiannolan",
+        "authorCategory": "coworker",
+        "reviewer": "rach-id",
+        "requestedAt": "2026-11-27T14:14:50Z"
       }
     ],
     "renaynay": [
@@ -129,6 +149,16 @@
         "authorCategory": "coworker",
         "reviewer": "rootulp",
         "requestedAt": "2026-11-27T13:55:42Z"
+      },
+      {
+        "number": 8825,
+        "title": "feat: [medium] report active validator binary versions over OTLP",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/8825",
+        "repo": "celestia-app",
+        "author": "damiannolan",
+        "authorCategory": "coworker",
+        "reviewer": "rootulp",
+        "requestedAt": "2026-11-27T14:14:48Z"
       }
     ],
     "vgonkivs": [
@@ -242,5 +272,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-11-27T14:13:19.276Z"
+  "fetchedAt": "2026-11-27T14:18:16.504Z"
 }
