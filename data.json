@@ -15,6 +15,16 @@
         "requestedAt": "2026-11-27T00:10:46Z"
       },
       {
+        "number": 3840,
+        "title": "fix(consensus/propagation): [high] check the stored identity when gossiping a compact block",
+        "url": "https://github.com/celestiaorg/celestia-core/pull/3840",
+        "repo": "celestia-core",
+        "author": "rootulp",
+        "authorCategory": "coworker",
+        "reviewer": "ninabarbakadze",
+        "requestedAt": "2026-11-27T00:22:02Z"
+      },
+      {
         "number": 8651,
         "title": "fix(fibre): [high] keep upload rows alive until gRPC frees them (backport #8560)",
         "url": "https://github.com/celestiaorg/celestia-app/pull/8651",
@@ -95,6 +105,16 @@
         "authorCategory": "coworker",
         "reviewer": "rach-id",
         "requestedAt": "2026-11-27T00:10:45Z"
+      },
+      {
+        "number": 3840,
+        "title": "fix(consensus/propagation): [high] check the stored identity when gossiping a compact block",
+        "url": "https://github.com/celestiaorg/celestia-core/pull/3840",
+        "repo": "celestia-core",
+        "author": "rootulp",
+        "authorCategory": "coworker",
+        "reviewer": "rach-id",
+        "requestedAt": "2026-11-27T00:22:01Z"
       },
       {
         "number": 8651,
@@ -252,5 +272,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-11-27T00:17:14.593Z"
+  "fetchedAt": "2026-11-27T00:22:13.720Z"
 }
