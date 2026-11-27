@@ -13,16 +13,6 @@
         "authorCategory": "coworker",
         "reviewer": "ninabarbakadze",
         "requestedAt": "2026-11-27T14:14:51Z"
-      },
-      {
-        "number": 3844,
-        "title": "test(consensus/propagation): [low] model the gossip identity check in the Quint model",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3844",
-        "repo": "celestia-core",
-        "author": "rootulp",
-        "authorCategory": "coworker",
-        "reviewer": "ninabarbakadze",
-        "requestedAt": "2026-11-27T16:37:11Z"
       }
     ],
     "rach-id": [
@@ -85,16 +75,6 @@
         "authorCategory": "coworker",
         "reviewer": "rach-id",
         "requestedAt": "2026-11-27T15:03:23Z"
-      },
-      {
-        "number": 3844,
-        "title": "test(consensus/propagation): [low] model the gossip identity check in the Quint model",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3844",
-        "repo": "celestia-core",
-        "author": "rootulp",
-        "authorCategory": "coworker",
-        "reviewer": "rach-id",
-        "requestedAt": "2026-11-27T16:37:10Z"
       }
     ],
     "renaynay": [
@@ -282,5 +262,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-11-27T16:38:44.593Z"
+  "fetchedAt": "2026-11-27T16:43:45.121Z"
 }
