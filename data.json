@@ -97,16 +97,6 @@
         "requestedAt": "2026-11-26T18:05:57Z"
       },
       {
-        "number": 3839,
-        "title": "test(consensus/propagation): [low] add Quint model and trace replay for the compact-block hand-off",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3839",
-        "repo": "celestia-core",
-        "author": "rootulp",
-        "authorCategory": "coworker",
-        "reviewer": "rach-id",
-        "requestedAt": "2026-11-27T00:10:45Z"
-      },
-      {
         "number": 3840,
         "title": "fix(consensus/propagation): [high] check the stored identity when gossiping a compact block",
         "url": "https://github.com/celestiaorg/celestia-core/pull/3840",
@@ -302,5 +292,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-11-27T10:13:12.081Z"
+  "fetchedAt": "2026-11-27T10:18:12.772Z"
 }
