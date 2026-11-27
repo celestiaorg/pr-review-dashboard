@@ -25,16 +25,6 @@
         "authorCategory": "coworker",
         "reviewer": "rach-id",
         "requestedAt": "2026-11-27T13:26:37Z"
-      },
-      {
-        "number": 8825,
-        "title": "feat: [medium] report active validator binary versions over OTLP",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/8825",
-        "repo": "celestia-app",
-        "author": "damiannolan",
-        "authorCategory": "coworker",
-        "reviewer": "rach-id",
-        "requestedAt": "2026-11-27T14:14:50Z"
       }
     ],
     "renaynay": [
@@ -212,5 +202,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-11-27T18:18:45.842Z"
+  "fetchedAt": "2026-11-27T18:23:45.831Z"
 }
