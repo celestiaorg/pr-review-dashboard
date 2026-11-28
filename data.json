@@ -13,16 +13,6 @@
         "authorCategory": "coworker",
         "reviewer": "ninabarbakadze",
         "requestedAt": "2026-11-27T14:14:51Z"
-      },
-      {
-        "number": 3845,
-        "title": "feat(p2p): [low] advertise the ABCI app release",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3845",
-        "repo": "celestia-core",
-        "author": "rootulp",
-        "authorCategory": "coworker",
-        "reviewer": "ninabarbakadze",
-        "requestedAt": "2026-11-28T00:05:12Z"
       }
     ],
     "rach-id": [
@@ -35,16 +25,6 @@
         "authorCategory": "coworker",
         "reviewer": "rach-id",
         "requestedAt": "2026-11-27T13:26:37Z"
-      },
-      {
-        "number": 3845,
-        "title": "feat(p2p): [low] advertise the ABCI app release",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3845",
-        "repo": "celestia-core",
-        "author": "rootulp",
-        "authorCategory": "coworker",
-        "reviewer": "rach-id",
-        "requestedAt": "2026-11-28T00:05:11Z"
       }
     ],
     "renaynay": [
@@ -182,5 +162,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-11-28T00:09:11.514Z"
+  "fetchedAt": "2026-11-28T00:14:11.588Z"
 }
