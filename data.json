@@ -124,6 +124,15 @@
       "author": "damiannolan",
       "authorCategory": "coworker",
       "waitingSince": "2026-05-07T13:09:16Z"
+    },
+    {
+      "number": 3846,
+      "title": "feat(p2p): [low] advertise the ABCI app release on v0.42.x",
+      "url": "https://github.com/celestiaorg/celestia-core/pull/3846",
+      "repo": "celestia-core",
+      "author": "rootulp",
+      "authorCategory": "coworker",
+      "waitingSince": "2026-11-28T00:39:02Z"
     }
   ],
   "teamMembers": [
@@ -182,5 +191,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-11-28T00:34:11.816Z"
+  "fetchedAt": "2026-11-28T00:39:11.997Z"
 }
