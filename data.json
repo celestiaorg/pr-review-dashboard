@@ -33,6 +33,26 @@
         "authorCategory": "coworker",
         "reviewer": "ninabarbakadze",
         "requestedAt": "2026-11-28T00:39:11Z"
+      },
+      {
+        "number": 3847,
+        "title": "feat(statesync): [high] restore verified snapshots through RPC when peer slots are full",
+        "url": "https://github.com/celestiaorg/celestia-core/pull/3847",
+        "repo": "celestia-core",
+        "author": "rootulp",
+        "authorCategory": "coworker",
+        "reviewer": "ninabarbakadze",
+        "requestedAt": "2026-11-28T01:14:15Z"
+      },
+      {
+        "number": 8827,
+        "title": "build(deps): [high] enable verified snapshot restore over RPC",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/8827",
+        "repo": "celestia-app",
+        "author": "rootulp",
+        "authorCategory": "coworker",
+        "reviewer": "ninabarbakadze",
+        "requestedAt": "2026-11-28T01:15:44Z"
       }
     ],
     "rach-id": [
@@ -65,6 +85,26 @@
         "authorCategory": "coworker",
         "reviewer": "rach-id",
         "requestedAt": "2026-11-28T00:39:10Z"
+      },
+      {
+        "number": 3847,
+        "title": "feat(statesync): [high] restore verified snapshots through RPC when peer slots are full",
+        "url": "https://github.com/celestiaorg/celestia-core/pull/3847",
+        "repo": "celestia-core",
+        "author": "rootulp",
+        "authorCategory": "coworker",
+        "reviewer": "rach-id",
+        "requestedAt": "2026-11-28T01:14:13Z"
+      },
+      {
+        "number": 8827,
+        "title": "build(deps): [high] enable verified snapshot restore over RPC",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/8827",
+        "repo": "celestia-app",
+        "author": "rootulp",
+        "authorCategory": "coworker",
+        "reviewer": "rach-id",
+        "requestedAt": "2026-11-28T01:15:43Z"
       }
     ],
     "renaynay": [
@@ -144,15 +184,6 @@
       "author": "damiannolan",
       "authorCategory": "coworker",
       "waitingSince": "2026-05-07T13:09:16Z"
-    },
-    {
-      "number": 3847,
-      "title": "feat(statesync): [high] restore verified snapshots through RPC when peer slots are full",
-      "url": "https://github.com/celestiaorg/celestia-core/pull/3847",
-      "repo": "celestia-core",
-      "author": "rootulp",
-      "authorCategory": "coworker",
-      "waitingSince": "2026-11-28T01:14:04Z"
     }
   ],
   "teamMembers": [
@@ -211,5 +242,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-11-28T01:14:12.410Z"
+  "fetchedAt": "2026-11-28T01:19:12.511Z"
 }
